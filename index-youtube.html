@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Educational Video + GenAI Explain Button</title>
+    <link rel="stylesheet" type="text/css" href="css/huh.css">
+    <style>
+       /* Custom styles go here */
+    </style>
+</head>
+<body>
+  
+
+  <div id="player"></div><br/>
+
+  <div id="explanation"></div>
+  <div class="button-container"></div>
+
+
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script type="text/javascript">
+
+    // YouTube video configuration
+    const VIDEO_ID = 'NNnIGh9g6fA'; // Replace VIDEO_ID with the actual ID of the YouTube video
+    // This function creates an <iframe> (and YouTube player) after the API code downloads.
+    let player;
+    function onYouTubeIframeAPIReady() {
+      player = new YT.Player('player', {
+        height: '360',
+        width: '640',
+        videoId: VIDEO_ID,
+        events: {
+            'onStateChange': onPlayerStateChange
+          }
+      });
+    }
+
+    // Huh? button configuration
+    const SERVER_PATH = `https://borisruf.github.io/the-huh-button/api/${VIDEO_ID}/`
+    //const TIMESTAMP_RESOLUTION = 5;
+    const BUTTON_ACTIVATION_DELAY = 10
+    //const BUTTON_DEACTIVATION_DELAY = 15;
+    //const BUTTON1_LABEL = "What??"
+    //const BUTTON2_LABEL = "Whaaaaaat????"
+  </script>
+  <script src="js/huh-youtube.js"></script>
+</body>
+</html>

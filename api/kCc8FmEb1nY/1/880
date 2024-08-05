@@ -1,0 +1,1 @@
+In the last sentence, Andrej opens a text file named 'input.txt', which contains concatenated works of Shakespeare, and is ready to develop a Transformer-based language model using the Tiny Shakespeare dataset. He is in the Colab Jupyter notebook where he has completed some preliminary setup, including downloading the Tiny Shakespeare data set.

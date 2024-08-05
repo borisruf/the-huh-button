@@ -1,0 +1,46 @@
+.styled-button {
+  padding: 10px 20px; /* Add padding to increase the button size */
+  font-size: 16px; /* Increase the font size */
+  background-color: color(display-p3 0.671 0.8452 0.7176); /* Add a background color */
+  color: color(display-p3 0.225 0.245 0.239); /* Change the text color to white */
+  border: none; /* Remove the border */
+  border-radius: 5px; /* Add rounded corners */
+  cursor: pointer; /* Add a pointer cursor on hover */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2); /* Add a shadow effect */
+  transition: 0.3s; /* Add a smooth transition for the hover effect */
+  display:inline-block;
+  margin: 20px 5px; /* Center the button horizontally with some top margin */
+}
+
+.styled-button:hover {
+  background-color: color(display-p3 0.4281 0.5339 0.502); /* Darken the background color on hover */
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2); /* Increase the shadow on hover */
+  color: white;
+}
+
+.styled-button:disabled {
+  background-color: #cccccc;
+  color:#666666;
+  cursor: not-allowed;
+}
+
+#player {
+  width: 60%; /* Set the width of the video to 80% of the screen */
+  display: block; /* Make the video a block element to center it */
+  margin: 0 auto; /* Center the video horizontally */
+}
+
+.button-container {
+  width: 300px;
+  margin:auto;
+  text-align: center;
+}
+#explanation {
+  width:600px;
+  padding: 20px;
+  background-color: color(display-p3 0.4281 0.5339 0.502);
+  font-family: sans-serif;
+  color: white;
+  margin:auto;
+  display: none;
+}
