@@ -1,1 +1,9 @@
-Andrej ended his introduction by saying he downloaded a data set known as "Tiny Shakespeare" from a particular URL. He mentions that the data set is approximately one megabyte big and will be using this data to train the AI model he'll be demonstrating. This means he will use this compact collection of Shakespeare's works to help his AI learn, much like teaching a student using a textbook.
+This person is presenting on ChatGPT, an AI system that interacts with users and completes text-based tasks, acting like a 'language model'. The person gives various examples of the funny or clever outputs the AI can generate when given different prompts. 
+
+He then moves on to discuss the underlying systems of ChatGPT, including its reliance on the Transformer neural network, which was a significant focus in a 2017 AI research paper called "Attention is All You Need". 
+
+They explain that they can't exactly replicate Chat GPT due to its complex nature, but they will aim to use a Transformer-based language model to create something similar on a smaller scale. Instead of using data trained from a large chunk of the Internet, they'll use a smaller dataset called 'Tiny Shakespeare' which includes all of Shakespeare's works. 
+
+The goal is to train this mini-model to predict the next likely character in a sequence of Shakespeare's text. This way, they can generate 'infinite Shakespeare' or essentially, new text that resembles Shakespeare's language. 
+
+The presenter has already created a GitHub repository for this project, called Nano GPT, and will now walk viewers through reconstructing these transformers from scratch in the tutorial.

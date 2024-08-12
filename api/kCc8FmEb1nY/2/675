@@ -1,1 +1,5 @@
-Andrej is explaining that he will be demonstrating how to build an AI language model using a simpler Transformer network. For his example, he will use a dataset called 'Tiny Shakespeare' which includes all the works of Shakespeare. The goal of his demonstration is to predict the sequence of characters in the Shakespeare's works, and thus generate an infinite amount of Shakespeare-like language. Andrej noted that this method of producing AI-generated writing mirrors that of ChatGPT, which uses a more complicated Transformer-based system. Andrej has already written the code to train these Transformers, which can be found in his GitHub repository named 'nano GPT'.
+The speaker is describing the process in which he is using the computer programming language known as Python in a Google Colab notebook to train an artificial intelligence model called a transformer. This is using a toy dataset composed of all the works by the playwright Shakespeare, commonly referred to as 'Tiny Shakespeare'. 
+
+The process involves making the transformer predict the next character in a sequence, given a context of characters. After sufficient training, the transformer can generate text that resembles Shakespeare's writing. 
+
+"Here, I open the input" likely refers to the speaker initiating the process by feeding the Tiny Shakespeare data into the transformer.
