@@ -1,1 +1,11 @@
-In the provided context, it seems that "I open the 'input" is referring to the speaker opening or accessing an input file or data source where the Tiny Shakespeare dataset is stored. This step is often necessary in order to interact with, process, or analyze the data contained within that file.
+The speaker discusses the workings of Chat GPT, an AI model that responds to text-based tasks with varied responses. He notes that it's a probabilistic system, giving different answers to the same prompts.
+
+The speaker breaks down some of the underlying architecture of Chat GPT, specifically, the Transformer network that fuels its ability to generate replicable language. He then proposes a simplified exercise for explaining how these system works at their core — training a Transformer-based language model on a dataset called 'Tiny Shakespeare,' which holds all of Shakespeare's works in one file.
+
+Upon training, this model should be able to generate text that resembles Shakespeare's writing style. While this model operates on a character by character level, ChatGPT operates on a token by token level (sub-word pieces), which is more complex.
+
+The speaker also discloses a GitHub repository, where he's written code to train these Transformers on any given text. He mentions the goal is to help viewers understand better how Chat GPT works.
+
+He proceeds to provide an overview of tokenization, the process of converting raw text into sequences of integers, using different tokenization methods. For this particular exercise, he settles for a character-level tokenization for simplicity, taking into account the trade-off between vocabulary size and sequence length.
+
+Towards the end of the excerpt, the speaker mentions partitioning the data set into training and validation sections. Putting aside the validation data helps them assess to what extent their model is overfitting — or excessively tailored to — the specific data it's trained on.

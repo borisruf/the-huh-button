@@ -1,1 +1,7 @@
-The speaker is talking about a system known as ChatGPT which is a type of artificial intelligence. This system can take a small piece of information, or 'sequence', given to it and then generate or 'complete' more information from it. This is done in a random or 'probabilistic' way, so that every time the same sequence is given, it can produce a slightly different result. This is useful for generating varied and creative responses, like writing a poem or a news article.
+The speaker is discussing an artificial intelligence (AI) system called ChatGPT, which can generate text based on a prompt or starting point. He mentions that it can give multiple responses to a single prompt, and it can be used for creating various types of text, such as news articles or explanations.
+
+He then explains that he wants to create a similar model to ChatGPT for educational purposes. But instead of using all the information on the internet as the training data, he plans to use a dataset called 'Tiny Shakespeare', which consists of all of Shakespeare's works.
+
+He emphasizes that the model will be a simple one, which can predict the next character in a sequence based on the previous characters. After training the model on this dataset, it should be able to generate text that resembles Shakespeare's writing.
+
+However, the speaker apologizes because there might be some mistakes or 'junk' in the generated text that he can't perfect or get rid of.

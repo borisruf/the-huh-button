@@ -1,1 +1,7 @@
-This person is about to open and read from a file named "input." This is part of a process done in coding or programming where the code retrieves data from the file for use or manipulation. This could be any kind of data, like text, numbers, etc., depending on what is within the file and what is needed for the task.
+The phrase you mentioned is about getting all unique characters used in a text, listing them, and then arranging them in a certain (adjustable) order. Here is a breakdown for you:
+
+1. "When I call the set constructor on it, I'm just going to get the set of all the characters that occur in this text." - This means that we are creating a set from our text. In Python, a set is like a list, but it only keeps unique values, so any repeated characters are removed.
+
+2. "And then I call 'list' on that to create a list of those characters instead of just a set" - This means that we are now converting the set back into a list. We do this because we want to be able to sort the characters, and you can't sort a set.
+
+3.  "so that I have an ordering - an arbitrary ordering - and then I sort that" - Here we caused our list to be sorted. Doing this puts all the characters in the text into a recognizable order, making it easier for us to work with them later.

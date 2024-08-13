@@ -1,1 +1,7 @@
-ChatGPT is like a computer program that knows how words are arranged in English. When I provide it the beginning part of a sentence or story, it can guess what comes next and write the rest of it. This is called completing a sequence. The interesting part is that it can give different endings for the same beginning part, which makes its responses a bit unpredictable.
+The speaker is talking about an AI system known as ChatGPT, which uses Artificial Intelligence that can generate various responses to text-based tasks. Chats can be humorous, formal, or serve many other purposes. This system works by modeling how words follow each other in the English language. 
+
+They refer to a paper from 2017 titled "Attention is All You Need", which introduced the Transformer architecture. Transformers are the foundation of the ChatGPT system, playing a crucial part in making the application work effectively. 
+
+Despite the complex nature of these systems, the speaker plans to create a simple version of a Transformer-based language model using a small dataset called 'Tiny Shakespeare'. They aim to teach the system to predict the next character in a given sequence from the dataset. The goal is to generate text that has a similar style to Shakespeare's works. 
+
+The speaker has created a repository called Nano GPT that contains the code needed to train transformers on any text, helping people understand more about how they work.

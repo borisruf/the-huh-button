@@ -1,9 +1,9 @@
-This person is presenting on ChatGPT, an AI system that interacts with users and completes text-based tasks, acting like a 'language model'. The person gives various examples of the funny or clever outputs the AI can generate when given different prompts. 
+This text explains how chatbots work, where users can chat with an Artificial Intelligence (AI) and give it text-based tasks. In this case, the AI is programmed to respond differently to each prompt. 
 
-He then moves on to discuss the underlying systems of ChatGPT, including its reliance on the Transformer neural network, which was a significant focus in a 2017 AI research paper called "Attention is All You Need". 
+The text then goes on to explain that this chatbot, called ChatGPT, uses a language model to predict the next sequence of words based on previous input. This language model is based on a method called the Transformer, which was created in a 2017 research paper titled "Attention is All You Need".
 
-They explain that they can't exactly replicate Chat GPT due to its complex nature, but they will aim to use a Transformer-based language model to create something similar on a smaller scale. Instead of using data trained from a large chunk of the Internet, they'll use a smaller dataset called 'Tiny Shakespeare' which includes all of Shakespeare's works. 
+To train this Transformer-based language model, they use much simpler text, like the works of Shakespeare, to predict how characters follow each other. This method helps in understanding and appreciating how such AI chatbots work. 
 
-The goal is to train this mini-model to predict the next likely character in a sequence of Shakespeare's text. This way, they can generate 'infinite Shakespeare' or essentially, new text that resembles Shakespeare's language. 
+The text is then converted into a sequence of integers by a method called tokenization. There are various types of tokenization, like character level, sub-word level, etc. This process helps the AI to understand and process the text better. The goal is to understand how AI chatbots like ChatGPT work. 
 
-The presenter has already created a GitHub repository for this project, called Nano GPT, and will now walk viewers through reconstructing these transformers from scratch in the tutorial.
+Lastly, the text indicates that only the preliminary step of downloading and reading the text data set is completed. The next step will be converting this text to a sequence of integers or tokenizing.

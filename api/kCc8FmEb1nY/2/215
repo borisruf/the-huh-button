@@ -1,1 +1,5 @@
-ChatGPT is a type of artificial intelligence that can generate text based on a prompt given to it. Think of it like playing 'complete the sentence' game. You start with some words (the prompt), and it writes the rest of the sentence or paragraph. The cool part is that it can give different responses each time you give it the same prompt. So, it's a fun tool but also helpful for tasks like writing poems, explain big topics in a funny way, or even make up imaginary news articles.
+The speaker in this context explains that they plan on creating a simple version of a language model that works similarly to ChatGPT. ChatGPT is a powerful system that uses AI to generate different responses based on the text input you give it. It learns from large amounts of text data to understand how words follow each other in English. 
+
+To give a better understanding of how systems like ChatGPT work, the speaker aims to build a 'Transformer-based language model'. In this case, it will work with individual characters, rather than words or phrases. This means the model will generate a sequence based on character inputs, rather than trying to understand the context of whole words or sentences.
+
+Even though this proposed model is more simplified, it will still give an idea about how these AI systems function on a basic level.

@@ -1,7 +1,1 @@
-In this passage, the speaker explains the concept of AI and gives a broad explanation of OpenAI's ChatGPT system. They mention that it is capable of generating human-like text in response to different prompts. The author then goes on to talk about the 'Transformer' architecture that powers the ChatGPT system.
-
-The speaker then discusses creating a simplified version of the ChatGPT system using the 'Tiny Shakespeare' dataset instead of the entire internet. This simplified system would be able to predict the next character in a sequence, based on the characters it had been given, effectively replicating how a character sequence would appear in Shakespeare's works. 
-
-They also mention that they've already developed and published the code for training these "Transformers" in a GitHub repository called NanoGPT.
-
-The speaker then explains how they'll be using a Google Colab Jupyter notebook to develop new code for the Transformer and subsequently train it on the Tiny Shakespeare dataset. The speaker finishes the statement by saying, "Here, I open the "input"", which suggests they are about to start with the input data in the following coding session.
+This phrase is meant to introduce a detailed explanation or walkthrough of the code the speaker has been discussing. He will discuss what the code does and why it operates that way, explaining how it contributes to the broader goal of creating a simple language model based on the Transformer architecture. The current part of the discussion is about how characters from the Shakespeare text input are converted into integers using an encoder and decoder.

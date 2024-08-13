@@ -1,1 +1,7 @@
-ChatGPT is a tool that can generate text. If you give it the beginning of a series or pattern of words, it can finish it for you with a fitting result. Just like when you start to draw a line, it can complete the drawing for you.
+In simple terms, the speaker is discussing a type of artificial intelligence called Chat GPT, which learns from predictive modeling of the sequence of words. With this tool, they can ask it to perform various language-based tasks, and it will provide answers based on likely sequences of words. The speaker puts forward examples of how it can write different styles of text, from news articles to haiku poems. 
+
+The speaker then starts explaining how Chat GPT works and mentions a system called 'Transformer' which is a key component of Chat GPT. This 'Transformer' system was introduced in a scientific paper in 2017 and has become a critical part of AI development, influencing many other systems. 
+
+The speaker then moves on to demonstrate the workings of a Transformer using a small data set called 'Tiny Shakespeare'. This data set is made up of all of Shakespeare's works. By learning from the character sequence in this data, the AI can be trained to create text that appears Shakespearean.
+
+The speaker wraps up by explaining that they have already developed code that teaches Transformers using any text and shares that this code can be used by others interested in learning about AIs and how they generate text. They end by mentioning that they have downloaded the 'Tiny Shakespeare' dataset to start practical demonstration.

@@ -1,1 +1,7 @@
-In the given text, the author is going to use a specific data set, called 'Tiny Shakespeare', to train a type of Artificial Intelligence (AI) system known as a Transformer. The AI is trained to model or predict the sequence of characters in Shakespeare's works. After the training, this AI should be able to generate text that resembles the language used by Shakespeare. This whole process is a simplified example to help us understand how a more complex AI system, like ChatGPT, works.
+This text is essentially explaining the process of creating an interactive AI model, ChatGPT. The model uses language patterns in English to generate words and provide responses to certain prompts. It is powered by a neural network known as the Transformer, which was first proposed in a research paper called "Attention is All You Need".
+
+The speaker then discusses how to develop something similar to ChatGPT model using a simpler dataset known as Tiny Shakespeare. This is essentially all the works of Shakespeare in a single file, which then the model uses to predict the sequence of characters.
+
+Next, the speaker talks about creating a character-level language model. This involves learning how to predict what character is likely to come next based on the previous characters. The goal is to form words and sentences that look like Shakespeare’s language. 
+
+The final part discusses the initial steps of creating this model: downloading the Tiny Shakespeare database, defining the possible characters (vocabulary) that the model can recognize, and creating a strategy to tokenize, or break down, the input text.

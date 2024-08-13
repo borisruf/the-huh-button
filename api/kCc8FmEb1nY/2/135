@@ -1,1 +1,5 @@
-This means that the AI is given the beginning part of a series or a pattern, and based on that input, the AI predicts and generates what comes next to finish the series or pattern.
+A 'landmark paper' refers to a very important study or project that reveals a great discovery or significant achievement. In this case, the paper "Attention is All You Need" is a landmark paper published in 2017. The paper introduced a new concept in AI, called the Transformer architecture.
+
+Previously, a common way for AI to respond to your prompt was to generate responses from left to right, one word after the other. But the Transformer architecture does things differently. To simplify, let's imagine your prompt is a photo. The old AI would look at each part of the photo in a set order to decide what it shows. The Transformer architecture, however, would look at the entire photo at once, which often leads to a better and faster understanding.
+
+That's why this landmark paper was so important - it revolutionized the way AI responds to your prompts. So when you ask ChatGPT (the AI being talked about here) for a haiku about AI, it uses its Transformer architecture to generate creative, accurate responses.

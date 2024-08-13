@@ -1,1 +1,9 @@
-In this context, the speaker is in the process of preparing a data set for training an artificial intelligence model. "Open" refers to the action of accessing a file, "input.txt" in this case. This file contains all of the works of Shakespeare which will be used as the data set for training an AI model. The speaker is essentially stating that this is the file they are going to be working with and inputting to the AI training program.
+In this lengthy conversation, a language model (Chat GPT) is being trained to generate language similar to Shakespeare's works. The training process involves encoding and decoding the words from the text. 
+
+The raw text is translated into a set of integers - this process is called tokenizing. The mapping from the text to integers is stored in a lookup table, which allows for decoding later. 
+
+In this case, each character from the text is considered to be one token, so every individual character is replaced with an integer. This is a simple method of tokenizing, but there are also more complex methods that can be used. 
+
+For example, another method involves using sub-word units instead of individual characters. This means that sequences of characters or parts of words can be tokenized, rather than just single characters. This method can be more useful as it allows the model to understand the text at a higher level. 
+
+Both the encoding and decoding processes are necessary for training a language model effectively. It allows the AI to understand the text and generate similar language.

@@ -1,1 +1,7 @@
-The speaker is opening a file named "input", presumably containing the text data from the 'Tiny Shakespeare' dataset that will be used as training data for the Transformer neural network. This is part of the process of preparing the data, cleaning it, and loading it into the system for further training and analysis.
+A tokenizer in natural language processing (NLP) is a tool that splits the input into smaller parts called tokens. These tokens can be individual words, phrases, or even individual characters. The choice of tokens depends on the nature of the problem and the data. The text "Hi there," for example, could be tokenized into two tokens ("Hi", "there") or into eight character-level tokens ("H", "i", " ", "t", "h", "e", "r", "e"). 
+
+In the context of deep learning and AI language models like ChatGPT, tokenization helps to break down the given text input into tractable pieces that the model can learn to predict. In the example given, the character-level tokenizer was used, resulting in a relatively smaller codebook or 'vocabulary' of possible outputs.
+
+However, in practice, AI models often make use of sub-word level tokenizers which offer a compromise between character-level tokenization (which can result in very long sequences) and word-level tokenization (which can result in very large vocabularies). An example of sub-word tokenization is Google's 'sentence piece' tokenizer which groups chunks of characters into sub-word units. 
+
+Overall, tokenization is an essential step in NLP tasks and directly influences the complexity and performance of the resulting model.

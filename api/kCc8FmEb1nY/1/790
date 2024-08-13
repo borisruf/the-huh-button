@@ -1,1 +1,5 @@
-The phrase "Here, I open the "input" refers to the speaker's next action in the Google Colab notebook. This likely involves opening the file that contains the Tiny Shakespeare dataset. The phrase indicates that the speaker will now proceed to load this data into their environment to later feed it into their model and begin training the Transformer.
+When training a machine-learning model, it's common practice to divide the given data into two or more subsets. The model is initially trained on the largest subset, known as the training dataset. The model's performance is then evaluated on the remaining smaller subset(s), typically referred to as the validation set (sometimes also called the development set). 
+
+The validation set helps determine the optimal configuration of the model (e.g., its hyperparameters). One can also use a test set for final evaluation, after all learning and tuning has completed. 
+
+In this context, the person wants to divide their data into a training set and a validation set. This will allow them to train their AI model on the training set, and then evaluate its performance on the validation set. They can then tweak the model's parameters based on its performance on the validation set, for instance, to prevent overfitting to the training data.

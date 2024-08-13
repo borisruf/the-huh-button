@@ -1,1 +1,5 @@
-This means that you give the AI a set of items or actions in a certain order (known as a sequence), and it predicts or determines what comes next in the order. For example, if you start a sentence and give it to the AI, it will finish the sentence for you.
+The transformer is an artificial intelligence architecture that was introduced in a landmark paper titled "Attention is All You Need" back in 2017. This architecture is responsible for modeling the sequence of words or tokens in a language. Transformer has significantly contributed to the field of artificial intelligence, and it's been used in various applications, including ChatGPT, a system that uses natural language processing to interact with users. 
+
+In this context, a transformer is used to train a language model. For instance, by using the transformer architecture, you could train a character-level language model on 'Tiny Shakespeare', a compilation of all the works of Shakespeare. The trained model can then predict what character is likely to come next in a sequence, imitating the language style of Shakespeare. 
+
+The code to train these transformers can be found in a GitHub repository called 'nano GPT'. The repository includes two files: one that defines the transformer model (GPT or generatively pre-trained Transformer) and another that trains the defined model on a given text dataset.

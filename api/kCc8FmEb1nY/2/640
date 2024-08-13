@@ -1,1 +1,5 @@
-Opening the "input" refers to accessing a file or dataset that the programming code will use. In this context, the speaker is likely about to open a file named 'input' that contains the dataset (Tiny Shakespeare) they plan to use to train the 'Transformer' language model they are building. The term "open" is commonly used in programming to indicate when a file is being accessed or used.
+This part of the text explains the tasks of a tokenizer. A tokenizer is a tool in natural language processing (NLP) that converts text into a list of units called tokens. In this particular explanation, the tokenizer being used is operating at a character-level, which means it breaks down the text into separate characters.
+
+The example given was the text 'hi, there', which the tokenizer broke down into a list of integers that represent each character of the input text. This process is also reversible – the list of integers could be translated back into the original text.
+
+A different method of tokenizing mentioned here is a 'sentence piece' tokenizer, commonly used by Google, which breaks down the text into 'sub-words' or keywords. For instance, the words 'football', 'foot' and 'ball' might be tokenized differently, so that each integer represents a more significant piece of the text instead of a single character.

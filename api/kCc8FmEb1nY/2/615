@@ -1,1 +1,5 @@
-In this context, "here, I open the input" likely refers to the speaker starting to load or read the 'Tiny Shakespeare' dataset that they will use to train their Transformer neural network language model. They are beginning to process the sequence of characters or 'input' data from the dataset.
+This explanation is about how we use a process called encoding to translate or convert all the characters in a text into a sequence of numbers. Each character is assigned a unique number. Once we have translated all the characters into these numbers, we can easily work with the text in mathematical models, like those used in artificial intelligence (AI). 
+
+When we want to convert the numbers back into text, we use a reverse process called decoding. We use the unique number assigned to each character to find its corresponding character in our original text. By combining all these characters together in their original order, we can restore the original text. 
+
+For instance, imagine we have a text that says "hi there". Each character in that text, including the space, is assigned a unique number. The text is then converted or 'encoded' into a sequence of these numbers. When we want to read the text once more, we 'decode' the numbers back into their corresponding characters, reconstructing the original text "hi there".

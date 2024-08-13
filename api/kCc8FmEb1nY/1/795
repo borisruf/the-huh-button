@@ -1,1 +1,5 @@
-In this context, the presenter is referring to opening the input file which contains the data he is planning to feed into the AI system to train it. Particularly, he's planning to use the "Tiny Shakespeare" dataset, a concatenation of all of Shakespeare's works, to teach the AI how to generate text that resembles the works of Shakespeare. The phrase "Here, I open the 'input" is stating the beginning of the action of loading this data into the program to be processed.
+Separating a data set into a training and validation split involves dividing the available data into two distinct sets. The training set is used to train a model, in this case, a machine learning model, while the validation set is used to evaluate the performance of the model. 
+
+In this case, the data set is the text from the complete works of Shakespeare, and the idea is to use a part of it to train the language model (i.e., the Transformer) and the remaining part to verify how effectively the model has learnt to predict the sequence of characters (which is the essence of a language model). 
+
+Implementing such a split not only helps in determining the capabilities and limits of the model (i.e., how well the model generalizes to unseen data), but it also aids in preventing potential model overfitting, where a model might perform exceedingly well on the training data but poorly on new data.

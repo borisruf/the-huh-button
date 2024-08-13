@@ -1,1 +1,7 @@
-The given explanation is talking about an artificial intelligence system, known as ChatGPT. When it is presented with a series of words, or a sequence, it predicts or generates the rest of the sequence based on its programming. So you start off a sequence and the AI will finish it for you.
+The speaker discusses ChatGPT, a type of artificial intelligence system that can create text based on prompts provided by the user. This system can come up with a variety of responses, often with humorous or unexpected results. It is based on the Transformer, a type of neural network that can predict a sequence of words.
+
+In this specific tutorial, the speaker wants to show how to create a simple version of a Transformer-based language model, similar to ChatGPT, but on a smaller scale. They will use a dataset called 'Tiny Shakespeare', which contains all of Shakespeare's works. They aim to train this model to predict the next character in a sequence, therefore reproducing the language style of Shakespeare.
+
+The speaker has already written the code for this exercise and placed it in a GitHub repository, called Nano GPT. Their objective in this video is to begin from a blank file and walk through defining a Transformer and training it on the Tiny Shakespeare dataset, with the ultimate aim being able to generate infinite text in the style of Shakespeare.
+
+The prerequisites for following along are proficiency in Python, a basic understanding of calculus and statistics and knowledge from the speaker's previous videos on language modeling. The speaker encourages people to follow along with the code in a Google Colab notebook, the details of which will be shared later in the video description.

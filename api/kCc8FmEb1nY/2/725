@@ -1,3 +1,9 @@
-The speaker in the context is talking about creating a language model that can generate text similar to Shakespeare's work using a machine learning model called a 'Transformer'. They explain that by training this model on all of Shakespeare's works (the 'Tiny Shakespeare' dataset), the model can learn how characters sequentially follow each other in the English language of Shakespeare's writings. Then, given a sequence of characters, the model can predict the most likely next character based on the patterns it analyzed during training. 
+This is a discussion about an AI system, Chat GPT. It can generate text based on prompts. For example, it can write poems, jokes, or news reports. This is because it uses a language model to predict what words should follow each other based on a given sequence. This process works because of a system called Transformer, introduced in an AI research paper in 2017. Chat GPT uses Transformer to accurately generate the correct sequence of words.
 
-Towards the end of the text, the speaker reveals plans to write code that will define and train this Transformer model from scratch using Python and a open-source Jupyter notebook. The corpus of information required for this includes an understanding of Python, basic calculus and statistics, and familiarity with previous videos from their YouTube channel that introduce language modeling framework.
+The goal in the discussion is to recreate a version of the Transformer system, but on a smaller scale and using text from William Shakespeare's works, also known as 'Tiny Shakespeare'. This system is trained to generate text by predicting the next character in a Shakespeare text based on previously seen characters.
+
+The characters in the text are tokenized, which means they are converted into integers so that they can be processed. This can result in long sequences of integers because each character is treated as a separate token.
+
+But keep in mind, this discussion is aimed at simplifying the complexities involved in building the real-life AI system, Chat GPT, which is functionally more complex and trained on a larger amount of internet data.
+
+The goal is to give listeners a practical understanding of how systems Like Chat GPT generate human-like text based on given prompts.

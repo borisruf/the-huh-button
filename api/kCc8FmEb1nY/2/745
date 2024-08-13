@@ -1,2 +1,9 @@
-The author was discussing how the AI system, ChatGPT works. He explained that it's a language model that simply completes sequences of words or characters given to it in a prompt. He elaborated on the 'Transformer' architecture used in ChatGPT which he explained takes words from a prompt, and generates more words to complete the prompt. He gave examples of how ChatGPT could be used and then proposed to train a similar model based on a data set called 'Tiny Shakespeare'. This would mimic the workings of ChatGPT but on a smaller scale, predicting character sequences. He explained how the model learned from the data to generate 'Shakespeare-like' language. He had already written this code, which is available on his Nano GPT GitHub repository, and planned to recreate it in a Google Colab Jupyter notebook during a lecture. 
-While explaining this, he said, "Here, I open the "input," probably referring to the start of his coding session where he would open the 'input' data file containing the 'Tiny Shakespeare' dataset to train the model.
+The speaker wants to create a simplified version of the AI model Chat GPT, using the PyTorch library and a character-level language model. The speaker plans to train this model using a dataset called 'Tiny Shakespeare', a text file containing all of Shakespeare's works. 
+
+The ultimate goal is to be able to predict characters in the text based on the given sequence of characters. 
+
+Before training the model, the text data needs to be tokenized, which is the process of converting raw text into a sequence of integers. This process allows the model to understand and work with the text data. 
+
+The speaker notes that for this exercise, a character-level tokenizer will be used, although sub-word or word-level tokenizers could be used in practice. 
+
+Once the text is tokenized, it can be converted into a PyTorch tensor, which will be used to train the model.

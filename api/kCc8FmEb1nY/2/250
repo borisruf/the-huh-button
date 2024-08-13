@@ -1,1 +1,5 @@
-This is saying that when you give the AI, ChatGPT, the beginning of a sentence or a phrase, it produces the rest of the sentence or phrase. It's like starting a puzzle and letting the program finish it using its understanding of language and context. Similar to when you start a story and let someone else complete it, this AI does something similar, but with texts.
+This text is talking about an artificial intelligence (AI) system called ChatGPT. This AI can generate text when given a prompt or starting point. It works by understanding how words follow each other in English. The AI can generate different results each time, even when given the same prompt.
+
+The text then talks about the technology behind ChatGPT, which draws from a 2017 landmark paper called "Attention is All You Need". This paper introduced the Transformer architecture, which is the brain behind the AI model. 
+
+The author then suggests a learning exercise to understand more about the AI. They want to train a Transformer-based language model using Shakespeare's works. The aim of this exercise is to understand how the AI predicts and generates subsequent characters based on given characters or context from the past.

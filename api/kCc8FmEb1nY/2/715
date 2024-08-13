@@ -1,1 +1,7 @@
-The phrase "Here, I open the input." refers to the speaker preparing to read or utilize the data from the Tiny Shakespeare dataset. The dataset is being opened for further analysis or manipulation, in this case, to train AI on it. This part of the process is significant because accessing the data is the first step before any computational analysis or learning algorithms can be applied to it.
+"Tokenizer" is a coding term typically used in natural language processing and machine learning. It is used to divide a string of text into individual words or tokens. These words or tokens can be used to analyze the text or feed it into a machine learning model.
+
+What we mean by 'small code books' is that our method of tokenizing is very simple. Our 'code book' only consists of individual characters, giving us only around 65 'tokens' for English. So for instance, the word 'Hello' would be broken down into 'H', 'e', 'l', 'l', 'o'.
+
+However, because we're only breaking down texts into single characters, our sequences can get very long. So, a sentence like 'Hello there' has 11 characters, including the space, and so it becomes a sequence of 11 tokens. 
+
+In summary, 'tokenizing' is a way of breaking down a text into parts - in our case, individual characters. Our method gives us a small 'code book' (only around 65 characters for English) but can result in long sequences (as every character becomes a separate token).

@@ -1,1 +1,11 @@
-In this context, the speaker is saying he or she is going to open an "input" file. In the world of programming, an input file is usually a file from which a program reads data needed for it to execute. This data can be anything – a text, numbers, images, and so on. In this case, the speaker has downloaded the 'Tiny Shakespeare' dataset which is one such input file and now he/she is saying they are going to open this input file.
+The speaker begins by explaining ChatGPT, a language model system that uses artificial intelligence to complete tasks such as writing poetry or answering prompts in a conversational manner. He mentions how this system models sequences of words and characters to generate responses.
+
+He then introduces the topic of Transformers, a type of neural network that is crucial to the functioning of ChatGPT. Transformers were created by a ground-breaking AI research paper in 2017, and have since been used across a variety of applications in AI.
+
+The speaker then outlines his goal for the tutorial: to train a smaller, simpler version of a language model similar to ChatGPT. This training will be done on a small dataset called "Tiny Shakespeare", which contains the concatenated works of Shakespeare.
+
+The speaker explains how a Transformer neural network will learn to predict the next character in a sentence by looking at the characters that have come before it. Once trained, the system will be able to generate text in the style of Shakespeare.
+
+To prepare the text data for training, the speaker tokenizes the text, converting each character into a corresponding integer value. This process simplifies the input for the model. He then explains different tokenization methods and the tradeoffs between them.
+
+The tutorial concludes with the conversion of the entire "Tiny Shakespeare" text into a sequence of integers using PyTorch, a popular machine learning library. This process prepares the text data for training the model.

@@ -1,1 +1,3 @@
-The speaker is referring to opening a text file called 'input.' They are using a command in Python to open this file, which likely contains the 'Tiny Shakespeare' dataset they mentioned earlier. This dataset will be used to train the neural network.
+The text is saying that text such as "hi there" can be converted into a series of numbers which represent the characters in the text. This process is called encoding. For example, the letter "h" might be represented by the number 46 and the letter "i" could be represented by the number 47.  
+
+The explanation is part of a wider context where the speaker is explaining the workings of a tool called ChatGPT, which is an artificial intelligence system that can generate text when given a prompt. The encoding process is part of how the AI models and generates text.

@@ -1,1 +1,9 @@
-This means that user provides an initial input, or "a start of a sequence," to the AI system (in this case, ChatGPT). This input could be a sentence, phrase or even a single word. Based on this input, the AI system generates the rest of the text or "completion of sequence." The generated response by the AI is the "outcome." The technology behind AI system has learned from various data sources on how words and ideas are likely to follow the initial input, enabling it to generate a coherent and contextually suitable outcome.
+This large piece of text explains how ChatGPT works. ChatGPT is a system that uses a probabilistic model to complete pieces of text with many potential outcomes. The text illustrates this with various amusing examples.
+
+The primary focus here is on the concept of a language model, a system that can predict what word or character will come next in a sequence. ChatGPT uses Transformer, a type of neural network for prediction, which was proposed by a 2017 paper titled "Attention is All You Need". This paper has had a significant impact on AI in the years following its publication, and the techniques it presented are widely used in AI models today.
+
+The author proposes a brief demonstration of how Transformer works by using it to create a character-level language model. To do this, they use the "Tiny Shakespeare" dataset, which is essentially a collection of every work Shakespeare ever wrote, and train the model to predict the next character based on previous sequences. 
+
+Once trained, the system is capable of generating an infinite amount of Shakespeare-like text. Although not perfect, it shows the capabilities of the system to emulate the patterns and syntax present in Shakespeare's work. 
+
+The author also mentions a repository they have created on GitHub which holds the necessary code to train Transformers on given text datasets, and suggests that looking through it could be beneficial. They then prepare to walk through creating a Transformer model from scratch using a Jupyter notebook and Python.

@@ -1,1 +1,9 @@
-The speaker is about to open a text file that contains the data they will be working with. The word "input" refers to this text file, which is often called an "input file". The speaker will read the data from this file to use in their coding work to demonstrate how to train a Transformer-based language model.
+The speaker initially talks about ChatGPT, an artificial intelligence system that uses a language model to complete text-based tasks. These tasks involve completing phrases or making up texts based on prompts given by the user. Its varying responses show that it works probabilistically.
+
+The speaker then introduces the idea of a 'Transformer', a type of neural network that plays a crucial role in how the AI system functions. According to the speaker, the Transformer acts by completing sequences of words or characters given to it.
+
+Using Shakespeare's works as a dataset to train a language model, the speaker demonstrates how the Transformer completes sequences of characters, producing text that mirrors the language and style of Shakespeare's plays.
+
+In terms of practical use, the speaker refers to their GitHub repository which contains code that can be used to train Transformers using any given text. This code can be used to create similar AI models like ChatGPT with different datasets.
+
+The speaker then explains how the language model processes raw text by converting it into sequence of integers (also known as encoding) using a specific character to integer mapping or 'vocabulary'. This process of 'tokenization' turns the raw text (like "hi there") into a series of numbers, where each number represents a unique character in the input string. Characters are replaced by their respective integer values from the vocabulary during encoding, and this process is reversed to get back the original text during decoding.

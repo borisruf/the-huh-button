@@ -1,1 +1,7 @@
-This paragraph is essentially explaining that while understanding the workings of Chat GPT (an artificial intelligence "chatbot") may seem complicated, one can simplify it by considering a smaller dataset. The author uses a dataset of all of Shakespeare's works, called 'Tiny Shakespeare', and is saying that they will train the AI model or 'Transformer' (term coined in the paper "Attention is All You Need") to predict what character (letter) comes next in a sequence of characters from this dataset. By doing this, they are hoping to show how the AI logic works in predicting and generating words, sentences, and further on, meaningful and contextually accurate responses.
+The person is explaining how they are going to build a machine learning model that mimics the writing style of Shakespeare. This model will use two parts: an encoder that translates characters (or letters) into numbers and a decoder that translates numbers back into characters. 
+
+Here’s how it works: The encoder will look into a paragraph from Shakespeare's work and assign a unique number to each unique character (or letter). The decoder will then use these numbers to predict what the next character (or letter) in a sequence should be, based on the patterns it learned during training. 
+
+This model, in essence, can generate artificial 'Shakespearean' text as it can continue the sequence of characters, predicting what character comes next, based on the text data it was trained on. This process is like how ChatGPT works. 
+
+While this may sound complicated, all it requires is some knowledge of Python, calculus and statistics to understand. Overall, creating this AI model helps us see and appreciate how the technology inside AI systems like ChatGPT works.

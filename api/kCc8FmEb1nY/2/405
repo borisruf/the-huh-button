@@ -1,1 +1,9 @@
-In the simplest terms, I start a pattern or a series of things, and the system uses that to predict and create what comes next.
+The speaker is explaining the concept of language models in AI, specifically focusing on one called ChatGPT. This model is capable of generating language-based outputs based on prompts given to it. The speaker gives examples of the model's capabilities, including creating unique responses to a variety of prompts.
+
+The model works by taking a given prompt and predicting what comes next in that sequence. It does this by looking at what has come before in the sequence and making its best guess about the next word or character. The model is capable of generating different but relevant responses to the same prompt, making its outputs seem more natural.
+
+The speaker further elaborates about the underlying structure of ChatGPT, which is based on a neural network architecture called Transformer, introduced in a research paper titled "Attention is All You Need".
+
+The speaker proposes to demonstrate their understanding of this model by creating a simpler, character-level language model using the works of Shakespeare. The idea here is that the model will predict the succeeding characters based on preceding characters, training itself to produce Shakespeare-like language.
+
+The speaker has already written the code for such a model and has posted it on his GitHub repository named Nano GPT. This code enables the training of Transformers on any text data. The speaker plans to recreate this repository's creation process from scratch through a lecture.

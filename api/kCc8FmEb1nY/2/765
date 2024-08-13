@@ -1,1 +1,9 @@
-In this complicated context, the speaker says "Here, I open the "input" as meaning they're beginning to go through, or open up, the input data for their project. In this case, they're working with a file that's called 'Tiny Shakespeare', which contains all the works of Shakespeare. They're going to train AI on this file, teaching it to understand and generate similar language to Shakespeare's. When they say they are 'opening' the input, it means they're beginning to work with the specific data they will use for this project.
+The text is describing how a complex machine learning AI, called GPT (Generatively Pretrained Transformer), utilizes a system of text characterization to generate human-like sentence structures. 
+
+To simplify, imagine we have a sequence of characters like "The quick brown...". According to this system, the AI would predict that the word "fox" would be the next word in the sequence based on its training and understanding of English sentence patterns.
+
+The "Transformer" system learns from a dataset, in this case "Tiny Shakespeare". This dataset includes a large collection of Shakespeare's works, and the AI is trained to guess the next word in a sequence based on what it has learned from this dataset. 
+
+The AI doesn't look at words but instead considers each character individually, translating them into associated integers (numbers). Therefore, each unique character in the dataset gets a unique numerical representation and this dataset of numbers constitutes the AI’s "knowledge" of Shakespeare's works. 
+
+After training on this dataset, the AI can generate its own sequences that resemble Shakespeare's writing style.

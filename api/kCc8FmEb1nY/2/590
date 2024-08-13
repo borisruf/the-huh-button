@@ -1,1 +1,7 @@
-In this context, "Here, I open the "input" just refers to the action of the author preparing to open a file named "input." The author may be about to access or write code with data from this file.
+This long script is talking about ChatGPT, which is a system that uses AI to write text tasks. This means you can ask it to write something and it will give you the text back. You can even ask it to write in a certain style or on a certain topic. It works by predicting what comes next in a sequence of words, so if you give it a starting point, it can continue the sequence for you. 
+
+In this script, the narrator is explaining how to use a smaller, simpler version of the system. They're using a dataset called 'Tiny Shakespeare', which contains all of Shakespeare's plays and poems. The system learns from this dataset and tries to make new text that sounds like Shakespeare. 
+
+To do this, it turns the words into numbers, which are easier for a computer to understand. This is done by assigning each character a unique number – this way even special characters and spaces can be included. Once the text is turned into numbers, the model can be trained to predict what comes next in the series of numbers. 
+
+The narrator notes that while this model is simpler than the real ChatGPT, it's still a great way to understand how the AI can write on command.

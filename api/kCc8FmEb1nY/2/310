@@ -1,1 +1,9 @@
-ChatGPT is like a story-teller. You give it the beginning of a story or a sentence, and it comes up with the rest. For example, if you say "Once upon a time", it could finish the story in any way it likes, based on what it has learned about how words and sentences usually go together.
+ChatGPT is an Artificial Intelligence (AI) program that responds to prompts with text. It's designed to understand and generate language in a way that mimics human conversation. The program “reads” the given prompt and “thinks” of the most appropriate response. This means that with the same prompt, it can generate different responses each time. It's similar to if you asked multiple people the same question and got different answers.
+
+One example task was writing a breaking news article about a leaf falling from a tree. ChatGPT wrote a detailed description of this simple event, making it sound dramatic and interesting.
+
+ChatGPT uses a model called the Transformer, which helps in generating the text. This model looks at past words or characters and predicts what comes next. It’s trained on a large amount of data from the internet.
+
+For illustrative purposes, we used the 'Tiny Shakespeare' dataset, which contains all works of Shakespeare. The AI model analyzed the characters in this dataset and learned to predict what character might come next based on Shakespeare's writing style.
+
+Once we trained the model, it could generate text that resembled Shakespeare's language. For example, the words "So verily, my Lord, the sights have left the again the king coming with my curses with precious pale and then Tronio says something else, etc." Also, because the model continuously predicts the next character, the model can produce an infinite amount of Shakespeare-like text.

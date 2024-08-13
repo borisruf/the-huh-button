@@ -1,1 +1,5 @@
-The speaker is opening a file called "input". In programming, "opening a file" means to establish a connection to that file, making it accessible for reading or writing. In this context, the speaker is likely opening the file to load the data it contains into their program.
+We are building both an encoder and a decoder. These are part of the system that allow us to turn raw text into a format that the language model can understand and work with. The encoder will convert the text (which is in the form of characters) into numbers. This process is known as tokenization. The decoder will do the reverse, converting the numbers back into text. 
+
+For example, the encoder might turn the word "AI" into the numbers 1 and 9, and the decoder would be able to take those numbers and turn them back into the word "AI". 
+
+The purpose of this is to make the complex language of text into something much simpler and easier for the model to understand and work with, which is in this case, numbers.

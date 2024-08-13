@@ -1,1 +1,5 @@
-The speaker is talking about ChatGPT, a language model that can generate text for various tasks. The speaker describes how the model is given a prompt, or the start of a sequence, and it completes the sequence with a generated outcome. Due to its probabilistic nature, the model can provide different outcomes for the same prompt. This feature has led to a wide range of creative interactions with ChatGPT, such as writing humorous stories or simulating fictional scenarios.
+The speaker is discussing how ChatGPT, an AI language model developed by OpenAI, works. The speaker identifies the key component of ChatGPT as a Transformer neural network that models character and token sequences based on a given dataset. 
+
+The speaker proposes to build a smaller-scale version of ChatGPT using the 'Tiny Shakespeare' dataset. By training the Transformer neural network on this smaller dataset, the speaker believes they can create a 'miniature' version of ChatGPT, called 'Nano GPT', that generates text in the style of Shakespeare.
+
+To be able to follow along and understand this process, the speaker suggests it's essential to have a competent understanding of Python programming, and a basic knowledge of calculus and statistics.

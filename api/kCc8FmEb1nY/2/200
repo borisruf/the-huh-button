@@ -1,1 +1,5 @@
-ChatGPT is an AI system that can carry on interactive conversations. If you give it a topic or a start of a sentence, it is able to complete the rest of the conversation or sentence in a way that makes sense. It can produce varying responses to the same prompt and its responses can be highly creative and even amusing. It is able to do this because it has been trained to understand how words are typically arranged in sentences in the English language. Therefore, given the beginning of a sentence, it can predict and generate what the rest of the sentence could be.
+ChatGPT is a program that uses artificial intelligence to generate text. It can be used for a variety of things, from creating poetry to writing news articles. Once it's given a task, it generates the text one word at a time. The results can vary each time the same task is given, because it's designed to provide a range of responses.
+
+The technology behind ChatGPT is based on a system called Transformer, which was presented in a notable study in 2017. This system has been used in many AI applications since then.
+
+But creating something like ChatGPT is not simple. It needs to be trained using a vast amount of information from the internet. This process involves multiple stages and is quite complex.

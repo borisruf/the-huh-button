@@ -1,1 +1,7 @@
-ChatGPT receives the start of a series of words from me (also known as a sequence), and it continues the series by adding more words at the end to finish it. These words it adds form the result or output provided by the system. This process is similar to how we start a sentence and it generates the rest of it.
+The speaker is explaining how the ChatGPT chatbot works. This particular version of the chatbot uses a neural network called a Transformer, which was first introduced in a 2017 paper called "Attention is All You Need".
+
+ChatGPT is considered a 'language model' because it can predict what word or phrase is most likely to follow a given prompt based on its training data. Examples of such prompts could be anything from a simple question about HTML to a dramatic request for a breaking news story about a leaf falling from a tree.
+
+The speaker plans to train a simplified version of a Transformer language model using a diminutive dataset known as 'Tiny Shakespeare', which is a compilation of all of Shakespeare's works. After training the Transformer with this data, the model can generate text that resembles Shakespeare's writing style.
+
+The speaker has already developed the required code for this project and stored it in a GitHub repository titled 'Nano GPT'. This lecture will cover rebuilding that repository from scratch.

@@ -1,1 +1,6 @@
-The person is preparing to start coding in Python. They open a data file labeled "input.txt" to use in their code. This is a common practice in programming. The file contains the data they will be working with, in this case, a condensation of all of Shakespeare's works.
+The process of splitting the data set into a train set and a validation set is as follows:
+
+- The train set is where the model learns from. It "trains" on this set by adjusting its weights and parameters to accurately predict the outcomes.
+- The validation set, on the other hand, is used to evaluate how well the model has learned from the training set. It is used to fine-tune the model and to make sure it is not overfitting to the train set.
+
+So, before moving further, it is necessary to split the data set into these two parts - training and validation.

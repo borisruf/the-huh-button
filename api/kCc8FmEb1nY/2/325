@@ -1,1 +1,9 @@
-ChatGPT is a computer program that makes sentences. If you give it the start of a sentence or an idea, it will continue it and make a whole sentence or story. It's like giving someone a sentence starter and they make up the rest of the story based on that.
+ChatGPT is artificial intelligence that generates text based on a given input. It creates the text sequentially, moving from left to right like a human would when writing. Remarkably, given the same input again, it can produce a different but equally plausible result. This is because it's a probabilistic system, meaning it computes the chances of different outcomes.
+
+In simple terms, ChatGPT is like an English language modeller. When you give it the start of a phrase, it is able to complete the phrase based on its learning and understanding of how words follow each other in the English language.
+
+ChatGPT uses a technology called the Transformer, which was introduced in a 2017 research paper. This technology helps to identify and understand the sequence of words, much like elements of grammar in the English language.
+
+When we talk about sequences for ChatGPT, these can be thought of like the patterns of characters, words, or parts of words.Tokens are parts of words. For example, in our case of teaching an AI to predict what character comes next in a sequence, we are training it to understand and predict how these elements can logically follow one another. So the tokens can be as small as a single character, like 'g', or they can be larger, like partial or full words. 
+
+What's important to know is that, by predicting what comes next in a sequence, the AI learns patterns and rules of language, allowing it to generate human-like text.
