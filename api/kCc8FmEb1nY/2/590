@@ -1,7 +1,5 @@
-This long script is talking about ChatGPT, which is a system that uses AI to write text tasks. This means you can ask it to write something and it will give you the text back. You can even ask it to write in a certain style or on a certain topic. It works by predicting what comes next in a sequence of words, so if you give it a starting point, it can continue the sequence for you. 
+This text is about how to create a system that can generate language in the style of a particular writer, like Shakespeare. At the heart of the process is a neural network called a 'Transformer,' which looks at a sequence of characters and predicts what character will come next. 
 
-In this script, the narrator is explaining how to use a smaller, simpler version of the system. They're using a dataset called 'Tiny Shakespeare', which contains all of Shakespeare's plays and poems. The system learns from this dataset and tries to make new text that sounds like Shakespeare. 
+First, the whole works of Shakespeare were combined in one massive text file. From there, the system looks at each character in the sequence and predicts the following character. By practicing this over the complete works of Shakespeare, the system is trained to generate sequences of characters that sound like Shakespeare.
 
-To do this, it turns the words into numbers, which are easier for a computer to understand. This is done by assigning each character a unique number – this way even special characters and spaces can be included. Once the text is turned into numbers, the model can be trained to predict what comes next in the series of numbers. 
-
-The narrator notes that while this model is simpler than the real ChatGPT, it's still a great way to understand how the AI can write on command.
+The text then talks about taking the raw text and 'tokenizing' it, which means converting the text into a sequence of numbers. Each number represents a character from the text. This all happens in a programming language called Python, and the complete code can be found on GitHib under the repository called 'Nano GPT.'

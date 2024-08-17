@@ -1,7 +1,1 @@
-The speaker is talking about an AI system known as ChatGPT, which uses Artificial Intelligence that can generate various responses to text-based tasks. Chats can be humorous, formal, or serve many other purposes. This system works by modeling how words follow each other in the English language. 
-
-They refer to a paper from 2017 titled "Attention is All You Need", which introduced the Transformer architecture. Transformers are the foundation of the ChatGPT system, playing a crucial part in making the application work effectively. 
-
-Despite the complex nature of these systems, the speaker plans to create a simple version of a Transformer-based language model using a small dataset called 'Tiny Shakespeare'. They aim to teach the system to predict the next character in a given sequence from the dataset. The goal is to generate text that has a similar style to Shakespeare's works. 
-
-The speaker has created a repository called Nano GPT that contains the code needed to train transformers on any text, helping people understand more about how they work.
+In a simple way, the person is explaining that he created a program, inspired by a larger artificial intelligence system called ChatGPT. His code was designed to learn the patterns in the works of Shakespeare and generate new sentences that look like they're from Shakespeare. The goal here is to mimic how the bigger system, ChatGPT, can generate different responses to a given prompt. He calls his program "Nano GPT," and has shared it on a platform named GitHub where other people could use or study it.

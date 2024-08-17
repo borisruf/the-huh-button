@@ -1,6 +1,1 @@
-The process of splitting the data set into a train set and a validation set is as follows:
-
-- The train set is where the model learns from. It "trains" on this set by adjusting its weights and parameters to accurately predict the outcomes.
-- The validation set, on the other hand, is used to evaluate how well the model has learned from the training set. It is used to fine-tune the model and to make sure it is not overfitting to the train set.
-
-So, before moving further, it is necessary to split the data set into these two parts - training and validation.
+The speaker starts by explaining what ChatGPT is, and the idea behind a language model. He mentions the use of transformer architecture "Attention is all you need" for ChatGPT. The speaker teaches how to build a simple transformer using Python. He works with the "Tiny Shakespeare" dataset which includes all works of Shakespeare in a single file. The characters are converted into integers for ease of processing. The speaker mentions there are different methods for encoding the text into integers, they choose character-level tokenizer for its simplicity. This provides them with very long sequences of simple encode and decode functions. An encoder and a decoder are used to tokenize the training set and these are then wrapped into a data tensor. This process helps to model how characters follow each other in a sequence.

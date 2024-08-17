@@ -1,1 +1,11 @@
-The information is concerning the process of training a Transformer-based language model. In particular, the data set used (a compendium of Shakespeare's works) will be divided, with the first 90% designated as training data for the model and the remaining 10% used as validation data. This split allows for the model to be trained thoroughly while still retaining data to evaluate it on. The goal is for the model to be able to predict a sequence of characters based on previous context, thereby modelling the text patterns in the data.
+In this context, the speaker is explaining how to train a transformer-based language model using the Tiny Shakespeare dataset. 
+
+He discusses how to "tokenize" or convert raw text from strings to sequences of integers based on a defined 'vocabulary' of possible elements. This is done so that the model can understand and generate text. In this scenario, the encoding is done on a character level, so each character in the text is assigned a unique integer.
+
+He also discusses different strategies for tokenization. For instance, Google's 'sentence piece' tokenizer works on a sub-word level, encoding parts of words rather than full words or single characters.
+
+Once the text is tokenized, a PyTorch tensor (multi-dimensional matrix containing elements of a single data type) is created. 
+
+To illustrate the process, he shows the first 1000 characters of the tokenizer's output - a sequence of integers representing the first 1000 characters of the dataset. 
+
+The goal is to build a model that predicts the next character in a sequence, based on the given context of characters in the past.

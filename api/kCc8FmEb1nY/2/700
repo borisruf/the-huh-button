@@ -1,1 +1,9 @@
-This basically means that you can choose to have a small selection of letters, numbers, and symbols (known as the codebook or vocabulary) but create long strings of these elements. Alternatively, you can choose to have a large vocabulary but restrict the length of the combinations you make from it. It's your choice how lengthy your sequences are and how varied the elements within them can be.
+ChatGPT is an AI system developed by OpenAI for text-based tasks. It uses a technique called 'language modeling' to generate text. Essentially, it 'completes a sequence' or predicts what comes next based on a given prompt. 
+
+Under the hood, ChatGPT uses a neural network system called 'Transformer', which was introduced in an influential paper from 2017 called 'Attention is all you need'. The Transformer predicts the next sequence by considering the context of characters or words in the past. 
+
+The training process involves modeling patterns in the data and training the Transformer on this data. For instance, developers might use a dataset of all of Shakespeare's works, train the Transformer with this data, and then produce Shakespeare-like language. 
+
+This process doesn't involve training the AI on chunks of the internet but rather on a much smaller dataset. And OpenAI has made the tools for this process widely available. Its 'tick token' library, for example, allows developers to translate or 'tokenize' text into lists of integers, a necessary step in training the Transformer.
+
+Overall, these systems are an impressive feat of technology, allowing for nuanced and contextually appropriate responses to a variety of prompts. But behind the scenes, this involves complex processes of training and fine-tuning to a specific dataset.

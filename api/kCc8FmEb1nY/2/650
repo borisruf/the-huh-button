@@ -1,1 +1,7 @@
-"Tick Token" is a library created by OpenAI. It uses a pipe pair encoding tokenizer, the same mechanism used by ChatGPT. This function allows parts of words, full words, or even whole sentences to be converted into a format that the computer can easily understand and is a very efficient way of feeding data to the machine learning model.
+In simpler words, this explanation describes creating a system to read and write text for a machine learning model. It does this by creating a table that links each character in the text dataset to a unique number (the lookup table).
+
+So, when we want to input some text into the model, we first use this table to convert each character in the text into its corresponding number. This is called 'encoding' the text. The machine learning model can now read and understand this list of numbers.
+
+Similarly, when the model generates some output (also as a list of numbers), we use the reverse of our lookup table to convert each number back into its original character. This is called 'decoding' the output, turning the numbers back into human-readable text.
+
+This allows us to use a machine learning model to generate text that resembles the original text dataset.

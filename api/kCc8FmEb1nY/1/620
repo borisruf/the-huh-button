@@ -1,9 +1,1 @@
-"Encoding" or "tokenizing" in AI language models refers to the process of converting raw text into a sequence of integers that represent certain elements of a vocabulary. A vocabulary here can refer to different units of language, such as characters, words, or phrases. 
-
-In the example provided, a character-level encoding is utilized, where each unique character in the text is mapped to a unique integer. For instance, the phrase "hi there" is translated into a list of integers, where each integer represents the corresponding character in the string. The mapping is not arbitrary but based on a specific lookup table that the model creates, mapping each unique character to a unique integer.
-
-The reverse process of converting these integers back into characters is called decoding. This is why two functions are created: an encoder to map the characters to integers, and a decoder to map the integers back to characters.
-
-The character-level encoding/tokenization is simply one of the many methods of encoding. More complex methods could involve tokenizing words or even entire phrases.
-
-The purpose of such encoding/decoding is to convert human-readable text into a format that the AI model can process and understand.
+The "reverse mapping" in this context refers to a function or process that converts a series of integers back into text. This process is implemented in machine learning and natural language processing tasks to convert the results from a language model, often encoded as integers or tokens, back into understandable text. In other words, while the encoder changes the text into a format that the machine can understand and learn from, the reverse mapping or decoder returns the machine's output back into a human-readable format. Here, it is used to decode the output from the Transformer language model that is being trained on the Tiny Shakespeare dataset.

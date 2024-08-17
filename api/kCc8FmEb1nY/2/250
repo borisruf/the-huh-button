@@ -1,5 +1,1 @@
-This text is talking about an artificial intelligence (AI) system called ChatGPT. This AI can generate text when given a prompt or starting point. It works by understanding how words follow each other in English. The AI can generate different results each time, even when given the same prompt.
-
-The text then talks about the technology behind ChatGPT, which draws from a 2017 landmark paper called "Attention is All You Need". This paper introduced the Transformer architecture, which is the brain behind the AI model. 
-
-The author then suggests a learning exercise to understand more about the AI. They want to train a Transformer-based language model using Shakespeare's works. The aim of this exercise is to understand how the AI predicts and generates subsequent characters based on given characters or context from the past.
+This is a text file that contains all of the written works by William Shakespeare. The size of this file is around one megabyte. It has been compiled together into one single file for convenience and is often used in language processing tasks.

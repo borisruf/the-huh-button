@@ -1,1 +1,9 @@
-The speaker is detailing how tokenization works in a language model. Tokenization is the process of converting raw text into a sequence of integers. In the speaker's case, this language model is character-based, meaning individual characters are translated into integers. The speaker creates both an encoder which translates a string into integers and a decoder which takes these integer lists and converts them back to their original string. The lookup tables for these translations are created by iterating over all the characters in their provided dataset. As an example, the speaker demonstrates this process with the string 'hi there', showing its corresponding integer sequence and its accurate conversion back into the original string 'hi there'.
+In this context, the speaker is discussing the workings of GPT (Generative Pretrained Transformer), an AI language processing tool developed by OpenAI. GPT is a 'language model' because it can predict and generate sequences of words or characters based on the context given to it. 
+
+The speaker provides several demonstrations of ChatGPT, a chatbot based on GPT, fulfilling a variety of creative prompts and generating humorous and coherent responses. He further explains how it works probabilistically, meaning it can give multiple valid responses to the same prompt.
+
+Then, the speaker discusses the origins of GPT, referencing the Transformer architecture introduced in the 2017 paper 'Attention is All You Need'. He notes the impressive influence this paper has had on the field of AI development over the last few years.
+
+The speaker then lays out his intention to create a Transformer-based language model from scratch, using a dataset called Tiny Shakespeare, which comprises all of Shakespeare's works. The model will learn to predict the likelihood of next characters in a sequence. He demonstrates the 'training' phase by having the model predict the likely next character in a given sequence.
+
+He concludes his discussion of the basics of GPT and its fascinating capabilities by referencing his GitHub repository and some related work he has done in the field.

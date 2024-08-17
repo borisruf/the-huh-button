@@ -1,7 +1,7 @@
-This text is essentially explaining the process of creating an interactive AI model, ChatGPT. The model uses language patterns in English to generate words and provide responses to certain prompts. It is powered by a neural network known as the Transformer, which was first proposed in a research paper called "Attention is All You Need".
+The passage is explaining how to process text data for use in a Transformer - a type of AI model used for tasks like translation or text generation. 
 
-The speaker then discusses how to develop something similar to ChatGPT model using a simpler dataset known as Tiny Shakespeare. This is essentially all the works of Shakespeare in a single file, which then the model uses to predict the sequence of characters.
+Firstly, it involves gathering all the unique characters used in the entire dataset - every single letter, punctuation mark, or symbol. It also arranges them in a sorted order. 
 
-Next, the speaker talks about creating a character-level language model. This involves learning how to predict what character is likely to come next based on the previous characters. The goal is to form words and sentences that look like Shakespeare’s language. 
+The total number of these unique characters is then measured, and this forms the "vocabulary size" of the dataset. This refers to the total variety of characters which our model will have to understand and utilize. 
 
-The final part discusses the initial steps of creating this model: downloading the Tiny Shakespeare database, defining the possible characters (vocabulary) that the model can recognize, and creating a strategy to tokenize, or break down, the input text.
+So in short, we're preparing all the different 'building blocks' the Transformer will have to work with in generating or understanding text.

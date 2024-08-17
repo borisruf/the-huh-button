@@ -1,7 +1,1 @@
-The phrase you mentioned is about getting all unique characters used in a text, listing them, and then arranging them in a certain (adjustable) order. Here is a breakdown for you:
-
-1. "When I call the set constructor on it, I'm just going to get the set of all the characters that occur in this text." - This means that we are creating a set from our text. In Python, a set is like a list, but it only keeps unique values, so any repeated characters are removed.
-
-2. "And then I call 'list' on that to create a list of those characters instead of just a set" - This means that we are now converting the set back into a list. We do this because we want to be able to sort the characters, and you can't sort a set.
-
-3.  "so that I have an ordering - an arbitrary ordering - and then I sort that" - Here we caused our list to be sorted. Doing this puts all the characters in the text into a recognizable order, making it easier for us to work with them later.
+This is discussing the creation and use of an AI language model. By inputting a prompt, this model will generate text based upon that input. The model was created using a Transformer architecture, a method of machine learning made popular by a 2017 paper. For the purpose of this explanation, the model is trained using the complete works of Shakespeare, generating its outputs based on those works. The end result is that given a string of characters, the model will predict which character 'naturally' comes next, thus generating a line of 'Shakespearean' text. It's stressed that you don't need to have mastered any complex programming languages to understand how to create this model, just a knowledge of Python and a basic understanding of calculus and statistics.

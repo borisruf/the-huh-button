@@ -1,7 +1,9 @@
-The speaker is explaining how the ChatGPT chatbot works. This particular version of the chatbot uses a neural network called a Transformer, which was first introduced in a 2017 paper called "Attention is All You Need".
+The speaker is introducing a language model called ChatGPT, developed by OpenAI. This AI system can generate text based on a prompt provided by a user. The speaker explains that even though the output can change slightly each time, it is still very effective in producing coherent language for various tasks. 
 
-ChatGPT is considered a 'language model' because it can predict what word or phrase is most likely to follow a given prompt based on its training data. Examples of such prompts could be anything from a simple question about HTML to a dramatic request for a breaking news story about a leaf falling from a tree.
+The underlying technology of ChatGPT is based on a neural network known as Transformer, which was proposed in a 2017 research paper. This model captures the sequence of words in language, making it possible for AI to predict what word will likely follow a sequence of words.
 
-The speaker plans to train a simplified version of a Transformer language model using a diminutive dataset known as 'Tiny Shakespeare', which is a compilation of all of Shakespeare's works. After training the Transformer with this data, the model can generate text that resembles Shakespeare's writing style.
+The speaker then describes how he attempted to replicate a version of ChatGPT using a smaller dataset. For this, he uses a document consisting of all of Shakespeare’s works, and trains a Transformer model to predict what character (letter) is likely to come next given a chunk of characters from this document. The aim is to create a model that generates text in the style of Shakespeare. 
 
-The speaker has already developed the required code for this project and stored it in a GitHub repository titled 'Nano GPT'. This lecture will cover rebuilding that repository from scratch.
+He clarifies that this setup isn't as complex or as powerful as ChatGPT, but it's a good way to understand how these systems work. The speaker has created a repository called Nano GPT on Github, where he has provided the code for his experiment.
+
+Lastly, he mentions that if the model is trained on a larger data set of web pages known as Open Webtext, it manages to reproduce the performance of GPT2, an early version of OpenAI's GPT from 2017.

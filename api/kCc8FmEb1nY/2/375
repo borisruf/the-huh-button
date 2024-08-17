@@ -1,1 +1,5 @@
-In simple terms, this person is explaining how the AI system called ChatGPT works. To do this, they are using an example where they train a simplified version of the system on all of Shakespeare's works, which they have as a text file. They show that, using this "training" from Shakespeare's works, the AI system can generate text that sounds a lot like Shakespeare. They also show how this same process could work on a different text dataset, like a collection of web pages. This is essentially how ChatGPT is trained, just on a much larger and more complex scale.
+The speaker is talking about ChatGPT, an AI that can generate responses to text-based prompts. It can produce different responses to the same prompt because it's a probability-based system. The AI uses a process called the Transformer architecture, proposed by a 2017 paper, to generate its responses. 
+
+The speaker wants to create a simpler version that uses the Transformer method. They propose using a small dataset called Tiny Shakespeare, which contains all of Shakespeare's works in a single document. Their system will predict the next character in a sequence based on its training on this dataset.
+
+They've written the code for training Transformers in a GitHub repository called Nano GPT. It has a simple implementation, consisting of just two files of 300 lines of code each.

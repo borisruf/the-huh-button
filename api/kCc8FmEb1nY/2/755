@@ -1,1 +1,7 @@
-The speaker explains how they will prepare the text in the Tiny Shakepeare dataset. First, the text is encoded. That means changing the text into a numerical format that a computer can understand. After that, the encoded text is converted into a torch.tensor. This will result in a data tensor, which is a type of structure that can hold data and will be used later for machine learning tasks. The idea is to teach the system how characters in texts follow each other.
+The speaker is describing how their artificial intelligence model, ChatGPT, interacts with text. To read and generate text, it converts the text to numbers and back. This is done through a process called 'tokenization', using a 'tokenizer'. 
+
+The tokenizer they use breaks down text into individual characters, like 'a' or 'b', each of which has a unique corresponding number. This process can be reversed to translate the numbers back to letters. 
+
+However, there are other tokenizers that can break text merely into phrases or entire words, which reduces the number of tokens (or unique number-character pairs), but increases the range of numbers needed.
+
+While these tokenizers may be more commonly used in practice due to efficiency, they will be using a simple character-level tokenizer for the sake of simplicity in their demonstration.

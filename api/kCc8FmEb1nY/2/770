@@ -1,5 +1,9 @@
-This part of the tutorial is dealing with the encoding process of text data when preparing an AI model for the task of language prediction. We start off with all the works of Shakespeare, read into the model as a simple string of text. This text is full of individual characters or 'tokens', which the model will need to recognize and predict.
+The speaker is explaining how they intend to create a simple model for generating text that's similar to what the AI model ChatGPT produces, but on a smaller scale, by using a character-level language model.
 
-To make this more manageable, the text is then converted or 'tokenized' into a sequence of integers. The particular method used here is a character-level tokenizer, which essentially treats every character (including spaces and punctuation) as a distinct token. These tokens are then converted into a corresponding integer. This sequence of integers effectively becomes the AI model's 'vocabulary', a frame of reference it will use to understand and analyze the text.
+They plan to train the model on a dataset called Tiny Shakespeare, which is a compilation of all of Shakespeare's works. The process involves predicting the next character in a sequence after a given set of preceding characters, thereby creating a sequence that mimics Shakespeare's style.
 
-So basically, in this part of the tutorial, they are making a kind of dictionary. Each word or token in the text corresponds to an integer, and these pairings are stored in a look-up table. This allows the AI model to translate back and forth between the raw text and the simplified sequence of integers. This step is important for preparing text data for language prediction tasks, which involves training the AI model to recognize the patterns within the text and predict what comes next.
+Before starting, the speaker prepares their dataset. They identify the unique characters in the entire body of text, listing and sorting them. Each unique character is then assigned a unique integer, allowing for the conversion of raw text into sequences of integers, and vice versa.
+
+However, the speaker notes that this is a very simple form of tokenization. Other methods include sub-word encoding, which is slightly more complicated but generally more efficient.
+
+In conclusion, the speaker is proposing to build a simple character-level language model to generate text, with the understanding that the sequences produced may be very long because of the simplicity of the model.

@@ -1,1 +1,5 @@
-The instructor is about to start working with the PyTorch library, a popular Python-based machine learning library, to convert the entire text data of Shakespeare into numbers or tokens. This tokenizing process is essential as machine learning models can only understand numbers, so every character in the Shakespeare's text needs to be converted into a corresponding unique number or token. These tokens will be later used to train the model.
+The AI model, ChatGPT, interacts with users by generating text based conversations. One way ChatGPT works is by taking a string of characters or words (known as a "prompt"), then it generates a likely response or extension of that. 
+
+In the example given, the speaker used an encoding method to turn certain pieces of text into a list of integers. The encoding was done character by character. For example, the phrase "hi there" is turned into a list of specific integers. 
+
+They also mentioned a different kind of encoding system used by OpenAI and Google, which doesn't just consider individual characters, but instead looks at larger chunks or 'sub-words'. When OpenAI uses this system with something like "hi there", only three integers are produced, instead of one for each character.

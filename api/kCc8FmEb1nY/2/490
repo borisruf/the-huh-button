@@ -1,5 +1,9 @@
-The text is talk about ChatGPT, a language model using artificial intelligence that can generate text in response to a given prompt. This model doesn't necessarily provide the same response every time, but gives various outputs based on the given prompt. The text later extends its discussion to an AI chat model developed based on a research paper named "Attention is All You Need". Further, the speaker intends to prepare a simplified version of such a chat model using a toy dataset, Tiny Shakespeare, as an example.
+In this video you'll learn how chatbots like ChatGPT work. You'll learn about the Transformer Architecture from a landmark paper in AI. This system is what drives the responses from the AI, and it can produce many different and creative results. 
 
-Subsequently, he mentions a GitHub repository with code for training Transformers, an architecture often used in AI models, and talks about his plan to recreate this repository from scratch using Python. The model he aims to develop should be able to learn the pattern of characters in the Shakespearean text and predict the next character in a given sequence, generating infinite, fake text that resembles Shakespeare's style. 
+The speaker is going to demonstrate how to build a similar system using a collection of Shakespeare's works. They will be training the system to predict what character comes next in a sequence of characters, using the Transformer Architecture.
 
-Finally, he loads the data from the Tiny Shakespeare dataset into a Google Colab Jupyter notebook and shows the first 1000 characters of the dataset to explain that the text in Python is basically a sequence of characters.
+They will also be explaining the details of the system, and comparing this simplified version to ChatGPT. 
+
+They have also shared a space where they have written code to train these Transformers and where you can check it out. 
+
+Lastly, they will recreate this system from scratch in a live session, explaining each step so that those watching can follow along and learn. The code will be available later in the video description.

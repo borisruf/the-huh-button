@@ -1,5 +1,5 @@
-The speaker in this context explains that they plan on creating a simple version of a language model that works similarly to ChatGPT. ChatGPT is a powerful system that uses AI to generate different responses based on the text input you give it. It learns from large amounts of text data to understand how words follow each other in English. 
+ChatGPT is a type of artificial intelligence (AI) that generates text based on prompts given to it. These prompts can range from writing a haiku to creating an imaginary news article about a leaf falling from a tree. This AI system can produce a variety of responses to a single prompt, which means it doesn't always give the same answer.
 
-To give a better understanding of how systems like ChatGPT work, the speaker aims to build a 'Transformer-based language model'. In this case, it will work with individual characters, rather than words or phrases. This means the model will generate a sequence based on character inputs, rather than trying to understand the context of whole words or sentences.
+Building a system like ChatGPT is complex. It involves the use of a type of neural network called a 'Transformer', which was initially proposed in a machine translation paper. This architecture has since been utilized in various AI applications, including ChatGPT.
 
-Even though this proposed model is more simplified, it will still give an idea about how these AI systems function on a basic level.
+ChatGPT isn't something we can easily replicate. It's trained using a large amount of data from the internet, and involves numerous stages of preliminary training and fine-tuning. Simply put, it's a sophisticated AI system created through a meticulous and in-depth process.

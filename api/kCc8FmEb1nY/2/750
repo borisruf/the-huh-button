@@ -1,1 +1,7 @@
-This text is about training an AI model using a language model based on Shakespeare's work. "Tiny Shakespeare" compiles all of Shakespeare's works into a single file, and is used as a training dataset for the model. The AI, using PyTorch, can predict what character or word comes next based on what it has learned from the training dataset, effectively imitating Shakespeare's writing style.
+In programming, there's a method called "tokenizing" where raw text is transformed into a sequence of numbers based on a vocabulary of various elements. Depending on the approach used, the length of the number sequences and the size of your vocabulary can vary. 
+
+Character-level tokenizing is one of the simplest methods, involving translating individual letters to numbers, while word-level encoding translates entire words to numbers. Recently, more complex methods have been developed that deal with sub-words, or parts of words. 
+
+For example, Google's 'sentence piece' and OpenAI's 'pipe pair encoding tokenizer', convert chunks of words instead of whole words into numbers. These methods use larger vocabularies, but create shorter sequences of numbers. 
+
+While the character-level approach gives us long sequences of numbers based on a small vocabulary, the sub-word approach provides shorter sequences from a much larger vocabulary. So there is a balance to consider between the size of your vocabulary and the length of your number sequences. Typically, sub-word encodings are favored because of their efficiency.

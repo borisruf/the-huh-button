@@ -1,1 +1,5 @@
-The AI compares a set of previous letters to predict the next letter in a sequence, this is done by a system called Transformer. This process is similar to how ChatGPT works. For ChatGPT, we normally give it a small start of a sentence and it gives back an entire paragraph. For the AI we are discussing, we give it a sequence of characters, and it will try to predict the next character.
+The text is explaining what a language model is, and how it is trained to predict and generate sequences of words or characters that follow a certain pattern. 
+
+Here, the AI system ChatGPT is used as an example to show how a language model works. With a given set of words, ChatGPT can generate a variety of responses, making unique sentences each time it is given the same prompt. This is why it is called a 'probabilistic system.' 
+
+The system is then trained on a dataset called Tiny Shakespeare, containing all of Shakespeare's works. It operates on a ‘character-level,’ where it is trained to predict the next letter based on the sequence of letters given. In the end, the trained model can generate fake Shakespeare-like text, showing its capability of understanding and producing language patterns, similar to those of Shakespeare's works.

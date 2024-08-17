@@ -1,7 +1,1 @@
-The speaker is discussing an artificial intelligence (AI) system called ChatGPT, which can generate text based on a prompt or starting point. He mentions that it can give multiple responses to a single prompt, and it can be used for creating various types of text, such as news articles or explanations.
-
-He then explains that he wants to create a similar model to ChatGPT for educational purposes. But instead of using all the information on the internet as the training data, he plans to use a dataset called 'Tiny Shakespeare', which consists of all of Shakespeare's works.
-
-He emphasizes that the model will be a simple one, which can predict the next character in a sequence based on the previous characters. After training the model on this dataset, it should be able to generate text that resembles Shakespeare's writing.
-
-However, the speaker apologizes because there might be some mistakes or 'junk' in the generated text that he can't perfect or get rid of.
+We are going to teach a system called Transformer to produce sequences of characters that look like Shakespeare's work. We teach it by showing it large parts of Shakespeare's work and it will learn to predict the next character based on the previous ones. For example, if we show it "Hello, good mor", it will predict that the next character is "n", to complete the word "morn". This way, it learns to understand how characters follow each other in Shakespeare's work.

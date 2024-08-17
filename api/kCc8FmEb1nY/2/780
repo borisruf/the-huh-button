@@ -1,11 +1,5 @@
-The speaker begins by explaining ChatGPT, a language model system that uses artificial intelligence to complete tasks such as writing poetry or answering prompts in a conversational manner. He mentions how this system models sequences of words and characters to generate responses.
+The described code in the context is using python to build a basic version of an AI program similar to ChatGPT, which can generate text in the style of Shakespeare based on a data set of all of Shakespeare's works. The created program is called a 'character-level language model', which means it predicts the next character in a sequence based on the characters it has seen so far. 
 
-He then introduces the topic of Transformers, a type of neural network that is crucial to the functioning of ChatGPT. Transformers were created by a ground-breaking AI research paper in 2017, and have since been used across a variety of applications in AI.
+The code uses a library called Pytorch, and specific function torch.tensor within the library to create the model. A concept of tokenization is introduced: it translates each character in the text into a unique integer, and the model uses these instead of the raw text. This process is required because computer models can't directly understand raw text, but they can work with numbers. In the example, this process is performed at the level of individual characters, but in other cases it might be performed on whole words or sub-words. 
 
-The speaker then outlines his goal for the tutorial: to train a smaller, simpler version of a language model similar to ChatGPT. This training will be done on a small dataset called "Tiny Shakespeare", which contains the concatenated works of Shakespeare.
-
-The speaker explains how a Transformer neural network will learn to predict the next character in a sentence by looking at the characters that have come before it. Once trained, the system will be able to generate text in the style of Shakespeare.
-
-To prepare the text data for training, the speaker tokenizes the text, converting each character into a corresponding integer value. This process simplifies the input for the model. He then explains different tokenization methods and the tradeoffs between them.
-
-The tutorial concludes with the conversion of the entire "Tiny Shakespeare" text into a sequence of integers using PyTorch, a popular machine learning library. This process prepares the text data for training the model.
+Afterwards, he explains that this model is trained on a "Tiny Shakespare" dataset, a collection of all Shakespeare's works and it is trained to generate new sentences, trying to mimic Shakespeare style of writing. However, as the model works on a probabilistic basis, it can generate a slightly different output each time it is given the same input.

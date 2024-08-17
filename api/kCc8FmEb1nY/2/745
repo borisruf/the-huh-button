@@ -1,9 +1,3 @@
-The speaker wants to create a simplified version of the AI model Chat GPT, using the PyTorch library and a character-level language model. The speaker plans to train this model using a dataset called 'Tiny Shakespeare', a text file containing all of Shakespeare's works. 
+In this excerpt, the author talks about training a Transformer-based language model using the Tiny Shakespeare dataset. He employs a character-level language model rather than a word or sub-word model. Then he introduces the concept of tokenization, which is a process where we convert the input text to a sequence of integers according to a vocabulary of possible elements. His example uses character level tokenization where each character is mapped to an integer. This output can then be decoded back into the character. 
 
-The ultimate goal is to be able to predict characters in the text based on the given sequence of characters. 
-
-Before training the model, the text data needs to be tokenized, which is the process of converting raw text into a sequence of integers. This process allows the model to understand and work with the text data. 
-
-The speaker notes that for this exercise, a character-level tokenizer will be used, although sub-word or word-level tokenizers could be used in practice. 
-
-Once the text is tokenized, it can be converted into a PyTorch tensor, which will be used to train the model.
+In addition, he talks about different sorts of tokenization methods such as 'sentence piece' by Google and 'tick token' by OpenAI. Both these methods use sub-word level tokenization where not the whole words, but parts of words are converted into integers. This type of tokenization generally leads to shorter sequences of integers with larger vocabularies. Alternatively, one can have longer sequences with smaller vocabularies.

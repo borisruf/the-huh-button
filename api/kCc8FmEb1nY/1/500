@@ -1,1 +1,7 @@
-The speaker is referring to a Python programming approach. When they say "set constructor," they're referring to a Python method for creating a set object. A set in Python is a collection of unique elements, unordered and unindexed. By calling the set constructor on a string (the "text"), they will get a set of all unique characters that appear in that text. Each character appears only once in a set, which helps to determine the distinct characters found within the text data. This can be useful for many purposes, such as data analysis or generating a character vocabulary.
+The speaker is explaining how to build a simple version of OpenAI's Generative Pretrained Transformer (GPT), a language model that can generate text. GPT can take an input prompt and generate a variety of responses, as it's a probabilistic system. It creates these responses by predicting the next token (word or character) given the previous tokens.
+
+The speaker's intention is to build a smaller version of GPT, using the Transformer architecture proposed in the 2017 paper "Attention is All You Need". Instead of using a large dataset like the internet, the speaker uses the Tiny Shakespeare dataset, which contains all of Shakespeare's works in a single file.
+
+The goal is to train GPT to predict the next character given previous characters in a sequence. The trained model should be able to generate text that looks like it came from Shakespeare's works.
+
+The code and training process will be described in detail in a Jupyter Notebook, with the aim of helping the audience understand how a system like GPT works. The speaker emphasizes that the project only requires proficiency in Python and a basic understanding of calculus and statistics. The model codes will be published on GitHub. 

@@ -1,9 +1,1 @@
-I have created an online notebook with programming code using Google Colab. This interactive platform lets you and I write and execute code, share the work, and see what is being developed. In simpler terms, this is like me inviting you to my digital workspace. 
-
-The programming code I'm working on is to develop an AI system like ChatGPT. Just as this system can produce text by predicting what word comes next, I want to build a program that can predict what character comes next in a series. 
-
-Now, instead of using the vast amount of data from the internet that ChatGPT uses to learn and generate its text, I’m going to use a smaller and simpler data set. I've chosen a collection of all the works of Shakespeare, known as 'Tiny Shakespeare', as it's enough for our purposes. 
-
-With this, I'll train an AI model to predict what character is likely to follow a sequence from Shakespeare's works. When the AI has learned enough, it should generate text that sounds like it's from Shakespeare's plays.
-
-Ultimately, my goal is to help you understand how ChatGPT's underlying technology works. To do this, I'm going to share the code through Google Colab. By allowing you to interact and follow along, you'll hopefully gain a better appreciation for this type of AI technology.
+The person is aiming to explain how a chatbot, specifically the AI-based ChatGPT model, works behind the scenes (or 'under the hood'). They want to help people appreciate the technology behind the chatbot and inspire them to use it for their purposes. To achieve this, they will provide a walkthrough of building a simpler version of such a model using Python. This will need some basic knowledge of calculus and statistics.

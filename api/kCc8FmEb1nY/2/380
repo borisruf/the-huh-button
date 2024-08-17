@@ -1,1 +1,7 @@
-The person explaining is sharing that they have successfully replicated the smallest version of a language model called GPT-2. This model has 124 million parameters, which are machine learning variables that the model uses and adjusts to learn and improve its predictions. They have done this to confirm that their program's setup, also known as its code base, is arranged correctly.
+The presenter is talking about a large and complex AI language model called ChatGPT, which is capable of generating creative and diverse sentences. It is like a software bot able to interact with users and complete various text-based tasks.
+
+Explaining how it works, he mentions that this AI model runs on what is called a 'GPT model,' which stands for 'generally pre-trained Transformer', an architecture introduced in a 2017 paper titled 'Attention is all you need.' This model basically determines how words or phrases follow each other in English.
+
+To understand the working of such a model, the presenter suggests that they would create a similar, but simpler, AI model that also works on the Transformer principle. However, instead of being trained on a vast amount of information like ChatGPT, their model would be trained on a much smaller dataset - a compilation of all the works of Shakespeare. This model, thus, would try to predict the next character in a given sequence from Shakespeare's writings.
+
+The coding for this simpler Transformer model, as per the presenter, can be accessed through his GitHub repository, Nano GPT. The repository contains two files, each with about 300 lines of code. One file defines the GPT model and the second file is used to train it on a given text dataset.

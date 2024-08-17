@@ -1,1 +1,9 @@
-The author explains how to encode and decode strings in a character-level language model like ChatGPT. They suggest iterating through the characters of a given text and creating a dictionary or lookup table that maps each character to a unique integer, and vice versa. To encode a string into numeric form, this process involves converting each individual character into its corresponding integer. The reverse process, decoding, involves translating the series of integers back into their corresponding characters to retrieve the original string.
+The text explained that in order to process and analyze words, we first have to convert them into numbers. This is necessary because the computer recognizes numbers better than letters or words. To do this, we use an encoder which assigns each unique character a unique integer (number). Conversely, a decoder can be used to turn these numbers back into words or characters. 
+
+In the text, they gave the example of "Hi there", which was turned into a series of numbers. Each of these numbers represents a character in the original text. This is part of the process of training an artificial intelligence (AI) system, like ChatGPT, to understand and generate text. 
+
+The text also explains that the AI system knows that certain combinations of numbers (which represent words) tend to follow certain other combinations. By knowing these patterns, the AI can generate new sentences that make sense. 
+
+To illustrate the outputs of the AI system, the author gave examples of prompts given to ChatGPT and the responses it generated. These ranged from philosophical discussions on the use of AI to a humorous news report about a leaf falling from a tree. 
+
+The AI system used a neural network model called a Transformer to complete these tasks. The author also mentioned their own open-source project, Nano GPT, which also uses the Transformer model. This project can be trained on a specific text to understand its patterns and generate similar text.

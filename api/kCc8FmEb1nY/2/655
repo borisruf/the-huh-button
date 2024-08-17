@@ -1,5 +1,7 @@
-The text talks about how GPT (Generatively Pre-Trained Transformer) works, created by OpenAI. GPT is a system that allows us to interact with AI and assign it text-based tasks like writing a poem and providing answers to prompts. GPT generates the sequence of words or characters to answer these prompts. 
+In simple words, we're developing a system which will translate or "encode" every character - A to Z in lower and upper case and different special characters - into a number. This is done by creating a 'lookup' table, which is a catalogue of each character and its corresponding number. 
 
-The discussion then goes deeper into the architecture of GPT; it is based on a system called Transformer, which was initially invented for machine translation. However, it has been adopted in other AI applications. 
+When we want to encode a string of characters, say for instance "hi there", each character in the string is translated into its corresponding number, according to our lookup table. The result is a sequence of numbers.
 
-The speaker also discussed teaching the AI to write like Shakespeare with a character-level language model using the Transformer and how to translate the raw text into a sequence of integers, a process known as tokenization. Tokenization breaks the content into individual words or even parts of words (known as sub-words) to create a vocabulary of possible elements.
+The good thing about our system is it can work the other way too. If we have a sequence of numbers, we can "decode" it back into the original string of characters. We use our lookup table again but in reverse, converting numbers back into their corresponding character.
+
+This translate-back-and-forth system forms the backbone of our AI model that we're developing to work like a 'language model'. This model is capable of generating sequences of characters, a bit like writing sentences, based on the patterns it has learned from large amounts of text data. This way, it will be able to generate text that resembles the structure and style of the original source, like the works of Shakespeare, for instance.

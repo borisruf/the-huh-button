@@ -1,1 +1,8 @@
-A tensor from the PyTorch library is a multi-dimensional matrix containing elements of a single data type. It is similar to NumPy's ndarrays but with the capability to use GPU to accelerate computing if available. Tensors are used as a fundamental data structure in PyTorch to process and handle data in machine learning and deep learning tasks. They support various mathematical operations similar to those used in machine learning algorithms. This makes tensors essential in ML tasks as these operations can be completed more efficiently in a GPU.
+This explanation involves how raw text input is translated or tokenised into sequences of integers for the AI model to process. When encoding text, like a sentence or a word, into a sequence of integers, an arbitrary correspondence between each character or part of the text (referred to as "tokens") and integers is created. There are different ways to do this tokenisation, which can depend on the complexity and size of the vocabulary of the text data set. 
+
+Three main approaches are explained: 
+1) Character-level tokenisation: each character of the text is converted to an integer.
+2) Word-level tokenisation: each word in the text is converted to an integer.
+3) Sub-word unit level tokenisation: small chunks of words (which may not be entire words), also known as sub-word units, are converted to integers. 
+
+The number of unique tokens (characters, words, or sub-word units) gives the size of the vocabulary. A shorter sequence length would correspond to a larger vocabulary size (more unique tokens to encode) while a longer sequence length corresponds to a smaller vocabulary size. This represents a trade-off between the number of tokens and the length of the sequence they form. The approach chosen can depend on factors such as the computational resources available and the specific requirements of the AI model being used.

@@ -1,1 +1,7 @@
-This text is talking about an artificial intelligence program called ChatGPT, which is capable of generating human-like text based on the inputs it receives. They use an example of asking ChatGPT to create a piece of text in the style of Shakespeare. After being "trained" with Shakespeare's works, the AI is able to predict and generate text that is similar to Shakespeare's language and style. Some unexpected errors or 'junk' might appear in the text generated, but overall, the AI successfully creates a text that resembles Shakespeare's writing.
+ChatGPT is an AI system that generates text based on prompts you give it. For instance, if you ask it to write a haiku about the importance of understanding AI, it will generate a response. It can give different responses to the same prompt because it's a system that operates on probabilities. You can ask it to complete various tasks, even humorous ones and it will always try to complete the task.
+
+The system is based on a type of AI architecture called a Transformer, which was proposed in a 2017 research paper. This architecture allows ChatGPT to understand how words and phrases are likely to follow each other in the English language. It operates by completing a sequence of words or characters that you start. 
+
+We can't easily reproduce the whole of ChatGPT, which is a very complex system trained on a large amount of internet data. However, we can create a simpler version based on the Transformer architecture and train it to generate text in the style of Shakespeare. 
+
+Once trained on a file containing all of Shakespeare's works, the AI system can generate 'infinite Shakespeare', i.e., it can generate text that looks and feels like it was written by Shakespeare, even though it's not.

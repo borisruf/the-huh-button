@@ -1,9 +1,1 @@
-The speaker is describing using what is known as an 'encoder' to translate text into numbers that can be understood by the AI system. This is the 'tokenizing' process they refer to. 
-
-In this example, instead of trying to input each possible character one by one, they are breaking the text down into 'tokens'. For most AI language models, they use what is called "sub-word" tokens, breaking down the text into parts of words rather than a single character or the whole word. 
-
-For example, instead of translating each character in "hello" into a unique number, the system would break "hello" down into smaller parts, such as "he" and "llo". Each of these would then be translated into a number or 'token'. 
-
-In the specific system being described, they use a "pipe pair encoding tokenizer", which is a way to break down words into these smaller parts. 
-
-OpenAI's GPT-2 uses this type of system and has up to 50,000 possible tokens it can use to translate text.
+The 'sentence piece' is a system that encodes text into numbers. The way it does this is different from other systems and it uses a different vocabulary. It does this in a way we call a 'sub-word' tokenizer, which means it breaks down words into smaller parts, or 'sub-words', for encoding. This is different from the system we used here, where we broke down the text into characters. Both systems transform text into numbers, but they do it in different ways.

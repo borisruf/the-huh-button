@@ -1,9 +1,7 @@
-This is a discussion about an AI system, Chat GPT. It can generate text based on prompts. For example, it can write poems, jokes, or news reports. This is because it uses a language model to predict what words should follow each other based on a given sequence. This process works because of a system called Transformer, introduced in an AI research paper in 2017. Chat GPT uses Transformer to accurately generate the correct sequence of words.
+This section explains how ChatGPT, a text-based AI system, works and introduces the concept of language modeling. It highlights how an AI system like ChatGPT can generate different responses to the same input as it is probabilistic.
 
-The goal in the discussion is to recreate a version of the Transformer system, but on a smaller scale and using text from William Shakespeare's works, also known as 'Tiny Shakespeare'. This system is trained to generate text by predicting the next character in a Shakespeare text based on previously seen characters.
+It provides an overview of the Transformer neural network architecture, the underlying system that powers ChatGPT and other sophisticated AI applications. The Transformer architecture was originally proposed in a paper titled 'Attention is All You Need' and has since greatly influenced the field of AI.
 
-The characters in the text are tokenized, which means they are converted into integers so that they can be processed. This can result in long sequences of integers because each character is treated as a separate token.
+The discussion then turns to the task at hand - training a Transformer-based language model on a 'character-level' using a dataset known as Tiny Shakespeare. This model will attempt to predict which character is likely to follow a given sequence of characters and generate Shakespearean-like text.
 
-But keep in mind, this discussion is aimed at simplifying the complexities involved in building the real-life AI system, Chat GPT, which is functionally more complex and trained on a larger amount of internet data.
-
-The goal is to give listeners a practical understanding of how systems Like Chat GPT generate human-like text based on given prompts.
+Finally, it introduces tokenization, converting raw text into a sequence of integers according to a vocabulary. In the case of this language model, each character in the text is converted into an integer. Other more advanced models may use a 'sub-word level' where chunks of words rather than individual characters are converted into integers. Different libraries, such as Google's 'sentence piece' and OpenAI's 'tick token', offer these tokenization schemas.

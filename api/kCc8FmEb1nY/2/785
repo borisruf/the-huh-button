@@ -1,9 +1,3 @@
-This text explains how chatbots work, where users can chat with an Artificial Intelligence (AI) and give it text-based tasks. In this case, the AI is programmed to respond differently to each prompt. 
+The speaker is familiarizing the audience with the PyTorch library and the torch.tensor from the PyTorch library. The speaker is using a haiku to demonstrate how Transformer based models, often known as GPT models, can generate seemingly unique responses to the same prompt. The Transformer is criticized as a non-deterministic function, meaning that it can provide different outputs when asked the same question multiple times.
 
-The text then goes on to explain that this chatbot, called ChatGPT, uses a language model to predict the next sequence of words based on previous input. This language model is based on a method called the Transformer, which was created in a 2017 research paper titled "Attention is All You Need".
-
-To train this Transformer-based language model, they use much simpler text, like the works of Shakespeare, to predict how characters follow each other. This method helps in understanding and appreciating how such AI chatbots work. 
-
-The text is then converted into a sequence of integers by a method called tokenization. There are various types of tokenization, like character level, sub-word level, etc. This process helps the AI to understand and process the text better. The goal is to understand how AI chatbots like ChatGPT work. 
-
-Lastly, the text indicates that only the preliminary step of downloading and reading the text data set is completed. The next step will be converting this text to a sequence of integers or tokenizing.
+The speaker is using an application called ChatGPT as an example. The speaker is going to build out something like ChatGPT, and will start by training a Transformer-based language model. The speaker is going to use a smaller dataset known as Tiny Shakespeare dataset. Subsequently, the speaker is going to predict the characters following other characters in the texts of Shakespeare's works. The speaker installs Nano GPT from Github, which is a repository for training Transformers. Finally, the speaker begins coding in Python, using PyTorch.
