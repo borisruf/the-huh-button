@@ -102,7 +102,7 @@ function huh() {
   let resolution = (typeof TIMESTAMP_RESOLUTION !== 'undefined' ? TIMESTAMP_RESOLUTION : 10);
   const roundedTimestamp = Math.floor(currentTimestamp / resolution) * resolution; // Round down to nearest lower multiple of 10
 
-  const url = `${explanationsDirectoryUrl}/1/${roundedTimestamp}`; // Construct the URL for fetching the text file
+  const url = `${explanationsDirectoryUrl}/1/a/${roundedTimestamp}`; // Construct the URL for fetching the text file
 
   fetch(url)
     .then(response => {
@@ -129,7 +129,7 @@ function huuuh() {
   const currentTimestamp = player.getCurrentTime();
   const roundedTimestamp = Math.floor(currentTimestamp / 10) * 10; // Round down to nearest lower multiple of 10
 
-  const url = `${explanationsDirectoryUrl}/2/${roundedTimestamp}`; // Construct the URL for fetching the text file
+  const url = `${explanationsDirectoryUrl}/2/a/${roundedTimestamp}`; // Construct the URL for fetching the text file
 
   fetch(url)
     .then(response => {
