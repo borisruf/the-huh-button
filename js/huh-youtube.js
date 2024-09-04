@@ -176,15 +176,13 @@ function showInfoBox() {
         return response.text()  
         } else {
           alert(defaultText);
+          return;
         }
       }
     )
     .then(data => {
       if (data) {
         alert(`Based on all previous information provided, the AI model was asked to explain the following extract:\n\n "${data}"`);
-      } else {
-        // Show a general string if the online resource does not exist
-        alert(defaultText);
       }
     })
     .catch(error => {
