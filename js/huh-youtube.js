@@ -175,7 +175,7 @@ function showInfoBox() {
       if (response.ok) {
         return response.text()  
         } else {
-          return defaultText
+          alert(defaultText);
         }
       }
     )
