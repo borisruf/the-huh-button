@@ -35,7 +35,7 @@
   margin:auto;
   text-align: center;
 }
-#explanation {
+#explanation-container {
   width:600px;
   padding: 20px;
   background-color: color(display-p3 0.4281 0.5339 0.502);
@@ -43,4 +43,24 @@
   color: white;
   margin:auto;
   display: none;
+  position: relative;
+}
+
+#info-button {
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: none; /* Remove the border */
+  background: none; /* Remove the background */
+  font-size: 12px;
+  cursor: pointer;
+  padding-right: 7px;
+  padding-top: 5px;
+  color: white;
+}
+
+#note {
+  text-align: center;
+  font-family: sans-serif;
+  color: gray;
 }

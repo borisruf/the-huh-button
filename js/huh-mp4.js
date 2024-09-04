@@ -32,7 +32,7 @@ function addButtons() {
   buttonContainer.appendChild(okButton);
   buttonContainer.appendChild(huuuhButton);
 
-  explanationContainer = document.getElementById('explanation')
+  explanationContainer = document.getElementById('explanation-container')
 }
 
 document.addEventListener('DOMContentLoaded', (event) => { 
@@ -108,7 +108,7 @@ function huh() {
       return response.text();
     })
     .then(data => {      
-        streamText(data, 'explanation', [okButton, huuuhButton])
+        streamText(data, 'explanation-container', [okButton, huuuhButton])
       }
       ).catch(error => {
       
@@ -135,7 +135,7 @@ function huuuh() {
       return response.text();
     })
     .then(data => {
-      streamText(data, 'explanation', [okButton])
+      streamText(data, 'explanation-container', [okButton])
     })
     .catch(error => {
       console.error('Error fetching and displaying text file:', error);

@@ -19,8 +19,12 @@
 
   <div id="player"></div><br/>
 
-  <div id="explanation"></div>
+  <div id="explanation-container">
+    <button id="info-button">&#9432;</button>
+    <div id="explanation-content"></div>
+  </div>
   <div class="button-container"></div>
+  <p id="note"></p>
 
 
   <script src="https://www.youtube.com/iframe_api"></script>
@@ -48,6 +52,14 @@
     const BUTTON_DEACTIVATION_DELAY = 825;
     //const BUTTON1_LABEL = "What??"
     //const BUTTON2_LABEL = "Whaaaaaat????"
+
+    function toTime(seconds) {
+      var date = new Date(null);
+      date.setSeconds(seconds);
+      return date.toISOString().substr(11, 8);
+    }
+
+    document.getElementById('note').textContent = '(Note: In this demo, explanations are available from timestamp ' + toTime(BUTTON_ACTIVATION_DELAY) + ' to ' + toTime(BUTTON_DEACTIVATION_DELAY) + ')';
   </script>
   <script src="js/huh-youtube.js"></script>
 </body>

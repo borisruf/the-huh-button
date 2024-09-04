@@ -32,20 +32,24 @@ function addButtons() {
   buttonContainer.appendChild(okButton);
   buttonContainer.appendChild(huuuhButton);
 
-  explanationContainer = document.getElementById('explanation')
+  explanationContainer = document.getElementById('explanation-container')
+  explanationContent = document.getElementById('explanation-content')
 }
 
 document.addEventListener('DOMContentLoaded', (event) => { 
   addButtons()
 
-  document.getElementById("player").addEventListener('timeupdate', () => { 
-  }); 
+  //document.getElementById("player").addEventListener('timeupdate', () => { 
+  //}); 
 
   explanationsDirectoryUrl = SERVER_PATH;
 
   if (explanationsDirectoryUrl.endsWith('/')) {
     explanationsDirectoryUrl = explanationsDirectoryUrl.slice(0, -1);
   }
+
+  const infoButton = document.getElementById('info-button');
+  infoButton.addEventListener('click', showInfoBox);
 
 });
 
@@ -72,8 +76,11 @@ function onPlayerStateChange(event) {
   }
 }
 
-function streamText(text, elementId, buttons) {
-  document.getElementById('explanation').style.display = 'block';
+function streamText(text, elementId, buttons, level, timestamp) {
+  explanationContainer.style.display = 'block';
+
+  explanationContainer.setAttribute('level',level)
+  explanationContainer.setAttribute('timestamp',timestamp)
 
   const textArray = text.split(' '); // Split the text into an array of words
   let i = 0;
@@ -112,7 +119,7 @@ function huh() {
       return response.text();
     })
     .then(data => {      
-        streamText(data, 'explanation', [okButton, huuuhButton])
+        streamText(data, 'explanation-content', [okButton, huuuhButton], 1, roundedTimestamp)
       }
       ).catch(error => {
       
@@ -139,7 +146,7 @@ function huuuh() {
       return response.text();
     })
     .then(data => {
-      streamText(data, 'explanation', [okButton])
+      streamText(data, 'explanation-content', [okButton], 2, roundedTimestamp)
     })
     .catch(error => {
       console.error('Error fetching and displaying text file:', error);
@@ -152,6 +159,35 @@ function understood() {
   huuuhButton.style.display = 'none';
   player.playVideo();
   explanationContainer.style.display = 'none';
-  explanationContainer.innerHTML = '';
+  explanationContent.innerHTML = '';
   okButton.style.display = 'none';
+}
+
+function showInfoBox() {
+  let level = explanationContainer.getAttribute('level')
+  let roundedTimestamp = explanationContainer.getAttribute('timestamp')
+
+  const url = `${explanationsDirectoryUrl}/${level}/q/${roundedTimestamp}`
+  const defaultText = "The AI model was asked to explain the last sentences, based on all previous information provided."
+
+  fetch(url)
+    .then(response => {
+      if (response.ok) {
+        return response.text()  
+        } else {
+          return defaultText
+        }
+      }
+    )
+    .then(data => {
+      if (data) {
+        alert(`Based on all previous information provided, the AI model was asked to explain the following extract:\n\n "${data}"`);
+      } else {
+        // Show a general string if the online resource does not exist
+        alert(defaultText);
+      }
+    })
+    .catch(error => {
+      console.error('Error fetching and displaying info:', error);
+    });
 }
