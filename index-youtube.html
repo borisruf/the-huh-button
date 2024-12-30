@@ -6,12 +6,30 @@
   <title>Educational Video + GenAI Explain Button</title>
     <link rel="stylesheet" type="text/css" href="css/huh.css">
     <style>
-       /* Custom styles go here */
-       #player {
-        width: 640px !important; 
-        height: 360px !important; 
+    /* Custom styles */
+      #player {
+        width: 100%; 
+        max-width: 640px; 
+        aspect-ratio: 16 / 9; /* Maintain a 16:9 aspect ratio */
+        margin: 0 auto; /* Center the player */
       }
-
+  
+      #explanation-container {
+        max-width: 640px;
+        margin: 10px auto;
+        padding: 10px;
+      }
+  
+      /* Button container styling */
+      .button-container {
+        text-align: center;
+      }
+  
+      /* Note styling */
+      #note {
+        text-align: center;
+        font-size: 0.9em;
+      }
     </style>
 </head>
 <body>
