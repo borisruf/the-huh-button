@@ -4,6 +4,10 @@
 
 # Description
 
+
+![Carbon footprint scenario data model](https://raw.githubusercontent.com/borisruf/the-huh-button/main/huh-button.png)
+
+
 This research is about improving learning. More specifically, it looks at how learners can fill in knowledge gaps when they lose track. In face-to-face lectures, for example, they can ask the teacher directly for clarification, but may be reluctant to interrupt. With recorded video lectures, there is no such inhibition threshold, but the replay may not address the root causes of misunderstandings.
 
 Recent advancements in technology provide an opportunity to address this challenge, notably:
