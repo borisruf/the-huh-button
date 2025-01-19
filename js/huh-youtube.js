@@ -1,8 +1,11 @@
 let buttonContainer;
 let explanationContainer;
+let feedbackContainer;
 let huhButton;
 let huuuhButton;
 let okButton;
+let helpfulButton;
+let unhelpfulButton;
 let explanationsDirectoryUrl;
 let interval;
 
@@ -18,14 +21,12 @@ function addButtons() {
   okButton.textContent = 'OK';
   okButton.classList.add('styled-button');
   okButton.style.display = 'none';
-
   okButton.addEventListener('click', understood);
 
   huuuhButton = document.createElement('button');
   huuuhButton.textContent = (typeof BUTTON2_LABEL !== 'undefined') ? BUTTON2_LABEL : 'Huuuh??';
   huuuhButton.classList.add('styled-button');
   huuuhButton.style.display = 'none';
-
   huuuhButton.addEventListener('click', huuuh);
 
   buttonContainer.appendChild(huhButton);
@@ -34,6 +35,15 @@ function addButtons() {
 
   explanationContainer = document.getElementById('explanation-container')
   explanationContent = document.getElementById('explanation-content')
+
+  feedbackContainer = document.getElementById('feedback-container');
+
+  helpfulButton = document.getElementById('helpful-button');
+  helpfulButton.style.display = 'none';
+  helpfulButton.addEventListener("click", helpful);
+  unhelpfulButton = document.getElementById('unhelpful-button');
+  unhelpfulButton.style.display = 'none';
+  unhelpfulButton.addEventListener("click", unhelpful);
 }
 
 document.addEventListener('DOMContentLoaded', (event) => { 
@@ -98,18 +108,37 @@ function streamText(text, elementId, buttons, level, timestamp) {
   }, 50); // Adjust the interval duration as per the desired streaming speed
 }
 
+function getRoundedTimestamp(timestamp) {
+
+  let resolution = (typeof TIMESTAMP_RESOLUTION !== 'undefined' ? TIMESTAMP_RESOLUTION : 10);
+  return Math.floor(timestamp / resolution) * resolution; // Round down to nearest lower multiple of 10
+}
+
+function getExplanationUrl(timestamp, level) {
+
+  const roundedTimestamp = getRoundedTimestamp(timestamp);
+  return`${explanationsDirectoryUrl}/${level}/a/${roundedTimestamp}`;
+}
+
+function getQuestionUrl(timestamp, level) {
+
+  const roundedTimestamp = getRoundedTimestamp(timestamp);
+  return`${explanationsDirectoryUrl}/${level}/q/${roundedTimestamp}`;
+}
+
 
 function huh() {
 
   huhButton.style.display = 'none';
+  helpfulButton.style.display = 'none';
+  unhelpfulButton.style.display = 'none';
 
   player.pauseVideo();
 
   const currentTimestamp = player.getCurrentTime();
-  let resolution = (typeof TIMESTAMP_RESOLUTION !== 'undefined' ? TIMESTAMP_RESOLUTION : 10);
-  const roundedTimestamp = Math.floor(currentTimestamp / resolution) * resolution; // Round down to nearest lower multiple of 10
+  const roundedTimestamp = getRoundedTimestamp(currentTimestamp);
 
-  const url = `${explanationsDirectoryUrl}/1/a/${roundedTimestamp}`; // Construct the URL for fetching the text file
+  let url = getExplanationUrl(currentTimestamp, '1');
 
   fetch(url)
     .then(response => {
@@ -118,8 +147,10 @@ function huh() {
       }
       return response.text();
     })
-    .then(data => {      
-        streamText(data, 'explanation-content', [okButton, huuuhButton], 1, roundedTimestamp)
+    .then(data => {
+        let buttons = [okButton, huuuhButton];
+        if (typeof ENABLE_USER_FEEDBACK !== 'undefined' && (ENABLE_USER_FEEDBACK === true || ENABLE_USER_FEEDBACK === "true") ) {buttons = buttons.concat([helpfulButton, unhelpfulButton])}
+        streamText(data, 'explanation-content', buttons, 1, roundedTimestamp)
       }
       ).catch(error => {
       
@@ -130,13 +161,17 @@ function huh() {
 function huuuh() {
   huuuhButton.style.display = 'none';
   okButton.style.display = 'none';
+  helpfulButton.style.display = 'none';
+  helpfulButton.classList.remove('active');
+  unhelpfulButton.style.display = 'none';
+  unhelpfulButton.classList.remove('active');
 
   player.pauseVideo();
 
   const currentTimestamp = player.getCurrentTime();
-  const roundedTimestamp = Math.floor(currentTimestamp / 10) * 10; // Round down to nearest lower multiple of 10
+  const roundedTimestamp = getRoundedTimestamp(currentTimestamp);
 
-  const url = `${explanationsDirectoryUrl}/2/a/${roundedTimestamp}`; // Construct the URL for fetching the text file
+  let url = getExplanationUrl(currentTimestamp, '2');
 
   fetch(url)
     .then(response => {
@@ -146,7 +181,9 @@ function huuuh() {
       return response.text();
     })
     .then(data => {
-      streamText(data, 'explanation-content', [okButton], 2, roundedTimestamp)
+      let buttons = [okButton];
+      if (typeof ENABLE_USER_FEEDBACK !== 'undefined' && (ENABLE_USER_FEEDBACK === true || ENABLE_USER_FEEDBACK === "true")) {buttons = buttons.concat([helpfulButton, unhelpfulButton])}
+      streamText(data, 'explanation-content', buttons, 2, roundedTimestamp)
     })
     .catch(error => {
       console.error('Error fetching and displaying text file:', error);
@@ -157,6 +194,10 @@ function huuuh() {
 function understood() {
   huhButton.style.display = '';
   huuuhButton.style.display = 'none';
+  helpfulButton.style.display = 'none';
+  helpfulButton.classList.remove('active');
+  unhelpfulButton.style.display = 'none';
+  unhelpfulButton.classList.remove('active');
   player.playVideo();
   explanationContainer.style.display = 'none';
   explanationContent.innerHTML = '';
@@ -167,7 +208,8 @@ function showInfoBox() {
   let level = explanationContainer.getAttribute('level')
   let roundedTimestamp = explanationContainer.getAttribute('timestamp')
 
-  const url = `${explanationsDirectoryUrl}/${level}/q/${roundedTimestamp}`
+  const url = getQuestionUrl(roundedTimestamp, level);
+
   const defaultText = "The AI model was asked to explain the last sentences, based on all previous information provided."
 
   fetch(url)
@@ -188,4 +230,43 @@ function showInfoBox() {
     .catch(error => {
       console.error('Error fetching and displaying info:', error);
     });
+}
+
+function helpful(event) {
+  if (!event.currentTarget.classList.contains('active')) {
+    event.currentTarget.classList.add('active');
+
+    let level = explanationContainer.getAttribute('level');
+
+    let roundedTimestamp = explanationContainer.getAttribute('timestamp');
+    const currentTimestamp = player.getCurrentTime();
+
+    gtag('event', 'feedback_response', {
+      'feedback': 'Useful',
+      'timestamp': currentTimestamp,
+      'roundedTimestamp': roundedTimestamp,
+      'explanation_url': getExplanationUrl(currentTimestamp, level),
+      'question_url': getQuestionUrl(currentTimestamp, level)
+    });
+  }
+}
+
+function unhelpful(event) {
+  if (!event.currentTarget.classList.contains('active')) {
+    event.currentTarget.classList.add('active');
+
+    let level = explanationContainer.getAttribute('level');
+
+    let roundedTimestamp = explanationContainer.getAttribute('timestamp');
+    const currentTimestamp = player.getCurrentTime();
+
+    gtag('event', 'feedback_response', {
+      'feedback': 'Unuseful',
+      'timestamp': currentTimestamp,
+      'roundedTimestamp': roundedTimestamp,
+      'explanation_url': getExplanationUrl(currentTimestamp, level),
+      'question_url': getQuestionUrl(currentTimestamp, level)
+    });
+  }
+
 }

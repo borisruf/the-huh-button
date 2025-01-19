@@ -64,3 +64,23 @@
   font-family: sans-serif;
   color: gray;
 }
+
+#feedback-container {
+  text-align: right;
+}
+
+#helpful-button, #unhelpful-button {
+  background: none;
+  border: none;
+  width: 20px;
+  height: 20px;
+  cursor: pointer;
+}
+
+#helpful-button:not(.active):hover, #unhelpful-button:not(.active):hover {
+    scale: 105%;
+}
+
+#helpful-button.active svg, #unhelpful-button.active svg {
+    fill: lightgrey; 
+}
