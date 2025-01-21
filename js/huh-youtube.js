@@ -140,6 +140,19 @@ function huh() {
 
   let url = getExplanationUrl(currentTimestamp, '1');
 
+  if (typeof ENABLE_USER_FEEDBACK !== 'undefined' && (ENABLE_USER_FEEDBACK === true || ENABLE_USER_FEEDBACK === "true") ) {
+    
+    gtag('event', 'feedback_response', {
+      'video_id': VIDEO_ID,
+      'level': 0,
+      'button': 'huh',
+      'timestamp': currentTimestamp,
+      'roundedTimestamp': roundedTimestamp,
+      'explanation_url': getExplanationUrl(currentTimestamp, 1),
+      'question_url': getQuestionUrl(currentTimestamp, 1)
+    });
+  }
+
   fetch(url)
     .then(response => {
       if (!response.ok) {
@@ -170,6 +183,19 @@ function huuuh() {
 
   const currentTimestamp = player.getCurrentTime();
   const roundedTimestamp = getRoundedTimestamp(currentTimestamp);
+
+  if (typeof ENABLE_USER_FEEDBACK !== 'undefined' && (ENABLE_USER_FEEDBACK === true || ENABLE_USER_FEEDBACK === "true") ) {
+    
+    gtag('event', 'feedback_response', {
+      'video_id': VIDEO_ID,
+      'level': 1,
+      'button': 'huh',
+      'timestamp': currentTimestamp,
+      'roundedTimestamp': roundedTimestamp,
+      'explanation_url': getExplanationUrl(currentTimestamp, 2),
+      'question_url': getQuestionUrl(currentTimestamp, 2)
+    });
+  }
 
   let url = getExplanationUrl(currentTimestamp, '2');
 
@@ -202,6 +228,21 @@ function understood() {
   explanationContainer.style.display = 'none';
   explanationContent.innerHTML = '';
   okButton.style.display = 'none';
+
+  if (typeof ENABLE_USER_FEEDBACK !== 'undefined' && (ENABLE_USER_FEEDBACK === true || ENABLE_USER_FEEDBACK === "true") ) {
+
+    let roundedTimestamp = explanationContainer.getAttribute('timestamp')
+    let level = parseInt(explanationContainer.getAttribute('level'))
+    
+    gtag('event', 'feedback_response', {
+      'video_id': VIDEO_ID,
+      'level': level,
+      'button': 'understood',
+      'roundedTimestamp': roundedTimestamp,
+      'explanation_url': getExplanationUrl(roundedTimestamp, level),
+      'question_url': getQuestionUrl(roundedTimestamp, level)
+    });
+  }
 }
 
 function showInfoBox() {
@@ -242,6 +283,7 @@ function helpful(event) {
     const currentTimestamp = player.getCurrentTime();
 
     gtag('event', 'feedback_response', {
+      'video_id': VIDEO_ID,
       'feedback': 'Useful',
       'timestamp': currentTimestamp,
       'roundedTimestamp': roundedTimestamp,
@@ -261,6 +303,7 @@ function unhelpful(event) {
     const currentTimestamp = player.getCurrentTime();
 
     gtag('event', 'feedback_response', {
+      'video_id': VIDEO_ID,
       'feedback': 'Unuseful',
       'timestamp': currentTimestamp,
       'roundedTimestamp': roundedTimestamp,
