@@ -1,63 +1,54 @@
 let buttonContainer;
 let explanationContainer;
+let feedbackContainer;
 let huhButton;
 let huuuhButton;
 let okButton;
-let player;
+let helpfulButton;
+let unhelpfulButton;
 let explanationsDirectoryUrl;
 let interval;
+let videoElement; // HTML5 video element
 
 function addButtons() {
   buttonContainer = document.querySelector('.button-container');
   huhButton = document.createElement('button');
   huhButton.textContent = (typeof BUTTON1_LABEL !== 'undefined') ? BUTTON1_LABEL : 'Huh?';
   huhButton.classList.add('styled-button');
+  huhButton.disabled = true; 
   huhButton.addEventListener('click', huh);
 
   okButton = document.createElement('button');
   okButton.textContent = 'OK';
   okButton.classList.add('styled-button');
   okButton.style.display = 'none';
-
   okButton.addEventListener('click', understood);
 
   huuuhButton = document.createElement('button');
   huuuhButton.textContent = (typeof BUTTON2_LABEL !== 'undefined') ? BUTTON2_LABEL : 'Huuuh??';
   huuuhButton.classList.add('styled-button');
   huuuhButton.style.display = 'none';
-
   huuuhButton.addEventListener('click', huuuh);
 
   buttonContainer.appendChild(huhButton);
   buttonContainer.appendChild(okButton);
   buttonContainer.appendChild(huuuhButton);
 
-  explanationContainer = document.getElementById('explanation-container')
+  explanationContainer = document.getElementById('explanation-container');
+  explanationContent = document.getElementById('explanation-content');
+
+  feedbackContainer = document.getElementById('feedback-container');
+
+  helpfulButton = document.getElementById('helpful-button');
+  helpfulButton.style.display = 'none';
+  helpfulButton.addEventListener("click", helpful);
+  unhelpfulButton = document.getElementById('unhelpful-button');
+  unhelpfulButton.style.display = 'none';
+  unhelpfulButton.addEventListener("click", unhelpful);
 }
 
 document.addEventListener('DOMContentLoaded', (event) => { 
-  addButtons()
-  player = document.getElementById('player');
-  
-  player.addEventListener('play', () => { 
-    understood();
-    clearInterval(interval); 
-  }); 
-
-  player.addEventListener('timeupdate', () => { 
-    // Check the current time of the video 
-    const currentTime = player.currentTime; 
-
-    const buttonActivationDelay = (typeof BUTTON_ACTIVATION_DELAY !== 'undefined' ? BUTTON_ACTIVATION_DELAY : 10);
-    const buttonDeactivationDelay = (typeof BUTTON_DEACTIVATION_DELAY !== 'undefined' ? BUTTON_DEACTIVATION_DELAY : null);
-
-    // Enable the button if the current time is greater than or equal to 10 seconds 
-    if (currentTime >= buttonActivationDelay && (buttonDeactivationDelay === null || currentTime <= buttonDeactivationDelay)) {
-      huhButton.disabled = false; 
-    } else { 
-      huhButton.disabled = true; 
-    }
-  }); 
+  addButtons();
 
   explanationsDirectoryUrl = SERVER_PATH;
 
@@ -65,11 +56,43 @@ document.addEventListener('DOMContentLoaded', (event) => {
     explanationsDirectoryUrl = explanationsDirectoryUrl.slice(0, -1);
   }
 
+  // Initialize the video element
+  videoElement = document.getElementById('player'); // Ensure you have a video element with this ID
+  videoElement.addEventListener('play', onVideoPlay);
+  videoElement.addEventListener('pause', onVideoPause);
+  videoElement.addEventListener('timeupdate', onTimeUpdate);
+
+  const infoButton = document.getElementById('info-button');
+  infoButton.addEventListener('click', showInfoBox);
 });
 
+function onVideoPlay() {
+  understood();
+}
 
-function streamText(text, elementId, buttons) {
-  document.getElementById('explanation').style.display = 'block';
+function onVideoPause() {
+  clearInterval(interval);
+}
+
+function onTimeUpdate() {
+  const currentTime = videoElement.currentTime;
+
+  const buttonActivationDelay = (typeof BUTTON_ACTIVATION_DELAY !== 'undefined' ? BUTTON_ACTIVATION_DELAY : 10);
+  const buttonDeactivationDelay = (typeof BUTTON_DEACTIVATION_DELAY !== 'undefined' ? BUTTON_DEACTIVATION_DELAY : null);
+
+  // Enable the button if the current time is greater than or equal to 10 seconds 
+  if (currentTime >= buttonActivationDelay && (buttonDeactivationDelay === null || currentTime <= buttonDeactivationDelay)) {
+    huhButton.disabled = false; 
+  } else { 
+    huhButton.disabled = true; 
+  }
+}
+
+function streamText(text, elementId, buttons, level, timestamp) {
+  explanationContainer.style.display = 'block';
+
+  explanationContainer.setAttribute('level', level);
+  explanationContainer.setAttribute('timestamp', timestamp);
 
   const textArray = text.split(' '); // Split the text into an array of words
   let i = 0;
@@ -87,45 +110,44 @@ function streamText(text, elementId, buttons) {
   }, 50); // Adjust the interval duration as per the desired streaming speed
 }
 
-
-function huh() {
-
-  huhButton.style.display = 'none';
-
-  player.pause();
-
-  const currentTimestamp = player.currentTime;
+function getRoundedTimestamp(timestamp) {
   let resolution = (typeof TIMESTAMP_RESOLUTION !== 'undefined' ? TIMESTAMP_RESOLUTION : 10);
-  const roundedTimestamp = Math.floor(currentTimestamp / resolution) * resolution; // Round down to nearest lower multiple of 10
-
-  const url = `${explanationsDirectoryUrl}/1/${roundedTimestamp}`; // Construct the URL for fetching the text file
-
-  fetch(url)
-    .then(response => {
-      if (!response.ok) {
-        throw new Error('404 File not found');
-      }
-      return response.text();
-    })
-    .then(data => {      
-        streamText(data, 'explanation-container', [okButton, huuuhButton])
-      }
-      ).catch(error => {
-      
-      console.error('Error fetching and displaying text file:', error);
-    });
+  return Math.floor(timestamp / resolution) * resolution; // Round down to nearest lower multiple of 10
 }
 
-function huuuh() {
-  huuuhButton.style.display = 'none';
-  okButton.style.display = 'none';
+function getExplanationUrl(timestamp, level) {
+  const roundedTimestamp = getRoundedTimestamp(timestamp);
+  return `${explanationsDirectoryUrl}/${level}/a/${roundedTimestamp}`;
+}
 
-  player.pause();
+function getQuestionUrl(timestamp, level) {
+  const roundedTimestamp = getRoundedTimestamp(timestamp);
+  return `${explanationsDirectoryUrl}/${level}/q/${roundedTimestamp}`;
+}
 
-  const currentTimestamp = player.currentTime;
-  const roundedTimestamp = Math.floor(currentTimestamp / 10) * 10; // Round down to nearest lower multiple of 10
+function huh() {
+  huhButton.style.display = 'none';
+  helpfulButton.style.display = 'none';
+  unhelpfulButton.style.display = 'none';
 
-  const url = `${explanationsDirectoryUrl}/2/${roundedTimestamp}`; // Construct the URL for fetching the text file
+  videoElement.pause();
+
+  const currentTimestamp = videoElement.currentTime;
+  const roundedTimestamp = getRoundedTimestamp(currentTimestamp);
+
+  let url = getExplanationUrl(currentTimestamp, '1');
+
+  if (typeof ENABLE_USER_FEEDBACK !== 'undefined' && (ENABLE_USER_FEEDBACK === true || ENABLE_USER_FEEDBACK === "true")) {
+    gtag('event', 'feedback_response', {
+      'video_id': VIDEO_ID,
+      'level': 0,
+      'button': 'huh',
+      'timestamp': currentTimestamp,
+      'roundedTimestamp': roundedTimestamp,
+      'explanation_url': getExplanationUrl(currentTimestamp, 1),
+      'question_url': getQuestionUrl(currentTimestamp, 1)
+    });
+  }
 
   fetch(url)
     .then(response => {
@@ -135,71 +157,150 @@ function huuuh() {
       return response.text();
     })
     .then(data => {
-      streamText(data, 'explanation-container', [okButton])
+      let buttons = [okButton, huuuhButton];
+      if (typeof ENABLE_USER_FEEDBACK !== 'undefined' && (ENABLE_USER_FEEDBACK === true || ENABLE_USER_FEEDBACK === "true")) {
+        buttons = buttons.concat([helpfulButton, unhelpfulButton]);
+      }
+      streamText(data, 'explanation-content', buttons, 1, roundedTimestamp);
     })
     .catch(error => {
       console.error('Error fetching and displaying text file:', error);
     });
 }
 
+function huuuh() {
+  huuuhButton.style.display = 'none';
+  okButton.style.display = 'none';
+  helpfulButton.style.display = 'none';
+  helpfulButton.classList.remove('active');
+  unhelpfulButton.style.display = 'none';
+  unhelpfulButton.classList.remove('active');
+
+  videoElement.pause();
+
+  const currentTimestamp = videoElement.currentTime;
+  const roundedTimestamp = getRoundedTimestamp(currentTimestamp);
+
+  if (typeof ENABLE_USER_FEEDBACK !== 'undefined' && (ENABLE_USER_FEEDBACK === true || ENABLE_USER_FEEDBACK === "true")) {
+    gtag('event', 'feedback_response', {
+      'video_id': VIDEO_ID,
+      'level': 1,
+      'button': 'huh',
+      'timestamp': currentTimestamp,
+      'roundedTimestamp': roundedTimestamp,
+      'explanation_url': getExplanationUrl(currentTimestamp, 2),
+      'question_url': getQuestionUrl(currentTimestamp, 2)
+    });
+  }
+
+  let url = getExplanationUrl(currentTimestamp, '2');
+
+  fetch(url)
+    .then(response => {
+      if (!response.ok) {
+        throw new Error('404 File not found');
+      }
+      return response.text();
+    })
+    .then(data => {
+      let buttons = [okButton];
+      if (typeof ENABLE_USER_FEEDBACK !== 'undefined' && (ENABLE_USER_FEEDBACK === true || ENABLE_USER_FEEDBACK === "true")) {
+        buttons = buttons.concat([helpfulButton, unhelpfulButton]);
+      }
+      streamText(data, 'explanation-content', buttons, 2, roundedTimestamp);
+    })
+    .catch(error => {
+      console.error('Error fetching and displaying text file:', error);
+    });
+}
 
 function understood() {
   huhButton.style.display = '';
   huuuhButton.style.display = 'none';
-  player.play();
+  helpfulButton.style.display = 'none';
+  helpfulButton.classList.remove('active');
+  unhelpfulButton.style.display = 'none';
+  unhelpfulButton.classList.remove('active');
+  videoElement.play();
   explanationContainer.style.display = 'none';
-  explanationContainer.innerHTML = '';
+  explanationContent.innerHTML = '';
   okButton.style.display = 'none';
+
+  if (typeof ENABLE_USER_FEEDBACK !== 'undefined' && (ENABLE_USER_FEEDBACK === true || ENABLE_USER_FEEDBACK === "true")) {
+    let roundedTimestamp = explanationContainer.getAttribute('timestamp');
+    let level = parseInt(explanationContainer.getAttribute('level'));
+    
+    gtag('event', 'feedback_response', {
+      'video_id': VIDEO_ID,
+      'level': level,
+      'button': 'understood',
+      'roundedTimestamp': roundedTimestamp,
+      'explanation_url': getExplanationUrl(roundedTimestamp, level),
+      'question_url': getQuestionUrl(roundedTimestamp, level)
+    });
+  }
 }
 
-//function displayhuhSection(transcript, currentTimeStamp) {
-//	
-//  // Parse the transcript to find the section related to the timestamp
-//  // You can use libraries like "srt-parser-3" to parse the SRT file
-//  // For simplicity, let's assume the transcript is in the format: timestamp --> text
-//  const lines = transcript.split('\n');
-//  let section = '';
-//  for (let i = 1; i < lines.length - 2; i += 4) {
-//
-//    const { start, end } = extractStartAndEndTimestamps(lines[i]);
-//
-//    if (currentTimeStamp >= start && currentTimeStamp <= end) {
-//      section += lines[i + 1] + '<br>';
-//    }
-//  }
-//
-//  document.getElementById('huhSection').innerHTML = section;
-//}
-//
-//function extractStartAndEndTimestamps(timestampString) {
-//  const [start, end] = timestampString.split(' --> ');
-//  return { start, end };
-//}
+function showInfoBox() {
+  let level = explanationContainer.getAttribute('level');
+  let roundedTimestamp = explanationContainer.getAttribute('timestamp');
 
+  const url = getQuestionUrl(roundedTimestamp, level);
+  const defaultText = "The AI model was asked to explain the last sentences, based on all previous information provided.";
 
-//function convertSecondsToTimestamp(seconds) {
-//  const hours = Math.floor(seconds / 3600);
-//  const minutes = Math.floor((seconds % 3600) / 60);
-//  const remainingSeconds = seconds % 60;
-//  const milliseconds = Math.floor((remainingSeconds % 1) * 1000);
-//  const formattedTimestamp = 
-//    padWithZero(hours) + ':' + 
-//    padWithZero(minutes) + ':' + 
-//    padWithZero(Math.floor(remainingSeconds)) + ',' + 
-//    padMilliseconds(milliseconds);
-//  return formattedTimestamp;
-//}
+  fetch(url)
+    .then(response => {
+      if (response.ok) {
+        return response.text();  
+      } else {
+        alert(defaultText);
+        return;
+      }
+    })
+    .then(data => {
+      if (data) {
+        alert(`Based on all previous information provided, the AI model was asked to explain the following extract:\n\n "${data}"`);
+      }
+    })
+    .catch(error => {
+      console.error('Error fetching and displaying info:', error);
+    });
+}
 
-//function padWithZero(number) {
-//  return (number < 10 ? '0' : '') + number;
-//}
+function helpful(event) {
+  if (!event.currentTarget.classList.contains('active')) {
+    event.currentTarget.classList.add('active');
 
-//function padMilliseconds(milliseconds) {
-//  if (milliseconds < 10) {
-//    return "00" + milliseconds;
-//  } else if (milliseconds < 100) {
-//    return "0" + milliseconds;
-//  } else {
-//    return milliseconds;
-//  }
-//}
+    let level = explanationContainer.getAttribute('level');
+    let roundedTimestamp = explanationContainer.getAttribute('timestamp');
+    const currentTimestamp = videoElement.currentTime;
+
+    gtag('event', 'feedback_response', {
+      'video_id': VIDEO_ID,
+      'feedback': 'Useful',
+      'timestamp': currentTimestamp,
+      'roundedTimestamp': roundedTimestamp,
+      'explanation_url': getExplanationUrl(currentTimestamp, level),
+      'question_url': getQuestionUrl(currentTimestamp, level)
+    });
+  }
+}
+
+function unhelpful(event) {
+  if (!event.currentTarget.classList.contains('active')) {
+    event.currentTarget.classList.add('active');
+
+    let level = explanationContainer.getAttribute('level');
+    let roundedTimestamp = explanationContainer.getAttribute('timestamp');
+    const currentTimestamp = videoElement.currentTime;
+
+    gtag('event', 'feedback_response', {
+      'video_id': VIDEO_ID,
+      'feedback': 'Unuseful',
+      'timestamp': currentTimestamp,
+      'roundedTimestamp': roundedTimestamp,
+      'explanation_url': getExplanationUrl(currentTimestamp, level),
+      'question_url': getQuestionUrl(currentTimestamp, level)
+    });
+  }
+}
