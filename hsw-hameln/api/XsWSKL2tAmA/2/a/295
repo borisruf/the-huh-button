@@ -1,0 +1,7 @@
+Jede IP-Adresse (zum Beispiel 172.16.14.193) besteht aus einer Reihe von Zahlen und Punkten und ist verbunden mit einer sogenannten Subnetzmaske. Diese Subnetzmaske besteht auch aus Zahlen und Punkten und hat die Aufgabe, den Teil der IP-Adresse zu definieren, der das Netzwerk repräsentiert, und den Teil, der den speziellen Computer (oder "Host") in diesem Netzwerk repräsentiert.
+
+In einer Subnetzmaske sind die "1en" der Teil, der das Netzwerk definiert, und die "0en" sind der Teil, der den speziellen Computer definiert. Zum Beispiel, wenn wir die Subnetzmaske 255.255.0.0 haben, bedeutet das, dass die ersten beiden Zahlen (oder "Oktette") das Netzwerk repräsentieren und die letzten beiden den speziellen Computer. In diesem Fall könnte unser Netzwerk zum Beispiel "172.16" sein und unser Computer könnte jede Kombination der letzten beiden Zahlen sein.
+
+Um herauszufinden, welche Teile der IP-Adresse das Netzwerk und den Computer darstellen, vergleichen wir die IP-Adresse und die Subnetzmaske. Dabei suchen wir nach den Stellen, an denen beide eine "1" haben. Diese Stellen zeigen uns den Netzwerk-Teil. Der Rest ist der Computer-Teil.
+
+Zum Beispiel, wenn unsere IP-Adresse 172.16.14.193 und unsere Subnetzmaske 255.255.0.0 ist, können wir sehen, dass die ersten beiden Zahlen der IP-Adresse (172 und 16) den Netzwerk-Teil repräsentieren, weil sie beide eine "1" in der Subnetzmaske haben. Der Rest der IP-Adresse (14 und 193) repräsentiert den Computer.

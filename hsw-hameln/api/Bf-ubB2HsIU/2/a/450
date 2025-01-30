@@ -1,0 +1,3 @@
+Stell dir vor du hast ein großes Puzzle. Jedes einzelne Puzzleteil ist wie ein Datenpaket, das im Internet verschickt wird. Auf der Rückseite von jedem Puzzleteil ist eine Nummer, die zeigt, wo es im fertigen Puzzle gehört. Wenn du das Puzzle zusammensetzt, sortierst du die Teile nach ihren Nummern, um das Gesamtbild herzustellen.
+
+Jetzt stell dir vor, einige Puzzleteile kommen nicht an. Das wäre, als ob im Internet einige Datenpakete verloren gehen. Du würdest eine Lücke im Puzzle sehen. Das ist das, was die Aussage mit "Abbruch" meint - einige Daten wurden nicht gesendet.

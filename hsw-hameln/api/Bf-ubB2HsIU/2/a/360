@@ -1,0 +1,7 @@
+In Computernetzwerken gibt es etwas, das wir "Ports" nennen. Ports sind wie Türen, durch die Informationen (Daten) in und aus einem Computer oder Netzwerk fließen. Es gibt viele verschiedene Ports, und jeder hat eine bestimmte Nummer. 
+
+Einige Ports sind für bestimmte Arten von Daten reserviert. Zum Beispiel könnte ein Port für Web-Browser-Daten reserviert sein, während ein anderer Port für E-Mails reserviert ist. 
+
+In diesem Fall sprechen wir von "Well-Known-Ports". Diese Ports haben Nummern von 1 bis 1023 und sind fest für bestimmte Anwendungen (wie Web-Browser oder E-Mail) zugewiesen. Das bedeutet, dass diese Ports immer für diese speziellen Anwendungen verwendet werden.
+
+Das ist eine Menge Ports, aber es ermöglicht es Computern und Netzwerken, viele verschiedene Arten von Daten zur gleichen Zeit zu senden und zu empfangen. Denkt daran, als würde jeder Port eine spezielle Tür für eine bestimmte Art von Daten sein.

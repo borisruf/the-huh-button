@@ -1,0 +1,5 @@
+Das Bild zeigt, dass alle "Ports" (das sind wie Türen, durch die Daten durchgehen) von unseren Daten-Transportwegen gerade rot sind. Das heißt, sie sind im Moment "blockiert" und schicken keine normalen Daten weiter. 
+
+Das haben wir so gemacht, um unser Computer-Netzwerk sicher zu machen. Wenn wir viele verschiedene Wege für die Daten haben (das nennt man "Redundanzen"), kann es passieren, dass die Computer durcheinander kommen und Daten immer im Kreis schicken, weil sie nicht wissen, wohin sie sollen. Das wäre schlecht, weil es unser Netzwerk belasten würde, aber wir können es verhindern, indem wir bestimmte Daten-Transportwege blockieren.
+
+Das machen wir mit etwas, das sich "Spanning-Tree-Protokoll" nennt. Also haben wir alle "Türen" erstmal zu gemacht und lassen nur Informationen über das Spanning-Tree-Protokoll durch. Später machen wir dann bestimmte "Türen" wieder auf, damit die normalen Daten weitergehen können.

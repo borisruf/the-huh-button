@@ -1,0 +1,5 @@
+Wenn wir ein Netzwerk aufbauen, wollen wir, dass es immer funktioniert und nicht plötzlich ausfällt. Deshalb bauen wir mehrere Verbindungen und Schalter (Switches) ein. Das Problem ist, dass diese vielen Verbindungen manchmal Schleifen bilden. Das ist wie wenn man im Kreis läuft und den Ausgang nicht findet. Genau das passiert mit den Daten im Netzwerk: Sie finden keinen Empfänger und werden immer wieder im Kreis geschickt. Dadurch kann das Netzwerk überlastet werden.
+
+Um das zu lösen, gibt es ein System namens Spanning-Tree. Das blockiert bestimmte Wege im Netzwerk. Wenn wir dieses System einschalten, werden erstmal alle Daten gestoppt und nur noch Informationen über Spanning-Tree ausgetauscht. Alle Verbindungen an den Schaltern werden blockiert.
+
+Wenn das System dann die besten Wege im Netzwerk gefunden hat, wird der normale Datenverkehr wieder starten. Das möchten wir uns jetzt genauer ansehen. Auf dem Bild sehen wir, dass alle Verbindungen momentan rot sind, also blockiert.

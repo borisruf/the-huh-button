@@ -1,0 +1,7 @@
+Diese Aussage erklärt, was passiert, wenn eine Leitung in einem Computernetzwerk, die normalerweise Daten sendet, nicht mehr funktioniert. In so einem Netzwerk gibt es viele Computerteile (genannt Switches), die alle zusammenarbeiten, um Informationen hin und her zu senden. Manchmal kann es passieren, dass diese Teile keine Information darüber haben, wo sie die Daten hin senden sollen. Dann kann es passieren, dass sie die Daten einfach weiter und weiter hin- und herschicken. Das kann Probleme machen. 
+
+Um das zu verhindern, gibt es eine Lösung namens Spanning-Tree-Protokoll. Wenn diese Lösung angewendet wird, werden bestimmte Verbindungen zwischen den Computerteilen blockiert. Dann können sie keine Daten mehr senden. Sie schicken nur noch Informationen über das Spanning-Tree-Protokoll. Das ist sozusagen eine Pause, in der entschieden wird, welches Computerteil die wichtigste Rolle im Netzwerk spielt (die sogenannte Root-Bridge). 
+
+Sobald das entschieden ist, fängt der normale Datenaustausch wieder an. Aber nur über bestimmte Verbindungen - nicht mehr über alle. Die Verbindungen, die blockiert bleiben, sind wie Reserve-Verbindungen. Sie werden nur benutzt, wenn eine der aktiven Verbindungen ausfällt. Dann können sie schnell aktiviert werden und die Daten senden, die die ausgefallene Verbindung nicht mehr senden kann. 
+
+Die Frage am Ende fragt daher, was passiert, wenn eine der aktiven Verbindungen ausfällt.

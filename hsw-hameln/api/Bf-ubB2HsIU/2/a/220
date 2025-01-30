@@ -1,0 +1,5 @@
+Mit "Ende-zu-Ende-Kontrolle" meinen wir, dass wir sicherstellen wollen, dass alle Daten, die wir senden, auch wirklich ankommen und keine Fehler haben. Das ist besonders wichtig, wenn wir im Internet unterwegs sind oder Daten zwischen Computern austauschen.
+
+"TCP" ist so ein Art Weganweisung für Daten. Es sorgt dafür, dass die Daten, die wir senden, auch richtig ankommen. In einem "TCP-Header", der wie eine Art Verpackung für die Daten ist, steht alles drin, was für den Transport der Daten wichtig ist. Wenn wir uns so einen "TCP-Header" genau anschauen, können wir sehen, wie die Daten auf ihre Reise geschickt werden.
+
+Ein Teil von dem, was wir bei Computernetzwerken lernen, ist das sogenannte "TCP-IP-Modell". Das gibt uns Regeln vor, wie Daten zwischen Computern hin und her geschickt werden. Dazu gehört auch, dass wir die Daten kontrollieren, ob sie richtig ankommen und keine Fehler haben. Auch sollen die Daten unabhängig von der Technik, die wir benutzen, und von der Art des Computers, der die Daten empfängt, transportiert werden können. All das und noch mehr packen wir in den "TCP-Header" hinein.

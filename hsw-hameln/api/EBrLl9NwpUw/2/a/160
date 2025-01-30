@@ -1,0 +1,7 @@
+Manchmal wollen wir ein Netzwerk sicher machen, indem wir mehrere Verbindungen und Wege haben, falls einer ausfällt. Das ist wie ein Straßennetz mit vielen Wegen, damit man immer noch ans Ziel kommt, wenn eine Straße gesperrt ist. Aber wenn wir viele Switches (die sind wie Verkehrskreisel) haben, kann das dazu führen, dass einige Datenpakete (das sind wie Autos) immer im Kreis fahren und nicht ans Ziel kommen. Das nennt man eine Schleife.
+
+Das ist schlecht, weil es viele Ressourcen verbraucht, wie wenn viele Autos ständig im Kreisverkehr fahren und Staus verursachen. Um das zu verhindern, gibt es ein System namens Spanning-Tree. 
+
+Wenn man Spanning-Tree benutzt, passiert zuerst, dass alle Verbindungen zwischen den Switches blockiert werden - das wäre wie wenn man alle Straßen sperrt. Dann sprechen die Switches nur noch über das Spanning-Tree-System miteinander.
+
+Wenn das abgeschlossen ist, geht der normale Verkehr wieder los. Aber nicht mehr alle Wege sind offen, nur die, die das System ausgewählt hat. Auf diese Weise werden Schleifen verhindert und das Netzwerk läuft weiterhin reibungslos.

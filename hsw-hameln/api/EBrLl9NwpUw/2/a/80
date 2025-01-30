@@ -1,0 +1,7 @@
+Okay, also stell dir vor, du hast ein Netzwerk von Computern, die durch Switche miteinander verbunden sind. Manchmal haben wir mehrere Verbindungswege zwischen den Computern, um sicherzustellen, dass wenn ein Weg ausfällt, die Informationen immer noch weitergegeben werden können. Aber wenn wir das nicht richtig machen, können wir eine Schleife erzeugen. Das ist wie ein Kreisverkehr, wo ein Auto einfach immer weiter fahren kann, ohne einen Ausgang zu finden.
+
+Jetzt passiert es manchmal, dass ein Paket - also eine Information oder eine Datei, die von einem Computer zu einem anderen geschickt wird - an die falsche Adresse geschickt wird. Wenn das Paket in so einer Schleife landet, kann es sein, dass es immer wieder im Kreis geschickt wird, weil niemand weiß, wohin es gehen soll.
+
+Das kann zu einem Problem führen, das wir Broadcast-Storm nennen. Das ist, als ob alle Switche gleichzeitig schreien würden "Hey, wer weiß, wo dieses Paket hingehen soll?" Das kann das Netzwerk überlasten und es sehr langsam machen.
+
+Das wäre also schlecht und wir müssen sicherstellen, dass wir solche Schleifen vermeiden oder dass wir eine Möglichkeit haben, dieses Problem zu erkennen und zu lösen, wenn es passiert.

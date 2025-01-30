@@ -1,0 +1,5 @@
+In diesem Text geht es um die sogenannten IP-Adressen. Das sind wie Hausadressen für Computer und andere Geräte, die sich mit dem Internet verbinden. In der IP-Adresse gibt es zwei Teile. Ein Teil sagt etwas über das Netzwerk, in dem ein Gerät ist und der andere Teil sagt etwas speziell über das Gerät selbst.
+
+Diese zwei Teile werden durch etwas Bestimmtes getrennt, das man "Subnetzmaske" nennt. Je nachdem, wie diese Subnetzmaske aussieht, kann das Netzwerk entweder mehr oder weniger Geräte enthalten. Und diese Subnetzmaske kann auch dafür sorgen, dass es entweder mehr oder weniger verschiedene Netzwerke gibt. Man stellt sich also die Subnetzmaske ein bisschen wie eine Art Regelbuch vor, das bestimmt, wie viele und welche Geräte mit einem Netzwerk verbunden werden können.
+
+Dabei ist es besonders wichtig, wie viele Nullen es in der Subnetzmaske gibt. Denn jede Null bedeutet, dass es einen Platz für ein Gerät im Netzwerk gibt. Je mehr Nullen, desto mehr Geräte können also in das Netzwerk.

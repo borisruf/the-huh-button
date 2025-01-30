@@ -1,0 +1,3 @@
+In unserem Netzwerk machen wir alles doppelt oder mehrfach, damit das Netzwerk nicht kaputt geht wenn etwas versagt. Das nennt man Redundanz, also verschiedene Wege und Verbindungsstücke. Manchmal benutzen wir viele Schalter (Switches), um diese Redundanz zu erstellen. Aber das kann auch dazu führen, dass wir Schleifen bauen, was in einem Netzwerk eigentlich ein Fehler ist. Diese Schleifen sind nicht wirklich dafür gemacht. 
+
+Was bedeutet das? Stell dir vor, diese Schleife ist wie ein Kreislauf. Wenn wir Schleifen haben, passiert es manchmal, dass unsere Schalter (Switches) die Pakete (das sind Daten, die wir durch das Netzwerk schicken) immer wieder um den Kreis schicken. Und das machen sie, weil sie nicht wissen, wohin die Pakete eigentlich sollen.

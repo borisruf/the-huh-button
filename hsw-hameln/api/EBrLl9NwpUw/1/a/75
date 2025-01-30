@@ -1,0 +1,3 @@
+Die Aussage lässt sich folgendermaßen zusammenfassen: 
+
+In einem Computernetzwerk kann es zu einem "Broadcast-Storm" kommen, wenn man mehrere Switches installiert, um Redundanzen zu schaffen. Diese Switches können Schleifen erzeugen, innerhalb derer Datenpakete keinen Empfänger finden und unendlich hin und her geworfen werden. Dies führt dazu, dass das Netzwerk durch einen ständigen Datenstrom (Broadcast) überflutet wird, was eine starke Belastung der Netzwerkressourcen darstellt.

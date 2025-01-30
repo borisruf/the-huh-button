@@ -1,0 +1,5 @@
+Die Aussage dreht sich um die Art und Weise, wie im Internet Daten von einem Ort zum anderen geschickt werden. Das nennt man Kommunikation. Bei dieser Kommunikation gibt es eine Menge Regeln, damit alles funktioniert. Ein paar von denen haben wir schon gelernt. Zum Beispiel müssen wir immer bestätigen, dass wir eine Nachricht bekommen haben. Auch braucht jede Nachricht eine eigene Nummer, damit wir wissen, ob vielleicht eine Nachricht fehlt. Und am Ende der Übertragung sagen wir auch Bescheid, dass jetzt alle Nachrichten angekommen sind. 
+
+Ein anderes Thema, das wir schon besprochen haben, ist das sogenannte "Sliding-Window-Verfahren". Das ist eine Methode, um zu entscheiden, wie viele Nachrichten wir auf einmal verschicken oder empfangen können. 
+
+Kurz gesagt, wir schauen uns in diesem Kapitel genauer an, wie die Kommunikation im Internet abläuft und welche Regeln dabei beachtet werden müssen.

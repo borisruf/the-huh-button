@@ -1,0 +1,3 @@
+Wir erinnern uns an die IP-Adresse, die aus Zahlen besteht, wobei jede Zahl durch einen Punkt getrennt ist. Nehmen wir zum Beispiel die IP-Adresse 172.16.14.193. Diese besteht aus vier Gruppen - auch Oktette genannt. Eine IP-Adresse und die dazu gehörende Subnetzmaske arbeiten zusammen, um Teile einer IP-Adresse für spezielle Zwecke zu verwenden.
+
+Um dies gut zu verstehen, müssen wir die IP-Adresse in eine Form umwandeln, die wir "binär" nennen. Diese repräsentiert die Zahlen als Kombinationen von 0 und 1. Beim Umrechnen von dieser binären Form zu unserer normalen, dezimalen Form (die Zahlen, wie wir sie kennen), schauen wir uns den Wert von jedem einzelnen Bit (den 0en und 1en) in jedem dieser Oktette an.

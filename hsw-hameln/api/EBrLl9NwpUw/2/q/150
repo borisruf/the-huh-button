@@ -1,0 +1,1 @@
+ Das Einzige, was diese Switches dann noch untereinander austauschen, sind eben Informationen zu Spanning-Tree, also über das Spanning-Tree-Protokoll.  Sämtliche Ports an den Switches gehen einen sogenannten Blocking-Status, also normale Daten werden nicht mehr übertragen.

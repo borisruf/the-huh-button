@@ -1,0 +1,1 @@
+ Wir sehen dort ARP, wir haben damit eine Möglichkeit MAC-Adressen eindeutig zu IP-Adressen zuzuordnen, aber auf dieser Schicht befinden sich eben auch unsere Routing-Protokolle, die eben Wegefindungsinformationen zwischen verschiedenen Routern austauschen können.

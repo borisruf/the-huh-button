@@ -1,0 +1,1 @@
+Diese Aussage erklärt, dass eine IP-Adresse aus zwei Teilen besteht - dem Netzanteil und dem Hostanteil. Die Subnetzmaske ist ein Werkzeug, das verwendet wird, um zu bestimmen, welche Teile der IP-Adresse den Netzanteil und welchen Teil den Hostanteil repräsentieren. Es trennt die IP-Adresse in eine Netzwerkadresse und eine Geräteadresse.

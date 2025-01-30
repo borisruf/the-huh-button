@@ -1,0 +1,11 @@
+Das Internet und Computer-Netzwerke funktionieren, weil sie verschiedene Regeln und Systeme nutzen. Diese Systeme helfen dabei, zu verstehen, wie Daten von einem Ort zum anderen gesendet werden.
+
+Ein wichtiger Teil dieser Systeme sind die sogenannten "Protokolle". Zwei dieser Protokolle sind TCP und IP. Sie helfen, zu verstehen, wie Daten auf Computern aussehen und was passiert, wenn sie gesendet werden.
+
+"TCP" ist ein Protokoll, das hilft sicherzustellen, dass Daten richtig und sicher von einem Punkt zum anderen gelangen. Stell dir vor, du sendest eine Postkarte an jemanden. TCP hilft sicherzustellen, dass die Postkarte richtig zugestellt wird, genau wie es der Postbote tut.
+
+IP nennen wir das "verbindungslose" Protokoll, denn es hilft nur, die Information zu versenden, aber es macht sich keine Gedanken darüber, ob die Information richtig oder überhaupt angekommen ist - genau wie wenn du einen Stein ins Wasser wirfst und dich nicht darum kümmerst, ob der Stein überhaupt den Grund des Wassers erreicht.
+
+TCP ist dann wie unser Postbote, der dafür sorgt, dass die Postkarte (unsere Information) sicher und korrekt beim Empfänger ankommt.
+
+Es ist ein bisschen kompliziert, aber das Wichtigste ist: Diese Protokolle helfen uns dabei, Daten sicher und korrekt von einem Ort zum anderen zu senden.

@@ -1,0 +1,5 @@
+In diesem Vortrag reden wir über etwas, das TCP-IP-Modell genannt wird, das eine Art Grundplan für Netzwerke ist. Netzwerke sind wie Autobahnen für Informationen, die auf Computern oder ähnlichen Geräten gespeichert sind. Und dieses TCP-IP-Modell ist wie die Blaupause oder der Plan für diese Autobahn.
+
+Wir sehen eine Zeichnung davon, die vier Ebenen oder Schritte hat. Jede Ebene hat eine spezielle Aufgabe, um sicherzustellen, dass die Informationen von einem Punkt zum anderen gelangen. Und auch wenn es nur vier Ebenen gibt, decken sie alle wichtigen Dinge ab, die wir wissen müssen, um zu verstehen, wie Netzwerke funktionieren.
+
+Außerdem wollte man mit diesem Modell sicherstellen, dass es egal ist, welche Art von Netzwerk oder Computer man benutzt. Es sollte so gestaltet sein, dass es mit allen funktioniert. Das heißt, es ist unabhängig von der spezifischen Technologie oder Struktur, die man hat. Es ist wie eine Autobahn, die sowohl für Lastwagen als auch für Motorräder genutzt werden kann.

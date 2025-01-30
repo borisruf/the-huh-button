@@ -1,0 +1,7 @@
+In unserem Netzwerk haben wir mehrere Möglichkeiten, Informationen zu senden, und mehrere Geräte, die diese Infos austauschen (das nennen wir Redundanz). Das ist gut, weil das Netzwerk so nicht ausfällt, wenn ein Weg oder Gerät kaputt geht. 
+
+Aber manchmal wissen diese Geräte, die "Switches" genannt werden, nicht, wohin sie die Informationen schicken sollen. Dann können sie die Informationen immer wieder hin und her schicken, als ob sie in einer Schleife gefangen wären. 
+
+Das kann unser Netzwerk überlasten und kann als "Broadcast-Storm" bezeichnet werden. Um das zu lösen, können wir etwas namens "Spanning-Tree" -Protokoll verwenden. 
+
+Dieses blockiert einfach einige der zusätzlichen Wege zwischen den Switches. So kann ein Info-Paket, das nicht weiß, wohin es geschickt werden soll, nicht mehr zwischen diesen Switches zirkulieren. So wird das Netzwerk nicht mehr überlastet.

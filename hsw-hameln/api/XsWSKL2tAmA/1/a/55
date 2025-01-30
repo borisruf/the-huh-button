@@ -1,0 +1,1 @@
+Die Aussage bedeutet, dass jede IP-Adresse aus zwei Teilen besteht: dem Netzwerk- und dem Hostanteil. Die Subnetzmaske bestimmt, welcher Teil der IP-Adresse zum Netzwerk und welcher zum Host gehört. Daher kann eine IP-Adresse nicht unabhängig betrachtet werden, sondern immer nur in Bezug auf die zugehörige Subnetzmaske.

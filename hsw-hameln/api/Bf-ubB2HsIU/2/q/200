@@ -1,0 +1,1 @@
+ Es wird dafür gesorgt, dass wir dort ein Multiplexing haben und zwar im Full-Duplex-Verfahren, da gucken wir gleich nochmal genauer drauf.  Wir stellen mit diesem Protokoll einen zuverlässigen, verbindungsorientierten Dienst bereit und wie machen wir das?

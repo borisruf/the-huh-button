@@ -1,0 +1,11 @@
+Jeder Computer hat eine IP-Adresse, sie ist wie die Adresse eines Hauses. Die IP-Adresse besteht aus vier Teilen, wir nennen sie Oktette. Jedes Oktett kann Werte von 0 bis 255 haben.
+
+Es gibt auch eine Subnetzmaske. Sie funktioniert ein bisschen wie ein Schlusseldienst für die IP-Adresse. Die Subnetzmaske hilft uns, den Netzwerk- und Host-Teil einer IP-Adresse zu finden. Die Subnetzmaske besteht auch aus vier Teilen.
+
+So, wie in unserer IP-Adresse gibt es in der Subnetzmaske Einsen und Nullen. Die Einsen in der Subnetzmaske zeigen den Netzwerk-Teil der IP-Adresse. Der Netzwerk-Teil zeigt uns an, zu welchem Netzwerk der Computer gehört. Die Nullen zeigen uns den Host-Teil der IP-Adresse. Der Host-Teil zeigt uns den spezifischen Computer in dem Netzwerk an.
+
+Um das besser zu verstehen, können wir ein Beispiel nehmen. Nehmen wir an, wir haben die IP-Adresse 172.16.14.193. Die Subnetzmaske dazu könnte 255.255.0.0 sein. Das bedeutet, dass die ersten beiden Teile (172 und 16) der IP-Adresse der Netzwerk-Teil sind und die letzten beiden Teile (14 und 193) der Host-Teil sind.
+
+Wir können auch von der Subnetzmaske ablesen, wie viele Computer in dem Netzwerk sein können. Wenn wir viele Nullen haben, können mehr Computer im Netzwerk sein. Wenn wir viele Einsen haben, können weniger Computer im Netzwerk sein. 
+
+Um zu wissen, wie viele Computer wir haben können, berechnen wir 2 hoch der Anzahl der Nullen in der Subnetzmaske. Aber wir müssen 2 abziehen, weil die erste und die letzte Adresse immer reserviert sind. Bei unserem Beispiel oben könnten wir also mehr als 65.000 Computer haben. Aber wir müssen 2 abziehen, weil die erste und die letzte Adresse reserviert sind. Deshalb könnten wir tatsächlich 65.498 Computer haben.

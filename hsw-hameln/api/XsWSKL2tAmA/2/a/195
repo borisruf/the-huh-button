@@ -1,0 +1,9 @@
+IP-Adressen bestehen aus Zahlen und Punkten, z.B. 172.16.14.193. Diese Adresse ist wie eine Art Hausnummer für deinen Computer, damit das Internet weiß, wo es die Daten hinliefern soll. Die Adresse besteht aus 32 Stellen oder Bits und ist in vier Teile oder Oktette unterteilt. 
+
+Zur IP-Adresse gehört auch noch eine Maske, die sogenannte Subnetzmaske. Diese hilft, eine IP-Adresse in zwei Teile zu teilen: Ein Teil nennt man Netzanteil, der andere Hostanteil. Der Netzanteil ist wie die Straße, in der du wohnst, und der Hostanteil ist wie deine eigene Hausnummer.
+
+Um die genauen Zahlen in der IP-Adresse besser zu verstehen, kann man sie auch in eine andere Schreibweise umwandeln, die binäre Schreibweise. Das ist dann eine Reihe von Einsen und Nullen. 
+
+Es gibt verschiedene Klassen von IP-Adressen, und je nach Klasse gehört dazu eine bestimmte Standard-Subnetzmaske. Zum Beispiel gehört zur Klasse A die Maske 255.0.0.0, zu Klasse B 255.255.0.0 und zu Klasse C 255.255.255.0. 
+
+Je nachdem, wie viele Nullen in der Subnetzmaske stehen, können unterschiedlich viele Computer in einem Netzwerk sein. Mit jeder Null bekommt man mehr Platz für Computer-Adressen.

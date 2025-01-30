@@ -65,6 +65,11 @@
   color: gray;
 }
 
+#note a {
+  font-family: sans-serif;
+  color: gray !important; 
+}
+
 #feedback-container {
   text-align: right;
 }

@@ -1,0 +1,1 @@
+In dem Kontext erklärt der Sprecher, wie die maximale Anzahl von Hosts in einem Netzwerk berechnet wird, basierend auf der Subnetzmaske der IP-Adresse. In einem Klasse B-Netzwerk gibt es 16 Nullstellen in der Subnetzmaske. Um die maximale Anzahl von Hosts zu berechnen, macht man 2 hoch die Anzahl der Nullen, also 2 hoch 16, was zu über 65.000 Hosts führt.

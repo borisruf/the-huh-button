@@ -1,0 +1,12 @@
+Stell dir die IP-Adresse wie eine Postanschrift vor. Sie besteht aus verschiedenen Teilen, die alle wichtige Infos haben, um dich im Internet zu finden. 
+
+Es gibt zum Beispiel eine IP-Adresse "172.16.14.193". Sie ist so aufgebaut: 
+
+1) "172.16.14" ist der 'Stadtteil' oder das 'Netz', wo du wohnst. Alle IP-Adressen mit "172.16.14" gehören zu demselben 'Netz'. 
+2) ".193" ist deine eigene 'Hausnummer' oder 'Host'. Nur du hast diese Nummer in deinem 'Netz'. 
+
+Und dann gibt es auch noch eine 'Subnetzmaske'. Die ist wie ein Schlüssel, der sagt, welcher Teil der IP-Adresse das Netz ist und welcher Teil der Host ist. Diese Maske sieht zum Beispiel so aus: "255.255.255.0". Jede IP-Adresse hat ihre eigene Maske. Das hilft, IP-Adressen besser zu organisieren und zu verteilen. 
+
+Die IP-Adresse und die Subnetzmaske sind beide 32 Zeichen lang und bestehen jeweils aus vier Teilen (genannt Oktette). Jedes Oktett hat 8 'Plätze'. Und obwohl das für Computer in 0 und 1 geschrieben ist, schreiben wir es normalerweise in Dezimalzahlen (von 0 bis 255), damit wir Menschen es besser verstehen. 
+
+Also, wenn wir über die '172.16.14.' reden, reden wir eigentlich über den Netz-Teil einer spezifischen IP-Adresse.

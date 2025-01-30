@@ -1,0 +1,3 @@
+Das ist so, als ob man ein ganzes Netzwerk von Telefonleitungen hat. Normalerweise benutzen die Telefone den besten und einfachsten Weg, um miteinander zu sprechen. Aber manchmal gibt es Verwirrungen und die Telefone fangen an, die Nachrichten im Kreis zu schicken, ohne dass sie jemals ankommen. 
+Um das zu verhindern, haben kluge Leute ein System namens Spanning-Tree-Protokoll erfunden. Das blockiert alle anderen Wege, außer dem besten Weg. So gibt es keine Verwirrung und keine kreisenden Nachrichten mehr.
+Aber was passiert, wenn der beste Weg aus irgendeinem Grund nicht mehr funktioniert? Dann erlaubt das System einen der vorher blockierten Wege zu nutzen. So ist sicher, dass die Nachricht immer noch ankommt, auch wenn es etwas länger dauert.

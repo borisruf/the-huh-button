@@ -1,0 +1,5 @@
+Wir lernen gerade über Netzwerke und zwei wichtige Regeln, die sie benutzen: TCP und IP. IP ist wie eine Adresse, die sagt, wohin Daten geschickt werden sollen. Aber IP alleine kümmert sich nicht darum, ob die Daten sicher ankommen. Dafür brauchen wir TCP.
+
+TCP ist wie ein Postbote, der sicherstellt, dass die Nachricht nicht nur an den richtigen Ort geschickt wird, sondern auch sicher und ohne Fehler ankommt. Es ist sehr wichtig, dass die Nachrichten richtig ankommen, sonst könnten sie keinen Sinn ergeben. Deshalb verwenden wir TCP und IP zusammen.
+
+Stell dir vor, du hast ein großes Haus mit vielen Zimmern. Jedes Zimmer hat eine Nummer (IP), und du bist der Postbote (TCP), der Nachrichten in die richtigen Zimmer bringt. Manchmal kann es sein, dass du gleichzeitig viele Nachrichten an verschiedene Zimmer schicken musst. Dies nennt man Multiplexing. Außerdem gibt es ein spezielles System namens Full-Duplex, mit dem du Nachrichten in zwei Richtungen gleichzeitig senden und empfangen kannst. Wir werden später noch genauer darüber sprechen.

@@ -1,0 +1,11 @@
+Wenn Daten in einem Computer-Netzwerk hin und her geschickt werden, nutzen sie bestimmte Protokolle, das sind sozusagen "Regeln", um zu kommunizieren. Diese Regeln werden TCP und IP genannt. 
+
+Die IP-Adresse ist wie die Hausadresse für den Computer, sie sagt, wo die Daten hin sollen. TCP sorgt dafür, dass die Daten sicher und ohne Fehler ankommen. 
+
+Nun kommuniziert der Computer nicht nur mit einem anderen Computer, sondern es laufen auf dem Computer auch viele Programme gleichzeitig, die alle Daten senden und empfangen wollen. Die Frage ist jetzt: Wie kann der Computer herausfinden, welches Programm welche Daten bekommen soll? 
+
+Dafür gibt es die Portnummern. Jedes Programm hat eine bestimmte Portnummer, und wenn Daten ankommen, schauen sie auf die Portnummer, um zu wissen, an welches Programm sie gehen sollen. 
+
+Wenn man die IP-Adresse (also die Hausadresse des Computers) und die Portnummer (also das Programm, das die Daten bekommen soll) miteinander kombiniert, erhält man ein "Socket". Das ist sozusagen der genaue Standort der Daten in dem Computer-Netzwerk. 
+
+Es ist wie bei einem großen Haus mit vielen Wohnungen: Die IP-Adresse ist die Adresse des Hauses, die Portnummer ist die Wohnungsnummer, und das Socket ist die genaue Lage der Wohnung im Haus.

@@ -1,0 +1,7 @@
+Stell dir vor, du liest eine IP-Adresse. Das ist eine Art Adresse für Computer im Internet, so wie unsere Postadressen im echten Leben. IP-Adressen bestehen aus vier Teilen (das sind die "Oktette") und sie sehen so aus: 172.16.14.193. Jeder dieser vier Teile wird in der Computerwelt mit Bits dargestellt, das sind Einsen und Nullen.
+
+Jetzt sagen wir, du willst diese IP-Adresse von Binär (also den Nullen und Einsen) in Dezimal (also unsere normale Art zu Zählen) übersetzen, oder andersherum. Wir müssen das Schritt für Schritt machen und dabei schauen, was jede Position in der Binärzahl bedeutet. Das ist wie beim Übersetzen von einer Sprache in eine andere.
+
+Zum Beispiel würde die "1" in der Binärzahl 1000 den Wert 8 in der Dezimalzahl haben, weil sie an der vierten Stelle steht und wir bei Binärzahlen immer mit 2 hoch irgendetwas rechnen.
+
+Also nehmen wir jedes Stück ("Oktett") der IP-Adresse und rechnen es Stück für Stück um. So können wir von Binär zu Dezimal und wieder zurück wechseln.

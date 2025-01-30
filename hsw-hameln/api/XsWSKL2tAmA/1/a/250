@@ -1,0 +1,5 @@
+IP-Adresse und Subnetzmaske arbeiten zusammen, um ein Netzwerk zu definieren und Netzwerkkommunikation zu ermöglichen. Jede IP-Adresse besteht aus einem Netzwerkteil und einem Hostteil. Diese Teile werden durch die Subnetzmaske festgelegt.
+
+Die Subnetzmaske ist eine 32-Bit-Zahl, die verwendet wird, um das Netzwerk und den Hostteil einer IP-Adresse zu unterscheiden. In der Maske identifizieren die Binärstellen "1" den Netzwerkteil der IP-Adresse, während die Binärstellen "0" den Hostteil identifizieren. Durch Anwendung der Subnetzmaske auf die IP-Adresse kann das Netzwerkgerät bestimmen, ob ein Datenpaket an einen Host im gleichen Subnetz oder in einem anderen Subnetz gesendet wird.
+
+So bestimmt die Subnetzmaske im Wesentlichen, wie viele Hosts in einem Netzwerk gehostet werden können und wie viele Netzwerke erstellt werden können. Daher muss jede IP-Adresse im Kontext ihrer zugeordneten Subnetzmaske betrachtet werden.

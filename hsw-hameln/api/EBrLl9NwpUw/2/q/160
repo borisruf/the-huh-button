@@ -1,0 +1,1 @@
+ Sämtliche Ports an den Switches gehen einen sogenannten Blocking-Status, also normale Daten werden nicht mehr übertragen.  Wenn dieser Auswahlprozess einer sogenannten Root-Bridge dann abgeschlossen ist, dann irgendwann würde eben der normale Datenverkehr wieder anlaufen und genau das wollen wir uns auch nochmal im Detail anschauen.

@@ -1,0 +1,7 @@
+Wenn wir über Computer reden, dann haben diese eine spezielle Adresse, damit sie sich im Internet finden können. Diese Adresse nennt man IP-Adresse. Eine IP-Adresse besteht aus vier Zahlen, die durch Punkte getrennt sind, zum Beispiel 172.16.14.193. Diese vier Zahlen kann man nochmal in Bits unterteilen und stellen den Ort des Computers im Netzwerk dar.
+
+Damit ein Computer weiß, wo er selbst und andere Computer im Netzwerk sind, gibt es noch eine zusätzliche Information. Das ist die sogenannte Subnetzmaske. Die Subnetzmaske ist auch eine Art Adresse und besteht ebenfalls aus vier Zahlen, die durch Punkte getrennt sind. Je nachdem, welche Zahlen in der Subnetzmaske stehen, weiß der Computer, ob er mit anderen Computern im gleichen Netzwerk ist oder ob er mit Computern in einem anderen Netzwerk sprechen will.
+
+Zum Beispiel, wenn die Subnetzmaske 255.0.0.0 ist, dann sagt dies dem Computer, dass alle Computer, die die gleiche erste Zahl in ihrer IP-Adresse haben, im gleichen Netzwerk sind. Diese Art von Subnetzmaske wird in Netzwerken verwendet, die viele Computer haben.
+
+Anders gesagt, die IP-Adresse ist wie die Hausnummer und die Straße, auf der du wohnst, und die Subnetzmaske ist wie der Stadtteil, in dem du wohnst. Beides zusammen ermöglicht es den Computern, sich in dem großen "Internet-Stadtplan" zurechtzufinden.

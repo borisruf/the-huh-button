@@ -1,0 +1,7 @@
+Wenn zwei Computer miteinander sprechen wollen, müssen sie sich zuerst kennenlernen. Sie haben spezielle Handshake (also, Hand geben) Schritte, die sie verwenden, um sich gegenseitig zu finden und zu synchronisieren. Erst dann können sie miteinander Informationen austauschen.
+
+Stellen Sie sich vor, Sie stehen auf einer Schule und möchten jemandem eine Nachricht geben. Sie wissen aber nicht, wo genau sich diese Person befindet. Was Sie tun, ist zu rufen: "Hey X, bist du da?". Das ist genau das, was der erste Computer tut. Er sendet eine spezielle Nachricht, genannt 'Sync', mit seiner eigenen einzigartigen Nummer (sagen wir 'X').
+
+Der andere Computer hört das und antwortet: "Hallo, ich bin hier und mein Name ist Y". Er sendet also eine Bestätigung, dass er die erste Nachricht erhalten hat (das ist 'X + 1') und teilt seine eigene einzigartige Nummer 'Y' mit.
+
+Jetzt schreit der erste Computer noch einmal über den Schulhof: "Okay, ich habe dich gehört und bestätige deine einzigartige Nummer 'Y + 1'". So wird der Handshake abgeschlossen, und jetzt können sie anfangen, Informationen miteinander auszutauschen.

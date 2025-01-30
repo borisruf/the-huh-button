@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie IP-Adressen und Subnetzmasken funktionieren und wie sie zusammenhängen. 
+
+Jede IP-Adresse besteht aus vier Gruppen von Zahlen (Oktetten). Es gibt zwei wichtige Teile davon: den Netzwerk-Teil und den Host-Teil. Eine spezielle Maske, die Subnetzmaske, bestimmt welche Teile wofür verwendet werden. Diese Subnetzmaske setzt sich ebenfalls aus vier Oktetten zusammen. 
+
+Die Subnetzmaske enthält Nullen und Einser. Die Anzahl der Nullen gibt auf, wie viele Geräte (Rechner/Hosts) du in deinem Netzwerk unterbringen kannst. Aber das Netzwerk hat auch zwei spezielle Adressen, die nicht für Geräte genutzt werden können: die erste Adresse ist die Netzwerkadresse und die letzte ist für das Senden von Nachrichten an alle Geräte (Broadcast-Adresse). 
+
+Die IP-Adresse und die Subnetzmaske zusammen sagen also, wer in welchem Netzwerk ist und wer mit wem kommunizieren kann.

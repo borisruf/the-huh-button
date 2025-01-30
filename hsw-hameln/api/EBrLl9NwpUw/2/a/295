@@ -1,0 +1,5 @@
+Ein Netzwerk ist wie ein Straßennetz, mit vielen Wegen, um von einem Ort zum anderen zu gelangen. Jeder Weg ist wie eine Leitung, die Informationen hin und her transportiert. Manchmal, um sicherzustellen, dass es immer einen Weg gibt, um Informationen zu transportieren, erstellt man zusätzliche Wege oder Leitungen als Rückfalllösung. Diese werden als redundante Wege bezeichnet.
+
+Aber wenn du zu viele Wege hast, kann das zu einer Art Verkehrschaos führen, bei dem die Informationen nicht wissen, welchen Weg sie nehmen sollen. Dies wird als Schleifenbildung bezeichnet. Um das zu verhindern, haben wir ein System namens Spanning Tree Protocol. Es blockiert einige der zusätzlichen Wege, so dass sie nicht benutzt werden, es sei denn, einer der anderen Wege bricht zusammen.
+
+Stell dir vor, alle Ampeln auf den Straßen sind rot. Das ist wie das Spanning Tree Protocol, das alle zusätzlichen Wege blockiert. Wenn aber eine der Hauptstraßen geschlossen wird, schaltet die Ampel auf einer der blockierten Straßen wieder auf grün. Auf diese Weise kann der Verkehr immer noch fließen, auch wenn eine der Hauptstraßen gesperrt ist.

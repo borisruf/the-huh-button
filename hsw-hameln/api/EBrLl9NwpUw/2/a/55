@@ -1,0 +1,3 @@
+Also, in einfachen Worten, in Computer-Netzwerken wollen wir viele Verbindungswege und Verbindungsteile haben, so dass wenn ein Teil kaputt geht, es immer noch andere Wege gibt. Das nennt man Redundanzen. Wenn wir aber zu viele Verbindungen erstellen, können wir manchmal Schleifen erzeugen - das ist wie wenn wir im Kreis gehen, ohne Ausweg zu finden.
+
+Unser Computersystem kennt diese „im Kreis gehen“ (Schleifen) normalerweise nicht und es wäre eigentlich ein Fehler im Plan. Das Problem bei Schleifen ist, dass unsere Computer (Switches), die Daten (Pakete) versenden und empfangen, die Daten nur hin und her werfen könnten, weil sie keinen richtigen Empfänger finden. Das könnte unser Netzwerk verlangsamen oder sogar stoppen.

@@ -1,0 +1,1 @@
+ Und das führt letzten Endes eben dazu, dass wenn ein Paket nicht weiß, wo es hingeschickt werden soll, natürlich zwischen diesen Switches zirkulieren könnte.  Die Idee dabei ist ganz einfach, dass man nun bestimmte Wege, nämlich die redundanten Wege zwischen den Switches, ganz einfach blockiert über einen Protokollmechanismus.

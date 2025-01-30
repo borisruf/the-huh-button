@@ -1,0 +1,1 @@
+193 ist wieder unser Ausgangspunkt, also eine Klasse B-Adresse mit einer Klasse B-Standard-Subnetzmaske, dann habe ich dort 16 Nullen in dieser Subnetzmaske.  Und genau diese 16 Nullen nehme ich einfach für die Berechnung der maximal verfügbaren Hosts, ich rechne dafür 2 hoch die Anzahl der Nullen, also 2 hoch 16, da kommt irgendwas über 65.

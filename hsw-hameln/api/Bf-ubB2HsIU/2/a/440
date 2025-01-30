@@ -1,0 +1,9 @@
+In diesem Kapitel geht es darum, wie Computer miteinander kommunizieren. Eine Art und Weise, wie das gemacht wird, ist durch zwei "Protokolle" namens TCP und IP. Man kann sich Protokolle vorstellen wie Regeln oder Anleitungen, die festlegen, wie Computer miteinander "sprechen". 
+
+Das IP-Protokoll kümmert sich darum, dass die Daten (z.B. eine E-Mail oder eine Webseite) von einem Computer an einen anderen gesendet werden. Das TCP-Protokoll ist wie ein Helfer, der sicherstellt, dass die Daten auch wirklich ankommen und dass sie so ankommen, wie sie geschickt wurden, also ohne Fehler.
+
+Auch andere Protokolle arbeiten mit IP zusammen. Ein Beispiel dafür ist ICMP. Dieses Protokoll informiert, wenn ein Problem auftritt.
+
+Wenn wir auf die tatsächlichen Daten schauen, die zwischen Computern ausgetauscht werden, sehen wir, dass sie in verschiedenen "Ports" ankommen. Man kann sich Ports vorstellen wie Briefkästen bei einer Poststelle. Jeder Briefkasten hat eine Nummer und jeder Brief (Daten) hat eine Adresse (die Portnummer). Diese Nummer sorgt dafür, dass der Brief (die Daten) im richtigen Briefkasten (Port) landet und damit richtig zugeordnet werden kann.
+
+Anschließend erklärt der Sprecher einen Prozess namens "Drei-Wege-Handshake". Das ist so etwas wie ein kurzes Gespräch zwischen zwei Computern, bei dem sie sich gegenseitig bestätigen, dass sie bereit sind Daten auszutauschen. Danach zeigen sie auf einem Diagramm, wie dieser Austausch aussehen könnte und welche Faktoren dabei berücksichtigt werden.

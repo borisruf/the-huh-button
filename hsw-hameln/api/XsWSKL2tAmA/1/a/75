@@ -1,0 +1,1 @@
+Diese Aussage beschreibt die Struktur von IP-Version-4-Adressen und Subnetzmasken. Beide bestehen aus jeweils vier Oktetten, wobei jedes Oktett 8-Bit enthält. In Summe ergibt das eine Gesamtlänge von 32-Bit sowohl für die IP-Adresse als auch für die Subnetzmaske. Die Subnetzmaske bestimmt dabei, welcher Teil der IP-Adresse dem Netzwerk und welcher dem Host zugeordnet ist.

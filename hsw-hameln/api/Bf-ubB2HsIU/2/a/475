@@ -1,0 +1,5 @@
+Hier geht es darum, wie Computer miteinander kommunizieren, um Daten auszutauschen. Es gibt bestimmte Regeln und Verfahren, um sicherzustellen, dass die Daten korrekt und vollständig von einem Computer zum anderen gelangen. Dazu gehören zum Beispiel Bestätigungen, dass Daten angekommen sind, und spezielle Nummern, die jeder Dateneinheit gegeben werden, um sie in der richtigen Reihenfolge wieder zusammenzufügen. Es gibt auch ein besonderes Verfahren, das "Sliding-Window-Verfahren", das dabei hilft, den Datenaustausch zu organisieren.
+
+Da alles nach bestimmten Standards abläuft, können viele verschiedene Arten von Daten gleichzeitig über das Netzwerk geschickt werden. Jede Art von Daten hat ihren eigenen "Port", das ist so etwas wie ein spezieller Briefkasten auf dem Computer, der nur für diese Art von Daten ist. So kann der Computer die verschiedenen Arten von Daten auseinanderhalten und an die richtige Stelle weiterleiten.
+
+Wenn zwei Computer zum ersten Mal miteinander Daten austauschen, führen sie zuerst eine Art "Handschlag" durch, um sich gegenseitig zu erkennen und sich auf die Kommunikation einzustellen. Dann können sie mit dem Datenaustausch beginnen.

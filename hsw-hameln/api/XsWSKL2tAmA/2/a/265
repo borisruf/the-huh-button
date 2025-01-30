@@ -1,0 +1,7 @@
+In einem Computernetzwerk wird etwas namens IP-Adresse verwendet, um Computer zu identifizieren. Es ist wie eine Hausadresse für Ihren Computer. Jede dieser Adressen besteht aus vier Teilen. Vom Wert dieser Teile wird bestimmt, ob es einen bestimmten Bereich (das Netzwerk) repräsentiert oder einen spezifischen Computer innerhalb dieses Bereichs (den Host). Zusammen bilden diese Teile die IP-Adresse.
+
+Zwei spezielle IP-Adressen dürfen nie für Computer verwendet werden. Die erste Adresse eines Netzwerks ist immer für das Netzwerk selbst reserviert und die letzte Adresse ist für sogenannte "Broadcast"-Nachrichten, die an alle Computer im Netzwerk gesendet werden.
+
+Neben einer IP-Adresse gibt es noch etwas anderes namens Subnetzmaske. Sie hilft den Computern zu verstehen, welche Teile der IP-Adresse das Netzwerk repräsentieren und welche Teile den Host darstellen.
+
+Um herauszufinden, wie viele Computer in einem Netzwerk sein können, sehen wir uns die Subnetzmaske an. Für jedes Feld, das bei der Subnetzmaske Null ist, gibt es einen freien Platz für einen Computer. Wenn wir alle diese Nullen zählen und ein bisschen Mathematik machen, finden wir heraus, wie viele Computer maximal in einem Netzwerk sein können. Aber wir müssen immer 2 von dieser Zahl abziehen, denn die erste und die letzte Adresse sind immer reserviert.

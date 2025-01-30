@@ -1,0 +1,3 @@
+Ein Netzwerk hat Adressen für verschiedene Computer. Aber zwei dieser Adressen sind immer schon besetzt, sie liegen ganz am Anfang und ganz am Ende der Liste. Die erste Adresse ist die Adresse des ganzen Netzwerks und die letzte wird für Nachrichten an alle Computer im Netzwerk genutzt. Diese beiden Adressen können deshalb nicht für einzelne Computer genutzt werden. 
+
+Eine IP-Adresse und eine Subnetzmaske gehören zusammen, sie bestimmen den Netzwerk- und den Computerteil einer Adresse. Jede Adresse gehört zu einer Klasse. Die Klasse bestimmt die Größe des Netzwerks und wie oft es vorkommen kann. Die Anzahl der frei verfügbaren Adressen wird durch die Nullen in der Subnetzmaske bestimmt.

@@ -1,0 +1,11 @@
+Wenn wir in einem Computer-Netzwerk arbeiten, müssen wir einige Regeln befolgen. Eine dieser Regeln bezieht sich auf die Adressen, die jeder Computer hat. Diese Adressen nennen wir IP-Adressen.
+
+Nun, jede IP-Adresse besteht aus mehreren Teilen. Zwei davon sind das Netzwerk und der Computer selbst (wir nennen ihn "Host"). Und um zu bestimmen, welcher Teil der Adresse das Netzwerk und welcher Teil der Host ist, verwenden wir etwas, das wir Subnetzmaske nennen.
+
+Die Subnetzmaske ist wie eine Vorlage, die auf die IP-Adresse angewendet wird, um sie in Netzwerk- und Host-Teile aufzuteilen. Und jede IP-Adresse muss immer mit ihrer Subnetzmaske betrachtet werden.
+
+Es gibt etwas, das wir beachten sollten: für jedes Netzwerk sind immer zwei Adressen reserviert. Die erste Adresse ist die des Netzwerkes selbst und die letzte Adresse bezeichnet das ganze Netzwerk, sie ist die sogenannte "Broadcast-Adresse". Diese beiden Adressen können nicht für einen Computer verwendet werden, sie sind immer fest vergeben.
+
+Lasst uns sagen, dass wir eine Subnetzmaske mit 16 Nullen verwenden. Die Anzahl der Nullen gibt uns Hinweise darauf, wie viele Computer in diesem Netzwerk sein können. Wenn wir sie berechnen, kommen wir auf eine Zahl rund 65.500. Aber wegen der zwei festen Adressen, die wir vorhin erwähnt haben, müssen immer 2 weniger berücksichtigt werden. Daher sind nur 65.498 Computer in diesem Netzwerk möglich. 
+
+So arbeiten IP-Adressen und Subnetzmasken zusammen.

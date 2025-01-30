@@ -1,0 +1,3 @@
+Wenn wir in unserem Computer-Netzwerk zusätzliche Verbindungen und Geräte (wie "Switches") einbauen, um es sicherer zu machen, kann das auch Probleme verursachen. Es kann passieren, dass wir damit eine Art Kreisverkehr schaffen, in dem die Datenpakete, die die Computer im Netzwerk austauschen, sich endlos im Kreis bewegen, weil sie ihren Zielort nicht finden können. 
+
+Das kommt zum Beispiel vor, wenn ein Paket falsch adressiert ist. Statt anzukommen, bewegt es sich immer weiter im Kreis. Diese Situation heißt "Broadcast-Storm". Das ist schlecht, weil es das Netzwerk belastet und verlangsamt.

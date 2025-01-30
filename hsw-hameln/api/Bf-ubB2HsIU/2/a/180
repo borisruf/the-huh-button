@@ -1,0 +1,11 @@
+Das ist etwas kompliziert, aber ich versuche es mal einfacher zu erklären. 
+
+Wir sprechen hier von Computernetzwerken und wie sie Daten austauschen. Ein Computer hat eine eigene ID, die man MAC-Adresse nennt. Eine IP-Adresse ist wie die Straßenadresse eines Computers im Netzwerk. ARP ist ein Weg, um herauszufinden, welche MAC-Adresse zu welcher IP-Adresse gehört. 
+
+Man kann sich Routing-Protokolle wie digitale Straßenkarten vorstellen, die den Daten zeigen, wohin sie gehen sollen. 
+
+Das OSI-Modell und das TCP-IP-Modell sind wie Baupläne für Netzwerke. 
+
+Bei der vierten Schicht des OSI-Modells oder der Transportschicht des TCP-IP-Modells geht es darum, wie die Daten von einem Ort zum anderen gesendet werden. 
+
+Es gibt zwei Arten, wie die Daten gesendet werden können: das TCP-Protokoll und das UDP-Protokoll. Wir schauen uns das TCP-Protokoll an. Das TCP-Protokoll ist wie ein Sicherheitsbeamter, der sicherstellt, dass die Daten sicher ans Ziel kommen.

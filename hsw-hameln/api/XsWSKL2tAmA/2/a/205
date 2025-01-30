@@ -1,0 +1,5 @@
+Wir versuchen die IP-Adresse 172.16.14.193 zu verstehen. Sie besteht aus vier Teilen, auch Oktette genannt. Es gibt einen Netzwerkteil und einen Teil, der spezifisch für jeden Computer (oder "Host") in diesem Netzwerk ist. Diese Teile werden durch eine sogenannte "Subnetzmaske" festgelegt. Die Subnetzmaske für unsere IP-Adresse hat vier Oktette, genau wie die IP-Adresse selbst.
+
+Manchmal müssen wir diese Zahlen in eine binäre Form umwandeln, die nur Nullen und Einsen verwendet. Das hilft uns, die Subnetzmaske besser zu verstehen. Jede IP-Adresse gehört zu einer bestimmten Klasse, und jede Klasse hat eine Standard-Subnetzmaske. Für die Klasse B, zu der unsere IP-Adresse gehört, ist die Standard-Subnetzmaske 255.255.0.0.
+
+Die Anzahl der Nullen in der Subnetzmaske ist wichtig, denn sie sagt uns, wie viele verschiedene Computer wir in unserem Netzwerk haben können. Für unsere Klasse B-Adresse mit Standard-Subnetzmaske gibt es 16 Nullen in der Subnetzmaske. Das bedeutet, wir können viele verschiedene Computer in unserem Netzwerk haben.

@@ -1,0 +1,5 @@
+In einfachen Worten bedeutet das: Eine IP-Adresse im Internet ist eine Art "Postanschrift" für einen Computer oder ein anderes Gerät. Jede dieser Adressen besteht aus vier kleinen Teilen, die "Oktette" genannt werden. Man kann sagen, dass jedes Oktett aus 8 kleinen Informationen besteht, was wir "Bit" nennen. Das ergibt insgesamt 32 Bit für eine gesamte IP-Adresse. 
+
+Es gibt auch so etwas wie eine "Subnetzmaske". Das ist wie ein Schlüssel, der hilft, die Informationen in einer IP-Adresse besser zu organisieren. Diese Subnetzmaske besteht ebenfalls aus vier Oktetten, also genau wie eine IP-Adresse aus insgesamt 32 Bit. 
+
+Um die IP-Adressen und Subnetzmasken leichter lesbar zu machen, schreibt man sie mit Punkten dazwischen und in Dezimalzahlen, also den Zahlen, die wir aus dem Alltag kennen. Das ist einfacher zu verstehen als die ursprünglichen "Bit"-Informationen.

@@ -1,0 +1,7 @@
+In leicht verständlicher Sprache heißt das:
+
+Um zu wissen, wie viele Computer oder Geräte in einem Netzwerk sein können, spielen die Nullen bei einer bestimmten Maske (der sogenannten Subnetzmaske) eine wichtige Rolle. Man nimmt die Anzahl der Nullen und rechnet damit: Man nimmt die Zahl 2 und erhöht sie so oft zum Quadrat, wie es Nullen in der Maske gibt.
+
+In diesem Fall gibt es 16 Nullen. Also wird 2, sechzehnmal mit sich selbst multipliziert, was mehr als 65.500 ergibt. Doch zwei dieser Adressen sind immer schon vergeben. 
+
+Die erste, weil sie die Adresse des ganzen Netzwerks ist. Und die letzte, weil sie eine spezielle Nachricht an alle Geräte in dem Netzwerk sendet (das nennt man eine Broadcast-Nachricht). Diese beiden Adressen kann man also nicht für ein Gerät oder einen Computer im Netzwerk verwenden. Deswegen zieht man sie ab.

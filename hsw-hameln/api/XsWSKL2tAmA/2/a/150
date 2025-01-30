@@ -1,0 +1,9 @@
+IP-Adressen sind wie Hausadressen für Computer und Geräte in einem Netzwerk. Sie bestehen aus verschiedenen Teilen: einem Netzwerkteil, der das Netzwerk identifiziert, in dem sich das Gerät befindet, und einem Hostteil, der das spezifische Gerät auf diesem Netzwerk identifiziert. Diese Teile werden von etwas namens Subnetzmaske festgelegt, die bei jedem Gerät anders sein kann.
+
+Um zu verstehen, wie das alles funktioniert, brauchen wir ein gutes Verständnis davon, wie Zahlen in der Computerwelt funktionieren. Anstelle der Dezimalzahlen, die wir üblicherweise verwenden (0-9), verwenden Computer binäre Zahlen (0 und 1), organisiert in 8-Bit-Blöcken namens "Oktetten". 
+
+Das ist viel Zeug, um es in den Kopf zu bekommen, also lass uns einmal schauen, wie es aussieht. Zum Beispiel könnte eine IP-Adresse aussehen wie 172.16.14.193 und ihre dazugehörige Subnetzmaske wie 255. 
+
+Diese Zahlen in der Subnetzmaske sagen uns, welche Teile der IP-Adresse zum Netzwerk und welche zum Host gehören. In dieser Situation teilt uns die 255 mit, dass der erste Teil der IP-Adresse das Netzwerk ist. 
+
+Die Stelle der Subnetzmaske ist nicht zufällig - jede Gruppe von IP-Adressen, genannt "Klasse", hat immer die gleiche Standard-Subnetzmaske. Zum Beispiel haben alle IP-Adressen der Klasse A immer die gleiche Subnetzmaske von 255.

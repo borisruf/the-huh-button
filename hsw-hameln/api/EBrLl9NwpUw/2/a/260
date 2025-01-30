@@ -1,0 +1,7 @@
+Also, dieser Text dreht sich um ein System, das bei Computernetzwerken auftritt. Computernetzwerke sind ja wie eine Art Straßennetz. Die Daten, die wir senden und empfangen, sind wie Fahrzeuge, die auf den Straßen unterwegs sind. Manchmal kann es passieren, dass diese Daten nicht genau wissen, wo sie hin müssen. Stell dir vor, ein Auto weiß nicht, wohin es fahren soll und fährt einfach immer weiter und weiter im Kreis. In einem Computernetzwerk ist dies ein großes Problem. Um dieses Risiko zu minimieren, gibt es eine Art Verkehrsleitsystem namens "Spanning Tree Protokoll", kurz STP.
+
+Jetzt etwas genauer: Manchmal sind in einem Netzwerk mehrere Wege zum Ziel, so wie in einer Stadt auch. Eine „Root-Bridge“ ist eine Art Hauptstadt in diesem Netzwerk. Alle Daten wollen dorthin. Manchmal gibt es mehrere Wege, um dorthin zu kommen. Daher brauchen wir das STP. STP sagt den Daten, welchen Weg sie nehmen sollen - genau wie ein Navigationssystem. 
+
+Am Anfang blockiert STP alle Wege. Dies ist wie die Straßensperre. Dann wählen die Daten die „Root-Bridge“ untereinander aus. Danach wird der beste Weg zur „Root-Bridge“ ermittelt - wie das beste Navi. Dieser Weg geht über bestimmte „Ports“. Ports sind wie Türen oder Tore, durch die die Daten gehen.
+
+In diesem Text sind diese Ports grün dargestellt. Diese grünen Ports heißen auch „Root-Ports“ und sind die direkten Wege zur Hauptstadt „Root-Bridge“. Und genau auf diesen Wegen findet der Datenverkehr statt.

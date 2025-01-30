@@ -1,0 +1,7 @@
+In einem Netzwerk gibt es oft mehr als einen Weg, um Informationen von einem Punkt zu einem anderen zu schicken. Das ist gut, weil es sicherstellt, dass die Informationen sogar dann gesendet werden können, wenn ein Teil des Netzwerks ausfällt. Aber es kann auch ein Problem sein, denn wenn die Informationen nicht wissen, welchen Weg sie nehmen sollen, können sie endlos im Kreis geschickt werden und das Netzwerk belasten.
+
+Um das zu vermeiden, gibt es ein System namens Spanning Tree Protokoll. Dieses System blockiert bestimmte Wege im Netzwerk und stellt sicher, dass die Informationen nur einen Weg nehmen können. Das verhindert, dass die Informationen im Kreis geschickt werden. 
+
+Es gibt in diesem System auch eine wichtige Komponente namens Root-Bridge. Dies ist wie eine Art Dirigent, der den Verkehr im Netzwerk lenkt. Die Root-Bridge wird normalerweise vom System selbst ausgewählt.
+
+Aber wenn man der Administrator des Netzwerks ist, kann man selbst entscheiden, welche Komponente die Root-Bridge sein soll. Man könnte die Einstellungen ändern, um das zu erreichen. In einfachen Worten, man könnte als Administrator entscheiden, wer der Dirigent im Netzwerk ist.

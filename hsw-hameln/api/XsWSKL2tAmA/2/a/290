@@ -1,0 +1,9 @@
+Jede Adresse, die Geräte im Internet verwenden, nennt man IP-Adresse. Diese besteht aus vier Teilen oder "Oktetten", und jeder dieser Teile wird durch einen Punkt getrennt. Eine IP-Adresse kann zum Beispiel so aussehen: 172.16.14.193.
+
+Es gibt auch etwas, das wir "Subnetzmaske" nennen. Die Subnetzmaske hilft uns, den Unterschied zwischen den Abschnitten der IP-Adresse zu verstehen, die uns sagen, zu welchem Netzwerk das Gerät gehört und welche spezielle Nummer es innerhalb dieses Netzwerks hat.
+
+Stellen Sie sich vor, Sie leben in einer Stadt mit vielen Häusern. Die "Netzwerk" Teile der IP-Adresse könnten uns sagen, in welcher Straße das Haus liegt. Der "Host" oder Geräte-Teil könnte uns dann genau sagen, welches Haus in dieser Straße gemeint ist.
+
+Eine Subnetzmaske könnte also zum Beispiel so aussehen: 255.255.0.0. Die Teile, die mit "255" geschrieben sind, sagen uns, dass dieser Teil zur Netzerkennung gehört, und ein "0" sagt uns, dass dieser Teil zur Gerätekennung gehört.
+
+In unserem Beispiel wäre es also so: wegen der Subnetzmaske 255.255.0.0 und der IP-Adresse 172.16.14.193 würden die ersten beiden Teile (172 und 16) uns sagen, zu welchem Netzwerk das Gerät gehört, und die letzten beiden Teile (14 und 193) sagen uns, welches spezielle Gerät in diesem Netzwerk gemeint ist.

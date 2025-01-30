@@ -1,0 +1,3 @@
+Wenn du jemandem eine Nachricht schickst und er diese bekommt, sagt er dir "Hallo, ich habe deine Nachricht mit der Nummer X bekommen. Hier ist meine Antwort mit der Nummer Y".
+
+In Computerwelt, passiert das genauso. Wenn ein Computer A einen anderen Computer B eine Nachricht sendet, bestätigt Computer B, dass er die Nachricht bekommen hat und sendet seine eigene Nachricht an Computer A. Das nennt man Synchronisation und ist wichtig, damit Computer A und Computer B sicher sind, dass ihre Nachrichten richtig ankommen.

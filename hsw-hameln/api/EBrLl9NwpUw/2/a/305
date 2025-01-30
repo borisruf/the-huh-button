@@ -1,0 +1,5 @@
+Okay, das ist ein bisschen kompliziert, aber ich versuche es so einfach wie möglich zu erklären. 
+
+Manchmal verwenden Netzwerke mehrere Geräte (Switches genannt), um Daten zu senden. Das hilft, falls ein Gerät kaputt geht - dann kann ein anderes Gerät die Arbeit übernehmen. Aber das kann auch dazu führen, dass Daten im Kreis geschickt werden und das Netzwerk überlasten, weil die Geräte nicht wissen, wohin die Daten gehen sollen. 
+
+Um das zu verhindern, verwenden Netzwerke ein System namens "Spanning-Tree". Dieses System blockiert bestimmte Verbindungen zwischen den Geräten, so dass die Daten nicht im Kreis geschickt werden. Aber das bedeutet auch, dass die Geräte viel miteinander kommunizieren müssen, um herauszufinden, welche Verbindungen blockiert werden sollen. Und diese zusätzliche Kommunikation kann das Netzwerk zusätzlich belasten. Das ist das, was mit "Overhead" gemeint ist.

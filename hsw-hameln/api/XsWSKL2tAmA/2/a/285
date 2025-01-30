@@ -1,0 +1,5 @@
+Achtung, das wird jetzt etwas technisch, aber ich versuche es so einfach wie möglich: Wir haben Internet-Adressen, die wir "IP-Adressen" nennen. Manchmal muss man diese Adressen in kleinere Teile unterteilen - dafür gibt es die "Subnetzmaske". Die Subnetzmaske teilt in einer IP-Adresse, welcher Teil zur Adresse des Netzwerks gehört und welcher Teil zur Adresse des Geräts (wie dein Computer oder dein Handy) in diesem Netzwerk gehört. Es ist wie eine Postleitzahl und eine Straße in einer Adresse.
+
+Jedes Teil von einer IP-Adresse und Subnetzmaske wird in einer Reihe von Einsen und Nullen dargestellt, weil das ist, wie Computer Informationen lesen. Wenn wir diese Zahlen nebeneinander legen, können wir sehen, dass der Netzwerkteil der Adresse dort ist, wo die Subnetzmaske Einsen hat und der Geräteteil der Adresse, wo die Subnetzmaske Nullen hat.
+
+Zum Beispiel könnten wir eine IP-Adresse haben (172.16.14.193) und eine Subnetzmaske (255.255.0.0). Wo die Subnetzmaske 255 (oder alle Einsen) hat, ist der Netzwerkteil der Adresse, und wo es 0 hat (oder alle Nullen), ist der Geräteteil. Also wäre die Netzwerkadresse 172.16 und die Geräteadresse wäre 14.193.

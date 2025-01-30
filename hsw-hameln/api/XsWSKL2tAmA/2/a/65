@@ -1,0 +1,1 @@
+Jede IP-Adresse hat auch noch eine weitere Nummer dabei, man nennt diese Subnetzmaske. Diese Subnetzmaske teilt die IP-Adresse in zwei Teile auf: einen Netzanteil und einen Hostanteil. Man kann IP-Adressen also nicht alleine betrachten, man muss immer auch die Subnetzmaske dazu nehmen. Und genau wie eine IP-Adresse hat auch eine Subnetzmaske vier Teile.

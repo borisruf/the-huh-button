@@ -1,0 +1,7 @@
+Also, um es einfach zu erklären:
+
+Stell dir vor, du hast viele Lichtschalter (das sind die "Switches") und mehrere Wege, um das Licht anzumachen. Aber wenn alle die Samme Glühbirne einschalten, passiert Chaos (das ist der "Broadcast-Storm"). Also brauchen wir eine Regelung, um zu entscheiden, welches der Hauptlichtschalter ist (das ist die "Root-Bridge").
+
+Zuerst schalten wir alle Lichter aus (das ist der "Blocking-Status"). Dann beginnen die Lichtschalter, untereinander zu reden und herauszufinden, wer der Haupt-Lichtschalter ist. Sobald sie das herausgefunden haben, können sie das Licht wieder anschalten, aber nur auf die beste Art und Weise.
+
+Genau das Gleiche passiert in einem Netzwerk. Die "Lichtschalter" sind unsere Switches und sie reden miteinander, um herauszufinden, wer der Haupt-Switch (Root-Bridge) sein wird. Sobald sie das entschieden haben, können sie wieder Daten senden und empfangen, aber auf eine organisierte Weise, um Chaos zu vermeiden.

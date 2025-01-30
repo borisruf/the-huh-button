@@ -1,0 +1,7 @@
+Eine IP-Adresse ist wie eine Hausadresse für Computer im Internet - sie sagt, wo ein Computer ist und wo Informationen hingesendet werden sollten. Manchmal sind IP-Adressen in vier Teile geteilt, so wie 172.16.14.193. Jeder dieser vier Teile wird "Oktett" genannt und sie werden auch durch Punkte getrennt. 
+
+Eine "Subnetzmaske" ist ein weiterer Satz von vier Zahlen, der mit der IP-Adresse zusammen verwendet wird. Sie teilt die IP-Adresse in zwei Teile - einen "Netzanteil", der sagt, in welchem Netzwerk der Computer ist, und einen "Hostanteil", der den speziellen Computer in diesem Netzwerk identifiziert.
+
+Jeder Teil einer IP-Adresse und einer Subnetzmaske kann als eine Reihe von "Bits" dargestellt werden, die entweder eine 0 oder eine 1 sein können. Diese Bits können in Dezimalzahlen (die Zahlen, die wir normalerweise verwenden) umgewandelt werden, so dass sie leichter zu verstehen sind.
+
+Jede Art von IP-Adresse (was man als "Klasse" bezeichnet) hat eine Standard-Subnetzmaske, die verwendet wird, wenn nichts anderes angegeben ist. Für Klasse A ist diese Standard-Subnetzmaske 255.0.0.0.

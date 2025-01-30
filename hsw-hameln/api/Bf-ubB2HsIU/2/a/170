@@ -1,0 +1,9 @@
+In diesem Text geht es um Netzwerke und bestimmte Regeln, die bei der Kommunikation im Netzwerk helfen. TCP und IP sind sehr wichtige dieser Regeln. Sie werden Protokolle genannt.
+
+Die IP-Adresse ist wie die Hausadresse im Internet. Jedes Gerät hat eine und so weiß man, wohin Informationen geschickt werden sollen. TCP ist wie ein Postbote: Es sorgt dafür, dass die Information komplett und ohne Fehler ankommt. 
+
+Außerdem gibt es noch andere Regeln. Zum Beispiel ICMP, das ins Spiel kommt, wenn es Probleme gibt. Oder PING und Echo, die manche vielleicht kennen. 
+
+Dann gibt es auch ARP. Das ist wie ein Adressbuch, das die IP-Adresse eines Geräts in seine MAC-Adresse übersetzt. MAC-Adressen sind einzigartige Kennzeichnungen, die jedes Gerät hat. 
+
+Und es gibt Routing-Protokolle. Die sind so etwas wie Wegweiser im Internet. Sie sagen, welchen Weg Informationen nehmen sollen, um von einem zum anderen Gerät zu kommen.

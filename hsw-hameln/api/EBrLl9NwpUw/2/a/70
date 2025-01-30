@@ -1,0 +1,7 @@
+Einfach ausgedrückt, die Aussage handelt von einem Problem im Computernetzwerk. 
+
+Ein Netzwerk besteht aus verschiedenen Teilen wie Leitungen und Switches, das sind so etwas wie Weichen, die Datenpakete (Informationen) weiterleiten. Manchmal baut man mehrere dieser Teile ein, um sicherzustellen, dass das Netzwerk auch dann noch funktioniert, wenn ein Teil kaputt geht. Das nennt man Redundanz. 
+
+Aber wenn man viele Switches einbaut, kann es passieren, dass sie eine Art Kreisverkehr bilden, in dem die Datenpakete im Kreis herumfahren, statt ihr Ziel zu erreichen. Dies ist ein sogenannter "Broadcast-Storm". 
+
+Besonders problematisch ist es, wenn ein Datenpaket eine falsche Adresse hat. Dann findet es keinen Empfänger und bleibt im Kreisverkehr gefangen. Diese Situation ist, als würde ein Briefträger einen Brief mit einer falschen Adresse immer wieder hin und her transportieren, weil er den Empfänger nicht findet. Das belastet das Netzwerk und kann zu Fehlern führen.

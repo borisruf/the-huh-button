@@ -1,0 +1,5 @@
+Eine IP-Adresse ist wie eine Hausadresse für Computer, damit sie im Internet gefunden werden können. Ähnlich wie eine Hausadresse, die Straße und Hausnummer hat, besteht eine IP-Adresse aus einem Netzanteil und einem Hostanteil - das ist so, als wäre der Netzanteil die Straße und der Hostanteil die Hausnummer. Um zu wissen, welcher Teil der Adresse zur Straße und welcher zur Hausnummer gehört, braucht man die Subnetzmaske. Sie ist wie eine Vorlage, die festlegt, wie die IP-Adresse aufgeteilt wird. 
+
+Nehmen wir z.B. die Adresse 172.16.14.193. Sie wird in vier Stücke geteilt, die als Oktette bezeichnet werden. Sie bestehen jeweils aus 8 Teilen, den sogenannten Bits. Diese haben unterschiedliche Werte und wenn man sie zusammenzählt, bekommt man die Zahlen der IP-Adresse.
+
+Ebenso gibt es verschiedene Adressklassen (Klasse A, B, C), die je nach Bedarf verwendet werden. Jede Klasse hat eine Standard-Subnetzmaske. Bei Klasse A ist das die 255.0.0.0, bei Klasse B die 255.255.0.0 und bei Klasse C die 255.255.255.0. Das bedeutet z.B., dass bei der Klasse A die erste Zahl der IP-Adresse zur Straße gehört und der Rest zur Hausnummer.

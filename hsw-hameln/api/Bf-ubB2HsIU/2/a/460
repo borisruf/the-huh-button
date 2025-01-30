@@ -1,0 +1,7 @@
+In diesem Text geht es um Netzwerke und Protokolle auf Computern, konkret um TCP und IP. Das sind Methoden, wie Computer miteinander reden und Daten austauschen.
+
+Es gibt verschiedene Arten von Daten, die von einem Ort zum anderen geschickt werden können. Jede Art hat eine eigene Nummer - das nennt man Portnummern. Mit diesen Nummern wissen die Computer, um welche Art von Daten es sich handelt und wo sie hinsollen.
+
+Manchmal kann es passieren, dass Daten unterwegs verloren gehen. Dann gibt es einen "Timeout", eine Art Wecker. Wenn der Wecker klingelt und die Daten sind nicht angekommen, werden sie nochmal geschickt. Das nennen wir "Neuübertragung".
+
+Alles zusammen - die verschiedenen Arten von Daten, das Überprüfen ob sie angekommen sind und das Wiederholen falls sie verloren gegangen sind - nennt man "Kommunikation".

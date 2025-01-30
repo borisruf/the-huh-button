@@ -1,0 +1,1 @@
+ Das Problem dabei ist, dass wenn ich mehrere Switches einsetze, um eben diese Redundanzen zu schaffen, ich dadurch auch Schleifen erzeugen kann und solche Netzwerkschleifen, die kennt eigentlich unser Ethernet-Protokoll nicht, soll heißen, grundsätzlich wäre eine solche Schleife ein Designfehler.  Was bedeutet das eigentlich?

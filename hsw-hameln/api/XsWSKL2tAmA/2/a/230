@@ -1,0 +1,9 @@
+Wenn wir über Netzwerke und Computer sprechen, brauchen wir oft spezielle Nummern, die wir IP-Adressen nennen. Diese Adressen sind ähnlich wie die Adressen für Häuser. Sie helfen den Daten, ihren Weg im Netzwerk zu finden. Diese Adressen sind ein bisschen kompliziert, weil sie mit vielen Nullen und Einsen funktionieren. Diese Nullen und Einsen nennen wir "Bits". 
+
+Jede IP-Adresse ist geteilt in zwei Teile: einen "Netz" Teil und einen "Host" Teil. Der Netzteil ist wie der Name einer Straße und der Host-Teil ist wie eine Hausnummer. So ist es einfacher, den genauen Ort (oder den genauen Computer) in einem großen Netzwerk zu finden.
+
+Nun, ist es so, dass je mehr nullen eine Adresse hat, desto mehr verschiedene Orte (oder "Hosts") können wir auf dieser "Straße" (Netz) haben. Es ist ähnlich wie bei einer sehr langen Straße, auf der viele verschiedene Häuser stehen können. 
+
+Zum Beispiel, wenn wir 16 Nullen haben, können wir eigentlich 65.536 verschiedene Orte haben. Aber es gibt zwei Ausnahmen: die erste und die letzte Adresse. Diese sind immer reserviert, man kann sie nicht für einen normalen Computer verwenden. 
+
+Die erste Adresse ist der Name für das ganze Netzwerk oder die ganze "Straße". Und die letzte Adresse ist eine spezielle Adresse, die alle Computer im Netzwerk gleichzeitig erreicht. Deshalb können wir tatsächlich nur 65.534 verschiedene Computer-Adressen haben, auch wenn wir 16 Nullen haben.

@@ -1,0 +1,1 @@
+Wir besprechen in diesem Kapitel zwei wichtige Regeln für Netzwerke, die TCP und IP genannt werden. IP ist wie eine Adresse für Computer und Daten, und TCP hilft dabei, sicherzustellen dass Daten richtig ankommen. Es gibt aber auch noch andere Regeln. Eine davon ist ICMP. ICMP wird benutzt, wenn es Probleme gibt.

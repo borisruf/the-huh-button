@@ -1,0 +1,7 @@
+TCP und IP sind beide wichtige Arten von Systemen, die Computer dazu bringen, miteinander zu sprechen und Daten auszutauschen. Das ist so, als ob sie zwei verschiedene Sprachen sprechen, die zusammenarbeiten, um eine Botschaft zu übertragen.
+
+IP ist wie die Adresse eines Hauses. Es sagt den Daten, wo sie hin müssen. Aber es kümmert sich nicht darum, ob die Daten tatsächlich dort ankommen. Es ist, als würdest du einen Brief in den Postkasten werfen und hoffen, dass er ankommt.
+
+Das ist, wo TCP ins Spiel kommt. TCP ist wie ein zuverlässiger Kurier. Es sorgt dafür, dass die Daten sicher und komplett an der IP-Adresse ankommen. Es ist, als ob du jemanden beauftragst, den Brief persönlich zu übergeben und dir dann zu bestätigen, dass er es getan hat.
+
+Also arbeiten TCP und IP zusammen, um sicherzustellen, dass die Daten, die wir senden, dort ankommen, wo sie sollen, und dass sie vollständig und korrekt sind. Es gibt auch noch andere Systeme, die mit IP zusammenarbeiten, aber TCP ist eines der wichtigsten.

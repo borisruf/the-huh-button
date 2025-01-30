@@ -1,0 +1,9 @@
+Diese Aussage erklärt, wie eine Internet-Adresse, oder IP-Adresse, gebildet wird. Eine IP-Adresse ist wie eine Telefonnummer für Computer, damit sie miteinander kommunizieren können. 
+
+Eine IP-Adresse besteht aus 32 einzelnen "Stücken", die wir Bits nennen. Wir können sie in vier Gruppen, oder Oktette, aufteilen. Jedes Oktett besteht aus 8 Bits. Ein Beispiel für eine IP-Adresse ist 172.16.14.193.
+
+Eine IP-Adresse hat zwei Teile: einen Netzwerk-Teil (Netzanteil) und einen Computer-Teil (Hostanteil). Diese Teile werden durch etwas genannt "Subnetzmaske" bestimmt. Die Subnetzmaske ist auch eine Art Adresse, die zeigt, welcher Teil der IP-Adresse zum Netzwerk und welcher zum Computer gehört. 
+
+Die Subnetzmaske ist genauso aufgebaut wie die IP-Adresse, also auch vier Oktette mit insgesamt 32 Bits. Und auch sie wird durch Punkte getrennt und meistens in unserer normalen Zahlenschreibweise (dezimal) dargestellt, damit wir sie besser verstehen können.
+
+Am Ende sollten wir immer die IP-Adresse zusammen mit der passenden Subnetzmaske betrachten, um zu verstehen, zu welchem Netzwerk ein Computer gehört und welcher Computer es genau ist.

@@ -1,0 +1,11 @@
+Stell dir vor, du gehst in ein neues Spielzeug-Geschäft und willst etwas kaufen. Als erstes grüßt du den Ladenverkäufer. Der Verkäufer grüßt zurück und fragt, ob er helfen kann. Du sagst ihm, was du kaufen möchtest. Danach könnt ihr eure Transaktion abschließen.
+
+Genau so funktioniert der sogenannte Drei-Wege-Handshake in einem Computer Netzwerk. Ein Computer 'A' möchte eine Verbindung mit Computer 'B' aufbauen. 
+
+1. Computer 'A' sendet eine Nachricht (ein sogenanntes "SYN"-Paket), um "Hallo" zu sagen. Diese Nachricht enthält die Nummer, mit der Computer 'A' die Verbindung starten möchte.
+
+2. Computer 'B' antwortet mit einer eigenen Nachricht, einem "SYN-ACK"-Paket. Es enthält die Nummer, mit der Computer 'B' die Verbindung starten möchte, und bestätigt gleichzeitig die Nummer von Computer 'A'.
+
+3. Schlussendlich sendet Computer 'A' ein letztes Paket (ein "ACK"-Paket) zurück, um die Nummer von 'B' zu bestätigen. 
+
+Dieses Hin und her ist notwendig, um sicherzustellen, dass beide Computer bereit sind, Daten zu senden und zu empfangen. Es stellt sicher, dass die Daten korrekt und sicher übertragen werden können. Dieser Vorgang ist im TCP-Protokoll festgelegt. TCP steht für "Transmission Control Protocol" und ist quasi die "Spielregel", wie Daten in einem Computer Netzwerk gesendet werden sollen.

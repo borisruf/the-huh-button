@@ -1,0 +1,7 @@
+Die IP-Adresse eines Computers ist wie seine Hausnummer im Internet. Sie besteht aus verschiedenen Teilen, die in sogenannten "Oktetten" unterteilt sind. Jedes Oktett ist ein bestimmter Teil der IP-Adresse. Und diese Teile sind wiederum aus Bits gemacht. Bits sind die kleinsten Einheiten der Computerdaten.
+
+Wenn du eine IP-Adresse siehst, siehst du eigentlich eine Dezimalzahl - das sind die Zahlen, die wir normalerweise benutzen. Aber im Computer wird sie als binäre Zahl gespeichert - das sind nur die Zahlen 0 und 1.
+
+Wenn du also wissen willst, wie der Computer die IP-Adresse speichert, musst du sie in eine binäre Zahl umrechnen. Das machst du, indem du dir anschaust, was jedes Bit im Oktett wert ist. Das ist wie wenn du eine Zahl wie z.B. 321 liest - du weißt, dass die '3' eigentlich '300' bedeutet, weil sie an der Stelle der Hunderten steht. Bei der Umrechnung der IP-Adresse ist es ähnlich, nur mit Bits statt Dezimalzahlen. 
+
+Es ist wichtig, diese Umwandlung zu verstehen, weil manchmal musst du wissen, welcher Teil der IP-Adresse für das Netzwerk und welcher Teil für den Computer (den "Host") steht. Das wird durch eine andere Nummer bestimmt, die "Subnetzmaske". Die teilt die IP-Adresse sozusagen in den Netzwerk- und den Host-Teil auf.

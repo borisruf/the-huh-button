@@ -1,0 +1,1 @@
+ Daraufhin bestätigt im Idealfall der Empfänger den Erhalt dieses Kennzeichens mit einer weiteren Synchronisationssequenz.  Und zwar bestätigt er jetzt an der Stelle X, also das, was er bekommen hat, plus 1 und sendet seine eigene Sequenznummer, nämlich Y.

@@ -1,0 +1,1 @@
+ Und zwar bestätigt er jetzt an der Stelle X, also das, was er bekommen hat, plus 1 und sendet seine eigene Sequenznummer, nämlich Y.  Damit jetzt dieser Handshake abgeschlossen werden kann, antwortet unser ursprünglicher Sender an dieser Stelle noch einmal, und zwar nämlich mit der Bestätigung des Synchronisations der Sequenznummer von unserem Sender, also Y plus 1.

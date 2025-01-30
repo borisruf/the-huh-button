@@ -1,0 +1,7 @@
+Wenn wir Computer oder andere Geräte haben, die miteinander kommunizieren wollen, dann tun sie das über Netzwerke. Und damit diese Kommunikation gut funktioniert, gibt es bestimmte Regeln und Standards, wie diese Geräte miteinander reden. Ein wichtiger Teil dieser Regeln ist das sogenannte TCP-Protokoll.
+
+Stell dir vor, du schickst einen Brief per Post. Mit dem TCP-Protokoll wäre es so, als ob du nicht nur den Brief schickst, sondern auch noch überprüfst, ob er wirklich angekommen ist und ob alle Informationen noch richtig sind. Das ist wie eine Kontrolle von Anfang bis Ende. 
+
+Und genau diese Kontrolle, die wir mit TCP machen, schauen wir uns genauer an. Wir öffnen quasi den "Kopf" von TCP, das ist ein Teil der Nachricht, der zusätzliche Informationen enthält, und schauen, was da alles drin ist. 
+
+Alles in allem geht es hier um die sichere und korrekte Übertragung von Daten in Netzwerken.

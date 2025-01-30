@@ -1,0 +1,1 @@
+ Dann gibt es einen Timeout, auch das haben wir schon kennengelernt, dass die Daten nochmal neu übertragen werden.  An dieser Stelle findet also eine komplette Kommunikation statt, inklusive dessen, was wir schon kennengelernt haben, Bestätigungen, Sequenznummern und der Abschluss der Übertragung.
