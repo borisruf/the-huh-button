@@ -1,0 +1,13 @@
+In dieser Erklärung geht es darum, wie Computer miteinander sprechen, wenn wir im Internet surfen. 
+
+Stell dir vor, du schickst eine Nachricht von deinem Computer (das ist der Client) zu einem anderen Computer (das ist der Server). Diese Nachricht muss durch viele „Stationen“ gehen, so wie beim Transport eines Pakets. 
+
+1. **Pfeile**: Die Pfeile in der Grafik zeigen, dass die Nachrichten in beide Richtungen gehen. Du schickst eine Anfrage, und der Server schickt eine Antwort zurück. 
+2. **Was der Nutzer sieht**: Wir sehen nur einen kleinen Teil davon, wenn wir im Internet sind – nämlich die Verbindung zwischen deinem Computer und dem Server. 
+3. **Viel passiert im Hintergrund**: Hinter den Kulissen passiert aber noch viel mehr. Es gibt viele Regeln und Vereinbarungen, die festlegen, wie die Computer miteinander kommunizieren. Diese Regeln nennt man Protokolle und Standards. 
+4. **Aufbau der Verbindung**: Bevor etwas übertragen werden kann, muss eine Verbindung aufgebaut und später auch wieder abgebaut werden.
+5. **Fehlerbehandlung**: Falls etwas schiefgeht, müssen die Computer wissen, was zu tun ist.
+6. **Timing**: Es ist wichtig, dass der Senden und Empfangen der Nachrichten gut abgestimmt ist.
+7. **Formate**: Die Nachrichten können in verschiedenen Formaten vorliegen: Text, Bilder oder Videos. 
+
+Die Erklärung zeigt, wie kompliziert der Prozess des digitalen Kommunizierens ist, auch wenn es für uns ganz einfach aussieht.

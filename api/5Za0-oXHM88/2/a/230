@@ -1,0 +1,9 @@
+In einfachen Worten bedeutet die Aussage:
+
+Wenn wir Daten von einem Computer zu einem anderen schicken, gibt es zwei wichtige Dinge, die wir beachten müssen: 
+
+1. **Signallaufzeit**: Das ist die Zeit, die das Signal braucht, um von einem Ort zum anderen zu kommen. Man kann sich das wie eine Nachricht vorstellen, die von A nach B geschickt wird. Es dauert eine Weile, bis sie ankommt.
+
+2. **Übertragungszeit**: Diese Zeit hängt davon ab, wie groß die Daten sind, die wir senden wollen. Wenn wir viele Daten haben, dauert es länger, sie zu übertragen, ähnlich wie wenn wir einen großen Koffer packen müssen – je mehr wir packen, desto mehr Zeit brauchen wir.
+
+Zusammengefasst: Zuerst müssen wir warten, bis das Signal ankommt, und dann benötigen wir Zeit, um die Daten zu senden.

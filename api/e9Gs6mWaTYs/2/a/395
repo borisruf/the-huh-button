@@ -1,0 +1,9 @@
+Auf dieser Folie sehen wir zwei wichtige Modelle, die helfen zu verstehen, wie Computer miteinander kommunizieren. 
+
+Links ist das OSI-Modell. Das ist ein sehr detailliertes Modell mit vielen Schichten, die jeweils spezielle Aufgaben haben.
+
+Rechts sehen wir das DoD- oder TCP-IP-Modell. Das ist ein einfacheres Modell; es hat weniger Schichten und ist nicht so kompliziert.
+
+Beide Modelle zeigen, wie Daten von einem Computer zum anderen gesendet werden. Sie haben ähnliche Schichten, die ähnliche Dinge tun. In der Mitte der Folie gibt es einen Bereich, wo wir sehen können, was auf den verschiedenen Schichten passiert, wenn Daten übertragen werden.
+
+Die Modelle helfen also, die Kommunikation zwischen Computern besser zu verstehen.

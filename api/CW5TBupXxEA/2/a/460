@@ -1,0 +1,11 @@
+Okay, lass uns das einfacher erklären.
+
+Die Aussage sagt, dass wir über etwas sprechen, das Hardware-Adressierung heißt. Dabei geht es um MAC-Adressen.
+
+Was sind MAC-Adressen? 
+
+Stell dir vor, jedes Gerät, das mit dem Internet verbunden ist – wie dein Computer, dein Handy oder dein Drucker – hat eine eigene, besondere Nummer. Diese Nummer hilft den Geräten, einander zu finden und miteinander zu reden. Das ist nötig, damit Informationen den richtigen Weg finden können.
+
+Diese besondere Nummer nennt man MAC-Adresse. Die MAC-Adresse ist wie eine ID-Nummer für deine Geräte. Sie ist einmalig, so dass man genau weiß, welches Gerät welche Informationen sendet oder empfängt.
+
+Zusammengefasst: Hardware-Adressierung sorgt dafür, dass Geräte im Netzwerk ihre eigenen speziellen Zahlen haben, damit sie miteinander kommunizieren können.

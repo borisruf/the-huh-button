@@ -1,0 +1,17 @@
+Der Text beschreibt, wie Daten über das Internet gesendet werden, speziell bei E-Mails. Hier ist die Erklärung in einfacher Sprache:
+
+1. **Daten senden**: Wenn du eine E-Mail schickst, gehen die Daten zuerst zu deinem Router. Der Router hilft, die Informationen weiterzuleiten.
+
+2. **Routers Arbeit**: Der Router schaut sich die Daten an. Er prüft, ob die Daten für ihn bestimmt sind, indem er die MAC-Adresse (eine Art persönliche Adresse für Geräte) und die IP-Adresse (eine Adresse im Internet) überprüft.
+
+3. **Datenverarbeitung**:
+   - Der Router "entpackt" die Daten, das heißt, er entfernt Informationen, die man zum Senden hinzugefügt hat.
+   - Er schaut in die Daten rein, um die richtigen Adressen zu finden.
+
+4. **Weiterleiten**: Der Router entscheidet dann, wohin die Daten als Nächstes gehen sollen. Er packt die Daten wieder ein, jetzt mit der neuen Adresse, und schickt sie weiter.
+
+5. **Mehrere Router**: Die Daten können durch viele Router reisen. Jeder Router macht das Gleiche: er entpackt die Daten, schaut nach, wo sie hinmüssen, und schickt sie dann weiter.
+
+6. **E-Mail-Server**: Schließlich erreichen die Daten den E-Mail-Server. Dort werden die Daten wieder "entpackt", und der Server überprüft erneut, ob die Daten für ihn sind, bevor sie an die richtige Stelle weitergeleitet werden.
+
+7. **Zusammenfassung**: Das Ganze passiert immer wieder, bis die E-Mail an die richtige Person angekommen ist. Der Prozess sorgt dafür, dass die Informationen sicher und an der richtigen Adresse ankommen.

@@ -1,0 +1,5 @@
+In dieser Aussage wird gesagt, dass wir eine komplizierte Kommunikation in einfachere Teile aufteilen können, die wir „Schichten“ nennen. Stell dir vor, es gibt zwei Nutzer, die miteinander reden wollen. Diese Nutzer müssen nicht unbedingt Menschen sein. Sie können auch Computerprogramme oder Apps sein.
+
+Wenn also zwei Nutzer Informationen austauschen möchten, brauchen sie einige zusätzliche „Schichten“, um das richtig zu machen. Zum Beispiel könnte es eine „Übersetzungsschicht“ geben, wenn die Nutzer verschiedene Sprachen sprechen. Wenn die Informationen geheim bleiben sollen, brauchen wir eine „Sicherungsschicht“, die die Informationen schützt, zum Beispiel durch Verschlüsselung. Schließlich brauchen wir noch eine „Übertragungsschicht“, die die Informationen von einem Platz zum anderen sendet.
+
+Zusammengefasst: Wir teilen die Kommunikation in einfache Schichten auf, damit wir besser verstehen, wie alles funktioniert. Diese Schichten helfen den Nutzern, ihre Nachrichten genau und sicher zu senden und zu empfangen.

@@ -1,0 +1,5 @@
+In dieser Aussage geht es um die Kommunikation zwischen einem Computer (Client) und einem anderen Computer (Server). Wenn der Client eine Anfrage an den Server sendet, muss das Signal (also die Information) eine Strecke zurücklegen. 
+
+Die "Signallaufzeit" ist die Zeit, die das Signal braucht, um von dem einen Computer zum anderen zu gelangen. Das ist wichtig, weil wir wissen wollen, wie schnell die Informationen übertragen werden können. 
+
+In einfachen Worten: Wenn dein Computer etwas von einem anderen Computer anfragt, dauert es eine kleine Weile, bis die Anfrage ankommt. Diese Wartezeit nennt man Signallaufzeit, und sie ist der erste Schritt, den wir betrachten, wenn wir über die Geschwindigkeit der Datenübertragung sprechen.

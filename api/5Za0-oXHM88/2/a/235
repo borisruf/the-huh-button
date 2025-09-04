@@ -1,0 +1,3 @@
+Die Aussage bedeutet einfach, dass die "Transferzeit" die gesamte Zeit ist, die benötigt wird, um Daten von einem Ort zu einem anderen zu senden. Das beginnt, wenn die Datenübertragung startet, und endet erst, wenn das letzte Stück dieser Daten angekommen ist. Während dieser Zeit kann der Server die Anfrage, die er von einem anderen Computer (Client) bekommen hat, verarbeiten. 
+
+Stell dir vor, du schickst einen Brief. Die Zeit, die es dauert, bis du den Brief abschickst und bis der Brief beim Empfänger im Briefkasten ist, ist wie die Transferzeit. Und genauso muss der Empfänger dann den Brief lesen, was analog zur Verarbeitung der Anfrage durch den Server ist.

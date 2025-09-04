@@ -1,0 +1,12 @@
+Ein Access-Point ist ein Gerät, das es ermöglicht, mit einem Netzwerk zu verbinden, zum Beispiel beim Internet über WLAN. Man kann sich das wie einen Vermittler vorstellen. 
+
+Wenn wir über den Access-Point sprechen, denken wir an zwei wichtige Schichten, die er hat. 
+
+1. **Erste Schicht (Layer 1 - Physikalische Schicht):** Diese Schicht handelt über die physische Verbindung, also wie die Daten tatsächlich „reisen“. Sie beschreibt, wie wir unsere Geräte, wie Handys oder Computer, über Kabel oder Funk verbinden.
+
+2. **Zweite Schicht (Layer 2 - Datenlink-Schicht):** Diese Schicht hilft dabei, dass die Daten richtig und sicher ankommen. 
+   - Diese Schicht wird in zwei Bereiche unterteilt:
+     - **Logical Link Control (LLC):** Das ist wie eine Regel, die sagt, wie die Daten organisiert werden.
+     - **MAC-Layer:** Diese Schicht kümmert sich um die Adressen der Geräte, also wer was sendet und empfängt.
+
+Zusammengefasst: Der Access-Point hat zwei Schichten, die helfen, dass Daten vom Sender zum Empfänger sicher und ordentlich ankommen. Manchmal wird die zweite Schicht noch weiter aufgeteilt in spezielle Bereiche.

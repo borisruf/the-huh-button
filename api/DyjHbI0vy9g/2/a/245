@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wenn Informationen zwischen verschiedenen Schichten (oder Ebenen) von einem Netzwerk ausgetauscht werden, es dafür bestimmte Regeln gibt. Diese Regeln nennt man "Prozeduren". Sie sorgen dafür, dass der Austausch der Daten ordentlich und zuverlässig abläuft.
+
+Diese Regeln sind in "Protokollen" festgelegt. Protokolle sind wie Anleitungen oder Vorschriften, die erklären, wie man etwas macht, in diesem Fall, wie man Daten überträgt.
+
+Das Interface, oder der "Service Access Point", ist der Punkt, an dem die Daten von einer Schicht zur nächsten weitergegeben werden. Man kann sich das wie eine Übergabestelle vorstellen, an der Informationen von einer Ebene zur anderen gelangen.

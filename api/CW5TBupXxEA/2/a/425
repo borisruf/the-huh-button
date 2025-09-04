@@ -1,0 +1,7 @@
+Die Aussage handelt von einem speziellen Aufbau, wenn wir Daten, wie beispielsweise eine E-Mail, über das Internet senden. 
+
+Zuerst fügen wir an den Anfang der Daten etwas hinzu, das nennt man einen "Header". Dieser Header enthält wichtige Informationen darüber, wie die Daten behandelt werden sollen. 
+
+Aber das ist nicht alles. Am Ende der Daten fügen wir auch noch etwas hinzu, das nennt sich "Trailer". Dieser Trailer enthält ebenfalls wichtige Informationen, aber anders als der Header. So haben unsere Daten sowohl vorne als auch hinten zusätzliche Informationen, die helfen, die Daten richtig zu senden und zu empfangen. 
+
+Zusammengefasst: Wenn wir Daten verschicken, packen wir sowohl vorne etwas (Header) als auch hinten etwas (Trailer) dran, damit alles gut funktioniert.

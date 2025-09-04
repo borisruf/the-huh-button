@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie Computer oder Geräte miteinander kommunizieren. Auf der linken Seite haben wir den Sender und auf der rechten Seite den Empfänger. Beide haben ein gleiches Modell, das OSI-Modell, das aus verschiedenen Schichten besteht. Diese Schichten helfen dabei, die Kommunikation zu organisieren und sicherzustellen, dass beide Seiten dieselben Regeln haben.
+
+Wenn die Daten vom Sender zum Empfänger geschickt werden, arbeiten immer die passenden Schichten auf beiden Seiten miteinander. Das nennt man horizontale Kommunikation. Es ist wie beim Sprechen: Man muss eine gemeinsame Sprache haben, damit man sich versteht.
+
+Der Text erklärt auch, dass es einen Router gibt, der hilft, die Daten weiterzuleiten. Der Router schaut sich die Daten an, entfernt unnötige Teile und sorgt dafür, dass die Daten an den richtigen Ort gehen. Er macht das immer wieder, bis die Daten schließlich beim Empfänger ankommen.
+
+In einfachen Worten: Sender und Empfänger verwenden dasselbe System, um Daten auszutauschen, und der Router hilft dabei, die Daten weiterzuleiten.

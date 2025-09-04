@@ -1,0 +1,7 @@
+In einfachen Worten bedeutet die Aussage, dass es in einem Computernetzwerk eine Schicht gibt, die für den Transport von Daten zuständig ist. Diese Schicht wird "Transport-Schicht" genannt und hat die Aufgaben, die Daten von einem Ort zum anderen zu senden.
+
+Es gibt zwei wichtige Arten, wie diese Schicht arbeitet: TCP und UDP. Diese beiden sind wie zwei verschiedene Wege, auf denen Daten reisen können. Man kann es sich wie verschiedene Straßen vorstellen, die zu einem Ziel führen.
+
+Außerdem gibt es etwas, das man "Ports" nennt. Man kann sich Ports wie Türen oder Ausgänge in einem Gebäude vorstellen. Jede Anwendung, die Daten sendet oder empfängt, braucht einen eigenen Port, um die richtige Tür zu finden. So kann der Computer verschiedene Anwendungen gleichzeitig bedienen, ohne durcheinanderzukommen. 
+
+Zusammengefasst: Die Transport-Schicht sorgt dafür, dass Daten sicher und ordentlich von einem Computer zum anderen geschickt werden, indem sie verschiedene Wege und Türen (Ports) benutzt.

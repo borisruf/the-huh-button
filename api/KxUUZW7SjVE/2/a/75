@@ -1,0 +1,7 @@
+Stell dir vor, du hast ein Geschenk, das in vielen Schichten eingepackt ist. Der Router ist wie jemand, der das Geschenk öffnet. Zuerst nimmt er die oberste Schicht ab und schaut, was darunter ist. 
+
+Die Information wird in verschiedenen Schichten verpackt, die man Header und Trailer nennt. Der Router entfernt diese Schichten, weil er nur die wichtigen Informationen sehen will. 
+
+Er beginnt damit, das Signal zu verstehen. Das ist wie wenn er die Sprache des Geschenks entschlüsselt, damit er weiß, was drin ist. Dann schaut er auf die nächste Schicht, wo er spezielle Adressen finden kann, die ihm sagen, wohin die Informationen geschickt werden sollen.
+
+Der Router kümmert sich nur bis zur dritten Schicht. Das bedeutet, er schaut nicht auf die anderen Schichten darüber. Er macht einfach die Schichten auf, um die wichtigen Daten herauszuholen.

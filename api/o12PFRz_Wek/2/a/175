@@ -1,0 +1,18 @@
+Diese Aussage erklärt, wie Netzwerke, also Systeme, die Geräte verbinden, verschiedene Arten haben, je nachdem, wie weit die Geräte voneinander entfernt sind. 
+
+Hier ist eine einfache Übersicht:
+
+1. **Netzwerke**: Das sind Verbindungen zwischen verschiedenen Geräten, zum Beispiel Computer oder Handys. 
+
+2. **Kleinere Netzwerke**: 
+   - **PAN (Personal Area Network)**: Das sind sehr kleine Netzwerke, die oft für persönliche Geräte wie Smartwatches verwendet werden, die direkt miteinander sprechen, wenn sie nah beieinander sind.
+   - **LAN (Local Area Network)**: Diese Netzwerke sind etwas größer, sie verbinden Geräte in einem bestimmten Raum oder Gebäude, wie in einem Büro.
+
+3. **Größere Netzwerke**:
+   - **MAN (Metropolitan Area Network)**: Diese Netzwerke sind noch größer und können Geräte in einer ganzen Stadt verbinden.
+   - **WAN (Wide Area Network)**: Diese Netzwerke verbinden Geräte über sehr große Distanzen, zum Beispiel in verschiedenen Städten oder Ländern.
+   - **GAN (Global Area Network)**: Das sind Netzwerke, die einen weltweiten Umfang haben und auf der ganzen Erde Geräte verbinden.
+
+4. **Unterschiede**: In einem WAN ist es oft so, dass die Geräte über größere Entfernungen kommunizieren, während in einem LAN die Geräte oft direkt über Kabel verbunden sind und sehr unterschiedliche Dienste nutzen.
+
+Zusammengefasst: Netzwerke können klein oder groß sein, und sie verbinden Geräte je nach Entfernung und Art der Kommunikation.

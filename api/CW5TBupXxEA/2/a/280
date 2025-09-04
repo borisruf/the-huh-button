@@ -1,0 +1,7 @@
+Die Aussage erklärt, wie Informationen in einer E-Mail zwischen verschiedenen Computern über ein Netzwerk geschickt werden. 
+
+Zuerst wird die Nachricht, die du schreibst, vom E-Mail-Programm verarbeitet. Dabei wird ein zusätzliches Stück Information hinzugefügt, das sagt, wie die Nachricht gesendet werden soll. Das ist der Anwendungskopfteil.
+
+Dann kommt die Darstellungsschicht. Hier wird entschieden, wie die Informationen aussehen und wie sie gespeichert werden. Zum Beispiel wird hier festgelegt, ob der Text in einem bestimmten Code (wie ASCII) geschrieben ist oder ob ein Bild (wie ein JPEG) als Anhang dabei ist. Außerdem wird noch festgelegt, ob die Informationen kleiner gemacht wurden (komprimiert) oder geheim gehalten werden (verschlüsselt).
+
+Nach dieser Schicht geht es dann zur nächsten Schicht, der Sitzungsschicht. Insgesamt wird die gesamte Kommunikation so in verschiedene Schichten unterteilt, damit alles besser organisiert und verständlich ist.

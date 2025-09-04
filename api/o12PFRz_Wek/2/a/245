@@ -1,0 +1,7 @@
+Stell dir vor, du hast eine Gruppe von Freunden, und du möchtest ihnen allen gleichzeitig etwas sagen. Wenn du einfach laut rufst, hören alle deine Nachricht gleichzeitig. Das ist so ähnlich wie bei einem bestimmten Computernetzwerk.
+
+Normalerweise gibt es verschiedene Arten, wie Computer miteinander verbunden sind. Eine Möglichkeit ist, dass sie in einer sogenannten "Bustopologie" miteinander verbunden sind. Das bedeutet, dass alle Computer an ein gemeinsames Kabel (den Bus) angeschlossen sind und gleichzeitig die gleichen Daten empfangen. 
+
+In dem Beispiel mit den Freunden könnte man sagen, dass du zwar vielleicht in einem Kreis stehst (das wäre wie eine "Stern"-Verbindung), aber wenn du laut rufst, hört jeder das gleiche, als würdet ihr an einem Bus sitzen. Obwohl die Anordnung wie ein Stern aussieht, ist die Art, wie die Informationen weitergegeben werden, wie bei einem Bus, wo alle zur gleichen Zeit das Signal bekommen. 
+
+Zusammengefasst: Egal, wie die Computer physisch angeordnet sind, wenn sie die gleichen Informationen gleichzeitig empfangen, nennt man das logisch gesehen eine Bustopologie.

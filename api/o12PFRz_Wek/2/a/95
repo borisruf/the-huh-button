@@ -1,0 +1,15 @@
+In dieser Erklärung geht es um verschiedene Arten von Netzwerken, die sich nach ihrer Größe und dem Bereich, den sie abdecken, unterscheiden.
+
+1. **PAN (Personal Area Network)**: Das ist ein Netzwerk, das für persönliche Geräte gedacht ist, die ganz nah beieinander sind, wie zum Beispiel Smartwatches oder Handys. 
+
+2. **LAN (Local Area Network)**: Wenn die Geräte etwas weiter auseinander sind, aber immer noch in einem kleinen Bereich, sprechen wir von einem lokalen Netzwerk. Das ist oft in Schulen oder Büros, wo mehrere Computer miteinander verbunden sind.
+
+3. **SAN (Storage Area Network)**: Das ist eine spezielle Art von LAN, die sich um die Speicherung von Informationen kümmert. Hier werden Daten effizient zwischen verschiedenen Geräten übertragen.
+
+4. **MAN (Metropolitan Area Network)**: Wenn das Netzwerk eine größere Stadt abdeckt, nennt man es ein städtisches Netzwerk. Es kann also mehrere LANs in einer Stadt verbinden.
+
+5. **WAN (Wide Area Network)**: Wenn ein Netzwerk noch größer ist und viele Städte oder Länder umfasst, nennt man es ein weites Netzwerk. Zum Beispiel das Internet, das in vielen Ländern funktioniert.
+
+6. **GAN (Global Area Network)**: Das ist das größte Netzwerk, das die ganze Welt verbindet. Hier können Geräte und Computer aus verschiedenen Teilen der Erde miteinander kommunizieren.
+
+Mit diesen verschiedenen Netzwerkkategorien kann man verstehen, wie Computer und Geräte rund um uns in unterschiedlichen Größeneinheiten miteinander verbunden sind.

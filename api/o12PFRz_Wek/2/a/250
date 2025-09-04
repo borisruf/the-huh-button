@@ -1,0 +1,7 @@
+Okay, lass uns das einfach erklären:
+
+In einem Netzwerk gibt es verschiedene Geräte, die miteinander kommunizieren. Es gibt eine Art von Verbindung, die wir "Bustopologie" nennen. Stell dir vor, ein Bus fährt und alle Passagiere steigen an den Haltestellen ein oder aus. So ähnlich funktioniert auch die Bustopologie: Wenn ein Gerät eine Nachricht sendet, hören alle anderen Geräte zu und bekommen diese Nachricht.
+
+Jetzt gibt es auch etwas, das wir "physikalische Topologie" nennen. Das ist die echte Anordnung der Geräte, also wie sie im Raum stehen oder miteinander verbunden sind. Wenn die Geräte also in einer bestimmten Form angeordnet sind, wie zum Beispiel in einem Stern, dann sehen sie in echt so aus. Aber wie sie miteinander sprechen – also der Datenfluss – kann so sein wie bei einem Bus, bei dem alle gleichzeitig zuhören.
+
+Zusammengefasst: Es gibt die echte Form, wie die Geräte angeordnet sind, und es gibt die Art, wie sie Informationen austauschen. Manchmal sehen diese zwei Sachen unterschiedlich aus.

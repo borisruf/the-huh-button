@@ -1,0 +1,5 @@
+Die Sitzungsschicht ist wie eine Art Verkehrsregler für die Kommunikation zwischen Geräten im Internet. Sie sorgt dafür, dass eine Verbindung zum Beispiel beim Verschicken einer E-Mail erfolgreich aufgebaut, geschützt und wieder geschlossen wird. 
+
+Wenn du eine E-Mail schreibst und sie verschicken möchtest, beginnt alles in einer höheren Schicht (der Anwendungsschicht) und das Simple Mail Transfer Protokoll hilft, diese E-Mail zu versenden. Die Sitzungsschicht sorgt dann dafür, dass alles reibungslos funktioniert. Sie sagt zum Beispiel, wann die Verbindung hergestellt wird und was passiert, wenn die E-Mail nicht verschickt werden kann.
+
+Also, die Sitzungsschicht ist wichtig dafür, damit Geräte gut miteinander kommunizieren können, ohne dass etwas verloren geht oder schiefgeht.

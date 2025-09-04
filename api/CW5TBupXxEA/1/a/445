@@ -1,0 +1,3 @@
+Die Aussage weist darauf hin, dass in der Sicherungsschicht (Layer 2) des ISO-OSI-Referenzmodells unterschiedliche Protokolle verwendet werden, um die Übertragung von Daten über physische Netzwerke zu ermöglichen. 
+
+Protokolle wie Ethernet, PPP (Point-to-Point Protocol) und FDDI (Fiber Distributed Data Interface) definieren, wie Datenrahmen (Frames) strukturiert und gesendet werden, sowie den Zugriff auf das Übertragungsmedium. Diese Protokolle sind entscheidend, um sicherzustellen, dass Daten zuverlässig und effizient zwischen Geräten innerhalb eines Netzwerks übertragen werden, indem sie beispielsweise den Medienzugriff steuern und Fehlererkennung oder -korrektur anbieten.

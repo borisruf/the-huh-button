@@ -1,0 +1,11 @@
+Okay, ich erkläre dir das ganz einfach.
+
+Wenn du im Internet etwas machst, wie eine Webseite aufrufen, passiert ganz viel im Hintergrund. Die Informationen, die zwischen deinem Computer (das nennen wir "Client") und dem Computer, der die Webseite hat (das nennen wir "Server"), hin und her geschickt werden, laufen nicht nur in eine Richtung. Die Informationen gehen hin und wieder zurück, genau wie ein Pingpongball.
+
+Es gibt spezielle Regeln, die man Protokolle nennt. Diese Protokolle helfen den beiden Computern, miteinander zu reden. Sie sagen, wie sie sich verbinden, was passiert, wenn ein Fehler auftritt, wann die Verbindung beginnt und endet, und wie die Daten (wie Texte oder Bilder) aussehen müssen.
+
+Standard ist ein Begriff für eine Art von Regel, die von bestimmten Organisationen festgelegt wird, damit alle Computer und Programme gut zusammenarbeiten können. Es gibt viele Schritte, bis diese Standards festgelegt sind.
+
+In dem Bild, das du siehst, kannst du dir vorstellen, dass es viele verschiedene Wege gibt, wie die Daten von einem Computer zum anderen gelangen. Auch wenn du nur die einfache Verbindung zwischen deinem Gerät und dem Server siehst, steckt viel mehr Arbeit dahinter, um alles am Laufen zu halten.
+
+Zusammengefasst: Wenn du im Internet bist, läuft viel mehr ab, als du denkst. Es gibt Regeln, wie die Computer kommunizieren und viele Schritte, die die Daten zurück und forth schicken.

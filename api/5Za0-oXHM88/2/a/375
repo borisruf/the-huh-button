@@ -1,0 +1,11 @@
+Die Aussage „Die Länge der Wasserleitung macht dann das Volumen aus“ bedeutet, dass die Länge der Leitung beeinflusst, wie viel Wasser in ihr sein kann. 
+
+In unserem Beispiel vergleichen wir Wasser mit Daten. Wenn wir eine lange Wasserleitung haben, können wir mehr Wasser (oder in unserem Fall mehr Daten) transportieren, selbst wenn die Leitung nicht sehr dick ist. Das Volumen ist die Menge an Wasser, die in die Leitung passt. 
+
+Das Bild hilft uns, die Idee besser zu verstehen: 
+
+- **Die Wasserleitung** ist wie die Verbindung im Netzwerk, wo die Daten fließen.
+- **Der Durchmesser der Leitung** steht für die Bandbreite, also wie viele Daten gleichzeitig fließen können. 
+- **Die Länge der Leitung** zeigt, wie lange es dauert, bis die Daten ihr Ziel erreichen. 
+
+Also, je länger die Leitung, desto mehr Wasser (oder Daten) kann sie halten, aber es kann auch länger dauern, bis alles ankommt. Dieses Beispiel hilft uns zu verstehen, wie Bandbreite und Verzögerung in einem Datennetzwerk zusammenhängen.

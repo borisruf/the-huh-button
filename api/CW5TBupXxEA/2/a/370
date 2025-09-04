@@ -1,0 +1,9 @@
+In einfachen Worten bedeutet die Aussage Folgendes:
+
+Das Netzwerk hat verschiedene Schichten, die helfen, Daten zu übertragen. Eine dieser Schichten heißt "Transportschicht". Auf dieser Schicht gibt es zwei wichtige Protokolle: TCP und UDP. 
+
+Die Transportschicht kümmert sich darum, wie die Daten zwischen Computern gesendet werden. Sie sorgt dafür, dass die Daten sicher ankommen und regelt, wer mit wem spricht. 
+
+Hier kommen die "Ports" ins Spiel. Ports sind wie Türen, die verschiedene Programme oder Anwendungen auf einem Computer haben. Wenn eine Anwendung eine Nachricht senden will, nutzt sie einen bestimmten Port, um sich mit einer anderen Anwendung auf einem anderen Computer zu verbinden. Jeder Port hat eine Nummer, damit die Daten zur richtigen Anwendung gelangen. 
+
+Zusammengefasst: Die Transportschicht hilft, Daten sicher zu senden, und Ports sind die Eingänge, durch die verschiedene Programme miteinander kommunizieren.

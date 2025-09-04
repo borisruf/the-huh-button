@@ -1,0 +1,17 @@
+Okay, ich erkläre das einfach:
+
+Wenn wir Daten über das Internet senden, passiert Folgendes:
+
+1. **Daten packen**: Zuerst werden die Daten in kleine "Pakete" gepackt. Jedes Paket hat Infos, die helfen, es zu finden und zu transportieren. 
+
+2. **Router ankommen**: Diese Pakete kommen zu einem Gerät namens Router. Der Router ist dafür da, die Daten weiterzuleiten.
+
+3. **Daten entpacken**: Der Router öffnet das Paket und schaut, was drin ist. Er entfernt die zusätzlichen Infos, die wir hinzugefügt haben, um herauszufinden, wohin das Paket gehen soll.
+
+4. **Adressen finden**: Der Router schaut sich die "MAC-Adresse" (die Adresse des nächsten Geräts) und die "IP-Adresse" (die Adresse des Ziels) an. Damit weiß er, wohin das Paket weitergeleitet werden soll.
+
+5. **Daten wieder packen**: Nachdem der Router gesehen hat, wohin das Paket gehen soll, packt er es wieder ein. Er fügt neue Adressen hinzu, damit die nächsten Router wissen, wo das Paket hin soll.
+
+6. **Pakete senden**: Dann sendet der Router das Paket weiter. Es kann noch durch viele andere Router gehen, und jeder macht das Gleiche: Er entpackt, schaut sich die Adressen an und packt es wieder ein.
+
+So wird sichergestellt, dass unsere Daten sicher und an die richtige Adresse gelangen.

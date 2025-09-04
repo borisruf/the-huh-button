@@ -1,0 +1,5 @@
+Die Aussage beschreibt, was ein Router mit den Daten macht, die er erhält. Stell dir vor, du schickst einen Brief, der fest in eine Hülle gesteckt ist. Diese Hülle hat viele Informationen, wie zum Beispiel die Adresse, das Datum und wer der Absender ist. 
+
+Wenn der Brief beim Router ankommt, entfernt der Router die Hülle und sieht nur den eigentlichen Brief. Der Router interessiert sich nicht für die Hülle oder die Informationen, die daraufstehen, sondern nimmt nur das, was im Inneren ist, also die echten Daten. 
+
+Das nennt man "Daten-Entkapselung". Es ist wie das Auspacken von Geschenken – die äußeren Teile werden weggemacht, damit man nur das Geschenk selbst sieht. In diesem Fall ist das Geschenk die eigentliche Information, die weitergeleitet werden soll.

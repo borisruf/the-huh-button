@@ -1,0 +1,5 @@
+Stell dir vor, du möchtest mit einem Freund sprechen, aber ihr sprecht verschiedene Sprachen. Um euch zu verstehen, braucht ihr jemanden, der die Sprachen übt und übersetzt. Dieser Übersetzer ist wie eine Schicht, die hilft, die Kommunikation zu ermöglichen.
+
+In einem Netzwerk ist das ähnlich. Wenn zwei Computer miteinander sprechen wollen, nutzen sie verschiedene "Schichten", um Informationen auszutauschen. Jede Schicht hat eine bestimmte Aufgabe, wie Übersetzen, Sicherheit oder den Transport der Nachricht.
+
+Wenn ein Computer etwas von einem anderen Computer möchte, fragt er die Schicht darunter, die dann die Aufgabe ausführt. Diese Schichten zusammen bilden das, was wir eine "Dienstschicht" nennen. Sie helfen dabei, die Kommunikation einfacher und organisierter zu machen, indem sie die Aufgaben aufteilen. So wird das ganze System leichter zu verstehen und zu benutzen.

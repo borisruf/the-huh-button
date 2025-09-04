@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie Informationen zwischen einem Computer (Client) und einem anderen Computer (Server) ausgetauscht werden. Man sieht in einem Bild, dass die Daten in beide Richtungen fliegen: vom Client zum Server und vom Server zurück zum Client. 
+
+Für die Nutzer sieht es aus, als würde nur eine rote gestrichelte Linie zwischen den beiden Computern verlaufen, aber in Wirklichkeit passiert viel mehr dahinter. Es gibt viele Schritte und wichtige Regeln (Protokolle und Standards), die sicherstellen, dass die Computer richtig und ohne Fehler miteinander kommunizieren können. 
+
+Man kann sich das wie einen langen Weg vorstellen, den die Daten nehmen. Es gibt verschiedene Regeln dafür, wann und wie die Verbindung startet, was passiert, wenn ein Fehler auftritt, und welches Format die Daten haben (zum Beispiel ob es ein Bild oder ein Text ist). 
+
+Zusammengefasst: Viele Sachen laufen hinter den Kulissen ab, wenn Computer miteinander reden, auch wenn wir nur die einfache Verbindung sehen.

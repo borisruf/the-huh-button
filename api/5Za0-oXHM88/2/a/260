@@ -1,0 +1,10 @@
+Die Aussage bedeutet, dass wenn ein Computer eine Anfrage an einen anderen Computer (wie einen Server) sendet, gibt es eine bestimmte Zeit, die das Signal benötigt, um dorthin zu gelangen. Dann muss der Server die Anfrage bearbeiten, was auch Zeit braucht. Schließlich muss die Antwort wieder zurück zum ersten Computer gesendet werden.
+
+Diese gesamte Zeit, die vom ersten Computer gestartet wird, bis er die Antwort zurückerhält, wird als "Latenz" oder "Verzögerung" bezeichnet. Hierzu gehören verschiedene Zeitfaktoren: 
+
+1. **Signallaufzeit**: Die Zeit, die das Signal braucht, um zum Server zu gelangen.
+2. **Übertragungszeit**: Die Zeit, die benötigt wird, um die Daten zu senden.
+3. **Verarbeitungszeit auf dem Server**: Die Zeit, die der Server benötigt, um die Anfrage zu bearbeiten.
+4. Und dann wieder die Zeit, um die Antwort zurück zu senden.
+
+All diese Zeiten zusammen ergeben die Verzögerung, die wir erleben, wenn wir auf eine Antwort warten.

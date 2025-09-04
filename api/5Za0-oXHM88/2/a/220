@@ -1,0 +1,7 @@
+Wenn wir darüber sprechen, wie schnell Informationen in einem Netzwerk geschickt werden, gibt es zwei wichtige Dinge zu beachten. 
+
+Das erste ist die **Signallaufzeit**. Das bedeutet, wie lange es dauert, bis das Signal von einem Ort zum anderen gelangt. Denk daran, wie lang es dauert, um ein Lichtsignal über einen langen Draht zu senden. 
+
+Das zweite ist die **Übertragungszeit**. Hierbei geht es darum, wie viele Informationen in einer bestimmten Zeit übertragen werden können. Das hängt davon ab, wie groß die Anfrage ist – also wie viele Daten wir senden wollen. 
+
+Zusammengefasst: Zuerst muss das Signal reisen, und dann müssen wir überlegen, wie viele Informationen wir schicken. Beide Dinge sind wichtig, um zu verstehen, wie schnell und effizient ein Netzwerk arbeitet.

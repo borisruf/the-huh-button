@@ -1,0 +1,7 @@
+Auf dieser Folie sehen wir zwei Modelle, die uns helfen zu verstehen, wie Computer und Geräte miteinander sprechen. Auf der linken Seite ist das OSI-Modell, das in viele kleine Teile aufgeteilt ist, um alles sehr genau zu erklären. Auf der rechten Seite ist das TCP-IP-Modell, das nicht so kleinlich ist, aber trotzdem wichtig für die Netzwerkkommunikation.
+
+Beide Modelle haben ähnliche „Schichten“, das sind verschiedene Ebenen, die zeigen, was bei der Kommunikation passiert. In der Mitte der Folie sehen wir, was auf diesen Schichten passiert - das ist der wichtigste Teil.
+
+Außerdem lernen wir, dass es „Protokolle“ und „Standards“ gibt. Protokolle sind Regeln, die festlegen, wie Informationen zwischen zwei Geräten ausgetauscht werden. Standards sagen, wie Dinge sein sollten, damit alle Geräte miteinander klarkommen. Es gibt verschiedene Gruppen, die diese Standards festlegen, und das passiert oft in mehreren Schritten, damit sicher ist, dass alles gut funktioniert.
+
+Zum Beispiel, wenn wir mit einem Computer im Internet surfen, gibt es viele Schritte und viele Schichten, die zusammenarbeiten. Das Bild zeigt uns, wie das alles funktioniert, auch wenn es für den Nutzer einfach aussieht.

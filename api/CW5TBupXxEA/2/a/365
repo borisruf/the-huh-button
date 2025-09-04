@@ -1,0 +1,7 @@
+Die Aussage meint, dass wir spezielle Regeln (Protokolle) brauchen, um Computer miteinander kommunizieren zu lassen. 
+
+In einem Computer-Netzwerk gibt es verschiedene Schichten, die verschiedene Aufgaben haben. Die vierte Schicht, die Transportschicht, kümmert sich darum, wie die Daten zwischen den Computern sendet werden. 
+
+Die zwei wichtigsten Protokolle auf dieser Schicht sind TCP und UDP. TCP sorgt dafür, dass die Daten sicher und in der richtigen Reihenfolge ankommen, während UDP schneller ist, aber keine Garantie gibt, dass alles ankommt. 
+
+Zusammengefasst: Wir brauchen Regeln, um sicherzustellen, dass Computer gut miteinander sprechen können, und diese Regeln sind auf verschiedenen Schichten organisiert – besonders auf der Transport-Schicht für den Datenaustausch.

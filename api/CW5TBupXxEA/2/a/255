@@ -1,0 +1,6 @@
+Die Aussage besagt, dass der Header (das ist ein Info-Teil) der Darstellungsschicht wichtige Informationen hat. Diese Informationen sind nötig, um zwei Dinge zu machen: 
+
+A) die Daten zu übertragen, also sie von einem Ort zum anderen zu schicken, und 
+B) um sicherzustellen, dass die Daten richtig verarbeitet oder angesehen werden können.
+
+In einfachen Worten: Der Header hilft dabei, die Informationen richtig zu verschicken und sie so darzustellen, dass man sie verstehen kann.

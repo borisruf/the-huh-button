@@ -1,0 +1,13 @@
+Okay, hier ist die Aussage in sehr einfacher Sprache erklärt:
+
+Wenn du eine E-Mail verschickst, passiert viel, bis sie beim E-Mail-Server ankommt. Zuerst wird deine Nachricht in kleine Datenpakete aufgeteilt. Diese Pakete reisen dann über das Internet.
+
+Ein Router hilft, die Pakete durch das Netz zu leiten. Wenn die Pakete beim Router ankommen, entfernen sie einige Informationen, die nicht mehr benötigt werden. Das nennt man Entkapselung. Der Router schaut sich die ankommenden Signale an und wandelt sie in eine Art Code um, damit er versteht, wohin die Pakete geschickt werden sollen.
+
+Dann schaut der Router nach, welche Adresse (genannt MAC-Adresse) für den nächsten Schritt wichtig ist und auch nach der IP-Adresse, die den Zielort bezeichnet. Danach verpackt der Router die Daten wieder mit den notwendigen Informationen und schickt sie weiter. 
+
+Dieser Prozess passiert mehrmals, wenn die Pakete durch verschiedene Router reisen, bis sie schließlich beim E-Mail-Server ankommen. 
+
+Wenn die Pakete am E-Mail-Server sind, geschieht dort das Gleiche: Die Signale werden zuerst in einen verständlichen Code umgewandelt, und die MAC-Adresse wird herausgefunden. Damit kann die E-Mail dann weiterverarbeitet werden. 
+
+Zusammengefasst: Die E-Mail wird in kleine Teile aufgeteilt, durch Router weitergeleitet, und an jedem Punkt wird das, was nicht mehr gebraucht wird, entfernt, während die benötigten Informationen für den nächsten Schritt wieder hinzugefügt werden.

@@ -1,0 +1,15 @@
+Die Aussage beschreibt, wie Daten von einem Computer über das Internet gesendet und empfangen werden. Hier ist eine einfache Erklärung:
+
+Wenn du Daten (wie z.B. eine Nachricht) sendest, werden diese in kleine Pakete aufgeteilt, um sie einfacher zu verschicken. Diese Pakete werden dann durch verschiedene Geräte, wie Router, geleitet. Ein Router ist ein Gerät, das dafür sorgt, dass die Pakete den richtigen Weg finden.
+
+1. **Komplexität reduzieren**: Wenn die Pakete beim Router ankommen, schaut der Router nicht auf alles, was an den Paketen dranhängt. Er entfernt also die zusätzlichen Informationen (das nennt man Entkapselung), um nur die wichtigen Teile zu sehen.
+
+2. **Informationen finden**: Der Router schaut nach der Adresse, die angibt, wohin die Pakete gehen sollen (die IP-Adresse) und nach anderen Adressen (die MAC-Adressen), die ihm helfen, das nächste Gerät zu finden, an das er die Pakete schicken soll.
+
+3. **Wieder verpacken**: Nachdem der Router die Informationen herausgefunden hat, packt er die Daten wieder ein, damit sie wieder verschickt werden können.
+
+4. **Weg finden**: Der Router entscheidet, wo die Pakete als Nächstes hingehen sollen, und schickt sie über ein physikalisches Medium (wie Kabel oder WLAN-Signale) weiter.
+
+5. **Wiederholung des Prozesses**: Manchmal müssen die Pakete durch mehrere Router gehen, bevor sie ihr Ziel erreichen. Jedes Mal wird der Prozess wiederholt: Entkapseln, Adressen finden, neu verpacken und dann weiterschicken.
+
+Kurz gesagt, es ist wie das Senden eines Briefes mit einem Umschlag. Der Brief wird in den Umschlag gesteckt, die Adresse wird geschrieben, der Umschlag wird verschickt, und auf dem Weg wird alles wieder geöffnet und neu verpackt, damit der Brief am richtigen Ort ankommt.

@@ -1,0 +1,1 @@
+ Das heißt, die Signale werden eben in Bitfolgen umgewandelt und es wird eine MAC-Adresse ermittelt, nämlich die des nächsten Routers quasi auch und dann wird über die IP-Adresse ein Weg durch dieses Netz gefunden.  Und das heißt, auf diesem Weg muss das Ganze natürlich wieder entsprechend eingepackt werden.

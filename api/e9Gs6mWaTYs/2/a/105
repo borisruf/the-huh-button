@@ -1,0 +1,13 @@
+Wenn Informationen über ein Netzwerk gesendet werden, gibt es manchmal Probleme, die dazu führen, dass die Informationen nicht richtig ankommen. Das nennt man Fehler bei der Übertragung. Wenn solch ein Fehler passiert, müssen sowohl das Netzwerk als auch die Geräte, die die Informationen senden und empfangen, etwas unternehmen, um das Problem zu lösen.
+
+Hier ist eine einfache Erklärung, was passiert:
+
+1. **Fehler erkennen**: Wenn ein Gerät eine Nachricht sendet, kann es eine Art „Überprüfung“ machen, um sicherzustellen, dass die Nachricht richtig übermittelt wurde. Wenn das empfangende Gerät merkt, dass die Nachricht nicht vollständig oder falsch ist, kann es einen Fehler feststellen.
+
+2. **Nachricht anfordern**: Wenn der Fehler erkannt wird, kann das empfangende Gerät dem sendenden Gerät sagen, dass es die Nachricht noch einmal senden soll. Dafür gibt es Regeln, die in den Protokollen festgelegt sind.
+
+3. **Wiederholung**: Das sendende Gerät bekommt die Anfrage und sendet die Nachricht erneut. So wird sichergestellt, dass die richtige Information ankommt. 
+
+4. **Bestätigung**: Manchmal bestätigt das empfangende Gerät, dass es die Nachricht richtig erhalten hat. Das bedeutet, dass beide Geräte wissen, dass alles gut geklappt hat.
+
+Auf diese Weise arbeiten Netzwerke und Geräte zusammen, um sicherzustellen, dass die Informationen korrekt und vollständig übertragen werden, auch wenn es manchmal Probleme gibt.

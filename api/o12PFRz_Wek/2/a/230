@@ -1,0 +1,3 @@
+Die Aussage besagt, dass wir in einem Netzwerk eine bestimmte Art der Verbindung haben, die wie ein Stern aussieht. In einem Sternnetzwerk sind die Geräte (wie Computer oder Drucker) um ein zentrales Gerät herum angeordnet. Dieses zentrale Gerät, in diesem Fall ein "Hub", schickt die Informationen einfach an alle andere Geräte weiter, ohne zu wissen, an wen die Informationen eigentlich gerichtet sind. 
+
+Also, auch wenn die Geräte so angeordnet sind, dass sie einem Stern ähneln, macht der Hub das Netzwerk nicht besonders "intelligent", weil er nur die Daten verteilt, ohne zu überprüfen, ob die anderen Geräte sie wirklich brauchen.

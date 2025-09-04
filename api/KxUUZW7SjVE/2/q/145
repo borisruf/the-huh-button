@@ -1,0 +1,1 @@
+  Das heißt, also es sind mehrere Router, die sich dort die Pakete zuschicken und jedes Mal wird das Ganze eben entkapselt.  Das heißt, die Signale werden eben in Bitfolgen umgewandelt und es wird eine MAC-Adresse ermittelt, nämlich die des nächsten Routers quasi auch und dann wird über die IP-Adresse ein Weg durch dieses Netz gefunden.

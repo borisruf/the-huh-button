@@ -1,0 +1,7 @@
+Die Aussage erklärt, wie schnell Daten in einem Netzwerk übertragen werden können. Bandbreite ist ein wichtiger Begriff, der beschreibt, wie viel Daten in einer bestimmten Zeit über das Netzwerk gesendet werden können, meistens gemessen in "Bits pro Sekunde".
+
+Es gibt eine technische Definition der Bandbreite, die sich darauf bezieht, wie viel Raum (Frequenzband) zur Übertragung genutzt wird. Man kann also die Bandbreite wie ein breites Rohr vorstellen, durch das viele Daten gleichzeitig fließen können.
+
+Im Alltag wird der Begriff Bandbreite jedoch oft anders verwendet. Hier spricht man von der "Übertragungsbandbreite", was bedeutet, wie viele Daten tatsächlich pro Sekunde übertragen werden. Oft wird dabei eine theoretische maximale Geschwindigkeit angegeben, die in der Praxis nicht immer erreicht werden kann.
+
+Das Wichtigste im praktischen Einsatz ist daher zu überlegen, wie viel Daten wirklich übertragen werden können, also wie groß der "Durchsatz" ist. Manchmal kann die tatsächliche Geschwindigkeit, mit der Daten fließen, niedriger sein als die theoretisch angegebene.

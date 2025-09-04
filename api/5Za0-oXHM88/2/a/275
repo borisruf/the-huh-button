@@ -1,0 +1,5 @@
+Die Aussage dreht sich um die Zeit, die es braucht, um Informationen in einem Netzwerk zu senden und wieder zurückzubringen. Wenn wir von "Roundtrip-Zeit" sprechen, meinen wir die gesamte Zeit, die es dauert, um eine Nachricht zu schicken, eine Antwort zu bekommen und wieder zurück zu kommen. 
+
+Wenn du zum Beispiel einen Ball wirfst, zählt die Zeit vom Wurf bis der Ball wieder zu dir zurückrollt – das ist wie die Roundtrip-Zeit für Daten. In der Computerwelt wird oft ein Test namens "Ping" verwendet, um herauszufinden, wie schnell Informationen zwischen zwei Computern gesendet werden können. 
+
+Kurz gesagt: Roundtrip-Zeit ist die Zeit, die benötigt wird, um etwas zu senden und die Antwort zu bekommen, ähnlich wie bei einem Ballwurf und dem Warten auf die Rückkehr des Balls.

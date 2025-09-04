@@ -1,0 +1,15 @@
+Die Aussage erklärt zwei Modelle, die zeigen, wie Computer und Netzwerke miteinander kommunizieren. 
+
+1. **Ähnlichkeit der Modelle**: Es gibt zwei Modelle, das OSI-Modell und das DoD-Modell. Beide haben ähnliche Schichten, die unterschiedliche Aufgaben bei der Kommunikation haben.
+
+2. **Schichten**: 
+   - Im OSI-Modell gibt es sieben Schichten, und die obersten drei Schichten kümmern sich um Anwendungen, wie E-Mails oder das Surfen im Internet.
+   - Im DoD-Modell sind diese drei Schichten zusammengefasst in einer einzigen Schicht, die auch "Anwendungsschicht" genannt wird.
+
+3. **Vergleich**: 
+   - Die Schichten, die für den Transport von Daten zuständig sind, sind im OSI-Modell und im DoD-Modell direkt vergleichbar.
+   - Die untersten beiden Schichten im OSI-Modell (Schicht 1 und Schicht 2) sind im DoD-Modell ebenfalls zu einer Schicht zusammengefasst, die "Netzwerkschicht" heißt.
+
+4. **Zentrale Funktion**: In der Mitte, in dem dunkelblauen Bereich, wird beschrieben, was in diesen Schichten passiert, also wie die Informationen zwischen den Computern ausgetauscht werden.
+
+Zusammengefasst zeigt die Aussage, dass die beiden Modelle verschiedene Wege nutzen, um ähnliche Dinge zu erklären – wie Computer Informationen senden und empfangen.

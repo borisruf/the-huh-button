@@ -1,0 +1,7 @@
+In der Aussage geht es um die verschiedenen Schichten eines Modells, das hilft, Netzwerke und die Kommunikation zwischen Computern besser zu verstehen. Man kann sich das wie eine Schichttorte vorstellen, bei der jede Schicht eine andere Aufgabe hat.
+
+1. **IP-Adressen**: Das sind spezielle Nummern, die jedem Computer oder Gerät im Internet zugewiesen werden, damit sie sich gegenseitig finden und miteinander kommunizieren können. Man kann sich IP-Adressen wie die Adresse eines Hauses vorstellen, damit die Post weiß, wo sie die Briefe abliefern soll.
+
+2. **Sicherungsschicht**: Diese Schicht sorgt dafür, dass die Daten sicher und fehlerfrei von einem Gerät zum anderen geschickt werden. Sie überprüft, ob alles richtig angekommen ist und hilft, Probleme zu beheben.
+
+Zusammengefasst bedeutet die Aussage, dass wir jetzt von den IP-Adressen reden, die zum Senden von Daten wichtig sind, und dass wir dann in die nächste Schicht schauen, die dafür sorgt, dass alles gut und sicher übertragen wird.

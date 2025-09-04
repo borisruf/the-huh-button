@@ -1,0 +1,11 @@
+Die Aussage bedeutet, dass wir komplizierte Kommunikationssysteme in einfachere "Schichten" aufteilen können, um sie besser zu verstehen und zu organisieren. Stell dir vor, wenn zwei Personen oder Programme miteinander sprechen möchten, gibt es verschiedene Schritte, die sie durchlaufen müssen.
+
+1. **Schichtenmodell**: Denk an ein mehrschichtige Torte. Jede Schicht hat ihre eigene Aufgabe, und zusammen sorgen sie dafür, dass das Ganze funktioniert.
+
+2. **Anwender**: Die beiden Personen oder Programme, die kommunizieren möchten, sind wie die Schichten in der Torte. Sie müssen ihre Nachrichten durch die einzelnen Schichten schicken, damit alles richtig ankommt.
+
+3. **Zwischenschritte**: Bevor eine Nachricht ankommt, benötigt man manchmal Hilfe, wie einen Übersetzer oder einen Schutz, der sicherstellt, dass die Nachricht privat bleibt. Das sind zusätzliche Schichten, die wir in unser Modell einbauen.
+
+4. **Vereinfachung**: Wenn wir all diese Schritte aufteilen, wird die Kommunikation einfacher zu verstehen, weil wir genau wissen, was jede Schicht macht. Es ist ein bisschen so, als würde man einen komplizierten Weg in einfachere, kleinere Schritte aufteilen.
+
+Insgesamt hilft dieses Schichtenmodell, den Austausch von Informationen klarer und besser organisiert zu machen.

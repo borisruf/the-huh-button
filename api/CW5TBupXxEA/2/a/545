@@ -1,0 +1,13 @@
+Wir sprechen hier über ein Modell, das hilft zu verstehen, wie Informationen, wie zum Beispiel E-Mails, über das Internet geschickt werden. 
+
+Stell dir vor, das Internet ist wie ein großes Schichtenhaus. Jede Schicht hat eine spezielle Aufgabe, um die Kommunikation zu ermöglichen. 
+
+1. **Anwendungsschicht**: Hier fängt alles an. Du schreibst deine E-Mail in einem Programm. 
+2. **Darstellungsschicht**: Diese Schicht sorgt dafür, dass die E-Mail richtig dargestellt wird, also zum Beispiel, welcher Code verwendet wird oder ob ein Bild dabei ist.
+3. **Sitzungsschicht**: Sie kümmert sich darum, wie die Verbindung zwischen deinem Computer und dem Server aufgebaut und gehalten wird.
+4. **Transportschicht**: Hier wird dafür gesorgt, dass die E-Mail in kleine Stücke aufgeteilt wird, damit sie gut ankommt. Es gibt Protokolle (Regeln), die helfen, dass alles richtig funktioniert.
+5. **Vermittlungsschicht**: Diese Schicht kümmert sich um die Adressen, damit die E-Mail an die richtige Stelle geschickt wird. Hier kommt eine spezielle Adresse ins Spiel, die IP-Adresse.
+6. **Sicherungsschicht**: Hier wird das Ganze in einen "Rahmen" gepackt, damit die E-Mail sicher übertragen werden kann. Es werden auch Hardware-Adressen verwendet.
+7. **Physikalische Schicht**: Schließlich wird alles in ein physikalisches Signal umgewandelt, damit es über Kabel oder Wellen geschickt werden kann.
+
+Zusammengefasst: Wenn du eine E-Mail schickst, passieren all diese Schritte in verschiedenen Schichten, damit sie problemlos von deinem Computer zu einem anderen Computer (E-Mail-Server) reisen kann.

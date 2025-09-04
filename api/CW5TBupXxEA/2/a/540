@@ -1,0 +1,11 @@
+In dieser Erklärung geht es um ein Modell, das beschreibt, wie verschiedene Geräte in einem Netzwerk miteinander kommunizieren. Man kann sich das wie eine Reihe von Schichten vorstellen, die übereinander liegen, ähnlich wie bei einer Torte.
+
+1. **Obere Schichten**: Ganz oben ist die Anwendung, wo der Benutzer zum Beispiel eine E-Mail schreibt. Hier arbeiten Programme, die wir täglich nutzen, wie E-Mail-Apps.
+
+2. **Zusätzliche Informationen**: Jede Schicht fügt ihren eigenen „Zusatz“ zu den Daten hinzu, um sicherzustellen, dass alles richtig verstanden wird. Diese Zusatzinformationen helfen, die Daten korrekt zu übertragen und darzustellen.
+
+3. **Wichtige Aufgaben**: Es gibt Schichten, die sich darum kümmern, wie die Verbindung zwischen Geräten aufgebaut, gehalten und wieder getrennt wird. Das nennt man die Sitzungsschicht. Andere Schichten kümmern sich um den Transport der Daten von einem Ort zum anderen und um die Adressierung, damit die Daten wissen, wohin sie geschickt werden müssen.
+
+4. **Unterste Schicht**: Am unteren Ende gibt es die physische Schicht. Hier wird das, was wir oben erstellt haben, in ein physisches Signal umgewandelt, das über Kabel oder andere Medien übertragen werden kann. In dieser Schicht arbeiten Geräte wie Modems, die dafür sorgen, dass die Daten von einem Punkt zum anderen gelangen.
+
+Zusammengefasst: Das gesamte Modell hilft dabei, komplexe Kommunikation in kleine, verständliche Teile aufzuteilen, damit die Geräte richtig miteinander reden können.

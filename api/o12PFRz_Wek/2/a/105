@@ -1,0 +1,15 @@
+Netzwerke sind Verbindungen von Geräten, die Informationen austauschen. Man kann sie nach der Entfernung, über die sie arbeiten, einteilen.
+
+1. **PAN (Personal Area Network)**: Das sind Netzwerke für ganz nah beieinander stehende Geräte, zum Beispiel für deine Smartwatch und dein Smartphone. Sie kommunizieren nur über kurze Strecken.
+
+2. **LAN (Local Area Network)**: Dies sind Netzwerke, die etwas größere Bereiche abdecken, wie ein Zuhause oder ein Büro. Hier können viele Geräte miteinander verbunden sein, zum Beispiel Computer und Drucker.
+
+3. **SAN (Storage Area Network)**: Das ist ein spezielles LAN, das sich um die Speicherung von Daten kümmert. Hier werden Daten auf speziellen Geräten gespeichert und andere Geräte haben Zugriff darauf.
+
+4. **MAN (Metropolitan Area Network)**: Das ist ein Netzwerk für größere Städte. Es verbindet verschiedene LANs innerhalb einer Stadt.
+
+5. **WAN (Wide Area Network)**: Das Netzwerk das sich über noch größere Entfernungen erstreckt, zum Beispiel zwischen verschiedenen Städten oder Ländern.
+
+6. **GAN (Global Area Network)**: Dies ist ein weltweit agierendes Netzwerk. Es verbindet alles auf der ganzen Welt.
+
+Jede dieser Kategorien beschreibt, wie weit die Geräte kommunizieren können.

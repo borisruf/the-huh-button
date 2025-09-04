@@ -1,0 +1,9 @@
+Netzwerke verbinden Geräte miteinander, damit sie kommunizieren können. Es gibt verschiedene Arten von Netzwerken, die man nach der Entfernung klassifizieren kann.
+
+1. **PANs (Personal Area Networks)**: Das sind kleine Netzwerke, die über kurze Entfernungen funktionieren. Sie sind wichtig für Dinge wie Smartwatches, die mit dem Handy oder anderen Geräten in der Nähe sprechen müssen.
+
+2. **LANs (Local Area Networks)**: Diese Netzwerke sind größer als PANs und funktionieren in einem bestimmten Gebiet, wie zum Beispiel in einem Büro oder einem Gebäude. 
+
+3. **SANs (Storage Area Networks)**: Das ist ein spezieller Typ von LAN, der sich auf das Speichern und den Zugriff auf große Datenmengen konzentriert.
+
+Die Idee ist, dass man zuerst mit den kleineren Netzwerken (PANs) anfängt und sich dann zu größeren Netzwerken (LANs und SANs) bewegt.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir Daten, wie zum Beispiel eine E-Mail, so vorbereiten, dass sie über ein Kabel oder eine andere Verbindung gesendet werden können. Damit das funktioniert, müssen wir die Daten in ein Format umwandeln, das tatsächlich gesendet werden kann. 
+
+In der letzten Schicht des Modells passiert genau das: Die Daten werden in ein physikalisches Signal umgewandelt, das durch ein Medium, wie zum Beispiel ein Kabel, übertragen wird. 
+
+Zusätzlich gibt es in dieser Schicht spezielle Teile, die dafür sorgen, dass die Verbindung zwischen Sender und Empfänger gut funktioniert. Diese Teile helfen, die Daten richtig zu übertragen, sind aber nicht dafür da, die Daten weiterzuleiten oder zu lenken, wie es in den höheren Schichten gemacht wird.

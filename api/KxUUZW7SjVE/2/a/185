@@ -1,0 +1,17 @@
+Die Aussage beschreibt, wie Daten von einem Router verarbeitet werden, damit sie an das nächste Ziel geschickt werden können. Hier ist die Erklärung in sehr einfacher Sprache:
+
+1. **Daten ankommen**: Wenn die Daten beim Router ankommen, sind sie wie ein Paket, das mehr Informationen hat, als nur die Hauptnachricht.
+
+2. **Entpacken**: Der Router „öffnet“ das Paket und entfernt die zusätzlichen Informationen, die man nicht mehr braucht. Das nennt man „Entkapselung“. 
+
+3. **Inhalte anschauen**: Der Router schaut sich die verbleibenden Informationen an. Zuerst schaut er auf die unterste Schicht, um die Signale zu verstehen, dann sieht er sich die MAC-Adressen (eine Art Adresse für Geräte im Netzwerk) und schließlich die IP-Adressen (wer sendet und wer empfängt).
+
+4. **Entscheidung treffen**: Der Router entscheidet, wo die Daten als Nächstes hingehen sollen, basierend auf diesen Informationen.
+
+5. **Wieder einpacken**: Der Router „verpackt“ die Daten erneut, indem er die notwendigen Adressen wieder hinzufügt. Das nennt man „Kapselung“.
+
+6. **Signale senden**: Dann wandelt der Router die Daten in Signale um und schickt sie über eine physische Verbindung (wie Kabel oder Funk) weiter.
+
+7. **Weg über mehrere Router**: Die Daten können durch mehrere Router gehen, und jeder Router macht das Gleiche: Entpacken, Entscheiden, Wiederverpacken und Senden.
+
+Zusammengefasst: Der Router nimmt ankommende Daten, entfernt unwichtige Informationen, schaut sich an, wohin die Daten gehen sollen, verpackt sie wieder und schickt sie weiter.

@@ -1,0 +1,17 @@
+Diese Aussage erklärt, wie Regeln für die Kommunikation im Internet erstellt werden. 
+
+1. **Was sind Protokolle?** Protokolle sind wie Regeln oder Vereinbarungen, die festlegen, wie zwei Computer oder Geräte miteinander reden. Sie sorgen dafür, dass die Informationen richtig ausgetauscht werden.
+
+2. **Was sind Standards?** Standards sind festgelegte Normen, die sicherstellen, dass alle Geräte und Programme auf die gleiche Weise funktionieren, damit sie miteinander arbeiten können. 
+
+3. **Was passiert, um einen Standard zu erstellen?** Um einen neuen Standard zu machen, gibt es einen Prozess:
+   - Zuerst wird ein Entwurf gemacht, der "Request for Comment" (RFC) heißt. Das ist wie eine Anfrage, bei der Entwickler um Meinungen bitten.
+   - Dann wird dieser Entwurf geprüft, um zu sehen, ob er gut ist und auch von anderen Geräten genutzt werden kann.
+   - Nach der Prüfung wird der Entwurf besser gemacht und wird dann "Proposed Standard", also ein vorgeschlagener Standard.
+   - Dann muss dieser vorgeschlagene Standard mindestens sechs Monate lang getestet werden.
+   - Wenn alles gut läuft, wird er zu einem "Draft", bei dem weitere Prüfungen stattfinden.
+   - Schließlich, wenn alles klappt, wird er zu einem "Full Standard", also einem offiziellen Standard für das Internet.
+
+4. **Was bedeutet RFC?** Die Begriffe RFC und Request for Comment klingen komisch. Es bedeutet einfach, dass die Leute eingeladen sind, darüber nachzudenken und ihre Meinung zu sagen, bevor es zu einem offiziellen Standard wird.
+
+Insgesamt sorgt dieser Prozess dafür, dass die Dinge im Internet gut funktionieren und alle Geräte miteinander kommunizieren können.

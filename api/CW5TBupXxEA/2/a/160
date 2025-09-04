@@ -1,0 +1,9 @@
+Also, schauen wir uns das mal einfach an. 
+
+In diesem Text geht es darum, wie Computer und Netzwerke miteinander kommunizieren. Man hat einen speziellen Plan, den nennt man das ISO-OSI-Modell. Das hilft dabei, die komplizierte Kommunikation in kleinere Teile zu zerlegen, sozusagen in "Schichten". 
+
+Stell dir vor, das ist wie eine Torte, die aus sieben Schichten besteht. Jede Schicht hat ihre eigene Aufgabe, so dass alles gut funktioniert. Wenn zum Beispiel du eine E-Mail von deinem Computer an einen Server schickst, passiert das über viele dieser Schichten. 
+
+Jede Schicht arbeitet mit der Schicht darüber und der Schicht darunter, damit die Nachricht richtig ankommt. Diese Idee, alles in Schichten zu unterteilen, hilft dabei, Probleme besser zu verstehen und zu lösen. 
+
+Jetzt wollen wir also genauer anschauen, wie das funktioniert, besonders beim Versenden einer E-Mail.

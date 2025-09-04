@@ -1,0 +1,15 @@
+Okay, lass uns das einfach erklären.
+
+Ein Access-Point ist wie ein kleiner Weg, über den dein Computer oder dein Handy mit dem Internet kommunizieren kann. Dabei gibt es verschiedene "Schichten", die helfen, wie die Informationen gesendet und empfangen werden. Diese Schichten kann man sich wie verschiedene Etagen in einem Gebäude vorstellen.
+
+Hier haben wir zwei Hauptschichten:
+
+1. **Schicht 1 (Physikalische Schicht)**: Das ist die unterste Etage, auf der alles funktioniert, wie Kabel oder Funkwellen.
+
+2. **Schicht 2 (Daten-Link-Schicht)**: Das ist die zweite Etage. Sie wird hier nochmals in zwei Teile aufgeteilt:
+   - **Logical Link Control (LLC)**: Das kümmert sich darum, dass die Daten richtig zwischen den Geräten auf dieser Etage ausgetauscht werden.
+   - **MAC-Layer**: Das sagt, welche Daten genau gesendet werden und an welches Gerät.
+
+Also wird der Access-Point dort verwendet, wo er Informationen zwischen verschiedenen Geräten hin und her schickt. 
+
+Die Aussage möchte sagen, dass der Access-Point dafür sorgt, dass alles gut funktioniert und die Daten richtig verteilt werden, und zwar in zwei wichtigen Schichten, die beide verschiedene Aufgaben haben.

@@ -1,0 +1,5 @@
+Der Router ist wie ein Postbote, der ein Paket bekommt. Wenn das Paket ankommt, schaut der Router, was drin ist. 
+
+Zuerst öffnet er das Paket und sieht die ersten Informationen, die wie ein geheimes Alphabet sind (das nennt man Signal-Dekodierung). Dann schaut er auf die nächste Schicht, wo er die Adresse findet, zu der das Paket geschickt werden soll (das sind die MAC-Adressen). 
+
+Der Router keine große Ahnung von den anderen Schichten darüber. Er interessiert sich nur für die wichtigen Informationen, die er braucht, um das Paket an den richtigen Ort zu bringen. Er entfernt die Informationen, die nicht mehr gebraucht werden, damit nur das Wichtige übrig bleibt. So kann er das Paket weiterleiten.

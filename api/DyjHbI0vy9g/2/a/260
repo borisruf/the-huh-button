@@ -1,0 +1,11 @@
+Stell dir vor, zwei Leute wollen miteinander reden, aber sie sprechen verschiedene Sprachen. Damit sie sich verstehen, gibt es einen Übersetzer. Dieser Übersetzer hilft ihnen, die richtigen Wörter zu finden, damit die Kommunikation klappt.
+
+In der Kommunikation, wie sie in Computern und Netzwerken funktioniert, gibt es auch viele „Schichten“. Jede Schicht hat eine spezielle Aufgabe, ähnlich wie der Übersetzer. Wenn jemand eine Nachricht senden möchte, geht sie durch diese Schichten:
+
+1. **Die Anfrage**: Eine Person oder Anwendung bittet um Informationen oder stellt eine Frage.
+2. **Die Bestätigung**: Die nächste Schicht ist wie der Übersetzer, der sagen kann: „Ich habe die Anfrage verstanden.“
+3. **Antwort**: Schließlich kommt die Antwort zurück zur Person, die gefragt hat, um zu zeigen, dass alles geklappt hat.
+
+Diese Schritte helfen sicherzustellen, dass jeder die Informationen richtig versteht und übermittelt. Wenn das alles gut funktioniert, ist die Kommunikation klar und einfach, auch wenn die hinterlegten Prozesse und Schichten kompliziert sein können. 
+
+Also, die Aussage beschreibt einfach, dass wenn einer nach etwas fragt, das System darauf reagiert und bestätigt, dass die Frage angekommen ist. So funktioniert die Zusammenarbeit der verschiedenen Schichten in einem Netzwerk.

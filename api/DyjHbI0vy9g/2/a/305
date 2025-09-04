@@ -1,0 +1,3 @@
+Die Aussage bespricht, wie Daten zwischen verschiedenen Schichten in einem Kommunikationssystem ausgetauscht werden. Wenn ein Nutzer einen Dienst anfragt, wird diese Anfrage gesendet. Es kann eine Zeit vergehen, bis der Nutzer eine Bestätigung sieht, dass die Anfrage angekommen ist. Bei einem unbestätigten Dienst gibt es keine Rückmeldung, dass die Anfrage erfolgreich war; das bedeutet, dass die Kommunikation hier abgeschlossen ist, ohne dass mehr Informationen über den Erfolg der Anfrage gegeben werden. 
+
+Im Grunde gesagt: Wenn du jemanden um Hilfe bittest und keine Antwort bekommst, dann ist die Sache für diesen Moment erledigt.

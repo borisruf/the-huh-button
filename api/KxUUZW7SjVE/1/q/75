@@ -1,0 +1,1 @@
+  Er guckt in das Paket rein, macht also erst mal auf der untersten Schicht eine Signal-Dekodierung, guckt sich die Bitfolge an, wandert dann auf die zweite Schicht, findet dort MAC-Adressen.

@@ -1,0 +1,5 @@
+Die Aussage sagt, dass wenn wir eine Internetverbindung mit einer Geschwindigkeit von 45 Megabit pro Sekunde haben, die Daten, die wir über diese Verbindung senden, eine bestimmte Zeit brauchen, um von einem Punkt zum anderen zu gelangen. Diese Zeit nennt man Signallaufzeit. 
+
+Durch diese Signallaufzeit können wir auch wissen, wie lang die Leitung ist, über die die Daten geschickt werden. In dieser Leitung können wir theoretisch 280 Kilobit an Daten speichern. 
+
+Die Idee ist, dass die Geschwindigkeit (Bandbreite) der Verbindung und die Zeit, die das Signal braucht, um zu reisen, wichtig sind. Beide Faktoren beeinflussen, wie viele Daten wir gleichzeitig in der Leitung haben können. Es ist wie bei einem Wasserrohr: Die Breite des Rohres bestimmt, wie viel Wasser (hier Daten) gleichzeitig fließen kann, und die Länge des Rohres beeinflusst, wie viel Wasser dort insgesamt gespeichert werden kann.

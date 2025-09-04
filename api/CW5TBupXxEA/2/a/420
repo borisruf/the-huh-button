@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes:
+
+1. **IP-Adressen**: Das sind spezielle Zahlen, die jedem Computer im Internet zugeordnet werden. Sie helfen Computern, sich gegenseitig zu finden und miteinander zu kommunizieren.
+
+2. **Weitere Schicht**: Wenn wir noch tiefer schauen, kommen wir zur "Sicherungsschicht". Diese Schicht sorgt dafür, dass die Daten, die von einem Computer zum anderen geschickt werden, sicher und ohne Fehler ankommen.
+
+Zusammengefasst: IP-Adressen helfen Computern, sich zu finden. Wenn wir weiter unter die Oberfläche blicken, sehen wir, dass es noch eine Schicht gibt, die sicherstellt, dass die Daten sicher übertragen werden.

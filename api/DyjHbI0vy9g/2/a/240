@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass wenn zwei Computer oder Programme miteinander sprechen wollen, sie ein bestimmtes Verfahren oder Regeln befolgen müssen. Diese Regeln nennt man Protokolle. 
+
+Stell dir vor, du hast ein Rezept, um einen Kuchen zu backen. Das Rezept sagt dir genau, welche Schritte du in welcher Reihenfolge machen musst. So ähnlich sind die Protokolle. Sie geben den Computern die Anweisungen, wie sie die Daten austauschen sollen. 
+
+Die Daten werden dann über spezielle Punkte weitergegeben, die man „Service Access Points“ nennt. Man kann sich das wie ein Tor in einem Zaun vorstellen, durch das die Daten hindurch gehen. Diese Punkte helfen den Programmen, die richtigen Informationen zu finden und zu schicken. 
+
+Zusammengefasst: Daten werden nach bestimmten Regeln (Protokollen) an speziellen Punkten (Service Access Points) zwischen Computern oder Programmen ausgetauscht.

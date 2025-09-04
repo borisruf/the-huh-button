@@ -1,0 +1,3 @@
+Die Bandbreite zeigt, wie viel Platz für Informationen zum Übertragen da ist. Man kann sie sich wie einen breiten Fluss vorstellen, durch den viele Daten gleichzeitig fließen können. Wenn der Fluss sehr schmal ist, können nur wenige Daten auf einmal fließen, und das geht langsam.
+
+In Netzwerken sagen wir, wie viele Bits (das sind kleine Datenstücke) pro Sekunde übertragen werden können. Diese Zahl hilft uns zu verstehen, wie schnell die Datenbewegung ist. Es ist wichtig, denn nicht alle Medien (wie Kabel oder Funk) können mit allen Arten von Daten gleich gut umgehen. Deshalb müssen wir wissen, wie viel Bandbreite wir haben, um die Leistung des Netzwerks zu beurteilen.

@@ -1,0 +1,17 @@
+In dieser Erklärung geht es darum, wie verschiedene Arten von Netzwerken organisiert sind. Man kann Netzwerke nach ihrer Größe oder der Entfernung, über die sie funktionieren, einteilen. 
+
+Es gibt verschiedene Klassen von Netzwerken:
+
+1. **PANs** (Personal Area Networks): Kleine Netzwerke, zum Beispiel wenn Geräte wie Smartwatches in kurzer Entfernung miteinander kommunizieren.
+  
+2. **LANs** (Local Area Networks): Netzwerke in einem kleinen Bereich, wie in einem Gebäude oder einer Wohnung. Hier gibt es auch spezialisierte Netzwerke wie **SANs** (Storage Area Networks), die für Speichergeräte gedacht sind.
+  
+3. **MANs** (Metropolitan Area Networks): Netzwerke, die sich über eine größere Stadt erstrecken.
+
+4. **WANs** (Wide Area Networks): Netzwerke, die sehr weite Entfernungen abdecken, oft Länder oder Kontinente.
+
+5. **GANs** (Global Area Networks): Netzwerke, die die gesamte Welt verbinden.
+
+Ein wichtiges Konzept in der Netzwerkorganisation ist die **Topologie**, also die Art und Weise, wie die Geräte miteinander verbunden sind. 
+
+In der Erklärung wird speziell auf zwei Anordnungen verwiesen, eine davon sieht aus wie ein **Stern**. Das bedeutet, dass alle Geräte von einem zentralen Punkt aus verbunden sind, ähnlich wie die Strahlen einer Sonne. Dies zeigt, wie verschiedene Geräte in einem Netzwerk angeordnet sein können und wie sie miteinander kommunizieren.

@@ -1,0 +1,9 @@
+Die Aussage über MAC-Adressen erklärt, dass diese ein Teil des Netzwerkprozesses sind. Wir reden hier über verschiedene Schichten, die helfen, den Informationsfluss in einem Netzwerk zu organisieren. 
+
+Bis zu diesem Punkt haben wir viel über Logik und Software gesprochen. Das heißt, wir nutzen Programme und Regeln, um Informationen zwischen Geräten zu senden. 
+
+Wenn wir zu den MAC-Adressen kommen, sind wir in einer speziellen Schicht, wo es um die Hardware geht, das sind die physischen Teile der Computer und Netze. 
+
+Das bedeutet, dass auch wenn das, was in dieser Schicht passiert, in der Hardware ist (also in den Geräten selbst), es immer noch eine Art von Logik gibt, die das Ganze steuert. 
+
+Kurz gesagt: MAC-Adressen helfen dabei, dass Daten in einem Netzwerk richtig von einem Gerät zum anderen kommen. Sie haben mit der physischen Seite (der Hardware) zu tun, aber die Ideen und Regeln, die wir davor hatten, sind weiterhin wichtig.

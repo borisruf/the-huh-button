@@ -1,0 +1,11 @@
+Die Aussage spricht darüber, wie wir die Kommunikation in Netzwerken einfacher machen können. 
+
+Stell dir vor, die Kommunikation ist wie ein großes Puzzle. Wenn wir alles auf einmal anschauen, ist es sehr kompliziert. Um es einfacher zu verstehen und besser zu verwalten, haben die Leute beschlossen, es in kleinere Teile zu zerlegen. 
+
+Diese Teile nennt man "Schichten". Es gibt zwei Arten von Schichten: 
+
+1. **Logische Schichten** (links im Bild): Das sind die Ideen und die Struktur, wie Informationen organisiert werden.
+   
+2. **Physikalische Schichten** (rechts im Bild): Das sind die tatsächlichen Dinge, wie Kabel und Geräte, die die Kommunikation ermöglichen.
+
+Das Bild zeigt, dass man die Kommunikation in diese Schichten aufteilen kann, so wie man mit einem Messer etwas in zwei Teile schneidet, um es besser zu verstehen.

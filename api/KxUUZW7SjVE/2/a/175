@@ -1,0 +1,9 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn Daten von einem Ort zum anderen geschickt werden, müssen sie in einem Paket verpackt werden, damit sie den richtigen Weg finden. Wenn ein Router diese Daten empfängt, nimmt er das Paket wieder auseinander (das nennt man „Entkapselung“). Er schaut sich die Daten genau an, um herauszufinden, wohin sie geschickt werden sollen.
+
+Er verwendet dafür spezielle Adressen: die IP-Adresse, um die richtige Richtung zu finden, und die MAC-Adresse, die dafür sorgt, dass die Daten zum nächsten Gerät gelangen. 
+
+Nachdem der Router die Daten analysiert hat, packt er sie wieder ein. Dabei fügt er die notwendigen Adressen hinzu, damit die Daten weiterhin transportiert werden können. Dann verwandelt er die Informationen in Signale, die über ein Kabel oder Drahtlosnetzwerk gesendet werden können.
+
+Dieser Prozess kann mehrmals wiederholt werden, wenn die Daten mehrere Router durchlaufen müssen, bis sie ihr finales Ziel erreichen.

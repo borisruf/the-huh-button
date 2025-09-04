@@ -1,0 +1,13 @@
+In einfachen Worten geht es darum, wie Computer miteinander kommunizieren, besonders über das Internet. Um das zu verstehen, teilen wir die Kommunikation in verschiedene Schichten auf – wie ein mehrschichtiger Kuchen. Jede Schicht hat ihre Aufgabe, damit alles gut klappt.
+
+1. **Anwendungsschicht:** Hier schreibt der Nutzer zum Beispiel eine E-Mail, und das Programm, das man dafür benutzt, hilft dabei.
+
+2. **Darstellungsschicht:** Diese Schicht sorgt dafür, dass die E-Mail richtig formatiert und dargestellt wird. Sie kümmert sich darum, wie die Informationen aussehen und ob alles gut lesbar ist.
+
+3. **Sitzungsschicht:** Diese Schicht regelt die Verbindung zwischen den Computern: wann sie sich verbinden, wie lange sie verbunden bleiben und wann sie sich wieder trennen.
+
+4. **Transportschicht:** Hier wird sichergestellt, dass die Daten zuverlässig von einem Computer zum anderen kommen. Sie fügt auch Informationen hinzu, um die „Kommunikation“ zwischen den Programmen zu ermöglichen.
+
+5. **Vermittlungsschicht:** Diese Schicht kümmert sich um die Adressen der Computer, die miteinander sprechen. Sie sorgt dafür, dass die Daten den richtigen Weg finden – wie eine Post, die an die richtige Adresse geliefert wird. Hier kommen Protokolle ins Spiel, die Regeln für diese Adressierung aufstellen.
+
+Insgesamt helfen all diese Schichten, die Kommunikation im Internet einfach und effektiv zu gestalten, so dass E-Mails und andere Daten sicher von einem Ort zum anderen gelangt.

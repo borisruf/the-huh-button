@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie wir in Netzwerken über Bandbreite sprechen. Bandbreite ist ein Maß dafür, wie viele Daten wir pro Sekunde senden können. 
+
+Manchmal hören wir, dass die Geschwindigkeit, mit der Daten übertragen werden können, sehr hoch ist. Das nennt man die Bruttoübertragungsrate. Aber in der Realität ist die tatsächliche Geschwindigkeit oft niedriger als diese hohe Zahl. Das liegt daran, dass die Bedingungen im echten Leben nicht immer so gut sind wie man denkt.
+
+Wenn wir also von Bandbreite sprechen, meinen wir oft, wie viele Bits (das sind die kleinsten Datenmengen) wir in einer Sekunde übertragen können. Im täglichen Gebrauch kann es sein, dass wir eine hohe Bandbreite versprechen, aber der wirkliche "Durchsatz", also das, was wir tatsächlich nutzen können, ist meist niedriger. 
+
+Zusammengefasst: Bandbreite ist wichtig, weil sie uns sagt, wie schnell wir Daten senden können, aber in der Praxis erreichen wir oft nicht die theoretisch angegebenen Geschwindigkeiten.

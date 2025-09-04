@@ -1,0 +1,9 @@
+Okay, lass uns das einfach erklären.
+
+Stell dir vor, du hast ein Paket, das du verschicken möchtest. Du packst es gut ein, damit alles sicher ist. Wenn das Paket bei einem Postamt ankommt (das ist wie ein Router in unserem Beispiel), schauen sie sich den Inhalt an und nehmen die Verpackung ab. Sie sehen, wohin das Paket weitergeschickt werden soll.
+
+Der Router schaut sich die Informationen im Paket an. Zuerst schaut er ganz genau hin, um die Adresse (IP-Adresse) zu finden, wo das Paket hinmuss. Dann braucht er die genaue Adresse für die nächste Station (MAC-Adresse). So kann er entscheiden, wie er das Paket am besten weiterschickt.
+
+Nachdem er die richtige Adresse gefunden hat, packt er das Paket wieder ein, aber diesmal mit neuen Adressen, damit es zur nächsten Station geschickt werden kann. Er wandelt das alles in Signale um, damit es über Kabel oder Luft transportiert werden kann (das ist das physikalische Medium).
+
+Das passiert jedes Mal, wenn das Paket von einem Router zum nächsten geht. Es wird immer wieder ausgepackt, die Informationen werden gelesen, und dann wird es wieder eingepackt und weitergeschickt. So weiß jeder Router, wo das Paket als Nächstes hinmuss.

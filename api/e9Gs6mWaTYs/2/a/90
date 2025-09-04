@@ -1,0 +1,7 @@
+In einfachen Worten:
+
+Protokolle sind Regeln, die festlegen, wie zwei Computer miteinander sprechen. Es gibt verschiedene wichtige Punkte, die bei diesen Regeln eine Rolle spielen. Zum Beispiel geht es darum, wie die Computer eine Verbindung zueinander aufbauen und wieder trennen. 
+
+Das gehört zu einem größeren Modell, das hilft zu verstehen, wie die Netzwerkkommunikation funktioniert – das nennt man das ISO-OSI-Referenzmodell. Ein Teil dieses Modells, der "Session Layer", beschäftigt sich genau mit diesen Verbindungen. 
+
+Zusammengefasst: Protokolle sind wie Absprachen zwischen Computern, und eine wichtige Sache dabei ist, wie sie sich miteinander verbinden und wieder trennen.

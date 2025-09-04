@@ -1,0 +1,16 @@
+Die Aussage beschreibt, wie Dienste in einem Kommunikationssystem funktionieren. Es gibt „Dienstnutzer“ und „Diensterbringer“. 
+
+1. **Dienstnutzer**: Das sind die, die einen Dienst wollen oder brauchen. Stell dir vor, das ist jemand, der Hilfe braucht oder etwas gefragt hat.
+  
+2. **Diensterbringer**: Das sind die, die die Hilfe anbieten. Das wären die, die die Antworten oder Unterstützung bereitstellen.
+
+In dem Beispiel wird erklärt, dass, wenn zwei Personen (oder Computer) miteinander sprechen wollen, sie verschiedene „Schichten“ oder „Ebenen“ brauchen, um die Kommunikation klar und ordentlich zu machen. 
+
+Die Kommunikation wird dabei komplizierter, wenn:
+- Die Personen unterschiedliche Sprachen sprechen (dann braucht man einen Übersetzer).
+- Die Informationen geheim sind (dann muss man sie sicher verschlüsseln).
+- Man muss auch an ein Medium denken, um die Nachrichten zu senden (wie Internet oder Kabel).
+
+Das Ganze wird dann in einem Modell dargestellt, damit klar ist, wie die verschiedenen Teile zusammenarbeiten. Man kann sich das so vorstellen, dass jede Schicht eine bestimmte Aufgabe hat und miteinander kommuniziert, um sicherzustellen, dass die Nachricht richtig ankommt. 
+
+In einfachen Worten: Wenn du jemanden etwas fragst, braucht es eine klare Verbindung und Regeln, damit die Nachricht gut hin und her geschickt werden kann.

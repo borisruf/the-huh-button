@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass wir uns anschauen, wie man mit einem Web-Browser Informationen von einem Web-Server anfordert. Ein Web-Browser ist das Programm, das wir nutzen, um Webseiten zu besuchen, wie zum Beispiel Chrome oder Firefox. 
+
+Um zu verstehen, wie das funktioniert, müssen wir wissen, dass es Regeln gibt, die festlegen, wie Computer miteinander sprechen. Das nennt man Protokolle. Diese Protokolle sorgen dafür, dass alle Computer dieselbe Sprache sprechen und die Informationen richtig verstehen. 
+
+Ein wichtiger Teil dabei ist, wie man eine Verbindung zu einem Web-Server aufbaut, wie man sie hält und wie man sie wieder schließt. Auch wenn etwas schiefgeht, muss es Regeln geben, was man dann macht. 
+
+Zusammengefasst: Wenn du mit einem Web-Browser eine Webseite aufrufst, benutzt du diese festgelegten Regeln (Protokolle), damit der Computer versteht, was er tun soll, um dir die Informationen anzuzeigen.

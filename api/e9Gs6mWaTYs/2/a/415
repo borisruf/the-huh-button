@@ -1,0 +1,9 @@
+Das OSI-Modell und das DoD-Modell sind zwei verschiedene Arten, wie wir verstehen, wie Computer miteinander kommunizieren. 
+
+1. **Schichten**: Beide Modelle haben verschiedene "Schichten", die jeweils besondere Aufgaben haben. In beiden Modellen gibt es ähnliche Schichten, die ähnliche Dinge tun. Man kann also sagen, dass sie vergleichbar sind.
+
+2. **Aufgaben der Schichten**: In der Mitte der Modelle passieren wichtige Dinge, die den Austausch von Informationen betreffen. Die oberen drei Schichten im OSI-Modell helfen dabei, wie Programme miteinander sprechen. Im DoD-Modell sind diese Schichten in einer einzigen Schicht zusammengefasst, die "Anwendungsschicht" heißt.
+
+3. **Transport- und Netzwerkschichten**: Bei den Schichten, die dafür sorgen, dass die Informationen von einem Ort zum anderen reisen, gibt es auch Ähnlichkeiten. Die Transport- und Netzwerkschichten im OSI-Modell haben entsprechende Schichten im DoD-Modell.
+
+4. **Zusammenfassung**: Insgesamt helfen diese Modelle zu verstehen, wie Computer und Netzwerke miteinander arbeiten, indem sie die Prozesse in verschiedenen Schichten organisieren. So ist es einfacher, Fehler zu finden und Lösungen zu entwickeln.

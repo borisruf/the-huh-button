@@ -1,0 +1,9 @@
+Die Aussage bedeutet Folgendes: Wenn Daten über ein Netzwerk gesendet werden, kann es passieren, dass die Übertragung nicht immer gleich schnell ist. Diese Schwankungen in der Geschwindigkeit entstehen aus verschiedenen Gründen. 
+
+1. **Bandbreitenbegrenzung**: Das ist wie ein schmaler Wasserhahn. Wenn der Wasserhahn klein ist, kann nur wenig Wasser (oder in diesem Fall Daten) gleichzeitig rausfließen.
+   
+2. **Vermittlungselemente**: Das sind Geräte, die Daten weiterleiten, wie Router. Wenn diese Geräte beschäftigt sind oder nicht richtig funktionieren, kann das die Geschwindigkeit beeinflussen.
+
+3. **Fehler**: Manchmal gibt es Probleme bei der Datenübertragung, wie Störungen oder Verluste. Diese Fehler können ebenfalls dafür sorgen, dass die Daten langsamer ankommen.
+
+All diese Gründe sorgen für eine unregelmäßige Übertragungsgeschwindigkeit, die man „Jitter“ nennt. Jitter ist also das, was passiert, wenn die Zeit, die die Daten brauchen, um an ihrem Ziel anzukommen, nicht konstant ist, sondern schwankt.

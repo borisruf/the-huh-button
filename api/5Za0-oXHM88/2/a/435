@@ -1,0 +1,9 @@
+Latenzschwankungen sind Unterschiede in der Zeit, die es braucht, um Daten zu senden und zu empfangen. Diese Unterschiede entstehen aus verschiedenen Gründen:
+
+1. **Bandbreitenbegrenzung**: Manchmal ist die Menge an Daten, die gleichzeitig gesendet werden kann, eingeschränkt, wodurch es länger dauert.
+   
+2. **Vermittlungselemente**: Das sind Geräte, die die Daten auf ihrem Weg von einem Ort zum anderen weiterleiten. Jedes dieser Geräte kann Zeit kosten, was die Verzögerung erhöht.
+
+3. **Fehler**: Wenn ein Fehler auftritt, müssen die Daten eventuell neu gesendet werden, was zusätzliche Zeit benötigt.
+
+All diese Faktoren zusammen führen dazu, dass nicht immer die gleiche Zeit vergeht, um Daten zu übertragen.

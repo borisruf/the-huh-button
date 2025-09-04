@@ -1,0 +1,251 @@
+1
+00:00:10,270 --> 00:00:15,410
+Ja, wenn wir nochmal zurückkommen auf die generelle Charakterisierung von Netzwerken, haben
+
+2
+00:00:15,410 --> 00:00:19,470
+wir schon kennengelernt, was alles dazugehört, nämlich neben den
+
+3
+00:00:19,470 --> 00:00:24,490
+Endgeräten gehört ein Transport- und Übertragungssystem dazu, eine
+
+4
+00:00:24,490 --> 00:00:29,650
+Vermittlung und Endsysteme, das ist genau das, was wir schon hatten. Nun
+
+5
+00:00:29,650 --> 00:00:34,450
+können wir hingehen und können diese Netzwerke zum Beispiel klassifizieren in Form
+
+6
+00:00:34,450 --> 00:00:39,910
+von Entfernungsklassen. Genau, und wir sehen das schon in dieser Matrix auch.  Man
+
+7
+00:00:39,910 --> 00:00:44,590
+könnte anfangen mit einem relativ nahen Bereich, das sind die sogenannten PANs, die Personal Area
+
+8
+00:00:44,590 --> 00:00:48,990
+Networks, gerade zurzeit auch relativ spektakulär, wenn es um das Thema
+
+9
+00:00:48,990 --> 00:00:53,810
+Wearables geht, Smartwatches und so weiter und so fort, die miteinander in einem relativ
+
+10
+00:00:53,810 --> 00:00:58,870
+kurzen Entfernungsbereich kommunizieren müssen. Gehen wir einen Schritt weiter, dann kommen wir in den Bereich, um
+
+11
+00:00:58,870 --> 00:01:03,810
+den wir uns klassischerweise in diesem Modul auch sehr stark kümmern werden, nämlich um LANs, also Local Area
+
+12
+00:01:03,810 --> 00:01:08,790
+Networks, wo ein Spezialbereich nochmal die SANs sind, Storage Area Networks. Dehnt
+
+13
+00:01:08,790 --> 00:01:13,770
+man das noch ein bisschen weiter aus, kommen wir in den MAN-Bereich, das ist das Metropolitan Area
+
+14
+00:01:13,770 --> 00:01:18,590
+Network, also wenn man sich eine Großstadt quasi vorstellen möchte, würde dann
+
+15
+00:01:18,590 --> 00:01:23,230
+im nächsten Schritt in den Bereich der WANs kommen und hätte dann
+
+16
+00:01:23,230 --> 00:01:28,190
+in der letzten Ausbaustufe quasi das GAN, Wide Area Network
+
+17
+00:01:28,190 --> 00:01:31,930
+wäre das WAN, Global Area Network, das GAN, also quasi ein
+
+18
+00:01:31,930 --> 00:01:36,570
+weltumspannendes Netzwerk.  Ja, das ist eine typische Charakterisierung
+
+19
+00:01:36,570 --> 00:01:41,190
+nach sogenannten Entfernungsklassen. Was gibt es
+
+20
+00:01:41,190 --> 00:01:45,750
+eigentlich für einen Unterschied jetzt prinzipiell zwischen einem Wide Area
+
+21
+00:01:45,750 --> 00:01:50,650
+Network, einem Weitverkehrsnetz und einem Lokalnetz, wenn wir uns das mal
+
+22
+00:01:50,650 --> 00:01:55,470
+anschauen? Gut, da haben wir natürlich unterschiedliche Charakterisierungen. Wir sehen das hier schon in
+
+23
+00:01:55,470 --> 00:02:00,430
+diesem oberen kleinen Schaubild.  Da haben wir eine Direktverbindung zwischen zwei Endsystemen.
+
+24
+00:02:00,550 --> 00:02:05,470
+Wir heißen direkt, das eine System kommuniziert mit dem anderen über eine Punkt-zu-Punkt-Verbindung. Genau.
+
+25
+00:02:06,050 --> 00:02:10,810
+Und im lokalen Netz, da sieht es ja so aus, dass wir neben diesem
+
+26
+00:02:10,810 --> 00:02:15,790
+Transportdienst, der eben da eine Rolle spielt, ja ganz andere Dienste haben. Zum
+
+27
+00:02:15,790 --> 00:02:20,690
+Beispiel könnten die Endgeräte an einem Kabel,
+
+28
+00:02:20,710 --> 00:02:25,670
+an einem Medium dranhängen und dann ging es letztlich darum, einen
+
+29
+00:02:25,670 --> 00:02:30,350
+Vielfachzugriff zu realisieren im Ethernet. Das wird heute typischerweise
+
+30
+00:02:30,350 --> 00:02:35,050
+durch Switches gemacht.  Und im Endeffekt sind
+
+31
+00:02:35,050 --> 00:02:40,310
+die Dienste, die dort angeboten werden, ja ganz andere als die, die wir im Wahn haben. Nämlich
+
+32
+00:02:40,310 --> 00:02:45,290
+sind letztlich Netzwerkdienste. Genau.  Ein paar davon sehen wir hier auch schon auf dieser Folie.
+
+33
+00:02:45,510 --> 00:02:50,330
+Ganz genau. Okay, also um das jetzt weiter zu charakterisieren, steigen wir mal in die
+
+34
+00:02:50,330 --> 00:02:55,070
+Begrifflichkeit ein, die dort verwendet wird typischerweise.  Nämlich in den
+
+35
+00:02:55,070 --> 00:02:59,810
+Bereich der Topologie. Ganz abstrakt gesehen ist Topologie nichts
+
+36
+00:02:59,810 --> 00:03:04,270
+anderes als die Anordnung von irgendwelchen
+
+37
+00:03:04,270 --> 00:03:09,270
+Systemen. Also zum Beispiel hier die Anordnung von Endgeräten, die
+
+38
+00:03:09,270 --> 00:03:13,690
+in Form eines Sterns, in Form eines Buses, in Form eines Baumes
+
+39
+00:03:13,690 --> 00:03:18,970
+angeordnet sind und so eben miteinander verbunden sind.  Das ist ein Charakteristikum. Wir
+
+40
+00:03:18,970 --> 00:03:23,890
+sehen jetzt hier beispielsweise mal zwei mögliche Anordnungen. Nämlich auf der
+
+41
+00:03:23,890 --> 00:03:28,590
+einen Seite links die physikalische Anordnung eines
+
+42
+00:03:28,590 --> 00:03:33,450
+Sterns.  Und die Besonderheit ist jetzt hier, dieses Kopplungselement, was wir dazwischen haben,
+
+43
+00:03:34,050 --> 00:03:38,850
+ist wenig intelligent. Ist ein Hub. Der verteilt einfach nur auf
+
+44
+00:03:38,850 --> 00:03:43,710
+alle Rechner dieselben Daten.  Ganz genau. Und das bedeutet im Endeffekt, haben wir
+
+45
+00:03:43,710 --> 00:03:47,850
+zwar physikalisch gesehen eine
+
+46
+00:03:47,850 --> 00:03:52,770
+Sterntopologie. Rein logisch gesehen ist es aber nichts anderes,
+
+47
+00:03:53,270 --> 00:03:58,170
+als wenn einer sozusagen simultan an alle sendet.  Alle bekommen dieses
+
+48
+00:03:58,170 --> 00:04:02,890
+Signal und es handelt sich dabei logisch gesehen um eine
+
+49
+00:04:02,890 --> 00:04:07,850
+Bustopologie. Das heißt, wir unterscheiden die physikalische Topologie, die wirkliche Anordnung, wie
+
+50
+00:04:07,850 --> 00:04:13,850
+wir das im linken Bereich sehen, und den eigentlichen Datenfluss. Also
+
+51
+00:04:13,850 --> 00:04:19,230
+haben wir da schon eine Unterscheidung zwischen physikalischer und logischer Topologie.  Das
+
+52
+00:04:19,230 --> 00:04:24,390
+Ganze werden wir jetzt auch noch weiter kennenlernen in einem Schichtenmodell. Und
+
+53
+00:04:24,390 --> 00:04:29,390
+da gibt es eben auch das Thema der physikalischen Kommunikationssticht. Das heißt, ich muss physikalisch
+
+54
+00:04:29,390 --> 00:04:34,990
+erstmal überhaupt eine Verbindung zwischen den Systemen hergestellt haben.  Und
+
+55
+00:04:34,990 --> 00:04:39,910
+selbst wenn ich diese Verbindung habe, fehlt mir immer noch was. Wir
+
+56
+00:04:39,910 --> 00:04:44,750
+haben das ja gerade schon gesehen in den beiden Schaubildern. Wir haben eine physikalische Anordnung, also das alles was so
+
+57
+00:04:44,750 --> 00:04:49,530
+vom Aufbau her, was man anfassen kann quasi.  Und wir haben auch eine logische
+
+58
+00:04:49,530 --> 00:04:54,390
+Aufteilung. Das Logische muss natürlich irgendwo geregelt werden. Diese Regelungen, die
+
+59
+00:04:54,390 --> 00:04:59,390
+finden in Netzwerken eben mithilfe von sogenannten Protokollen statt.  In diesem Schaubild sieht man
+
+60
+00:04:59,390 --> 00:05:03,590
+das jetzt mal so ein bisschen abstrakter. Es geht also letzten Endes darum, dass sich die
+
+61
+00:05:03,590 --> 00:05:08,290
+Kommunikationspartner untereinander in irgendeiner Weise verstehen, so wie es diese beiden
+
+62
+00:05:08,290 --> 00:05:12,590
+Herren hier auf dem Bild gerade nicht tun. Genau, da fehlt uns jetzt noch irgendwas in der
+
+63
+00:05:12,590 --> 00:05:16,890
+logischen Kommunikationsschicht.  Also mindestens mal ein Übersetzer.

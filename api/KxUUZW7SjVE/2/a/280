@@ -1,0 +1,13 @@
+Die Aussage erklärt, dass es auf der linken Seite englische Begriffe und auf der rechten Seite deutsche Begriffe gibt. Diese Begriffe werden verwendet, um über verschiedene Themen zu sprechen. Ein Beispiel ist, dass auf der linken Seite das Wort "Sender" steht und auf der rechten Seite das Wort "Empfänger". 
+
+Im weiteren Text wird beschrieben, wie Daten durch das Internet geschickt werden. Wenn Daten, wie eine E-Mail, gesendet werden, passieren sie verschiedene Schritte, um von einem Ort zum anderen zu gelangen. 
+
+1. **Datenrahmen**: Zuerst werden die Daten in einen speziellen Rahmen gepackt.
+2. **Router**: Dann kommt ein Gerät, der Router, ins Spiel. Der Router empfängt die Daten und schaut sich ihre Teile an, um zu verstehen, wohin sie weitergeschickt werden sollen.
+3. **Entkapselung**: Der Router entfernt die zusätzlichen Informationen, die beim Verpacken hinzugefügt wurden, wie die Absender- und Empfängeradresse.
+4. **Weiterleitung**: Der Router entscheidet dann, wohin die Daten als Nächstes geschickt werden.
+5. **Kapselung**: Bevor die Daten weitergeschickt werden, werden sie wieder in einen neuen Rahmen gepackt.
+
+Und dieser Prozess kann mehrmals passieren, da die Daten durch mehrere Router reisen können, bevor sie ihr Ziel erreichen, wie zum Beispiel einen E-Mail-Server. 
+
+Am Ende sind die Begriffe auf der linken und rechten Seite also hilfreich, um diese Schritte zu verstehen.

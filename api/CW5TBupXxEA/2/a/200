@@ -1,0 +1,7 @@
+Okay, ich erkläre das mal ganz einfach.
+
+Stell dir vor, du willst eine E-Mail schreiben und sie verschicken. Der E-Mail-Client ist das Programm, das du benutzt, um die E-Mail zu schreiben und zu senden. Wenn du deine E-Mail schreibst und auf "Senden" klickst, fügt dieses Programm noch ein paar wichtige Informationen hinzu. Diese Informationen helfen dabei, damit die E-Mail korrekt verschickt wird.
+
+Jetzt gibt es ein Modell, das nennt sich ISO-OSI-Referenzmodell. Es hilft den Leuten, die an Computern und Netzwerken arbeiten, zu verstehen, wie die verschiedenen Teile der Kommunikation arbeiten. Man kann sich das wie eine Torte mit mehreren Schichten vorstellen. Jede Schicht hat eine eigene Aufgabe, um sicherzustellen, dass die E-Mail richtig von deinem Computer zu einem E-Mail-Server gesendet wird.
+
+Das bedeutet, dass das Modell in verschiedene Teile unterteilt ist, um die komplexe Kommunikation einfacher zu machen. Jede Schicht hat eine spezielle Aufgabe, und die Informationen, die der E-Mail-Client hinzufügt, sind ein Teil davon. So kann alles ordentlich und richtig ablaufen, wenn du eine Nachricht verschicken möchtest.

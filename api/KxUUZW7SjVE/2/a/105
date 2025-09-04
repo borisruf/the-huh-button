@@ -1,0 +1,13 @@
+Also, lass uns das ganz einfach erklären:
+
+Wenn wir Daten verschicken, dann reisen diese Daten durch verschiedene Schichten. Jede Schicht fügt Informationen hinzu, damit die Daten den richtigen Weg finden. 
+
+Stell dir vor, die Daten sind wie ein Paket, das du verschickst. An diesem Paket sind Adressen angebracht, damit der Postbote weiß, wohin er das Paket bringen soll. 
+
+1. **MAC-Adressen:** Auf der zweiten Schicht gibt es eine Adresse, die wie die Adresse auf einem Paket aussieht. Diese wird „MAC-Adresse“ genannt. Sie hilft dafür, dass das Paket im lokalen Netzwerk ankommt.
+
+2. **IP-Adressen:** Auf der dritten Schicht gibt es eine andere Adresse, die „IP-Adresse“ heißt. Diese Adresse gibt an, wo das Paket auf der großen Internetstraße hin muss – sowohl die Adresse des Absenders als auch die des Empfängers.
+
+Wenn der Router die Daten erhält, schaut er sich diese Adressen an, um herauszufinden, wohin er das Paket weiterleiten soll. 
+
+Zusammengefasst: Die IP-Adressen sagen, wo das Paket hin muss, und die MAC-Adressen helfen, es im lokalen Netzwerk auf den richtigen Weg zu bringen.

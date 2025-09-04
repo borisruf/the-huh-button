@@ -1,0 +1,7 @@
+In dieser Erklärung geht es darum, wie Computer und Geräte miteinander kommunizieren, besonders beim Senden von Nachrichten wie E-Mails. Die Idee ist, dass man die komplizierte Kommunikation in einfache Teile, also Schichten, unterteilt, damit man besser versteht, was passiert.
+
+Stell dir vor, die Kommunikation ist wie eine Torte mit vielen Schichten. Jede Schicht hat ihre eigene Aufgabe. Die oberste Schicht ist die, bei der der Nutzer (das bist du) eine E-Mail schreibt. Wenn du in deinem E-Mail-Programm (E-Mail-Client) die Nachricht schreibst, fügt das Programm noch zusätzliche Informationen hinzu, bevor die E-Mail gesendet wird. Diese Zusatzinformation nennt man „Application Header“ oder Anwendungskopf.
+
+Das bedeutet, bevor die E-Mail das Internet verlässt und an einen Server geschickt wird, wird sie so vorbereitet, dass alle wichtigen Infos enthalten sind. Man nennt das auch einen Anwendungskopfteil. Dieser Kopfteil hilft dabei, die E-Mail richtig zu versenden und sicherzustellen, dass sie an den richtigen Ort kommt. 
+
+So hilft der Anwendungskopf, die Kommunikation einfacher und strukturierter zu machen, indem er wichtige Informationen bereitstellt.

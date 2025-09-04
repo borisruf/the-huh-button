@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes: Ein Access-Point (das ist ein Gerät, das für das WLAN verantwortlich ist) ist so aufgebaut, dass er zwei wichtige Schichten hat, die Informationen überträgt. 
+
+Obwohl man denkt, dass es nur eine Schicht gibt, wird die zweite Schicht weiter in zwei Teile unterteilt. Diese Teile sind wichtig für die Art und Weise, wie Daten gesendet werden. Der erste Teil heißt "Logical Link Control" (LLC) und der zweite Teil heißt "MAC-Layer". 
+
+Das LLC kümmert sich darum, wie die Verbindung zwischen den Geräten organisiert ist, während der MAC-Layer dafür sorgt, dass die Daten korrekt über das Netzwerk gesendet werden. 
+
+Zusammenfassend: Der Access-Point hat eine Struktur, die hilft, Informationen richtig zwischen Geräten zu übermitteln, und die zweite Schicht hat zwei spezielle Aufgaben.

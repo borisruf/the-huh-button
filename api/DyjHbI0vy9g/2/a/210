@@ -1,0 +1,15 @@
+In dieser Erklärung geht es darum, wie Kommunikation in Netzwerken funktioniert, und das wird in Schichten organisiert. 
+
+Stell dir vor, Kommunikation ist wie ein riesiges Haus. Damit das Haus gut funktioniert, teilt man es in verschiedene Zimmer (Schichten) auf. Jedes Zimmer hat eine bestimmte Aufgabe.
+
+**Ein Beispiel dafür:**
+
+Wenn zwei Leute aus verschiedenen Ländern miteinander reden wollen, brauchen sie Hilfe. Der eine spricht Spanisch und der andere spricht Deutsch. Damit sie sich verstehen, brauchen sie einen Übersetzer. Der Übersetzer ist wie ein weiteres Zimmer, das zwischen den beiden steht. 
+
+Aber was ist, wenn sie nicht wollen, dass andere Leute hören, was sie sagen? Dann benötigen sie einen „Sicherheitsschutz“, der dafür sorgt, dass ihre Nachrichten geheim bleiben. Das ist ein weiteres Zimmer in unserem Haus. 
+
+Um die Nachrichten zu senden, braucht man auch eine „Transport-Schicht“, die dafür sorgt, dass die Nachrichten von einem Ort zum anderen gelangen.
+
+Also, um es ganz einfach zu machen: Wenn wir miteinander kommunizieren wollen, brauchen wir verschiedene Dienste (Hilfe), die uns an den richtigen Stellen unterstützen, damit alles glatt läuft. Ein Dienstnutzer fragt nach einer dieser Hilfen, und das passiert in den „Schichten“, die wir aufgebaut haben. 
+
+So wird die Kommunikation einfacher und klarer, auch wenn sie manchmal ganz schön kompliziert sein kann!

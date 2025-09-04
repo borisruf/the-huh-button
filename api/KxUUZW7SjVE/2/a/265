@@ -1,0 +1,15 @@
+Okay, ich erkläre das einfach:
+
+Wenn du eine E-Mail sendest, passiert erstmal viel, damit sie von deinem Computer zum E-Mail-Server kommt. Deine Daten werden in kleine Pakete aufgeteilt. Diese Pakete haben Informationen, wie sie zu ihrem Ziel gelangen.
+
+1. **Router**: Stell dir den Router wie einen Postboten vor. Der Router schaut sich die Pakete an und entscheidet, wohin er sie als Nächstes schicken soll. Er entfernt einige Informationen, die nicht mehr gebraucht werden, damit er die Pakete einfach weiterleiten kann.
+
+2. **Daten packen und entpacken**: Jedes Mal, wenn die Pakete einen Router passieren, werden sie "entpackt" (die Zusatzinfos werden entfernt) und dann wieder "verpackt" (neue Infos werden hinzugefügt), damit der nächste Router weiß, wohin die Pakete geschickt werden sollen.
+
+3. **IP- und MAC-Adressen**: Die Router nutzen spezielle Adressen (IP-Adressen und MAC-Adressen), um sicherzugehen, dass die Pakete an den richtigen Ort gelangen. Die IP-Adresse ist wie eine Hausnummer, und die MAC-Adresse ist wie der Name des Hauses.
+
+4. **E-Mail-Server**: Wenn die Pakete schließlich beim E-Mail-Server ankommen, wird auch hier alles entpackt, damit der Server die E-Mail verstehen kann. Der Server nutzt einen speziellen "TCP-Port", um diese Art von Informationen (E-Mail) zu empfangen.
+
+5. **Alles läuft durch sieben Schichten**: Dieser ganze Prozess folgt einem speziellen Modell mit sieben Schichten, das uns hilft, zu verstehen, wie Daten über Netzwerke gesendet werden.
+
+Am Ende ist die E-Mail dann beim Server angekommen und kann später wieder abgerufen oder weitergeleitet werden.

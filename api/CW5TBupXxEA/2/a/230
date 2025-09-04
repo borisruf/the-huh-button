@@ -1,0 +1,7 @@
+In diesem Text geht es um ein System, das hilft, wie Computer miteinander kommunizieren. Dieses System ist in verschiedene Schichten unterteilt. Jede Schicht hat eine spezielle Aufgabe, ähnlich wie bei einem Kapuzenpulli: Der Außenstoff schützt, der Innenstoff ist bequem und so weiter.
+
+Wenn du eine E-Mail schreibst, passiert das in der obersten Schicht, die Anwendungsschicht. Hier wird die Nachricht erstellt. Der E-Mail-Program (auch E-Mail-Client genannt) hilft dir dabei und fügt zusätzliche Informationen hinzu. 
+
+Eine dieser zusätzlichen Informationen ist das Simple Mail Transfer-Protokoll (SMTP). Dieses Protokoll sorgt dafür, dass die E-Mail richtig verschickt wird. Es sagt auch, wie der Computer mit dir, dem Nutzer, sprechen soll, damit du das Programm gut nutzen kannst. 
+
+Zusammengefasst, in dieser oberen Schicht geht es darum, wie wir E-Mails schreiben und wie das Programm uns hilft, unsere Nachrichten zu senden. Das Protokoll hilft dabei, dass alles reibungslos funktioniert.

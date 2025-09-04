@@ -1,0 +1,13 @@
+In einem Netzwerk, wo Computer miteinander kommunizieren, gibt es verschiedene Zeiten, die wichtig sind für die Leistung.
+
+1. **Übertragungszeit**: Das ist die Zeit, die braucht, um die Daten von einem Ort zum anderen zu schicken.
+2. **Verarbeitungszeit**: Das ist die Zeit, die die Computer brauchen, um die Daten zu bearbeiten. Jeder Computer oder Gerät braucht eine bestimmte Zeit dafür.
+3. **Koppelungselemente**: Das sind Dinge, die zwischen den Computern stehen, wie Router oder Switches. Auch dort gibt es eine Verarbeitungszeit.
+
+Alle diese Zeiten zusammen zeigen uns, wie schnell oder langsam die Kommunikation im Netzwerk ist. Um das besser zu verstehen, kann man sich ein Bild anschauen, das zeigt, wie lang diese Zeiten sind. 
+
+Wenn wir über die Leistung des Netzwerks sprechen, geht es darum, dass wir die Daten schnell und ohne Fehler übertragen wollen. Ein wichtiger Begriff dafür ist die „Bandbreite“. Das beschreibt, wie viel Daten in einer bestimmten Zeit transportiert werden können, meistens gemessen in Bits pro Sekunde.
+
+In der Praxis gibt es oft Unterschiede zwischen der theoretischen Bandbreite (was wird versprochen) und der tatsächlichen Bandbreite (was wirklich läuft). Darum ist es wichtig, nicht nur die Bandbreite zu betrachten, sondern auch die Latenz, also die Verzögerung, die durch die verschiedenen Zeiten entsteht. 
+
+Das sind die Dinge, die wichtig sind, wenn man über Netzwerke und ihre Leistung spricht.

@@ -1,0 +1,3 @@
+Die Aussage sagt, dass Datenpakete, die über ein Netzwerk gesendet werden, nicht immer gleichzeitig beim Empfänger ankommen. Manchmal braucht ein Paket länger als ein anderes. Wenn zum Beispiel Paket 4 später ankommt, spricht man von "Jitter". 
+
+Jitter ist also, wenn die Zeit, die Daten brauchen, um anzu kommen, nicht immer gleich ist. Das kann passieren, weil es im Netzwerk Störungen oder unterschiedliche Wege gibt.

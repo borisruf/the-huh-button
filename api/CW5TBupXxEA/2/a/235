@@ -1,0 +1,5 @@
+In diesem Text geht es darum, wie Computer miteinander kommunizieren, besonders wenn man eine E-Mail sendet. Man benutzt ein Modell, das wie Schichten aufgebaut ist. Jede Schicht hat eine bestimmte Aufgabe.
+
+Die Aussage bedeutet Folgendes: Wenn ich eine E-Mail schreibe, gibt es eine spezielle Schicht, wo festgelegt wird, wie der Computer mit mir als Benutzer kommuniziert. Das ist wichtig, damit ich meine Nachricht einfach senden kann. Wenn wir dann eine Schicht tiefer gehen, kommen wir zu einer anderen Schicht, die dafür zuständig ist, wie die Informationen in der E-Mail dargestellt werden. 
+
+Also, zuerst kommt die Schicht, die mit mir redet (die Anwendungsschicht), und dann die Schicht, die die Informationen vorbereitet (darstellungsschicht). So wird alles Schritt für Schritt organisiert, damit alles reibungslos funktioniert.

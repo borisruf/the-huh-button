@@ -1,0 +1,13 @@
+Okay, lass uns das einfacher erklären!
+
+Stell dir vor, das Ganze ist wie eine Schichttorte, und jede Schicht hat ihre eigene Aufgabe. Wenn du eine E-Mail schickst, geht das Schritt für Schritt durch diese verschiedenen Schichten.
+
+1. **Anwendungsschicht**: Hier beginnt alles. Du schreibst deine E-Mail. Dein E-Mail-Programm hilft dir dabei und fügt extra Informationen hinzu, damit jeder weiß, welches Protokoll (wie die Regeln für den Versand) verwendet wird.
+
+2. **Darstellungsschicht**: Jetzt schauen wir, wie die E-Mail aussieht und in welchen „Format“ sie ist – wie ein Bild oder einfacher Text. Auch hier werden wieder zusätzliche Informationen hinzugefügt, zum Beispiel, welche Art von Bild im Anhang ist.
+
+3. **Sitzungsschicht**: Diese Schicht kümmert sich darum, wie die Verbindung zwischen dir und dem E-Mail-Server hergestellt wird und wie sie bestehen bleibt. Wenn du die Verbindung beenden willst, regelt das auch diese Schicht.
+
+4. **Transportschicht**: Hier wird alles für den Versand vorbereitet! Diese Schicht sorgt dafür, dass die E-Mail sicher von deinem Computer zum E-Mail-Server (oder anderen Computern) gelangt. Sie fügt wieder zusätzliche Informationen hinzu, die bestimmen, wie die E-Mail weitergeschickt wird.
+
+Das ist wie ein Paket, das von einem Ort zum anderen geschickt wird, und jedes Mal, wenn es eine neue Schicht erreicht (oder „Port“), wird es mit neuen Informationen versehen, sodass alles richtig funktioniert. Und das alles geschieht, damit deine E-Mail sicher und schnell ankommt!

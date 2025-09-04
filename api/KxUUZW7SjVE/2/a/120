@@ -1,0 +1,9 @@
+Stell dir vor, unsere Daten sind wie ein Paket, das wir verschicken wollen. Wenn wir das Paket erstellen, fügen wir verschiedene Informationen hinzu, damit es sicher ankommt. Diese Informationen nennt man Header und Trailer. 
+
+Der Router ist wie ein Postbeamter, der das Paket empfängt. Er schaut sich das Paket an, um zu verstehen, wohin es gehen soll. Dabei entfernt er die zusätzlichen Informationen, die wir hinzugefügt haben, also die Header und Trailer. Das nennt man "Daten-Entkapselung".
+
+Der Router schaut zuerst auf die niedrigste Ebene, um die Signale zu dekodieren. Dann schaut er nach den MAC-Adressen (das sind wie spezifische Adressen innerhalb eines Gebäudes) auf einer höheren Ebene. Danach schaut er sich die IP-Adressen (das sind die Adressen für das gesamte Internet) auf der dritten Ebene an.
+
+Nachdem der Router alle notwendigen Informationen gesammelt hat, entscheidet er, wo das Paket als Nächstes hingehen soll. Dann packt er das Paket wieder ein, indem er die IP- und MAC-Adressen erneut hinzufügt. 
+
+Zum Schluss wird das Paket auf die niedrigste Ebene zurückgebracht, wo es wieder in Signale umgewandelt wird, und dann sendet der Router das Paket weiter an das nächste Ziel.

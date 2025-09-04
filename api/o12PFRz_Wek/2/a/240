@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes:
+
+In einem Netzwerk, das man als „Stern“ anordnet, sind alle Geräte so verbunden, dass sie über ein zentrales Gerät (einen Hub) kommunizieren. Physikalisch sind sie in einer Form angeordnet, die wie ein Stern aussieht. Aber wenn man sich anschaut, wie die Informationen tatsächlich gesendet werden, passiert Folgendes: Der Hub sendet die Daten einfach an alle Geräte gleichzeitig.
+
+Das heißt, auch wenn die Geräte in einer bestimmten Form angeordnet sind, verhält sich die Kommunikation, als würde nur ein Gerät an alle anderen gleichzeitig senden. Es ist also eine einfache Verbindung, ohne dass die anderen Geräte direkt miteinander kommunizieren müssen.

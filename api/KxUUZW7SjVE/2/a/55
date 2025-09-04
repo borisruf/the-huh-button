@@ -1,0 +1,1 @@
+Die Aussage bedeutet, dass der Router sich nicht um die Informationen kümmert, die über ihm in den Daten sind. Er schaut nur bis zu einer bestimmten Ebene (der dritten Schicht) und überprüft, was dort angekommen ist. Dann "entpackt" er die Daten, das heißt, er nimmt sie auseinander, um nur die wichtigen Teile, die er braucht, zu verwenden. Dies nennt man Daten-Entkapselung.

@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass der Router die Daten, die er erhält, verpackt hat, genau betrachtet und dann wieder teilweise "entpackt". 
+
+Stell dir vor, eine Datenübertragung ist wie ein Paket, das du verschickst. Der Router ist wie eine Poststelle, die das Paket annimmt. Wenn das Paket bei der Poststelle ankommt, schaut der Mitarbeiter (der Router) nur auf bestimmte Informationen, um zu verstehen, wohin das Paket weitergeschickt werden soll. Er "entpackt" also das Paket, um die wichtige Adresse zu sehen.
+
+Dann, nachdem der Router die Adresse gefunden hat, packt er das Paket wieder ein, aber mit einer neuen Adresse darauf, die zeigt, wohin es als Nächstes gehen soll. Dies passiert jedes Mal, wenn die Daten durch einen Router gehen. 
+
+Wenn die Daten also durch mehrere Router reisen, passiert dieser Entpack- und Verpackprozess immer wieder. Jeder Router sendet die Daten weiter, bis sie schließlich ihr Ziel erreichen.

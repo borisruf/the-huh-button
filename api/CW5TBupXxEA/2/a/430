@@ -1,0 +1,15 @@
+In dieser Erklärung geht es darum, wie Informationen in einem Netzwerk gesendet werden, zum Beispiel beim Verschicken einer E-Mail. Wir haben viele verschiedene Schritte, die wir „Schichten“ nennen. Jede Schicht fügt etwas hinzu, damit die Nachricht richtig übertragen wird.
+
+1. **Oben anfangen**: Wenn du eine E-Mail schreibst, passiert das in der obersten Schicht. Hier kommt ein „Header“ dazu, der wichtige Informationen über die E-Mail enthält, wie zum Beispiel, welches Protokoll verwendet wird.
+
+2. **Immer mehr Informationen**: Wenn die E-Mail weiter unten in die nächsten Schichten geht, wird noch mehr hinzugefügt. Zum Beispiel wird erklärt, wie die Nachricht dargestellt wird (in der Darstellungsschicht).
+
+3. **Verbindung aufbauen**: In der Sitzungsschicht wird geregelt, wie die Verbindung zwischen deinem Computer und dem Empfänger hergestellt und aufrechterhalten wird.
+
+4. **Transport der Daten**: Dann kommt die Transportschicht, hier wird alles für den Transport der Nachricht vorbereitet, damit sie an den richtigen Ort gelangt.
+
+5. **Wichtige Adressen**: In der Vermittlungsschicht werden die Adressen festgelegt, also wo die Nachricht hin soll.
+
+6. **Sicherheit**: In der untersten Schicht, der Sicherungsschicht, fügen wir nicht nur Informationen vorne (im Header) hinzu. Wir haben auch etwas hinten dran, was man „Trailer“ nennt. Das sorgt dafür, dass die Nachricht sicher ankommt.
+
+Zusammengefasst: Wenn wir eine E-Mail senden, passiert das in vielen Schritten und Schichten. Jede Schicht fügt wichtige Informationen hinzu, um sicherzustellen, dass die Nachricht richtig und sicher über das Netzwerk geht.

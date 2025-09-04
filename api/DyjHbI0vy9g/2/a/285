@@ -1,0 +1,11 @@
+Die Aussage beschreibt, wie Dienste in einem Netzwerk kommunizieren und wie diese Kommunikation organisiert ist. Hier ist eine einfache Erklärung:
+
+In einem Netzwerk gibt es viele verschiedene Aufgaben, die Computer oder Programme erledigen müssen. Wenn zwei Personen oder Programme miteinander sprechen wollen, müssen sie einen Weg finden, sich zu verständigen. Dazu gibt es verschiedene "Schichten". 
+
+Stell dir vor, du möchtest mit jemandem sprechen, der in einem anderen Land lebt. Vielleicht spricht die Person eine andere Sprache. Du brauchst dann einen Übersetzer, der euch beiden hilft, die Nachricht zu verstehen. Außerdem, wenn eure Nachricht geheim bleiben soll, braucht ihr jemanden, der die Nachricht sicher machen kann, damit niemand sie abhören kann. Das nennt man Verschlüsselung. 
+
+Um all diese Aufgaben zu erfüllen, gibt es unterschiedliche Schichten oder Ebenen, die jeweils für einen bestimmten Teil der Kommunikation zuständig sind. Eine Schicht könnte für die Übersetzung sein, eine andere für die Sicherheit und eine dritte für die tatsächliche Übertragung der Nachricht über das Internet.
+
+Die Aussage zeigt, dass die Kommunikation komplex ist und in verschiedene Teile aufgeteilt werden kann (das nennt man "Salamitaktik"). Daher spricht man von verschiedenen "Diensten" in diesen Schichten. Wenn ein Dienstnutzer (jemand, der einen Dienst braucht) einen Dienst anfragt, geht diese Anfrage durch diese Schichten, bis sie beim Diensterbringer (jemand, der den Dienst bereitstellt) ankommt. Danach wird die Anfrage bearbeitet und die Antwort wird zurückgeschickt.
+
+Zusammengefasst: Um zu kommunizieren, brauchen wir verschiedene Schichten, die unterschiedliche Aufgaben erledigen, damit die Nachricht richtig und sicher ankommt.

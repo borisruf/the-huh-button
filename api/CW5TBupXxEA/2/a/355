@@ -1,0 +1,11 @@
+Diese Aussage sagt aus, dass es in einem bestimmten Modell für Netzwerke verschiedene Schichten gibt. Der direkte Kontakt mit den Daten, die wir senden, passiert in der obersten Schicht, also in der Anwendungsschicht. 
+
+Wenn wir eine E-Mail schreiben, fügt die Software, die wir benutzen (wie ein E-Mail-Programm), einige wichtige Informationen hinzu. Diese Informationen helfen dem Empfänger, die Nachricht richtig zu verstehen. Diese zusätzlichen Infos sind wie ein Etikett, das erklärt, um was es bei der E-Mail geht.
+
+Unter dieser Anwendungsschicht gibt es dann die Darstellungsschicht. Hier wird entschieden, wie die Daten, inklusive der E-Mail und der zusätzlichen Informationen, dargestellt werden. Man könnte sagen, es ist der Teil, der sorgt, dass die E-Mail beim Empfänger richtig aussieht, z.B. ob Bilder oder Text korrekt angezeigt werden.
+
+Weiter darunter ist die Sitzungsschicht. Diese Schicht kümmert sich darum, wie eine Verbindung zwischen dem Sender und dem Empfänger aufgebaut wird und wie diese Verbindung während des Austauschs aufrechterhalten wird.
+
+Und dann kommt die Transportschicht, die noch tiefer im Modell ist. Diese Schicht hilft, die Daten von der einen zur anderen Stelle zu transportieren. Auch hier werden wieder zusätzliche Informationen hinzugefügt, die notwendig sind, um sicherzustellen, dass alles gut funktioniert.
+
+Zusammengefasst: Jede Schicht hat eine wichtige Aufgabe, um sicherzustellen, dass unsere E-Mail sicher und richtig von uns zum Empfänger transportiert wird.

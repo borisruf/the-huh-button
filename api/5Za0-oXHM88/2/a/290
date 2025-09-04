@@ -1,0 +1,5 @@
+In einem Netzwerk kann man einen anderen Computer "anfragen", um herauszufinden, wie schnell er antwortet. Diese Anfrage nennt man "Ping". Wenn man einen Ping macht und der Computer antwortet, sagt er, wie lange es gedauert hat, bis die Nachricht hin und zurück gekommen ist. 
+
+In einem schnellen Netzwerk, das man "Fast Ethernet" nennt und wo die Daten sehr schnell übertragen werden können (bis zu 100 Megabit pro Sekunde), dauert es normalerweise etwa eine Millisekunde, um eine Antwort zu bekommen. Das ist sehr schnell! 
+
+Zusammengefasst heißt das: Wenn man einen anderen Computer fragt, wie schnell er ist, kann man sehen, wie schnell die Antwort kommt. Im schnellsten Netzwerk dauert das nur eine Millisekunde.

@@ -1,0 +1,17 @@
+Okay, ich erkläre das ganz einfach:
+
+Wenn Daten von einem Ort zu einem anderen geschickt werden, machen sie einen langen Weg durch verschiedene Geräte, die Router genannt werden. 
+
+Hier ist, was passiert:
+
+1. **Signal-Dekodierung**: Wenn die Daten in Form von elektrischen Signalen ankommen, schaut der Router sich diese Signale an und verwandelt sie in eine Reihe von Einsen und Nullen, was wir Bitfolge nennen.
+
+2. **MAC-Adresse finden**: Die MAC-Adresse ist wie die Wohnadresse eines Gerätes im Netzwerk. Der Router schaut nach, ob diese Adresse für ihn bestimmt ist. Wenn ja, dann macht er weiter.
+
+3. **IP-Adresse prüfen**: Jedes Gerät hat auch eine IP-Adresse, die hilft herauszufinden, wo die Daten hingeschickt werden sollen. Der Router nutzt diese Adresse, um zu entscheiden, wohin die Daten als Nächstes geschickt werden.
+
+4. **Daten weiterleiten**: Der Router schaut, welcher "Port" oder kanal gebraucht wird, um die Daten weiterzuleiten. Dann packt er die Daten wieder ein, sodass sie auf den nächsten Weg geschickt werden können.
+
+Im Grunde heißt das: Der Router baut die Daten wieder auf, nachdem er sie in ihre Einzelteile zerlegt hat, und entscheidet, wo sie als Nächstes hingehen sollen. Dann wird das Ganze wieder als Signal geschickt, bis es schließlich beim Ziel ankommt, zum Beispiel bei einem E-Mail-Server. 
+
+Das passiert immer wieder, wenn die Daten durch verschiedene Router reisen, bis sie ihr Ziel erreichen.

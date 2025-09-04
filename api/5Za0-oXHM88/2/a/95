@@ -1,0 +1,11 @@
+Okay, ich erkläre es einfach:
+
+Wenn wir Daten über Netzwerke senden, ist es wichtig, dass wir das schnell und ohne Fehler machen. Ein wichtiger Teil davon ist die "Bandbreite". 
+
+Was ist Bandbreite? Stell dir das wie einen breiten Fluss vor, durch den Wasser fließen kann. Die Bandbreite ist die Breite dieses Flusses, aber anstatt Wasser fließen hier Daten. 
+
+Um die Bandbreite zu bestimmen, schauen wir auf zwei Dinge: die höchste Frequenz (das ist die größte Zahl, die wir messen) und die niedrigste Frequenz (das ist die kleinste Zahl, die wir messen). Wir ziehen die niedrige Frequenz von der hohen ab. Was übrig bleibt, ist die Bandbreite. 
+
+Die Bandbreite ist wichtig, weil verschiedene Medien (wie Kabel oder Wellen) mit verschiedenen Frequenzen anders umgehen. Das bedeutet, dass nicht alle Medien die gleichen Geschwindigkeiten oder die gleiche Qualität bieten können, wenn wir Daten übertragen. 
+
+Also, je größer die Bandbreite, desto mehr Daten können gleichzeitig gesendet werden und das hilft uns, die Daten schneller und besser zu übertragen.

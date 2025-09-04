@@ -1,0 +1,13 @@
+Die Aussage beschreibt, wie Daten im Internet von einem Punkt zu einem anderen gelangen, indem sie durch Router reisen. Hier ist eine einfache Erklärung:
+
+1. **Daten werden umgewandelt**: Die Daten, die wir senden, werden in kleine Teile umgewandelt, die man „Bits“ nennt. Das sind die kleinsten Einheiten von Informationen.
+
+2. **MAC-Adresse finden**: Der Router schaut nach einer bestimmten Adresse, die „MAC-Adresse“ heißt. Diese Adresse hilft ihm zu wissen, wohin er die Daten als nächstes schicken soll. Es ist wie die Hausnummer eines nächsten Ziels.
+
+3. **IP-Adresse verwenden**: Der Router sucht auch nach einer „IP-Adresse“. Diese Adresse sagt ihm, wie er durch das Netzwerk navigieren kann. Es ist wie eine Wegbeschreibung, die ihm sagt, wo das Ziel ist.
+
+4. **Daten einpacken**: Bevor der Router die Daten weiterschickt, muss er sie wieder "einpacken", damit sie gut transportiert werden können. Das ist vergleichbar mit dem Verpacken eines Päckchens, bevor man es versendet.
+
+5. **Wiederholung**: Manchmal muss das Ganze mehrmals passieren, wenn mehrere Router beteiligt sind. Jeder Router macht dasselbe: Er entpackt die Daten, schaut nach Adressen und packt sie wieder ein, um sie weiterzuschicken.
+
+Zusammengefasst: Wenn du etwas im Internet sendest, gehen die Daten durch verschiedene Routern, die sicherstellen, dass sie ihr Ziel erreichen, indem sie Adressen suchen und die Daten richtig vorbereiten.

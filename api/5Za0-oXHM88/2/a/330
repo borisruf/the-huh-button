@@ -1,0 +1,5 @@
+Die Aussage beschreibt, wie lange es dauert, bis Daten von einem Computer zu einem anderen Computer und wieder zurück gesendet werden. Wenn man zum Beispiel einen Computer in Europa hat und einen anderen in Amerika oder Asien, kann die gesamte Zeit, die es braucht, um eine Nachricht hin und zurück zu schicken (das nennt man Roundtrip-Zeit), zwischen 100 und 300 Millisekunden liegen. 
+
+Dann wird erklärt, dass neben der Zeit, die die Daten brauchen, auch wichtig ist, wie viele Daten pro Sekunde übertragen werden können. Diese beiden Dinge – die Zeit und die Menge an Daten – hängen zusammen. Wenn man diese beiden Dinge kombiniert, also die Verzögerung (wie lange die Daten brauchen) und die Bandbreite (wie viele Daten übertragen werden können), erhält man eine spezielle Messgröße, die "Verzögerungsbandbreite-Produkt" genannt wird. 
+
+Damit will man ausdrücken, dass die Leistung eines Netzwerks nicht nur davon abhängt, wie schnell die Daten gesendet werden, sondern auch davon, wie viele Daten in dieser Zeit gesendet werden können.

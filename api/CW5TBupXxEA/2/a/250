@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir bei der E-Mail, die wir schreiben, nicht nur die grundlegenden Informationen haben, sondern dass mehr Informationen hinzugefügt werden. 
+
+Zuerst gibt es den „Application Header“, der zur E-Mail gehört. Dieser enthält wichtige Hinweise darüber, wie die E-Mail gesendet wird. Jetzt kommt noch ein weiterer Teil, der „Header der Darstellungsschicht“ ist, bevor die Nachricht an den Empfänger weitergeleitet wird. Dieser zusätzliche Header zeigt, wie die Informationen in der E-Mail dargestellt werden sollen.
+
+Dies erklärt, dass die Übertragung einer E-Mail in unterschiedliche Schichten unterteilt ist, sodass jede Schicht einen speziellen Teil der Kommunikation bearbeitet. Die oberste Schicht kümmert sich um die Nachricht selbst, und die nächste Schicht kümmert sich darum, wie diese Nachricht richtig angezeigt wird.

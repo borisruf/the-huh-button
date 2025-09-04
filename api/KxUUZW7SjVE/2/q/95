@@ -1,0 +1,1 @@
+ Geht dann in die dritte Schicht und findet dort die IP-Adressen und anhand dieser Informationen, auch Routing-Protokolle, die dort noch angesiedelt sind, anhand dieser Informationen trifft er dann eben seine Weiterleitungsentscheidung, nimmt das Paket und packt es wieder ein.   Also der ganze Weg geht jetzt von der dritten Schicht an nochmal umgekehrt.

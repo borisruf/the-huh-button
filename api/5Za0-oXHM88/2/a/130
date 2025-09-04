@@ -1,0 +1,13 @@
+Die Aussage handelt von der Bandbreite, die wichtig ist, wenn wir Daten in einem Netzwerk übertragen. 
+
+Hier ist die Erklärung in einfacher Sprache:
+
+- **Was ist Bandbreite?** Die Bandbreite zeigt, wie viel Raum wir haben, um Informationen zu senden. Man kann sich das wie einen breiten oder engen Weg vorstellen. Je breiter der Weg (mehr Bandbreite), desto mehr Autos (Daten) können gleichzeitig fahren.
+
+- **Frequenzen?** Bandbreite hängt mit Frequenzen zusammen, also wie oft etwas passiert. Wir sprechen von einer oberen und einer unteren Grenze. Wenn wir die obere Zahl minus die untere Zahl rechnen, bekommen wir die Bandbreite.
+
+- **Warum ist das wichtig?** Nicht alle Medien (wie Kabel, Funk usw.) können mit jeder Frequenz gleich gut arbeiten. Deshalb ist die Bandbreite wichtig, um Informationen schnell und ohne Fehler zu übertragen.
+
+- **Messung:** In Netzwerken sprechen wir oft nicht nur technisch über Bandbreite, sondern messen sie in der Menge an Informationen, die pro Sekunde gesendet werden können, zum Beispiel wie viele Bits pro Sekunde übertragen werden.
+
+Zusammengefasst: Die Bandbreite ist wichtig, weil sie bestimmt, wie schnell und zuverlässig Daten in einem Netzwerk übertragen werden können.

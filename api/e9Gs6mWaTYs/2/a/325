@@ -1,0 +1,13 @@
+Okay, ich erkläre das in ganz einfachen Worten:
+
+In Computernetzwerken gibt es eine Schicht, die Schicht 2 heißt. Diese Schicht hilft dabei, wie Daten zwischen Geräten gesendet werden. Schicht 2 hat zwei Teile: den "Logical Link Control" (LLC) und den "MAC-Layer". Der MAC-Layer hat die Aufgabe, Adressen festzulegen, damit die Daten wissen, wo sie hin müssen. 
+
+Wenn du mit deinem Computer eine Anfrage an eine Website stellst, geschieht Folgendes:
+
+1. Dein Computer sendet Daten über einen Zugangspunkt (Access-Point), der zwei Schichten des Netzwerks abdeckt.
+2. Die Daten gehen dann über Kabel zu einem Router. Der Router hilft dabei, die Daten zu den richtigen Zielen zu schicken. Dabei schaut er, wohin die Daten gehen sollen, basierend auf einer Adresse (IP-Adresse).
+3. Die Daten reisen dann durch mehrere Router, die die Daten immer wieder analysieren und sicherstellen, dass sie auf dem richtigen Weg sind.
+4. Schließlich landen die Daten in einem lokalen Netzwerk, wo sie zu einem speziellen Computer, dem Web-Server, gelangen.
+5. Der Web-Server muss dann die Daten wieder „auspacken“, um sie in der richtigen Form anzuzeigen, zum Beispiel damit du die Webseite sehen kannst.
+
+Zusammengefasst: Schicht 2 hilft den Geräten, sich zu finden und miteinander zu kommunizieren, damit du etwas im Internet abrufen kannst.

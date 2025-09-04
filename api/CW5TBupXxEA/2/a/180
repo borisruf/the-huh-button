@@ -1,0 +1,3 @@
+Die Aussage besagt, dass wir mit der "Anwendungsschicht" beginnen, weil sie die letzte und siebte Schicht in einem bestimmten Modell für Kommunikation ist. 
+
+In diesem Zusammenhang verwenden wir ein Schichtenmodell, um die komplizierte Kommunikation in kleinere, einfachere Teile zu zerlegen. So können wir besser verstehen, wie alles funktioniert. Die Anwendungsschicht ist wichtig, weil hier der Nutzer, also der Mensch, aktiv ist und etwas wie eine E-Mail senden möchte. Daher ist es sinnvoll, mit dieser Schicht zu starten, wenn wir uns anschauen, wie eine E-Mail von einem Gerät zu einem E-Mail-Server geschickt wird.

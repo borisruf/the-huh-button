@@ -1,0 +1,5 @@
+Stell dir vor, dass das Senden einer E-Mail wie das Versenden eines Briefes ist. Bevor der Brief auf die Reise geht, muss er in einen Umschlag gesteckt werden. In der Computerwelt ist der Umschlag das, was wir einen „Kopfteil“ nennen. 
+
+Wenn du eine E-Mail schreibst und sie absendest, passiert das in verschiedenen Schritten. Zuerst schreibst du den Text in einem speziellen Programm, dem E-Mail-Client. Dieses Programm hilft dir, die E-Mail fertigzustellen und zu versenden. Wenn du auf „Senden“ klickst, fügt das Programm einige zusätzliche Informationen zu deiner E-Mail hinzu, so wie man eine Adresse auf einen Umschlag schreibt, damit die Post weiß, wohin der Brief geschickt werden soll. 
+
+Diese zusätzlichen Informationen nennt man „Application Header“ oder auf Deutsch „Anwendungskopfteil“. Es hilft dem System zu verstehen, worum es in der Nachricht geht und wie sie gesendet werden soll. So wird alles ordentlich und klar gemacht, damit deine E-Mail die richtige Adresse erreicht.

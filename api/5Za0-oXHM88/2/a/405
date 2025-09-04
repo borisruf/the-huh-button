@@ -1,0 +1,7 @@
+Die Aussage bedeutet einfach:
+
+Wenn wir über Netzwerke sprechen, ist es wichtig zu verstehen, wie schnell die Signale gesendet werden und wie viel Daten gleichzeitig übertragen werden können. Man kann sich das wie ein Rohr vorstellen, das Wasser transportiert. Der Durchmesser des Rohrs zeigt, wie viel Wasser gleichzeitig fließen kann (das ist die Bandbreite), und die Länge des Rohrs zeigt, wie schnell das Wasser von einem Ende zum anderen kommt (das ist die Signallaufzeit). 
+
+Beides ist wichtig, denn wenn das Rohr zu klein ist oder das Wasser zu langsam fließt, können nicht viele Daten schnell übertragen werden. 
+
+Außerdem gibt es noch andere Dinge, die Einfluss darauf haben, wie gut und schnell die Daten wirklich übertragen werden, und die sollten auch berücksichtigt werden.

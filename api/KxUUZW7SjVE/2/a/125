@@ -1,0 +1,13 @@
+Okay, ich erkläre das einfach:
+
+Wenn wir Daten senden, werden sie in kleine Teile, sogenannte "Pakete", zerlegt. Diese Pakete reisen dann durch einen Router, der ein Gerät ist, das hilft, die Daten an den richtigen Ort zu bringen.
+
+Wenn das Paket beim Router ankommt, schaut der Router sich die Daten genauer an. Er entfernt einige zusätzliche Informationen, die den Paketen hinzugefügt wurden, damit sie reisen können. Das nennt man "Daten-Entkapselung".
+
+Der Router schaut dann auf verschiedene Teile der Daten, um zu verstehen, wohin das Paket gehen soll. Er prüft die "IP-Adressen" (das sind die Adressen der Computer, die das Paket schicken und empfangen) und die "MAC-Adressen", die für die Kommunikation über das Netzwerk wichtig sind.
+
+Nachdem der Router entschieden hat, wohin das Paket geschickt werden soll, fügt er die notwendigen Informationen wieder hinzu, damit das Paket unterwegs klar verstanden wird. Das bedeutet, er packt die Daten so ein, dass sie bereit sind, weitergeschickt zu werden.
+
+Dann, auf einer ganz niedrigen Ebene, wird aus den Informationen ein Signal gemacht, das durch das Netzwerk gesendet wird. Der Router schickt das Paket weiter, und dieser Prozess kann mehrere Male wiederholt werden, bis das Paket sein Ziel erreicht. 
+
+Das ist also wie ein Paketdienst: Das Paket wird in einen Kasten (Entkapselung), der Kasten wird auf den richtigen Weg geschickt (Entscheidung treffen) und dann wird es wieder eingepackt für die nächste Reise (Kapselung), um sicherzustellen, dass es ankommt.

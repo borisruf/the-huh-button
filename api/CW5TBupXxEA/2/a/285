@@ -1,0 +1,10 @@
+Die Aussage erklärt, wie Informationen in einem Computer oder über das Internet verarbeitet werden, besonders bei der Übertragung einer E-Mail. Man kann sich das wie eine Schichtkake vorstellen. Jede Schicht hat eine bestimmte Aufgabe und hilft dabei, die Daten richtig zu übertragen.
+
+1. **Information und Kodierung**: Zuerst wird eine E-Mail geschrieben. Diese E-Mail besteht aus Text und eventuell Bildern. Um die Informationen in der E-Mail zu speichern, wird ein Code verwendet, wie zum Beispiel ASCII für Texte oder JPEG für Bilder. Es wird auch beschrieben, wie die Daten kleiner gemacht (komprimiert) oder verborgen (verschlüsselt) werden können.
+
+2. **Schichtenmodell**: Die Kommunikation wird in verschiedene Schichten unterteilt. Jede Schicht hat ihre eigene Aufgabe. Zum Beispiel:
+   - Die oberste Schicht kümmert sich um das Schreiben und Senden der E-Mail.
+   - Die nächste Schicht schaut, wie die Informationen dargestellt werden (z.B. in einem bestimmten Code).
+   - Danach kommt eine weitere Schicht, die sich um die Sitzung kümmert, also darum, wie die Verbindung zwischen den Computern bleibt.
+
+Durch dieses Schichtenmodell wird es einfacher, Probleme zu erkennen und Lösungen zu finden, wenn etwas bei der Datenübertragung schiefgeht.

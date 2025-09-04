@@ -1,0 +1,3 @@
+Die Aussage bedeutet einfach, dass in einem bestimmten Teil des OSI-Modells, der Sicherungsschicht, geregelt wird, wie man auf das Netzwerk zugreifen kann. Wenn Geräte miteinander kommunizieren, müssen sie wissen, wie sie die physische Verbindung herstellen können. Es gibt verschiedene Regeln (Protokolle) dafür, und Beispiele sind Ethernet, PPP und FDDI. 
+
+Stell dir vor, dass die Sicherungsschicht wie eine Art Verkehrsregelung für Daten ist. Sie sorgt dafür, dass alles gut funktioniert und die Daten sicher von einem Ort zum anderen kommen.

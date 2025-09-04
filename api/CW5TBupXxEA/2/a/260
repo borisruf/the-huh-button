@@ -1,0 +1,9 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn wir Informationen, wie z.B. eine E-Mail, von einem Sender zu einem Empfänger schicken, müssen diese Informationen so vorbereitet werden, dass sie gut durch das Netzwerk reisen können. Dabei wird in verschiedenen Schichten gearbeitet.
+
+1. **Übertragung**: Zuerst wird die E-Mail so aufbereitet, dass sie gut durch das Netzwerk gesendet werden kann. Hierbei werden spezielle Regeln (Protokolle) beachtet, damit die E-Mail sicher und ohne Fehler ankommt.
+
+2. **Darstellung**: Wenn die E-Mail beim Empfänger ankommt, muss sie wieder so aufbereitet werden, dass der Empfänger sie richtig lesen kann. Hierbei wird darauf geachtet, dass die Informationen klar und verständlich angezeigt werden.
+
+Also, wir kümmern uns darum, dass die Nachricht gut versendet wird und beim Empfänger auch richtig angezeigt wird.

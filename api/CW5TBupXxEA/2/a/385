@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes in ganz einfacher Sprache:
+
+Wenn die Daten von einem Computer zum anderen geschickt werden, dann kommen sie zuerst zur Transportschicht. Dort wird sichergestellt, dass die Verbindung zwischen den Computern richtig funktioniert, zum Beispiel, welches Programm die Daten empfängt. Die Transportschicht hilft also, die Daten richtig an den nächsten Ort weiterzugeben.
+
+Nach der Transportschicht gehen die Daten dann in die Vermittlungsschicht. In dieser Schicht muss man wissen, wo die Daten hin sollen, also welche Adresse der nächste Computer hat. Es ist wichtig, die richtigen Adressen zu benutzen, damit die Daten am richtigen Ort ankommen. Die Vermittlungsschicht kümmert sich darum, dass die Daten von einem Computer zum anderen gelangen.

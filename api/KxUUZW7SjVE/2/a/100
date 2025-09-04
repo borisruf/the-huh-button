@@ -1,0 +1,11 @@
+Der Router ist ein Gerät, das hilft, Daten zwischen verschiedenen Orten im Internet zu senden. Wenn die Daten bei ihm ankommen, tun viele Dinge:
+
+1. **Daten Entpacken**: Zuerst nimmt der Router die Daten und entfernt die zusätzlichen Informationen, die zuvor hinzugefügt wurden. Man kann sich das wie das Öffnen eines Geschenks vorstellen. Er schaut sich nur die wichtigsten Teile der Daten an.
+
+2. **Schichten Prüfen**: Der Router schaut sich die Daten in verschiedenen Schichten an. Zuerst überprüft er die unterste Schicht, um die elektrische Signale zu verstehen. Dann geht er zur nächsten Schicht und sieht nach, wo die Daten hin müssen, indem er spezielle Adressen (MAC-Adressen) findet.
+
+3. **IP-Adressen Finden**: Danach schaut er in der dritten Schicht nach. Dort findet er die IP-Adressen, die sagen, wo die Daten hingehen sollen. Er nutzt diese Informationen, um eine Entscheidung zu treffen: "Wo soll ich diese Daten jetzt hinschicken?"
+
+4. **Daten Wieder Verpacken**: Nachdem er weiß, wo die Daten hingehen, verpackt er sie wieder, so dass sie auf den Weg zu ihrem Ziel gehen können.
+
+Das ganze passiert also, indem der Router zuerst die Informationen untersucht und dann die Daten für den nächsten Schritt vorbereiten. Es ist ein bisschen wie wenn man ein Buch liest, Informationen rausschreibt und es dann wieder in den Rucksack packt, um es weiterzugeben.

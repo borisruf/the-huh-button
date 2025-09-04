@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass manchmal, wenn wir eine Anfrage an einen Server schicken, wir warten müssen, bis der Server uns die Antwort zurücksendet. Die Zeit, die wir dafür brauchen, nennt man "Roundtrip-Zeit". Das heißt also, wie lange es dauert, von dem Moment, in dem wir die Anfrage senden, bis wir die Antwort zurückbekommen. Ein Beispiel dafür, wie wir die Zeit messen können, ist ein Programm namens "Ping", das hilft, diese Zeit herauszufinden. 
+
+Kurz gesagt: Es geht darum, wie schnell Informationen hin und her geschickt werden.

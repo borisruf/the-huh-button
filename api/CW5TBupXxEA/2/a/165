@@ -1,0 +1,5 @@
+Wir wollen jetzt genauer erklären, wie eine E-Mail von einem Computer zu einem anderen gesendet wird. Dafür benutzen wir ein einfaches Modell, das heißt OSI-Modell. Dieses Modell hilft uns, die vielen Schritte, die bei der Übertragung einer E-Mail passieren, in verschiedene Schichten zu unterteilen.
+
+Stell dir vor, eine E-Mail ist wie ein Paket, das wir verschicken. Dabei passiert viel, bevor das Paket ankommt. Das OSI-Modell hat sieben Schichten, und jede Schicht hat eine spezielle Aufgabe. Eine Schicht hilft der anderen, und zusammen sorgen sie dafür, dass die E-Mail richtig ankommt.
+
+Wir werden uns anschauen, was in jeder dieser Schichten passiert, wenn wir eine E-Mail senden. So können wir besser verstehen, wo es vielleicht Probleme geben kann, wie zum Beispiel, wenn die E-Mail nicht ankommt. Durch das Aufteilen in Schichten wird alles klarer und leichter zu verstehen.

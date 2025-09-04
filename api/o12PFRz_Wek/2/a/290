@@ -1,0 +1,5 @@
+In der Erklärung geht es darum, wie Netzwerke organisiert sind. Es gibt echte, physische Verbindungen zwischen Geräten, also wie sie tatsächlich miteinander verbunden sind. Das nennt man "physikalische Topologie". Diese sieht man zum Beispiel, wenn man anschaut, ob die Geräte in einer Art Stern oder Reihenschaltung angeordnet sind.
+
+Aber es gibt auch eine andere Sichtweise, die sich auf den Datenfluss konzentriert. Wenn zum Beispiel ein Gerät Nachrichten an viele andere Geräte gleichzeitig sendet, ist das logisch gesehen wie ein Bus, wo alle auf die gleiche Nachricht reagieren. Das nennt man "logische Topologie".
+
+Die Aussage „Und wir haben auch eine logische Aufteilung. Das Logische muss natürlich irgendwo geregelt werden.“ bedeutet einfach, dass man für den Datenfluss Regeln braucht, auch wenn man die physischen Verbindungen schon hat. Man muss wissen, wie die Daten zwischen den Geräten fließen und wie sie organisiert sind.

@@ -1,0 +1,15 @@
+Also, wenn die Daten zum Router kommen, passiert Folgendes:
+
+1. **Entpacken der Daten**: Der Router nimmt die Daten, die wie ein Päckchen verpackt sind, und öffnet sie. Das nennt man "Daten-Entkapselung".
+
+2. **Verarbeitung der Signale**: Der Router schaut sich die Signale an und verwandelt sie in eine Reihe von Einsen und Nullen, also in eine "Bitfolge".
+
+3. **MAC-Adresse**: Der Router findet eine spezielle Adresse, die MAC-Adresse. Diese hilft ihm zu wissen, ob die Daten für ihn bestimmt sind.
+
+4. **IP-Adresse**: Der Router sucht auch nach einer anderen Adresse, der IP-Adresse, die angibt, wohin die Daten als Nächstes geschickt werden sollen.
+
+5. **Entscheidung treffen**: Mit diesen Informationen entscheidet der Router, wie er die Daten weiterleiten soll. 
+
+6. **Wieder verpacken**: Bevor die Daten weitergeschickt werden, werden sie wieder "verpackt". Der Router fügt die IP- und MAC-Adressen wieder hinzu und bereitet alles vor, um die Daten weiterzusenden.
+
+So wird sichergestellt, dass die Daten richtig an den nächsten Punkt im Netzwerk gelangen, sei es zu einem anderen Router oder zu einem Server, zum Beispiel dem E-Mail-Server. Dort passiert das Gleiche: die Daten werden entpackt, verarbeitet, die richtigen Adressen werden geprüft, und dann wieder verpackt, um weitergeschickt zu werden.

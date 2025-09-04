@@ -1,0 +1,7 @@
+Die Aussage sagt, dass es bei der Übertragung von Daten in einem Netzwerk zwei wichtige Zeiten gibt:
+
+1. **Signallaufzeit**: Das ist die Zeit, die das Signal braucht, um von einem Ort (zum Beispiel von einem Computer) zum anderen Ort (zum Beispiel zu einem Server) zu gelangen. Man kann sich das wie eine Nachricht vorstellen, die von einem Sender zum Empfänger geschickt wird. Es dauert eine bestimmte Zeit, bis die Nachricht ankommt.
+
+2. **Übertragungszeit**: Das ist die Zeit, die benötigt wird, um die Daten zu senden. Hier geht es darum, wie viele Informationen (Daten) insgesamt gesendet werden können und wie lange das dauert. Wenn man eine große Menge an Informationen senden möchte, dauert es länger als bei einer kleinen Menge.
+
+Zusammengefasst: Wenn man Daten über ein Netzwerk schickt, muss man die Zeit beachten, die das Signal braucht, um anzukommen, und die Zeit, die benötigt wird, um alle Daten zu übertragen.

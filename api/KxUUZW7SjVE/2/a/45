@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass die Daten, die wir geschickt haben, genauso beim Router ankommen, wie wir sie gesendet haben. Der Router ist ein Teil des Netzwerks, der auf einer bestimmten Ebene arbeitet, die im OSI-Modell als dritte Schicht bezeichnet wird. 
+
+In einfacher Sprache: 
+
+Wenn wir Informationen senden, zum Beispiel eine Nachricht, werden die Daten so, wie wir sie geschickt haben, beim Router angekommen. Der Router hilft dabei, die Daten weiterzuleiten. Er arbeitet in einer bestimmten Ebene des Kommunikationssystems, die man sich wie eine Schicht vorstellt.

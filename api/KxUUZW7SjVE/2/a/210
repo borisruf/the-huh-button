@@ -1,0 +1,21 @@
+Okay, lass uns das einfacher machen.
+
+Wenn du eine E-Mail schickst, passiert Folgendes:
+
+1. **Daten werden verschickt**: Zuerst wird deine E-Mail in kleine Stücke (Pakete) zerlegt und dann werden diese Pakete in Signale umgewandelt, damit sie über das Internet reisen können.
+
+2. **Router empfängt die Daten**: Die Pakete kommen bei einem Router an. Das ist ein Gerät, das hilft, die Daten von einem Ort zum anderen zu leiten.
+
+3. **Daten entpacken**: Der Router schaut sich die Pakete genau an und entfernt die zusätzlichen Informationen, die dazufügt wurden, als sie erstellt wurden. Man kann sich das wie ein Geschenk vorstellen, das in mehrere Schichten eingewickelt ist. Der Router wickelt es also auf, um zu sehen, was drin ist.
+
+4. **Signale dekodieren**: Der Router nimmt die Signale, die angekommen sind, und verwandelt sie wieder in Zahlen und Buchstaben (das nennt man Bitfolge). 
+
+5. **MAC-Adresse finden**: Der Router sucht auch nach etwas, das MAC-Adresse genannt wird. Das ist wie eine spezielle Adresse, die sagt, wohin die Daten als Nächstes gehen sollen.
+
+6. **Entscheidung treffen**: Der Router schaut sich an, wo die Daten hin müssen, und entscheidet, was als Nächstes passiert. Dann packt er die Daten wieder ein, fügt eine neue Adresse hinzu und macht sie bereit für die nächste Reise.
+
+7. **Daten weiterschicken**: Diese Schritte wiederholen sich, wenn die Daten durch andere Router reisen, bis sie schließlich den E-Mail-Server erreichen.
+
+8. **Letzter Schritt**: Wenn die Pakete den E-Mail-Server erreichen, kommt das wieder in Signalen an. Auch hier wird alles entpackt, und der Server schaut sich die Signale an, um sie in die richtige Form zurückzuverwandeln.
+
+Das ist ein großer Prozess, bei dem der Router immer wieder die Daten entpackt, damit sie an ihren Zielort (z.B. den E-Mail-Server) gelangen.

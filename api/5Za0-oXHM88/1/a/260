@@ -1,0 +1,8 @@
+Die Aussage beschreibt die verschiedenen Komponenten, die zur Latenz oder Verzögerung in einem Netzwerk beitragen. Latenz ist die Gesamtzeit, die benötigt wird, um eine Anfrage von einem Client zu einem Server zu senden und die Antwort zurück zu erhalten. Sie setzt sich aus mehreren Faktoren zusammen: 
+
+1. **Signallaufzeit** – die Zeit, die das Signal benötigt, um physisch zu reisen.
+2. **Übertragungszeit** – die Zeit, die benötigt wird, um die Anfrage zu übertragen, abhängig vom Datenvolumen.
+3. **Transferzeit** – die gesamte Zeit von Beginn bis zum Ende der Datenübertragung.
+4. **Verarbeitungszeit** – die Zeit, die nötig ist, damit der Server die Anfrage bearbeitet und die Antwort generiert.
+
+Diese Elemente summieren sich und definieren die Latenz, die einen entscheidenden Einfluss auf die Netzwerkleistung hat.

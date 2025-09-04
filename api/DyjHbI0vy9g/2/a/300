@@ -1,0 +1,10 @@
+In dieser Aussage geht es darum, wie ein Dienst in einem Netzwerk funktioniert. Wenn jemand um einen Dienst bittet, passiert Folgendes:
+
+1. **Anfrage**: Eine Person (oder ein Programm) stellt eine Anfrage für einen Dienst.
+2. **Übertragung**: Diese Anfrage wird übertragen, also an die richtige Stelle geschickt.
+3. **Wartezeit**: Während der Anfrage vergeht etwas Zeit. In der Grafik wird dies durch eine gestrichelte Linie angezeigt.
+4. **Antwort**: Nach dieser Wartezeit wird angezeigt, dass die Anfrage für den Dienst angekommen ist.
+
+Wenn der Dienst nicht "bestätigt" ist, bedeutet das, dass man nicht sicher ist, ob der Dienst erfolgreich war oder nicht. Man ist dann schon mit diesem Vorgang fertig, weil es keine weitere Rückmeldung gibt. 
+
+Zusammengefasst: Jemand fragt etwas an, wartet ein bisschen, und sieht dann, dass die Anfrage angekommen ist, ohne zu wissen, ob alles gut gelaufen ist.

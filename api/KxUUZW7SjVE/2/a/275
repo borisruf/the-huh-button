@@ -1,0 +1,19 @@
+In diesem Text wird erklärt, wie Daten über das Internet von einem Ort zum anderen gelangen, und zwar mit Hilfe von Routern. Die Erklärung verwendet zwei Seiten: auf der linken Seite werden die englischen Begriffe gezeigt, und auf der rechten Seite die deutschen Begriffe. Zum Beispiel steht auf der linken Seite "Sender" und auf der rechten Seite "Empfänger".
+
+Hier ist eine einfache Beschreibung der wichtigsten Punkte:
+
+1. **Daten senden**: Wenn du etwas über das Internet sendest, werden diese Daten zuerst in kleine Teile, die Pakete genannt werden, aufgeteilt.
+
+2. **Router**: Ein Router ist ein Gerät, das diese Datenpakete empfängt. Es schaut sich an, wo die Daten herkommen und wo sie hingehen sollen.
+
+3. **Daten entpacken**: Wenn die Pakete beim Router ankommen, werden zwei Schritte gemacht:
+   - Der Router „entpackt“ die Pakete, das heißt, es entfernt Informationen, die er nicht braucht, um die Daten zu verstehen.
+   - Der Router schaut sich die Adressen in den Paketen an, um zu wissen, wohin die Daten als Nächstes geschickt werden sollen.
+
+4. **Daten wieder verpacken**: Nachdem der Router die Adressen verarbeitet hat, „verpackt“ er die Daten erneut, damit sie weitergeschickt werden können, und sendet sie wieder ins Netz.
+
+5. **Der Weg der Daten**: Die Pakete können durch mehrere Router reisen, bevor sie ihr Ziel erreichen. Jeder Router macht das Gleiche: Er entpackt, schaut sich die Adressen an, und verpackt die Daten dann wieder.
+
+6. **Ankommen beim Ziel**: Schließlich erreichen die Pakete ihren endgültigen Ort, wie zum Beispiel einen E-Mail-Server. Auch dort müssen die Daten wieder entpackt werden, um sie lesen zu können.
+
+Zusammenfassend erklärt der Text also, wie Informationen über Router im Internet von einem Sender zu einem Empfänger gelangen, indem die Daten in Paketen geschickt werden.

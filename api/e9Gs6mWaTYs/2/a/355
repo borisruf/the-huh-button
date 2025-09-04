@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie Informationen zwischen einem Computer (Client) und einem anderen Computer (Server) hin- und hergeschickt werden. Es gibt zwei wichtige Punkte:
+
+1. **Zwei Richtungen:** Die Pfeile im Bild zeigen, dass die Informationen nicht nur in eine Richtung gehen. Der Client sendet eine Anfrage an den Server, und der Server schickt eine Antwort zurück. Das geschieht auf einem ähnlichen Weg.
+
+2. **Das, was man sieht:** Die dünne rote Linie im Bild ist das, was wir als Nutzer sehen, wenn wir etwas im Internet anfragen. Aber hinter dieser Linie passiert viel mehr, was in dem Bild nicht vollständig dargestellt ist. Es gibt viele technische Schritte und Protokolle, die sicherstellen, dass die Informationen richtig übertragen werden.
+
+In einfachen Worten: Wenn wir im Internet etwas machen, senden wir Informationen hin und her, aber es gibt viele unsichtbare Prozesse, die das ermöglichen.

@@ -1,0 +1,5 @@
+Die Aussage erklärt die Bedeutung von "Bandbreite" in Netzwerken. Bandbreite ist wie der Platz, der für die Informationen in einem Netzwerk zur Verfügung steht. Man kann sich das vorstellen wie einen Fluss: Je breiter der Fluss, desto mehr Wasser (also Daten) kann gleichzeitig fließen.
+
+Die Bandbreite wird berechnet, indem man die höchste Frequenz minus die niedrigste Frequenz nimmt. Diese Differenz zeigt an, wie viel Platz für die Daten gibt. Es ist wichtig, weil nicht alle Medien (wie Kabel oder Funk) mit allen Frequenzen gleich gut umgehen können. Das beeinflusst, wie schnell und gut Daten übertragen werden.
+
+In Netzwerken spricht man oft weniger über Frequenzen, sondern darüber, wie viele Daten in einer bestimmten Zeit übertragen werden können, also zum Beispiel wie viele Bits pro Sekunde. Es geht also darum, wie schnell man Informationen senden kann.

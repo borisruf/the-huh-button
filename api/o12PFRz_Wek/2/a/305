@@ -1,0 +1,9 @@
+Netzwerke sind wie eine Gruppe von Freunden, die miteinander reden. Damit sie sich verständigen können, brauchen sie Regeln, genau wie beim Spielen – sonst weiß niemand, was zu tun ist. Diese Regeln heißen Protokolle. 
+
+In dem Bild, das du siehst, wird erklärt, wie diese Regeln in Netzwerken funktionieren. Es zeigt, dass Netzwerke aus verschiedenen Teilen bestehen, wie zum Beispiel Geräten (also die Freunde), Transportmitteln (wie sie miteinander sprechen) und anderen Systemen.
+
+Es gibt verschiedene Arten von Netzwerken, die je nach Entfernung unterscheiden, also wie weit die Freunde voneinander entfernt sind. Wenn die Freunde ganz nah beieinander sind, nennt man das ein Personal Area Network (PAN). Wenn sie sich in einer Stadt befinden, sprechen wir von einem Metropolitan Area Network (MAN). Und wenn es um das ganze Land oder die ganze Welt geht, dann heißen sie Wide Area Network (WAN) oder Global Area Network (GAN).
+
+Außerdem gibt es verschiedene Arten, wie die Geräte miteinander verbunden sind – wie bei einem Stern oder einem Bus. Diese Verbindungen können unterschiedlich aussehen (physikalische Topologie), aber wie die Daten wirklich fließen, kann ganz anders sein (logische Topologie).
+
+Kurz gesagt: Protokolle sind die Regeln, die dafür sorgen, dass alles in einem Netzwerk gut funktioniert, und das Bild hilft dabei, das besser zu verstehen.

@@ -1,0 +1,9 @@
+In einem Netzwerk müssen Geräte miteinander kommunizieren. Damit das gut funktioniert, gibt es bestimmte Regeln oder „Protokolle“. Diese Regeln sagen den Geräten, wie sie miteinander sprechen sollen.
+
+Man kann sich ein Netzwerk wie ein großes System vorstellen, das aus verschiedenen Teilen besteht: den Geräten, die miteinander umgehen (wie Computer und Handys), den Verbindungen, die die Geräte nutzen, und den Diensten, die sie anbieten.
+
+Es gibt verschiedene Arten von Netzwerken, abhängig davon, wie weit die Geräte voneinander entfernt sind. Wenn sie sehr nah beieinander sind, nennt man das ein Personal Area Network (PAN), zum Beispiel bei Smartwatches. Wenn die Geräte in einem Raum oder Gebäude sind, nennt man das Local Area Network (LAN). Wenn sie in einer ganzen Stadt verteilt sind, spricht man von einem Metropolitan Area Network (MAN). Und schließlich gibt es auch Netzwerke, die ganze Länder oder die Welt umfassen, die heißen Wide Area Network (WAN) und Global Area Network (GAN).
+
+Es gibt auch verschiedene Arten, wie die Geräte miteinander verbunden sind. Man kann sich das vorstellen wie verschiedene Wege, die die Daten nehmen können. Das wird als „Topologie“ bezeichnet. Die Topologie kann physikalisch sein, also wie die Kabel und Geräte wirklich angeordnet sind, oder logisch, also wie die Daten tatsächlich fließen.
+
+Für die Kommunikation müssen alle Geräte und deren Verbindungen richtig angeordnet sein, damit die Regeln (Protokolle) eingehalten werden können. Die Protokolle helfen den Geräten, sich zu verstehen und richtig miteinander zu arbeiten.

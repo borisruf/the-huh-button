@@ -1,0 +1,17 @@
+Die Aussage beschreibt, wie E-Mails und andere Daten von einem Ort zum anderen geschickt werden. Hier ist eine sehr einfache Erklärung:
+
+1. **Daten werden geschickt**: Wenn du eine E-Mail schickst, wird sie in viele kleine Teile, die man "Pakete" nennt, aufgeteilt und durch das Internet gesendet.
+
+2. **Router**: Diese Pakete kommen zuerst zu einem Gerät, das "Router" heißt. Der Router hilft, die Pakete an den richtigen Ort zu bringen.
+
+3. **Entkapselung**: Wenn die Pakete beim Router ankommen, schaut er sie sich an und entfernt die Informationen, die nicht mehr gebraucht werden, wie die Adressen, die wir am Anfang hinzugefügt haben. Das nennt man "Entkapselung".
+
+4. **Signale umwandeln**: Der Router empfängt die Daten als physikalische Signale (wie Licht oder elektrische Impulse). Er wandelt diese Signale in Bits um, das sind die kleinsten Daten-Einheiten, die Computer verstehen.
+
+5. **MAC-Adresse**: Der Router findet auch heraus, welche MAC-Adresse (das ist eine Art "Hausadresse" für Geräte im Netzwerk) verwendet werden muss, damit die Pakete an den nächsten Ort gesendet werden können.
+
+6. **Daten wieder verpacken**: Nachdem der Router alles angeguckt hat, packt er die Daten wieder ein. Er fügt die neuen Adressen hinzu, damit die Pakete wissen, wo sie als Nächstes hingehen müssen.
+
+7. **Weiter senden**: Dann sendet der Router die Pakete weiter, entweder zu einem anderen Router oder direkt zu deinem E-Mail-Server, wo die E-Mail letztendlich ankommt.
+
+Diese Schritte passieren immer wieder, wenn die Pakete durch das Netzwerk reisen, bis sie ihr Ziel erreichen.

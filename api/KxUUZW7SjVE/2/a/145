@@ -1,0 +1,11 @@
+Okay! Lass uns das ganz einfach erklären:
+
+Stell dir vor, du hast ein Paket, das du verschicken möchtest. Dieses Paket hat viele Schichten, wie eine Zwiebel. Jede Schicht gibt Informationen darüber, woher das Paket kommt und wohin es geht. 
+
+Wenn das Paket bei einem Router ankommt (das ist wie eine Poststelle oder ein Wegweiser), öffnet der Router das Paket. Er entfernt die äußeren Schichten, um nur die wichtigen Informationen zu sehen. Dazu gehören zwei Hauptinfos: die Adresse des Absenders und die Adresse des Empfängers. 
+
+Der Router schaut sich zuerst die Bitfolgen an (das sind die Einsen und Nullen, aus denen das Paket besteht) und dann die MAC-Adresse, die eine Art spezielle Adresse für Geräte im Netzwerk ist. Danach schaut er sich die IP-Adresse an, die sagt, wo das Paket hin muss.
+
+Nachdem der Router alles verstanden hat, packt er das Paket wieder ein, fügt die richtigen Adressen hinzu und gibt es weiter, damit es zu seinem Ziel gelangt. Wenn das Paket unterwegs ist, kann es mehrere Router passieren, und jeder Router macht genau das Gleiche: er öffnet das Paket, schaut sich die Infos an und schickt es weiter.
+
+So funktioniert die Kommunikation zwischen Routern: sie helfen, dass das Paket von einem Ort zum anderen kommt, indem sie es immer wieder öffnen und schließen.

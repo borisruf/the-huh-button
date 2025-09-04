@@ -1,0 +1,9 @@
+In dieser Erklärung geht es darum, zwei wichtige Dinge zu verstehen, die beim Übertragen von Daten in Netzwerken wichtig sind: die Bandbreite und die Latenz. 
+
+Die Bandbreite ist wie die Breite eines Rohres, durch das Wasser fließt. Je breiter das Rohr ist, desto mehr Wasser (oder Daten) kann gleichzeitig fließen. Wenn wir also von Bandbreite sprechen, meinen wir, wie viele Daten pro Sekunde über das Netzwerk gesendet werden können.
+
+Die Latenz ist die Zeit, die es dauert, bis eine Nachricht von einem Punkt zum anderen gelangt. Das ist wie die Zeit, die das Wasser benötigt, um vom einen Ende des Rohres zum anderen zu fließen. Wenn die Latenz hoch ist, dauert es länger, bis die Daten ankommen, auch wenn die Bandbreite groß ist.
+
+Jetzt kommt das Thema "Burst" ins Spiel. Das bedeutet, dass manchmal kurze Zeitspitzen von sehr vielen Daten übertragen werden. Man kann sich das wie einen Wasserhahn vorstellen, der für einen kurzen Moment ganz aufgedreht wird, sodass viel Wasser auf einmal fließt. Wir müssen auch beachten, dass diese plötzlichen Datenmengen das Netzwerk anders beeinflussen können.
+
+Zusammengefasst: Wenn wir über Netzwerke sprechen, müssen wir die Breite (Bandbreite) und die Geschwindigkeit (Latenz) sowie plötzliche große Datenmengen (Burst) in Betracht ziehen.

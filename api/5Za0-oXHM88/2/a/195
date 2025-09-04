@@ -1,0 +1,7 @@
+In einem Netzwerk ist es wichtig, dass Daten schnell und ohne Fehler übertragen werden. Dafür gibt es verschiedene wichtige Begriffe. 
+
+Einer davon ist die **Bandbreite**. Man kann die Bandbreite sich wie einen breiten Fluss vorstellen, in dem viele Daten gleichzeitig fließen können. Je breiter der Fluss, desto mehr Daten können auf einmal fließen. Die Bandbreite wird oft in **Bits pro Sekunde** gemessen. Das heißt, wir schauen, wie viele kleine Datenstücke in einer Sekunde übertragen werden können.
+
+Ein weiterer Punkt ist die **Latenz**. Das ist die Zeit, die ein Signal braucht, um von einem Punkt zum anderen zu kommen – wie das Tempo, mit dem ein Ball geworfen wird. Wenn du einen Ball wirfst, braucht er eine gewisse Zeit, um an das andere Ende zu gelangen. Das ist die Verzögerung oder Latenz. 
+
+Also, um es einfach zu sagen: Bandbreite ist, wie viel Daten gleichzeitig fließen können, und Latenz ist, wie lange es dauert, bis die Daten ankommen. Beides ist wichtig, damit das Netzwerk gut funktioniert.

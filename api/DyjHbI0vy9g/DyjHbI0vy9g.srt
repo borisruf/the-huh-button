@@ -1,0 +1,259 @@
+1
+00:00:09,610 --> 00:00:14,610
+Ja, wenn wir uns daran erinnern, im letzten Video ging es darum, dass wir irgendwie Schichten bilden wollten,
+
+2
+00:00:14,710 --> 00:00:19,430
+unsere Netzwerke strukturieren wollten und genau da machen wir jetzt weiter. Wenn wir also unsere
+
+3
+00:00:19,430 --> 00:00:24,330
+Kommunikation erstmal so als Ganzes sehen würden, dann wäre das eine ziemlich komplexe
+
+4
+00:00:24,330 --> 00:00:29,570
+Sache und deswegen hat man sich in Netzwerken, um das auch so ein bisschen besser managen zu können, eben
+
+5
+00:00:29,570 --> 00:00:34,510
+dazu entschieden, das einmal aufzusplitten. Und zwar haben wir sogenannte logische Schichten, das haben wir
+
+6
+00:00:34,510 --> 00:00:39,370
+in diesem Schaubild auf der linken Seite und wir haben die physikalischen Schichten,
+
+7
+00:00:39,850 --> 00:00:44,650
+das haben wir auf der rechten Seite und wir sehen da schon so ein kleines Messer, mit dem wir das auseinander getrennt
+
+8
+00:00:44,650 --> 00:00:49,410
+haben.  Das können wir noch in weitere kleine Scheibchen teilen und deswegen spricht man dabei auch von der
+
+9
+00:00:49,410 --> 00:00:54,410
+Salamitaktik. Und wie sich das genauso verhält, ein ähnliches Beispiel
+
+10
+00:00:54,410 --> 00:00:59,230
+hatten wir in den letzten Sessions schon gesehen, wenn also zwei Kommunikationspartner in
+
+11
+00:00:59,230 --> 00:01:03,870
+irgendeiner Weise Nachrichten austauschen wollen, dann muss das natürlich geregelt werden und genau das
+
+12
+00:01:03,870 --> 00:01:08,570
+sehen wir jetzt hier auch. Ja, hier geht es jetzt wieder darum, dass eben zumindest zwei
+
+13
+00:01:08,570 --> 00:01:12,270
+unterschiedliche Sprachregionen, zwei Menschen sich aus unterschiedlichen Sprachregionen
+
+14
+00:01:12,270 --> 00:01:17,130
+austauschen wollen.  Das heißt also, wir haben hier jemanden aus Südamerika, der mit jemandem
+
+15
+00:01:17,130 --> 00:01:21,630
+aus Europa sprechen will und wir haben es vorhin schon erlebt in dem anderen Beispiel, in diesem
+
+16
+00:01:21,630 --> 00:01:26,250
+berühmten IGL-Beispiel, dass da zumindest eine weitere Schicht, die
+
+17
+00:01:26,250 --> 00:01:31,010
+Übersetzerschicht benötigt wird. Und wenn wir jetzt mal davon ausgehen, dass diese
+
+18
+00:01:31,010 --> 00:01:35,970
+Informationen beispielsweise geheim, also privat übertragen werden
+
+19
+00:01:35,970 --> 00:01:40,890
+sollen, dann bräuchten wir eine weitere, nämlich eine Sicherungsschicht, die dafür
+
+20
+00:01:40,890 --> 00:01:45,690
+sorgt, dass das Ganze beispielsweise verschlüsselt wird und im Endeffekt gut auf die
+
+21
+00:01:45,690 --> 00:01:50,650
+Distanz zu rufen, hilft auch nicht. Wir brauchen irgendein Medium, wo wir das Ganze übertragen,
+
+22
+00:01:50,850 --> 00:01:55,630
+also letztlich auch so eine Form der Übertragungsschicht.  Und wenn wir das Ganze
+
+23
+00:01:55,630 --> 00:02:00,470
+jetzt mal betrachten, dann wird auf einmal aus einer horizontalen Kommunikation
+
+24
+00:02:00,470 --> 00:02:04,790
+auch eine vertikale Kommunikation über die einzelnen
+
+25
+00:02:04,790 --> 00:02:08,810
+zusätzlichen Dienste, die ich benötige, nämlich eine Übersetzerdienst, dann
+
+26
+00:02:08,810 --> 00:02:13,310
+Verschlüsselungsdienst und letztlich auch ein Übertragungsdienst und in dem
+
+27
+00:02:13,310 --> 00:02:18,230
+Bereich ist die Kommunikation vertikal, dann geht sie über eine Übertragungsschicht
+
+28
+00:02:18,230 --> 00:02:22,870
+und kommt beim Empfänger auf derselben Art und Weise wieder in umgekehrter Reihenfolge
+
+29
+00:02:22,870 --> 00:02:27,210
+an. Und das Ganze können wir jetzt in ein abstraktes Schichtenmodell
+
+30
+00:02:27,210 --> 00:02:32,010
+übertragen. Also wir haben beispielsweise auch zwei Anwender, es müssen Anwendungen,
+
+31
+00:02:32,190 --> 00:02:36,990
+es müssen nicht unbedingt Personen sein, sondern können auch Anwendungen als solches sein.  Und wenn die
+
+32
+00:02:36,990 --> 00:02:41,570
+beiden sich untereinander austauschen wollen, brauchen wir auch wieder irgendwie eine darunter
+
+33
+00:02:41,570 --> 00:02:46,550
+liegende Möglichkeit der Dienste, die dafür sorgt, dass die beiden sich
+
+34
+00:02:46,550 --> 00:02:51,550
+auch verständigen können. Das kann eben unter Umständen beliebig kompliziert sein. Das heißt, wir
+
+35
+00:02:51,550 --> 00:02:55,910
+haben da wieder einen vertikalen Kommunikationsbereich, über den das Ganze
+
+36
+00:02:55,910 --> 00:03:00,070
+stattfindet und abhängig davon, wie komplex jetzt
+
+37
+00:03:00,070 --> 00:03:04,810
+dieser Austausch der Daten ist, habe ich eben eine Reihe von unterschiedlichen
+
+38
+00:03:04,810 --> 00:03:09,710
+Schichten mit sogenannten Diensten und mit diesen sogenannten
+
+39
+00:03:09,710 --> 00:03:14,570
+Service Access Points, also mit diesen Zugriffspunkten dieser Dienste.  Und wenn wir
+
+40
+00:03:14,570 --> 00:03:19,370
+das mal uns ein bisschen genauer angucken, können wir hier mal so ein Beispiel herausgreifen, wie
+
+41
+00:03:19,370 --> 00:03:22,770
+diese Dienste funktionieren. Also ein Dienstnutzer
+
+42
+00:03:22,770 --> 00:03:28,270
+fragt bei einer darunterliegenden Schicht nach einem Dienst an. Das
+
+43
+00:03:28,270 --> 00:03:33,030
+heißt also, die Menge einer solchen Funktionalität von
+
+44
+00:03:33,030 --> 00:03:38,010
+Diensten, die nennen wir dann eben eine Dienstschicht oder Diensterbringerschicht.
+
+45
+00:03:38,770 --> 00:03:42,950
+Und der Austausch dieser Daten erfolgt letztlich nach
+
+46
+00:03:42,950 --> 00:03:47,910
+vorgegebenen Prozeduren. Und diese Prozeduren sind dann festgelegt in
+
+47
+00:03:47,910 --> 00:03:52,850
+Form von Protokollen und die Daten werden eben über ein
+
+48
+00:03:52,850 --> 00:03:57,770
+solches Interface, über ein solches Service Access Point weitergegeben. Also wir können das hier mal
+
+49
+00:03:57,770 --> 00:04:02,510
+uns anschauen, wenn eine Anfrage kommt aus einer höheren Schicht, wird diese Anfrage aufgenommen und
+
+50
+00:04:02,510 --> 00:04:07,510
+bearbeitet, wird weitergegeben unter Umständen an die gegenüberliegende Schicht als hier als
+
+51
+00:04:07,510 --> 00:04:12,390
+Anzeige.  Da ist eine Anfrage und diese Anfrage wird dann bestätigt und
+
+52
+00:04:12,390 --> 00:04:17,070
+kommt dann letztlich auch bei dem Sender wieder an als Antwort, jawohl, ich habe diese
+
+53
+00:04:17,070 --> 00:04:22,010
+Anfrage verstanden. Das ist eine Form der Darstellung der Dienste. Wir
+
+54
+00:04:22,010 --> 00:04:26,990
+können noch eine weitere Form nennen, also zum Beispiel hier im Wegzeitdiagramm haben wir
+
+55
+00:04:26,990 --> 00:04:31,910
+auch wieder auf der linken Seite den Dienstnutzer, auf der rechten Seite den Diensterbringer.  Und wenn
+
+56
+00:04:31,910 --> 00:04:36,130
+wir uns jetzt mal einen unbestätigten Dienst angucken, dann kommt eine Anfrage, die wird irgendwann
+
+57
+00:04:36,130 --> 00:04:40,890
+übertragen und da sehen Sie eben gestrichelt, es vergeht eine bestimmte
+
+58
+00:04:40,890 --> 00:04:45,610
+Zeit und nach dieser Zeit kommt dann die Anzeige, dass
+
+59
+00:04:45,610 --> 00:04:50,210
+dieser Dienst angefordert wurde. Und wenn der unbestätigt ist, dann sind wir an der Stelle auch schon
+
+60
+00:04:50,210 --> 00:04:54,950
+soweit fertig. Wenn es sich dabei um einen bestätigten Dienst handelt, kommt auch wieder die
+
+61
+00:04:54,950 --> 00:04:58,990
+Anfrage, es vergeht die Übertragungszeit und der Diensterbringer
+
+62
+00:04:58,990 --> 00:05:03,610
+wird dann bestätigen, dass er diesen Dienst erbringt, nämlich eine Response
+
+63
+00:05:03,610 --> 00:05:08,610
+und auch da brauche ich natürlich wieder eine gewisse Übertragungszeit, bis das Ganze dann
+
+64
+00:05:08,610 --> 00:05:13,430
+beim Empfänger ankommt, bis dieser bestätigte Dienst ja bestätigt wird
+
+65
+00:05:13,430 --> 00:05:13,970
+übers Netz.

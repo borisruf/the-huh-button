@@ -1,0 +1,5 @@
+In den späten 1970er Jahren wollten einige große Firmen, dass ihre Computer besser miteinander sprechen können. Sie haben gemerkt, dass sie dafür Regeln brauchen, die "Protokolle" genannt werden. Diese Regeln helfen den Computern, sich zu verstehen und Informationen auszutauschen.
+
+Um diesen Austausch einfacher zu machen, haben die Firmen ein Modell entwickelt, das wie eine Schichttorte funktioniert. Man nennt es das ISO-OSI-Modell. Es teilt die komplexe Kommunikation in verschiedene Schichten auf, damit man leichter sehen kann, wie alles funktioniert und wie die Systeme miteinander verbunden sind. 
+
+Zusammengefasst: Damit Computer besser kommunizieren können, brauchen sie Regeln, und das ISO-OSI-Modell hilft dabei, die Kommunikation zu organisieren.

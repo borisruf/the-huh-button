@@ -1,0 +1,9 @@
+Die Aussage erklärt, dass es in Netzwerken Zeit braucht, damit Informationen von einem Ort zum anderen gelangen. Diese Zeit setzt sich aus mehreren Teilen zusammen:
+
+1. **Signallaufzeit**: Das ist die Zeit, die das Signal braucht, um sich durch das Netzwerk zu bewegen. Man kann sich das wie ein Lichtsignal vorstellen, das von einem Punkt zum anderen reist.
+
+2. **Übertragungszeit**: Dies ist die Zeit, die benötigt wird, um die Daten von einem Gerät an ein anderes zu senden.
+
+3. **Verarbeitungszeit**: Das ist die Zeit, die Computer oder andere Geräte brauchen, um die Informationen zu empfangen und zu verarbeiten. Jedes Gerät, das an der Übertragung beteiligt ist, benötigt ein bisschen Zeit, um die Daten zu verstehen und weiterzugeben.
+
+Insgesamt zeigen diese Zeiten, dass es nicht sofort möglich ist, Informationen über das Netzwerk zu schicken. Es dauert eine gewisse Zeit, bis alles verarbeitet und übertragen ist.

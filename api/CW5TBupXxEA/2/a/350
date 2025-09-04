@@ -1,0 +1,11 @@
+In einfachen Worten erklärt, geht es in der Aussage darum, wie Informationen beim Verschicken von E-Mails in einem Netzwerk organisiert werden. 
+
+Stell dir vor, das Versenden einer E-Mail ist wie ein Paket, das du verschickst. Damit das Paket gut ankommt, wird es in verschiedene Schichten eingepackt, die alle wichtige Infos haben, damit die Leute wissen, was im Paket ist und wohin es geht.
+
+1. **Transport-Schicht:** Diese Schicht ist wie die erste Ebene des Pakets. Sie hilft dabei, das Paket durch das Netzwerk zu bringen. Sie sorgt dafür, dass die E-Mail sicher und schnell ankommt.
+
+2. **Darstellungs-Schicht:** Diese Schicht ist wie ein weiteres eingepacktes Papier um das Paket herum. Sie sagt, wie die Informationen in der E-Mail aussehen sollen, zum Beispiel ob sie als Text oder Bild kommen. 
+
+3. **Zusätzliche Informationen:** Bei jeder Schicht werden neue Infos, sogenannte "Header", hinzugefügt. Diese Header helfen den Systemen zu verstehen, was sie mit der E-Mail tun sollen.
+
+Insgesamt hilft dieses Schichtenmodell, die komplexe Kommunikation beim E-Mail-Versand zu organisieren und sicherzustellen, dass alles richtig funktioniert, damit deine Nachricht an den richtigen Ort kommt.

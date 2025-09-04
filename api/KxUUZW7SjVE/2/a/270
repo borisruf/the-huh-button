@@ -1,0 +1,7 @@
+In diesem Text geht es um ein Modell, das erklärt, wie Daten in einem Netzwerk von einem Ort zum anderen geschickt werden. Das Modell hat sieben Schichten, und jede Schicht hat eine spezielle Aufgabe.
+
+Die Erklärung bezieht sich darauf, dass man die sieben Schichten des Modells durchgeht. Auf der linken Seite sind die Begriffe in Englisch und auf der rechten Seite in Deutsch. Diese Begriffe wird man im weiteren Verlauf ständig verwenden, um zu verstehen, worum es geht.
+
+Es wird auch beschrieben, wie Daten von einem Router verarbeitet werden. Wenn Daten ankommen, schaut der Router nur bis zur dritten Schicht des Modells. Dort entfernt er die zusätzlichen Informationen, die bei den anderen Schichten hinzugefügt wurden. Das nennt man "Entkapselung". Dann sucht der Router nach der Adresse, wohin die Daten weitergeschickt werden sollen, und packt sie wieder ein, damit sie weiter geschickt werden können.
+
+Zusammenfassend handelt der Text von der Funktionsweise eines Netzwerks und den verschiedenen Schichten, wie Daten verarbeitet und weitergeleitet werden.

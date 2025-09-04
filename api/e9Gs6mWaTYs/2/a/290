@@ -1,0 +1,17 @@
+Die Aussage beschreibt einen Zugangspunkt (Access-Point), der zwei Schichten eines Funksystems hat. Eine dieser Schichten wird weiter in zwei Teile unterteilt. 
+
+Um das zu verstehen, stellen wir uns das so vor:
+
+1. **Access-Point**: Das ist wie ein Brücke, die es Geräten erlaubt, sich miteinander zu verbinden und Informationen auszutauschen.
+
+2. **Schichten**: Man kann sich die Kommunikation in Netzwerken wie Stockwerke eines Hauses vorstellen. Jedes Stockwerk hat seine eigenen Aufgaben.
+
+3. **Zwei Schichten**: Hier sprechen wir über zwei „Stockwerke“ der Kommunikation:
+   - Das erste Stockwerk (oder Layer) kümmert sich um die Verbindung und den Austausch von Informationen.
+   - Das zweite Stockwerk (die Schicht 2) ist in zwei kleine Bereiche unterteilt.
+
+4. **Unterteilung in LLC und MAC-Layer**: Dies bedeutet, dass die zweite Schicht noch zwei spezielle Aufgaben hat:
+   - **LLC (Logical Link Control)**: Das hilft den Geräten, sich zu organisieren, damit sie wissen, wer mit wem spricht.
+   - **MAC-Layer (Media Access Control)**: Das sorgt dafür, dass alle Geräte fair um die Zeit kämpfen, um ihre Nachrichten zu senden, damit nicht zu viele zur gleichen Zeit senden und sich stören.
+
+Zusammengefasst: Der Access-Point hat zwei Hauptfunktionen zur Kommunikation, und eine dieser Funktionen hat noch zwei spezielle Aufgaben.

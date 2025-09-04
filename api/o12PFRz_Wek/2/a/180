@@ -1,0 +1,13 @@
+In der Erklärung geht es darum, verschiedene Arten von Netzwerken zu beschreiben. Netzwerke sind wie Straßen, die Geräte (wie Computer oder Handys) miteinander verbinden, damit sie Daten austauschen können. 
+
+1. **Kleine Netzwerke (PANs)**: Das sind sehr kleine Netzwerke, die für Dinge wie Smartwatches oder Fitnessarmbänder gedacht sind. Sie sind nur ein bisschen größer als die Verbindung zwischen deinem Handy und deiner Uhr.
+
+2. **Mittlere Netzwerke (LANs)**: Diese Netzwerke sind ein bisschen größer, zum Beispiel die Netzwerke in einem Büro oder einem kleinen Gebäude. Hier können viele Geräte miteinander verbunden sein.
+
+3. **Große Netzwerke (WANs)**: Diese Netzwerke sind riesig und können viele Städte oder sogar Länder verbinden. Man kann sich das wie eine große Straße vorstellen, die weit über eine Region hinausführt.
+
+4. **Weltumspannende Netzwerke (GANs)**: Das sind Netzwerke, die die ganze Welt verbinden, wie das Internet.
+
+Der Text erklärt auch, dass es Unterschiede gibt, wie diese Netzwerke arbeiten. In kleinen Netzwerken können Geräte direkt miteinander verbunden sein, während große Netzwerke oft verschiedene Wege und Anschlüsse nutzen, um miteinander zu kommunizieren.
+
+Am Ende wird erwähnt, dass wir mehr über die Struktur und das Design dieser Netzwerke lernen werden, was in der Topologie behandelt wird. Topologie hilft uns zu verstehen, wie die Geräte in einem Netzwerk verbunden sind und wie sie miteinander kommunizieren.

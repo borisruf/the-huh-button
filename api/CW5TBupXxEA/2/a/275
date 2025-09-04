@@ -1,0 +1,11 @@
+Die Aussage erklärt, wie Informationen in einer E-Mail aufbereitet werden, damit sie beim Empfänger richtig angezeigt werden können. 
+
+Wenn du eine E-Mail schreibst, wird sie in verschiedene Teile zerteilt, die dann nacheinander verarbeitet werden. Hier sind die wichtigsten Punkte einfach erklärt:
+
+1. **Darstellung der Daten**: Es wird beschrieben, wie genau die Inhalte der E-Mail aussehen sollen. Das ist wichtig, damit die Informationen (zum Beispiel Text oder Bilder) beim Empfänger genau so angezeigt werden, wie du es dir vorstellst.
+
+2. **Kodierung**: Es wird erklärt, in welchem Format die Daten gespeichert sind. Zum Beispiel kann Text in speziellen Zeichen (ASCII-Code) umgewandelt werden, sodass Computer ihn verstehen. 
+
+3. **Bilder im Anhang**: Wenn in der E-Mail Bilder sind (wie ein JPEG-Bild), wird auch hier beschrieben, wie sie behandelt werden. Es wird darauf geachtet, dass die Bilder gut komprimiert (also kleiner gemacht) oder eventuell auch verschlüsselt (also geheim gehalten) sind.
+
+Insgesamt hilft diese Aufteilung, dass die E-Mail von einem Programm zum anderen geschickt werden kann und dass alles beim Empfänger so ankommt, wie es gemeint ist.

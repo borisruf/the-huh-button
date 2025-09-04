@@ -1,0 +1,9 @@
+Der Access-Point ist wie ein Vermittler für Daten, die zwischen Geräten gesendet werden. Er sorgt dafür, dass Informationen richtig übermittelt werden. 
+
+In der Erklärung wird gesagt, dass der Access-Point zwei wichtige Ebenen hat. Diese Ebenen helfen uns zu verstehen, wie die Kommunikation funktioniert. 
+
+Eine dieser Ebenen, Schicht 2, ist in zwei Teile unterteilt: 
+1. **Logical Link Control (LLC)**: Das ist der Teil, der dafür sorgt, dass die Datenverbindung stabil bleibt und die Geräte wissen, wann sie senden oder empfangen können.
+2. **MAC-Layer**: Dieser Teil kümmert sich um die Adresse der Geräte, damit die Daten auch an das richtige Gerät geschickt werden. 
+
+Die Aussage sagt also, dass der Access-Point nicht nur eine einfache Aufgabe hat, sondern in verschiedene Teile unterteilt ist, um die Kommunikation besser zu steuern und zu organisieren.

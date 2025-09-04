@@ -1,0 +1,15 @@
+Okay, ich erkläre das ganz einfach:
+
+Wenn wir eine E-Mail senden, geht sie durch viele Schritte, wie in einer Art Treppe. Diese Schritte sind verschiedene Schichten, die uns helfen, die E-Mail sicher und richtig zu verschicken.
+
+1. **Daten packen**: Bevor die E-Mail losgeht, wird sie in kleine Pakete gepackt mit zusätzlichen Infos, die sagen, wo die E-Mail hin soll.
+
+2. **Router**: Die Pakete reisen dann durch Router, das sind Geräte, die helfen, die Pakete im Internet weiterzuleiten. Jeder Router schaut sich die Pakete an, um zu entscheiden, wo sie als Nächstes hin müssen. Er entfernt die zusätzlichen Infos, schickt die Pakete weiter und fügt genauere Adressen hinzu.
+
+3. **Ankommen beim E-Mail-Server**: Schließlich kommen die Pakete beim E-Mail-Server (der Ort, wo die E-Mails gespeichert werden) an. Auch hier schaut der Server, ob die Pakete für ihn sind und entpackt sie wieder.
+
+4. **TCP-Port**: Um die E-Mail richtig zu empfangen, braucht der Server einen speziellen "TCP-Port". Das ist wie eine Eingangstür für E-Mails.
+
+5. **Fertig!**: Jetzt ist die E-Mail auf dem Server, bereit, um später von jemandem abgerufen zu werden. Das alles passiert durch die Schritte in diesem System, das viele Schichten hat, damit alles gut funktioniert.
+
+So sehen wir, dass die E-Mail durch verschiedene Schichten und Geräte geht, bis sie beim richtigen Ort ankommt.

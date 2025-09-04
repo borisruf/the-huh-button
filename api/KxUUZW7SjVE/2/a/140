@@ -1,0 +1,11 @@
+Stell dir vor, Daten sind wie ein Paket, das du versendest. Wenn das Paket bei einem Router ankommt, macht der Router Folgendes:
+
+1. **Paket öffnen**: Er schaut sich das Paket an und entfernt die Verpackung, um nur den wichtigen Inhalt zu sehen.
+  
+2. **Daten prüfen**: Der Router schaut in verschiedene Etagen des Pakets, um herauszufinden, woher es kommt und wo es hin soll. Er sieht die Adresse (IP-Adresse) und hilft, das Paket an den richtigen Ort zu schicken.
+
+3. **Neue Adresse draufkleben**: Bevor das Paket weitergeschickt wird, packt der Router es wieder ein und klebt die Adresse für den nächsten Router drauf.
+
+4. **Paket weitergeben**: Dann schickt er das Paket zum nächsten Router.
+
+Manchmal sind da viele Router hintereinander, und das Paket wird immer wieder geöffnet und wieder neu verpackt, bis es schließlich beim Empfänger ankommt.

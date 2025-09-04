@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass man die Zeit misst, die es braucht, um Informationen von einem Computer zu einem anderen und wieder zurück zu senden. Man nennt diese Zeit "Roundtrip-Zeit". 
+
+Um die Zeit zu messen, verwendet man ein spezielles Programm, das "Ping" heißt. Man schickt eine Nachricht an einen anderen Computer und schaut, wie lange es dauert, bis die Antwort zurückkommt. Diese Zeiten helfen uns zu verstehen, wie schnell die Verbindung zwischen den beiden Computern ist.

@@ -1,0 +1,7 @@
+In der Aussage geht es um ein Beispiel, wie verschiedene Dienste in einem Netzwerk miteinander arbeiten. 
+
+Stell dir vor, wir haben verschiedene Schichten wie in einem Kuchen. Jede Schicht hat eine spezielle Aufgabe. Wenn jemand einen Dienst braucht, fragt er die Schicht direkt unter ihm. Das ist wie wenn du einen Kuchen anschneidest, um ein Stück zu bekommen. 
+
+So funktioniert das im Netzwerk: Ein Benutzer möchte etwas machen, zum Beispiel Informationen senden. Um das zu tun, stellt er eine Anfrage an die nächste Schicht, die ihm helfen kann. Diese Schichten arbeiten zusammen, damit alles gut klappt. 
+
+Einfach gesagt: Wenn du etwas im Netzwerk machen möchtest, fragst du die Schicht darunter, die dafür zuständig ist. So gehen die Informationen von einer Schicht zur anderen, bis sie beim Empfänger ankommen.

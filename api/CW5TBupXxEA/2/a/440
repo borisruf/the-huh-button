@@ -1,0 +1,13 @@
+Okay, lass uns das einfach erklären:
+
+In einem Netzwerk gibt es verschiedene Schichten, die dafür sorgen, dass Daten von einem Computer zum anderen geschickt werden. Eine wichtige Idee ist, dass Daten in "Rahmen" (Frames) verpackt werden.
+
+Ein Rahmen hat zwei wichtige Teile: 
+1. **Header** (das ist wie eine Adresse oder ein Schild, das erklärt, was im Rahmen steckt und wohin die Daten gehen sollen).
+2. **Trailer** (das ist wie ein zusätzliches Schild, das oft Informationen darüber gibt, dass alles richtig angekommen ist).
+
+Zusammen bilden der Header und der Trailer den Rahmen, in den die Daten gesteckt werden.
+
+Außerdem kümmert sich eine bestimmte Schicht darum, wie die Computer auf die Verbindung zugreifen können, also wie sie den Weg für die Daten nutzen können. Das passiert auf der sogenannten Sicherungsschicht. Diese Schicht ist wichtig dafür, dass die Daten sicher und ohne Probleme von einem Ort zum anderen gelangen. 
+
+So kann man sich das vorstellen: Wenn du einen Brief schickst, braucht der Brief einen Umschlag (das ist der Rahmen) mit einer Adresse (das ist der Header) und manchmal auch eine Bestätigung, dass der Brief angekommen ist (das ist der Trailer). Und die Post kümmert sich darum, dass dein Brief sicher zugestellt wird (das ist die Sicherungsschicht).

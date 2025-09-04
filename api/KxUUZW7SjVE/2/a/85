@@ -1,0 +1,11 @@
+In dieser Aussage geht es darum, wie ein Router funktioniert, wenn er Daten empfängt.
+
+Stell dir vor, der Router bekommt ein Paket mit Informationen. Zuerst schaut er sich den Inhalt des Pakets ganz genau an. 
+
+1. **Signal-Dekodierung:** Er schaut sich die kleinsten Teile des Pakets an, die aus Einsen (1) und Nullen (0) bestehen. Das nennt man "Signal-Dekodierung". Hier erkennt er, wie die Daten übertragen wurden.
+
+2. **Zweite Schicht - MAC-Adressen:** Danach schaut er auf die nächste Ebene, die Information über Computer-Adressen enthält, die MAC-Adressen genannt werden. Diese Adressen sind wichtig, um die Daten an den richtigen Ort zu schicken.
+
+Der Router kümmert sich nur um die ersten drei Ebenen von Informationen. Er entfernt alles andere, was nicht für ihn wichtig ist, damit er die Daten richtig verarbeiten und weiterleiten kann.
+
+Am Ende möchte der Router sicherstellen, dass die Daten genau dorthin gelangen, wo sie hin sollen.

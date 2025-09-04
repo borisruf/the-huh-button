@@ -1,0 +1,7 @@
+Die Aussage besagt, dass der "Durchsatz" ein Maß für die tatsächliche Leistung eines Netzwerks ist. Er zeigt, wie viele Daten (in Form von Bits) pro Sekunde wirklich übertragen werden können. 
+
+Wenn wir von "Bandbreite" sprechen, meinen wir oft die maximale Menge an Daten, die ein Netzwerk theoretisch übertragen kann. Man kann sich das wie eine breite Straße vorstellen: Je breiter die Straße, desto mehr Autos (Daten) können gleichzeitig fahren.
+
+Der Durchsatz sagt uns jedoch, wie viele Autos tatsächlich auf der Straße fahren, nachdem man alle möglichen Hindernisse und Staus berücksichtigt hat. In der Praxis sind Durchsatz und Bandbreite wichtige Begriffe, wenn wir über die Geschwindigkeit und Leistung von Netzwerken sprechen. 
+
+Kurz gesagt: Bandbreite ist das theoretische Maximum der Übertragung, während der Durchsatz zeigt, was wirklich passiert.

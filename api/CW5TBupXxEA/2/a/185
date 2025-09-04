@@ -1,0 +1,3 @@
+In dieser Aussage geht es darum, wie das Senden einer E-Mail funktioniert. Stell dir vor, du schreibst eine E-Mail, das ist wie einen kurzen Brief, den du an jemanden schicken möchtest. Die "Anwendungsschicht" ist eine der Schichten in einem speziellen Modell, das hilft zu verstehen, wie Computer miteinander kommunizieren.
+
+Wenn du deine E-Mail schreibst, kümmert sich die Anwendungsschicht darum, dass alles bereit ist, um die Nachricht zu verschicken. Sie sorgt dafür, dass was, was du geschrieben hast, richtig übertragen wird. Man kann sich das wie eine Etage in einem Gebäude vorstellen: Du bist auf der obersten Etage (der Anwendungsschicht), und von dort aus schickst du deine Nachricht nach unten durch die anderen Etagen, bis sie beim richtigen Empfänger ankommt.

@@ -1,0 +1,7 @@
+Der Access-Point hat zwei wichtige Teile. Er hilft, Informationen zwischen Geräten auszutauschen. Diese Teile sind wie Schichten in einem Kuchen.
+
+Die erste Schicht hilft, die Verbindung zwischen Geräten herzustellen und zu halten. Sie sorgt dafür, dass die Geräte miteinander sprechen können.
+
+Die zweite Schicht ist in zwei Teile unterteilt. Der erste Teil heißt Logical Link Control (LLC). Er kümmert sich um die Regeln, wie die Daten zwischen den Geräten ausgetauscht werden. Der zweite Teil heißt MAC-Layer. Er arbeitet mehr mit den physikalischen Details, wie die Daten über das Netzwerk gesendet werden.
+
+Zusammen sorgen diese Schichten dafür, dass alles richtig funktioniert, während Geräte miteinander kommunizieren.

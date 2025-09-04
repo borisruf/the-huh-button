@@ -1,0 +1,5 @@
+In einfachen Worten bedeutet die Aussage, dass alles, was wir bis jetzt über Netzwerke und Kommunikation gelernt haben, mit Logik und Software zu tun hat. Auch wenn in der Sicherungsschicht Dinge passieren, die schon in der Hardware festgelegt sind, bleibt es trotzdem logisch. 
+
+Man kann sich das so vorstellen: Wenn wir eine Nachricht, wie eine E-Mail, von einem Computer zu einem anderen schicken, geschieht das in mehreren Schichten, wie in einem mehrstöckigen Gebäude. Jede Schicht hat ihre eigene Aufgabe und stellt sicher, dass die Nachricht richtig übertragen wird. 
+
+Es ist alles sehr strukturiert und organisiert, sodass die Daten, auch wenn sie physisch über Kabel oder Hardware gesendet werden, in einer logischen Art und Weise behandelt werden. Die gesamte Kommunikation basiert auf Regeln und Protokollen, die sicherstellen, dass alles funktioniert.

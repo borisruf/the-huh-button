@@ -1,0 +1,7 @@
+Im Text geht es um Netzwerke und wie Computer miteinander kommunizieren. Es gibt verschiedene Regeln, die man Protokolle nennt. Diese Regeln helfen den Computern, sich zu verbinden, Informationen zu senden und Fehler zu behandeln. 
+
+Der Access-Point ist ein Teil eines Netzwerks, der die Verbindung zwischen verschiedenen Geräten ermöglicht. Man kann sich das wie einen Torwächter vorstellen, der den Zugang zu einem Fußballfeld regelt. Hier wird gesagt, dass der Access-Point zwei „Schichten“ hat, die verschiedene Aufgaben erfüllen.
+
+Eine dieser Schichten, die „Schicht 2“, ist nochmal in zwei Bereiche unterteilt: die Logical Link Control (LLC) und den MAC-Layer. Man kann sich diese beiden Bereiche vorstellen wie spezielle Teams im Fußball. Das eine Team sorgt dafür, dass alle Spieler wissen, wo sie hinlaufen müssen (LLC), und das andere Team kümmert sich um die genaue Regelung, wie der Ball (also die Informationen) gespielt wird (MAC-Layer).
+
+Zusammengefasst: Der Access-Point arbeitet in zwei Schichten, um sicherzustellen, dass Informationen richtig und ohne Fehler zwischen Geräten gesendet werden. Die unterteilte Schicht 2 hat spezielle Aufgaben, die helfen, alles gut zu organisieren.

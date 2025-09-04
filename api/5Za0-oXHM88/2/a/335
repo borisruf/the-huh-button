@@ -1,0 +1,8 @@
+Die Aussage spricht über zwei wichtige Dinge, wenn es um Netzwerke und die Übertragung von Daten geht: Bandbreite und Verzögerung. 
+
+- **Bandbreite** ist ein Maß dafür, wie viele Daten pro Sekunde gesendet werden können, also wie "breit" der "Datenweg" ist.
+- **Verzögerung** oder **Latenz** ist die Zeit, die es dauert, bis die Daten von einem Punkt zum anderen gelangen. 
+
+Jetzt gibt es eine Kenngröße, die diese beiden Dinge zusammenfasst: das **Verzögerungsbandbreite-Produkt**. Das bedeutet einfach, dass man die Bandbreite und die Verzögerung miteinander multipliziert, um zu sehen, wie gut oder schnell ein Netzwerk Daten übertragen kann. Wenn man diese beiden Faktoren kennt, kann man besser verstehen, wie leistungsfähig ein Netzwerk ist.
+
+Zusammengefasst: Das Verzögerungsbandbreite-Produkt hilft uns zu verstehen, wie schnell und effizient Daten über ein Netzwerk übertragen werden können, indem es zeigt, wie die Geschwindigkeit (Bandbreite) und die Zeit (Verzögerung) zusammenhängen.

@@ -1,0 +1,15 @@
+Stell dir vor, der Router ist wie ein Postamt. Wenn die Daten (Briefe) beim Router ankommen, macht der Router Folgendes:
+
+1. **Entpacken**: Zuerst öffnet der Router den Brief, um zu sehen, was drin ist. Das nennt man Entkapselung. Er entfernt die äußeren Hüllen, die die Daten beim Transport geschützt haben.
+
+2. **Bitfolge anschauen**: Er schaut sich die kleinen Einsen und Nullen an, die die Daten bilden. Das ist die Sprache, die Computer verstehen.
+
+3. **MAC-Adressen prüfen**: Dann schaut er, wohin die Daten ursprünglich geschickt werden sollten. Hierzu findet er eine spezielle Adresse, die MAC-Adresse. Das ist wie die Adresse eines Hauses.
+
+4. **IP-Adressen anschauen**: Jetzt geht er einen Schritt weiter und findet die IP-Adresse, die sagt, wo die Daten hin müssen. Das ist die Adresse, die im Internet verwendet wird.
+
+5. **Entscheidung treffen**: Mit diesen Informationen entscheidet der Router, wohin die Daten als Nächstes gesendet werden sollen, also wie der Weg weitergeht.
+
+6. **Wieder verpacken**: Danach packt er die Daten wieder ein, damit sie sicher weiterreisen können.
+
+Insgesamt läuft also alles von der IP-Adresse (dritte Schicht) zurück zu den Signalen, die auf dem Kabel sind. Der Router arbeitet also schrittweise, indem er die eingehenden Daten verarbeitet und dann zu einem neuen Paket für die Weitergabe macht.

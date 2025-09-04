@@ -1,0 +1,16 @@
+Stell dir vor, du möchtest Informationen aus dem Internet holen, zum Beispiel eine Webseite anschauen. Das passiert meistens mit einem Programm, das wir Web-Browser nennen, wie Google Chrome oder Firefox.
+
+Bevor die Informationen zwischen deinem Computer und dem Server, der die Webseite speichert, ausgetauscht werden können, gibt es Regeln. Diese Regeln nennt man Protokolle. Sie sorgen dafür, dass dein Computer und der Server genau wissen, wie sie miteinander reden sollen. Man kann sich das wie eine Sprache vorstellen, die beide Seiten sprechen müssen, damit alles klappt.
+
+Es gibt auch Standards, die wie Vereinbarungen sind, die alle befolgen, um sicherzustellen, dass alles gleich funktioniert. Diese Standards werden von speziellen Gruppen festgelegt. Sie überprüfen zum Beispiel, ob eine neue Regel für den Austausch von Daten sinnvoll ist und ob sie von vielen verschiedenen Herstellern genutzt werden kann.
+
+Wenn du eine Webseite anforderst, passiert Folgendes: Dein Web-Browser sendet eine Anfrage an den Server. Das ist ein bisschen so, als würdest du ein Restaurant anrufen und nach dem Menü fragen. Der Server antwortet dann mit den Informationen, die du sehen möchtest, also der Webseite.
+
+Um all dies zu steuern, gibt es Protokolle, die festlegen:
+
+1. **Wie man eine Verbindung aufbaut**: Wie dein Computer und der Server "Hallo" sagen.
+2. **Wie man mit Fehlern umgeht**: Was passiert, wenn etwas schiefgeht, zum Beispiel die Verbindung verloren geht.
+3. **Wann etwas passiert**: Wann der Computer eine Nachricht schickt und wann der Server antwortet.
+4. **In welchem Format die Daten sind**: Ob es sich um Texte, Bilder oder Videos handelt.
+
+Diese Regeln und Standards helfen dabei, dass das Internet für alle gleich funktioniert und jeder die Informationen bekommt, die er möchte.

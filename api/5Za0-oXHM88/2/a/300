@@ -1,0 +1,9 @@
+Die Aussage spricht darüber, wie schnell Informationen in verschiedenen Netzwerken übertragen werden. 
+
+In einem lokalen Netzwerk, wo wir mit „Fast Ethernet“ arbeiten (was schnell ist, etwa 100 Megabit pro Sekunde), dauert es normalerweise nur eine Millisekunde, bis eine Nachricht geschickt und die Antwort zurückkommt. Das ist sehr schnell.
+
+Wenn wir aber Wi-Fi (WLAN) benutzen, dauert die Antwort länger. Hier sind es etwa 10 Millisekunden, was zehnmal so lange ist wie im lokalen Netzwerk.
+
+Das bedeutet, dass Wi-Fi langsamer ist als das lokale Netzwerk. Das liegt daran, wie die Signale gesendet werden und wie das WLAN funktioniert. 
+
+Zusammengefasst: Informationen gehen im lokalen Netzwerk superschnell (eine Millisekunde), während sie im WLAN etwas langsamer sind (zehn Millisekunden).

@@ -1,0 +1,3 @@
+Die Aussage besagt, dass man verschiedene Geräte, die miteinander verbunden sind, auf verschiedene Arten anordnen kann. Diese Anordnungen nennt man „Topologien“. Zum Beispiel können Geräte so angeordnet sein, dass sie wie ein Stern aussehen, wie eine Linie (Bus) oder wie ein Baum. 
+
+Jede dieser Anordnungen zeigt, wie die Geräte miteinander verbunden sind und ist ein wichtiges Merkmal (Charakteristikum) des Netzwerks. Man kann sich das vorstellen wie die Wegführung zwischen Häusern: Entweder gibt es einen zentralen Punkt, von dem alle Wege abgehen (wie ein Stern), eine lange Straße, an der viele Häuser stehen (wie ein Bus) oder eine Struktur, die viele Verzweigungen hat (wie ein Baum).

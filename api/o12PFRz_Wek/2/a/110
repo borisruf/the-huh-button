@@ -1,0 +1,15 @@
+Es gibt verschiedene Arten von Netzwerken, die sich danach unterscheiden, wie weit sie reichen. 
+
+1. **PAN (Personal Area Network)**: Das sind kleine Netzwerke, zum Beispiel wenn du dein Handy mit deiner Smartwatch verbindest. Sie funktionieren nur über kurze Entfernungen, wie in einem Raum oder in der Nähe.
+
+2. **LAN (Local Area Network)**: Das sind Netzwerke für ein bestimmtes Gebäude oder eine Gruppe von Gebäuden, wie zum Beispiel in einer Schule oder einem Büro. Hier können viele Geräte miteinander verbunden sein.
+
+3. **SAN (Storage Area Network)**: Das ist eine spezielle Art von LAN, die sich darauf konzentriert, große Datenmengen zu speichern und zu verwalten.
+
+4. **MAN (Metropolitan Area Network)**: Dies ist ein Netzwerk, das eine größere Stadt abdeckt. Es verbindet mehrere LANs in einer Stadt.
+
+5. **WAN (Wide Area Network)**: Dieses Netzwerk reicht über große Entfernungen, etwa zwischen verschiedenen Städten oder Ländern.
+
+6. **GAN (Global Area Network)**: Das ist das größte Netzwerk, es verbindet Computer auf der ganzen Welt.
+
+Diese Netzwerke unterscheiden sich also hauptsächlich darin, wie weit sie Daten übertragen können.

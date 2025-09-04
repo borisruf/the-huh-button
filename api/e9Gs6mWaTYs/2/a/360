@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie Daten zwischen einem Computer (Client) und einem anderen Computer (Server) ausgetauscht werden. 
+
+1. **Zwei Richtungen**: Die Pfeile zeigen, dass die Informationen nicht nur in eine Richtung gehen. Wenn der Client etwas an den Server schickt, sendet der Server auch eine Antwort zurück. 
+
+2. **Das, was man sieht**: Die rote gestrichelte Linie zeigt nur einen Teil des gesamten Prozesses. Als Nutzer sieht man nur diese Linie. Aber hinter dieser Kommunikation passiert viel mehr in den Computern und im Netzwerk.
+
+3. **Hintergrund**: Im Hintergrund gibt es viele Regeln (Protokolle) und Standards, die festlegen, wie diese Kommunikation funktioniert. Diese Regeln helfen, damit alles reibungslos funktioniert, zum Beispiel, wie man eine Verbindung aufbaut, Fehler behandelt, den richtigen Zeitpunkt für den Austausch wählt und wie die Informationen codiert werden. 
+
+Insgesamt wird gesagt, dass der Austausch von Informationen komplex ist und viele Schritte und Regeln umfasst, auch wenn wir als Nutzer oft nur einen kleinen Teil davon im Blick haben.

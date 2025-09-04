@@ -1,0 +1,6 @@
+In der Erklärung geht es darum, wie Informationen in Computernetzen organisiert und übertragen werden. Stell dir vor, du schreibst eine E-Mail. Wenn du das machst, fügt dein Computer am Anfang und am Ende der E-Mail zusätzliche Informationen hinzu. 
+
+- **Header (Kopfteil):** Das ist wie eine Adresse auf einem Brief. Es sagt, um was es in der E-Mail geht und wer sie sendet.
+- **Trailer (Fußteil):** Das ist wie eine letzte Notiz, die am Ende des Briefes steht. Sie hilft dabei, die E-Mail korrekt abzuschließen.
+
+Zusammen bilden der Kopf- und der Fußteil einen **Frame** oder Rahmen, der die E-Mail einfasst. So weiß jeder im Netzwerk, wie die E-Mail richtig verschickt und empfangen wird.

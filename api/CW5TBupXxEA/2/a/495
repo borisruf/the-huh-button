@@ -1,0 +1,19 @@
+In dieser Erklärung geht es darum, wie Informationen in einem Netzwerk von einem Computer zu einem anderen geschickt werden. 
+
+Stell dir ein großes Gebäude vor, in dem die Information, wie eine E-Mail, von einem Raum in einen anderen gebracht werden muss. Um das zu organisieren, wird das in verschiedene "Schichten" unterteilt, wie wenn man mehrere Stockwerke eines Gebäudes hat. Jede Schicht hat eine spezielle Aufgabe.
+
+1. **Obere Schichten**: Hier fangen wir an. Zuerst macht der Benutzer eine E-Mail. Diese E-Mail wird dann mit speziellen Informationen ergänzt, damit jeder weiß, um welche Art von Nachricht es sich handelt (wie ein Briefkopf).
+
+2. **Darstellung**: Dann schaut man sich an, wie die E-Mail aussieht oder wie sie dargestellt wird. Das könnte zum Beispiel die Schriftart oder das Bild im Anhang sein.
+
+3. **Verbindungen**: Eine Schicht kümmert sich darum, dass die Verbindung zwischen den Computer gut ist – so als ob man sicherstellt, dass die Türen im Gebäude gut geschlossen sind.
+
+4. **Transport**: Eine nächste Schicht sorgt dafür, dass die E-Mail sicher und an den richtigen Ort geht – wie ein Fahrstuhl, der die E-Mail in den richtigen Stock bringt.
+
+5. **Adressen**: Und dann wird genauer darauf geachtet, wo die E-Mail hin soll, damit sie nicht in den falschen Raum kommt. Hier gibt es Adressen für den Sender und den Empfänger, damit alles richtig ankommt.
+
+6. **Sicherung**: Eine Schicht kümmert sich darum, dass nichts verloren geht oder kaputt geht, während die E-Mail von einem Computer zum anderen geschickt wird.
+
+7. **Physikalische Schicht**: Am Ende, auf der letzten Schicht, wird die E-Mail in ein Signal umgewandelt, das durch Kabel oder Wellen gesendet werden kann. Das ist wie eine echte Tür, die die E-Mail tatsächlich von einem Gebäude zum anderen bringt.
+
+Also, alles ist sehr organisiert in Schichten, damit die E-Mail sicher, richtig und schnell ankommt.

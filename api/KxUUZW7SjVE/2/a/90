@@ -1,0 +1,7 @@
+Der Text beschreibt, wie ein Router mit Daten umgeht, die er empfängt. Hier ist die Erklärung in ganz einfacher Sprache:
+
+Wenn Daten gesendet werden, sind sie wie ein Paket mit vielen Schichten. Der Router bekommt dieses Paket und schaut zuerst, was drinnen ist. 
+
+Zuerst schaut er auf die allerunterste Schicht. Hier schaut er sich die Signale an, die die Daten darstellen. Danach geht er zur nächsten Schicht, wo er bestimmte Adressen findet, die sagen, wohin die Daten gehen sollen. 
+
+Der Router kümmert sich nur um die ersten drei Schichten dieser Daten. Er entfernt all die zusätzlichen Informationen, die in den Schichten darüber sind, damit er die wichtigen Daten erkennen kann. So kann er die Daten richtig weiterleiten, wohin sie geschickt werden sollen.

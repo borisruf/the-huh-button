@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es wichtig ist, Regeln festzulegen, wie Computer und Netzwerke auf Probleme reagieren sollen, die während der Kommunikation auftreten können. 
+
+Wenn zwei Computer miteinander sprechen, müssen sie sich nicht nur darauf einigen, wie sie Informationen austauschen, sondern auch, was passiert, wenn etwas nicht richtig läuft, zum Beispiel wenn eine Nachricht verloren geht oder fehlerhaft ist. 
+
+Diese Vereinbarungen helfen sicherzustellen, dass alle Geräte im Netzwerk verstehen, wie sie sich verhalten sollen, wenn ein Fehler passiert. Wenn also ein Problem auftritt, wissen die Computer genau, was sie tun müssen, um das Problem zu lösen oder die Verbindung wiederherzustellen.

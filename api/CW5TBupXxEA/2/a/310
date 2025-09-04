@@ -1,0 +1,8 @@
+Die Aussage besagt, dass es eine spezielle Schicht in einem Kommunikationsmodell gibt, die dafür sorgt, dass eine Verbindung zwischen Geräten richtig funktioniert. Diese Schicht heißt „Sitzungsschicht“. 
+
+Sie kümmert sich um folgende Punkte:
+- Wie wird die Verbindung zwischen zwei Geräten aufgebaut? 
+- Wie bleibt die Verbindung aktiv, damit die Geräte miteinander kommunizieren können?
+- Unter welchen Bedingungen wird die Verbindung wieder getrennt?
+
+Das bedeutet, die Sitzungsschicht hilft dabei, sicherzustellen, dass alles reibungslos funktioniert, wenn zwei Geräte Informationen austauschen.

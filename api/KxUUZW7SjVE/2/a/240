@@ -1,0 +1,24 @@
+Okay! Lass uns das Schritt für Schritt einfach erklären.
+
+1. **Daten senden und empfangen**: Wenn wir Daten senden, zum Beispiel eine E-Mail, dann passiert das in kleineren Teilen, die man „Pakete“ nennt.
+
+2. **Router**: Diese Pakete kommen zu einem Gerät, das Router genannt wird. Der Router hilft, die Daten an den richtigen Ort zu bringen.
+
+3. **Entpacken der Daten**: Der Router schaut sich die Pakete an und entfernt alle zusätzlichen Informationen, die nicht mehr benötigt werden. Das nennt man „Entkapselung“.
+
+4. **Was der Router tut**:
+   - Zuerst schaut er sich die Signale an und wandelt sie in eine Serien von Einsen und Nullen um (das nennt man Bitfolge).
+   - Dann sieht er, welche MAC-Adresse (eine Art ID für Geräte im Netzwerk) im Paket ist. Das ist wichtig, um zu wissen, ob die Daten für ihn oder ein anderes Gerät bestimmt sind.
+   - Schließlich schaut er sich die IP-Adresse an. Die IP-Adresse sagt dem Router, wo die Daten hin müssen.
+
+5. **Entscheidungen treffen**: Basierend auf diesen Informationen entscheidet der Router, wohin das Paket als Nächstes geschickt wird.
+
+6. **Daten verpacken**: Danach verpackt der Router die Daten wieder in das richtige Format, inklusive der MAC- und IP-Adressen.
+
+7. **Weg durch mehrere Router**: Die Pakete können unterwegs durch viele Router gehen, die alle ähnlich arbeiten. Jeder Router bringt die Pakete an den nächsten Ort.
+
+8. **An dem Ziel ankommen**: Schließlich erreichen die Pakete den E-Mail-Server. Auch dort muss wieder alles entpackt werden, um die Nachricht sichtbar zu machen.
+
+9. **Überprüfung der Adressen**: Am E-Mail-Server schaut man wieder, ob die Pakete für ihn sind, indem die MAC-Adresse und IP-Adresse überprüft werden. So kann der Server die Daten an die richtige Stelle weiterleiten.
+
+Zusammengefasst: Der Router hilft, Daten zu schicken, indem er sie entpackt, Informationen überprüft und sie wieder in ein neues Format verpackt, damit sie an den richtigen Ort gelangen.

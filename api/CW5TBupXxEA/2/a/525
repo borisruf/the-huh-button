@@ -1,0 +1,12 @@
+In dieser Erklärung geht es darum, wie Computer miteinander kommunizieren, und wir verwenden ein einfaches Modell, um das zu verstehen. Man kann sich das wie sieben Schichten vorstellen, die übereinander liegen. Jede Schicht hat eine besondere Aufgabe, um eine Nachricht von einem Computer zu einem anderen zu schicken.
+
+Jetzt kommt die unterste Schicht ins Spiel, die man auch die physikalische Schicht nennt. Hier ist es wichtig, dass die Daten, die wir schicken wollen, tatsächlich über Kabel oder andere Medien gesendet werden können. Wir sprechen nicht von „Vermittlungselementen“, die dafür sorgen, dass die Daten den richtigen Weg finden – das passiert in höheren Schichten. Stattdessen haben wir „Verbindungselemente“.
+
+Diese Verbindungselemente helfen dabei, die Daten richtig über das Medium zu senden. Beispiele für solche Verbindungselemente sind:
+
+- **Hub**: das verbindet viele Computer in einem Netzwerk.
+- **Repeater**: das verstärkt das Signal, damit es weiter reisen kann.
+- **Verstärker**: das macht das Signal stärker, sodass es nicht verloren geht.
+- **Modem**: das wandelt Daten um, damit sie über Telefonleitungen gesendet werden können.
+
+Zusammengefasst sorgt die unterste Schicht dafür, dass die Daten, die wir verschicken wollen, tatsächlich als Signale über Kabel oder Wellen gesendet werden, damit die anderen Computer sie empfangen können.

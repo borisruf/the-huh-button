@@ -1,0 +1,7 @@
+In einem Netzwerk gibt es zwei wichtige Arten von Topologien: die physikalische und die logische Topologie. 
+
+Die **physikalische Topologie** beschreibt, wie die Geräte (wie Computer und Drucker) tatsächlich miteinander verbunden sind, also zum Beispiel, ob sie alle an einem zentralen Punkt hängen (wie bei einem Stern).
+
+Die **logische Topologie** hingegen beschreibt, wie die Daten wirklich durch das Netzwerk fließen, also wie die Informationen gesendet werden. Manchmal kann das physikalische Layout anders sein als der Weg, den die Daten nehmen. Zum Beispiel: Wenn alle Computer an einem zentralen Punkt angeschlossen sind, aber die Daten sich so verhalten, als ob sie eine lange Linie (Bus) bilden, dann haben wir eine andere logische Topologie.
+
+Diese Unterschiede sind wichtig, weil sie zeigen, wie Netzwerke funktionieren und wie Informationen zwischen den Geräten ausgetauscht werden. Darüber hinaus werden wir die verschiedenen Schichten, die Netzwerke haben, genauer kennenlernen.

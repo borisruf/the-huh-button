@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es bestimmte Dienste gibt, die wir für die Kommunikation benutzen, und dass wir diese Dienste in verschiedene Schichten einteilen. Jede dieser Schichten hat ihre eigene Aufgabe und hilft uns, die Kommunikation einfacher und besser zu organisieren.
+
+Wenn jemand eine Nachricht senden möchte, fragt er die Dienste in der untersten Schicht nach Hilfe. Das nennt man eine „Dienstschicht“. Diese Schicht hat die Aufgabe, die nötigen Informationen zu bearbeiten oder weiterzugeben. 
+
+Um sicherzustellen, dass alles reibungslos funktioniert, müssen wir wissen, wie die Daten zwischen diesen Schichten ausgetauscht werden. Dafür gibt es bestimmte Regeln oder Vorgehensweisen, die wir befolgen müssen. 
+
+Zusammengefasst: Die Dienstschicht hilft uns, während der Kommunikation verschiedene Aufgaben zu übernehmen, und der Austausch der Informationen geschieht auf festgelegte Weise.

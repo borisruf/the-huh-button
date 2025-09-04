@@ -1,0 +1,5 @@
+In einem Netzwerk wollen wir, dass unsere Daten schnell und ohne Fehler übertragen werden. Eine wichtige Sache dabei ist die „Bandbreite“, die beschreibt, wie viel Daten in einer bestimmten Zeit gesendet werden können, zum Beispiel wie viele Bits pro Sekunde. 
+
+Aber es gibt auch andere Dinge, die die Geschwindigkeit beeinflussen, und eines davon ist die „Latenz“ oder Verzögerung. Das bedeutet, dass das Signal Zeit braucht, um sich von einem Ort zum anderen zu bewegen. 
+
+Zusammengefasst: Bandbreite sagt uns, wie viel wir senden können, und Latenz sagt uns, wie lange das Signal braucht, um zu reisen. Beides ist wichtig, damit Daten schnell und richtig ankommen.

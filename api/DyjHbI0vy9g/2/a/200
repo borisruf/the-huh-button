@@ -1,0 +1,15 @@
+Die Aussage beschreibt, wie Kommunikation in Netzwerken organisiert wird. Hier ist eine einfache Erklärung:
+
+Wenn Menschen oder Computer miteinander sprechen wollen, kann das ganz schön kompliziert werden. Um das einfacher zu machen, teilen wir die Kommunikation in verschiedene "Schichten" auf. Man kann sich das wie kleine Blätter in einem Stapel vorstellen.
+
+Jede Schicht hat eine bestimmte Aufgabe. Zum Beispiel:
+
+1. **Übersetzungs-Schicht:** Wenn jemand aus Südamerika auf Spanisch spricht und jemand aus Europa auf Deutsch, brauchen sie einen Übersetzer, um sich zu verstehen.
+
+2. **Sicherheits-Schicht:** Wenn die Informationen geheim bleiben sollen, brauchen wir eine Sicherheitsmaßnahme, die sie "verschlüsselt", also unleserlich macht für andere.
+
+3. **Übertragungs-Schicht:** Schließlich müssen wir die Daten irgendwie von A nach B bringen, wie durch ein Kabel oder das Internet.
+
+Jede Schicht hat spezielle "Zugriffspunkte", wo die verschiedenen Dienste ansetzen. Das bedeutet, dass die Kommunikation nicht nur von Person zu Person geht, sondern durch viele verschiedene Schichten und Dienste verläuft, bevor sie ankommt.
+
+Wenn man darüber nachdenkt, sieht man, dass Kommunikation nicht einfach ist. Man muss viele Dinge berücksichtigen und verschiedene Dienste nutzen, je nachdem, wie komplex die Kommunikation ist.

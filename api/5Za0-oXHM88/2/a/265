@@ -1,0 +1,17 @@
+Die Aussage beschreibt, wie lange es dauert, bis wir eine Antwort von einem Computer oder Server bekommen, nachdem wir ihm eine Frage oder Anfrage geschickt haben. 
+
+Hier sind die Schritte, die dabei wichtig sind:
+
+1. **Ein Signal senden**: Wenn du etwas an einen Server schickst (z.B. eine Anfrage), dann braucht das Signal Zeit, um zu ihm zu reisen. Das nennt man **Signallaufzeit**.
+
+2. **Daten übertragen**: Es gibt einen Zeitraum, in dem die Daten über das Netzwerk übertragen werden. Das ist die **Übertragungszeit**.
+
+3. **Verarbeiten der Anfrage**: Wenn der Server die Anfrage erhält, muss er Zeit brauchen, um sie zu verstehen und zu verarbeiten. Das nennt man **Verarbeitungszeit**.
+
+4. **Antwort senden**: Nachdem der Server die Anfrage bearbeitet hat, schickt er die Antwort zurück. Dieser Rückweg dauert ebenfalls Zeit, vergleichbar mit der ersten Signalreise.
+
+Wenn man all diese Zeiten zusammenzählt (Signallaufzeit, Übertragungszeit, Verarbeitungszeit für die Anfrage und dann das Gleiche für die Antwort), erhält man die **Latenz** oder Verzögerung.
+
+Wenn wir also auf die Antwort warten, nachdem wir die Anfrage geschickt haben, sprechen wir von der **Roundtrip-Zeit**. Das ist die gesamte Zeit, die benötigt wird, um die Anfrage zu senden, die Antwort zu verarbeiten und die Antwort zurückzuerhalten. 
+
+In einfachen Worten: Es geht darum, zu verstehen, wie lange es dauert, eine Frage an einen Computer zu stellen und die Antwort zurückzubekommen.

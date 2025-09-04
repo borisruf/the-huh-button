@@ -1,0 +1,15 @@
+Okay, ich erkläre das jetzt ganz einfach:
+
+Stell dir vor, es gibt zwei Computer: einer heißt Sender und der andere heißt Empfänger. Beide Computer haben etwas wie ein „Modell“, das hilft zu verstehen, wie sie miteinander sprechen. Dieses Modell hat mehrere Schichten, ähnlich wie ein Kuchen mit verschiedenen Schichten.
+
+Wenn der Sender Daten (wie eine Nachricht) schickt, wird diese Nachricht in Teile zerlegt, die man „Datenrahmen“ nennt. Diese Datenrahmen werden dann in Signale umgewandelt, so dass sie über Kabel oder das Internet geschickt werden können.
+
+Zwischendurch kommen diese Datenrahmen bei einem Router (das ist ein Gerät, das die Daten weiterleitet) an. Der Router schaut sich die Daten nur bis zur dritten Schicht des Modells an. Er „packt“ die Daten aus, um zu sehen, wohin die Nachricht gesendet werden soll. Dabei entfernt er zusätzliche Infos, die nicht mehr nötig sind.
+
+Der Router schaut sich die Adressen an, die in den Daten enthalten sind, und entscheidet, wohin er die Nachricht als Nächstes schicken soll. Dann „packt“ er die Nachricht wieder ein und versendet sie weiter.
+
+Das Ganze wiederholt sich, wenn die Nachricht durch mehrere Router wandert. Jedes Mal wird die Nachricht entpackt und wieder eingepackt, bis sie beim Empfänger ankommt.
+
+Am Ende wird die Nachricht beim Empfänger wieder in Signale umgewandelt, damit sie richtig angezeigt werden kann.
+
+Zusammengefasst sehen wir also, wie die beiden Computer (Sender und Empfänger) durch das Modell miteinander sprechen und sich dabei genau an die Regeln der verschiedenen Schichten halten.

@@ -1,0 +1,5 @@
+Die Sitzungsschicht ist wie ein Ordnungshüter für Verbindungen. Wenn du zum Beispiel eine E-Mail sendest, sorgt sie dafür, dass die Verbindung zwischen deinem Computer und dem E-Mail-Server richtig aufgebaut wird. 
+
+Stell dir vor, du möchtest jemanden anrufen. Zuerst wählst du die Nummer (das ist wie der Verbindungsaufbau). Dann sprichst du mit der Person (das ist das Aufrechterhalten der Verbindung). Wenn das Gespräch vorbei ist, legst du auf (das ist der Verbindungsabbau). 
+
+Die Sitzungsschicht macht genau das für den Datenverkehr im Internet: Sie sorgt dafür, dass alles reibungslos funktioniert, damit deine Informationen sicher von einem Ort zum anderen gelangen.

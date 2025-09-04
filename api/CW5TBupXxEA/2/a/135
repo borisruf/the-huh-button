@@ -1,0 +1,13 @@
+Die Aussage beschreibt, wie man die Kommunikation zwischen Geräten in kleine, überschaubare Teile unterteilen kann. Man vergleicht das mit einem Schichtenmodell, das aus sieben Schichten besteht. Dieses Modell hilft uns zu verstehen, wie eine E-Mail von einem Gerät, wie einem Computer oder Smartphone, zu einem E-Mail-Server gesendet wird.
+
+Stell dir vor, du möchtest eine Nachricht an einen Freund senden. Anstatt alles auf einmal zu machen, teilst du den Prozess in Schritte auf. Zum Beispiel:
+
+1. **Schicht 1:** Du schreibst die Nachricht.
+2. **Schicht 2:** Du gibst die E-Mail-Adresse deines Freundes ein.
+3. **Schicht 3:** Du drückst auf 'Senden'.
+4. **Schicht 4:** Dein Gerät verbindet sich mit dem Internet.
+5. **Schicht 5:** Die Nachricht wird über das Internet zu dem E-Mail-Server geschickt.
+6. **Schicht 6:** Der E-Mail-Server speichert die Nachricht.
+7. **Schicht 7:** Dein Freund kann schließlich die Nachricht abrufen.
+
+Jede Schicht hat ihre eigene Aufgabe und funktioniert mit den anderen Schichten zusammen. Das hilft, die komplexe Kommunikation einfacher zu verstehen und zu organisieren.

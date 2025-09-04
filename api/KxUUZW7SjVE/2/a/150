@@ -1,0 +1,13 @@
+Stell dir vor, du schickst einen Brief zu einem Freund, aber die Post muss ihn zuerst durch verschiedene Stellen bringen. 
+
+1. **Daten verpacken:** Zuerst packst du deinen Brief in einen Umschlag. Das heißt, du fügst dem Brief einige Infos hinzu, damit die Post ihn richtig weiterleiten kann. Das nennt man "Rahmen erzeugen".
+
+2. **Router wie Postämter:** Wenn die Post den Umschlag bekommt, schaut sie sich an, wo er hin muss. Ein Router ist wie ein Postamt, das entscheidet, wo der Brief als Nächstes hingehen soll. Es schaut auf die Adresse auf dem Umschlag (das ist die IP-Adresse) und die Adresse des Absenders, um zu wissen, wo der Brief herkommt.
+
+3. **Infos entfernen:** Der Router öffnet den Umschlag und entfernt einige der Infos, die du hinzugefügt hast. Das nennt man "Entkapselung". Er schaut sich die Daten an und findet wichtige Adressen.
+
+4. **Weg finden:** Der Router entscheidet, wo der Brief jetzt hingehen soll. Er sieht, welches der nächste Router ist, und packt den Brief wieder ein. Das ist wie das erneute Einpacken des Briefes für den nächsten Transport.
+
+5. **Wiederholen:** Dann wird der Brief weitergeschickt. Wenn er an einem weiteren Router ankommt, wird das Gleiche wieder gemacht: der Brief wird geöffnet, Infos werden entfernt, der nächste Weg wird gefunden, und der Brief wird wieder eingepackt.
+
+So funktioniert das mit den Daten im Internet. Sie werden gepackt, durch verschiedene Router geschickt, wo sie geöffnet und wieder gepackt werden, damit sie ans Ziel kommen.

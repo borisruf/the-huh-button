@@ -1,0 +1,9 @@
+In einfacheren Worten erklärt bedeutet der Text Folgendes:
+
+Wenn Menschen über Netzwerke sprechen, ist es wichtig, dass die Informationen schnell und ohne Fehler übertragen werden. Ein wichtiger Faktor dafür ist die Bandbreite. Bandbreite zeigt, wie viel Daten in einer bestimmten Zeit gesendet werden können, ähnlich wie eine breite Straße mehr Autos gleichzeitig aufnehmen kann.
+
+Man nimmt die Bandbreite oft als die Anzahl der Bits (sehr kleine Teile von Informationen) pro Sekunde. Es gibt eine theoretische Bandbreite, die sagt, wie viel man erwarten kann, aber in der Praxis ist das oft weniger, weil andere Dinge den Fluss der Daten verlangsamen können.
+
+Zusätzlich zur Bandbreite gibt es auch die Latenz, was bedeutet, wie lange es dauert, bis ein Signal von einem Ort zum anderen kommt. Das dauert eine bestimmte Zeit, weil das Signal durch verschiedene Geräte reisen muss und dort verarbeitet wird.
+
+In dem Diagramm sehen wir, dass ein Gerät (Client) eine Anfrage an ein anderes Gerät (Server) sendet.

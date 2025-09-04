@@ -1,0 +1,5 @@
+Ein Router ist ein Gerät, das hilft, Daten von einem Ort zum anderen zu schicken. Es arbeitet auf einer bestimmten Ebene, die die dritte Schicht im OSI-Modell heißt. 
+
+Das bedeutet, der Router kümmert sich nicht um alles, was darüber kommt, sondern schaut nur, was auf dieser dritten Ebene passiert. Wenn die Daten bei ihm ankommen, öffnet er sie, um zu sehen, was drin ist. So kann er die Informationen richtig weiterleiten. 
+
+In einfachen Worten: Der Router ist wie ein Postbote, der nur die Briefe anschaut, die ihm gegeben werden, und dann entscheidet, wo er sie hinbringen soll.

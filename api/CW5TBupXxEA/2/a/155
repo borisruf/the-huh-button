@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass es viele Probleme geben kann, wenn man zum Beispiel eine E-Mail von einem Gerät zum E-Mail Server schickt. Um diese Probleme besser zu verstehen und zu lösen, gibt es ein einfaches Modell, das die verschiedenen Teile des Prozesses in Schichten unterteilt. 
+
+Das Modell heißt ISO-OSI-Referenzmodell und es hilft, die komplizierte Kommunikation in kleinere, einfachere Teile zu zerlegen. So kann man genau sehen, wo Schwierigkeiten auftreten könnten. Man kann sich das wie eine mehrstöckige Torte vorstellen, bei der jede Schicht für einen bestimmten Teil des Kommunikationsprozesses steht. Wenn man weiß, welche Schicht für welches Problem zuständig ist, ist es einfacher, Lösungen zu finden.

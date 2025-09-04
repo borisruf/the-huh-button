@@ -1,0 +1,9 @@
+Okay, ich versuche das einfach zu erklären:
+
+Wenn Daten von einem Ort zu einem anderen geschickt werden, passieren viele Schritte. Zuerst werden die Daten in kleine Teile, die man "Rahmen" nennt, aufgeteilt. Diese Rahmen werden dann in ein Signal umgewandelt, das durch Kabel oder drahtlos gesendet werden kann. 
+
+Wenn die Daten bei einem Router ankommen, passiert Folgendes: Der Router schaut sich die Daten nur bis zu einem bestimmten Punkt an, nämlich bis zur dritten Schicht im OSI-Modell. Er schaut sich die Daten genau an und entfernt einige Informationen, die vorher hinzugefügt wurden. Das nennt man "Daten-Entkapselung".
+
+Der Router schaut zuerst auf die unterste Schicht, um das Signal zu verstehen. Dann geht er zur zweiten Schicht und findet die MAC-Adressen, die wie Adressen sind, um zu wissen, wohin die Daten geschickt werden sollen. Schließlich schaut er zur dritten Schicht, um die IP-Adressen zu sehen. Mit all diesen Informationen entscheidet der Router, wo die Daten als Nächstes hingehen.
+
+Nachdem der Router alles untersucht hat, packt er die Daten wieder zusammen, also fügen wir die IP-Adressen und MAC-Adressen wieder hinzu. Dann wandelt er die Daten erneut in ein Signal um, damit sie weitergeschickt werden können. So reisen die Daten von einem Ort zum anderen.

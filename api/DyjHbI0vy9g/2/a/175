@@ -1,0 +1,13 @@
+Stell dir vor, du bist im Ausland und willst mit jemandem sprechen, der eine andere Sprache spricht. Damit ihr euch versteht, braucht ihr jemanden, der die Sprache für euch übersetzt. Das ist so ähnlich wie in einem Netzwerk, wo Computer miteinander kommunizieren.
+
+Wenn zwei Computer Informationen austauschen wollen, müssen sie dafür einige Dinge erledigen:
+
+1. **Sprache übersetzen:** Wenn die Computer verschiedene „Sprachen“ sprechen (also unterschiedliche Programme oder Datenformate benutzen), brauchen sie einen Übersetzer. 
+
+2. **Geheim halten:** Manchmal möchten die Computer, dass ihre Nachrichten geheim bleiben. Dafür muss eine „Sicherungs-Schicht“ die Informationen verschlüsseln, also in eine Form bringen, die nur die richtigen Computer lesen können. 
+
+3. **Nachrichten senden:** Schließlich müssen die Computer die Informationen auch senden. Das braucht ein „Übertragungsmedium“ – wie ein Kabel oder WLAN.
+
+Um das Ganze einfach zu managen, wird die Kommunikation in verschiedene Schichten aufgeteilt. Jede Schicht hat ihre eigene Aufgabe, ähnlich wie bei einer zu schichtenden Torte. Diese Aufteilung hilft, alles besser zu organisieren.
+
+Zusammengefasst: Wenn zwei Computer miteinander reden wollen, brauchen sie Unterstützungsdienste wie Übersetzer, Sicherheitsmechanismen und Übertragungswege, um sich richtig und sicher zu verständigen. Und je mehr Aufgaben sie erledigen müssen, desto komplizierter wird es.

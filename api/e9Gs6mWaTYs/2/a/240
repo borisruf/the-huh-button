@@ -1,0 +1,15 @@
+In dieser Aussage wird erklärt, wie Informationen zwischen Computern ausgetauscht werden, zum Beispiel, wenn du eine Webseite besuchst. 
+
+Es gibt Regeln, die „Protokolle“ genannt werden. Diese Regeln helfen den Computern, miteinander zu sprechen. So wie man bestimmte Worte und Sätze braucht, um sich mit anderen Menschen zu unterhalten, brauchen Computer auch diese Regeln. 
+
+Außerdem gibt es „Standards“. Das sind allgemeine Vereinbarungen, die festlegen, wie Dinge gemacht werden sollen, damit alle Computer gleich verstehen, was gemeint ist. Diese Standards werden von bestimmten Gruppen festgelegt und aufgeschrieben, damit jeder sie einhalten kann.
+
+Wenn Computer Daten austauschen, gibt es einige wichtige Dinge, die sie beachten müssen: 
+1. Wann fangen sie an, sich zu verbinden? 
+2. Was passiert, wenn ein Fehler auftritt? 
+3. Wann hören sie auf, miteinander zu reden? 
+4. In welchem Format ist die Information? Zum Beispiel: Ist es ein Text, Bild oder Video?
+
+Um diese Standards festzulegen, gibt es auch eine Art Prüfungsprozess. Zuerst wird eine Idee für einen Standard aufgeschrieben und von anderen überprüft. Danach, wenn viele Leute zustimmen, wird dieser Standard offiziell. 
+
+Das Beispiel, das verwendet wird, zeigt, wie all diese Regeln und Standards auch bei der Anfrage an einen Web-Server funktionieren, so wie bei unserem vorherigen Beispiel mit E-Mails.

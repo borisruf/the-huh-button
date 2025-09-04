@@ -1,0 +1,5 @@
+In der Beschreibung geht es darum, wie Informationen wie E-Mails in einem Netzwerk gesendet werden. Um das besser zu verstehen, benutzen Experten ein Modell, das aus verschiedenen Schichten besteht, ähnlich wie bei einer Torte mit mehreren Schichten. 
+
+Die oberste Schicht, die heißt Anwendungsschicht, ist da, wo der Benutzer eine E-Mail schreibt. Wenn man eine E-Mail verschickt, fügt das Programm, das man dafür verwendet (zum Beispiel ein E-Mail-Client), zusätzliche Informationen hinzu. Diese Zusatzinformationen helfen, damit alle wissen, mit welchem Protokoll – also mit welchen Regeln – die E-Mail gesendet wird. 
+
+In diesem Beispiel wird das „Simple Mail Transfer-Protokoll“ verwendet. Das ist einfach eine Art von Regeln, die sagt, wie E-Mails über das Internet versendet werden. Diese zusätzlichen Daten sind wichtig, damit alles richtig funktioniert und die E-Mail beim Empfänger ankommt.

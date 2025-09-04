@@ -1,0 +1,7 @@
+Hier ist die Aussage in sehr einfacher Sprache erklärt:
+
+Die Sitzungsschicht ist ein Teil des Modells, das wir benutzen, um das Internet und die Kommunikation zwischen Computern besser zu verstehen. Ein Beispiel für ihr Nutzen ist, wenn wir E-Mails verschicken. 
+
+Diese Sitzungsschicht sorgt dafür, dass die Verbindung zwischen Computern aufgebaut wird, dass die Verbindung während des E-Mail-Versands bestehen bleibt und dass sie richtig beendet wird, wenn alles fertig ist. Sie hilft also dabei, dass die E-Mail von deinem Computer zu dem anderen Computer gelangt.
+
+Außerdem ist die Sitzungsschicht Teil eines Protokolls, das „Simple Mail Transfer Protocol“ heißt, kurz SMTP. Dieses Protokoll legt fest, wie E-Mails gesendet werden. Die Sitzungsschicht hilft also, die wichtigen Aufgaben im Hintergrund zu erledigen, während du einfach E-Mails schreibst und verschickst. Sie ist also ein wichtiger Teil des Modells, das die Kommunikation zwischen den Computern organisiert.

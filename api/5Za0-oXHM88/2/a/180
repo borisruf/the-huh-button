@@ -1,0 +1,5 @@
+In einem Netzwerk ist es wichtig, wie schnell und genau wir Daten übertragen können. Ein wichtiger Teil von dieser Geschwindigkeit nennt sich "Bandbreite". Man kann sich Bandbreite wie eine breite Autobahn vorstellen: Je breiter die Autobahn, desto mehr Autos (Daten) passen darauf und desto schneller können sie fahren.
+
+Es gibt aber noch etwas, das die Geschwindigkeit beeinflusst, und das heißt "Latenz". Latenz ist die Verzögerung, die auftritt, bevor die Daten wirklich auf die Reise gehen. Man könnte sagen, es ist die Zeit, die ein Auto braucht, um von der Abfahrt bis zur Autobahnauffahrt zu kommen. 
+
+Die Latenz hängt von vielen verschiedenen Dingen ab, die im Netzwerk vorkommen, genau wie es verschiedene Straßen gibt, die das Auto nehmen kann. Während die Bandbreite uns also sagt, wie viel Verkehr gleichzeitig auf der Straße sein kann, sagt uns die Latenz, wie lange es dauert, bis ein Auto (eine Datei) ankommt, nachdem es losgefahren ist. Beide sind wichtig, um die Leistung eines Netzwerks zu verstehen.

@@ -1,0 +1,7 @@
+Die Aussage über die Unterteilung von Schicht 2 in den Logical Link Control (LLC) und den Medium Access Control (MAC) Layer ist wichtig, um die verschiedenen Funktionen innerhalb dieser Schicht des OSI-Modells zu verstehen. Die Schicht 2, die datalink layer genannt wird, ist verantwortlich für die fehlerfreie Übertragung von Daten über ein physisches Medium und beinhaltet zwei Hauptaspekte: 
+
+1. **MAC-Layer**: Dieser Teil kümmert sich um den Zugriff auf das Übertragungsmedium, also die Steuerung, wann und wie Geräte auf das Medium zugreifen können. Hier werden Aspekte wie Adressierung und die Kontrolle des Datenflusses behandelt.
+
+2. **Logical Link Control (LLC)**: Dieser Teil ist für die logische Steuerung der Verbindung zwischen der Netzwerk- und der datalink Layer verantwortlich. Er ermöglicht eine Kommunikation zwischen verschiedenen Netzprotokollen und stellt sicher, dass die Daten korrekt an die darüberliegende Schicht weitergeleitet werden.
+
+Die Unterteilung hilft somit, die spezifischen Verantwortlichkeiten und Protokolle zu differenzieren, die für einen effektiven Datenaustausch notwendig sind.

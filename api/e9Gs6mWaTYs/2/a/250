@@ -1,0 +1,16 @@
+Die Aussage spricht darüber, wie wir mit einem Web-Browser Informationen von einem Web-Server anfordern. 
+
+Ein Web-Server ist wie ein großer Computer, der Webseiten speichert. Wenn wir mit einem Web-Browser (wie Chrome oder Firefox) eine Webseite ansehen wollen, fragt der Browser den Server nach den Informationen, die für diese Webseite nötig sind.
+
+Um sicherzustellen, dass der Austausch von Informationen zwischen dem Browser und dem Server gut funktioniert, gibt es bestimmte Regeln (Protokolle) und Standards. 
+
+Regeln (Protokolle) helfen den Geräten, zu wissen, wie sie miteinander sprechen sollen, zum Beispiel:
+
+1. **Verbindung aufbauen**: Wie der Browser den Server kontaktiert.
+2. **Fehler behandeln**: Was passiert, wenn etwas schiefgeht.
+3. **Timing**: Wann die Verbindung beginnt und endet.
+4. **Datenformate**: In welchem Format die Daten (Text, Bilder, Videos) gesendet werden.
+
+Es gibt auch Standards, die festlegen, wie diese Regeln aussehen sollen und wer sie erstellt. Organisationen prüfen diese Standards, um sicherzustellen, dass sie von allen verwendet werden können. Wenn alles in Ordnung ist, werden die Standards offiziell angenommen.
+
+Zusammengefasst: Wenn wir eine Webseite aufrufen, benutzt unser Browser bestimmte Regeln, um Informationen vom Web-Server zu bekommen.

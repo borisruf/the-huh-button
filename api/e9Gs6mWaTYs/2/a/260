@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es im Internet verschiedene Schichten gibt, die für die Kommunikation wichtig sind. Wenn du mit deinem Laptop über WLAN (Funk) ins Internet gehst, nutzt du einen sogenannten Access-Point. Dieser Access-Point kümmert sich nur um zwei von diesen Schichten. 
+
+Man kann sich die Kommunikation wie ein großes Gebäude vorstellen. Jedes Stockwerk (oder Schicht) hat seine eigene Aufgabe. Der Access-Point ist sozusagen der Eingang zum Gebäude und regelt, wie du ins Gebäude (das Internet) kommst. Aber nicht alle Stockwerke sind sein Aufgabengebiet – er hat nur mit zwei davon zu tun. 
+
+Zusammengefasst: Es gibt viele Schichten in der Kommunikation, und der Access-Point kümmert sich nur um einen kleinen Teil davon, wenn du über WLAN gehst.

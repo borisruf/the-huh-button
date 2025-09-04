@@ -1,0 +1,9 @@
+In diesem Text geht es um ein Modell, das hilft zu verstehen, wie Informationen über Netzwerke gesendet werden. Man kann sich das wie eine Schichttorte vorstellen, die aus verschiedenen Ebenen besteht. Jede Schicht hat eine spezielle Aufgabe.
+
+Die obersten Schichten, also Schicht 7 bis 5, kümmern sich darum, wie Informationen wie zum Beispiel E-Mails verarbeitet werden, damit sie sicher von einem Ort zum anderen gelangen. 
+
+- Schicht 7 ist die Anwendungsschicht. Hier schreiben wir unsere E-Mail.
+- Schicht 6 ist die Darstellungsschicht. Diese sorgt dafür, dass die E-Mail richtig aussieht, wenn sie gesendet wird.
+- Schicht 5 ist die Sitzungsschicht. Diese Schicht kümmert sich darum, wie die Verbindung zum Senden der E-Mail aufgebaut wird, wie sie bleibt und wie sie beendet wird.
+
+Zusammen helfen diese Schichten, dass unsere Daten, die wir senden (wie die E-Mail), besser organisiert werden, damit sie richtig und sicher über das Netzwerk transportiert werden können. 

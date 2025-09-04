@@ -1,0 +1,13 @@
+Wenn bei der Übertragung von Informationen Fehler passieren, ist das wie wenn man beim Sprechen nicht richtig verstanden wird. Um sicherzustellen, dass die Nachrichten trotzdem richtig ankommen, gibt es Protokolle und Regeln. 
+
+Hier sind die wichtigsten Punkte einfach erklärt:
+
+1. **Fehler erkennen**: Wenn ein Gerät eine Nachricht sendet, kann es Fehler in der Übertragung feststellen. Das geht zum Beispiel, indem das gesendete Gerät eine kleine Prüfzahlen oder Codes mit der Nachricht schickt, die der Empfänger überprüfen kann.
+
+2. **Nachricht erneut senden**: Wenn der Empfänger merkt, dass etwas nicht stimmt, kann er das senden. Er sagt dem Sender, dass die Nachricht nicht richtig angekommen ist. Daraufhin sendet der Sender die Nachricht noch einmal.
+
+3. **Bestätigung**: Der Empfänger sendet auch eine Bestätigung zurück, wenn die Nachricht richtig angekommen ist. So weiß der Sender, dass alles gut war.
+
+4. **Verbindung aufbauen und abbauen**: Um sicher zu kommunizieren, wird zuerst eine "Verbindung" hergestellt. Das ist wie einen Anruf tätigen. Wenn alles fertig ist, wird die Verbindung wieder "getrennt", als würde man auflegen.
+
+Durch all diese Schritte wird sichergestellt, dass die Informationen richtig und effizient zwischen den Geräten übertragen werden, auch wenn mal etwas schiefgeht. 

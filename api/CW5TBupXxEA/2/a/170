@@ -1,0 +1,5 @@
+Wir wollen jetzt genauer anschauen, wie das Senden einer E-Mail funktioniert. Dazu nutzen wir ein bekanntes Modell, das OSI-Modell. Dieses Modell hilft uns, die verschiedenen Schritte, die bei der E-Mail-Übertragung passieren, in leicht verständliche Teile zu zerlegen.
+
+Stellt euch das wie eine Schichttorte vor. Jede Schicht hat ihre eigene Aufgabe. So können wir besser verstehen, wie alles zusammenarbeitet. Zum Beispiel sieht das Senden einer E-Mail einfach aus, aber es passiert viel, damit sie ankommt. 
+
+Wir werden also Schritt für Schritt die einzelnen Schichten des OSI-Modells durchgehen und sehen, was jede Schicht für die E-Mail-Übertragung macht. So wird klar, wie die Kommunikation funktioniert und wo eventuell Probleme auftreten können.

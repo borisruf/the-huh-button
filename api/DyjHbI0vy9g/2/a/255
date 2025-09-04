@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie Informationen in einem Netzwerksystem zwischen verschiedenen Schichten ausgetauscht werden. Hier ist eine einfachere Erklärung:
+
+In einem Netzwerk gibt es mehrere Schichten, die wie Etagen in einem Gebäude funktionieren. Jede Schicht hat ihre eigene Aufgabe, und sie helfen dabei, Informationen zwischen zwei Punkten auszutauschen. Wenn eine Nachricht von einer Schicht zur anderen geschickt wird, geschieht dies über festgelegte Regeln, die Protokolle genannt werden. 
+
+Stell dir vor, du hast ein Gebäude mit verschiedenen Zimmern (den Schichten). Wenn jemand im obersten Zimmer (eine höhere Schicht) eine Nachricht senden möchte, wird diese Nachricht aufgenommen und bearbeitet, bevor sie ins nächste Zimmer (die darunterliegende Schicht) weitergegeben wird. 
+
+Diese Übergabestellen zwischen den Schichten nennt man „Service Access Points“. Das sind Punkte, an denen die Kommunikation zwischen den Schichten stattfindet. Auf diese Weise können die verschiedenen Schichten kooperieren, um sicherzustellen, dass die Nachrichten richtig ankommen und alles reibungslos funktioniert.

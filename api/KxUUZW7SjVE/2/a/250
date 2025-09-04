@@ -1,0 +1,17 @@
+Stell dir vor, du schickst einen Brief an einen Freund. Bevor der Brief ankommt, passiert eine Menge. Hier ist eine einfache Erklärung, was alles passiert, wenn du eine E-Mail sendest:
+
+1. **Der Router**: Das ist wie ein Postbote für das Internet. Er sieht den Brief (die Daten), den du geschickt hast, und öffnet ihn, um zu schauen, wohin er ihn bringen soll.
+
+2. **Daten-Entkapselung**: Das bedeutet, dass der Router alle zusätzlichen Informationen entfernt, die nicht zum Hauptinhalt gehören. Er schaut dann nach, wohin der Brief geschickt werden muss.
+
+3. **MAC-Adresse und IP-Adresse**: Das sind wie Adressen für deinen Freund und für dich. Die MAC-Adresse zeigt, welche Geräte im Netzwerk beteiligt sind. Die IP-Adresse sagt dem Router, wo er die Daten hinschicken soll.
+
+4. **Ports**: Das ist wie verschiedene Postkästen für verschiedene Arten von Nachrichten. Für E-Mails gibt es einen speziellen Platz (Port), wo sie hingeschickt werden.
+
+5. **Daten-Weiterleitung**: Der Router entscheidet, wo der Brief als Nächstes hingeht, und schickt ihn weiter zu einem anderen Router oder direkt zum E-Mail-Server, also dem "Haus" deines Freundes.
+
+6. **Die E-Mail kommt an**: Wenn die E-Mail beim Server ankommt, muss sie erneut „entkapselt“ werden. Der Server überprüft die Informationen (MAC- und IP-Adresse), um sicherzustellen, dass die E-Mail für ihn bestimmt ist.
+
+7. **Der Weg zurück**: Wenn dein Freund die E-Mail beantworten möchte, passiert das Gleiche, aber in umgekehrter Reihenfolge. Die Antwort wird durch die gleichen Router zurück zu dir geschickt.
+
+Am Ende sind die E-Mail und die Antworten hin und her geflogen, fast wie Briefe, die von Postbote zu Postbote übergeben werden, bis sie beim richtigen Empfänger landen.

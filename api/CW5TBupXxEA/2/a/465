@@ -1,0 +1,5 @@
+Die Hardware-Adressierung ist wichtig, wenn Geräte im Netzwerk miteinander kommunizieren. Dabei handelt es sich um MAC-Adressen. 
+
+Stell dir vor, jedes Gerät in einem Netzwerk ist wie ein Haus, und die MAC-Adresse ist die Adresse dieses Hauses. Wenn man jemandem eine Nachricht schicken möchte, muss man die richtige Adresse wissen, damit die Nachricht an das richtige Haus gelangt.
+
+Die MAC-Adresse hilft, die Geräte im Netzwerk zu identifizieren, so dass die Daten dorthin geschickt werden können, wo sie hingehören. Das ist ein Teil der Schichten, die die Kommunikation in Netzwerken organisieren und sicherstellen, dass alles richtig funktioniert.

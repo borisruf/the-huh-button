@@ -1,0 +1,7 @@
+Die Aussage besagt, dass die Geschwindigkeit, mit der Daten in einem Netzwerk übertragen werden, von der Art des Netzwerks abhängt. 
+
+Im lokalen Netzwerk (ein Kabelnetzwerk, das man oft in Büros findet) kann die Antwortzeit, also die Zeit, die braucht, um Daten zu senden und eine Antwort zu erhalten, nur etwa eine Millisekunde betragen, wenn man ein Fast Ethernet mit 100 Megabit pro Sekunde benutzt. Das ist sehr schnell.
+
+Im WLAN (also im drahtlosen Netzwerk, wie mit dem Internet-Router zu Hause) dauert es jedoch viel länger – etwa 10 Millisekunden. Das heißt, es ist zehnmal langsamer, weil das Signal durch die Luft reisen muss und es mehr Störungen geben kann.
+
+Zusammengefasst: Lokales Kabelnetzwerk ist schneller als WLAN.

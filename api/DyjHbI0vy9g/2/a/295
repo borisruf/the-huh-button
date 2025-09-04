@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie in einem Netzwerk ein Dienst angefordert wird und was passiert, wenn dieser Dienst nicht bestätigt wird. 
+
+Stell dir vor, du möchtest jemandem etwas sagen, aber du musst erst einen bestimmten Weg gehen, um zu kommunizieren. Zuerst schickst du eine Nachricht, in diesem Fall eine Anfrage für einen Dienst. Diese Nachricht wird dann über ein Netzwerk weitergeleitet, und das dauert eine gewisse Zeit. 
+
+Wenn die Nachricht ankommt, zeigt ein Signal an, dass die Anfrage erfolgreich gesendet wurde. In diesem Beispiel ist der Dienst "unbestätigt", was bedeutet, dass die Person, die die Anfrage bekommen hat, nicht sagt, dass sie sie erhalten hat oder darauf reagiert. 
+
+Das bedeutet, dass alles in Ordnung sein könnte, aber du weißt nicht sicher, ob die andere Person deine Nachricht wirklich bekommen hat. Wenn es keine Bestätigung gibt, ist der Vorgang für dich bereits abgeschlossen, weil du keine weitere Antwort brauchst, um zu wissen, dass deine Anfrage gesendet wurde. 
+
+Zusammengefasst: Du schickst eine Nachricht, wartest eine Weile, und wenn du keine Antwort bekommst, weißt du, dass die Nachricht gesendet wurde, aber du bist nicht sicher, ob sie angekommen ist.

@@ -1,0 +1,11 @@
+Die Aussage erklärt, wie Kommunikation in einem Netzwerk funktioniert, indem sie in verschiedene Schichten unterteilt wird. Hier ist eine einfache Erklärung:
+
+1. **Schichten**: Stell dir vor, das Netzwerk ist wie ein mehrstöckiges Gebäude. Jede Etage hat ihre eigenen Aufgaben. Um die Kommunikation zu organisieren, teilen wir sie in Schichten auf.
+
+2. **Protokolle**: Das sind wie Regeln oder Anleitungen, die festlegen, wie die Etagen miteinander sprechen sollen. Sie sagen, was jede Schicht tun muss, wenn sie Informationen an eine andere Schicht weitergibt.
+
+3. **Datenübertragung**: Wenn eine Schicht eine Anfrage von oben erhält – das heißt, eine Nachricht von einer anderen Schicht bekommt – wird diese Anfrage bearbeitet. Danach wird sie an die nächste Schicht weitergeleitet, die die Informationen an den Empfänger zeigt.
+
+4. **Service Access Point**: Das ist der Punkt, an dem eine Schicht die Informationen an die nächste Schicht weitergibt. Man kann sich das wie eine Art Tür zwischen den Etagen vorstellen, durch die die Informationen geschoben werden.
+
+Zusammengefasst: In einem Netzwerk gibt es verschiedene Schichten, die nach bestimmten Regeln (Protokollen) miteinander kommunizieren, um Informationen korrekt zu übertragen.

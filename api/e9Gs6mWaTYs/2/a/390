@@ -1,0 +1,9 @@
+Auf dieser Folie sieht man zwei wichtige Modelle für die Netzwerkkommunikation. Auf der linken Seite ist das OSI-Modell, das in viele kleine Schichten unterteilt ist, um ganz genau zu erklären, wie Daten zwischen Computern übertragen werden. Auf der rechten Seite ist das DoD- oder TCP-IP-Modell, das nicht so kompliziert ist, aber trotzdem zeigt, wie die meisten Netzwerke funktionieren.
+
+Beide Modelle haben ähnliche Schichten, die ähnlichen Aufgaben dienen. In der Mitte der Folie sieht man, was genau in diesen Schichten passiert.
+
+Die Folie erklärt auch, dass es in Netzwerken Protokolle und Standards gibt. Protokolle sind Vereinbarungen, wie Computer miteinander reden, z.B. wie sie eine Verbindung aufbauen oder wie sie mit Fehlern umgehen. Standards sind festgelegte Regeln, die sicherstellen, dass alle Geräte im Netzwerk gut miteinander arbeiten können.
+
+Um ein Standard zu erstellen, gibt es einen langen Prozess, der von Gruppen wie der Internet Society oder dem Internet Architecture Board organisiert wird. Man startet mit einem Vorschlag (Request for Comment) und nach vielen Prüfungen wird ein Standard veröffentlicht, der für viele Geräte gilt. 
+
+Das Beispiel mit dem Web-Server zeigt, wie Daten über verschiedene Schichten und durch verschiedene Geräte wie Router und Access-Points gesendet werden. Es ist ein komplizierter Prozess, aber die Folie hilft, das Ganze besser zu verstehen.

@@ -1,0 +1,5 @@
+Auf dieser Folie sehen wir zwei Modelle, die helfen, zu verstehen, wie Computer miteinander sprechen. Auf der linken Seite ist das OSI-Modell, das in viele kleine Teile aufgeteilt ist, um genau zu zeigen, was passiert. Auf der rechten Seite ist das DoD-Modell (oder TCP-IP-Modell), das einfacher ist und nicht so viele Details hat. Es ist aber die Grundlage für die Kommunikation zwischen Netzwerken, wie wir sie heute kennen.
+
+Beide Modelle haben ähnliche Schichten, also Bereiche, in denen Dinge passieren. In der Mitte der Folie sehen wir, was in diesen Schichten passiert, dargestellt durch einen dunkelblauen Bereich.
+
+Zusammengefasst: Diese Folie zeigt uns zwei wichtige Modelle, die erklären, wie Daten zwischen Computern gesendet und empfangen werden. Sie helfen uns, die verschiedenen Schritte und Bereiche in der Netzwerkkommunikation besser zu verstehen.

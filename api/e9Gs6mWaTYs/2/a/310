@@ -1,0 +1,9 @@
+Die Aussage bedeutet, dass der Access-Point, also der Punkt, an dem wir uns mit dem Internet verbinden, zwei wichtige Ebenen hat, die er verarbeitet. 
+
+Die erste Ebene ist die "Schicht 2", die sich um den direkten Kontakt zwischen Geräten kümmert. Innerhalb dieser Schicht gibt es zwei Teile: 
+
+1. **Logical Link Control (LLC)** – Das ist der Teil, der hilft, wie Daten geleitet werden und sicherstellt, dass alles in Ordnung ist.
+   
+2. **MAC-Layer** – Das ist der Teil, der sich um die spezifische Adresse der Geräte kümmert, also wie sie sich innerhalb eines Netzwerks erkennen.
+
+Also, der Access-Point hat zwei Bereiche, die wichtig sind, um sicherzustellen, dass unsere Geräte gut miteinander kommunizieren können.

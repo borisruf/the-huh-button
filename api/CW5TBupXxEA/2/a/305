@@ -1,0 +1,5 @@
+Die Sitzungsschicht ist wie ein Freund, der darauf achtet, dass zwei Personen, die miteinander sprechen, gut verbunden bleiben. Wenn man zum Beispiel eine E-Mail sendet, sorgt die Sitzungsschicht dafür, dass die Verbindung zwischen dem Computer, der die E-Mail sendet, und dem Server, der die E-Mail empfängt, funktioniert.
+
+Sie kümmert sich darum, dass die Verbindung hergestellt wird, während die E-Mail geschickt wird, und sie sorgt auch dafür, dass die Verbindung geschlossen wird, wenn die E-Mail erfolgreich gesendet wurde. Wenn etwas schiefgeht, wie zum Beispiel wenn die Internetverbindung weggeht, hilft die Sitzungsschicht zu entscheiden, ob man die Verbindung wiederherstellen oder sie einfach schließen sollte.
+
+Also, die Sitzungsschicht ist wichtig, damit die Kommunikation klappt und gut verwaltet wird.

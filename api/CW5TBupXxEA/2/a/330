@@ -1,0 +1,7 @@
+Die Sitzungsschicht ist ein Teil eines Modells, das erklärt, wie Computer miteinander kommunizieren. Stell dir vor, das Modell hat sieben Schichten, wie eine Torte mit mehreren Lagen.
+
+Wenn du eine E-Mail schickst, passiert das in mehreren Schritten. Zuerst schreibst du die E-Mail in einem Programm. Dieses Programm gehört zur obersten Schicht, der Anwendungsschicht. Hier wird auch gesagt, welches Protokoll, also welche Regeln, für das Versenden der E-Mail verwendet werden, zum Beispiel das Simple Mail Transfer Protokoll (SMTP).
+
+Die Sitzungsschicht ist eine der Schichten unter der Anwendungsschicht. Diese Schicht sorgt dafür, dass die Verbindung zwischen deinem Computer und dem E-Mail-Server richtig aufgebaut, gehalten und wieder beendet wird. Sie kümmert sich also darum, wie die Kommunikation funktioniert, wann die Verbindung geschlossen wird und wann sie bleibt. 
+
+Zusammengefasst: Die Sitzungsschicht ist wichtig, damit Computer sicher und richtig miteinander reden können, wenn du eine E-Mail schickst. Sie ist ein Teil von dem, was hilft, die Kommunikation einfach und ordentlich zu gestalten.

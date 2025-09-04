@@ -1,0 +1,19 @@
+Okay, ich erkläre das einfach.
+
+Wenn du eine E-Mail schickst, passiert Folgendes:
+
+1. **Daten werden vorbereitet:** Zuerst werden deine Daten in kleine Pakete verpackt. Jedes Paket hat Informationen, woher es kommt und wohin es gehen soll.
+
+2. **Der Router:** Die Pakete gehen dann zu einem Router. Der Router ist wie ein Postbote im Internet. Er schaut sich die Pakete an.
+
+3. **Entkapselung:** Der Router öffnet die Pakete und liest die Informationen (zum Beispiel, die Adresse, wohin das Paket gehen soll). Er entfernt die äußeren Verpackungen, um die wichtigen Infos zu sehen.
+
+4. **Weiterleitung:** Der Router findet heraus, wo das Paket als Nächstes hingehen soll, indem er die Adresse liest. Dann verpackt er das Paket wieder neu.
+
+5. **Signal senden:** Der Router wandelt das Paket in Signale um, die über Kabel oder Funk geschickt werden.
+
+6. **Zum nächsten Router:** Die Pakete reisen dann von Router zu Router, bis sie an ihrem Ziel angekommen sind. Jeder Router macht genau dasselbe: Er öffnet die Pakete, schaut sich die Adresse an und sendet sie weiter.
+
+7. **Ankunft beim E-Mail-Server:** Schließlich erreichen die Pakete den E-Mail-Server, der die E-Mail für dich speichern wird. Auch hier wird das Paket wieder geöffnet, damit die E-Mail gelesen werden kann.
+
+Zusammengefasst: Die Daten werden verpackt, von Routern weitergeleitet, und jedes Mal wird geschaut, wohin sie als Nächstes gehen sollen, bis sie beim Ziel ankommen.

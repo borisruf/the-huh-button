@@ -1,0 +1,11 @@
+Die Aussage beschreibt wichtige Dinge, die bei der Übertragung von Informationen in Netzwerken eine Rolle spielen. Hier ist eine einfache Erklärung:
+
+Wenn wir Daten, wie zum Beispiel eine E-Mail, von einem Computer zu einem anderen senden, müssen wir eine Reihe von Regeln und Vereinbarungen festlegen. Diese Regeln helfen uns zu verstehen, wie die Daten richtig ankommen. 
+
+In einem Netzwerk gibt es Schichten, die man sich wie eine Zwiebel vorstellen kann. Jede Schicht hat eine spezielle Aufgabe. Die Schichten arbeiten zusammen, um sicherzustellen, dass die Daten gut übertragen werden. 
+
+"Adressierung" bedeutet in diesem Zusammenhang, dass wir wissen müssen, wohin die Daten geschickt werden, also an welchen Computer oder Server. Es ist wichtig, den richtigen Weg für die Daten zu finden, damit sie die richtige Adresse erreichen können.
+
+Es gibt verschiedene Arten von Protokollen, also Regeln, die für die Übertragung von Daten wichtig sind. Einige Beispiele sind das Internetprotokoll, das hilft, die Daten über das Internet zu senden, und andere Protokolle, die ebenfalls sicherstellen, dass die Daten korrekt ankommen.
+
+Zusammengefasst: Wenn wir etwas über das Internet senden, müssen wir uns um viele wichtige Dinge kümmern, damit die Information richtig ankommt – dabei helfen verschiedene Schichten und Regeln.

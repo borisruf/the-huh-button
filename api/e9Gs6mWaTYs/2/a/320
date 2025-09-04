@@ -1,0 +1,15 @@
+In dieser Erklärung geht es um, wie Informationen in einem Netzwerk von einem Punkt zu einem anderen Punkt geschickt werden.
+
+1. **Schicht 2**: Man kann sich das wie eine Schicht auf einem Kuchen vorstellen. Diese Schicht wird in zwei Teile unterteilt:
+   - **LLC (Logical Link Control)**: Hier wird festgelegt, wie Geräte miteinander "reden", also wie Daten ausgetauscht werden.
+   - **MAC-Layer**: Hier werden Adressen festgelegt, die wichtig sind, damit die Daten den richtigen Weg finden. Es ist wie eine Adresse auf einem Umschlag, damit man weiß, wohin das Paket geschickt werden soll.
+
+2. **Router**: Der Router ist wie ein Postamt. Er schaut sich die "Pakete" (also die Daten), die ankommen, an und leitet sie an die richtige IP-Adresse weiter. Das ist eine besondere Nummer, die jedem Gerät im Netzwerk zugeordnet ist, ähnlich wie eine Hausnummer.
+
+3. **Netzwerke**: Die Daten werden durch verschiedene Netzwerke geschickt. Auf dem Weg von Router zu Router werden die Informationen ständig überprüft, um sicherzustellen, dass alles richtig funktioniert.
+
+4. **Lokales Netzwerk**: Schließlich kommen die Daten in ein lokales Netzwerk an, das ist wie ein kleines Gebiet mit vielen Häusern (Geräten). 
+
+5. **Web-Server**: Wenn die Daten an den Web-Server ankommen, müssen sie "ausgepackt" werden, damit die Informationen sichtbar sind, also damit man sie nutzen kann, wie wenn man ein Geschenk öffnet.
+
+Insgesamt beschreibt die Erklärung, wie wichtig es ist, dass alle Teile im Netzwerk zusammenarbeiten, damit die Informationen sicher und schnell von einem Ort zum anderen kommen. Jedes Teil hat seine eigene Aufgabe, und alle müssen die gleichen Regeln befolgen, damit alles glattläuft.

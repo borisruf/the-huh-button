@@ -1,0 +1,7 @@
+In dieser Erklärung schauen wir uns an, was mit einer E-Mail passiert, wenn wir sie senden. 
+
+Wenn du eine E-Mail schreibst, passiert das in einem Programm, das wir E-Mail-Client nennen. Das ist ein bisschen wie ein Werkzeug, das dir hilft, deine E-Mail zu erstellen und zu verschicken.
+
+Jetzt kommt die "Anwendungsschicht" ins Spiel. Das ist einfach ein Teil des gesamten Systems, das dafür sorgt, dass du deine E-Mail schreiben und senden kannst. Wenn wir sagen, dass die E-Mail von der Anwendungsschicht "übernommen" wird, meinen wir, dass dieses System dafür sorgt, dass alles richtig gemacht wird, damit deine Nachricht an den richtigen Ort geht.
+
+Stell dir vor, du schreibst einen Brief. Zuerst schreibst du den Inhalt (das ist wie das Schreiben der E-Mail). Dann legst du den Brief in einen Umschlag und gibst ihn zur Post (das ist die Aufgabe der Anwendungsschicht). Die E-Mail muss also durch verschiedene Stufen oder "Schichten" gehen, damit sie am Ziel ankommt. Aber am Anfang, wenn du die E-Mail schreibst, ist die Anwendungsschicht dafür zuständig, dass der Brief richtig erstellt wird.

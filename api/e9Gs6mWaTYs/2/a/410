@@ -1,0 +1,7 @@
+Die Aussage erklärt, dass es zwei verschiedene Modelle gibt, um zu verstehen, wie Computer kommunizieren. Die Modelle heißen OSI-Modell und DoD-Modell (auch TCP/IP-Modell genannt). Beide Modelle haben Schichten, die ähnliche Aufgaben erfüllen.
+
+Im OSI-Modell gibt es sieben Schichten, die von ganz oben (wo die Anwendungen sind) bis ganz unten (wo die physische Verbindung ist) gehen. Im DoD-Modell gibt es weniger Schichten, weil es SIMPLER ist. Die ersten drei Schichten im OSI-Modell, die sich mit Anwendungen befassen, werden im DoD-Modell zusammengefasst.
+
+Die Aussage zeigt, dass man die verschiedenen Schichten der beiden Modelle vergleichen kann und dass sie ähnliche Funktionen haben. Besonders wichtig ist der Bereich in der Mitte, wo die Hauptkommunikation stattfindet. 
+
+Zusammengefasst: Es gibt zwei Modelle, die helfen zu verstehen, wie Computer miteinander reden, und sie haben viele Ähnlichkeiten.

@@ -1,0 +1,13 @@
+Die Aussage beschäftigt sich damit, was Bandbreite in Netzwerken bedeutet und wie sie gemessen wird.
+
+Bandbreite ist ein Maß dafür, wie schnell Informationen in einem Netzwerk übertragen werden können, also wie viele Daten pro Sekunde übertragen werden. Man kann sich das wie einen breiten Fluss vorstellen: Je breiter der Fluss, desto mehr Wasser (oder in diesem Fall Daten) kann gleichzeitig fließen.
+
+Es gibt zwei Möglichkeiten, über Bandbreite zu sprechen:
+
+1. **Technische Bandbreite:** Das ist eine genaue, technische Messung, die sich auf bestimmte Frequenzen bezieht – wie ein bestimmter Bereich von Wellen, die genutzt werden, um Daten zu übertragen.
+
+2. **Praktische Bandbreite:** Im Alltag wird Bandbreite oft als die Anzahl der Bits (kleinste Dateneinheit) pro Sekunde angegeben. Das sagt uns einfach, wie viel Daten in einer Sekunde übertragen werden können.
+
+Ein Problem ist, dass die Bandbreite, die wir theoretisch sehen (also die Zahlen, die oft in technischen Angaben stehen), in der echten Nutzung oft nicht so schnell erreicht wird. Das bedeutet, dass die tatsächliche Geschwindigkeit, mit der Daten über das Netzwerk fließen (genannt Durchsatz), manchmal viel niedriger sein kann als die theoretische Angabe. 
+
+Zusammengefasst ist also wichtig zu wissen, dass Bandbreite nicht nur eine technische Zahl ist, sondern auch zeigt, wie effektiv Daten wirklich übertragen werden können.

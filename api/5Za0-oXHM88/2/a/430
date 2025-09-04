@@ -1,0 +1,3 @@
+Die Aussage bedeutet: Wenn wir Daten über das Internet oder andere Netzwerke senden, kann es vorkommen, dass die Zeit, die es dauert, bis die Daten ankommen, nicht immer gleich ist. Diese Unterschiede in der Zeit nennt man "Latenzschwankungen". 
+
+Man kann sich das wie eine Wasserleitung vorstellen. Manchmal fließt das Wasser (also die Daten) schnell und manchmal langsamer, je nachdem, welche Hindernisse auf dem Weg sind. Wenn wir über verschiedene Systeme verbunden sind, können diese Übertragungszeiten unterschiedlich sein, was zu einer unregelmäßigen Verzögerung führt.

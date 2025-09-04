@@ -1,0 +1,8 @@
+Die Aussage bedeutet, dass wenn du etwas von einem Computer (zum Beispiel eine Frage) an einen anderen Computer (zum Beispiel einen Server) schickst, es einige Zeit dauert, bis die Antwort zurückkommt. Diese Zeit setzt sich aus verschiedenen Faktoren zusammen.
+
+1. **Signallaufzeit**: Das ist die Zeit, die das Signal braucht, um von einem Ort zum anderen zu reisen.
+2. **Übertragungszeit**: Das ist die Zeit, die benötigt wird, um die Daten (Infos) zu verschicken. Je größer die Daten, desto länger dauert es.
+3. **Transferzeit**: Das ist die Gesamtzeit von Anfang bis Ende des Datenaustausches.
+4. **Verarbeitungszeit**: Das ist die Zeit, die der Server braucht, um die Anfrage zu bearbeiten, bevor er die Antwort zurückschickt.
+
+Wenn alle diese Zeiten zusammenkommen, nennt man das insgesamt "Latenz". Es beschreibt, wie lange du warten musst, bis du die Antwort auf deine Anfrage bekommst.

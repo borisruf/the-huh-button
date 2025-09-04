@@ -1,0 +1,17 @@
+Okay, lass uns das ganz einfach erklären.
+
+Wenn wir Daten (zum Beispiel Nachrichten) über das Internet senden, passiert Folgendes:
+
+1. **Daten werden verpackt:** Die Nachricht wird in kleine Stücke aufgeteilt und bekommt ein „Etikett“ mit Informationen, damit sie weiß, wohin sie gehen soll. 
+
+2. **Router arbeiten wie Postämter:** Wenn die Daten an einen Router (so etwas wie ein Internet-Kreuzungspunkt) ankommen, öffnet er das Paket und schaut, was drin ist. Er nimmt das „Etikett“ ab, um die Adresse zu sehen. 
+
+3. **Schichten im Internet:** Der Router kümmert sich vor allem um die dritte Schicht (das sind die IP-Adressen). Er sieht, wo die Daten herkommen und wo sie hin sollen, und entscheidet dann, wohin die Daten als Nächstes gehen sollen.
+
+4. **Neues Verpacken:** Nachdem der Router entschieden hat, wo die Daten hin sollen, packt er sie wieder ein und fügt neue Etiketten hinzu (wieder mit IP-Adressen von Absender und Empfänger).
+
+5. **Signal umwandeln:** Dann wandelt er die Daten in ein Signal um, damit sie durch das Internet gesendet werden können.
+
+6. **Weg durch andere Router:** Die Daten gehen möglicherweise durch viele Router, bevor sie ihr Ziel erreichen. An jedem Router wird der gleiche Prozess wiederholt: die Daten werden geöffnet, die Adresse wird überprüft, und dann werden sie wieder verpackt und weitergeschickt.
+
+Am Ende helfen all diese Schritte dafür, dass die Nachrichten schnell und sicher an den richtigen Ort gelangen.

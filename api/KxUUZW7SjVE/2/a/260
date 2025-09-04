@@ -1,0 +1,23 @@
+Okay, ich erkläre das in sehr einfachen Worten:
+
+Wenn wir eine E-Mail senden, passiert Folgendes:
+
+1. **Datenpakete werden erstellt**: Unsere Nachricht wird in kleine Datenpakete aufgeteilt, die über das Internet geschickt werden.
+
+2. **Router**: Diese Datenpakete gehen zuerst zu einem speziellen Gerät, dem Router. Der Router hat drei Schichten (Datenebenen), um die eingehenden Pakete zu verarbeiten. 
+
+3. **Entpacken der Daten**: Der Router schaut sich die Pakete an und entfernt die zusätzlichen Informationen, die wir hinzugefügt haben, damit er nur die wichtigen Daten hat.
+
+4. **IP- und MAC-Adressen**: Der Router sucht nach zwei Arten von Adressen. Eine ist die IP-Adresse, die wie eine Adresse für das Internet ist, und die andere ist die MAC-Adresse, die wie eine Adresse für das Gerät ist.
+
+5. **Entscheidung treffen**: Mit diesen Adressen entscheidet der Router, wohin die Pakete als Nächstes geschickt werden.
+
+6. **Wiederverpacken**: Der Router packt die Daten wieder ein, fügt die richtigen Adressen hinzu und sendet die Datenpakete weiter.
+
+7. **Ankunft beim E-Mail-Server**: Schließlich kommen die Pakete bei dem E-Mail-Server an. Dort muss wieder alles entpackt werden, damit die E-Mail richtig verarbeitet werden kann.
+
+8. **Port für E-Mail**: Für E-Mails gibt es einen speziellen Punkt (Port), der ihnen hilft, den richtigen Weg zu finden. Das Protokoll, das wir dafür benutzen, heißt Simple Mail Transfer Protocol (SMTP).
+
+Wenn wir die E-Mail später abrufen, passiert das Ganze in umgekehrter Reihenfolge, damit wir die E-Mail lesen können.
+
+Und so läuft die ganze Sache durch die sieben Schichten des Referenzmodells, die wir auch mal zusammen aufgeführt haben.

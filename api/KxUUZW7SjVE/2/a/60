@@ -1,0 +1,1 @@
+Der Router erhält die Daten, die wir gesendet haben. Er schaut sich nur die ersten drei Schichten der Daten an, also die wichtigsten Informationen, die er braucht. Alles, was darüber ist, interessiert ihn nicht. Dann "entpackt" er die Daten, das bedeutet, er entfernt die zusätzlichen Schichten, die nicht wichtig sind für ihn. Das nennt man Daten-Entkapselung.

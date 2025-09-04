@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie schnell man Daten in einem Netzwerk übertragen kann. Hier ist die Erklärung in einfacher Sprache:
+
+Wenn wir wissen wollen, wie gut ein Netzwerk funktioniert, schauen wir uns an, wie viele Daten es in einer bestimmten Zeit übertragen kann. Das nennt man "Durchsatz". Der Durchsatz zeigt uns, wie viel Arbeit das Netzwerk wirklich leistet, wenn es alles umsetzt, was wir wollen. 
+
+Man misst den Durchsatz in "Bits pro Sekunde". Ein Bit ist die kleinste Einheit von Informationen, und "Bits pro Sekunde" sagt uns, wie viele von diesen kleinen Informationsstücken in einer Sekunde übertragen werden.
+
+Wenn Menschen über das Netzwerk reden, benutzen sie oft das Wort "Bandbreite". Das bezieht sich darauf, wie viel Platz für Datenübertragung im Netzwerk vorhanden ist. Aber manchmal ist die Bandbreite, die in der Werbung angegeben wird, höher als das, was wir tatsächlich erleben, wenn wir das Netzwerk benutzen. 
+
+Deshalb müssen wir im echten Gebrauch fragen: "Wie viel Daten kann das Netzwerk wirklich in einer Sekunde übertragen?" Das ist der Durchsatz, und er zeigt uns die echte Leistung des Netzwerks.

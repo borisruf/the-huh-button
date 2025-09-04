@@ -1,0 +1,8 @@
+Die Aussage beschreibt, dass es in der letzten Schicht eines Modells für Netzwerke, das ISO-OSI-Modell, verschiedene Geräte gibt, die dafür sorgen, dass Daten physikalisch übermittelt werden können. Diese Geräte sind zum Beispiel:
+
+- **Hub**: Ein Gerät, das Daten an mehrere Computer im Netzwerk weiterleitet.
+- **Repeater**: Ein Gerät, das das Signal verstärkt, damit es weiter übertragen werden kann.
+- **Verstärker**: Ein Gerät, das das Signal verstärkt, ähnlich wie ein Repeater.
+- **Modem**: Ein Gerät, das digitale Daten in analoge Signale umwandelt (und umgekehrt), damit sie über Telefonleitungen gesendet werden können.
+
+Zusätzlich beschreibt die Aussage, dass auf dieser Schicht auch die physikalischen Medien betrachtet werden, also die Kabel oder drahtlosen Verbindungen, die tatsächlich die Daten transportieren.

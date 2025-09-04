@@ -1,0 +1,9 @@
+In der Erklärung geht es darum, wie man die Kommunikation zwischen verschiedenen Computer-Systemen in einzelne Teile aufteilt, damit sie besser verständlich wird. 
+
+Also, stell dir vor, die Kommunikation ist wie eine große Torte, die man in viele kleine Stücke schneidet. Jedes Stück ist eine "Schicht". 
+
+Wenn wir zur zweiten Schicht, der "Darstellungsschicht", gehen, dann geht es darum, wie die Informationen aussehen. In dieser Schicht wird entschieden, wie die Daten dargestellt werden, also in welchem Format sie angezeigt werden, damit der Computer oder der Benutzer sie verstehen kann. 
+
+Wir haben vorher über die Anwendungsschicht gesprochen, in der der Benutzer eine E-Mail schreibt. Die Darstellungsschicht schaut sich dann an, wie diese E-Mail genau aufgebaut ist, damit sie richtig angezeigt werden kann. 
+
+Zusammengefasst: Die Darstellungsschicht hilft dabei, die Informationen so zu zeigen, dass sie einfach zu verstehen sind.

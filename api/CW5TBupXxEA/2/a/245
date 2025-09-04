@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass es bei der Darstellung unserer Daten darum geht, wie genau diese Daten aussehen. Zum Beispiel, wenn wir eine E-Mail schreiben, wird sie nicht nur so geschickt, wie wir sie geschrieben haben. Es wird auch etwas Zusatzinformation mitgeschickt, die erklärt, um welche Art von Nachricht es sich handelt. Diese Zusatzinformation nennt man "Application Header". So wissen die Computer, wie sie mit der E-Mail umgehen sollen, wenn sie sie erhalten. 
+
+In einfachen Worten: Wenn du einen Brief schreibst, schreibst du nicht nur den Text. Du hast auch einen Umschlag mit der Adresse drauf. Der Umschlag hilft dem Postboten zu wissen, wo der Brief hin soll. Genauso hilft der Application Header dem Computer, die E-Mail richtig zu verstehen und zu versenden.

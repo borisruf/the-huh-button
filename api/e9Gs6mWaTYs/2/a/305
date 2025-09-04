@@ -1,0 +1,7 @@
+Ein Access-Point ist ein Gerät, das hilft, Geräte wie Laptops oder Handys mit dem Internet zu verbinden. Man kann sich das wie eine Brücke vorstellen, die zwei Bereiche miteinander verbindet.
+
+In der Kommunikation über Netzwerke gibt es verschiedene Schichten, die man sich wie Etagen in einem Gebäude vorstellen kann. Hier reden wir über zwei Schichten: die eine ist einfach die Verbindung, und die andere hat noch einmal zwei Unterbereiche.
+
+Eine dieser Unterteilungen ist der „Logical Link Control“ (kurz LLC). Das ist wie eine Art Manager, der dafür sorgt, dass die Informationen gut und sicher von einem Gerät zum anderen geschickt werden. Die andere Unterteilung ist der „MAC-Layer“, das kümmert sich darum, wie die Geräte tatsächlich miteinander reden, also welche Regeln sie dafür befolgen müssen.
+
+Es ist wichtig, dass man nicht verwirrt ist, weil es in dieser Erklärung eine Schicht gibt, die in zwei Teile aufgeteilt ist. Am Ende geht es darum, dass der Access-Point dafür sorgt, dass die Geräte gut miteinander kommunizieren können, indem er diese zwei Schichten nutzt.

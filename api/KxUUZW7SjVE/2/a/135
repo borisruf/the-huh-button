@@ -1,0 +1,13 @@
+Okay, stell dir vor, das Internet ist wie eine große Post. Wenn du einen Brief (das sind die Daten) schickst, passiert Folgendes:
+
+1. **Verpacken**: Zuerst wird der Brief in einen Umschlag gesteckt, und auf den Umschlag kommen wichtige Informationen, wie die Adresse des Empfängers und deine Adresse. Das sind die verschiedenen Schichten, die hinzugefügt werden.
+
+2. **Router**: Wenn der Brief bei einem Router ankommt (das ist wie eine Poststelle), schaut der Router, wo der Brief hingehen soll. Er öffnet den Umschlag, um den echten Brief zu sehen, und entfernt die Adresse, die nicht mehr gebraucht wird. Das nennt man Entkapselung. 
+
+3. **Entscheidung treffen**: Der Router schaut sich die Adresse auf dem Brief an und entscheidet, wo er den nächsten Umschlag hin schicken soll. Dann wird der Brief wieder in einen neuen Umschlag gesteckt, und die Adresse wird erneut draufgeschrieben.
+
+4. **Wieder senden**: Der Router sendet den neuen Umschlag weiter. 
+
+5. **Wiederholung**: Es kann sein, dass der Brief mehrere Router auf dem Weg zum Empfänger passiert. Jeder Router macht das Gleiche: Er öffnet den Umschlag, schaut sich den Brief an, trifft eine Entscheidung, und steckt den Brief wieder in einen neuen Umschlag.
+
+Zusammengefasst: Der Brief wird die ganze Zeit gepackt und ausgepackt, während er von Router zu Router geschickt wird, bis er schließlich beim Empfänger ankommt.

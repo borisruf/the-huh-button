@@ -1,0 +1,11 @@
+Auf dieser Folie sehen wir zwei Modelle, die erklären, wie Kommunikation in Netzwerken funktioniert. Auf der linken Seite ist das OSI-Modell und auf der rechten Seite das DoD-Modell oder TCP/IP-Modell. 
+
+Das OSI-Modell ist sehr detailliert und beschreibt die verschiedenen Schichten der Kommunikation sehr genau. Das DoD-Modell ist einfacher und weniger kompliziert. Es ist mehr wie die Basis, auf der das ganze Netzwerk funktioniert.
+
+Beide Modelle haben ähnliche Schichten, was bedeutet, dass sie ähnliche Dinge tun. In der Mitte der Folie wird erklärt, was in diesen Schichten passiert.
+
+Wir sprechen auch über Protokolle und Standards. Protokolle sind Regeln, die festlegen, wie Sender und Empfänger miteinander kommunizieren. Standards sind Normen, die beschreiben, wie diese Protokolle aussehen sollen, damit alle gleich arbeiten können. 
+
+Wenn ein neuer Standard vorgeschlagen wird, muss er zuerst überprüft und getestet werden, bevor er als richtig anerkannt wird. Wir sehen auch, wie ein Beispiel zeigt, wie eine Anfrage an einen Web-Server funktioniert, indem verschiedene Schichten zusammenarbeiten. 
+
+Es ist wichtig zu wissen, dass all diese Schritte, von den Protokollen bis zu den Standards, zusammenarbeiten, um die Kommunikation in Netzwerken zu ermöglichen.

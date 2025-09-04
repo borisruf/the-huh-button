@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie Informationen in einem Netzwerk übertragen werden, und das in einfachen Schichten organisiert ist. 
+
+Stell dir vor, die Kommunikation zwischen Geräten ist wie eine große Aufgabe, die in kleine Schritte unterteilt wird. Diese Schritte nennt man Schichten. 
+
+Die Schichten 7 bis 5 sind die, die sich mit den Inhalten befassen, wie z.B. E-Mails. In diesen Schichten geht es darum, wie die ursprünglichen Informationen (die E-Mail) und zusätzliche Infos (Köpfe) vorbereitet und bereitgestellt werden, damit sie geschickt werden können.
+
+Die oberste Schicht (Schicht 7) ist für das „Anschreiben“ zuständig (z.B. die E-Mail schreiben). Die nächste Schicht (Schicht 6) sorgt dafür, dass die Informationen schön und in einem bestimmten Format dargestellt werden. Und die Schicht darunter (Schicht 5) kümmert sich darum, wie eine Verbindung zwischen den Geräten hergestellt und gehalten wird.
+
+Diese Schichten sind wichtig, um sicherzustellen, dass die Informationen richtig und zuverlässig von einem Ort zum anderen kommen. Die Schicht direkt unter diesen fokussiert sich dann darauf, die Informationen tatsächlich zu transportieren.

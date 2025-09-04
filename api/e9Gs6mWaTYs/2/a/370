@@ -1,0 +1,15 @@
+In diesem Text geht es darum, wie Computer miteinander kommunizieren. Es gibt bestimmte Regeln, die genannt werden Protokolle, und allgemeine Vereinbarungen, die Standards genannt werden. Diese helfen den Geräten, sich zu verstehen, wenn sie Informationen austauschen.
+
+Das Bild, das erwähnt wird, zeigt, dass viele Dinge hinter unserer Kommunikation im Internet stecken. Es gibt Modelle, wie das OSI-Modell und das TCP-IP-Modell, die erklären, wie verschiedene Teile der Kommunikation funktionieren. Diese Modelle helfen uns, die ganzen komplizierten Abläufe besser zu verstehen.
+
+Wenn Computer miteinander sprechen, müssen sie zum Beispiel wissen:
+1. Wie sie eine Verbindung aufbauen und wieder trennen.
+2. Was passiert, wenn etwas schiefgeht, also Fehler auftreten.
+3. Wann sie anfangen, Informationen zu senden und wann sie aufhören.
+4. In welchem Format die Informationen sind, zum Beispiel Text oder Bild.
+
+Standards sind wichtig, weil sie sicherstellen, dass alle Geräte die gleichen Regeln benutzen. Diese Standards werden von bestimmten Gruppen festgelegt. Es gibt einen Prozess, um einen Standard zu entwickeln, der oft als „Request for Comment“ (RFC) beginnt. Wenn viele Leute sagen, dass der Standard gut ist, kann er offiziell anerkannt werden.
+
+Das Bild zeigt auch, wie beim Surfen im Internet Informationen von einem Computer (Client) zu einem Server und zurück geschickt werden. Damit alles richtig funktioniert, müssen viele Schritte beachtet werden, was in den verschiedenen Schichten der Modelle dargestellt wird.
+
+Zusammengefasst: Hinter den simplen Aktionen, die wir im Internet machen, stehen viele Regeln und Abläufe, die sicherstellen, dass alles reibungslos funktioniert.

@@ -1,0 +1,9 @@
+In den beiden Bildern haben wir gesehen, wie Computer und Geräte miteinander verbunden sind. Es geht um die Art und Weise, wie wir diese Verbindungen nennen und einteilen. 
+
+Es gibt verschiedene Arten von Netzwerken, die sich danach unterscheiden, wie weit die Verbindungen sind. Ein Beispiel sind Personal Area Networks (PANs), die werden oft für tragbare Geräte wie Smartwatches verwendet und sind sehr nah beieinander. Dann gibt es Local Area Networks (LANs), die in einem kleinen Gebiet funktionieren, wie z.B. in einem Büro. Wenn das Netzwerk größer wird, nennt man es Metropolitan Area Network (MAN), das können Stadtbereiche sein. Und das größte Netzwerk ist das Wide Area Network (WAN), das kann sogar die gesamte Welt verbinden.
+
+In einem LAN können viele Geräte an ein gemeinsames Kabel angeschlossen werden und sie teilen sich die Verbindung. Im Gegensatz dazu funktioniert die Verbindung in einem WAN anders. 
+
+Die Anordnung von Geräten in einem Netzwerk nennt man Topologie. Das ist einfach die Art und Weise, wie alles zusammengebaut ist. Es gibt verschiedene Formen, wie z.B. einen Stern oder einen Bus. Ein wichtiges Beispiel ist die Stern-Topologie, wo alle Geräte mit einem Zentrum verbunden sind. Das Zentrum verteilt die Daten, aber es ist nicht sehr intelligent, es schickt einfach alles an alle. Das bedeutet, auch wenn die Geräte als Stern angeordnet sind, funktioniert die Datenübertragung wie in einem Bus-System, wo alle Geräte miteinander verbunden sind.
+
+So unterscheiden wir zwischen der physikalischen Anordnung (wie alles tatsächlich aussieht) und der logischen Anordnung (wie die Daten wirklich fließen). Um ein Netzwerk zu betreiben, brauchen wir auch physische Verbindungen zwischen den Geräten.

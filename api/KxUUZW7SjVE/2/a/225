@@ -1,0 +1,15 @@
+Die Aussage erklärt, wie Daten von einem Gerät zu einem anderen über das Internet oder ein Netzwerk geschickt werden. Hier ist es ganz einfach erklärt:
+
+1. **Daten senden**: Wenn du Daten, wie eine E-Mail, sendest, werden sie in kleine Teile zerlegt. Diese Teile werden dann in ein Format gebracht, das über Netzwerke geschickt werden kann.
+
+2. **Router**: Die Daten kommen bei einem Gerät an, das "Router" heißt. Der Router hilft, die Daten an das richtige Ziel weiterzuleiten.
+
+3. **Daten entpacken**: Der Router schaut sich die ankommenden Daten genau an. Er entfernt dabei die zusätzlichen Informationen, die beim Senden hinzugefügt wurden, und schaut sich die speziellen Adressen an (MAC-Adresse und IP-Adresse). Diese Adressen helfen dem Router zu erkennen, für wen die Daten bestimmt sind.
+
+4. **Entscheidung treffen**: Der Router entscheidet dann, wohin die Daten als Nächstes geschickt werden sollen. Dafür sieht er sich die Adressen an, die er gefunden hat.
+
+5. **Daten wieder verpacken**: Bevor die Daten weitergeschickt werden, packt der Router sie wieder in ein spezielles Format mit den richtigen Adressen.
+
+6. **Daten weiterleiten**: Schließlich schickt der Router die Daten weiter, sodass sie ihr Ziel erreichen können. Dabei können die Daten durch viele Router reisen, bis sie beim richtigen Empfänger ankommen.
+
+Im Grunde geht es darum, dass die Geräte im Netzwerk die Informationen richtig lesen, entscheiden, wohin sie gehen sollen, und sie dann in ein passendes Format bringen, um sie weiterzuleiten.

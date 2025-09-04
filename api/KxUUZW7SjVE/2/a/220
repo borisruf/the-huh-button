@@ -1,0 +1,9 @@
+Die Aussage bedeutet einfach gesagt, dass der Router, wenn Daten ankommen, sie zuerst in ein verständliches Format umwandelt. 
+
+1. **Signal-Dekodierung**: Der Router hört zuerst die Signale, die wie ein Geheimcode sind, und übersetzt sie in eine Form, die er verstehen kann – das nennt man Bitfolge (eine Liste von Einsen und Nullen).
+
+2. **MAC-Adresse**: Dann schaut der Router nach einer besonderen Adresse, die MAC-Adresse, die zeigt, ob die Daten für ihn bestimmt sind oder nicht. Das ist so ähnlich wie eine Hausnummer, die anzeigt, wohin die Daten geschickt werden sollen.
+
+3. **IP-Adresse und Port**: Danach überprüft er eine andere Adresse, die IP-Adresse, die mehr Informationen darüber gibt, wo die Daten hin müssen. Er guckt auch, welchen „Tür“ (Port) die Daten benutzen sollen, um weitergeschickt zu werden.
+
+Zusammengefasst: Der Router verwandelt die eingehenden Daten in etwas Verständliches, überprüft, ob die Daten für ihn gedacht sind und entscheidet dann, wohin die Daten als Nächstes geschickt werden sollen.

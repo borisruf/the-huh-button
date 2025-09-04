@@ -1,0 +1,5 @@
+Wir sprechen hier über ein Modell, das hilft, komplizierte Dinge einfacher zu verstehen. Es geht um Kommunikation in Computernetzwerken. Dieses Modell hat sieben Schichten, also sieben Teile, die jeweils eine andere Aufgabe haben. 
+
+Man kann sich das wie eine Torte vorstellen – in diesem Fall eine Torte mit sieben Schichten. Jede Schicht der Torte hat ihren eigenen Geschmack und ihre eigene Funktion, genau wie jede Schicht des Modells ihre eigene Rolle in der Kommunikation hat. 
+
+Früher haben die Leute in der Technologie festgestellt, dass es wichtig ist, Systeme zu teilen, damit sie besser miteinander arbeiten können. So entstand das sogenannte ISO-OSI-Modell, das eine gute Struktur bietet, um diese Kommunikation zu organisieren.

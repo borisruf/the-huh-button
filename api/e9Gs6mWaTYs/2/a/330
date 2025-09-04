@@ -1,0 +1,9 @@
+Okay, lass uns das einfacher erklären:
+
+In einem Netzwerk haben wir verschiedene Ebenen, die zusammenarbeiten, damit Computer miteinander kommunizieren können. Eine wichtige Ebene heißt MAC-Layer. Dort wird festgelegt, wie Computer sich ansprechen und welche Adressen sie verwenden.
+
+Wenn du zum Beispiel mit deinem Laptop das Internet nutzt, sendest du eine Anfrage, wenn du eine Webseite öffnen möchtest. Dein Laptop sendet diese Anfrage über ein Kabel oder WLAN zu einem sogenannten Router. Der Router sorgt dafür, dass die Anfrage an die richtige Stelle im Internet geht. Dabei schaut der Router, wohin die Anfrage geschickt werden soll, indem er die Adressen prüft.
+
+Die Anfrage wird dann von einem Router zum anderen weitergeleitet, bis sie beim Webserver landet, wo die Webseite gespeichert ist. Der Webserver empfängt die Anfrage und schickt die benötigten Informationen zurück. Diese Antwort kommt dann auf demselben Weg wieder zu deinem Laptop zurück.
+
+Zusammenfassend gesagt: Es gibt Regeln (Protokolle), die festlegen, wie Computer miteinander sprechen. Es gibt auch Standards, die sicherstellen, dass die Geräte von verschiedenen Herstellern miteinander arbeiten können. Das alles hilft, dass Informationen im Internet schnell und zuverlässig von einem Punkt zum anderen gelangen.

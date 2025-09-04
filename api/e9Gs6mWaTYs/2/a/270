@@ -1,0 +1,9 @@
+Die Aussage bedeutet Folgendes:
+
+Ein Access-Point ist ein Gerät, das hilft, drahtlos mit dem Internet oder einem Netzwerk zu verbinden. Man kann sich das wie eine Brücke vorstellen, die zwei wichtige Bereiche oder "Schichten" abdeckt.
+
+Diese zwei Schichten sind wichtig für die Kommunikation zwischen Geräten. Eine dieser Schichten wird noch einmal in zwei Teile aufgeteilt. Der erste Teil heißt "Logical Link Control" (LLC) und der zweite Teil heißt "MAC-Layer". 
+
+Man muss sich nicht verwirren lassen, dass diese eine Schicht in zwei Teile unterteilt ist. Es ist einfach eine genauere Beschreibung von dem, was der Access-Point macht, wenn er die Verbindung zwischen Geräten und dem Netzwerk herstellt. 
+
+Zusammengefasst: Der Access-Point hat zwei Hauptaufgaben, und eine davon hat noch zwei spezifische Teile.

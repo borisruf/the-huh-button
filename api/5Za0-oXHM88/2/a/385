@@ -1,0 +1,13 @@
+Diese Aussage erklärt, wie viel Daten in einer bestimmten Art von Kabel, das über den Atlantik verläuft, gleichzeitig gespeichert werden können. 
+
+Hier ist die Erklärung in einfacher Sprache:
+
+1. **Bandbreite**: Stell dir vor, die Bandbreite ist wie die Breite einer Straße. Eine breitere Straße kann mehr Autos gleichzeitig fahren lassen. In unserem Fall ist die "Straße" für Daten 45 Megabit pro Sekunde breit. Das bedeutet, dass in einer Sekunde bis zu 45 Megabit an Daten übertragen werden können.
+
+2. **Signallaufzeit**: Das ist die Zeit, die ein Signal benötigt, um von einem Ort zum anderen zu gelangen. Wenn das Signal lange braucht, beeinflusst das, wie viele Daten es gleichzeitig transportieren kann.
+
+3. **Speicherplatz für Daten**: Wenn man die Bandbreite (also wie schnell die Daten fahren können) und die Signallaufzeit (also wie lange sie brauchen) zusammen betrachtet, kommt man zu einem Ergebnis, dass theoretisch 280 Kilobit an Daten in dieser Art von Leitung gespeichert werden können. 
+
+Das bedeutet, dass es so ist, als würde in der Datenstraße bei der Übertragung von Informationen Platz für 280 Kilobit zur Verfügung stehen, sodass die Daten nicht alle auf einmal, sondern nacheinander übertragen werden können, ohne dass etwas verloren geht. 
+
+Zusammengefasst: Wenn wir wissen, wie schnell die Daten transportiert werden können und wie lange das Signal braucht, können wir berechnen, wie viele Daten wir im Kabel gleichzeitig "parken" können.

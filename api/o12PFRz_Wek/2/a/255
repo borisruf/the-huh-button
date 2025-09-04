@@ -1,0 +1,7 @@
+Die Aussage beschreibt, dass es zwei Arten von "Topologie" in einem Netzwerk gibt: die **physikalische Topologie** und die **logische Topologie**.
+
+- **Physikalische Topologie**: Das ist die echte Anordnung der Geräte in einem Netzwerk, also wie die Geräte tatsächlich verbunden sind. Stell dir vor, du hast einen Stern, bei dem alle Punkte (Geräte) von der Mitte (dem Hub) ausgehen. Diese Anordnung siehst du auf der linken Seite.
+
+- **Logische Topologie**: Das beschreibt, wie die Daten durch das Netzwerk fließen, also wie sie tatsächlich gesendet werden. Auch wenn die Geräte wie in einem Stern angeordnet sind, funktioniert der Datenfluss vielleicht wie in einer Buslinie, bei der alle Geräte gleichzeitig die Nachrichten empfangen.
+
+In einfachen Worten: Die physikalische Topologie zeigt, wie alles aussieht und verbunden ist. Die logische Topologie zeigt, wie die Informationen tatsächlich durch das Netzwerk wandern. Diese beiden können unterschiedlich sein, und das ist wichtig zu verstehen.

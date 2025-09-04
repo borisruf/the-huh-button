@@ -1,0 +1,9 @@
+Auf diesem Bild sehen wir, was alles bei der Kommunikation im Netzwerk passiert. Es gibt zwei Modelle, die uns helfen zu verstehen, wie diese Kommunikation funktioniert. Das erste Modell heißt OSI-Modell. Es zeigt sehr genau, wie die Kommunikation in verschiedene Schichten unterteilt ist. Dadurch wird es leichter, zu verstehen, was in jeder Schicht passiert.
+
+Das zweite Modell heißt DoD-Modell oder TCP/IP-Modell. Dieses Modell ist etwas einfacher und nicht so detailliert wie das OSI-Modell, aber es ist das Grundmodell für die Netzwerkkommunikation, die wir heute kennen.
+
+In der Kommunikation gibt es Regeln, die Protokolle genannt werden. Diese Protokolle bestimmen, wie Computer miteinander sprechen, zum Beispiel wann sie eine Verbindung herstellen oder wie sie mit Fehlern umgehen. Außerdem gibt es Standards, die festlegen, wie Dinge einheitlich gemacht werden sollen, damit verschiedene Systeme gut zusammenarbeiten können.
+
+Wenn neue Standards entwickelt werden, gibt es einen Prozess. Zuerst wird eine Idee vorgestellt, dann wird sie von Experten geprüft und verbessert. Wenn die Idee gut ist, wird sie zu einem offiziellen Standard.
+
+Im Beispiel von einem Web-Browser, der mit einem Web-Server spricht, sehen wir, dass viele Schritte und Schichten beteiligt sind. Die Daten werden auf verschiedene Weise verarbeitet, bevor sie zum Ziel gelangen. Das Bild zeigt uns diesen gesamten Vorgang und hilft, ihn besser zu verstehen.

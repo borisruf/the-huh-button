@@ -1,0 +1,9 @@
+In dieser Aussage wird erklärt, wie Daten zwischen einem Benutzer (Client) und einem Server über das Internet ausgetauscht werden. 
+
+1. **Zwei Richtungen**: Die Pfeile zeigen, dass Informationen nicht nur in eine Richtung fließen. Wenn der Client etwas anfordert, sendet der Server eine Antwort zurück.
+
+2. **Was sieht der Nutzer?**: Die gestrichelte rote Linie zwischen Client und Server ist das, was du als Nutzer siehst. Es ist wie eine Verbindung, die du benutzt, um mit dem Server zu kommunizieren.
+
+3. **Hinter den Kulissen**: Das Diagramm zeigt nur einen kleinen Teil dessen, was wirklich passiert, wenn Informationen ausgetauscht werden. Es gibt viele technische Details und Prozesse, die im Hintergrund ablaufen, um sicherzustellen, dass alles funktioniert.
+
+Zusammengefasst erklärt dieser Abschnitt, dass der Austausch von Informationen komplex ist und dass es viele Schritte gibt, die notwendig sind, damit du als Nutzer eine Verbindung herstellen und Daten senden oder empfangen kannst.

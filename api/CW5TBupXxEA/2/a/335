@@ -1,0 +1,11 @@
+In einfachen Worten:
+
+Das OSI-Modell ist eine Art Anleitung, die erklärt, wie Computer miteinander sprechen können. Man kann es sich wie Schichten einer Torte vorstellen. Jede Schicht hat eine bestimmte Aufgabe. 
+
+Die oberen Schichten, also die Schichten 7 bis 5, sind wichtig für alles, was mit Anwendungen und der Kommunikation zu tun hat. 
+
+- **Schicht 7 (Anwendungsschicht)**: Hier schreibt der Benutzer eine E-Mail. 
+- **Schicht 6 (Darstellungsschicht)**: Hier wird festgelegt, wie die E-Mail aussehen soll, z.B. ob sie ein Bild enthält oder in einer bestimmten Schriftart ist.
+- **Schicht 5 (Sitzungsschicht)**: Diese Schicht kümmert sich darum, wie die Verbindung zwischen den Computern hergestellt, gehalten und beendet wird.
+
+Alle diese Schichten arbeiten zusammen, um sicherzustellen, dass die E-Mail richtig vom Computer des Absenders zum Server und dann zum Computer des Empfängers gelangt.
