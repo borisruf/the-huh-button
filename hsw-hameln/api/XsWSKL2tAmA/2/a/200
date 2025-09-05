@@ -1,1 +1,11 @@
-Die Aussage beschreibt, wie eine spezielle Art von Internetadresse (IP-Adresse) organisiert ist. Hier wird eine bestimmte Adresse, nämlich die 172.16.14.193, als Beispiel genommen. Diese Adresse ist in der Klasse B, eine Kategorie von IP-Adressen. Jede IP-Adresse hat auch eine sogenannte "Subnetzmaske", welche dazu verwendet wird, um Teile der Adresse zu bezeichnen, die zum Netzwerk gehören, und andere Teile, die zum einzelnen Computer (oder "Host") gehören. In diesem Fall hat die Subnetzmaske dieser Adresse 16 Nullen, wenn man sie in der Computersprache des Binärcodes betrachtet. Diese Nullen sind wichtig, um herauszufinden, wie viele Computeradressen in diesem Netzwerk zur Verfügung stehen.
+In einfachen Worten: 
+
+Eine IP-Adresse, wie zum Beispiel 172.16.14.193, ist wie eine Adresse für einen Computer im Internet. Diese Adresse besteht aus vier Teilen, die wir "Oktette" nennen. Jedes Oktett hat eine Länge von 8 Bit, also insgesamt gibt es 32 Bit.
+
+Jede IP-Adresse hat auch eine sogenannte Subnetzmaske. Die Subnetzmaske hilft uns zu wissen, welcher Teil der IP-Adresse zu einem Netzwerk gehört (das ist der Netzanteil) und welcher Teil zu einem bestimmten Computer im Netzwerk (das ist der Host-Anteil).
+
+Die Subnetzmaske sieht ähnlich aus wie die IP-Adresse, auch sie hat vier Teile. Zum Beispiel, eine Subnetzmaske für die IP-Adresse 172.16.14.193 könnte so aussehen: 255.255.255.0. 
+
+Es gibt verschiedene Klassen von IP-Adressen, und jede Klasse hat eine eigene Standard-Subnetzmaske. Diese Klassen helfen uns zu bestimmen, wie viele Computer in einem Netzwerk sein können. Wichtig ist, dass die Anzahl der "Nullen" in der Subnetzmaske sagt, wie viele Computeradressen wir haben können.
+
+Wenn wir die IP-Adresse in einen anderen Zahlensystem (binär) umwandeln wollen, können wir das tun, indem wir die Werte der Bits in den Oktetten beachten. So können wir auch zwischen den verschiedenen Formaten hin und her rechnen.

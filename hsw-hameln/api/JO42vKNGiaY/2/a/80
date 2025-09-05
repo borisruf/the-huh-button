@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes: 
+
+Es gibt zwei Arten von IP-Adressen, die wir im Internet benutzen. Die ältere Art heißt IP Version 4 und hat Adressen, die 32 "Bits" lang sind. Das sind wie kleine Bausteine, aus denen die Adresse besteht. 
+
+Jetzt gibt es eine neue Art von IP-Adressen, die heißt IP Version 6. Diese Adressen sind viel länger, nämlich 128 Bits. Weil die Adressen bei IP Version 6 viel länger sind, können wir viel, viel mehr davon erstellen. 
+
+Genauer gesagt, kann man mit diesen langen Adressen insgesamt 10 hoch 38 (also 10 mit 38 Nullen) ganz unterschiedliche Adressen machen. Das ist eine riesige Menge an Adressen, viel mehr als bei der älteren Version. Dies hilft, das Problem zu lösen, dass es nicht genug Adressen gibt, damit alle Geräte im Internet eine eigene haben können.

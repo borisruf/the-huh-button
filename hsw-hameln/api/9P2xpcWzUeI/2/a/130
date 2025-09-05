@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass man das Netzwerk flexibler machen kann. Statt feste Regeln zu haben, wo zum Beispiel jeder Stock ein eigenes Netzwerk hat, kann man es so einrichten, dass die Geräte sich automatisch in Gruppen, sogenannte VLANs, organisieren können. 
+
+Dafür braucht man eine spezielle Steuerstation im Netzwerk. Diese Steuerstation schaut sich die MAC-Adressen an – das sind besondere Nummern, die jedes Gerät hat, ähnlich einer Adresse. Anhand dieser Nummern kann die Steuerstation entscheiden, welchem VLAN ein Gerät zugeordnet werden soll. So kann man die Netzwerke dynamisch anpassen, je nachdem, welche Geräte gerade online sind, anstatt alles fest einzustellen. Es macht das Netzwerk also einfacher und flexibler zu nutzen.

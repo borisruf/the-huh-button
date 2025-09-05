@@ -1,0 +1,7 @@
+Die Aussage bedeutet folgendes:
+
+Es gibt viele Computer und Geräte, die eine Internetadresse brauchen, um miteinander zu kommunizieren. Bei der alten Version von Internet-Adressen, die IP Version 4 heißt, gehen die verfügbaren Adressen langsam aus. Das ist ein Problem. Um dieses Problem zu lösen, denken die Leute sich neue Möglichkeiten aus, damit nicht jeder eine eigene Adresse braucht.
+
+Zusätzlich gibt es bei diesen alten Adressen nicht genug Sicherheit, um die Daten zu schützen. Das werden wir später genauer besprechen. Außerdem ist es schwierig, alles gut zu organisieren, wenn wir nicht mit etwas wie Subnetzen arbeiten. 
+
+Subnetze helfen dabei, das Netzwerk besser zu verwalten, sodass viele Geräte innerhalb einer Gruppe zusammenarbeiten können, ohne dass jeder eine eigene Adresse braucht.

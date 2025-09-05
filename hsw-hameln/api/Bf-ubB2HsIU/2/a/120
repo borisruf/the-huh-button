@@ -1,1 +1,7 @@
-In diesem Text geht es um zwei sehr wichtige Regeln, die Computer nutzen, um miteinander zu reden. Diese Regeln heißen TCP und IP. Man kann es sich so vorstellen: Wenn Computer miteinander reden, dann tun sie das so wie wir einen Brief schicken. IP ist dabei die Adresse, an die der Brief geschickt wird und von wem er kommt. TCP ist wie der Postbote, der dafür sorgt, dass der Brief auch wirklich ankommt. Es gibt noch andere Regeln, aber diese beiden sind sehr wichtig und wir wollen sie uns genauer ansehen.
+In dieser Erklärung geht es um die Grundlagen der Netzwerke und zwei wichtige Protokolle, die dafür verwendet werden: TCP und IP.
+
+Stell dir vor, das Netzwerk ist wie ein Postdienst. IP ist wie der Postbote, der Briefe von einem Absender zu einem bestimmten Ziel bringt. Er kümmert sich nicht darum, ob der Empfänger zuhause ist oder nicht, sondern schickt einfach den Brief an die Adresse. Das bedeutet, IP schickt die Daten einfach ohne eine feste Verbindung.
+
+TCP ist wie ein zuständiger Mitarbeiter beim Postdienst, der dafür sorgt, dass der Brief sicher ankommt. Er fragt den Empfänger: "Hast du den Brief bekommen?" und wenn nicht, schickt er ihn erneut. TCP sorgt also dafür, dass die Informationen richtig und vollständig ankommen.
+
+Zusammengefasst: IP bringt die Daten von A nach B, während TCP sicherstellt, dass die Daten auch wirklich ankommen und bestätigt werden.

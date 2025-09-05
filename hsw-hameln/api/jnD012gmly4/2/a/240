@@ -1,0 +1,5 @@
+Die Aussage besagt, dass beim Übertragen von Daten eine Regel gilt: Wenn der Sender im Datenbereich fünf Einsen hintereinander sieht, fügt er automatisch eine Null (0) hinzu. Dieses Hinzufügen der Null nennt man "Stopfbit". 
+
+Warum macht er das? Damit keine Verwirrung entsteht! Wenn im Datenbereich das Muster "111110" (also fünf Einsen gefolgt von einer Eins und dann einer Null) auftaucht, könnte der Empfänger denken, das sei ein spezielles Zeichen, das das Ende der Daten markiert. Um das zu verhindern, wird nach fünf Einsen eine Null eingefügt, um sicherzustellen, dass das spezielle Ende-Zeichen nicht fälschlicherweise in den Daten auftaucht.
+
+Zusammengefasst: Nach fünf Einsen kommt eine Null, damit die Daten richtig verstanden werden und es keine Missverständnisse gibt.

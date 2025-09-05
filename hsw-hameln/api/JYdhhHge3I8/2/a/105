@@ -1,0 +1,5 @@
+Die Aussage sagt, dass es verschiedene Möglichkeiten gibt, wie Daten in einem Netzwerk weitergegeben werden. Eine davon ist die "Speichervermittlung", auch genannt "Store-and-Forward". 
+
+Stell dir vor, du schickst einen Brief: Manchmal kannst du ihn direkt in den Briefkasten der Person werfen, die ihn bekommen soll (das wäre wie die Punkt-zu-Punkt-Leitungsvermittlung). Aber manchmal gibt es einen Postboten, der den Brief zuerst in seinem eigenen Briefkasten sammelt und später an die richtige Adresse bringt. Das ist die Speichervermittlung. 
+
+Hier sammelt das Vermittlungssystem (wie ein Switch oder Router) die Daten zuerst und leitet sie dann weiter, wenn es bereit ist. So sorgt es dafür, dass die Daten die richtige Richtung nehmen, auch wenn es einen kurzen Moment dauert.

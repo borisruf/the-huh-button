@@ -1,0 +1,9 @@
+In der Aussage wird erklärt, wie man IP-Adressen in der neuen Version 6 (IPv6) kürzen und wieder zurückverwandeln kann. 
+
+Stell dir vor, die IPv6-Adresse hat viele Zahlen und Buchstaben, die manchmal mit Nullen beginnen. Wenn du eine Adresse abkürzt, kannst du die Nullen, die am Anfang eines Blocks stehen, einfach weglassen. 
+
+Das bedeutet, zum Beispiel die Adresse "0012" kannst du einfach als "12" schreiben. 
+
+Wenn du eine ganz lange Reihe von Nullen hast, darfst du diese Nullen auch einmal ganz weglassen und durch zwei ":" ersetzen, um die Adresse kürzer und einfacher zu machen. 
+
+Wenn du die Adresse dann wieder aufschreiben willst, machst du es so, dass du die weggelassenen Nullen einfach wieder hinzufügst. Also, wenn du die Abkürzung "Doppelpunkt, Doppelpunkt 1" hast, bedeutet das, du schreibst alle Nullen, die du vorher weggelassen hast, zurück und hast die vollständige Adresse wieder.

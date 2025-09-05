@@ -1,0 +1,11 @@
+Um ein WLAN aufzubauen, gibt es verschiedene Möglichkeiten, abhängig von der Entfernung, den verwendeten Standards und der benötigten Bandbreite. 
+
+1. **Wireless Personal Area Network (WPAN)**: Hierbei wird typischerweise Bluetooth verwendet, das für kurze Entfernungen bis zu 10 Metern konzipiert ist und Datenraten von 2,1 bis 24 Megabit pro Sekunde ermöglicht.
+
+2. **Wireless Local Area Network (WLAN)**: Basierend auf dem IEEE 802.11 Standard, ermöglicht WLANs Übertragungsraten von 5 bis 600 Megabit pro Sekunde, wobei verschiedene Versionen (wie 802.11n, die 2009 standardisiert wurde) unterschiedliche Geschwindigkeiten und Reichweiten bieten. 
+
+3. **Wireless Metropolitan Area Network (WMAN)**: Zum Beispiel WiMAX (IEEE 802.16) kann Übertragungsraten von bis zu 1 Gigabit pro Sekunde für größere Entfernungen, wie in Städten, bereitstellen.
+
+4. **Wireless Wide Area Network (WWAN)**: Hierbei handelt es sich um mobile Funknetze wie LTE, die über größere Distanzen gestrickt sind und theoretisch Geschwindigkeiten bis zu 225 Megabit pro Sekunde bieten.
+
+Bei der Planung eines WLANs müssen technische Merkmale wie die Bitübertragungsschicht und die Zugangskontrolle berücksichtigt werden, um eine stabile Verbindung und eine optimale Nutzung des Frequenzspektrums zu gewährleisten.

@@ -1,0 +1,3 @@
+Die Klassen D und E sind spezielle Gruppen von IP-Adressen, die für bestimmte Zwecke genutzt werden. Klasse D wird zum Beispiel für das Multicast verwendet, das bedeutet, dass eine Nachricht an viele Empfänger gleichzeitig geschickt werden kann. Klasse E hingegen wird oft für Forschung genutzt. 
+
+Für diesen Teil müssen wir uns jetzt aber nicht weiter kümmern; wichtig sind erstmal die Klassen A, B und C, die wir schon kennengelernt haben.

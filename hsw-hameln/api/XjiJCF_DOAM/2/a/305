@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass, wenn du die webseite „google.de“ eingibst, dein Computer eine spezielle Nummer benötigt, um Google im Internet zu finden. Diese spezielle Nummer nennt man IP-Adresse. 
+
+Der Prozess läuft so ab: Dein Computer fragt zuerst, was die IP-Adresse von „google.de“ ist. Dies geschieht durch ein System namens DNS. Das DNS übersetzt den Namen „google.de“ in die dazugehörige IP-Adresse. Dadurch kann dein Computer sich mit dem richtigen Google-Server verbinden, um die Webseite anzuzeigen.
+
+Zusammengefasst: „google.de“ ist wie ein Name, und die IP-Adresse ist wie eine geheime Telefonnummer, die verwendet wird, damit dein Computer mit Google sprechen kann. 

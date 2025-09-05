@@ -1,0 +1,14 @@
+Verstärkung bedeutet, dass man ein Signal oder eine Energie, die in ein System kommt, größer macht, damit sie am Ende stärker herauskommt. 
+
+Stell dir vor, du hast einen Wasserhahn. Das Wasser, das du aufdrehst, ist wie die „Eingangsspannung“. Wenn du mehr Wasser herauslässt, ist das wie die „Ausgangsspannung“. 
+
+Im Beispiel mit dem Wasser haben wir also:
+
+- **Eingangsgröße**: Das Wasser, das du aus dem Hahn lässt.
+- **Ausgangsgröße**: Das Wasser, das aus dem Hahn fließt und vielleicht stärker oder schneller herauskommt.
+
+In der Technik schauen wir uns verschiedene Dinge an, wenn wir ein Signal von einem Gerät zu einem anderen schicken. Manchmal werden Signale schwächer, das nennt man "Dämpfung". Das kann passieren, weil das Kabel, durch das das Signal geschickt wird, nicht perfekt ist – genauso wie der Wasserhahn vielleicht ein bisschen leckt.
+
+Um sicherzustellen, dass das Signal am Ende stark und klar ankommt, brauchen wir Verstärkung. Das bedeutet, wir müssen das schwächere Signal wieder auf ein stärkeres Niveau bringen, damit du die Botschaft deutlich hörst oder siehst. 
+
+Wir vergleichen die Dinge, die ins System gehen (wie die Eingangsspannung) mit den Dingen, die herauskommen (wie die Ausgangsspannung). Wenn die Dinge, die hereinkommen, klein sind, machen wir sie mit Verstärkung größer, sodass sie am Ende besser ankommen.

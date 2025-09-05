@@ -1,0 +1,7 @@
+Eine IP-Version 6-Adresse ist eine spezielle Art von Adresse, die Computer im Internet nutzen, um miteinander zu kommunizieren. Sie ist viel länger und komplizierter als die alten IP-Version 4-Adressen. Wenn man eine IP-Version 6-Adresse schreibt, gibt es Regeln, um es einfacher zu machen. 
+
+Ein wichtiger Punkt ist, dass man die Nullen am Anfang von den Zahlengruppen weglassen kann. Zum Beispiel, wenn eine Gruppe so aussieht: 00AB, kann man einfach AB schreiben. 
+
+Außerdem gibt es eine Regel, die besagt, dass man eine lange Folge von Nullen in einer Adresse mit einem speziellen Zeichen, dem doppelten Doppelpunkt (::), abkürzen kann. Man kann das einmal in der ganzen Adresse tun. 
+
+Das Besondere ist, dass eine IP-Version 6-Adresse auch mit einem doppelten Doppelpunkt anfangen kann, was bedeutet, dass sie gleich zu Beginn eine lange Folge von Nullen hat. Das macht es einfacher, die Adresse zu schreiben und zu lesen.

@@ -1,0 +1,13 @@
+Die Herausforderungen im Bereich der WLAN-Standards und -Technologien sind vielfältig. Dazu gehören:
+
+1. **Interferenz und Störanfälligkeit**: Funknetze sind anfällig für Störungen durch andere drahtlose Geräte sowie physische Hindernisse, was die Signalstärke und -qualität beeinträchtigen kann.
+
+2. **Kapazitätsgrenzen**: In Shared Media-Umgebungen müssen mehrere Geräte das verfügbare Band teilen, was zu Überlastungen und verringerter Bandbreite führen kann.
+
+3. **Sicherheitsfragen**: Da WLAN-Netzwerke für unbefugte Zugriffe anfällig sind, müssen angemessene Sicherheitsmaßnahmen wie WPA2/WPA3 implementiert werden, um Daten zu schützen.
+
+4. **Reichweiten- und Dämpfungsprobleme**: Die Reichweite von WLAN-Signalen kann durch physische Barrieren und andere Umwelteinflüsse stark eingeschränkt werden.
+
+5. **Netzwerkintegration**: Die Zusammenarbeit zwischen verschiedenen Access Points und die Integration in bestehende Netzwerkinfrastrukturen kann komplex sein und eine sorgfältige Planung erfordern.
+
+Diese Herausforderungen bedürfen einer sorgfältigen Beachtung, um ein stabiles und leistungsfähiges WLAN-Netzwerk zu gewährleisten.

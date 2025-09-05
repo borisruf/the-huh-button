@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes: Wenn ein Datenpaket, also eine kleine Menge Informationen, bei einem Router ankommt, muss der Router zuerst überprüfen, ob er der letzte Schritt ist, um die Daten ans Ziel zu bringen. 
+
+Um es noch einfacher zu erklären: Stell dir vor, du bist auf einer Reise und fährst zu einem Freund. Wenn du an eine Kreuzung kommst, musst du zuerst überlegen, ob du gleich rechts abbiegen musst, um zu deinem Freund zu kommen. Wenn das so ist, dann weiß der Router, dass er die Informationen direkt weiterleiten kann. 
+
+Die Router in einem Netzwerk funktionieren ähnlich. Sie helfen, die Daten den besten Weg zu ihrem Ziel zu finden, so wie du den besten Weg zu deinem Freund suchst.

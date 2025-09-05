@@ -1,0 +1,7 @@
+Die Aussage besagt, dass bei zwei verschiedenen Arten von Protokollen, TCP und UDP, unterschiedliche Dinge vorhanden sind. 
+
+1. **Flusskontrolle**: Das bedeutet, dass bei TCP darauf geachtet wird, dass nicht zu viele Daten auf einmal gesendet werden, um Überlastungen zu vermeiden. Bei UDP gibt es diese Überwachung nicht, es wird einfach losgeschickt.
+
+2. **Fehlerbehebung**: Wenn Daten gesendet werden, können Fehler passieren. TCP hat Methoden, um solche Fehler zu erkennen und zu korrigieren. UDP hat eine einfache Methode namens Checksumme, um Fehler zu erkennen, aber es wird nichts unternommen, um die Fehler zu reparieren.
+
+Zusammengefasst: TCP kümmert sich um die Sicherheit der Datenübertragung, während UDP schnellere Übertragungen ermöglicht, aber weniger auf die Sicherheit achtet.

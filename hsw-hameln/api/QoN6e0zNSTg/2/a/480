@@ -1,0 +1,5 @@
+Eine MAC-Adresse ist eine Art spezielle Identifikation für Geräte, die im Netzwerk kommunizieren, wie zum Beispiel Computer oder Drucker. Sie hat eine feste Länge von 6 Byte (das sind 48 Bits) und wird oft in einer bestimmten Schriftart - der Hexadezimaldarstellung - angezeigt. In dieser Darstellung werden die Bytes durch Bindestriche getrennt, zum Beispiel: 00-1A-2B-3C-4D-5E.
+
+Die ersten drei Bytes der MAC-Adresse zeigen an, welcher Hersteller das Gerät gemacht hat. Das hilft zu erkennen, von welchem Unternehmen das Gerät stammt. Die letzten drei Bytes sind für das individuelle Gerät gedacht und ermöglichen es, dass sehr viele Geräte eine eigene MAC-Adresse haben. Genauer gesagt ergeben diese letzten drei Bytes 2^24 (das sind 16.777.216) verschiedene Adressen. 
+
+Das bedeutet, dass Millionen von Geräten im Netzwerk eindeutig identifiziert werden können, damit sie problemlos miteinander kommunizieren können.

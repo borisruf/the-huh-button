@@ -1,0 +1,5 @@
+Stell dir vor, viele Leute wollen gleichzeitig in einen Raum gehen, aber die Tür ist nur für eine Person auf einmal geeignet. Alle hören auf die Tür, um zu sehen, ob sie offen ist. Wenn zwei Personen gleichzeitig denken, dass die Tür offen ist und sie zur gleichen Zeit hineinlaufen, stoßen sie zusammen. Das nennt man eine Kollision.
+
+Wenn diese Kollision passiert, müssen sie es merken. Das heißt, sie müssen wissen, dass etwas schiefgelaufen ist. Wenn sie feststellen, dass sie sich gegenseitig gestört haben, brechen sie ihre Bewegung ab und gehen wieder zurück.
+
+Das Protokoll sagt ihnen dann, dass sie es später noch einmal versuchen sollen, aber sie müssen einen zufälligen Moment abwarten, um sicherzustellen, dass sie nicht wieder gleichzeitig zur Tür gehen. Dabei kommt es darauf an, wie schnell jeder reagiert. Wenn sie das alle richtig machen, können sie nacheinander oder langsam in den Raum gehen, ohne sich wieder zu stoßen.

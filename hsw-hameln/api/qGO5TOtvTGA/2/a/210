@@ -1,0 +1,11 @@
+In einfachen Worten:
+
+Wir reden darüber, wie Daten gut von einem Ort zum anderen in einem Netzwerk geschickt werden. Man benutzt Router, das sind Geräte, die helfen, die besten Wege zu finden. 
+
+Es gibt zwei Arten, wie man das machen kann: 
+
+1. **Statisches Routing**: Hier sagt ein Mensch dem Router, wie er die Daten schicken soll. Der Mensch muss alles manuell einstellen. Das kann Probleme machen, wenn sich etwas ändert, zum Beispiel wenn ein Router kaputtgeht oder neue Verbindungen dazu kommen.
+
+2. **Dynamisches Routing**: Hier arbeiten die Router selbst zusammen, um herauszufinden, wie sie die Daten am besten schicken. Sie benutzen dabei verschiedene Informationen, auch Metriken genannt. Bei einem bestimmten Protokoll, das RIP heißt, schaut der Router, wie viele "Sprünge" (Hops) er machen muss, um zum Ziel zu kommen. Das bedeutet, er zählt, wie viele Router er auf dem Weg benutzen muss. 
+
+So können die Router schneller und besser entscheiden, wie sie die Daten schicken, ohne dass jemand alles manuell einstellen muss.

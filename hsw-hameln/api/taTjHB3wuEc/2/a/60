@@ -1,0 +1,5 @@
+Stell dir vor, es gibt einen Sender, der ganz schnell Nachrichten schickt. Aber der Empfänger kann diese Nachrichten nicht so schnell lesen. Das ist ein Problem, weil der Sender einfach weitermachen will, aber der Empfänger kommt nicht hinterher.
+
+Um sicherzustellen, dass beide gut zusammenarbeiten, brauchen wir eine Art Regel oder Hilfe. Diese Regel heißt Flusssteuerung. Sie sorgt dafür, dass der Sender und der Empfänger langsamer oder schneller „reden“ können, sodass der Empfänger nicht überfordert wird und die Nachrichten gut ankommen. 
+
+Also, Flusssteuerung hilft, dass sowohl der schnelle Sender als auch der langsamere Empfänger gut miteinander kommunizieren können, ohne dass etwas verloren geht.

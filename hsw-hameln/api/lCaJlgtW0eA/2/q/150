@@ -1,0 +1,1 @@
+  Ein weiterer Aspekt bei Routern ist, dass wir erstmal sogenannte Broadcast-Domänen bilden.  Soll heißen, Bereiche innerhalb derer Broadcast übertragen werden, aber an deren Grenzen dann eben nicht mehr.

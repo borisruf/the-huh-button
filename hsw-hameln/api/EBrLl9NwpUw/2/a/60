@@ -1,3 +1,7 @@
-In unserem Netzwerk machen wir alles doppelt oder mehrfach, damit das Netzwerk nicht kaputt geht wenn etwas versagt. Das nennt man Redundanz, also verschiedene Wege und Verbindungsstücke. Manchmal benutzen wir viele Schalter (Switches), um diese Redundanz zu erstellen. Aber das kann auch dazu führen, dass wir Schleifen bauen, was in einem Netzwerk eigentlich ein Fehler ist. Diese Schleifen sind nicht wirklich dafür gemacht. 
+Wenn wir in einem Netzwerk mehrere Wege und Geräte haben, um sicherzustellen, dass alles gut funktioniert, können manchmal Probleme auftreten. 
 
-Was bedeutet das? Stell dir vor, diese Schleife ist wie ein Kreislauf. Wenn wir Schleifen haben, passiert es manchmal, dass unsere Schalter (Switches) die Pakete (das sind Daten, die wir durch das Netzwerk schicken) immer wieder um den Kreis schicken. Und das machen sie, weil sie nicht wissen, wohin die Pakete eigentlich sollen.
+Stell dir vor, es gibt mehrere Wege, um eine Nachricht von A nach B zu schicken. Manchmal kann es passieren, dass die Nachricht nicht ankommt, weil die Adresse falsch ist. Wenn das passiert, könnte die Nachricht immer wieder von einem Gerät zum anderen geschickt werden, ohne dass sie einen richtigen Empfänger findet. 
+
+Das ist wie ein Ball, der in einem Kreis geworfen wird, aber niemand kann ihn fangen. Er wird einfach immer wieder hin- und hergeworfen. Wenn das passiert, nennt man das einen "Broadcast-Storm". Dabei werden die Geräte im Netzwerk überlastet, weil sie ständig versuchen, die Nachricht zu schicken, die niemand will. 
+
+Zusammengefasst: Zu viele Wege oder Geräte können dazu führen, dass Nachrichten verloren gehen und sich im Kreis bewegen, was das Netzwerk sehr langsam oder sogar kaputt machen kann.

@@ -1,0 +1,7 @@
+In einem Netzwerk gibt es wichtige Dinge, die sicherstellen, dass alles gut funktioniert. Man nennt das Sicherheit und Verfügbarkeit. Sicherheit bedeutet, dass nur die richtigen Leute Zugang zu den Daten und Geräten im Netzwerk haben. Verfügbarkeit bedeutet, dass die Geräte oft funktionieren und nicht kaputt gehen.
+
+Um die Verfügbarkeit zu verbessern, kann man mehr als ein Gerät benutzen, also Redundanz schaffen. Wenn eines kaputt geht, kann das andere weitermachen. Man kann ausrechnen, wie wahrscheinlich es ist, dass ein Gerät kaputtgeht, und dadurch auch, wie oft das Netzwerk insgesamt nicht funktioniert. 
+
+Diese Berechnungen helfen zu verstehen, wie sicher und zuverlässig das Netzwerk ist. Wenn zum Beispiel ein Router, also ein Gerät im Netzwerk, eine Verfügbarkeit von 99,9 % hat, bedeutet das, dass es im Jahr etwa 9 Stunden nicht funktioniert. Das ist nicht ideal. Deshalb versuchen viele, eine noch höhere Verfügbarkeit zu erreichen, wie zum Beispiel 99,999 %. 
+
+Zusammengefasst: Um ein Netzwerk sicher und zuverlässig zu halten, braucht man mehrere Geräte, die unterstützen, wenn eins kaputtgeht. Und man kann genau berechnen, wie oft etwas nicht funktioniert, um das Netzwerk besser zu machen.

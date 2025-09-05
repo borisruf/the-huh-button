@@ -1,0 +1,7 @@
+In diesem Abschnitt wird erklärt, dass bei der Übertragung von Sprache über das Internet (Voice-over-IP) einige wichtige Dinge beachtet werden müssen. 
+
+Zuerst hatten wir darüber gesprochen, was VLANs sind und wie man sie verwendet. Jetzt kommen wir zu einem speziellen Beispiel: Telefonieren über das Internet. Das Tolle daran ist, dass man dieselben Kabel für sowohl Sprach- als auch Datenkommunikation nutzen kann. 
+
+Damit die Sprachübertragung gut funktioniert, müssen wir sicherstellen, dass die Qualität stimmt. Das nennt man "Quality-of-Service". Das bedeutet, dass die Daten, die für das Telefonat gesendet werden, schnell und ohne Unterbrechungen zu den richtigen Personen kommen. Man braucht dafür auch einen speziellen Server, der hilft, die Sprachdaten richtig zu leiten.
+
+In einfachen Worten: Wenn wir über das Internet telefonieren wollen, müssen wir darauf achten, dass alles gut funktioniert und die Gespräche klar und deutlich sind.

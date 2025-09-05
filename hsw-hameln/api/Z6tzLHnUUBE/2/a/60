@@ -1,0 +1,7 @@
+Das Internetprotokoll (IP) hat zwei wichtige Aufgaben:
+
+1. **Adressierung**: IP sorgt dafür, dass jeder Computer im Internet eine eindeutige Adresse hat. Das hilft, die Computer zu finden und miteinander zu verbinden.
+
+2. **Fragmentierung**: Wenn Daten zu groß sind, um sie auf einmal zu senden, zerteilt IP diese Daten in kleinere Teile. Diese Teile werden dann geschickt und am Ziel wieder zusammengesetzt.
+
+Zusammengefasst: IP hilft, Computer zu finden und große Daten in kleinere Stücke zu teilen.

@@ -1,0 +1,13 @@
+Okay, hier ist die Erklärung in sehr einfacher Sprache:
+
+Stell dir vor, ein Gebäude hat drei Stockwerke. Jedes Stockwerk kann sein eigenes Netzwerk haben, wie ein eigenes Zimmer mit verschiedenen Leuten darin. Manchmal ist es nicht praktisch, jeden Stockwerk ein eigenes Netzwerk zu geben, weil manche Leute vielleicht in einem anderen Stockwerk arbeiten wollen. 
+
+Hier kommen die VLANs ins Spiel. VLANs sind wie virtuelle Zimmer, die man erstellt, damit die Leute, die zusammenarbeiten wollen, unabhängig von ihrem Stockwerk in derselben Gruppe sein können. 
+
+Es gibt zwei Möglichkeiten, wie man diese VLANs einrichten kann. 
+
+1. **Statische Einrichtung:** Der Computer, der an eine bestimmte Stelle (Switch-Port) im Gebäude angeschlossen wird, bekommt eine feste Zugehörigkeit zu einem bestimmten VLAN. Das bedeutet, wenn ein Computer an diesen Platz kommt, weiß das Netzwerk sofort, dass dieser Computer zu dieser Gruppe gehört. Aber hier kann es Probleme geben, wenn man nicht immer aufpasst, dass der richtige Computer am richtigen Platz angeschlossen wird.
+
+2. **Dynamische Einrichtung:** Hier hilft ein zusätzliches Gerät im Netzwerk. Jedes Gerät hat eine eindeutige Adresse, die MAC-Adresse. Wenn du einen Computer anschließt, schaut das Netzwerk, welche MAC-Adresse dieser Computer hat und entscheidet dann, zu welchem VLAN er gehört. So kann der Computer automatisch dem richtigen Netzwerk zugeordnet werden, ohne dass man alles manuell einstellen muss.
+
+Also, die Aussage bedeutet, dass der Computer selbst entscheidet, zu welchem virtuellen Netzwerk (VLAN) er gehört, basierend auf seiner MAC-Adresse, wenn er an den Switch angeschlossen wird.

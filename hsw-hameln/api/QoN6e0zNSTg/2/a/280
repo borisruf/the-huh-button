@@ -1,0 +1,7 @@
+In diesem Text geht es um Netzwerke und wie Geräte miteinander kommunizieren können. Das Schaubild, das erwähnt wird, zeigt, wie das funktioniert. Wir sind im vierten Kapitel des Themas, aber ein wichtiger Teil, die Sicherheit der Daten, gehört zu einer bestimmten Schicht, die wir die Schicht 2 nennen. Diese Schicht wird außerdem in zwei kleinere Teile aufgeteilt, die man Sub-Layer nennt. 
+
+Es wird erklärt, dass viele Geräte gleichzeitig auf dasselbe Netzwerk zugreifen wollen und das kann Probleme verursachen, zum Beispiel wenn zwei Geräte gleichzeitig senden, was eine Kollision nennt. Ein Protokoll hilft dabei, diese Probleme zu lösen, indem es regelt, wann welches Gerät senden darf. 
+
+Ein Beispiel dafür ist das CSMA-CD-Protokoll, das darauf achtet, ob das Netzwerk frei ist, bevor jemand sendet. Wenn es eine Kollision gibt, reagieren die Geräte mit einem Signal und warten dann eine zufällige Zeit, bevor sie es erneut versuchen. 
+
+Wichtig ist, dass diese Schicht im Netzwerk entscheidend dafür ist, dass die Kommunikation reibungslos abläuft, auch wenn manchmal Kollisionen passieren.

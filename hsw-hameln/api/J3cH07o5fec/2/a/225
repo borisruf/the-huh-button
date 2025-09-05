@@ -1,0 +1,9 @@
+Die Aussage erklärt, dass man beim Planen eines Netzwerks zuerst verstehen muss, welche Programme und Anwendungen im Netzwerk genutzt werden sollen. Man kann dazu das OSI-Modell verwenden, das in verschiedene Schichten unterteilt ist. Die obersten drei Schichten des OSI-Modells beschäftigen sich mit Anwendungen.
+
+Bevor man ein Netzwerk aufbaut, muss man darüber nachdenken, was der Kunde will. Das hilft dabei, das Netzwerk richtig zu planen, sowohl logisch (wie die Daten fließen) als auch physikalisch (wie die Geräte angeschlossen sind).
+
+Um ein Netzwerk in zwei kleinen Firmengebäuden zu planen, ist es wichtig, einen klaren Plan zu haben. Man fängt damit an, zu analysieren, was man hat und was man braucht. Dabei macht man eine Ist-Soll-Analyse, um herauszufinden, was gut läuft und was verbessert werden muss.
+
+Dann folgt die Planungsphase, in der entschieden wird, wie man das gewünschte Netzwerk aufbauen kann. Es kann auch nötig sein, den Kunden in Entscheidungen mit einzubeziehen. Nach der Planung kommt die Umsetzungsphase, wo das Netzwerk tatsächlich gebaut wird, gefolgt von einer Testphase, in der überprüft wird, ob alles richtig funktioniert.
+
+Wenn alles gut funktioniert, kommt die Abschlussphase, in der den Benutzern beigebracht wird, wie sie das neue System nutzen und warten können.

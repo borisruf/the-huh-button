@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es zwei Arten von IP-Adressen gibt: die alte, die IP-Version 4, und die neue, die IP-Version 6. 
+
+Die alte Art, IP-Version 4, hat 32 "Bits". Das sind wie kleine Bausteine, aus denen die Adresse besteht. Mit 32 Bits gibt es nicht genug Platz für alle Geräte, die heutzutage mit dem Internet verbunden sind, wie Handys, Tablets und sogar Kühlschränke. 
+
+Die neue Art, IP-Version 6, hat 128 Bits. Das ist viel mehr Platz, also viel mehr Bausteine. Damit gibt es viel mehr Adressen, die man benutzen kann. Das ist wichtig, weil in der Zukunft noch viel mehr Geräte an das Internet angeschlossen werden. 
+
+Kurz gesagt: IP-Version 6 gibt uns viel mehr IP-Adressen, die wir brauchen, damit alle Geräte eine eigene Adresse haben können.

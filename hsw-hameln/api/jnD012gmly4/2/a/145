@@ -1,0 +1,3 @@
+Früher, bei den ersten Ethernet-Protokollen, gab es eine Art von Datenpaket, das man "Frame" nennt. In diesem Frame war eine Information versteckt, die sagte, wie lang der Frame ist. Das war wichtig, um zu wissen, wann der Frame endet.
+
+Heute macht man das anders. Man packt diese Information über die Länge nicht mehr in den Frame. Der Grund dafür ist, dass es ein Problem geben kann: Wenn die Länge verloren geht oder kaputt ist, weiß man nicht mehr, wo der Frame endet. Das ist nicht gut, weil man dann die Daten nicht richtig weiterlesen kann. Deshalb hat man eine neue Methode gefunden, die besser funktioniert.

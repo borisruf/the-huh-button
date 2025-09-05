@@ -1,0 +1,7 @@
+Klar, ich erkläre es einfach:
+
+Routing-Protokolle helfen Routern, Daten von einem Ort zum anderen zu schicken. Es gibt verschiedene Arten von Routing-Protokollen. Eine davon heißt "Distance-Vector-Protokoll", und ein bekanntes Beispiel dafür ist RIP.
+
+Distance-Vector-Protokolle funktionieren so: Sie schauen, wie viele "Sprünge" (oder Zwischenstationen) nötig sind, um von Punkt A nach Punkt B zu kommen. Aber dabei gibt es einige Probleme, die man beachten muss. Zum Beispiel kann es sein, dass eine Verbindung kaputtgeht oder dass neue Router dazukommen. Das macht es manchmal schwierig, die besten Wege zu finden.
+
+Insgesamt geht es also darum, wie die Router miteinander sprechen und entscheiden, welcher Weg für die Daten am besten ist.

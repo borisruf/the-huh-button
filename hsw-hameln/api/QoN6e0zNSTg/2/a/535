@@ -1,0 +1,3 @@
+Die Aussage besagt, dass wir auf Wikipedia die Startseite aufrufen wollen. Dabei gibt es zwei Adressen: eine Adresse, an die die Anfrage geschickt wird (Empfängeradresse) und eine andere Adresse, von der die Anfrage kommt (Quellenadresse). Außerdem erwähnt die Aussage, dass es neben diesem Zusammenhang zwischen den Adressen auch noch eine andere Art von Adressierung gibt. 
+
+In ganz einfachen Worten: Wenn du etwas von Wikipedia möchtest, schickst du eine Anfrage. Du weißt, wohin du die Anfrage sendest (das ist die Empfängeradresse) und woher die Anfrage kommt (das ist die Quellenadresse). Es gibt auch noch andere Möglichkeiten, wie man die Adressen vergeben kann.

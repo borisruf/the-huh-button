@@ -1,1 +1,8 @@
-Stell dir eine IP-Adresse vor wie eine Adresse für dein Haus. Sie hat einen Teil, der beschreibt, in welchem Gebiet (Netzteil) dein Haus liegt, und einen Teil, der dein Haus direkt (Hostteil) beschreibt. Es gibt einen weiteren Teil namens Subnetzmaske, der hilft zu bestimmen, welcher Teil der Adresse das Gebiet beschreibt und welcher Teil das spezielle Haus. Daher muss man immer diese Subnetzmaske betrachten, wenn man die IP-Adresse ansieht. Genau wie du den Bereich/Stadtteil betrachten würdest, wenn du die Adresse deines Hauses ansiehst.
+Eine IP-Adresse besteht aus 32 kleinen Teilen, die wir „Bits“ nennen. Diese Adresse hilft Computern, sich im Internet zu finden. Eine typische IP-Adresse sieht aus wie 172.16.14.193 und ist aufgebaut aus vier Gruppen von Zahlen, die wir „Oktette“ nennen.
+
+In jeder IP-Adresse gibt es zwei wichtige Teile:
+
+1. **Netzanteil**: Dies zeigt, zu welchem Netzwerk der Computer gehört.
+2. **Host-Anteil**: Dies zeigt, welchen speziellen Computer oder Gerät im Netzwerk es ist.
+
+Wie groß der Netzanteil und wie groß der Host-Anteil sind, wird durch eine „Subnetzmaske“ festgelegt. Die Subnetzmaske hilft zu bestimmen, wo das Netzwerk endet und wo der einzelne Computer beginnt.

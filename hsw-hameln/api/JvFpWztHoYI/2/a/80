@@ -1,0 +1,5 @@
+In einfachen Worten geht es hier darum, wie man digitale Informationen (Bits) in ein Signal umwandelt, das über Datenleitungen gesendet werden kann. Eine Möglichkeit, dies zu tun, nennt man das Return-to-Zero-Verfahren. Dabei zeigt das Signal eine hohe Spannung, wenn es eine Eins ist, und keine Spannung, wenn es eine Null ist. Das Signal geht also immer zurück zu einem neutralen Zustand, wenn es eine Null gibt.
+
+Das Problem dabei ist, dass das Signal sehr viel von einer bestimmten Spannung hat (das nennt man hohen Gleichstromanteil), und es ist nicht einfach, den Takt (also das Timing) daraus herauszulesen. 
+
+Es gibt aber auch andere Methoden, um Signale zu erzeugen. Eine davon ist das Non-Return-to-Zero-Verfahren, das ähnlich funktioniert, aber anders ist.

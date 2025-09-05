@@ -1,0 +1,5 @@
+Der Router schaut sich die Daten an, die er bekommen hat. Er "packt" die Daten aus, um Informationen auf einer bestimmten Ebene (Schicht 3, die Netzwerkschicht) zu finden. Diese Informationen sind wichtig, weil sie die IP-Adressen von dem Absender (der Computer, der die Nachricht geschickt hat) und dem Empfänger (der Computer, der die Nachricht bekommen soll) enthalten. 
+
+Diese IP-Adressen helfen dem Router zu entscheiden, wohin er die Daten als Nächstes schicken soll, damit sie ihr Ziel erreichen können. 
+
+Zusammengefasst: Der Router findet die IP-Adressen und nutzt diese Informationen, um die Daten an den nächsten Schritt im Netzwerk weiterzuleiten.

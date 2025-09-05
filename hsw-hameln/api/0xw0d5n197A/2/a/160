@@ -1,0 +1,7 @@
+Stell dir vor, ein Netzwerk ist wie ein großes Haus. In diesem Haus gibt es verschiedene Räume (Netzwerksegmente), und wir möchten sicherstellen, dass nur die richtigen Leute in die richtigen Räume kommen. 
+
+Eine DMZ (Demilitarisierte Zone) ist wie ein zusätzlicher Bereich im Garten des Hauses, der von Wänden (Firewalls) umgeben ist. Diese Wände schützen diesen speziellen Bereich, indem sie unbedingt prüfen, wer rein und raus darf. Wenn jemand durch die Wände will, schauen die Wände sehr genau hin: Ist die Person vertrauenswürdig?
+
+Zusätzlich haben wir spezielle Sicherheitshelfer, die wie Wachleute arbeiten. Diese Wachleute (Intrusion Detection oder Protection Systeme) können schnell erkennen, wenn jemand versucht, ins Haus einzubrechen. Sie melden es sofort und sorgen dafür, dass der Einbrecher gestoppt wird.
+
+Im Grunde geht es darum, das Haus (Netzwerk) sicherer zu machen, sowohl von außen als auch von innen. Denn manchmal sind die größten Probleme nicht von Fremden, sondern von den eigenen Leuten, die das Haus nicht richtig nutzen.

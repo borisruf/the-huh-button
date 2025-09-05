@@ -1,0 +1,5 @@
+Die Aussage bedeutet folgendes:
+
+In einem Netzwerk gibt es verschiedene Bereiche oder Segmente, und diese können durch Geräte wie Hubs oder Repeater verbunden werden. Es ist wichtig, dass es insgesamt 5 dieser Netzwerksegmente gibt. Davon dürfen jedoch nur 3 Segmente Geräte haben, wie Computer oder Drucker. 
+
+Das 5-4-3-Regel hilft, sicherzustellen, dass das Netzwerk gut funktioniert. Man hat 5 Segmente, die durch 4 Hubs oder Repeater verbunden sind, aber in nur 3 von diesen Segmenten dürfen die Geräte sein. Dies verhindert, dass das Netzwerk überlastet wird und alles gut läuft.

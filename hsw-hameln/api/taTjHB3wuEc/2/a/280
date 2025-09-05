@@ -1,0 +1,11 @@
+Okay! Lass uns das in einfacheren Worten erklären.
+
+Stell dir vor, es gibt einen Sender, der sehr schnell Nachrichten verschickt, und einen Empfänger, der die Nachrichten bekommt. Manchmal ist der Empfänger aber nicht schnell genug und kann nicht alles gleichzeitig annehmen. Das ist ein Problem!
+
+Um dieses Problem zu lösen, müssen der Sender und der Empfänger miteinander „sprechen“. Der Sender kann nicht einfach immer weitermachen, wenn der Empfänger überfordert ist. Sie müssen sich absprechen, wie viele Nachrichten der Sender auf einmal schicken darf. Diese Absprachen nennen wir „Flusssteuerung“.
+
+Jetzt, wenn der Sender seine Nachrichten schickt, sagt der Empfänger: „Warte mal! Ich kann gerade nicht mehr annehmen, das ist zu viel!“. Der Empfänger kann dann dem Sender sagen, wie viele Nachrichten er bereit ist, gleichzeitig zu bekommen. Zum Beispiel sagt er: „Ich möchte nur 2 Nachrichten auf einmal haben.“
+
+Wenn der Empfänger 3 Nachrichten geschickt bekommt und nicht mehr annehmen kann, meldet er zurück: „Okay, ich habe die ersten 2 bekommen, aber ich kann die 3. nicht annehmen, also warte bitte auf meine Bestätigung für die 3. Nachricht.“ Gleichzeitig sagt er dem Sender: „Reduziere bitte die Anzahl der Nachrichten, die du mir schickst, auf 2.“
+
+So stellen sie sicher, dass der Sender nicht mehr schickt, als der Empfänger aufnehmen kann, und das hilft, dass alles gut funktioniert!

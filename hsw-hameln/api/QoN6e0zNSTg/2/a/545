@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es zwei Arten gibt, wie Computer in einem Netzwerk angesprochen werden können. 
+
+Die erste Art ist für einen speziellen Computer. Man nennt das "Unicast". Das bedeutet, dass nur dieser eine Computer eine Nachricht bekommt.
+
+Die zweite Art ist für mehrere Computer gleichzeitig. Wenn wir eine Nachricht an viele Computer senden wollen, verwenden wir einen "Broadcast". Das heißt, die Nachricht wird an eine ganze Gruppe von Computern geschickt, ohne dass man vorher genau weiß, wie viele das sind. 
+
+So kann man entweder direkt mit einem einzelnen Computer reden oder viele Computer gleichzeitig ansprechen.

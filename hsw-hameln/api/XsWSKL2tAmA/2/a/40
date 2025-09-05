@@ -1,1 +1,5 @@
-Das ist ein bisschen wie eine Adresse für deinen Computer im Internet. Jede Adresse hat genaue Anweisungen, wie sie zusammengesetzt ist. Um das besser zu verstehen, nehmen wir die Adresse 172.16.14. Jede Zahl dazwischen hat einen bestimmten Zweck. Es ist ein bisschen so, als würdest du sagen, in welcher Straße, in welchem Haus und in welcher Wohnung du wohnst. Diese bestimmte Art der Adresse hat 32 Teile. Aber keine Sorge, du musst dir nicht alle merken. Es ist wichtig, dass du einfach nur verstehst, dass jede Adresse im Internet einzigartig ist und genau bestimmte Anweisungen hat, wie sie zusammengesetzt ist.
+Eine IP-Adresse ist wie eine Adresse für deinen Computer im Internet, damit er mit anderen Computern kommunizieren kann. 
+
+Eine IP-Adresse in Version 4 hat 32 "Bits", die wir uns wie kleine Kästchen vorstellen können. Diese Kästchen sind in vier Gruppen unterteilt, und jede Gruppe hat 8 Bits. Wenn wir zum Beispiel die IP-Adresse 172.16.14.0 anschauen, dann sehen wir, dass sie aus vier Zahlen besteht: 172, 16, 14 und 0. 
+
+Jede dieser Zahlen kommt von einer der Gruppen von 8 Bits. Zusammen helfen sie, den Computer im Internet zu finden.

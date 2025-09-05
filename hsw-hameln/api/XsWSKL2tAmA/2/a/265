@@ -1,7 +1,16 @@
-In einem Computernetzwerk wird etwas namens IP-Adresse verwendet, um Computer zu identifizieren. Es ist wie eine Hausadresse für Ihren Computer. Jede dieser Adressen besteht aus vier Teilen. Vom Wert dieser Teile wird bestimmt, ob es einen bestimmten Bereich (das Netzwerk) repräsentiert oder einen spezifischen Computer innerhalb dieses Bereichs (den Host). Zusammen bilden diese Teile die IP-Adresse.
+Okay, lass uns das einfach erklären!
 
-Zwei spezielle IP-Adressen dürfen nie für Computer verwendet werden. Die erste Adresse eines Netzwerks ist immer für das Netzwerk selbst reserviert und die letzte Adresse ist für sogenannte "Broadcast"-Nachrichten, die an alle Computer im Netzwerk gesendet werden.
+Eine IP-Adresse ist wie eine Adresse für einen Computer im Internet. Sie hilft, den Computer zu finden und mit ihm zu kommunizieren. Jede IP-Adresse hat zwei Teile: einen Netz-Anteil und einen Host-Anteil. 
 
-Neben einer IP-Adresse gibt es noch etwas anderes namens Subnetzmaske. Sie hilft den Computern zu verstehen, welche Teile der IP-Adresse das Netzwerk repräsentieren und welche Teile den Host darstellen.
+Der Netz-Anteil sagt, zu welchem Netzwerk der Computer gehört. Der Host-Anteil sagt, welcher Computer in diesem Netzwerk ist. 
 
-Um herauszufinden, wie viele Computer in einem Netzwerk sein können, sehen wir uns die Subnetzmaske an. Für jedes Feld, das bei der Subnetzmaske Null ist, gibt es einen freien Platz für einen Computer. Wenn wir alle diese Nullen zählen und ein bisschen Mathematik machen, finden wir heraus, wie viele Computer maximal in einem Netzwerk sein können. Aber wir müssen immer 2 von dieser Zahl abziehen, denn die erste und die letzte Adresse sind immer reserviert.
+Jetzt kommt die Subnetzmaske ins Spiel. Die Subnetzmaske ist wie eine besondere Anleitung, die hilft, herauszufinden, wo der Netz-Anteil endet und wo der Host-Anteil beginnt. 
+
+In der Subnetzmaske gibt es Zahlen und Nullen. Jede Null in der Subnetzmaske zeigt an, dass ein Teil der IP-Adresse zum Host-Anteil gehört. Wenn du also die Subnetzmaske siehst, kannst du wissen, wie viele "Hosts" (also Computer) in einem Netzwerk sind und wo die Netzwerke anfangen und enden.
+
+Zusammengefasst: 
+
+- Die IP-Adresse ist die Adresse, die einen Computer identifiziert.
+- Der Netz-Anteil sagt, zu welchem Netzwerk der Computer gehört.
+- Der Host-Anteil sagt, welcher Computer in diesem Netzwerk ist.
+- Die Subnetzmaske hilft uns zu sehen, wo der Netz-Anteil endet und der Host-Anteil beginnt, und die Nullen in der Subnetzmaske zeigen, wie viele Computer es in dem Netzwerk geben kann.

@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es zwei verschiedene Arten von Protokollen für den Datenaustausch gibt: TCP und UDP. Beide haben einige Dinge gemeinsam, aber auch wichtige Unterschiede. 
+
+Bei TCP, einem Protokoll, das eine zuverlässige Datenübertragung garantiert, gibt es spezielle Zahlen, die helfen, die Reihenfolge der Daten zu verfolgen (das nennt man Sequenznummern) und bestätigen, dass Daten angekommen sind (das nennt man Acknowledgments). Das sorgt dafür, dass alles richtig und vollständig ankommt.
+
+UDP hingegen ist anders. Hier gibt es diese hilfreichen Zahlen nicht. UDP kümmert sich nicht darum, ob alle Datenpakete ankommen oder in welcher Reihenfolge sie ankommen. Das macht UDP schneller, weil es weniger Regeln hat, aber auch unsicherer, weil nicht garantiert wird, dass alles ankommt.
+
+Zusammengefasst: TCP sorgt dafür, dass alles richtig ankommt, während UDP schneller ist, aber nicht garantiert, dass alles da ist.

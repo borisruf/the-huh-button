@@ -1,0 +1,13 @@
+In dem Text geht es um Netzwerke, die verschiedene Stockwerke eines Gebäudes darstellen. Normalerweise hat jedes Stockwerk sein eigenes Netzwerk, was manchmal unpraktisch ist. Um flexibler zu sein, kann man sogenannte VLANs (virtuelle lokale Netzwerke) nutzen.
+
+Stell dir vor, du hast ein Gebäude mit drei Stockwerken. Jedes Stockwerk hat sein eigenes Netzwerk. Wenn du aber möchtest, dass bestimmte Personen aus verschiedenen Stockwerken zusammenarbeiten, kannst du VLANs nutzen. Dies bedeutet, dass wir Gruppen von Geräten bilden, unabhängig davon, wo sie sich im Gebäude befinden.
+
+Es gibt zwei Arten, VLANs zu erstellen:
+
+1. **Statisch**: Der Netzwerk-Administrator (die Person, die das Netzwerk einrichtet) legt fest, welcher Anschluss zu welchem VLAN gehört. Wenn jemand einen Computer an einen bestimmten Anschluss anschließt, gehört dieser Computer sofort zu dem VLAN, das dort festgelegt wurde. Das kann manchmal problematisch sein, wenn jemand den Computer an den falschen Anschluss stecken würde.
+
+2. **Dynamisch**: Hierbei wird eine spezielle Steuerstation verwendet, die erkennt, welcher Computer an welchen Anschluss angeschlossen ist (anhand seiner MAC-Adresse, einer eindeutigen Kennung für Geräte im Netzwerk). Die Steuerstation entscheidet dann automatisch, zu welchem VLAN der Computer gehört.
+
+Um zu wissen, welche Informationen zu einem Datenpaket (also den Daten, die zwischen Computern gesendet werden) hinzugefügt werden, gibt es dabei bestimmte Bereiche. Ein kleiner Bereich von 4 Bytes wird verwendet, um zu sagen, zu welchem VLAN das Datenpaket gehört und enthält zusätzlich einige andere Informationen, die hier nicht so wichtig sind.
+
+Zusammengefasst: VLANs helfen dabei, Netzwerke flexibler zu organisieren, sodass Leute aus verschiedenen Stockwerken zusammenarbeiten können, ohne von der physischen Lage abhängig zu sein.

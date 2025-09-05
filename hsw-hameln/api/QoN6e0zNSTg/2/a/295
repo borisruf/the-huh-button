@@ -1,0 +1,9 @@
+In einfachen Worten bedeutet die Aussage:
+
+In einem Netzwerk, wie zum Beispiel beim Ethernet, gibt es eine Schicht, die hilft, wie Geräte miteinander kommunizieren. Diese Schicht ist in zwei Teile aufgeteilt:
+
+1. **LLC (Logical Link Control)**: Dieser Teil kümmert sich darum, wie die Geräte logisch miteinander verbunden sind. Das heißt, er sorgt dafür, dass die Geräte wissen, wie sie Informationen richtig austauschen können.
+
+2. **MAC (Medium Access Control)**: Dieser Teil regelt, wie die Geräte auf das gemeinsame Medium (wie Kabel oder Funk) zugreifen. Wenn viele Geräte versuchen, gleichzeitig Informationen zu senden, sorgt dieser Teil dafür, dass sie nicht durcheinander kommen und ihre Nachrichten richtig übermitteln.
+
+Beide Teile zusammen helfen, dass das Netzwerk funktioniert und die Daten sicher und ordentlich übertragen werden können.

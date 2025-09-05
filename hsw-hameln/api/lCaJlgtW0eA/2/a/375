@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es in einem Netzwerk verschiedene Bereiche gibt, in denen Geräte miteinander sprechen können. Wenn zum Beispiel viele Geräte in einem Bereich sind und sie gleichzeitig versuchen zu reden, können sie sich „in die Quere kommen“. Diese Stellen, wo das passiert, nennt man Kollisionen. 
+
+Wenn wir aber Geräte wie Switches verwenden, dann können wir diese Bereiche kleiner machen. Das bedeutet, dass Kollisionen nur in diesen kleineren Bereichen passieren. 
+
+Die Broadcast-Domäne ist ein weiterer Bereich, wo Informationen an alle Geräte geschickt werden können. In dieser Domäne dürfen die Geräte miteinander kommunizieren, aber an den Grenzen zu anderen Domänen geht diese Nachricht nicht mehr weiter. 
+
+Zusammengefasst: Kollisionen passieren in bestimmten Bereichen, die man mit Switches kleiner machen kann, während Broadcast-Domänen große Bereiche sind, wo Informationen an viele Geräte gleichzeitig geschickt werden können.

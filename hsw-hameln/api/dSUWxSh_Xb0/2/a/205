@@ -1,0 +1,7 @@
+Also, es geht um ein Verfahren, das nennt man Multiplexing. Multiplexing hilft dabei, dass mehrere Leute gleichzeitig über das gleiche Kabel miteinander reden können, auch wenn sie das Kabel nur für sich alleine haben. 
+
+Stell dir vor, du hast eine breite Straße, und du möchtest sie in viele kleine Fahrspuren aufteilen. Jede Spur ist wie ein Kanal für die Kommunikation. Das bedeutet, wir nehmen eine große Frequenz (das ist wie der Platz auf der Straße) und teilen ihn in verschiedene kleine Bereiche auf. Jeder Bereich kann für eine andere Person oder ein anderes Gespräch benutzt werden. 
+
+So können viele Gespräche gleichzeitig stattfinden, ohne dass sich die Leute stören. Man nutzt dazu spezielle Geräte, die helfen, die Gespräche in die richtigen "Spuren" zu leiten, damit alles reibungslos klappt. 
+
+Dieses Teilen der Frequenzen passiert über Kupferkabel, und es ist eine von vielen Methoden, um Multiplexing zu machen. Es gibt auch andere Methoden, aber hier konzentrieren wir uns auf das Frequenz-Multiplexing.

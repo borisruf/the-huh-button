@@ -1,0 +1,1 @@
+  Die nehmen dann diese Informationen, fügen ihre eigenen Informationen hinzu und geben diese wiederum an die Nachbarn weiter.  Diese Routing-Tabellen, die enthalten dann natürlich eben entsprechende Metriken, entsprechende Pfadkosten, zum Beispiel den Hop-Count.

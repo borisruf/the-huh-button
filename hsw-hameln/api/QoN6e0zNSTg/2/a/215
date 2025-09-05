@@ -1,0 +1,7 @@
+In einem Netzwerk, wie zum Beispiel Ethernet, können mehrere Geräte gleichzeitig Daten senden. Wenn zwei Geräte gleichzeitig versuchen, ihre Daten zu senden, kommt es zu einer Kollision, das heißt, die Daten überschneiden sich und es entsteht ein Fehler. 
+
+Um sicherzustellen, dass beide Geräte bemerken, dass etwas schiefgegangen ist, gibt es eine Regel, die nennt man Collision Detection (CD). Wenn die Kollision erkannt wird, stoppen die Geräte sofort ihre Übertragung, damit sie den Fehler nicht weiter verbreiten. 
+
+Danach müssen die Geräte einen neuen Versuch starten, ihre Daten zu senden. Dabei kommt ein bisschen Zufall ins Spiel, um sicherzustellen, dass die Geräte nicht gleich wieder gleichzeitig senden. Man könnte also sagen, dass das Netzwerk eine Art Signal sendet, dass die Übertragung gestoppt werden muss. 
+
+Zusammengefasst: Wenn zwei Geräte gleichzeitig sprechen und sich mehrfach überlappen, müssen sie schnell erkennen, dass das nicht funktioniert, und dann einen neuen Versuch starten, um sicher zu kommunizieren.

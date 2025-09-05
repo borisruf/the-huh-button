@@ -1,12 +1,7 @@
-Stell dir die IP-Adresse wie eine Postanschrift vor. Sie besteht aus verschiedenen Teilen, die alle wichtige Infos haben, um dich im Internet zu finden. 
+IP-Adressen sind wie eine Adresse für Computer im Internet. Eine IP-Version 4-Adresse hat 32 Bit, die in vier Gruppen, auch Oktette genannt, unterteilt sind. Jede Gruppe besteht aus 8 Bit. Zum Beispiel ist 172.16.14.193 so eine Adresse.
 
-Es gibt zum Beispiel eine IP-Adresse "172.16.14.193". Sie ist so aufgebaut: 
+Diese Adresse besteht aus zwei Teilen: einem Netzwerk-Teil und einem Geräte-Teil (oder Host-Teil). Der Netzwerk-Teil zeigt an, zu welchem Netzwerk der Computer gehört, und der Geräte-Teil zeigt, welches Gerät in diesem Netzwerk ist. 
 
-1) "172.16.14" ist der 'Stadtteil' oder das 'Netz', wo du wohnst. Alle IP-Adressen mit "172.16.14" gehören zu demselben 'Netz'. 
-2) ".193" ist deine eigene 'Hausnummer' oder 'Host'. Nur du hast diese Nummer in deinem 'Netz'. 
+Um herauszufinden, welcher Teil zur Netzwerk-Adresse und welcher zum Gerät gehört, brauchen wir eine Subnetzmaske. Diese Subnetzmaske leitet uns an und sieht ähnlich aus wie die IP-Adresse, auch mit vier Gruppen und Punkten, zum Beispiel 255.255.255.0. 
 
-Und dann gibt es auch noch eine 'Subnetzmaske'. Die ist wie ein Schlüssel, der sagt, welcher Teil der IP-Adresse das Netz ist und welcher Teil der Host ist. Diese Maske sieht zum Beispiel so aus: "255.255.255.0". Jede IP-Adresse hat ihre eigene Maske. Das hilft, IP-Adressen besser zu organisieren und zu verteilen. 
-
-Die IP-Adresse und die Subnetzmaske sind beide 32 Zeichen lang und bestehen jeweils aus vier Teilen (genannt Oktette). Jedes Oktett hat 8 'Plätze'. Und obwohl das für Computer in 0 und 1 geschrieben ist, schreiben wir es normalerweise in Dezimalzahlen (von 0 bis 255), damit wir Menschen es besser verstehen. 
-
-Also, wenn wir über die '172.16.14.' reden, reden wir eigentlich über den Netz-Teil einer spezifischen IP-Adresse.
+Zusammengefasst: Jede IP-Adresse braucht eine Subnetzmaske, damit wir wissen, was zum Netzwerk gehört und was zum einzelnen Gerät.

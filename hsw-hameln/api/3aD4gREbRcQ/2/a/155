@@ -1,0 +1,9 @@
+Die Aussage bedeutet, dass alle Programme, die dafür sorgen, dass Daten über das Internet übertragen werden, eine von zwei Grundarten von Verbindungen benutzen: TCP oder UDP. Diese beiden Arten arbeiten auf einer speziellen Ebene im Internet, die als Transportschicht bezeichnet wird.
+
+In unserem Beispiel, wenn wir eine E-Mail senden, nutzen wir die TCP-Verbindung. Das bedeutet, dass die E-Mail auf eine bestimmte Art und Weise gesendet wird, die sicherstellt, dass sie richtig ankommt. 
+
+Für den Versand der E-Mail verwenden wir einen bestimmten „Port“. Man kann sich einen Port wie eine Tür vorstellen, die zu einem bestimmten Dienst führt.
+- Für den Dienst, der die E-Mail sendet, das heißt SMTP, benutzen wir Port 25. 
+- Und wenn wir die E-Mail abholen, also mit POP3, verwenden wir Port 110.
+
+Also, einfach gesagt: Wenn wir E-Mails verschicken, benutzen wir TCP und zwei spezielle Türen (Ports), um sicherzustellen, dass alles gut funktioniert.

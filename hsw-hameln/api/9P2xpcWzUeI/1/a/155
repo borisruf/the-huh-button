@@ -1,0 +1,7 @@
+Die Aussage bezieht sich auf den Prozess, wie VLANs (virtuelle LANs) in einem Netzwerk eingerichtet und verwaltet werden. VLANs ermöglichen es, Netzwerke flexibel zu segmentieren, unabhängig von der physischen Standortierung von Geräten. Dabei können zwei Hauptmethoden eingesetzt werden: 
+
+1. **Statische Zuweisung**: Der Netzwerkadministrator ordnet manuell jeden Switch-Port einem spezifischen VLAN zu. Das bedeutet, dass der Port nur für Geräte geeignet ist, die dem zugeordneten VLAN angehören, was allerdings fehleranfällig ist.
+
+2. **Dynamische Zuweisung**: Hierbei wird die VLAN-Zugehörigkeit eines Geräts anhand seiner MAC-Adresse festgelegt, die von einer zentralen Steuerstation ermittelt wird. Wenn das Gerät an einen Switch-Port angeschlossen wird, wird automatisch geprüft, welchem VLAN es zugeordnet wird.
+
+Die Aussage hebt hervor, dass MAC-Adressen und Switch-Ports entscheidend sind, um die VLAN-Zugehörigkeit und den Datenverkehr innerhalb der virtuellen Netzwerke zu steuern.

@@ -1,0 +1,9 @@
+Okay, schauen wir uns das einfach an:
+
+Wenn wir Informationen übermitteln wollen, benutzen wir Signale. In einem speziellen Fall, wenn wir nur zwei Zustände haben (z. B. an oder aus, 1 oder 0), nennen wir das binär. 
+
+In einer Sekunde können wir 6 dieser Informationen (Bits) senden. Das bedeutet, wir übertragen 6 Bit pro Sekunde. Dies wird auch als 6 Baud bezeichnet, was einfach die Anzahl der Zustandswechsel pro Sekunde ist. 
+
+Es ist wichtig zu wissen, dass dies nur für den binären Fall gilt, also nur wenn wir uns auf diese zwei Zustände beschränken. In anderen Fällen, wie z. B. bei der Übertragung mit mehr als zwei Zuständen, könnte die Zahl anders sein. 
+
+Zusammengefasst: Wenn wir 6 Bits in einer Sekunde senden, sagen wir, dass wir 6 Bit pro Sekunde und 6 Baud haben.

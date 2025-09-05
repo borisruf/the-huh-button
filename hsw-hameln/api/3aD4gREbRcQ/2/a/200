@@ -1,0 +1,9 @@
+Die Aussage beschreibt, was passiert, wenn man eine E-Mail verschickt und wie die verschiedenen Ebenen des OSI-Modells dabei helfen, die Daten richtig zu übertragen. 
+
+Hier ist eine einfache Erklärung:
+
+Wenn ich eine E-Mail schicke, wird sie zuerst in einen besonderen Code namens ASCII umgewandelt. ASCII ist eine Art, Buchstaben und Zeichen in Zahlen darzustellen. Der Empfänger bekommt die E-Mail auch in diesem Code (ASCII), sodass er sie lesen kann.
+
+Wenn in meiner E-Mail ein Bild ist, zum Beispiel im JPEG-Format (das ist ein beliebtes Format für Bilder), dann bleibt das Bild auf dem Weg zu der Person im JPEG-Format. Es wird nicht in ASCII umgewandelt. Auf einer bestimmten Ebene des OSI-Modells, die man "Darstellungsschicht" nennt, sorgt diese Schicht dafür, dass die Daten (wie Text und Bilder) richtig dargestellt werden, so dass der Empfänger sie sieht, wie sie gedacht sind.
+
+Zusammengefasst: Das OSI-Modell stellt sicher, dass die Informationen, die ich sende, genau so ankommen, wie ich sie geschickt habe, egal ob es Text oder Bilder sind.

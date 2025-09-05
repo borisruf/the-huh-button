@@ -1,0 +1,8 @@
+Okay, ich erkläre die Aussage ganz einfach:
+
+Wenn wir ein großes Netzwerk haben und es in kleinere Teile aufteilen, nennen wir das "Subnetting". Bei dieser Aufteilung gibt es einige Regeln. 
+
+1. Das erste kleine Netzwerk, das wir machen (Subnet0), und das letzte kleine Netzwerk, das wir machen, dürfen wir nicht für Computer oder Geräte verwenden. 
+2. Das bedeutet, wir lassen diese beiden Netzwerke aus, wenn wir IP-Adressen an andere Geräte vergeben.
+
+Das zeigt, wie wir aus einem großen Netzwerk viele kleinere Netzwerke machen können.

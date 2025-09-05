@@ -1,0 +1,5 @@
+Die Aussage erklärt, wie Daten in Computernetzwerken organisiert werden. Früher hat man die Länge der Daten in einem speziellen Bereich angegeben, damit man wusste, wo die Daten enden. Wenn diese Angabe verloren ging, war es schwierig zu wissen, wo die Daten endeten, was ein Problem war. 
+
+Jetzt benutzt man eine andere Methode, die Sentinel-Methode. Bei dieser Methode werden spezielle Zeichen am Anfang und Ende der Daten gesetzt. Diese Zeichen helfen, den Datenbereich von anderen Informationen zu trennen. Diese speziellen Zeichen sind rot markiert und heißen "Start of Text" (Anfang des Textes) und "End of Text" (Ende des Textes). 
+
+Das bedeutet, dass man jetzt nicht mehr die Länge der Daten angeben muss, sondern einfach diese besonderen Zeichen verwendet. Diese Methode ist heutzutage im aktuellen Ethernet-Protokoll üblich.

@@ -1,0 +1,9 @@
+In der Aussage geht es darum, wie man die Beziehung zwischen Spannung, Strom und Leistung bei der Übertragung von Signalen verstehen kann. 
+
+Wenn man ein Signal (wie Strom oder Spannung) sendet, kann es schwächer werden, wenn es durch ein Kabel geht. Das nennt man Dämpfung. Man kann sich das wie ein Wasserrohr vorstellen: Wenn viel Wasser durch ein langes Rohr fließt, wird das Wasser am Ende schwächer, weil es an den Wänden des Rohrs reibt.
+
+Um zu messen, wie stark das Signal am Anfang und am Ende ist, schaut man sich an, wie viel stärker das Signal ist, wenn man es verstärkt (das nennt man Verstärkung) oder wie viel schwächer es wird (Dämpfung). 
+
+Die Zahlen, die man dabei für das Verhältnis von Ausgang zu Eingang verwendet, sind wichtig. Für die Leistung benutzt man einen Faktor von 10, und für die Spannung und den Strom benutzt man einen Faktor von 20. Das bedeutet, dass man diese Faktoren verwendet, um die Unterschiede in der Stärke oder Schwäche des Signals zu berechnen. 
+
+Zusammengefasst: Wenn man schaut, wie stark das Signal verändert wird, benutzt man Zahlen, um das zu messen, und diese Zahlen (Faktoren) sind unterschiedlich für Strom, Spannung und Leistung.

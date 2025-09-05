@@ -1,0 +1,1 @@
+ Und genau die Antwort von diesem Webserver, die sehen wir ein Stück weiter unten, da kommt nämlich die Antwort auf meinen ursprünglichen Quellport, der jetzt logischerweise zum Zielport wird, und von dem Quellport 80, also der Port, den ich ursprünglich mal angesprochen habe, also eine Umkehr dieser beiden Ports.

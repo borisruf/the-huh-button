@@ -1,0 +1,7 @@
+Wenn wir über Transfersegmente sprechen, meinen wir Verbindungen zwischen zwei Netzwerken. Um diese Verbindungen herzustellen, brauchen wir Router. 
+
+Stell dir vor, du und deine Freunde wohnen in verschiedenen Straßen und ihr wollt euch treffen. Ihr habt einen "Boten" – das ist wie ein Router. Der Bote bringt die Nachrichten (Daten) von einer Straße zur anderen. 
+
+In dem Beispiel mit VLANs sagen wir, dass es verschiedene Gruppen (VLANs) gibt, die getrennt sind. Wenn jemand aus einer Gruppe mit jemand aus einer anderen Gruppe sprechen möchte, braucht man den Boten (Router), um die Nachricht zu überbringen. 
+
+Also, um sicherzustellen, dass alles gut funktioniert und die Nachrichten ankommen, setzen wir Router ein. Sie helfen uns, dass die Informationen von einem Netzwerk zum anderen gelangen.

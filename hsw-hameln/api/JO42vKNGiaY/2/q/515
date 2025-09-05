@@ -1,0 +1,1 @@
+  Wichtig ist dabei, dass nur in den unteren 32 Bit von 0 verschiedene Werte enthalten sein dürfen.  Die oberen 96 Bit in unserer IP-Version 6-Adresse, die müssen alle 0 sein.

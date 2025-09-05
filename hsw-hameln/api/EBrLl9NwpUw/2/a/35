@@ -1,1 +1,3 @@
-Wir wollen, dass unsere Netzwerke immer funktionieren und nicht ausfallen. Wir haben gelernt, dass man das schafft, indem man sicherheitshalber mehrere gleiche Teile hat. Das bedeutet, dass es mehrere Wege gibt, auf denen die Daten laufen können. Und auch die Teile, die die Daten weiterleiten, haben wir mehrmals. So kann, wenn ein Weg oder Teil kaputt geht, ein anderes einspringen.
+Um sicherzustellen, dass unsere Netzwerke immer gut funktionieren und nicht kaputtgehen, haben wir gelernt, dass es hilfreich ist, mehrere Wege und Geräte zu nutzen. Das nennt man Redundanzen. 
+
+Aber wenn ich zu viele Geräte, wie Switches, benutze, kann ich dabei Probleme bekommen. Ich kann nämlich Schleifen im Netzwerk erzeugen. Das bedeutet, dass Informationen im Kreis laufen und nie an ihr Ziel kommen. Das Ethernet-Protokoll, das wir verwenden, kann mit solchen Schleifen nicht umgehen. Daher ist es nicht gut, solche Schleifen zu haben – das wäre ein Fehler im Design.

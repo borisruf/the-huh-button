@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir ein großes Netzwerk in viele kleine Netzwerke aufteilen. Diese kleinen Netzwerke nennt man Subnetze. Wenn wir das machen, können wir weniger Geräte (Hosts) in jedem kleinen Netzwerk anschließen. 
+
+Das hat einige Vorteile. Zum Beispiel kann man die Netzwerke besser verwalten und sicherer machen. Früher haben viele Leute zu viele IP-Adressen bekommen, und jetzt haben wir nicht mehr genug für alle. Deshalb ist es wichtig, diese kleinen Netzwerke zu bilden, um die IP-Adressen besser zu verteilen.
+
+Zusammengefasst: Wir teilen ein großes Netzwerk in kleinere Netzwerke auf, damit wir es besser nutzen können und nicht so viele Adressen verschwenden.

@@ -1,0 +1,9 @@
+In dieser Aussage geht es um verschiedene Schichten, die helfen, wie Computer Informationen austauschen. Stell dir vor, es gibt mehrere Ebenen, wie in einem Gebäude.
+
+1. **Oberste Schicht:** Hier sind die Programme und Anwendungen, die Menschen direkt nutzen, wie Webseiten oder Chat-Programme. Diese Schicht nennt man auch die Anwendungsschicht.
+
+2. **Drei darunterliegende Schichten:** Diese sind wichtig, um die Kommunikation zwischen den Computern zu ermöglichen. Eine dieser Schichten heißt IP, das ist wie eine Adresse, damit die Informationen wissen, wo sie hin müssen. Die anderen zwei Schichten heißen TCP und UDP, die dafür sorgen, dass die Informationen richtig gesendet werden.
+
+3. **Zusammenhang:** Diese Schichten wurden im TCP-IP-Modell zusammengefasst, um zu zeigen, wie sie zusammenarbeiten. 
+
+Im Großen und Ganzen geht es darum, wie Computer miteinander sprechen, und die Anwendungen, die die Menschen nutzen, sind auf den obersten Schichten zu finden.

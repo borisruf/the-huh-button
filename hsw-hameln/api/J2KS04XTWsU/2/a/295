@@ -1,0 +1,13 @@
+In einfachen Worten bedeutet die Aussage:
+
+"Ich kann mein Netzwerk so einrichten, dass es selbst aufpasst. Wenn ein Fehler passiert, kriege ich sofort eine Nachricht. Außerdem kann ich mein System so planen, dass es immer eine Backup-Option hat, falls etwas kaputt geht."
+
+Im größeren Kontext geht es darum, dass das Netzwerk sicher und zuverlässig sein sollte. Das bedeutet:
+
+1. **Sicherheit**: Nur bestimmte Leute dürfen auf bestimmte Daten zugreifen. Wir müssen auch sicherstellen, dass niemand unsere Daten "abhört". 
+
+2. **Verfügbarkeit**: Das Netzwerk sollte immer funktionieren. Man kann messen, wie oft und wie lange es wirklich läuft, ohne Probleme zu haben. 
+
+3. **Redundanzen**: Wenn ich zusätzliche Geräte oder Verbindungen habe, die bei einem Ausfall helfen, erhöht das die Chance, dass das Netzwerk stabil bleibt. Wenn ein Teil kaputt geht, springt ein anderer ein, sodass alles weiterläuft.
+
+Zusammengefasst: Es ist wichtig, dass das Netzwerk sicher ist und gut funktioniert, indem es ein Auge auf Probleme hat und immer einen Plan B.

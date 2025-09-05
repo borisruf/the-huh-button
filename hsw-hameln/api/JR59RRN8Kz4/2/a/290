@@ -1,0 +1,6 @@
+Die Aussage bedeutet, dass wir zwei verschiedene Arten von "virtuellen Netzwerken" (VLANs) machen können. 
+
+1. **Voice-VLAN**: Das ist ein Netzwerk, das nur für Telefonate genutzt wird.
+2. **Daten-VLAN**: Das ist ein anderes Netzwerk, das für alles andere verwendet wird, wie Internet und Computerarbeiten.
+
+Indem wir diese beiden Netzwerke trennen, können wir sicherstellen, dass die Telefonate gut funktionieren und nicht gestört werden. So haben wir eine bessere Qualität beim Telefonieren und das Internet läuft trotzdem gut.

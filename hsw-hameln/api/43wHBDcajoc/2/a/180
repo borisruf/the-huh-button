@@ -1,0 +1,7 @@
+In dem Text geht es um verschiedene Arten von Funknetzen, die wir nutzen, um Geräte drahtlos miteinander zu verbinden. Bei der Bitübertragungsschicht des WLANs (802.11) werden zwei Hauptmethoden verwendet, um Daten zu übertragen. 
+
+Die erste Methode heißt "Frequency Hopping Spread Spectrum". Das bedeutet, die Funkwellen springen ständig zwischen verschiedenen Frequenzen hin und her. So wird es für andere Geräte schwieriger, die Signale zu stören oder abzufangen.
+
+Die zweite Methode heißt "Direct Sequence Spread Spectrum". Hier wird das Signal über eine größere Bandbreite verteilt, was auch hilft, Störungen zu vermeiden und die Übertragung stabiler zu machen.
+
+Zusammengefasst: Es gibt zwei wichtige Wege, um Funkdaten sicher und stabil zu übertragen, und die werden stetig verbessert.

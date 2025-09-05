@@ -1,0 +1,7 @@
+Die Aussage erklärt, wie Daten bei der Kommunikation zwischen Computern organisiert sind, besonders wenn man E-Mails sendet. Man benutzt dabei ein Model, das in Schichten unterteilt ist. 
+
+1. **Sitzungsschicht (Schicht 5)**: Hier kümmert man sich um die Verbindung zwischen Computern. Wenn du eine E-Mail verschickst, beginnt es damit, dass dein Computer Kontakt zu dem Mailserver aufnimmt. Diese Schicht sorgt dafür, dass die Verbindung richtig aufgebaut wird, während der Auftrag (zum Beispiel das Versenden der E-Mail) läuft und auch, dass die Verbindung wieder beendet wird, wenn alles erledigt ist.
+
+2. **Darstellungsschicht (Schicht 6)**: Diese Schicht sorgt dafür, dass die Daten, die hin und her gesendet werden, so dargestellt sind, dass beide Computer sie verstehen können. Dazu gehört zum Beispiel, dass die Daten richtig kodiert werden.
+
+Zusammengefasst: Die Sitzungsschicht hilft bei der Verbindung, und die Darstellungsschicht sorgt dafür, dass die Daten richtig formatiert sind. Diese beiden Schichten sind wichtig, damit das Verschicken von E-Mails und die Kommunikation zwischen Computern gut funktionieren.

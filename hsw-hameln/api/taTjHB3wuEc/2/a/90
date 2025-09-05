@@ -1,0 +1,7 @@
+Stell dir vor, du schickst jemandem einen Brief. Du möchtest sicherstellen, dass die Person den Brief bekommen hat, bevor du den nächsten schickst. 
+
+In der Computerwelt gibt es auch Sender und Empfänger, die Daten senden und empfangen. Manchmal sendet der Sender sehr schnell, aber der Empfänger kann nicht so schnell lesen – so entsteht ein Problem. Um sicherzustellen, dass alles gut funktioniert, müssen sie miteinander kommunizieren.
+
+Der Empfänger muss dem Sender sagen: „Ich habe deine Daten erhalten, du kannst mir die nächsten schicken.“ Das nennt man „Quittierung“ oder „Acknowledgement“. Es gibt verschiedene Methoden, um das zu machen.
+
+Eine einfache Methode ist das „Stop-and-Wait“-Verfahren. Dabei sendet der Sender ein Paket, wartet auf die Bestätigung vom Empfänger und erst danach sendet er das nächste Paket. So wissen beide, dass alles in Ordnung ist und dass der Empfänger bereit ist für weitere Daten.

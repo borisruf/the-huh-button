@@ -1,0 +1,11 @@
+In dieser Erklärung geht es darum, wie man Daten, die aus Einsen und Nullen bestehen (Bitstrom), in ein Signal umwandelt, das über Kabel gesendet werden kann. 
+
+1. **Taktsignal**: Stell dir vor, das ist wie ein regelmäßiger Schlag, der hilft, die Zeit zu messen. Man kann sich das wie einen Herzschlag vorstellen – er sagt dir, wann etwas Neues passiert.
+
+2. **Non-Return-to-Zero-Verfahren (NRZ)**: Hier wird eine Eins durch einen hohen Wert dargestellt, und eine Null durch einen niedrigeren Wert. Aber wenn man viele Einsen oder viele Nullen hintereinander hat, kann das Signal langweilig werden und schwer zu lesen sein.
+
+3. **Manchester-Kodierung**: Das ist eine Kombination, bei der man das Taktsignal benützt, um die Einsen und Nullen zu „wechseln“. Wenn eine Eins kommt, ändert sich das Signal auf eine bestimmte Art und Weise, und wenn eine Null kommt, ändert sich das Signal anders. Dadurch gibt es immer einen Wechsel im Signal.
+
+4. **Vorteile**: Diese Methode hilft, Probleme wie hohe Gleichstromanteile (was bedeutet, dass das Signal immer gleich bleibt) zu vermeiden. Sie macht das Signal auch leichter lesbar, selbst wenn es Störungen gibt.
+
+Zusammengefasst: Wenn wir das Taktsignal über die Daten legen und mit der Manchester-Kodierung kombinieren, sorgt das dafür, dass unser Signal klar und einfach zu verstehen bleibt.

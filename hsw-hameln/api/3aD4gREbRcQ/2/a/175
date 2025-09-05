@@ -1,0 +1,16 @@
+Okay, ich werde das einfach erklären.
+
+Wenn du eine E-Mail sendest, benutzt dein Computer das TCP-Protokoll. Das ist ein Regelwerk, das hilft, dass die Nachricht richtig ankommt. Es hat bestimmte 'Türnummern' (Ports), die für verschiedene Aufgaben benutzt werden. Zum Beispiel:
+
+- Port 25 ist für das Versenden von E-Mails (SMTP).
+- Port 110 ist für das Empfangen von E-Mails (POP3).
+
+Jetzt gibt es verschiedene Schichten, die helfen, die E-Mail von deinem Computer zum Mailserver und wieder zurück zu bringen. Eine dieser Schichten nennt man die Sitzungsschicht (Schicht 5). Hier passiert Folgendes:
+
+1. **Verbindungsaufbau**: Dein Computer muss zuerst eine Verbindung zum Mailserver herstellen, damit sie miteinander "reden" können.
+   
+2. **Verbindungsmanagement**: Während die Verbindung besteht, wird dafür gesorgt, dass sie stabil bleibt und alles richtig funktioniert.
+
+3. **Verbindungsabbau**: Wenn die E-Mail gesendet und empfangen wurde, wird die Verbindung wieder geschlossen, also vom Mailserver abgemeldet.
+
+Diese Schichten und Regeln sind wichtig, damit die Kommunikation gut läuft und die E-Mails sicher ankommen.

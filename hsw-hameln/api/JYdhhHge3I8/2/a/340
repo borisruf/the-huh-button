@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie Daten in einem Netzwerk übertragen werden. Wenn wir Daten senden, können wir sie in kleinere Stücke, also Fragmente, zerschneiden. Das hat Vorteile:
+
+1. **Schnellerer Transport**: Statt die Daten als großes Paket zu schicken, schicken wir viele kleine Pakete gleichzeitig. Das macht die Nutzung der verfügbaren „Bandbreite“ (also der Übertragungskapazität) besser.
+
+2. **Parallelbetrieb**: Die kleinen Pakete können verschiedene Wege durch das Netzwerk nehmen und gleichzeitig versendet werden. Das bedeutet, dass die Daten schneller beim Empfänger ankommen, auch wenn diese in kleinen Teilen ankommen.
+
+Im Vergleich dazu: Wenn wir die Daten als großes Paket schicken, müssen wir warten, bis das ganze Paket angekommen ist. Aber mit den kleinen Fragmenten können wir schneller arbeiten und die Kapazität des Netzwerks optimal nutzen. 
+
+Das Beispiel zeigt, wie wir Daten geschickt verteilen, damit alles effizienter und schneller abläuft.

@@ -1,0 +1,5 @@
+Stell dir vor, ein Netzwerk ist wie ein Haus und die Firewall ist die Tür, die entscheidet, wer hinein darf und wer nicht. 
+
+Um sicherzustellen, dass nur die richtigen Menschen (oder Daten) ins Haus (oder ins Netzwerk) kommen, können wir eine Liste machen. Auf dieser Liste steht, wer rein darf. Das bedeutet, dass nur bestimmte Benutzer oder Datenpakete, die wir für sicher halten, durch die Tür (Firewall) gehen dürfen. 
+
+Wenn jemand oder etwas nicht auf dieser Liste steht, wird es nicht hereingelassen. So schützen wir unser Netzwerk vor Gefahren, die von unbefugten Personen oder unsicheren Daten kommen könnten.

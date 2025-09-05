@@ -1,0 +1,3 @@
+Die Aussage beschreibt, dass in einer Tabelle acht Netzwerke (Subnetze) dargestellt sind. Diese Netzwerke beginnen bei der Zahl 0. Das bedeutet, dass wir beim Zählen nicht bei 1 anfangen, sondern bei 0. In der Tabelle sind das erste und das letzte Netzwerk rot markiert. Das hilft, diese speziellen Netzwerke hervorzuheben, damit man sie leichter erkennt. 
+
+Im großen Zusammenhang geht es darum, wie man IP-Adressen besser nutzen kann, weil es immer weniger davon gibt. Um das zu lösen, werden Subnetze gebildet – also kleinere Netzwerke aus einem großen Netzwerk. Bei der Erklärung wird auch darauf hingewiesen, wie man die Subnetze zählt und welche Auswirkungen das auf die Netzwerke hat.

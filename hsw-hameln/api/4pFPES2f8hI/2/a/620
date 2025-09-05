@@ -1,0 +1,15 @@
+Die Aussage bedeutet Folgendes: 
+
+Wenn wir eine IP-Adresse und eine Subnetzmaske in eine spezielle Form (binär) umwandeln, können wir sehen, welche Teile zu einem Netzwerk gehören. 
+
+Die Subnetzmaske hat Einsen und Nullen. An den Stellen, wo die Einsen sind, gehört das zur Netzwerk-ID. Wenn die IP-Adresse dann auch eine Eins an dieser Stelle hat, bleibt das auch als Eins. 
+
+Im Beispiel wird gesagt, dass wir am Ende die Netzwerkadresse 192.168.10.192 bekommen. Das zeigt uns, welches Netzwerk wir verwenden. 
+
+Einfach gesagt: 
+
+1. Wir schreiben die IP-Adresse und die Subnetzmaske in eine spezielle Zahl (binär).
+2. Wo Einsen in der Maske sind, nehmen wir auch eine Eins von der IP-Adresse.
+3. Das Ergebnis zeigt uns, zu welchem Netzwerk die Adresse gehört. 
+
+So können wir also sehen, zu welchem kleinen Netzwerk (Subnetz) unsere IP-Adresse gehört.

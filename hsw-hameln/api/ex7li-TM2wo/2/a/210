@@ -1,0 +1,7 @@
+Die Aussage sagt, dass wir ein Verfahren namens CRC (zyklischer Redundanz-Check) benutzen können, um Fehler in Daten zu erkennen. 
+
+In einfachen Worten: Wenn Daten gesendet werden, können sie manchmal falsch werden, wie wenn ein Wort falsch geschrieben wird. Das CRC hilft uns dabei, zu überprüfen, ob die Daten richtig sind, bevor wir sie weiter verwenden. 
+
+Wir haben vorher darüber gesprochen, wie wichtig es ist, solche Fehler zu finden, damit wir mit den Daten richtig arbeiten können. Manchmal sind kleine Fehler nicht schlimm, zum Beispiel bei Videos, wo es wichtiger ist, schnell zu senden. Aber bei wichtigen Daten, wie bei Geldüberweisungen, müssen wir sicherstellen, dass alles korrekt ist. 
+
+Wenn das CRC einen Fehler findet, wissen wir, dass etwas nicht stimmt. Dann können wir entweder die Daten automatisch korrigieren oder den Sender bitten, die Daten nochmal zu schicken. Um das CRC zu verwenden, fügen wir den Daten zusätzliche Informationen hinzu, die uns helfen zu überprüfen, ob alles richtig ist.

@@ -1,0 +1,3 @@
+In einfachen Worten bedeutet die Aussage folgendes:
+
+Wenn wir Daten verschicken, kommen zu diesen Daten noch zusätzliche Informationen. Diese zusätzlichen Informationen heißen "Kopfteil" und "Nachspann". Sie helfen uns, die Daten richtig zu schicken und Fehler zu erkennen, falls etwas schiefgeht. Man kann sich das wie eine Art Rahmen um ein Bild vorstellen. Damit die Daten sicher von einem Ort zum anderen gelangen, müssen sie gut verpackt sein. Diese Verpackung folgt bestimmten Regeln, die in einem System namens ISO-OSI festgelegt sind.

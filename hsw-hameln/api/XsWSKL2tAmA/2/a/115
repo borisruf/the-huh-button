@@ -1,10 +1,7 @@
-In sehr einfacher Sprache bedeutet das:
+Die Aussage fragt, wo die Informationen über die Teile der IP-Adresse herkommen. Um das zu verstehen, müssen wir die IP-Adresse in einer speziellen Form, der binären Schreibweise, anschauen. 
 
-Wir sind dabei, mehr über IP-Adressen zu lernen und wie sie aufgebaut sind. Jede IP-Adresse besteht aus 32 Bit, die in vier Gruppen oder Oktetten aufgeteilt sind. Zum Beispiel ist die IP-Adresse 172.16.14.193 in vier Oktetten aufgeteilt.
+Eine IP-Adresse ist wie eine besondere Adresse im Internet, die aus vier Zahlen besteht, die durch Punkte getrennt sind. Jede dieser Zahlen kann von 0 bis 255 reichen. Diese vier Zahlen nennt man auch Oktette. 
 
-Aber in jeder IP-Adresse gibt es zwei Teile, den Netzteil und den Hostteil. Und es gibt eine Sache namens Subnetzmaske, die bestimmt, welcher Teil der IP-Adresse der Netzteil und welcher Teil der Hostteil ist.
+Wenn wir die IP-Adresse in binäre Zahlen umwandeln, sehen wir, dass jede dieser Zahlen auch in 8 kleine Teile (Bits) zerlegt werden kann. Diese Bits sind nur Nullen und Einsen. Durch diese Umwandlung wird deutlich, wie die Adresse organisiert ist und welche Teile zur einem Netzwerk (Netzanteil) und welche zu einem einzelnen Computer oder Gerät (Host-Anteil) gehören. 
 
-Die Subnetzmaske sieht der IP-Adresse ähnlich, da sie auch aus vier Oktetten besteht. Und genau wie die IP-Adresse wird sie in dezimaler Form angezeigt, um sie besser zu verstehen.
-
-Um genau zu verstehen, was in einer IP-Adresse passiert, müssen wir sie in binärer Form betrachten. Binär bedeutet, dass wir sie in Nullen und Einsen anschauen. 
-Also, wenn wir wieder das bekannte Beispiel der IP-Adresse 172.16.14.193 nehmen, könnten wir uns ansehen, wie sie in binärer Form aussehen würde.
+Um also zu verstehen, wie eine IP-Adresse funktioniert, müssen wir sie zuerst in diese einfache Binärform umwandeln.

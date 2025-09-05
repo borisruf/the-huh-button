@@ -1,0 +1,9 @@
+Stell dir vor, du hast einen großen Computer, den wir "Server" nennen. Ein Server hilft, viele Dinge in einem Netzwerk zu machen, wie zum Beispiel Dateien speichern oder Daten an andere Computer senden. Manchmal kann es passieren, dass dieser Server kaputtgeht oder nicht mehr funktioniert.
+
+Um sicherzustellen, dass alles immer gut funktioniert, gibt es eine Art "Ersatz". Das ist wie ein Backup-Server, der bereit ist, wenn der Hauptserver ausfällt. Es gibt zwei Arten von Ersatzservern:
+
+1. **Kalter Ersatzserver**: Das ist ein Server, der nicht die ganze Zeit eingeschaltet ist. Wenn der Hauptserver kaputtgeht, müssen wir den kalten Ersatzserver einschalten und vorbereiten, damit er die Arbeit übernehmen kann. Das dauert eine Weile.
+
+2. **Heißer Ersatzserver**: Das ist ein Server, der die ganze Zeit eingeschaltet ist und bereitsteht, um sofort die Aufgaben des Hauptservers zu übernehmen, falls dieser ausfällt. Das geht viel schneller.
+
+Das gleiche gilt für andere Geräte im Netzwerk, wie Router, die helfen, Informationen zwischen Computern zu senden. Wenn wir diese Geräte doppelt haben (wie mit den Servern), kann das Netzwerk auch dann weiterarbeiten, wenn eins der Geräte ein Problem hat. So machen wir das Netzwerk sicherer und zuverlässiger.

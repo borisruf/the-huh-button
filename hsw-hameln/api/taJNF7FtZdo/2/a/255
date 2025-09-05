@@ -1,0 +1,3 @@
+Die Aussage bedeutet einfach: Es gibt verschiedene Wege, um von einem Punkt zu einem anderen zu kommen. Manchmal ist ein Weg am besten, aber zu einem anderen Zeitpunkt könnte ein anderer Weg schneller oder besser sein. 
+
+Das Beispiel spricht von einem Reiseplan, bei dem man je nach Verkehr schauen muss, welcher Weg der beste ist. In einem Netzwerk funktioniert es ähnlich: Wenn Daten von einem Ort zum anderen geschickt werden, schauen die Router (das sind wie Verkehrskreuzungen für Daten), welchen Weg sie wählen sollen. Manchmal ist ein Weg schnell, manchmal ein anderer. Daher müssen sie immer neu entscheiden, welcher Weg gerade am besten ist.

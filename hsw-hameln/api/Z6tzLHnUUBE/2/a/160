@@ -1,0 +1,5 @@
+Die Aussage sagt, dass wir einen speziellen Teil des Internetprotokolls (IP-Header) später noch genauer untersuchen werden. Das bedeutet, wir werden uns die einzelnen Teile anschauen und verstehen, wie sie funktionieren.
+
+Dann wird gesagt, dass wir uns auch mit dem Thema "Fragmentierung" und "Defragmentierung" beschäftigen wollen. Fragmentierung bedeutet, dass große Daten in kleinere Stücke aufgeteilt werden, damit sie leichter durch das Netzwerk geschickt werden können. Defragmentierung ist der Prozess, bei dem die kleinen Stücke wieder zusammengefügt werden, damit die Daten wieder vollständig sind. 
+
+Die wichtige Frage ist: Warum müssen wir diese Aufteilung und das Zusammenfügen überhaupt machen? Es ist wichtig zu wissen, warum wir solche Schritte in der Datenübertragung brauchen, bevor wir uns die Details ansehen.

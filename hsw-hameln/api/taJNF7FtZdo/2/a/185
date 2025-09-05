@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass der Router wissen möchte, wie weit das Ziel ist, zu dem er eine Nachricht schicken soll. Die Entfernung wird nicht in Kilometern gemessen, sondern in "Hops". 
+
+Ein "Hop" ist wie ein Schritt auf dem Weg, den die Nachricht macht. Jedes Mal, wenn die Nachricht von einem Router zum nächsten geht, zählt das als ein Hop. Wenn der Router also wissen will, wie nah das Ziel ist, schaut er, wie viele Hops es bis dorthin sind. 
+
+Das hilft dem Router, den besten Weg zu finden, um die Nachricht schnell und effizient zum Ziel zu bringen. So ähnlich wie wenn du von einem Ort zum anderen gehst und über verschiedene Straßen und Kreuzungen musst – jede Kreuzung, die du überquerst, ist wie ein Hop.

@@ -1,0 +1,9 @@
+Okay, lass uns die Aussage ganz einfach erklären!
+
+Das Wichtigste hier ist, dass es zwei Arten von Routing gibt: statisches und dynamisches Routing.
+
+1. **Statisches Routing**: Das ist, wenn ein Mensch (der Administrator) die Wege für die Daten festlegt. Er sagt den Routern, welchen Weg die Daten nehmen sollen. Das ändert sich nicht, es bleibt immer gleich.
+
+2. **Dynamisches Routing**: Hier arbeiten die Router selbst. Sie entscheiden automatisch, welcher Weg für die Daten am besten ist. Sie nutzen dafür spezielle Programme (Routing-Protokolle), die ihnen helfen herauszufinden, wie sie am schnellsten ans Ziel kommen können. 
+
+Also, die Aussage meinte einfach: Verwirr dich nicht mit den Begriffen! Statische Routen sind festgelegt und ändern sich nicht, während dynamische Routen von den Routern selbst angepasst werden, je nach Situation.

@@ -1,0 +1,7 @@
+Stell dir vor, du hast einen schnellen Wasserhahn (das ist der Sender), der Wasser (Daten) ununterbrochen laufen lässt. Aber der Eimer (der Empfänger) kann nur eine bestimmte Menge Wasser auf einmal fangen. Wenn der Wasserhahn einfach weiter Wasser laufen lässt, überläuft der Eimer. 
+
+Um das zu verhindern, müssen der Wasserhahn und der Eimer zusammenarbeiten. Der Eimer muss dem Wasserhahn sagen, wenn er leer ist, damit der Wasserhahn anhalten kann. Das nennt man Flusssteuerung.
+
+Jetzt gibt es eine Möglichkeit, das besser zu machen, anstatt immer zu warten, bis der Eimer ganz voll ist und dann Bescheid zu geben. Der Wasserhahn kann kleine Schübe Wasser schicken und der Eimer kann dem Wasserhahn sagen, wann er eine bestimmte Menge Wasser bekommen hat – nicht nur für jedes einzelne Schüppchen, sondern für mehrere gleichzeitig. Das nennt man kumulatives Senden einer Empfangsbestätigung.
+
+Die Größe des „Fensters“ sagt aus, wie viel Wasser der Eimer auf einmal aufnehmen kann, ohne überzulaufen. Es geht darum, den Wasserhahn ständig laufen zu lassen, damit der Eimer immer voll ist, ohne dass Wasser verschwendet wird.

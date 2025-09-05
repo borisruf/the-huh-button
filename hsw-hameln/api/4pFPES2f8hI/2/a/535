@@ -1,0 +1,9 @@
+In diesem Text geht es darum, wie man große Netzwerke in kleinere Teile aufteilt, die man Subnetze nennt. Um das zu erklären, schauen wir uns ein Beispiel an:
+
+Stell dir vor, du hast eine große Schachtel voller Spielzeuge (das ist wie ein großes Netzwerk mit vielen IP-Adressen). Manchmal brauchst du für verschiedene Spiele kleinere Schachteln, damit alles ordentlich bleibt. Hier kommen die Subnetze ins Spiel. 
+
+Wir nehmen die große Schachtel und teilen sie in mehrere kleine Schachteln auf. Dabei gibt es ein paar Regeln: Wenn wir eine kleine Schachtel machen, können wir nur eine bestimmte Anzahl von Spielzeugen hineinlegen. Einige Plätze müssen wir frei lassen, damit wir die Schachtel richtig benutzen können. 
+
+Der Text erklärt, dass wir mit einer speziellen Methode – der Subnetzmaske – wissen, wie viele kleine Schachteln wir machen können und wie viele Spielzeuge in jede Schachtel passen. 
+
+In der Tabelle, die im Text erwähnt wird, sehen wir dann, wie die großen Netzwerke in die kleinen Subnetze aufgeteilt sind. Dort stehen die genauen Teile und wie viele davon wir nutzen können. So behalten wir den Überblick und machen alles ordentlicher.

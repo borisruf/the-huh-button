@@ -1,0 +1,7 @@
+Stell dir vor, ein VLAN ist wie ein eigener Raum für verschiedene Gruppen in einem Büro. In unserem Beispiel gibt es drei Räume:
+
+1. **Raum für den Vertrieb** - Hier sind alle Computer, die für den Verkauf benutzt werden.
+2. **Raum für das Marketing** - Hier sind die Computer, die die Werbung und andere Marketing Sachen machen.
+3. **Raum für den Vorstand** - Hier sind die Computer für die Chefs und die wichtige Entscheidungsfindung.
+
+Jede Gruppe hat ihren eigenen Raum (VLAN), damit sie besser arbeiten können, ohne dass andere sie stören. So können die Mitarbeiter in ihrem eigenen Bereich arbeiten und sind gut organisiert.

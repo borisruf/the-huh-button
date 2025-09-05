@@ -1,0 +1,8 @@
+Die Aussage besagt, dass es wichtig ist, zuerst zu klären, was für Fragen es gibt, wenn man ein Netzwerk plant. Man muss verstehen, was man hat und was man erreichen möchte. Danach kann man sich anschauen, wie schnell Daten übertragen werden (Leistung), wie lange es dauert, bis die Daten ankommen (Verzögerung) und wie viel Daten gleichzeitig über das Netzwerk fließen können (Bandbreite).
+
+Im Kontext der Netzwerkplanung bedeutet das:
+1. Zuerst analysiert man, welche Geräte und Verbindungen schon vorhanden sind (Ist-Analyse).
+2. Dann überlegt man, was das Netzwerk leisten soll (Soll-Konzept).
+3. Bei der Planung sind verschiedene Fragen wichtig, um den besten Weg zu finden, das Netzwerk aufzubauen.
+
+Durch diese Struktur kann man sicherstellen, dass alles gut funktioniert und die Anforderungen erfüllt werden. Wenn man die richtigen Fragen stellt und die nötigen Informationen sammelt, kann man im nächsten Schritt Lösungen finden, um das Netzwerk effektiv zu gestalten.

@@ -1,1 +1,7 @@
-Wenn man eine Nachricht online sendet, ist es wie einen Brief zu verschicken. Manchmal möchten wir sicherstellen, dass der Brief tatsächlich angekommen ist. In diesem Fall ist das die Synchronisation mit der Sequenznummer X. Man kann dies als eine Art Geheimsprache oder Code betrachten. Wenn der Empfänger diesen Code erhält, antwortet er in der Regel mit einem weiteren Code oder einer Geheimsprache, um dem Absender zu bestätigen, dass er die Nachricht tatsächlich erhalten hat.
+In dieser Erklärung geht es darum, wie Computer miteinander kommunizieren, besonders über das TCP-Protokoll. 
+
+Wenn ein Computer eine Verbindung zu einem anderen Computer aufbauen möchte, schickt er zuerst ein Zeichen, das sagt „Hallo, ich möchte mit dir sprechen.“ Dieses Zeichen hat eine besondere Nummer, die wir Sequenznummer nennen – in diesem Fall ist das die Nummer X. 
+
+Der andere Computer, der das „Hallo“ erhalten hat, reagiert dann normalerweise mit einem eigenen Zeichen, um zu bestätigen, dass er bereit ist, die Verbindung herzustellen. Dieses Zeichen hat ebenfalls eine Sequenznummer. 
+
+Man kann sich das wie eine Begrüßung zwischen zwei Freunden vorstellen: Der erste Freund sagt „Hallo“ und der zweite Freund antwortet mit „Hallo, ich höre dich!“ Dadurch stellen sie sicher, dass sie wirklich miteinander sprechen können.

@@ -1,0 +1,7 @@
+Die Aussage sagt, dass TCP und UDP zwar beide zu einer bestimmten Gruppe von Regeln (genannt Protokolle) gehören, die helfen, Daten über das Internet zu senden, aber sie sind sehr unterschiedlich. 
+
+Bei TCP gibt es viele Sicherheitsmaßnahmen und Regeln, um sicherzustellen, dass die Daten korrekt und in der richtigen Reihenfolge ankommen. Das ist wichtig, zum Beispiel beim Herunterladen von Dateien oder Streamen von Videos.
+
+UDP hingegen ist einfacher und hat weniger Regeln. Es sendet Daten schneller, weil es nicht darauf achtet, ob alles richtig ankommt oder in der richtigen Reihenfolge ist. Das kann gut sein bei Online-Spielen oder Live-Übertragungen, wo es wichtiger ist, dass die Daten schnell ankommen, als dass alles perfekt ist.
+
+Insgesamt bedeutet die Aussage, dass UDP einfach und direkt ist, im Gegensatz zu TCP, das mehr Regeln und Kontrollen hat.

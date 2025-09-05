@@ -1,0 +1,10 @@
+Die Aussage beschreibt, was in der zweiten Schicht eines Computer-Netzwerks passiert, die auch als Sicherungsschicht bekannt ist. Hier ist eine einfache Erklärung:
+
+In einem Netzwerk gibt es verschiedene Schichten, und die zweite Schicht kümmert sich darum, wie Daten zwischen den Geräten (wie Computern) gesendet werden. Wenn Daten gesendet werden, gibt es zwei wichtige Adressen:
+
+1. **Zieladresse**: Das ist die Adresse des Geräts, das die Daten empfangen soll.
+2. **Quelladresse**: Das ist die Adresse des Geräts, das die Daten sendet.
+
+Da wir uns in der zweiten Schicht befinden, sind diese Adressen spezielle Arten von Adressen, die "MAC-Adressen" genannt werden. Jede Netzwerkkarte in einem Gerät hat eine einzigartige MAC-Adresse, die es identifiziert. 
+
+Zusammengefasst: In der zweiten Schicht gibt es eine Zieladresse und eine Quelladresse, die als MAC-Adressen bezeichnet werden, um zu zeigen, wo die Daten herkommen und wohin sie gehen.

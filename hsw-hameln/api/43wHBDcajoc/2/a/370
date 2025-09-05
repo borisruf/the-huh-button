@@ -1,0 +1,5 @@
+In der Funktechnik gibt es Herausforderungen, wenn wir WLAN-Netze einrichten. Wir haben bestimmte Bereiche, die wir für die Übertragung von Daten benutzen können, die ISM-Bänder genannt werden. In diesen Bändern gibt es 14 Kanäle, die wir verwenden können, aber jeder Kanal hat eine bestimmte Breite von 22 MHz.
+
+Wenn wir mehrere Kanäle nebeneinander nutzen wollen, dürfen sie sich nicht überschneiden, weil sonst Störungen (Interferenzen) auftreten. Das Problem ist, dass man nur maximal drei Kanäle gleichzeitig verwenden kann, ohne dass sie sich überlappen. Diese Störungen sind wichtig, weil sie die Verbindung und die Übertragung der Daten beeinträchtigen können.
+
+Zusammengefasst: Wenn wir WLAN-Kanäle nutzen, müssen wir darauf achten, dass sie nicht zusammenstoßen, sonst gibt es Störungen im Signal.

@@ -1,1 +1,9 @@
-Wir schauen uns jetzt mal die 4. Schicht eines Modells an, das zeigt, wie Daten in einem Netzwerk von A nach B geschickt werden. Diese Schicht kümmert sich darum, dass Daten sicher ankommen. Sie benutzt dafür spezielle Regeln, auch Protokolle genannt. Eines dieser Protokolle heißt TCP. Mit TCP wird sichergestellt, dass die Daten nicht nur ankommen, sondern auch ohne Fehler ankommen. Das ist, als wenn man einen Brief schickt: Man will ja, dass der Brief ankommt und dass der Inhalt noch genauso ist, wie man ihn abgeschickt hat. TCP ist wie der Postbote, der genau darauf achtet!
+Lass uns die Aussage einfach erklären:
+
+Im Netzwerk gibt es verschiedene Schichten, die bestimmte Aufgaben haben. Eine wichtige Schicht heißt „Transportschicht“. Diese Schicht hilft dabei, Daten von einem Computer zu einem anderen zu schicken.
+
+Innerhalb dieser Schicht gibt es zwei wichtige Protokolle, die dafür zuständig sind: TCP und UDP. Hier schauen wir uns zuerst TCP an.
+
+Das Ziel von TCP ist, die Daten sicher zu transportieren. Das bedeutet, wenn du eine Nachricht oder eine Datei schickst, sorgt TCP dafür, dass sie beim anderen Computer ankommt. Und nicht nur das – TCP versucht auch, sicherzustellen, dass die Daten ohne Fehler ankommen. Wenn ein Teil der Daten verloren geht oder beschädigt wird, merkt sich TCP das und versucht, die fehlenden Teile erneut zu schicken.
+
+Zusammengefasst: Die Transportschicht und das TCP-Protokoll helfen, Daten sicher und ohne Fehler von einem Computer zu einem anderen zu senden.

@@ -1,0 +1,7 @@
+In einem Netzwerk gibt es verschiedene Möglichkeiten, um Daten von einem Ort zum anderen zu schicken. Man kann sich das vorstellen wie ein Postsystem mit unterschiedlichen Arten, Briefe zu versenden.
+
+1. **Leitungsvermittlung**: Hier wird eine Verbindung zwischen zwei Personen hergestellt, wie wenn man anruft. Es wird eine feste Leitung genutzt, die die ganze Zeit aktiv bleibt, solange das Gespräch dauert. In alten Filmen sieht man vielleicht, wie eine Telefonistin die Kabel verbindet.
+
+2. **Speichervermittlung**: Bei dieser Methode, die auch "Store-and-Forward" heißt, wird die ganze Nachricht oder das ganze Paket zuerst an einem Ort gespeichert, bevor es weitergeschickt wird. Das ist so wie bei der Post, wo Briefe erst in einem Briefzentrum gesammelt und dann an die nächste Station weitergeleitet werden.
+
+Wenn man diese beiden Methoden kombiniert, entsteht die **Paketvermittlung**. Das bedeutet, dass die Daten in kleine Pakete aufgeteilt und dann von einem Netzwerkgerät zum nächsten weitergeschickt werden. Jedes Paket wird unabhängig verschickt, was schneller und flexibler ist. So kommen die Daten schließlich beim Empfänger an, auch wenn es unterschiedliche Wege sind, die die Pakete nehmen.

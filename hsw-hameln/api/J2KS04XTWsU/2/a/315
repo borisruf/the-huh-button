@@ -1,0 +1,5 @@
+Die Aussage besagt, dass ich Systeme so gestalten kann, dass sie sicherer sind. Das mache ich, indem ich zusätzliche Teile einbaue, die helfen, falls etwas kaputt geht. Diese zusätzlichen Teile nennt man Redundanzen. 
+
+Wenn wir darüber nachdenken, wie verfügbar ein System sein soll, also wie oft es funktioniert, kann ich die Wahrscheinlichkeit berechnen, dass es ausfällt. Mit diesen Berechnungen kann ich sicherstellen, dass die Ausfälle sehr selten sind. 
+
+Im Kontext bedeutet das: Um sicherzustellen, dass ein Netzwerk oder ein Computer immer gut funktioniert, müssen wir Vorkehrungen treffen. Das heißt, wir müssen überprüfen, wer Zugriff hat, ob unsere Daten sicher sind und wie schnell wir etwas reparieren können, wenn es kaputtgeht. Wenn ich zusätzliche Teile habe, die bereit sind, wenn der Hauptteil ausfällt, dann führe ich eine bessere Planung durch, damit alles reibungslos läuft.

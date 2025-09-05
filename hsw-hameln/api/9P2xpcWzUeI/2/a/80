@@ -1,0 +1,5 @@
+Wenn wir über VLANs sprechen, stellen wir uns vor, wir haben ein großes Gebäude mit drei Stockwerken. In jedem Stockwerk gibt es viele Arbeitsplätze. Normalerweise könnte man sagen, dass jedes Stockwerk ein eigenes Netzwerk hat. Das nennt man eine klassische Aufteilung.
+
+Aber manchmal ist diese einfache Aufteilung nicht gut, weil die Leute aus verschiedenen Stockwerken zusammenarbeiten möchten. Hier kommen VLANs ins Spiel. VLANs sind wie virtuelle Netzwerke, die man über die Stockwerke hinweg herstellen kann. So können Menschen, die zusammenarbeiten, auch dann miteinander verbunden werden, wenn sie in unterschiedlichen Stockwerken sitzen.
+
+Wie macht man das? Man hat zwei Möglichkeiten. Die erste Möglichkeit ist, die VLANs fest einzurichten, das nennt man eine statische Einrichtung. Das bedeutet, dass man genau festlegt, welche Arbeitsplätze zu welchem VLAN gehören, und das bleibt dann so, solange man es nicht ändert.

@@ -1,0 +1,9 @@
+Stell dir vor, es gibt zwei Räume mit vielen Computern. Diese Computer müssen miteinander sprechen, damit sie Informationen austauschen können. Um das zu ermöglichen, verwenden wir Geräte namens Switches.
+
+Wenn Computer A eine Nachricht an Computer B senden möchte, geht die Nachricht zuerst zu einem Switch in seinem Raum. Der Switch ist wie ein Postbote, der weiß, wo jeder Computer ist. Er schaut auf eine Liste, um herauszufinden, über welchen Ausgang (Port) er Computer B erreichen kann. 
+
+Da dieser Switch noch nicht direkt mit Computer B verbunden ist, schickt er die Nachricht an einen anderen Switch, der im Raum von Computer B ist. Dieser andere Switch schaut dann auch auf seine Liste, um zu sehen, an welchem Ausgang er Computer B hat.
+
+So werden die Switches miteinander verbunden, um sicherzustellen, dass die Nachricht den richtigen Weg findet, bis sie schließlich bei Computer B ankommt. 
+
+In diesem Beispiel helfen die Switches also dabei, dass Computer in verschiedenen Räumen miteinander kommunizieren können. Sie sind wie eine Brücke zwischen den Computern.

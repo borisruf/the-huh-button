@@ -1,0 +1,5 @@
+In dieser Aussage geht es darum, dass wir zum alten System der IP-Adressen (IP Version 4) nicht mehr lange bleiben können. Stattdessen müssen wir uns an ein neues System (IP Version 6) gewöhnen. 
+
+IP Version 4 hat einfache Adressen, die aus 32 Zahlen bestehen. Aber jetzt gibt es nicht mehr genug davon. Deshalb kommt IP Version 6, das viel mehr Adressen hat, weil es 128 Zahlen verwendet. Es gibt so viele neue Adressen, dass wir sie für sehr lange Zeit nutzen können, selbst wenn viele Geräte wie Telefone und Kühlschränke eine eigene Adresse brauchen. 
+
+Außerdem wird die Art und Weise, wie wir diese neuen Adressen schreiben, anders sein. Statt Zahlen in einfacher Form werden wir sie in einer komplizierteren Form, dem Hexadezimalsystem, schreiben müssen. Das klingt vielleicht schwierig, aber wir werden uns auch das bald genauer anschauen.

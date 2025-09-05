@@ -1,0 +1,7 @@
+In diesem Text geht es um Netzwerke und Geräte, die diese Netzwerke miteinander verbinden. Hier ist die Aussage in sehr einfacher Sprache erklärt:
+
+Wenn ein Computer in einem Netzwerk einen "Broadcast" sendet, also eine Nachricht, die an alle Computer in diesem Netzwerk geht, passiert Folgendes: Wenn der Computer in einem bestimmten Bereich ist und es einen "Switch" gibt, der diesen Bereich von einem anderen trennt, wird die Nachricht trotzdem an alle Computer in dem anderen Bereich gesendet. Das bedeutet, der Switch kann diese Nachricht nicht stoppen. 
+
+Um das noch einfacher zu machen: Stell dir vor, du rufst laut in einen Raum, und jemand hat eine Tür zwischen deinem Raum und einem anderen Raum. Auch wenn die Tür da ist, hören die Leute im anderen Raum deinen Ruf, wenn die Tür nicht ganz geschlossen ist. 
+
+In dem Bild, das erwähnt wird, sieht man, wie diese Situation aussieht. Es zeigt die Netzwerke und wie die Computer miteinander verbunden sind.

@@ -1,0 +1,3 @@
+Die Aussage sagt, dass es manchmal schwierig ist, Computer-Netzwerke in feste Gruppen zu teilen. Wenn man zum Beispiel in einem Gebäude mit drei Stockwerken ist, könnte man für jedes Stockwerk ein eigenes Netzwerk haben. Das ist aber nicht immer sinnvoll oder passend. 
+
+Um flexibler zu sein, kann man sogenannte VLANs nutzen. VLANs sind wie virtuelle Netzwerke, die man im selben Gebäude einrichten kann, ohne dass man dafür in jedem Stockwerk ein eigenes Kabel brauchen muss. So kann man die Computer in verschiedenen Stockwerken miteinander verbinden, als wären sie in einer Gruppe, obwohl sie physisch weit auseinander stehen. Das macht es einfacher, Netzwerke zu organisieren, so wie man möchte, und gibt mehr Freiheit in der Verbindung von Geräten.

@@ -1,0 +1,13 @@
+Die Aussage bedeutet einfach: Wir nehmen die Daten, die in Form von Nullen und Einsen (Bitstrom) vorliegen, und verwandeln sie in eine Art Welle oder Signal, das wir senden können. 
+
+Hier sind die Schritte einfach erklärt:
+
+1. **Daten in Wellen umwandeln**: Die Nullen und Einsen werden in ein Signal umgewandelt. Dieses Signal kann wie eine Welle aussehen, die sich durch die Luft oder durch Kabel bewegt.
+
+2. **Zeit und Ort**: Um das Signal zu senden, betrachten wir, was an einem bestimmten Ort und zu bestimmten Zeiten passiert. Das hilft uns, das Signal so zu formen, dass es gut übermittelt werden kann.
+
+3. **Digitalisieren**: Wir nehmen das ursprüngliche Signal und messen es zu bestimmten Zeiten sowie an bestimmten Punkten. Das nennt man Abtasten. Dadurch schaffen wir eine digitale Version des Signals, die wir einfach weitergeben können.
+
+4. **Übertragung**: Dieses digitale Signal wird dann über Kanäle (wie Kabel oder Funk) gesendet, damit der Empfänger es verstehen kann.
+
+Im Grunde genommen: Wir nehmen Daten, machen sie zu einem Signal und schicken sie dann weiter.

@@ -1,0 +1,9 @@
+In diesem Text geht es um das Routing von Daten in Netzwerken, also darum, wie Daten von einem Punkt (A) zu einem anderen Punkt (B) gelangen. Damit das funktioniert, benutzen wir Router, die helfen, den besten Weg für diese Daten zu finden.
+
+Es gibt zwei Wege, wie Router wissen können, welchen Weg sie nehmen sollen: 
+
+1. **Statisches Routing**: Hier legt eine Person (der Administrator) feste Regeln fest, wie die Daten geschickt werden sollen. Es ist wie eine feste Straßenkarte, die sich nicht ändert. Wenn eine Straße (oder Verbindung) kaputt geht oder neue Straßen entstehen, müssen diese Informationen manuell aktualisiert werden. Das kann schwierig sein, weil der Administrator nicht immer alles sieht, was hinter den Routern passiert.
+
+2. **Dynamisches Routing**: Hier machen die Router alles selbst. Sie lernen und entscheiden automatisch, welchen Weg die Daten nehmen sollen, basierend auf verschiedenen Informationen (die Metriken genannt werden). Eine dieser Informationen könnte die Anzahl der „Sprünge“ (Hops) sein, die ein Datenpaket machen muss, um sein Ziel zu erreichen. Bei einem bestimmten Protokoll namens RIP zählt man, wie viele Router das Datenpaket passieren muss, um dorthin zu gelangen.
+
+Zusammengefasst: Routern hilft es, die besten Wege zu finden, damit Daten schnell und sicher an ihr Ziel kommen – entweder durch feste Regeln, die schwer zu ändern sind, oder durch selbstständiges Lernen.

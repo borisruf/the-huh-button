@@ -1,0 +1,5 @@
+Das Sendefenster ist wie eine Art "Behälter" für Daten, die zwischen einem Sender und einem Empfänger hin- und hergeschickt werden. Man kann sich das so vorstellen: Der Sender schickt eine gewisse Menge an Daten, aber bevor er zu viele auf einmal schickt, muss er wissen, dass der Empfänger sie erhalten hat. 
+
+Das "Sliding-Window" bedeutet, dass dieses "Behälter" immer wieder angepasst wird. Wenn der Empfänger etwas erhält und bestätigt, kann der Sender wieder mehr Daten schicken. So arbeiten die beiden zusammen, ohne dass der Sender zu schnell ist und der Empfänger überfordert wird.
+
+Das Ziel ist, die Datenleitung immer durchgehend mit Informationen zu füllen, damit nichts verloren geht und alles schnell und effizient läuft. Wenn der Sender und der Empfänger sich darüber verständigen, wie viele Daten sie gleichzeitig schicken können, funktioniert die Kommunikation besser.

@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, dass es manchmal möglich ist, dass sich bei der Übertragung von Daten ein Fehler eingeschlichen hat, auch wenn wir nicht sofort sehen, dass etwas nicht stimmt. Es wird gesagt, dass wir im nächsten Abschnitt darauf eingehen werden, wie wir das erkennen können. 
+
+Wenn wir Daten senden (zum Beispiel beim Online-Banking oder beim Streamen von Videos), kann es passieren, dass diese Daten beschädigt werden oder verloren gehen. Um das festzustellen, benutzen wir ein Verfahren namens CRC (zyklischer Redundanz-Check). Dabei fügen wir eine spezielle Art von Information zu den gesendeten Daten hinzu, die uns hilft zu überprüfen, ob alles richtig angekommen ist.
+
+In der Aussage wird auch erwähnt, dass wir unter bestimmten Umständen (wie bei einer Videoübertragung) kleine Fehler ignorieren können, weil die Geschwindigkeit wichtig ist. Aber bei wichtigen Daten, wie zum Beispiel Geldtransfers, ist es sehr wichtig, Fehler zu erkennen und zu beheben.
+
+Zusammengefasst: Wenn ein Fehler auftritt, können wir mit speziellen Methoden erkennen, ob die Daten richtig sind oder nicht. Und im nächsten Schritt werden wir darüber sprechen, wie wir das genau machen.

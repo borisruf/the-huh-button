@@ -1,0 +1,11 @@
+Die Aussage beschreibt, wie Router im Internet funktionieren, um Daten von einem Ort zum anderen zu senden. Hier ist eine einfache Erklärung:
+
+Stell dir vor, du möchtest einen Brief versenden. Bevor du ihn abschickst, musst du wissen, wohin er gehen soll. Router sind wie Postämter, die die Briefe an die richtige Adresse weiterleiten. Wenn ein Router einen Datenpacket (wie einen digitalen Brief) empfängt, schaut er zunächst, ob er der letzte Ort ist, an den der Brief geschickt werden soll. Wenn er der richtige Ort ist, gibt er den Brief an den Empfänger weiter.
+
+Wenn er nicht der richtige Ort ist, benutzt der Router eine spezielle Liste, die Routing-Tabelle genannt wird. Diese Tabelle hilft ihm herauszufinden, wohin er den Brief als Nächstes schicken soll. Er schaut dafür auf die Adresse des Empfängers. 
+
+Die Routing-Tabelle enthält Informationen darüber, wie weit der Router vom Ziel entfernt ist und wer der nächste Router ist, an den er den Brief weitergeben soll. 
+
+Die Daten werden in Schichten verarbeitet, und mit jeder Schicht wird ein Stück des Pakets "ausgepackt", bis der Router die Adresse sieht und weiß, wo es hin muss. 
+
+Das ist wichtig, damit die Daten schnell und ohne Staus an ihr Ziel kommen. Wenn viel Verkehr ist, kann der Router auch entscheiden, einen anderen Weg zu wählen, um Staus zu vermeiden. So sorgt das Routing dafür, dass Informationen effizient von einem Punkt zum anderen gelangen.

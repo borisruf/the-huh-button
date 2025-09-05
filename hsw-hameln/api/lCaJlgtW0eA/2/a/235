@@ -1,0 +1,9 @@
+Die Aussage spricht darüber, wie man verschiedene Teile eines Netzwerks miteinander verbindet. 
+
+Stell dir vor, wir haben 5 Teile, die wir „Netzwerksegmente“ nennen. Diese Teile sind wie verschiedene Räume in einem Gebäude. Um diese Räume miteinander zu verbinden, benutzen wir 4 Geräte, die „Hubs“ oder „Repeater“ heißen. 
+
+Jetzt gibt es eine Regel, die 5-4-3-Regel. Diese Regel sagt uns, dass wir nicht mehr als 5 Teile (oder Räume) haben sollten und dass wir diese 5 Teile mit 4 Hubs verbinden. 
+
+Die Hubs helfen uns, die Verbindung zwischen den Teilen zu verbessern, damit die Informationen besser von einem Teil zum anderen fließen können. 
+
+In einfachen Worten: Wenn wir viele Teile eines Netzwerks haben, brauchen wir spezielle Geräte, um sie zu verbinden, und die 5-4-3-Regel sagt uns, wie viele Teile und Geräte wir verwenden sollen, damit alles gut funktioniert.

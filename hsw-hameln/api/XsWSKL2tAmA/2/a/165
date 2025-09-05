@@ -1,5 +1,9 @@
-Eine IP-Adresse ist wie eine Hausadresse für Computer, damit sie im Internet gefunden werden können. Ähnlich wie eine Hausadresse, die Straße und Hausnummer hat, besteht eine IP-Adresse aus einem Netzanteil und einem Hostanteil - das ist so, als wäre der Netzanteil die Straße und der Hostanteil die Hausnummer. Um zu wissen, welcher Teil der Adresse zur Straße und welcher zur Hausnummer gehört, braucht man die Subnetzmaske. Sie ist wie eine Vorlage, die festlegt, wie die IP-Adresse aufgeteilt wird. 
+Die Aussage "255. 255." bezieht sich auf die Struktur von IP-Adressen in Netzwerken. IP-Adressen sind wie Adressen, die einem Computer im Internet helfen, andere Computer zu finden.
 
-Nehmen wir z.B. die Adresse 172.16.14.193. Sie wird in vier Stücke geteilt, die als Oktette bezeichnet werden. Sie bestehen jeweils aus 8 Teilen, den sogenannten Bits. Diese haben unterschiedliche Werte und wenn man sie zusammenzählt, bekommt man die Zahlen der IP-Adresse.
+Eine IP-Adresse besteht aus vier Teilen, die wir „Oktette“ nennen. Jedes Oktett kann Zahlen von 0 bis 255 haben. Diese Zahlen helfen zu bestimmen, wo sich ein Computer im Netzwerk befindet. 
 
-Ebenso gibt es verschiedene Adressklassen (Klasse A, B, C), die je nach Bedarf verwendet werden. Jede Klasse hat eine Standard-Subnetzmaske. Bei Klasse A ist das die 255.0.0.0, bei Klasse B die 255.255.0.0 und bei Klasse C die 255.255.255.0. Das bedeutet z.B., dass bei der Klasse A die erste Zahl der IP-Adresse zur Straße gehört und der Rest zur Hausnummer.
+Jetzt gibt es etwas, das wir „Subnetzmaske“ nennen. Die Subnetzmaske sagt uns, welcher Teil der IP-Adresse zum Netzwerk gehört und welcher Teil zu einem spezifischen Computer (Host). 
+
+Wenn wir sagen "255. 255.", meinen wir, dass die ersten beiden Teile (Oktette) der Subnetzmaske auf 255 gesetzt sind. Das bedeutet, diese Teile zeigen den Netzwerkteil an, also welchen Bereich im Netzwerk wir betrachten. Die anderen Teile (die wir nicht erwähnen) könnten 0 sein, was bedeutet, dass sie zu den einzelnen Computern im Netzwerk gehören.
+
+Zusammengefasst: "255. 255." hilft uns zu verstehen, wie man eine IP-Adresse in einem Netzwerk aufteilt, um die Computer darin zu organisieren.

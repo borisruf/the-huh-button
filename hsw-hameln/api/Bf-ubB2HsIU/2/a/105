@@ -1,1 +1,5 @@
-Wir möchten, dass verschiedene Computer problemlos miteinander sprechen können. Deshalb erstellen wir Regeln (Standards), die alle Computer befolgen müssen. So können sie eine Verbindung von einem Ende zum anderen Ende aufbauen, wie wenn man einen Brief von einem Ort zum anderen schickt. Den Brief würde man als Quittung oder Bestätigung bezeichnen. Außerdem gibt es spezielle Regeln für verschiedene Anwendungen, die über unser Netzwerk laufen. Die beiden wichtigsten Regeln, die wir uns anschauen werden, heißen TCP und IP. Das sind sozusagen die Regeln, die in der Mitte unserer Verbindung stehen.
+In einfachen Worten bedeutet die Aussage, dass wir im Netzwerk bestimmte Regeln und Standards haben, die helfen, dass alles richtig funktioniert. Diese Regeln nennt man Protokolle. Die wichtigen Protokolle, über die wir sprechen wollen, heißen TCP und IP.
+
+Das TCP/IP-Modell ist wie eine Anleitung, die zeigt, wie die verschiedenen Teile eines Netzwerks miteinander kommunizieren. Es hat vier Schichten, die erklären, wie die Daten von einem Computer zum anderen gelangen. Besonders wichtig sind die zwei mittleren Schichten, die TCP und IP sind. Sie sorgen dafür, dass die Daten zuverlässig und sicher transportiert werden.
+
+Zusammengefasst: TCP und IP sind wichtige Regeln, die helfen, dass Informationen im Internet richtig übermittelt werden.

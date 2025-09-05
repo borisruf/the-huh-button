@@ -1,0 +1,5 @@
+In einfachen Worten erklärt: 
+
+Es gibt verschiedene Arten, wie Computer in einem Netzwerk miteinander sprechen können. Eine Art ist, wenn ein Computer mit einem anderen Computer direkt kommuniziert. Das nennt man "Unicast". Zum Beispiel, wenn du die Hauptseite von Wikipedia anfragst, schickt dieser Computer eine Nachricht an einen bestimmten anderen Computer – das ist Unicast.
+
+Aber manchmal will man nicht nur mit einem einzelnen Computer reden. Manchmal möchte man mehrere Computer gleichzeitig ansprechen. Das macht man mit etwas, das "Broadcast" heißt. Bei einem Broadcast schickt der Computer eine Nachricht, die von vielen oder sogar allen Computern in der Nähe empfangen wird. Das ist nützlich, wenn man Informationen an viele Computer gleichzeitig senden möchte und nicht sicher ist, wie viele Computer es sind.

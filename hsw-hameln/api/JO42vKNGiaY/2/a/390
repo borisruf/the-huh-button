@@ -1,0 +1,7 @@
+In einfachen Worten bedeutet die Aussage, dass in einer bestimmten Art von Adresse (IP-Version 6) die Nullen, die ganz am Anfang eines Zahlenblocks stehen, nicht mehr geschrieben werden müssen. 
+
+Stellt euch vor, ihr habt einen Block mit vier Zahlen. Wenn in diesem Block zum Beispiel "003A" steht, könnt ihr die Nullen am Anfang einfach weglassen und nur "3A" schreiben. Das macht die Adresse kürzer und einfacher zu lesen.
+
+Wenn ihr eine Adresse seht, die mehr als einen Block hat, könnt ihr auch immer die führenden Nullen in jedem Block weglassen, wenn sie da sind. Das macht es leichter, die Adresse zu benutzen, ohne dass ihr euch um alle Nullen kümmern müsst. 
+
+Außerdem kann man diese Regel noch ein Stück weiter anwenden, z.B. wenn es eine längere Adresse gibt, wo viele Nullen in verschiedenen Blöcken stehen.

@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es verschiedene Gruppen (Klassen) von IP-Adressen gibt, und jede Gruppe kann eine andere Anzahl von Netzwerken haben. 
+
+Stell dir vor, jede IP-Adresse ist wie eine Adresse für ein Haus. Eine Klasse von IP-Adressen hat Platz für viele Häuser (Netzwerke) und eine andere Klasse hat Platz für weniger Häuser. 
+
+Das heißt, wenn wir über diese Gruppen reden, müssen wir wissen, wie viele Netzwerke und Computer in jede Gruppe passen. Manche Gruppen können viele Netzwerke und viele Computer haben, während andere nur ein paar Netzwerke und Computer unterstützen können. 
+
+Zusammengefasst: Die verschiedenen Klassen von IP-Adressen sind wichtig, weil sie bestimmen, wie viele Netzwerke und Computer wir damit ansprechen können.

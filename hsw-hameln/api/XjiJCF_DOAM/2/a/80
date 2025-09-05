@@ -1,0 +1,3 @@
+Ein Router ist ein Gerät, das dabei hilft, Informationen zwischen verschiedenen Netzwerken zu übertragen. Um diese Aufgabe zu erledigen, benötigt der Router mehrere IP-Adressen. Das liegt daran, dass der Router mit verschiedenen Netzwerken verbunden ist, und jede Verbindung hat ihre eigene IP-Adresse. 
+
+Man kann sich das so vorstellen: Wenn du mehrere Türen in deinem Haus hast, durch die die Post kommt, braucht jede Tür eine Adresse, damit die Post weiß, wohin sie gehen soll. Genauso ist es beim Router: Er hat verschiedene "Türen" oder Schnittstellen, und jede Schnittstelle braucht ihre eigene IP-Adresse, damit sie die Informationen richtig weiterleiten kann.

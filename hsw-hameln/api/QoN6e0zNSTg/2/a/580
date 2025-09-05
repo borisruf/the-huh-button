@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass wir in einer Übung lernen werden, wie Datenanfragen über verschiedene Netzwerke hinweg geschickt werden. Zum Beispiel, wenn jemand die Wikipedia-Seite anfordert, fragt man sich, welche Adresse dort in der MAC-Adresszeile steht. 
+
+Im Grunde genommen geht es darum, wie Computer sich miteinander verbinden und Daten senden, auch wenn sie nicht direkt nebeneinander stehen, sondern durch Router und Netzwerke voneinander getrennt sind. Wir schauen uns an, wie diese spezielle Adresse (die MAC-Adresse) aussieht und was sie bedeutet, wenn die Daten von einem Netzwerk zum nächsten reisen.

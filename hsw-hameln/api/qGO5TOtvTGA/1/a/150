@@ -1,0 +1,7 @@
+Statisches Routing und dynamisches Routing unterscheiden sich grundlegend in der Art und Weise, wie Routen zu den Netzwerkzielen definiert und verwaltet werden. 
+
+Beim statischen Routing konfiguriert der Netzwerkadministrator manuell feste Routen auf den Routern, die unverändert bleiben, bis sie erneut manuell angepasst werden. Dies bietet eine einfache und kontrollierte Methode für kleinere Netzwerke, kann jedoch unflexibel und wartungsintensiv sein, insbesondere wenn sich die Netzwerkstruktur ändert.
+
+Im Gegensatz dazu verwenden dynamische Routing-Protokolle Algorithmen, um Routen automatisch zu ermitteln und anzupassen, basierend auf der aktuellen Netzwerktopologie und den Verbindungsbedingungen. Diese Protokolle, wie RIP oder OSPF, ermöglichen eine schnellere Reaktion auf Netzwerkänderungen und verbessern die Effizienz und Flexibilität des Routings in größeren oder komplexeren Netzwerken. 
+
+Die Wahl zwischen statischem und dynamischem Routing hängt von den spezifischen Anforderungen und der Komplexität des Netzwerks ab.

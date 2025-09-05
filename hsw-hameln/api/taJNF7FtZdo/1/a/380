@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass Routing-Tabellen in Netzwerken auf zwei Arten erstellt und aktualisiert werden können: dynamisch und manuell. 
+
+Dynamisches Routing erfolgt automatisch durch Protokolle, die Router verwenden, um Informationen über das Netzwerk auszutauschen und ihre Tabellen anhand von Verkehrsdaten, Netzwerktopologien und anderen Faktoren zu aktualisieren. Dies ermöglicht eine flexible Anpassung an wechselnde Bedingungen im Netzwerk.
+
+Manuelles Routing hingegen ist ein Prozess, bei dem Netzwerkadministratoren die Routing-Tabellen selbst anpassen und Daten über die Verbindungen manuell einpflegen. Dies kann erforderlich sein, um spezifische Anforderungen zu erfüllen oder wenn automatische Systeme nicht zuverlässig sind. 
+
+Beide Methoden haben ihre Vor- und Nachteile und finden je nach Netzwerkarchitektur und -bedürfnissen Anwendung.

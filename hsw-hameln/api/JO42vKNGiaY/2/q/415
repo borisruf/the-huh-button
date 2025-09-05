@@ -1,0 +1,1 @@
+ In diesem Fall FE80 und dann haben wir eine Nullenfolge danach und am Ende nochmal eine 57.   Und immer wenn wir diese Nullenfolge haben, dann dürfen wir die, wie gesagt, einmal komplett abkürzen pro Adresse.

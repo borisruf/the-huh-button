@@ -1,0 +1,5 @@
+Es gibt eine bestimmte Art von Funknetzwerken, die wir für Wireless (drahtlos) verwenden. In diesen Netzwerken gibt es einen speziellen Frequenzbereich, der ISM-Band genannt wird. In diesem Bereich gibt es 14 Kanäle, die wir nutzen können. Jeder Kanal hat eine Breite von 22 MHz. 
+
+Wichtig ist, dass wir nicht zu viele Kanäle direkt nebeneinander benutzen, denn das könnte Probleme verursachen. Wir können maximal drei Kanäle nebeneinander verwenden, ohne dass sie sich überlappen. Wenn sich Kanäle überlappen, spricht man von Interferenzen, was zu Störungen führt. 
+
+Diese Störungen machen es schwieriger, Daten zu senden und empfangen, und die Geschwindigkeit des Netzwerks wird langsamer. Es ist also wichtig, die Kanäle so zu wählen, dass sie sich nicht überlappen, um ein gutes und schnelles Funknetzwerk zu haben.

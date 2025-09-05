@@ -1,0 +1,5 @@
+Wir können feststellen, ob Daten verloren gegangen sind, indem der Empfänger dem Sender einfach sagt, dass er die Daten bekommen hat. Das nennt man eine Quittung. 
+
+Wenn der Sender Daten sendet, kann der Empfänger mit einem einfachen "Ja, ich habe sie" antworten. Wenn der Empfänger nicht antwortet oder sagt, dass etwas fehlt, dann wissen wir, dass ein Datenverlust stattgefunden hat. 
+
+Diese Methode ist einfach. Sie hilft uns zu wissen, ob die gesendeten Daten beim Empfänger angekommen sind, oder ob wir sie noch einmal senden müssen.

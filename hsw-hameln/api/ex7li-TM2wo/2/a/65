@@ -1,0 +1,5 @@
+In einfacher Sprache bedeutet die Aussage Folgendes:
+
+Wenn wir Daten senden, können Fehler auftreten. Zum Beispiel können sich kleine Teile der Daten ändern oder verloren gehen. Um das zu überprüfen, verwenden wir eine Methode, die sich "zyklischer Redundanz-Check" nennt. Diese Methode hilft uns zu sehen, ob die Daten, die wir senden, richtig sind. 
+
+Es ist wichtig, zu wissen, ob wir die Daten richtig bekommen haben oder ob sie ganz verloren gegangen sind. Manchmal merken wir nicht einmal, dass die Daten nicht angekommen sind. Deshalb müssen wir sicherstellen, dass wir die Daten korrekt überprüfen können, bevor wir sie weiterverarbeiten.

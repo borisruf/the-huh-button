@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es viele Computer gibt, die eine IP-Adresse brauchen, und manchmal sind die Gruppen von IP-Adressen (Klassen A, B und C) zu groß. Das macht es schwer, alle Computer zu verwalten und richtig zu benutzen. 
+
+Um dieses Problem zu lösen, können wir kleinere Gruppen von IP-Adressen erstellen, die nennt man Subnetze. Das hilft uns, besser mit den IP-Adressen umzugehen und sie nicht zu verschwenden. 
+
+Früher haben wir nicht gut darauf geachtet, wie wir die IP-Adressen verwenden, und jetzt haben wir nicht genug Adressen für alle Geräte, die wir anschließen möchten.

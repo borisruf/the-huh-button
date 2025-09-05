@@ -1,0 +1,9 @@
+Wir wollen Informationen, also Daten, von einem Ort zum anderen schicken. Damit das funktioniert, müssen wir diese Daten in ein Format umwandeln, das wir übermitteln können. Dieses Format nennen wir "Signal". 
+
+Ein Signal ist wie eine Welle, die sich bewegt. Man kann sich das wie eine Wasserwelle im Meer vorstellen. Sie hat eine Höhe (Amplitude) und bewegt sich über die Zeit und den Raum. 
+
+Um ein Signal zu erstellen, schauen wir uns an, wie diese Welle zu bestimmten Zeiten aussieht. Das nennt man "abkosten". Wir nehmen regelmäßig (also in gleichen Abständen) Informationen von der Welle, um ein Bild davon zu bekommen. 
+
+Zusätzlich schauen wir auch, wie hoch die Welle ist, wenn wir sie beobachten. Das nennt man "wertdiskrete Abtastung". Wenn wir beides zusammen verwenden – die Zeit und die Werte – können wir unser Signal digital machen. 
+
+Ein voll digitales Signal ist wichtig, weil es einfacher und zuverlässiger zu übertragen ist. Das ist also unser Ziel: Wir wollen digitale Signale benutzen, um Informationen zu übertragen.

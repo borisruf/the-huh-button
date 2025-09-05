@@ -1,0 +1,15 @@
+In diesem Text geht es um verschiedene Arten von Funknetzen, die verwendet werden, um Geräte drahtlos miteinander zu verbinden. 
+
+Zuerst wird erklärt, dass es unterschiedliche Funknetze gibt, je nachdem, wie weit sie reichen:
+
+1. **Bluetooth** ist für kurze Distanzen, etwa 10 Meter. Hier können Daten mit Geschwindigkeiten von ungefähr 2,1 bis 24 Megabit pro Sekunde übertragen werden.
+   
+2. **WLAN** (zum Beispiel dein Heimnetzwerk) hat eine größere Reichweite und kann theoretisch bis zu 600 Megabit pro Sekunde erreichen.
+
+3. Für Gegenden wie Städte gibt es das **WiMAX**, das eine noch schnellere Datenübertragung von bis zu 1 Gigabit pro Sekunde ermöglicht.
+
+4. **Mobiles Internet**, wie LTE, erlaubt es dir, mit Geschwindigkeiten von bis zu 225 Megabit pro Sekunde zu surfen.
+
+Die Organisation, die sich hauptsächlich um die Entwicklung der Mobilfunknetze kümmert, ist nicht die IEEE (eine Technik-Organisation), sondern eine andere Gruppe, die für die Weiterentwicklung von Mobilfunkstandards zuständig ist.
+
+Der Sprecher will sich in der weiteren Diskussion auf WLAN-Standards konzentrieren, um zu verstehen, wie man lokale Netzwerke am besten plant.

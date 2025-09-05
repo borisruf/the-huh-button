@@ -1,0 +1,7 @@
+Die Aussage besagt, dass es zwei verschiedene Versionen von IP-Adressen gibt: IP-Version 4 (IPv4) und IP-Version 6 (IPv6). 
+
+Bei IPv4 bestehen die Adressen aus 32 Bit. Man kann sich Bit wie kleine Einsen und Nullen vorstellen. Diese 32 Bits reichen aus, um viele Adressen zu erstellen, aber nicht genug für alle Geräte, die angeschlossen werden wollen.
+
+Bei IPv6 hingegen bestehen die Adressen aus 128 Bit. Das sind viel mehr Einsen und Nullen, was bedeutet, dass man viel mehr verschiedene IP-Adressen hat. Das ist wichtig, weil immer mehr Geräte ins Internet gehen, und wir genug Adressen brauchen, damit jedes Gerät eine eigene Adresse hat. 
+
+Kurz gesagt: IPv4 hat weniger Adressen (32 Bit), und IPv6 hat viel mehr Adressen (128 Bit).

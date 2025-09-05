@@ -1,0 +1,5 @@
+Klar! Lass uns die Aussage in einfacher Sprache erklären:
+
+Wir haben hier eine Nachricht, die über das Internet geschickt wird. Diese Nachricht fragt nach der Hauptseite von Wikipedia. Im Internet gibt es immer eine Adresse, wo die Nachricht hin soll, und eine Adresse, von wo sie kommt. 
+
+Das bedeutet, wir senden eine Anfrage zu Wikipedia (das ist die Empfängeradresse), und die Anfrage kommt von einem anderen Computer oder Gerät (das ist die Quellenadresse). So wird sichergestellt, dass die Nachricht den richtigen Weg findet und auch zurückantworten kann.

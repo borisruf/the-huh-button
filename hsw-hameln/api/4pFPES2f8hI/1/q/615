@@ -1,0 +1,1 @@
+ Wenn wir das mal binär untereinander schreiben, dann ist klar, überall dort, wo Einsen stehen in meiner Subnets-Maske, bekomme ich am Ende auch wieder eine Eins heraus für meine Netz-ID, sofern auch im letzten Oktett dort eine Eins steht.

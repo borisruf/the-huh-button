@@ -1,0 +1,5 @@
+Die Aussage, die du betrachten möchtest, besagt, dass es eine wichtige Stelle in einem Signal gibt, die entscheidend dafür ist, dass wir das ursprüngliche Signal, das gesendet wurde, auch richtig empfangen können. Dies bedeutet, dass wir darauf achten müssen, wie das Signal während der Übertragung beeinträchtigt werden kann. 
+
+Im Kontext des Textes geht es um verschiedene Probleme, die bei der Übertragung von Informationen auftreten können. Es gibt viele Störfaktoren, die dazu führen, dass das Signal schwächer wird oder anders aussieht, als es gesendet wurde. Schwierigkeiten können von der Art des Kabels kommen, das verwendet wird, oder von physikalischen Effekten wie Rauschen, das durch die Bewegung von Teilchen entsteht. 
+
+Um diese Probleme zu verstehen, schauen wir uns an, wie viel „Bandbreite“ – das ist ein Maß dafür, wie viel Information ein Kanal gleichzeitig übertragen kann – mit der „Übertragungsrate“ – das ist, wie schnell Informationen übertragen werden können – zusammenhängt. Es gibt dafür spezielle Formeln, die helfen zu erklären, wie man die Qualität eines Signals in Bezug auf Bandbreite und Geschwindigkeit verbessern kann.

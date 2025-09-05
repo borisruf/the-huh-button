@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn wir Daten, also Informationen, von einem Ort zu einem anderen schicken, müssen wir bestimmten zusätzlichen Informationen hinzufügen. Diese Zusatzinfos helfen uns, die Daten zu steuern und Fehler zu erkennen. 
+
+Diese zusätzlichen Informationen setzen sich aus zwei Teilen zusammen: einem Kopfteil, der am Anfang steht, und einem Nachspann, der am Ende kommt. Zusammen nennt man das "Rahmenbildung". 
+
+Diese Rahmenbildung ist wichtig, weil sie sicherstellt, dass wir die Daten richtig von einer Adresse zur anderen schicken können und auch Fehler bei der Übertragung bemerken.

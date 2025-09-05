@@ -1,0 +1,5 @@
+Die Aussage sagt, dass jeder Computer und jedes Gerät, das mit einem Netzwerk verbunden ist, eine spezielle Adresse hat. Diese Adresse nennt man „Link-Local-Adresse“ oder Verbindungslokale-Adresse. Sie wird für jede Verbindung in einem Computer, Router oder anderen Geräten einzeln erstellt.
+
+Die Link-Local-Adresse beginnt immer mit „fe80:“. Danach kommen weitere Zahlen, die die spezielle Verbindung identifizieren. Diese Adressen sind wichtig, damit die Geräte im selben Netzwerk miteinander kommunizieren können, ohne von außen erreichbar zu sein. 
+
+Zusammengefasst: Jedes Gerät hat eine besondere Adresse für das Netzwerk, die immer mit „fe80:“ beginnt, damit die Geräte lokal miteinander sprechen können.

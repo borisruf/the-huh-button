@@ -1,0 +1,9 @@
+In dem Text geht es darum, wie Daten in Netzwerken von einem Ort zum anderen übertragen werden. Es gibt verschiedene Methoden, um dies zu tun. Diese Methoden nennt man Vermittlungsarten. 
+
+1. **Leitungsvermittlung:** Hier wird eine feste Verbindung zwischen Sender und Empfänger hergestellt. Man kann sich das wie ein Telefonanruf vorstellen: Die Verbindung bleibt bestehen, solange man spricht.
+
+2. **Speichervermittlung:** Hier werden Daten in bestimmten Knotenpunkten gespeichert, bevor sie weitergeschickt werden. Man kann sich das wie Post vorstellen: Briefe werden in Postämtern gespeichert, bevor sie zum Empfänger geschickt werden.
+
+3. **Paketvermittlung:** Das ist eine Mischung aus den beiden vorherigen Methoden. Daten werden in kleine Pakete zerlegt und können dann auf verschiedenen Wegen zum Empfänger geschickt werden. Das ist effizienter, weil mehrere Pakete gleichzeitig verschickt werden können.
+
+Der letzte Satz bedeutet, dass, obwohl die Paketvermittlung viele Vorteile hat, es auch einige kleine Nachteile gibt, die wir als Benutzer vielleicht nicht bemerken. Diese Nachteile hängen oft mit den speziellen Regeln und Abläufen (Protokollen) zusammen, die beim Datenaustausch verwendet werden.

@@ -1,0 +1,3 @@
+Diese Aussage bedeutet einfach, dass man beim Einrichten von Netzwerken darauf achten sollte, so wenig IP-Adressen wie möglich zu verschwenden. Bei einer sogenannten "Subnetzmaske Slash 30" hat man eine bestimmte Anzahl von IP-Adressen, insgesamt vier. Davon kann man jedoch nur zwei nutzen, da zwei Adressen für spezielle Zwecke reserviert sind (eine für das Netzwerk selbst und eine für die Broadcast-Adresse). 
+
+Das heißt, mit dieser Methode bekommt man genau die minimale Anzahl an IP-Adressen, die nötig ist, um zwei Router miteinander zu verbinden. So spart man Platz und kann sicherstellen, dass die Adressen effizient genutzt werden.

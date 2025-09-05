@@ -1,0 +1,9 @@
+In dieser Aussage geht es darum, wie man Geräte miteinander verbinden kann, um Informationen auszutauschen, ohne dabei immer eine feste Infrastruktur zu benötigen.
+
+1. **Ad-hoc-Netzwerke**: Das bedeutet, dass man zwei Geräte direkt miteinander verbinden kann, wie zum Beispiel ein Handy und ein Auto, ohne dass man dafür einen zusätzlichen Zugangspunkt (Access Point) oder Router braucht. Das funktioniert ähnlich wie bei Bluetooth.
+
+2. **Basic Service Set (Infrastruktur)**: Hier braucht man mindestens einen Zugangspunkt, der oft mit einem Router verbunden ist. Dieser Zugangspunkt hilft den Geräten, sich mit einem lokalen Netzwerk zu verbinden oder ins Internet zu gehen.
+
+3. **Mehrere Zugangspunkte**: In großen Gebäuden können mehrere Zugangspunkte verwendet werden, um sicherzustellen, dass alle Geräte guten Empfang haben. Diese Zugangspunkte können mit einem speziellen Controller koordiniert werden, damit sie gut zusammenarbeiten.
+
+Zusammengefasst: Man kann Geräte direkt verbinden oder über Zugangspunkte in ein Netzwerk einbinden, um von dort aus ins Internet zu gelangen oder lokale Verbindungen zu haben.

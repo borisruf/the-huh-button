@@ -1,1 +1,1 @@
- Soll heißen, ein falsch adressiertes Paket könnte dazu führen, dass eben ein Paket in dieser Schleife quasi endlos seine Runden dreht und das Problem, was dabei entsteht oder die Auswirkungen davon ist ein sogenannter Broadcast-Storm.
+ Soll heißen, ein falsch adressiertes Paket könnte dazu führen, dass eben ein Paket in dieser Schleife quasi endlos seine Runden dreht und das Problem, was dabei entsteht oder die Auswirkung davon ist ein sogenannter Broadcast-Storm.

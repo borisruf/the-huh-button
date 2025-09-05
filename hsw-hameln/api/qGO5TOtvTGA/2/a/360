@@ -1,0 +1,7 @@
+In einfachen Worten bedeutet die Aussage folgendes:
+
+Stell dir vor, du schickst ein Paket durch ein Netzwerk von Routern, die wie Postämter funktionieren. Jeder Router hilft, das Paket weiterzuleiten, bis es seinen Zielort erreicht. 
+
+Das Paket hat eine bestimmte Zeit, in der es ankommen muss, das nennt man "Time-to-Live" (TTL). Wenn das Paket diese Zeit überschreitet, bevor es ankommt, wird es als verloren angesehen - das heißt, es wird nicht mehr weitergeleitet und "verblasst" einfach im Netzwerk.
+
+In der Praxis wird also festgestellt, dass das Paket nicht mehr weiterkommt und die Zeit, die es zum Reisen hatte, abgelaufen ist. Das ist ein Zeichen dafür, dass irgendwo im Netzwerk vielleicht ein Problem aufgetreten ist, wie zum Beispiel, dass ein Router nicht richtig funktioniert.

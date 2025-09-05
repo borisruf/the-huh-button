@@ -1,0 +1,7 @@
+Stell dir vor, wir haben verschiedene Gruppen von Computern in einem Büro, die in „VLANs“ organisiert sind. Ein VLAN ist wie ein kleiner Raum für Computer, in dem sie miteinander sprechen können, ohne dass andere Computer dazwischenfunken.  
+
+Wenn in einem VLAN zu viele Daten gleichzeitig gesendet werden, wie beim Herunterladen großer Dateien, kann das die Verbindung für VoIP-Telefone (Telefongespräche über das Internet) stören.  
+
+Wenn ich zum Beispiel auf meinem Computer, auf dem ein Software-Telefon läuft, auch noch ein großes Programm herunterlade, kann mein Gespräch schlechter werden. Das Gespräch kann unterbrochen werden oder es kann zu Verzögerungen kommen.  
+
+Wenn wir also separate Räume (VLANs) für Computer und Telefone haben, hilft das, dass die Gespräche klappen, auch wenn andere Computer viel Daten nutzen. So können Telefonate immer gut funktionieren, ohne dass Downloads die Verbindung stören.

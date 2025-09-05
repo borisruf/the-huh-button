@@ -1,0 +1,15 @@
+In diesem Text geht es um Netzwerke und wie man sie besser miteinander verbinden kann, besonders wenn es um virtuelle Netzwerke geht, die VLANs heißen. Man kann sich das wie ein Gebäude mit mehreren Stockwerken vorstellen, wo jeder Stock ein eigenes Netzwerk hat. 
+
+Wenn wir nur die klassischen Netzwerke benutzen, bedeutet das, dass jede Etage ihr eigenes Netzwerk hat. Das ist aber nicht flexibel, weil man nicht einfach Arbeitsplätze jetzt und dann woanders hinsetzen kann.
+
+Mit VLANs kann man das ändern! Man kann die Räume und Arbeitsplätze einfach von einem Stockwerk in ein anderes Netzwerk verschieben, ohne physisch umziehen zu müssen. 
+
+Es gibt zwei Arten, wie man das machen kann: 
+
+1. **Statisch**: Der Chef (Administrator) entscheidet, wer zu welchem Netzwerk gehört. Er sagt, dass ein bestimmter Computer zum Beispiel immer zu Netzwerk A gehört, solange er an einen bestimmten Eingang (Switch-Port) angeschlossen ist. Das kann kompliziert sein, weil man darauf achten muss, dass nur die richtigen Computer an den richtigen Orten angeschlossen werden.
+
+2. **Dynamisch**: Hier wird alles einfacher. Es gibt eine zentrale Stelle, die weiß, welcher Computer zu welchem Netzwerk gehört. Sie benutzt eine spezielle Nummer (MAC-Adresse) jedes Computers. Wenn man dann einen Computer an einen Switch anschließt, schaut das System nach, welcher VLAN dazugehört und verbindet ihn automatisch mit dem richtigen Netzwerk.
+
+Wenn Daten zwischen diesen Computern gesendet werden, werden zusätzliche Informationen (ein 4-Byte-Bereich) zu diesen Datenpaketen hinzugefügt. Diese Informationen zeigen zum Beispiel, zu welchem VLAN der Computer gehört. 
+
+Das zeigt, wie man Netzwerkverbindungen flexibler und einfacher gestalten kann.

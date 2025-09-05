@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie Daten über ein Netzwerk gesendet werden. Stellen wir uns vor, dass es ein Vermittlungssystem gibt, wie einen Switch oder einen Router, der verschiedene Datenströme verwaltet. 
+
+Bei der **Leitungsvermittlung** funktioniert es so: Man kann sich das wie im alten Film vorstellen, wo eine Angestellte beim Telefon eine Verbindung herstellt. Sie steckt ein Kabel in eine Buchse, damit zwei Menschen direkt miteinander reden können. Hier gibt es eine spezielle Leitung nur für diese beiden Personen, während sie sprichwörtlich "am Telefon" sind. 
+
+In dem Beispiel wird gesagt, dass Sender A (die Person, die die Daten sendet) seine Informationen an einen Empfänger auf der anderen Seite schickt. Diese Verbindung ist ganz klar und direkt, genau wie bei einem Telefongespräch.
+
+So wird erklärt, dass bei der Leitungsvermittlung eine spezielle, direkte Verbindung zwischen dem Sender und dem Empfänger besteht, ähnlich wie ein Telefonanruf, wo man nur einen Anrufpartner hat, ohne dass jemand anderes dazwischen funkt.

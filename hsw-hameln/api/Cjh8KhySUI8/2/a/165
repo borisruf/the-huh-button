@@ -1,0 +1,9 @@
+TCP und UDP sind zwei verschiedene Arten von Protokollen, die dafür sorgen, dass Daten zwischen Computern hin- und hergeschickt werden. 
+
+Die Aussage bedeutet Folgendes:
+
+- **Ende-zu-Ende-Kontrolle**: Bei TCP sorgt das Protokoll dafür, dass alle Daten, die geschickt werden, am Ende auch wirklich ankommen. Es überprüft, ob kein Paket fehlt. Bei UDP gibt es diese Kontrolle nicht. Das bedeutet, dass es möglich ist, dass einige Daten verloren gehen und das Protokoll nichts dagegen macht.
+
+- **Flusskontrolle**: Bei TCP wird auch dafür gesorgt, dass die Daten in einem angemessenen Tempo gesendet werden. Wenn der Empfänger überfordert ist, stoppt TCP, bis der Empfänger bereit ist. UDP hat diese Flusskontrolle nicht. So kann es passieren, dass Daten zu schnell gesendet werden und der Empfänger sie nicht rechtzeitig verarbeiten kann.
+
+Im Grunde genommen kümmert sich TCP sehr um die Sicherheit und das korrekte Ankommen der Daten, während UDP viel schneller ist, aber dabei möglicherweise nicht alle Daten überträgt.

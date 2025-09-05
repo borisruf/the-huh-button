@@ -1,0 +1,11 @@
+Okay! Lass uns das einfach erklären.
+
+Stell dir vor, wir schicken Nachrichten von einem Computer zu einem anderen. Damit die Computer wissen, wo eine Nachricht anfängt und wo sie aufhört, benutzen wir spezielle Zeichen. 
+
+Jetzt gibt es ein besonderes Zeichen, das wir "End of Text" nennen. Das bedeutet einfach: „Hier endet die Nachricht!“ Aber manchmal könnte dieses Zeichen auch in der Nachricht selbst auftauchen und dann denkt der Computer, die Nachricht ist zu Ende, obwohl es nicht stimmt.
+
+Um zu verhindern, dass das passiert, haben die Computer eine Regel gemacht: Wenn das End of Text-Zeichen im Text ist, ändern wir es ein bisschen, damit es klar ist, dass es nicht das echte Ende der Nachricht bedeutet. 
+
+Ein Beispiel ist, dass wir anstatt nur "End of Text" zu schreiben, das Zeichen so verändern, dass es für die Computer klar ist, dass es nicht das Ende der Nachricht ist.
+
+So sorgen wir dafür, dass die Nachrichten richtig verstanden werden, ohne dass ein Computer denkt, eine Nachricht wäre zu Ende, obwohl sie es nicht ist.

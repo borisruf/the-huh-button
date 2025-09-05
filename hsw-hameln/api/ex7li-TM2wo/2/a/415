@@ -1,0 +1,9 @@
+Die Aussage beschreibt einen einfachen Weg, wie Sender und Empfänger von Daten miteinander kommunizieren, um sicherzustellen, dass die gesendeten Informationen korrekt ankommen. Hier ist eine einfache Erklärung:
+
+Wenn eine Person (der Sender) Informationen an eine andere Person (den Empfänger) sendet, kann der Empfänger dem Sender sagen, dass er die Informationen erhalten hat. Das nennt man "Quittierung". 
+
+Das "Stop-and-Wait-Verfahren" ist ein sehr einfacher Ablauf: Der Sender schickt die Daten und wartet dann, bis der Empfänger bestätigt, dass er die Daten bekommen hat, bevor der Sender die nächsten Daten schickt. 
+
+So können Sender und Empfänger sicherstellen, dass alles richtig übertragen wurde. Wenn der Empfänger nichts sagt, weiß der Sender, dass vielleicht ein Problem aufgetreten ist, und kann die Daten erneut senden. 
+
+Zusammengefasst: Der Sender sendet Daten, stoppt, bis der Empfänger bestätigt, dass alles okay ist, und erst dann sendet er die nächsten Daten.

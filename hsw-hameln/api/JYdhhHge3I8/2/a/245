@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie Daten in einem Netzwerk gespeichert und weitergeleitet werden können. 
+
+Stell dir vor, du schickst eine Nachricht. Manchmal kannst du sie sofort an die Person senden, die darauf wartet. Das nennt man Leitungsvermittlung, wie ein Telefonanruf, wo die Leitung direkt verbunden ist. 
+
+Aber manchmal sind viele Leute gleichzeitig in einer Warteschlange. Da hilft es, die Nachricht zuerst zu speichern. So kann die Nachricht später geschickt werden, auch wenn der Empfänger nicht sofort bereit ist. Das nennt man Speichervermittlung oder "Store-and-Forward". 
+
+Das bedeutet, dass dein Gerät die Nachricht aufbewahrt und später an den richtigen Ort schickt. 
+
+In diesem System können mehrere Nachrichten gleichzeitig bearbeitet werden, weil die Daten nicht mehr direkt verbunden sind. Stattdessen können sie erst gespeichert und dann geschickt werden, wann es passt. So läuft alles viel effizienter.

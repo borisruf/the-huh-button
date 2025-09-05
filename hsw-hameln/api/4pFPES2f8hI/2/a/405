@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass wir gelernt haben, wie man aus einem großen Netzwerk viele kleine Netzwerke macht. Das nennt man Subnetting. In den Übungen werden wir genauer lernen und rechnen, wie man diese kleinen Netzwerke erstellen kann, je nach den Vorgaben, die wir haben.
+
+Wir haben auch schon davon gehört, was eine Subnetzmaske ist. Diese Maske hilft uns zu verstehen, wie wir die Netzwerke aufteilen. Das Problem ist, dass die IP-Adressen, die wir haben, nicht mehr für alle ausreichen, weil zu viele Leute sie brauchen. Früher wurden die IP-Adressen nicht gut verteilt. Jetzt müssen wir cleverer damit umgehen, um sicherzustellen, dass wir genug Adressen haben und die Netzwerke sicherer sind.
+
+Wir wechseln also von großen Netzwerken zu kleineren Netzwerken und lernen, wie wir die Subnetzmaske verändern können, um das zu erreichen. Zum Beispiel nehmen wir eine große Adresse und teilen sie in mehrere kleine auf. Das gibt uns viele kleine Netzwerke, und wir können sicherer und besser mit den Adressen umgehen.
+
+Bald werden wir das alles in der Praxis üben und genau anschauen, wie wir diese Teilungen machen.

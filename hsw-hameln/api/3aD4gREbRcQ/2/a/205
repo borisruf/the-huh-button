@@ -1,0 +1,9 @@
+Die Aussage bedeutet Folgendes in einfacher Sprache:
+
+Wenn du eine E-Mail schickst, gibt es verschiedene Schritte, die dafür sorgen, dass die E-Mail richtig ankommt. 
+
+1. **Datenformat**: Wenn du ein Bild in der E-Mail hast, zum Beispiel ein Foto, ist es oft im JPEG-Format. Das bedeutet, dass das Bild auf eine bestimmte Art und Weise gespeichert ist, die Computer verstehen. Diese Art der Speicherung wird in der Schicht 6 des OSI-Modells behandelt. Hier wird sichergestellt, dass das Bild richtig gezeigt wird.
+
+2. **Benutzerkommunikation**: In der siebten Schicht wird die Verbindung zum Benutzer hergestellt. Das bedeutet, dass alles, was du auf deinem Bildschirm siehst (wie die E-Mail, die du bekommst), hier erscheint. Diese Schicht kümmert sich also um die Kommunikation zwischen dem Computer und dir.
+
+Insgesamt helfen die Schichten im OSI-Modell dabei, deine E-Mail zu versenden und sie so darzustellen, dass du sie dir gut anschauen kannst.

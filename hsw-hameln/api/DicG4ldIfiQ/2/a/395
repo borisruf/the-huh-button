@@ -1,0 +1,5 @@
+Die Aussage beschreibt, dass beim Senden von Signalen manchmal Störungen auftreten, die man "Rauschen" nennt. Es gibt zwei Hauptarten von Rauschen. Das eine ist das "thermische Rauschen", das passiert ständig, weil sich die Teile im Kabel bewegen und ein zufälliges Geräusch erzeugen. 
+
+Die andere Art ist das "Impulsrauschen". Das passiert nicht ständig, sondern es gibt nur kurze Zeitpunkte, in denen plötzlich ein starkes Geräusch auftritt, das dann wieder verschwindet. Man kann sich das wie ein lautes Geräusch vorstellen, das für einen kurzen Moment zu hören ist.
+
+Im Kontext der Übertragung von Informationen sind diese Störungen wichtig, weil sie die Qualität des Signals beeinträchtigen können. Um gute Informationen zu übertragen, müssen wir also auch diese Geräusche verstehen und berücksichtigen.

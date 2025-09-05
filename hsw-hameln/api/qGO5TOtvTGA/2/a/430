@@ -1,0 +1,8 @@
+Diese Aussage bedeutet, dass man herausfinden kann, ob ein Computer oder ein Gerät im gleichen Netzwerk ist oder nicht, indem man die IP-Adresse und die Subnetzmaske anschaut. 
+
+Hier ist es einfach erklärt:
+
+- **IP-Adresse**: Das ist wie die Adresse von einem Haus, aber für Computer. Sie sagt, wo der Computer im Internet oder im Netzwerk ist.
+- **Subnetzmaske**: Das ist eine Art Regel, die hilft zu bestimmen, welches Netzwerk zu welchem Computer gehört.
+
+Wenn man die IP-Adresse des Empfängers hat und die Subnetzmaske kennt, kann man sehen, ob der Empfänger im gleichen Netzwerk wie man selbst ist oder nicht. Wenn er im gleichen Netzwerk ist, können die Computer direkt miteinander sprechen. Wenn nicht, muss die Nachricht über einen Router, also einen speziellen Computer, weitergeleitet werden, um zum richtigen Ort zu gelangen.

@@ -1,0 +1,9 @@
+Okay, lass uns das einfach erklären!
+
+Wenn wir von "Shared Media" sprechen, meinen wir, dass mehrere Geräte das gleiche Netzwerk nutzen, um Daten zu senden und zu empfangen. Das ist wie bei einer Tischrunde, wo alle miteinander reden und nur einer gleichzeitig sprechen kann.
+
+Die "Bitübertragungsschicht" ist der Teil des Netzwerks, der dafür verantwortlich ist, die Daten in kleine Einheiten (Bits) zu zerlegen und sie über das Netzwerk zu schicken. Stell dir vor, es ist wie das Senden von Briefen: Der Brief wird in kleine Teile zerlegt, damit er besser durch den Briefkasten passt.
+
+Die "Sicherungsschicht" sorgt dafür, dass die Daten sicher ankommen. Sie stellt sicher, dass alles richtig und ohne Fehler über das Netzwerk geschickt wird. Das ist so, wie wenn du einen Brief mit einer Bestätigung versendest, damit du sicher bist, dass er auch wirklich zugestellt wurde.
+
+Insgesamt bedeutet die Aussage, dass wir bei der Arbeit mit einem geteilten Netzwerk wieder darauf achten müssen, wie die Daten gesendet werden und dafür sorgen müssen, dass sie sicher ankommen.

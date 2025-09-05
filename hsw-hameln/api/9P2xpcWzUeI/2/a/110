@@ -1,0 +1,7 @@
+In einem großen Gebäude gibt es verschiedene Etagen, und jede Etage hat ihr eigenes Netzwerk. Das ist wie in einer Schule, wo jede Klasse ihr eigenes Zimmer hat. Manchmal möchte man aber, dass Schüler aus verschiedenen Klassen zusammenarbeiten, ohne dafür die Räume zu wechseln. Das nennt man VLANs.
+
+Wenn man VLANs benutzt, kann man bestimmte Computer in verschiedenen Etagen miteinander verbinden, auch wenn sie nicht im gleichen Raum sind. Jedes Netzwerk muss richtig eingestellt werden, damit die Computer auch wirklich zusammenarbeiten können. 
+
+Um das zu machen, muss der Netzwerk-Administrator an jedem Anschluss, wo ein Computer angeschlossen wird, sagen, zu welchem Netzwerk dieser Computer gehört. Das bedeutet, wenn ein Computer an einen bestimmten Anschluss (Port) angeschlossen wird, muss er auch in das richtige virtuelle Netzwerk (VLAN) passen. Sonst kann es passieren, dass der Computer nicht mit den anderen kommunizieren kann, die er eigentlich erreichen soll. 
+
+Zusammengefasst: Ein Netzwerk kann flexibler gestaltet werden, aber man muss darauf achten, dass alles richtig verbunden ist.

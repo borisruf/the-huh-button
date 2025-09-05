@@ -1,0 +1,5 @@
+Die Aussage beschreibt, wie man mit einem Netzwerk viele Computer gleichzeitig ansprechen kann. Normalerweise wird ein Computer direkt (1 zu 1) angesprochen, das nennt man Unicast. Wenn aber viele Computer gleichzeitig eine Nachricht bekommen sollen, passiert das über etwas, das "Broadcast" heißt.
+
+Stell dir vor, du möchtest eine Einladung an alle Freunde in einer Gruppe schicken und nicht nur an einen speziellen Freund. Du schickst alle Einladungen gleichzeitig an alle. In der Computersprache ist das wie eine spezielle Adresse (mit vielen Fs), die sagt: "Schickt die Nachricht an alle!" So können alle Computer in einem Netzwerk die Nachricht gleichzeitig empfangen. 
+
+Zusammengefasst: Wenn man mit einem Broadcast sendet, schickt man eine Nachricht an viele Computer gleichzeitig, nicht nur an einen einzelnen.

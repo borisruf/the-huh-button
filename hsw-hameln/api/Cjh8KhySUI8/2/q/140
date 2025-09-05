@@ -1,0 +1,1 @@
+  Wir stellen dabei aber auch fest, dass zum Beispiel sowas wie die Sequenznummer oder die Acknowledgements bei UDP fehlen.  Bei TCP sind sie vorhanden, bei UDP eben nicht und genau das ist eben der entscheidende Unterschied.

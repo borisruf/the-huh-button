@@ -1,1 +1,1 @@
- Das heißt, wir haben da zum Beispiel Sequenznummern für unsere Pakete, die auf der anderen Seite hinterher wieder zusammengesetzt werden müssen.  Wir sehen dort einen bestimmten Abbruch, das heißt, bestimmte Daten wurden nicht übertragen.
+ Wir sehen dort einen bestimmten Abbruch, das heißt, bestimmte Daten wurden nicht übertragen.   Da gibt es einen Timeout, auch das haben wir schon kennengelernt, dass die Daten nochmal neu übertragen werden.

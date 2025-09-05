@@ -1,0 +1,1 @@
+ Bei IP Version 6 wird das ein bisschen anders gemacht, da wird also nicht jeder Router dafür verantwortlich sein, dass die MTU neu berechnet wird und das Ganze runtergebrochen wird, sondern da wird der Weg im Vorfeld schon berechnet und im Vorfeld schon eine Fragmentierung vorgenommen, damit eben die Router entlastet werden.

@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass es in der Ethernet-Datenübertragung ein bestimmtes Feld gibt, das angibt, um welchen Typ von Daten es sich handelt. Dieses Feld heißt "Typfeld". Es hilft den Geräten im Netzwerk zu erkennen, welche Art von Informationen im Datenpaket enthalten sind. So wissen sie, wie sie mit den Daten umgehen sollen. 
+
+Im einfacheren Sinne: Wenn die Geräte Daten schicken, schauen sie in das Typfeld, um zu sehen, was für Daten es sind, damit sie wissen, was sie damit tun sollen.

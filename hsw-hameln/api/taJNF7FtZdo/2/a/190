@@ -1,0 +1,7 @@
+Okay, lass uns das ganz einfach erklären.
+
+Wenn wir Informationen über das Internet senden, passiert das über verschiedene Computer, die wir Router nennen. Man kann sich Router wie Straßenkreuzungen vorstellen, an denen man entscheiden kann, in welche Richtung man fahren will, um ans Ziel zu kommen.
+
+Jetzt gibt es so etwas wie Entfernungen, die man zurücklegt, um von einem Punkt zum anderen zu gelangen. Diese Entfernungen werden in „Hops“ gemessen. Ein „Hop“ ist einfach, wenn die Information durch einen Router geht. Wenn du also von deinem Computer zu deinem Zielcomputer schickst, macht die Nachricht mehrere „Hops“, indem sie durch verschiedene Router läuft, bis sie ihr Ziel erreicht.
+
+Also, je mehr Hops es gibt, desto weiter ist das Ziel, und jeder Hop ist wie ein kleiner Schritt auf dem Weg dorthin.

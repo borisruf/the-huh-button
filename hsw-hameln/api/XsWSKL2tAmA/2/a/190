@@ -1,1 +1,9 @@
-IP-Adressen sind wie Adressen für Computer, sodass Daten genau wissen, wohin sie gehen sollen. Diese Adressen bestehen aus zwei Teilen: einem Teil für das Netzwerk und einem Teil für den speziellen Computer (oder "Host") in diesem Netzwerk. Um diese Teile zu bestimmen, haben wir so etwas wie eine Maske, die "Subnetzmaske". Beide, die IP-Adresse und die Subnetzmaske, bestehen aus vier Blöcken oder "Oktetten". Die Art und Weise, wie wir die Zahlen in diesen Oktetten lesen, hängt davon ab, ob wir sie als binäre Zahlen oder Dezimalzahlen betrachten. Jede IP-Adresse gehört zu einer bestimmten Klasse, und jede Klasse hat eine Standard-Subnetzmaske. Die Klasse bestimmt auch, wie viele verschiedene Netzwerke und Computer es geben kann.
+Eine IP-Adresse ist wie eine Adresse für dein Haus, die erklärt, wo ein Computer im Internet oder in einem Netzwerk wohnt. Eine typische IP-Adresse sieht so aus: 172.16.14.193. Diese Adresse besteht aus vier Teilen, die wir Oktetten nennen. Jeder dieser Teile hat 8 Bits, was wie kleine Schalter ist, die entweder an (1) oder aus (0) sein können. Wenn wir alle Bits zusammensetzen, haben wir 32 Bits.
+
+Zusätzlich zu der IP-Adresse gibt es eine Subnetzmaske, die wichtig ist, weil sie sagt, welcher Teil der Adresse das Netzwerk ist (wo viele Computer zusammengehören) und welcher Teil für den einzelnen Computer (die Host-Adresse) ist. 
+
+Zum Beispiel: Wenn wir die Adresse 172.16.14.193 haben, könnte die Subnetzmaske 255.255.255.0 sein. Diese Maske zeigt, dass die ersten drei Teile (172.16.14) zum Netzwerk gehören, und der letzte Teil (193) ist der Computer im Netzwerk.
+
+Die Subnetzmaske hilft festzustellen, wie viele Computer im Netzwerk Platz haben. Je mehr Nullen es in der Subnetzmaske gibt, desto mehr Computer können in diesem Netzwerk sein. 
+
+Insgesamt müssen wir die IP-Adresse zusammen mit der Subnetzmaske betrachten, um genau zu wissen, wie die Computer im Netzwerk verbunden sind.

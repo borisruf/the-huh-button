@@ -1,0 +1,7 @@
+In einfacher Sprache bedeutet die Aussage folgendes:
+
+UDP und TCP sind zwei verschiedene Arten, Daten über das Internet zu senden. Wenn wir mit TCP arbeiten, gibt es spezielle Nummern, die helfen, die Daten richtig zu sortieren und zu bestätigen, dass sie angekommen sind. Diese Nummern nennt man Sequenznummern und Acknowledgements.
+
+Bei UDP gibt es diese Nummern nicht. Das bedeutet, dass UDP nicht überprüft, ob alle Daten ankommen oder in der richtigen Reihenfolge sind. UDP sendet die Daten einfach schnell, ohne sich um die Sicherheit oder die genaue Ankunft zu kümmern.
+
+Der große Unterschied zwischen TCP und UDP ist also, dass TCP sicherstellt, dass alles richtig ankommt, während UDP sich mehr auf die Geschwindigkeit konzentriert, auch wenn das bedeutet, dass manche Daten verloren gehen können.

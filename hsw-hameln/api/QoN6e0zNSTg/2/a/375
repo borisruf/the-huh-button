@@ -1,0 +1,3 @@
+Die Aussage besagt, dass es beim alten Ethernet das Typfeld genutzt wurde, um die Länge der Daten zu zeigen. Jetzt wird das Typfeld aber verwendet, um zu kennzeichnen, welche Art von Daten aus Schicht 3 kommt – zum Beispiel, ob es sich um ein IP-Paket handelt. 
+
+Das bedeutet einfach: Früher war das Typfeld dafür da zu sagen, wie lang die Daten sind. Jetzt hilft es uns zu verstehen, worum es bei den Daten geht, also ob es um bestimmte Informationen zum Internet (IP-Paket) geht.

@@ -1,0 +1,15 @@
+Die Subnetzmaske ist eine wichtige Idee in Computernetzwerken. Sie hilft uns, viele Rechner in kleinere Gruppen zu teilen, die wir „Subnetze“ nennen. Das ist nötig, weil wir nicht mehr genug IP-Adressen haben, um jeden Computer individuell anzusprechen.
+
+Früher wurden viele Adressen vergeben, auch wenn sie nicht gebraucht wurden. Jetzt haben wir das Problem, dass nicht genug Adressen für die vielen Geräte da sind. Um das zu lösen, teilen wir ein großes Netzwerk in mehrere kleinere Netzwerke auf. 
+
+Das machen wir, indem wir Teile der Adresse (die „Host-Bits“, das sind die Nullen in der Subnetzmaske) in Netzwerkteile umwandeln. So entsteht mehr Platz für andere Adressen und wir bekommen auch eine bessere Sicherheit. 
+
+Mit Subnetzen können wir also:
+
+- Kleinere Netzwerke bilden
+- Mehr Sicherheit schaffen
+- IP-Adressen freisetzen, die wir nicht brauchen
+
+Ein Beispiel für eine Subnetzmaske könnte „255.255.0.0“ sein, was eine bestimmte Anzahl an Adressen bedeutet. Wir nutzen manchmal auch eine kürzere Form, die zeigt, wie viele Bits der Subnetzmaske benutzt werden, wie zum Beispiel „/16“. Das bedeutet, dass wir mit dieser Maske 16 Bits für das Netzwerk verwenden. 
+
+Zusammengefasst helfen uns Subnetze, unsere IP-Adressen besser zu nutzen und verschiedene Geräte sicherer zu verbinden.

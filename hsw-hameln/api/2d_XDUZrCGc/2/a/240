@@ -1,0 +1,5 @@
+Die Aussage erklärt, dass es in Netzwerken zwei Arten von IP-Adressen gibt: private und öffentliche. Private IP-Adressen sind wie Adressen, die nur in einem bestimmten Haus oder einer bestimmten Schule verwendet werden. Zum Beispiel hat jeder zu Hause einen Internet-Router, der private IP-Adressen an die Geräte vergibt, die sich mit dem Internet verbinden. 
+
+Das Besondere an privaten IP-Adressen ist, dass viele Leute sie benutzen können, ohne dass es zu Verwirrung kommt. Ein Computer in einer Schule kann also die gleiche private IP-Adresse haben wie ein Computer in einer anderen Firma. Das liegt daran, dass diese Adressen nur innerhalb eines kleinen Netzwerks genutzt werden und nicht von außen sichtbar sind. 
+
+So kann jeder das gleiche System nutzen, ohne dass es ein Problem gibt, solange sie nicht versuchen, ihre Geräte über das Internet direkt zu verbinden. Das hilft, viele IP-Adressen zu sparen, weil nicht jeder Computer eine einzigartige Adresse braucht, wenn er nur im eigenen kleinen Netzwerk kommuniziert.

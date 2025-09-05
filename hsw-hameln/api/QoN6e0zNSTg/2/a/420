@@ -1,0 +1,11 @@
+Okay, ich erkläre das einfach.
+
+Stell dir vor, viele Leute wollen gleichzeitig über einen gemeinsamen Weg (das Medium) sprechen. Da muss man darauf achten, dass sich alle hören und nicht gleichzeitig reden, sonst kommt es zu "Kollisionen" – das bedeutet, dass die Stimmen durcheinander geraten. 
+
+Um das zu verhindern, gibt es Regeln (Protokolle), die festlegen, wie die Leute (Computer) auf diesen Weg zugreifen dürfen. Wenn ein Computer etwas senden will, schaut er zuerst, ob der Weg frei ist. Wenn zwei Computer gleichzeitig senden, gibt es einen Konflikt – eine Kollision.
+
+Wenn eine Kollision passiert, merken die Computer das und können ihre Botschaften nicht mehr senden, bis sie das Problem gelöst haben. Sie warten dann eine zufällige Zeit (Back-off-Time), bevor sie es nochmal probieren. Das geht nicht immer gleich schnell, und manchmal dauert es länger, bis sie wieder senden können.
+
+Wenn die Daten schließlich erfolgreich gesendet werden, läuft es so: Vor und nach den Daten werden zusätzliche Informationen hinzugefügt. Diese helfen dabei, die Daten richtig zu erkennen und sicherzustellen, dass alles in Ordnung ist. Die ersten 8 Bits (eine Art Code) helfen, den Anfang der Nachricht zu erkennen; das ist wichtig, damit alles synchron ist. Am Ende der Daten gibt es noch eine Art Prüfcode, um sicherzustellen, dass die Nachricht richtig angekommen ist. 
+
+Also, das Ganze hilft, dass alle Computer in einem Netzwerk gut miteinander kommunizieren können, ohne dass es zu häufigen Störungen kommt!

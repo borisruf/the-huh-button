@@ -1,0 +1,5 @@
+Stell dir vor, du hast einen Brief, den du einem Freund schicken möchtest. Wenn du den Brief zu einem Postamt bringst, schaut der Postmitarbeiter zuerst, ob das Postamt direkt zu deinem Freund führt. Wenn ja, gibt er den Brief direkt weiter.
+
+Wenn das Postamt aber nicht direkt zu deinem Freund führt, schaut der Postmitarbeiter in eine spezielle Liste. Diese Liste zeigt ihm, wohin der Brief als Nächstes gehen muss, also zu welchem anderen Postamt oder vielleicht zu einem anderen Ort, damit er schließlich bei deinem Freund ankommt.
+
+Das ist ähnlich, wie es in einem Computernetzwerk funktioniert. Wenn ein Router (das ist wie das Postamt) ein Datenpaket (wie der Brief) erhält, prüft er zuerst, ob er das Paket direkt ans Ziel schicken kann. Wenn nicht, schaut er in seine "Routing-Tabelle," die ihm sagt, wo er das Paket als Nächstes hinschicken soll, damit es weitergeleitet wird und am Ende an dem richtigen Platz ankommt.

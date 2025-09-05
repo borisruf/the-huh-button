@@ -1,0 +1,10 @@
+IP-Adressen sind wie Adressen für Geräte im Internet. Jedes Gerät, das ins Internet geht, braucht eine eigene Adresse, damit andere Geräte es finden können. Das können Computer, Handys, Drucker und sogar Haushaltsgeräte sein.
+
+Ein Gerät kann mehrere IP-Adressen haben. Zum Beispiel hat ein Laptop manchmal eine Adresse für das Kabel und eine andere für das WLAN. Router, also Geräte, die Internetverbindungen verwalten, brauchen auch mehrere Adressen, weil sie mit verschiedenen Netzwerken verbunden sind.
+
+Es gibt zwei Arten von IP-Adressen: die öffentliche und die private. Eine öffentliche IP-Adresse ist einmalig auf der ganzen Welt. In der Vergangenheit gab es nicht genug öffentliche IP-Adressen für alle Geräte, deshalb haben wir eine neue Version von IP-Adressen eingeführt, die sogenannte IP-Version 6. Diese neue Version hat viel mehr mögliche Adressen als die alte Version, IP-Version 4.
+
+Zusammengefasst: 
+- IP-Adressen sind für die Identifikation von Geräten im Internet wichtig.
+- Geräte können mehrere IP-Adressen haben.
+- Es gibt mehr Geräte als Adressen, deshalb gibt es eine neue Version von IP-Adressen.

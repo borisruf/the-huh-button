@@ -1,0 +1,15 @@
+Die Aussage spricht darüber, wie Informationen in kleinen Paketen, die man "Frames" nennt, über ein Netzwerk übertragen werden. 
+
+Hier sind die wichtigen Punkte einfach erklärt:
+
+1. **Datenblöcke oder Frames**: Das sind kleine Teile von Informationen, die gesendet werden. 
+
+2. **Kritische Länge**: Das bedeutet, dass die Größe dieser Datenpakete wichtig ist. Wenn sie zu groß sind, kann es Probleme geben.
+
+3. **Gleichlaufschwankungen**: Das sind kleine Fehler, die passieren können, wenn die Daten nicht genau gleichmäßig gesendet werden.
+
+4. **Fehlerkorrektur**: Wenn beim Senden Fehler auftreten, müssen wir Möglichkeiten haben, diese Fehler zu finden und zu beheben. Das wird schwieriger, wenn die Datenpakete größer sind.
+
+5. **Zwischenspeicherung**: Manchmal müssen wir die Daten für einen kurzen Moment speichern, bevor wir sie weitergeben. Auch das wird komplizierter, wenn die Pakete zu groß sind.
+
+Insgesamt wird in der Aussage gesagt, dass wir uns diese Probleme genauer ansehen und Lösungen finden müssen, um sicherzustellen, dass die Daten gut und ohne Fehler gesendet werden.

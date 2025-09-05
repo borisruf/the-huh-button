@@ -1,0 +1,11 @@
+Die Aussage geht um die Übertragung von Signalen und erklärt, wie man Informationen sendet. Wenn man Signale sendet, kann man verschiedene Methoden benutzen, um das zu tun.
+
+**Einfach gesagt:**
+
+1. **Modulation und Kodierung**: Das ist eine Art, Informationen in Signale umzuwandeln. Man wird kreativ und nutzt unterschiedliche Arten von Signalen, um die Daten darzustellen.
+
+2. **Schrittgeschwindigkeit**: Das bedeutet, wie oft sich die Signale ändern. Wenn ein Signal wechselt, zählt man das. Zum Beispiel: Wenn das Signal einmal pro Sekunde wechselt, sagt man, die Schrittgeschwindigkeit oder Baudrate ist 1 Baud.
+
+3. **Baudrate**: Das ist die Zahl, die zeigt, wie oft das Signal pro Sekunde wechselt. Je höher die Zahl, desto mehr Informationen können übermittelt werden.
+
+Insgesamt erklärt die Aussage, wie wir Informationen mit Signalen übermitteln und wie oft diese Signale sich ändern, um die Daten darzustellen.

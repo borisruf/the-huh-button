@@ -1,0 +1,9 @@
+In einfachen Worten:
+
+Wenn Daten von einem Ort (A) zu einem anderen Ort (B) geschickt werden, nutzen wir Router, um den besten Weg zu finden. Manchmal gibt es Probleme, wie zum Beispiel, wenn eine Verbindung kaputt ist oder ein Router nicht funktioniert. Dann kann es sein, dass die Router nicht wissen, wie sie die Daten weiterleiten sollen. 
+
+Es gibt verschiedene Arten, wie Router Informationen über den besten Weg sammeln können. Manche Informationen stellt ein Mensch (der Administrator) ein, das nennt man statisches Routing. Das ist nicht immer gut, weil sich Dinge ändern können und der Administrator nicht immer alles weiß.
+
+Dann gibt es dynamisches Routing, bei dem die Router untereinander entscheiden, wie sie die Daten am besten weiterleiten. Sie nutzen dafür verschiedene Methoden, um herauszufinden, welcher Weg der beste ist. 
+
+Ein Problem, das dabei auftreten kann, ist das „Count-to-Infinity“. Das bedeutet, dass Router manchmal falsch denken und immer wieder versuchen, einen fehlerhaften Weg zu benutzen, anstatt einen besseren zu finden. Das kann passieren, wenn ein Fehler im System ist und die Router dann durcheinander geraten.

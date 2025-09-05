@@ -1,0 +1,9 @@
+Die Aussage erklärt, wie man die Anzahl der neuen Subnetze (kleine Netze) berechnet, die man aus einem größeren Netzwerk erstellt. Um das zu verstehen, schauen wir uns an, wie viele "Bits" (das sind kleine Teile von Informationen) wir verändert haben.
+
+1. Jedes Netzwerk hat einen Teil für **Hosts** (die Computer oder Geräte im Netzwerk) und einen Teil für **Netzwerke**. Die Hosts haben einen speziellen Bereich, der oft mit Nullen dargestellt wird. 
+2. Wenn wir ein paar dieser Nullen in Einsen ändern, wenden wir diese Bits von Host zu Netzwerk an. 
+3. In diesem Beispiel haben wir 3 Nullen in Einsen umgewandelt, also: 
+   - Für jede Null gibt es 2 Möglichkeiten (0 oder 1). Das bedeutet: 2 hoch 3 (2 mal 2 mal 2), was 8 ergibt.
+4. Das heißt, wir können 8 neue, kleine Netzwerke bilden.
+
+Zusammengefasst: Wenn wir ein paar Nullen in Einsen ändern, können wir viele kleinere Netzwerke machen, und die Anzahl dieser Netzwerke können wir mit einer einfachen Rechnung (2 hoch die Anzahl der geänderten Nullen) herausfinden.

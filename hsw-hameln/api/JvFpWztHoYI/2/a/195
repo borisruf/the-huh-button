@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass man ein Taktsignal, also eine Art Zeitgeber, über die Daten legt, die man senden möchte. Dieses Taktsignal hilft, den richtigen Zeitpunkt zum Senden von Informationen zu bestimmen. 
+
+Dann wird dieses Taktsignal mit einer speziellen Methode namens Non-Return-to-Zero-Verfahren kombiniert, um ein neues Signal zu erzeugen. Diese neue Art von Signal nennt man Manchester-Leitungskodierung. 
+
+Zusammengefasst: Man verwendet ein Zeitgeber-Signal mit einer bestimmten Methode, um sicherzustellen, dass die gesendeten Daten klar und einfach erkannt werden können.

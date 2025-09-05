@@ -1,0 +1,1 @@
+ Die müssen sich also irgendwie darauf einigen, wie viele Daten darf ich eigentlich schicken, bevor ich eine Bestätigung von meinem Empfänger erwarte.  Das ist das sogenannte Sendefenster, was ich eben entsprechend verschieben kann über meine Datenübertragung, ein sogenanntes Sliding-Window.

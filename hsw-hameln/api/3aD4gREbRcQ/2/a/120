@@ -1,0 +1,9 @@
+In einfachen Worten heißt die Aussage: 
+
+Wir schauen uns an, wie computerbasierte Programme miteinander sprechen. Dafür benutzen sie spezielle Regeln, die „Protokolle“ genannt werden. Eine der oberen Schichten in einem bestimmten Modell (das OSI-Modell) beinhaltet diese Protokolle. 
+
+Ein Beispiel für so ein Protokoll ist SMTP, das ist das Regelwerk, das Computer nutzen, um E-Mails zu verschicken. Ein anderes ist POP3, was hilft, E-Mails zu empfangen. 
+
+In dem Text wird gesagt, dass wir uns diese beiden Protokolle genauer anschauen werden, um zu verstehen, wie Kommunikation in den oberen Schichten des OSI-Modells funktioniert. 
+
+Insgesamt geht es also darum, wie Programme eines Computers zusammenarbeiten, um Dinge wie E-Mails zu verschicken und zu empfangen.

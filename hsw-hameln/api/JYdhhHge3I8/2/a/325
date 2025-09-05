@@ -1,0 +1,10 @@
+In diesem Text geht es darum, wie Daten über Computer-Netzwerke geschickt werden. Es gibt verschiedene Wege, wie das gemacht werden kann, und das wird hier erklärt.
+
+1. **Vermittlungssysteme**: Stellen wir uns vor, dass es Geräte wie Switches oder Router gibt. Diese Geräte helfen, die Daten von einem Ort zum anderen zu schicken. Die Daten kommen an verschiedenen Anschlüssen an und müssen dann durch das Gerät an die richtigen Ausgänge weitergeleitet werden.
+
+2. **Verschiedene Arten der Datenübertragung**:
+   - **Leitungsvermittlung**: Hier wird eine Verbindung direkt zwischen zwei Punkten erstellt, ähnlich wie in alten Filmen, wo das Fräulein die Telefonleitungen verbindet. Das bedeutet, während jemand spricht, kann niemand anderes die gleiche Leitung benutzen.
+   - **Speichervermittlung**: Bei dieser Methode werden die Daten zuerst gespeichert und dann weitergeschickt. Das ist wie bei Briefen: Sie werden in verschiedenen Postzentren gesammelt und dann zum Zielort transportiert. Das erlaubt, dass mehrere Nachrichten gleichzeitig bearbeitet werden.
+   - **Paketvermittlung**: Diese Methode kombiniert die Vorteile der beiden vorherigen. Daten werden in kleine Pakete aufgeteilt, die dann separat und möglicherweise über verschiedene Wege geschickt werden können. Wenn sie ankommen, werden sie wieder in der richtigen Reihenfolge zusammengesetzt.
+
+Insgesamt geht es darum, wie Nachrichten gesendet werden und wie verschiedene Systeme helfen, diese Informationen effektiv von einem Ort zum anderen zu bringen.

@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Educational Video + GenAI Explain Button</title>
+    <link rel="stylesheet" type="text/css" href="https://borisruf.github.io/the-huh-button/css/huh.css">
+    <style>
+    /* Custom styles */
+      #player {
+        width: 100%; 
+        max-width: 640px; 
+        aspect-ratio: 16 / 9; /* Maintain a 16:9 aspect ratio */
+        margin: 0 auto; /* Center the player */
+      }
+  
+      #explanation-container {
+        width: 100%;
+        max-width: 640px;
+        margin: 10px auto;
+        padding: 10px;
+      }
+  
+      /* Button container styling */
+      .button-container {
+        text-align: center;
+      }
+  
+      /* Note styling */
+      #note {
+        text-align: center;
+        font-size: 0.9em;
+      }
+    </style>
+</head>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-LM1KEZKRVQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-LM1KEZKRVQ');
+</script>
+
+<body>
+
+  <div id="player"></div><br/>
+
+  <div id="explanation-container">
+    <button id="info-button">&#9432;</button>
+    <div id="explanation-content"></div>
+    <div id="feedback-container">
+      <button id="helpful-button" title="Helpful explanation"></button>
+      <button id="unhelpful-button" title="Unhelpful explanation"></button>
+    </div>
+  </div>
+  <div class="button-container"></div>
+  <p id="note">(Hinweis: Der <a href='https://github.com/borisruf/the-huh-button' style='color: grey'>Hä?-Button</a> funktioniert für dieses Video ab <span id='timestamp'></span>)</p>
+
+
+  <script src="https://www.youtube.com/iframe_api"></script>
+  <script type="text/javascript">
+
+    // YouTube video configuration
+    const VIDEO_ID = '3aD4gREbRcQ'; // Replace VIDEO_ID with the actual ID of the YouTube video
+    // This function creates an <iframe> (and YouTube player) after the API code downloads.
+    let player;
+    function onYouTubeIframeAPIReady() {
+      player = new YT.Player('player', {
+        height: '360',
+        width: '640',
+        videoId: VIDEO_ID,
+        events: {
+            'onStateChange': onPlayerStateChange
+          }
+      });
+    }
+
+    // Huh? button configuration
+    const SERVER_PATH = `./api/${VIDEO_ID}/`
+    const TIMESTAMP_RESOLUTION = 5;
+    const BUTTON_ACTIVATION_DELAY = 30;
+    const BUTTON1_LABEL = "Hä?"
+    const BUTTON2_LABEL = "Häääääää???"
+    const ENABLE_USER_FEEDBACK = true;
+
+    function toTime(seconds) {
+      var date = new Date(null);
+      date.setSeconds(seconds);
+      return date.toISOString().substr(11, 8);
+    }
+
+    document.getElementById('timestamp').textContent = toTime(BUTTON_ACTIVATION_DELAY);
+  </script>
+  <script src="https://borisruf.github.io/the-huh-button/js/huh-youtube.js"></script>
+</body>
+</html>

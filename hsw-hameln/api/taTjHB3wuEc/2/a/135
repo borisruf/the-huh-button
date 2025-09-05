@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass die Verbindung, die die Daten überträgt, nicht vollständig genutzt wird. Wenn der Sender Daten schnell sendet, aber der Empfänger nicht so schnell reagieren kann, muss es eine Art Regelung geben, damit beide gut zusammenarbeiten können. 
+
+Das nennt man Flusssteuerung. Es sorgt dafür, dass der Sender nicht zu viele Daten auf einmal schickt, wenn der Empfänger nicht mithalten kann.
+
+Eine einfache Methode ist das Stop-and-Wait-Verfahren: Der Sender schickt ein Paket und wartet, bis der Empfänger sagt, dass er es erhalten hat, bevor er das nächste schickt. Aber das kann sehr lange dauern, besonders wenn die Verbindung weit weg ist, wie bei einer Leitung über den Ozean. Dadurch wird die Leitung nicht richtig ausgelastet, weil viel Zeit verloren geht.
+
+Um die Verbindung besser zu nutzen, könnte der Sender viele kleine Pakete gleichzeitig senden und warten, bis der Empfänger später einmal für mehrere Pakete bestätigt, dass er sie erhalten hat. Das nennt sich Pipelining. So läuft die Übertragung schneller und die Verbindung wird besser genutzt.

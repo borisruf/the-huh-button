@@ -1,0 +1,5 @@
+Stell dir vor, ein Netzwerk ist wie eine große Straße, auf der viele Autos (Daten) fahren. Manchmal sind einige Autos, wie die für das Telefonieren (Voice), wichtiger und brauchen mehr Platz (Bandbreite), damit sie schnell und ohne Staus ankommen.
+
+In unserem Beispiel haben wir zwei verschiedene Straßen: eine für Telefonate (Voice-VLAN) und eine für andere Daten (Daten-VLAN). Wir können die Straße für Telefonate breiter machen als die für andere Daten. Das heißt, die Autos, die für das Telefonieren zuständig sind, haben mehr Platz und kommen schneller durch, auch wenn es an der anderen Straße einen großen Verkehr gibt.
+
+Das hilft uns, dass die Telefongespräche klar und ohne Unterbrechungen sind, während andere Daten, z.B. von Downloads, langsamer fahren können. So stellen wir sicher, dass alle wichtigen Gespräche gut ankommen, egal was auf der anderen Straße passiert.

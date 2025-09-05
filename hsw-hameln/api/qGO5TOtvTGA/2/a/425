@@ -1,0 +1,3 @@
+Jeder Computer in meinem Netzwerk möchte mit anderen Computern sprechen, auch wenn sie nicht direkt bei ihm sind. Damit das funktioniert, muss der Computer wissen, wo die anderen sind und wie er sie erreichen kann. Das erfährt er durch eine spezielle Nummer, die IP-Adresse heißt, und eine zusätzliche Zahl, die Subnetzmaske genannt wird. Diese beiden Informationen helfen dem Computer zu entscheiden, ob ein anderer Computer in seinem eigenen Netzwerk ist oder ob er einen speziellen Weg, zum Beispiel über einen Router, nehmen muss, um dorthin zu gelangen. 
+
+So kann jeder Computer sicher sein, dass seine Nachrichten die richtigen Empfänger erreichen.

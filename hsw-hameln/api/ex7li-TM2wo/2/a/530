@@ -1,0 +1,11 @@
+In dieser Erklärung geht es darum, dass wir beim Versenden von Daten sicherstellen müssen, dass alles richtig ankommt. Um das zu erreichen, werden mehrere Dinge gemacht:
+
+1. **Pakete durchnummerieren**: Jedes Paket, das wir senden, bekommt eine Nummer. Das hilft uns später, sie in der richtigen Reihenfolge zusammenzusetzen. Manchmal nehmen die Pakete verschiedene Wege und kommen somit unterschiedlich schnell an. Wenn wir die Nummern haben, können wir sie wieder in die richtige Reihenfolge bringen.
+
+2. **Fehler erkennen**: Wenn wir Daten senden, kann es passieren, dass sie falsch ankommen oder sogar ganz verloren gehen. Deswegen verwenden wir Methoden, um zu prüfen, ob alles korrekt ist oder ob vielleicht etwas schief gelaufen ist. Dazu gehört unter anderem das Anhängen einer Prüfsumme zu den Daten, um sicherzustellen, dass sie in Ordnung sind.
+
+3. **Fehler korrigieren**: Wenn ein Fehler entdeckt wird, können wir verschiedene Dinge tun. Manchmal schicken wir die Daten einfach noch einmal. Das nennt man eine Wiederholung der Sendung. 
+
+Ein Beispiel wäre, wenn du jemandem eine Geschichte erzählst. Wenn du einen Satz vergisst oder durcheinander bringst, wirst du entweder den Satz nochmal sagen oder darauf achten, dass deine Erzählung in der richtigen Reihenfolge bleibt, damit der Zuhörer alles versteht. 
+
+Das wichtige Ziel dabei ist, dass die empfangene Geschichte genau so ist, wie du sie erzählt hast.

@@ -1,0 +1,7 @@
+Die Aussage spricht von zwei Schichten (oder Ebenen) in einem Netzwerk, die dafür zuständig sind, wie Geräte miteinander kommunizieren. Diese Schichten helfen dabei, dass die Daten sicher und ordnungsgemäß übertragen werden. 
+
+1. **Zwei Schichten**: Im Netzwerk gibt es zwei wichtige Bereiche in der zweiten Ebene (auch Schicht 2 genannt). Die erste Schicht ist die *Logical Link Control (LLC)*. Sie regelt, wie die Geräte logisch verbunden sind und wie die Kommunikation stattfindet. Man kann sich das wie eine Art Verkehrsregler vorstellen, der sagt, wann ein Gerät senden oder empfangen kann.
+
+2. **Zugriffssteuerung**: Die zweite Schicht ist die *Media Access Control (MAC)*. Diese Schicht kümmert sich darum, wie die Geräte auf das gemeinsame Kommunikationsmedium zugreifen können. Stell dir vor, es gibt viele Fahrzeuge auf einer Straße: Diese Schicht regelt, wie jedes Auto die Straße benutzen darf, damit es nicht zu Staus oder Unfällen kommt.
+
+Beide Schichten arbeiten zusammen, damit die Kommunikation zwischen den Geräten effizient und zuverlässig ist.

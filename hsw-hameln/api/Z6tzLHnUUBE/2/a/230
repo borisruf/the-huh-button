@@ -1,0 +1,12 @@
+In diesem Text geht es darum, wie Daten in einem Netzwerk gesendet werden und warum es wichtig ist, die richtige Größe für diese Daten zu haben.
+
+1. **MTU erklärt**: MTU steht für "Maximum Transmission Unit" und bedeutet die größte Größe, die ein Datenpaket haben darf, um geschickt zu werden. 
+   - Im Ethernet-Netzwerk beträgt die MTU 1500. Das bedeutet, wir können Daten bis zu dieser Größe ohne Probleme senden.
+
+2. **Datenübertragung**: Wenn wir Daten mit einer Größe von 1400 senden, ist das kleiner als die MTU von 1500, also können wir sie einfach so schicken.
+
+3. **Wechsel zu einem anderen Netzwerk**: Wenn wir jetzt zu einem anderen Netzwerk wechseln, das FDDI heißt, gibt es dort eine höhere MTU von 4352. Da unsere Daten trotzdem nur 1400 groß sind, können wir sie auch hier problemlos senden.
+
+4. **Warum ist das wichtig?**: Manchmal können Datenpakete zu groß für ein Netzwerk sein. Wenn das passiert, müssen die Daten in kleinere Stücke (Fragmente) zerlegt werden, damit sie trotzdem gesendet werden können. Das nennt man Fragmentierung. Wenn die Daten dann am Ziel ankommen, werden sie wieder zusammengesetzt. Das nennt sich Defragmentierung.
+
+Zusammengefasst: Es ist wichtig, dass die Daten nicht größer sind als die MTU des Netzwerks, um sie einfach weiter senden zu können. Wenn sie zu groß sind, müssen sie kleiner gemacht werden, bevor sie geschickt werden können.

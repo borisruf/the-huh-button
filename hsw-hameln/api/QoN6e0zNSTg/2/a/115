@@ -1,0 +1,11 @@
+Um das zu verstehen, sprechen wir darüber, wie Computer in einem Netzwerk miteinander kommunizieren. Stell dir vor, dass viele Menschen in einem Raum miteinander sprechen wollen, aber nur einer gleichzeitig sprechen kann, damit man sich verstanden kann. 
+
+1. **Gemeinsames Medium**: In unserem Beispiel ist der Raum das „medium“, also der Platz, wo alle miteinander reden. Im Netzwerk ist das Medium die Verbindung, z. B. Kabel oder WLAN.
+
+2. **Zugriff regeln**: Wenn viele Leute im Raum sind und wollen reden, braucht man eine Regel, wer zuerst sprechen darf. Das ist wichtig, damit nicht alle durcheinander sprechen. Im Netzwerk passiert etwas Ähnliches: Die Computer müssen wissen, wann sie „reden“ dürfen und wann nicht.
+
+3. **Daten auf das Medium bringen**: Damit die Computer ihre Nachrichten (Daten) senden können, müssen sie diese in eine bestimmte Form bringen. Man kann das mit einer Art „Sprache“ vergleichen, damit die Informationen richtig übermittelt werden. Diese Form nennt man „Kodierung“ und das Einpacken der Daten in „Frames“.
+
+4. **Regeln und Protokolle**: Für die Kommunikation im Netzwerk brauchen wir auch spezifische Regeln oder Anleitungen, die das Gespräch steuern. Diese Regeln nennt man Protokolle. Sie helfen sicherzustellen, dass alle fair behandelt werden und ihre Daten ohne Probleme gesendet werden können.
+
+Zusammengefasst: Damit Computer in einem Netzwerk erfolgreich kommunizieren, brauchen sie klare Regeln und eine bestimmte Art und Weise, ihre Daten zu verpacken und zu senden, ohne dass sie sich gegenseitig stören.

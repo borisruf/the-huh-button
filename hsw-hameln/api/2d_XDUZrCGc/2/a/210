@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes:
+
+Es gibt verschiedene Arten von IP-Adressen, die in Klassen eingeteilt sind. Diese Klassen helfen uns zu verstehen, wie viele Netzwerke und Computer in jedem Netzwerk sind. Bei einigen Klassen, wie Klasse A, gibt es viele mögliche Adressen, aber viele der Adressen werden nicht genutzt. Zum Beispiel hat ein großes Unternehmen wie IBM viele Adressen, aber sie brauchen nicht alle. Das führt dazu, dass wir nicht genug IP-Adressen für alle nutzen können, was ein Problem ist.
+
+In jeder Klasse gibt es zwei Arten von IP-Adressen: private und öffentliche. Private IP-Adressen sind für kleine Netzwerke, wie in einem Zuhause oder Büro. Öffentliche IP-Adressen sind für das Internet. 
+
+Zusammengefasst: Es gibt viele Netzwerke, aber nicht so viele Computer, die nutzen können, weil viele Adressen unbenutzt sind. Und man unterscheidet zwischen Adressen, die man nur im eigenen Netzwerk nutzt, und solchen, die für das gesamte Internet gedacht sind.

@@ -1,1 +1,9 @@
-Wenn wir Daten über das Internet senden, wollen wir sicherstellen, dass diese auch ankommen. Die Daten, die wir tatsächlich schicken wollen, nennen wir "Nutzdaten". Aber um die Nutzdaten sicher zu versenden, brauchen wir zusätzliche Informationen. Diese zusätzlichen Informationen nennen wir "Overhead". Sie sind wie eine Art Briefumschlag für die Nutzdaten. Der Overhead sagt dem Internet, wo die Daten hin müssen und wie sie dort hinkommen. Das ist, als ob du einen Brief schickst und auf den Umschlag schreibst, wohin der Brief gehen soll. Das wäre in diesem Fall der Overhead. Der Brief, der im Umschlag steckt, sind die Nutzdaten. Manchmal wird dieser Overhead nicht komplett genutzt und ist dann blau markiert. Später schauen wir uns das in einer Übung genauer an.
+In einfachen Worten: 
+
+Wenn wir Daten über das Internet senden, sind die wichtigen Informationen, die wir schicken, wie Texte oder Bilder, die "Nutzdaten". Diese Nutzdaten sind das, was wir wirklich brauchen. 
+
+Aber bevor wir diese Nutzdaten verschicken, fügen wir zusätzliche Informationen hinzu, die notwendig sind, damit die Daten sicher ankommen. Diese zusätzlichen Informationen nennt man "Overhead". 
+
+Man kann sich das so vorstellen: Stell dir vor, du schickst ein Paket. Der Inhalt des Pakets sind die Nutzdaten. Aber du musst auch eine Adresse auf das Paket schreiben, damit der Postbote weiß, wohin es gehen soll. Diese Adresse ist der Overhead.
+
+In der Technik müssen wir also diese zusätzlichen Informationen "vor die Nutzdaten" setzen, um alles richtig zu verwalten und sicherzustellen, dass unsere Daten beim richtigen Empfänger und ohne Fehler ankommen. Wir werden später noch genauer anschauen, was genau in diesem Overhead drinsteht.

@@ -1,0 +1,7 @@
+Die Aussage handelt von Netzwerkadressen und wie man sie in kleinere Gruppen, sogenannte Subnetze, aufteilt. 
+
+Hier ist die einfache Erklärung:
+
+Wenn wir ein großes Netzwerk haben, können wir es in kleinere Teile aufteilen. Jedes kleine Teil hat seine eigenen Adressen. In einem bestimmten Beispiel haben wir 32 Adressen in einem kleinen Teil. Aber wir können nicht alle 32 Adressen nutzen. Das liegt daran, dass wir die erste Adresse für die Netzwerk-ID und die letzte Adresse für die Broadcast-ID reservieren müssen. 
+
+Das bedeutet, dass wir nur 30 Adressen tatsächlich verwenden können, um Geräte oder Computer im Netzwerk anzuschließen. Also: Wir haben 32 Adressen in einem Subnetz, aber nur 30 davon sind verwendbar.

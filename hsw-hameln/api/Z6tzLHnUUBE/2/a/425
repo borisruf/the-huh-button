@@ -1,0 +1,7 @@
+Stell dir vor, es gibt zwei Computer, Computer A und Computer B, und sie wollen miteinander reden. Um zu wissen, wo Computer B ist, benutzt Computer A eine IP-Adresse. Die IP-Adresse hilft, Computer B zu finden, so wie eine Hausadresse dabei hilft, ein Haus zu finden.
+
+Aber Computer A weiß nicht direkt, wie Computer B aussieht oder wie es genau zu Computer B kommen kann, weil das von einem bestimmten „Ort“ (einem Router) zu einem anderen geht. Die MAC-Adresse ist wie eine Art Ausweis für jeden Computer und hilft, Computer im gleichen Netzwerk zu identifizieren. 
+
+Wenn Computer A etwas an Computer B schicken möchte, aber nicht weiß, welche MAC-Adresse Computer B hat, schickt es die Nachricht zuerst an den nächsten Router. Der Router weiß dann, wie er die Nachricht weiterleiten kann. Computer A gibt dabei seine eigene MAC-Adresse an, damit der Router weiß, wo die Nachricht herkommt.
+
+Kurz gesagt: Computer A schickt etwas an einen Router, weil er die Adresse von Computer B nicht kennt. Der Router hilft dann, die Nachricht an Computer B zu bringen.

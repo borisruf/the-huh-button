@@ -1,0 +1,5 @@
+Wenn wir über das Telefonieren mit Voice over IP (VoIP) nachdenken, müssen wir ein paar Dinge beachten. Zuerst brauchen wir einen speziellen Server. Dieser Server hilft dabei, unsere Gespräche, die durch das Internet gehen, richtig zu senden. 
+
+Stell dir vor, dass das Gespräch in kleine Pakete (ein bisschen wie Päckchen) verpackt wird. Diese Pakete enthalten die Informationen über unser Gespräch und sind mit etwas verbunden, das sich "IP-Adresse" nennt. Die IP-Adresse ist wie eine Adresse im Internet für unsere Telefone, egal ob sie aus Hardware oder Software bestehen.
+
+Der Server sorgt dafür, dass diese Internet-Gesprächspakete zu normalen Telefonen gelangen. So können wir mit Leuten telefonieren, die vielleicht noch ein klassisches Telefon benutzen. Das bedeutet, dass unsere Internet-Telefonie und die traditionellen Telefone gut zusammenarbeiten können.

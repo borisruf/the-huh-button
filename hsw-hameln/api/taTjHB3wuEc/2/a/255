@@ -1,0 +1,11 @@
+Die Aussage bezieht sich auf einen speziellen Weg, wie Daten über das Internet gesendet werden. Es gibt verschiedene Methoden, um sicherzustellen, dass alles richtig ankommt.
+
+1. **Top-and-Wait-Verfahren**: Das bedeutet, dass der Sender immer nur ein Paket von Daten auf einmal sendet. Nachdem er ein Paket geschickt hat, muss er warten, bis der Empfänger ihm bestätigt, dass das Paket angekommen ist, bevor er das nächste Paket senden kann. Das kann viel Zeit in Anspruch nehmen, weil der Sender immer wartet.
+
+2. **Problem mit diesem Verfahren**: Wenn der Sender sehr schnell ist und der Empfänger langsamer, wird die Verbindung nicht gut genutzt. Der Sender könnte viele Daten senden, aber durch das Warten auf die Bestätigung geht Zeit verloren.
+
+3. **Bessere Methode**: Es gibt eine Methode, bei der der Sender mehrere Pakete auf einmal schicken kann, ohne auf die Bestätigungen für jedes einzelne Paket zu warten. Das nennt man Pipelining. So wird die Verbindung besser ausgelastet.
+
+4. **Sendefenster**: Sender und Empfänger einigen sich auf eine bestimmte Menge an Daten, die der Sender auf einmal senden kann, bevor er eine Bestätigung erwartet. 
+
+Zusammengefasst: Beim Top-and-Wait muss der Sender immer warten, nachdem er ein Paket gesendet hat, was langsam ist. Es gibt schnellere Methoden, die die Verbindung besser nutzen können.

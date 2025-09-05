@@ -1,0 +1,11 @@
+Okay, lassen Sie uns die Aussage in sehr einfacher Sprache erklären:
+
+Die Aussage sagt, dass wir bei einer bestimmten IP-Adresse (die Nummer, die einem Computer im Netzwerk zugewiesen ist) aufpassen müssen, ob wir über eine "Host-Adresse" oder eine "Netz-Adresse" sprechen. Die Host-Adresse ist wie der Name eines Computers in einem Netzwerk, während die Netz-Adresse das Netzwerk selbst beschreibt.
+
+Wenn wir die IP-Adresse und die zugehörige Netzmaske (eine Art Regel, die uns hilft zu verstehen, wie das Netzwerk aufgebaut ist) ansehen, müssen wir darauf achten, dass sich mit der Netzmaske manchmal die Bedeutung ändern kann. 
+
+Zum Beispiel: Eine Adresse, die früher für einen Computer (Host) verwendet wurde, könnte jetzt für das gesamte Netzwerk (Netz) verwendet werden. 
+
+Wenn wir das mit einer Tabelle vergleichen, finden wir das sechste kleinere Netzwerk (Subnetz), in dem sich dieser Computer befindet. 
+
+Zusammengefasst: Wir müssen aufpassen, welche Art von Adresse wir verwenden und wie sie sich innerhalb von Netzwerken verändert.

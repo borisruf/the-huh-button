@@ -1,0 +1,7 @@
+In diesem Text geht es um ein Problem mit IP-Adressen. Eine IP-Adresse ist wie eine Telefonnummer für Computer, damit sie miteinander kommunizieren können. Das Problem ist, dass es nicht genug IP-Adressen für alle Geräte gibt. 
+
+Eine Möglichkeit, dieses Problem zu lösen, ist die Bildung von Subnetzen. Das klingt kompliziert, ist aber eigentlich einfach. Man teilt ein großes Netzwerk in kleinere Teile, die Subnetze heißen. So können viele Geräte effizienter und sicherer miteinander verbunden werden. 
+
+Die Subnetzmaske hilft dabei, diese Subnetze zu erstellen. Früher haben viele Unternehmen einfach zu viele IP-Adressen für ihre Bedürfnisse bekommen, ohne genau hinzuschauen. Jetzt müssen wir cleverer mit den Adressen umgehen, damit mehr Leute sie nutzen können.
+
+Zusammengefasst: Das Problem ist, dass nicht genug IP-Adressen da sind, und die Lösung ist, Subnetze zu bilden.

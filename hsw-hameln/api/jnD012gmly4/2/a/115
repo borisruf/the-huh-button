@@ -1,0 +1,9 @@
+Okay, ich erkläre das in einfachen Worten:
+
+Wenn wir Daten (also Informationen) verschicken, müssen wir sie in einen „Rahmen“ packen. Dieser Rahmen hilft zu zeigen, wie die Daten strukturiert sind, damit sie richtig ankommen und Fehler erkannt werden können. 
+
+Stell dir vor, die Daten sind wie ein Geschenk in einer Geschenkverpackung. Die „Geschenkverpackung“ (der Rahmen) hat zwei Teile: einen „Kopf“ (Header) und einen „Fuß“ (Footer). Der Kopf hat wichtige Informationen, wie zum Beispiel, wie groß das ganze Geschenk ist. 
+
+In diesem Rahmen gibt es verschiedene Schichten, ähnlich wie beim Schichten einer Torte. Jede Schicht fügt zusätzliche Infos hinzu, damit wir genau wissen, was wir verschicken und wie wir Übertragungsprobleme erkennen können. 
+
+Wenn wir also sagen, dass die Nutzdaten eingerahmt werden, meinen wir, dass wir sie sicher und ordentlich in dieser Struktur verpacken, damit sie über das Netzwerk geschickt werden können. Das hilft sicherzustellen, dass alles richtig funktioniert.

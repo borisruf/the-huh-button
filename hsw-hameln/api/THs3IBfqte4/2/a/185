@@ -1,0 +1,9 @@
+Die Aussage erklärt, wie Informationen in Form von digitalen Signalen übertragen werden. Man verwendet dafür verschiedene Techniken, um aus einem Signal zu erkennen, ob es eine 1 oder eine 0 darstellt. 
+
+Ganz einfach gesagt: 
+
+1. **Phasenwechsel**: Wenn wir sagen, dass wir für eine 0 einen „Phasenwechsel von 180 Grad“ machen, bedeutet das, dass wir die Signalrichtung verändern. Ist das Signal in einer bestimmten Position, ist das eine 0, und wenn wir es umdrehen, ist es eine 1.
+
+2. **Signalwechsel**: Die Geschwindigkeit, mit der sich das Signal ändert (wir nennen das „Schrittgeschwindigkeit“), hilft uns zu verstehen, wie viele Werte das Signal in kurzer Zeit annehmen kann.
+
+Diese Methoden helfen uns also, Daten klar zu übertragen, indem wir auf unterschiedliche Veränderungen im Signal achten, wie Veränderungen in der Richtung, Höhe oder Frequenz.

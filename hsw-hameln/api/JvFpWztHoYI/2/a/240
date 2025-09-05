@@ -1,0 +1,15 @@
+In dieser Erklärung geht es darum, wie wir Informationen, also Bits (eine Eins oder eine Null), über ein Kabel oder eine Leitung senden können. 
+
+1. **Ein Bitstrom**: Das ist einfach eine Reihe von Einsen und Nullen, die wir schicken wollen.
+
+2. **Leitungskodierung**: Das bedeutet, wir überlegen uns, wie wir diese Einsen und Nullen in ein Signal umwandeln, das wir über das Kabel schicken können.
+
+3. **Return-to-Zero (RZ)**: Bei diesem Verfahren senden wir eine Eins, indem wir das Signal nach oben schieben, und eine Null, indem wir das Signal wieder zurück nach unten bringen. Wenn es also eine Eins gibt, sehen wir einen Ausschlag, und wenn es eine Null gibt, ist das Signal flach.
+
+4. **Non-Return-to-Zero (NRZ)**: Hier bleibt das Signal für die Eins oben und für die Null etwas tiefer, aber es geht nicht zurück zum Ausgangspunkt. Das kann aber Probleme machen, weil bei vielen Einsen oder Nullen das Signal langweilig wird und wir Schwierigkeiten haben, den Rhythmus (den Takt) zu erkennen.
+
+5. **Manchester-Codierung**: Hier kombinieren wir das Non-Return-to-Zero-Verfahren mit einem Taktsignal. Bei dieser Methode bedeutet eine fallende Kante (ein Signalwechsel) eine Eins und eine steigende Kante eine Null, aber genau umgekehrt, wie in einer speziellen Version des Verfahrens.
+
+6. **Synchronisation**: Durch die ständigen Wechsel im Signal können wir gut erkennen, wann eine Eins oder eine Null kommt, und das hilft uns, den Takt zu halten.
+
+Im Grunde nehmen wir verschiedene Methoden, um sicherzustellen, dass das Signal klar und verständlich über die Leitung gesendet wird, selbst wenn einige Teile des Signals gestört sind.

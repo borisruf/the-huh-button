@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es bei virtuellen Netzwerken (VLANs) genauso funktioniert wie bei normalen Netzwerken (LANs). 
+
+In einem Netzwerk gibt es viele Computer, die miteinander kommunizieren. Wenn ein Computer eine Nachricht an einen anderen Computer senden möchte, der nicht im selben Netzwerk ist, benötigt er einen Helfer, der ihm hilft, diese Nachricht zu senden. Dieser Helfer ist das Standardgateway (Default Gateway). 
+
+Das Standardgateway ist im Grunde wie eine Tür oder ein Übergang. Wenn ein Computer eine Nachricht an jemanden senden will, der nicht direkt in seinem Netzwerk ist, schickt er die Nachricht zuerst zu diesem Standardgateway. Das Gateway weiß dann, wie es die Nachricht an das richtige Ziel außerhalb des Netzwerks weiterleiten kann.
+
+Also, egal ob man in einem normalen Netzwerk oder in einem virtuellen Netzwerk arbeitet, die Regel bleibt die gleiche: Wenn man zu einem anderen Netzwerk schicken möchte, benutzt man das Standardgateway als Helfer.

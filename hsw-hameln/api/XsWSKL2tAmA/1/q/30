@@ -1,1 +1,1 @@
- Wie aber genau setzen sich diese 32-Bit eigentlich zusammen?
+ Wir erinnern uns, im IP-Header finden wir sowohl die Sender- als auch die Quell-IP-Adresse mit jeweils 32-Bit-Länge, wie aber genau setzen sich diese 32 -Bit eigentlich zusammen?

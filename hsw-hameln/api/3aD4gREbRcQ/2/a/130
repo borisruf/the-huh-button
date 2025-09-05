@@ -1,0 +1,10 @@
+In diesem Text geht es um ein Modell, das zeigt, wie Informationen zwischen Computern gesendet werden. Es besteht aus mehreren Schichten, und die oberen drei Schichten sind besonders wichtig für Anwendungen, die Menschen nutzen. 
+
+Auf diesen oberen Schichten (Schichten 5 bis 7) läuft die Kommunikation von Programmen, die wir täglich verwenden, wie zum Beispiel E-Mail-Programme oder Webseiten. Diese Programme benutzen spezielle Regeln, die „Protokolle“ genannt werden, um miteinander zu sprechen. Beispiele dafür sind:
+
+- **SMTP**: Das ist das Protokoll, das hilft, E-Mails zu senden.
+- **POP3**: Das ist ein Protokoll, das hilft, E-Mails abzurufen.
+
+Wenn diese Programme miteinander kommunizieren, verwenden sie entweder das **TCP** oder das **UDP** Protokoll, die auf der vierten Schicht des Modells sind. Diese beiden Protokolle sorgen dafür, dass die Informationen richtig und sicher von einem Computer zum anderen gelangen.
+
+Also, die Nachricht ist, dass die Kommunikation von Anwendungen auf den oberen Schichten sehr wichtig ist und sie immer mit TCP oder UDP zusammenarbeitet.

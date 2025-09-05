@@ -1,0 +1,9 @@
+Okay, lass uns das ganz einfach erklären:
+
+Stell dir vor, du willst jemandem einen Brief schicken. Du hast seine Adresse, die ist wie die IP-Adresse für Computer. Aber um den Brief zu dem richtigen Postboten zu schicken, brauchst du auch den Namen des Postboten, das ist wie die MAC-Adresse.
+
+Wenn du den Brief an einen bestimmten Ort schicken willst, gibst du zuerst die Adresse von deinem Freund (die Ziel-IP-Adresse) und deine eigene Adresse (die Quell-IP-Adresse) auf den Umschlag. Aber das Problem ist, du weißt nicht, wie der Postbote von deinem Freund aussieht, also schickst du den Brief zuerst an den nächsten Postboten (Router 1). 
+
+Der Postbote liest die Adresse und erkennt, dass der Brief zu deinem Freund soll. Er sieht auch, dass du der Absender bist. Jetzt nimmt er deinen Brief und bringt ihn zum nächsten Postboten (Router 2). Um das zu machen, muss er seine eigene Adresse (die Ziel-MAC-Adresse) auf den Brief schreiben, damit der nächste Postbote weiß, wo er den Brief hinbringen soll.
+
+Auf diese Weise passiert es, dass der Brief immer von einem Postboten zum anderen wandert, bis er endlich bei deinem Freund ankommt. So funktioniert es auch bei Computern: Sie schicken Daten in Paketen, und jedes Mal sorgt ein Router dafür, dass die Daten an das nächste Ziel weitergeleitet werden, bis sie am Endpunkt ankommen.

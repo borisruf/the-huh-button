@@ -1,7 +1,11 @@
-Wenn wir Computer oder andere Geräte haben, die miteinander kommunizieren wollen, dann tun sie das über Netzwerke. Und damit diese Kommunikation gut funktioniert, gibt es bestimmte Regeln und Standards, wie diese Geräte miteinander reden. Ein wichtiger Teil dieser Regeln ist das sogenannte TCP-Protokoll.
+Die Aussage bedeutet, dass wir mit TCP (einem speziellen Protokoll) sicherstellen, dass Informationen, die über ein Netzwerk gesendet werden, auch wirklich beim Empfänger ankommen. 
 
-Stell dir vor, du schickst einen Brief per Post. Mit dem TCP-Protokoll wäre es so, als ob du nicht nur den Brief schickst, sondern auch noch überprüfst, ob er wirklich angekommen ist und ob alle Informationen noch richtig sind. Das ist wie eine Kontrolle von Anfang bis Ende. 
+Wir machen das so:
 
-Und genau diese Kontrolle, die wir mit TCP machen, schauen wir uns genauer an. Wir öffnen quasi den "Kopf" von TCP, das ist ein Teil der Nachricht, der zusätzliche Informationen enthält, und schauen, was da alles drin ist. 
+1. **Verbindung aufbauen**: Bevor Informationen gesendet werden, stellen wir eine stabile Verbindung zwischen dem Sender und dem Empfänger her. Das ist wie ein Telefonanruf, bei dem wir zuerst sicherstellen, dass die andere Person am anderen Ende abnimmt.
 
-Alles in allem geht es hier um die sichere und korrekte Übertragung von Daten in Netzwerken.
+2. **Überprüfen, ob die Daten ankommen**: Während der Übertragung kontrollieren wir, ob die Daten tatsächlich beim Empfänger ankommen. Wir senden Bestätigungen zurück, die zeigen, dass alles gut angekommen ist. Wenn etwas fehlt oder beschädigt ist, wird das auch festgestellt.
+
+3. **Fehlersuche**: Wenn die Daten nicht richtig ankommen oder verloren gehen, kümmert sich das Protokoll darum, dass die Informationen noch einmal gesendet werden, damit der Empfänger alles richtig erhält.
+
+Zusammengefasst: TCP sorgt dafür, dass Daten sicher und ohne Fehler von einem Ort zum anderen gelangen, indem es Verbindungen aufbaut und regelmäßig überprüft, ob alles gut angekommen ist.

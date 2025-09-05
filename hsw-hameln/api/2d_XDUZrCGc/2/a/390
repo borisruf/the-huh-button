@@ -1,0 +1,9 @@
+Okay, lass uns die Aussage einfach erklären:
+
+Stell dir vor, du hast viele Computer zu Hause, die über ein kleines Gerät, das einen "Switch" heißt, miteinander verbunden sind. Diese Computer können nicht direkt ins Internet, weil sie dafür einen speziellen Kasten brauchen, der "Router" heißt. 
+
+Der Router hilft den Computern, ins Internet zu kommen. Er hat eine eigene Adresse, die wir "IP-Adresse" nennen. Diese Adresse sieht zum Beispiel so aus: sie beginnt mit "172". Das bedeutet, dass es sich um eine bestimmte Art von Adresse handelt, die für private Netzwerke wie dein Zuhause verwendet wird.
+
+In der Erklärung geht es darum, wie IP-Adressen eingeteilt sind: Es gibt verschiedene Klassen, je nachdem, wie die erste Zahl aussieht. Solche Adressen helfen, Computer in Netzwerken zu finden und zu verbinden, damit sie die Informationen austauschen können.
+
+Zusammengefasst: Du hast viele Computer, die über einen Switch verbunden sind, und ein Router, der ihnen hilft, ins Internet zu gehen. Wenn der Router eine Adresse mit "172" hat, ist das eine private Adresse, die nur in deinem Netzwerk funktioniert.

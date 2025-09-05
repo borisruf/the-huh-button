@@ -1,0 +1,9 @@
+Wenn wir darüber sprechen, wie wir den besten Weg für Daten in einem Netzwerk finden, gibt es viele Dinge, die wir berücksichtigen müssen. Diese Dinge nennt man "Optimierungskriterien". Um all diese Kriterien in unsere Entscheidungen einzubeziehen, benutzen wir das Wort "Metrik". 
+
+Das bedeutet, eine Metrik hilft uns dabei zu entscheiden, welcher Weg am besten ist, indem wir verschiedene Faktoren berücksichtigen, wie zum Beispiel:
+
+1. **Schnelligkeit**: Wie schnell kommen die Daten an?
+2. **Verzögerung**: Wie lange dauert es, bis die Daten ankommen?
+3. **Belastung**: Gibt es viel Verkehr auf dem Weg oder könnten die Daten stecken bleiben?
+
+Je mehr Faktoren wir beachten wollen, desto komplizierter wird es. Das ist, was mit der Aussage gemeint ist – die Metrik kann dadurch komplex sein, weil wir viele verschiedene Dinge in Betracht ziehen können, um den optimalen Weg für die Daten zu finden.

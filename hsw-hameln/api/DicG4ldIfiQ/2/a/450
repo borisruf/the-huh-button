@@ -1,0 +1,5 @@
+Die Aussage sagt, dass es von Nyquist ein wichtiges Prinzip gibt, das erklärt, wie schnell Informationen über ein Medium (wie Kabel) geschickt werden können, wenn es kein Rauschen gibt. Rauschen kann als störendes Geräusch oder Signal verstanden werden, das die Qualität der Übertragung verschlechtert.
+
+Das Prinzip von Nyquist gilt nur für perfekte Medien, also solche, wo es keine Störungen gibt. In der Realität gibt es immer Störungen, aber Nyquists Idee hilft uns trotzdem zu verstehen, dass die maximale Geschwindigkeit, mit der wir Informationen senden können, von der Bandbreite des Mediums abhängt. Die Bandbreite ist der Bereich von Frequenzen, die das Medium nutzen kann. Je größer die Bandbreite, desto mehr Informationen können übertragen werden.
+
+Zusammengefasst: Nyquist sagt, dass selbst in einem perfekten, ruhigen Medium die Geschwindigkeit der Übertragung durch die Bandbreite begrenzt ist.

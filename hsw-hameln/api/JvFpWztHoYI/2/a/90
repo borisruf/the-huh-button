@@ -1,0 +1,3 @@
+In einfachen Worten bedeutet die Aussage, dass beim Non-Return-to-Zero-Verfahren eine Null nicht einfach nur als "nichts" dargestellt wird, sondern durch ein etwas niedriges Signal sichtbar ist. Das macht es einfacher, dieses Verfahren zu benutzen. 
+
+Im Gegensatz dazu zeigt das Return-to-Zero-Verfahren eine Null durch kein Signal, was weniger flexibel ist. Das Non-Return-to-Zero-Verfahren hilft also, die Daten besser zu erkennen, und ist einfacher anzuwenden.

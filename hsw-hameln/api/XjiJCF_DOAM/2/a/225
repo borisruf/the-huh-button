@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es für Menschen einfacher ist, Zahlen in einer bestimmten Form zu merken, die wir "Dezimalzahlen" nennen – das sind die Zahlen, die wir normalerweise im Alltag verwenden, wie 1, 2, 3, bis 9 und 10. 
+
+In der Technik, besonders bei Computern, werden viele Informationen in einer anderen Form gespeichert, die "Binärzahlen" heißt. Diese bestehen aus Nullen und Einsen (0 und 1) und werden in Gruppen von 8 (man nennt das "Bit") dargestellt. Eine IP-Adresse, die zum Beispiel eine Art "Hausnummer" für Geräte im Internet ist, wird in vier Gruppen unterteilt. Jede dieser Gruppen besteht aus 8 Bit.
+
+Damit ist gemeint, dass die IP-Adresse sowohl von Computern als auch von Menschen benutzt wird. Um es den Menschen leichter zu machen, können wir die komplizierte Form in einfache Zahlen umwandeln, die wir uns besser merken können. So wird aus einer langen Reihe von Nullen und Einsen eine verständliche Zahl, die wir leichter im Kopf behalten können.

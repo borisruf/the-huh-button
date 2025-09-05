@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass wir, um Daten über eine Leitung zu übertragen, diese Daten zuerst in eine spezielle Form umwandeln müssen. Diese Umwandlung nennt man "Kodierung". 
+
+Stell dir vor, du hast eine lange Reihe von Einsen und Nullen, das nennt man den "Bitstrom". Um diese Einsen und Nullen richtig über Kabel oder andere Medien zu senden, verwandeln wir sie in ein "Signal". 
+
+Ein Signal ist wie ein Wellenmuster, das wir sehen oder hören können. Diese Wellen bewegen sich durch den Raum und können verschiedene Höhen und Geschwindigkeiten haben. Wir brauchen also diese speziellen Wellen, um unsere Daten so zu übertragen, dass sie von anderen Geräten empfangen und verstanden werden können. 
+
+Zusammengefasst: Um Daten zu übertragen, machen wir aus einer Reihe von Einsen und Nullen Wellen, die wir "Signale" nennen. Das ist wichtig, damit die Daten richtig ankommen.

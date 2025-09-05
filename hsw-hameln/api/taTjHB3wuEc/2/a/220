@@ -1,0 +1,5 @@
+Stell dir vor, du und dein Freund spielen ein Spiel, bei dem du ihm immer wieder Nachrichten schickst. Manchmal bist du viel schneller beim Senden von Nachrichten als er sie lesen kann. Damit es nicht zu einer Verwirrung kommt, müssen ihr euch darauf einigen, wie viele Nachrichten du ihm gleichzeitig schicken darfst, bevor du eine Rückmeldung von ihm erwartest. 
+
+Das "Receive-Window-Size" ist wie ein hin und her schiebendes Fenster, das die Menge an Nachrichten bestimmt, die dein Freund gleichzeitig lesen kann. Es ist wichtig, dass dieses Fenster so groß ist wie dein eigenes Fenster für das Senden von Nachrichten. Wenn beide Fenster gleich groß sind, können du und dein Freund gut zusammenarbeiten und sicherstellen, dass die Kommunikation reibungslos läuft. So vermeidet ihr, dass du zu viele Nachrichten auf einmal schickst, die er nicht schnell genug verarbeiten kann. 
+
+Das nennt man "Fenstersteuerung". Es hilft, die Geschwindigkeit zwischen dir und deinem Freund abzustimmen, sodass keiner von euch überfordert wird. 

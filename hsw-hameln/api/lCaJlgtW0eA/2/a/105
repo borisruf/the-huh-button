@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, wie Geräte in Netzwerken miteinander kommunizieren können. Das OSI-Modell ist wie eine Anleitung für Netzwerke, die in verschiedene Schichten unterteilt ist. 
+
+- „Schicht 1“ ist wie die unterste Schicht, wo einfache Geräte wie Repeater oder Hubs arbeiten. Diese Geräte können nur Signale verstärken und weiterleiten, aber sie verstehen nicht, was sie tun – sie sind ein bisschen „dumm“.
+
+- Wenn wir zur „Schicht 2“ gehen, finden wir cleverere Geräte wie Switches oder Bridges. Diese Geräte können mehr als nur Signale verstärken. Sie können auch Informationen über die Geräte, die in einem Netzwerk sind, speichern und verstehen. Diese Informationen nennt man MAC-Adressen, und sie helfen den Switches oder Bridges zu entscheiden, wohin die Daten geschickt werden sollen.
+
+Das bedeutet, dass in Schicht 2 die Geräte „intelligenter“ sind, weil sie wissen, wo die Daten hingehören, und sie nutzen diese Informationen, um die richtigen Wege für die Kommunikation zu finden.

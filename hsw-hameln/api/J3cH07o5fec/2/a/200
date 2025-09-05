@@ -1,0 +1,17 @@
+Die Aussage bespricht, wie man ein Netzwerk plant und welche Schritte dabei wichtig sind. Hier sind die Hauptpunkte in einfacher Sprache:
+
+1. **OSI-Modell**: Das OSI-Modell hilft uns zu verstehen, wie Netzwerke funktionieren. Es hat 7 Schichten, aber wir konzentrieren uns auf die obersten drei Schichten. Diese Schichten sind wichtig, weil sie zeigen, welche Anwendungen in einem Netzwerk genutzt werden können.
+
+2. **Anwendungen bestimmen**: Bevor wir ein Netzwerk aufbauen, müssen wir wissen, welche Programme oder Anwendungen es nutzen soll. Das heißt, wir müssen mit dem Auftraggeber sprechen und herausfinden, was er möchte.
+
+3. **Netzwerkplanung**: Mit dem Wissen über die gewünschten Anwendungen können wir planen, wie das Netzwerk aussehen soll. Dabei schauen wir uns an, welche Geräte wir brauchen und wie alles verbunden wird.
+
+4. **Analyse und Planung**: Wir machen eine Ist-Soll-Analyse, um herauszufinden, was wir haben (Ist) und was wir erreichen wollen (Soll). Danach planen wir, wie wir zum Ziel kommen.
+
+5. **Projektmanagement**: Es ist wichtig, einen Plan zu haben, wie das Projekt ablaufen soll. Der Auftraggeber sollte in Entscheidungen einbezogen werden, damit Änderungen, wenn nötig, schnell angepasst werden können.
+
+6. **Umsetzung und Test**: Nachdem alles geplant ist, bauen wir das Netzwerk auf. Danach testen wir, ob alles funktioniert, wie es soll.
+
+7. **Abschluss**: Wenn alles gut läuft, wird das Netzwerk offiziell übergeben. Dann schulen wir die Benutzer, damit sie wissen, wie sie das neue System benutzen und pflegen können.
+
+Zusammenfassend: Bevor man ein Netzwerk aufbaut, muss man genau planen, was gebraucht wird und wie das alles funktionieren soll.

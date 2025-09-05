@@ -1,0 +1,5 @@
+Die Aussage bedeutet einfach gesagt, dass alle Programme, die Nachrichten oder Daten über das Internet senden, eine bestimmte Art von Ansatz verwenden müssen. Es gibt zwei Hauptarten, wie das funktioniert: TCP und UDP. Diese beiden sind wie Straßen, auf denen die Daten reisen.
+
+In unserem Beispiel mit E-Mails verwenden wir TCP. Das ist eine sehr sichere Straße, die dafür sorgt, dass die Daten richtig ankommen. Für das Senden von E-Mails gibt es eine spezielle Adresse, die wir Port 25 nennen, und für das Empfangen von E-Mails benutzen wir einen anderen Port, nämlich Port 110.
+
+Zusammengefasst: Wenn wir E-Mails senden oder empfangen, benutzen wir die TCP-Straße mit den speziellen Adressen Port 25 und Port 110, damit unsere Nachrichten sicher ans Ziel kommen.

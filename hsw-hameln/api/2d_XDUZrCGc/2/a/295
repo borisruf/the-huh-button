@@ -1,0 +1,18 @@
+Okay, lass uns das einfach erklären!
+
+Es gibt Adressen, die „IP-Adressen“ genannt werden. Diese Adressen helfen Computern, sich im Internet zu finden. Wenn du eine IP-Adresse haben möchtest, bekommst du sie von einer speziellen Organisation, die alles mit diesen Adressen organisiert – das ist die Internet Assigned Numbers Authority, oder kurz IANA.
+
+Normalerweise geben sie diese IP-Adressen an Internetanbieter weiter. Diese Anbieter verteilen sie dann an ihre Kunden, also zum Beispiel an Haushalte oder Unternehmen.
+
+Es gibt zwei Arten von IP-Adressen:
+
+1. **Öffentliche IP-Adressen**: Diese Adressen gibt es im Internet und jeder Computer kann sie benutzen, um mit anderen zu kommunizieren.
+
+2. **Private IP-Adressen**: Diese Adressen sind nur für lokale Netzwerke, wie dein Zuhause oder dein Büro. Sie können von jedem frei benutzt werden, weil sie nicht direkt im Internet sind.
+
+Man muss darauf achten, dass man keine öffentlichen IP-Adressen in einem privaten Netzwerk benutzt, denn das könnte Probleme verursachen, wenn man ins Internet gehen will. Wenn ein Computer eine öffentliche IP-Adresse in einem privaten Netzwerk hat, könnte er mit einem anderen Computer im Internet "verwechselt" werden. Das nennt man Kollision, und das wollen wir vermeiden.
+
+Zusammengefasst:
+- IP-Adressen sind wie Adressen für Computer im Internet.
+- Es gibt öffentliche (sichtbar im Internet) und private (nur im eigenen Netzwerk) IP-Adressen.
+- Man muss aufpassen, dass man öffentliche IP-Adressen nicht in privaten Netzwerken verwendet, um Verwirrung zu vermeiden.

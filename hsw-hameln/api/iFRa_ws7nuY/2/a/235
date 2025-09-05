@@ -1,0 +1,11 @@
+In dieser Erklärung geht es darum, wie wir Informationen, die in Form von Einsen und Nullen (Bitstrom) vorliegen, in ein physikalisches Signal umwandeln, damit wir sie über ein Medium wie Kabel oder Luft senden können. 
+
+1. **Was ist ein Signal?** Ein Signal ist eine Art Welle, wie zum Beispiel eine elektromagnetische Welle, die sich durch den Raum bewegt. Diese Welle hilft uns, Informationen zu übertragen.
+
+2. **Wie wird ein digitales Signal erstellt?** Um das digitale Signal zu erstellen, nehmen wir das ursprüngliche Signal und messen es zu bestimmten Zeiten (das nennt man Abtastung). Wir tun das gleichmäßig, damit wir ein gutes Bild von der Welle bekommen.
+
+3. **Störungen sind ein Problem:** Wenn das Signal über ein Kabel oder durch die Luft gesendet wird, können viele verschiedene Störungen (wie Rauschen oder andere Signalquellen) das ursprüngliche Signal verändern. Das bedeutet, dass das Signal, das am Ende ankommt, anders ist als das, was wir gesendet haben.
+
+4. **Wiederherstellung der Information:** Wenn das Signal beim Empfänger ankommt, sieht es anders aus, und wir müssen herausfinden, was die ursprüngliche Information war. Das ist oft nicht einfach, und wir müssen sicherstellen, dass unser Kodierungsverfahren gut funktioniert, damit wir die Informationen richtig zurückbekommen können.
+
+Zusammengefasst heißt das: Wir wandeln Daten in ein Signal um, senden es, und weil es beim Senden Störungen geben kann, müssen wir beim Empfang gut aufpassen, um die ursprünglichen Informationen zu rekonstruieren.

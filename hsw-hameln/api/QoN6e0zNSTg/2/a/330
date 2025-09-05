@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie Daten in einem Netzwerk organisiert werden. 
+
+Stell dir vor, du hast ein Paket, das du verschicken möchtest. Damit das Paket sicher ankommt, gibt es bestimmte Regeln. In einem Netzwerk ist das ähnlich, und man nennt diesen Begriff "OSI-Modell". 
+
+Wenn Daten von einem Computer zu einem anderen geschickt werden, wird am Anfang des Datenpakets (wir nennen das den "Header") etwas hinzugefügt, damit der Empfänger weiß, von wem die Daten kommen und wohin sie gehen. Am Ende des Pakets wird auch etwas hinzugefügt, das wir "Trailer" nennen, um sicherzustellen, dass die Daten vollständig sind und keine Fehler aufgetreten sind.
+
+Das passiert in verschiedenen Schichten, die das Netzwerk nutzt. Jede Schicht fügt ihre eigenen Informationen hinzu. Man kann sich das wie eine Schichttorte vorstellen: Jede Schicht hat ihren eigenen Teil, der das Ganze besser macht. So werden die Daten organisiert und können effektiv über das Netzwerk gesendet werden.

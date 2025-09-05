@@ -1,0 +1,9 @@
+Die Aussage sagt, dass die obersten drei Schichten im OSI-Modell wichtig sind, weil dort verschiedene Programme dran arbeiten, die wir benutzen, um im Internet zu kommunizieren und Daten auszutauschen. 
+
+Jede dieser Schichten hat eine spezielle Aufgabe: 
+
+- **Schicht 5 (Sitzungsschicht)** hilft, wie lange eine Verbindung zwischen zwei Computern bleibt.
+- **Schicht 6 (Darstellungsschicht)** sorgt dafür, dass die Daten, die gesendet werden, in einem verständlichen Format sind.
+- **Schicht 7 (Anwendungsschicht)** ist die Schicht, wo die Programme selbst sind, wie zum Beispiel Telnet (für das Steuern von Computern), FTP (für das Übertragen von Dateien) und HTTP (für das Laden von Webseiten).
+
+Die drei Schichten funktionieren zusammen, um Anwendungen effizienter und einfacher zu machen.

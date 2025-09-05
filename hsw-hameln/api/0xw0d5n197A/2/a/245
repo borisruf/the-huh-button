@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes:
+
+Stell dir vor, du bist in einem Raum, in dem jeder ins Internet gehen kann. Aber du möchtest sicherstellen, dass nur bestimmte Dinge erlaubt sind. Zum Beispiel dürfen alle die Webseiten wie Google oder Facebook besuchen, die über einen speziellen Weg (Port 80) gehen.
+
+Das Problem ist, dass einige Leute auch andere Sachen machen könnten, wie zum Beispiel Skype-Gespräche, die ebenfalls diesen Weg nutzen. Um sicherzugehen, dass nur die erlaubten Sachen passieren und die unerwünschten Sachen wie Skype nicht, musst du die Informationen, die durch den Raum (oder über das Internet) kommen, genau anschauen.
+
+Wenn du also einige Türen (Ports) aufmachst, musst du darauf achten, was gerade durch diese Türen hineinkommt. Es ist wichtig, manchmal alle Daten, die kommen, zu überprüfen, um sicherzustellen, dass sie gut sind und nichts Schlechtes passiert. Außerdem gibt es zusätzliche Sicherheitsmaßnahmen wie Virtual Private Networks (VPNs), die helfen, die Verbindung zwischen zwei Netzwerken sicherer zu machen.

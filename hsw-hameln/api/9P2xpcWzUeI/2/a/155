@@ -1,0 +1,9 @@
+VLANs sind wie kleine, separate Netzwerke innerhalb eines größeren Netzwerkes. Stell dir ein Gebäude mit drei Stockwerken vor. Normalerweise hat jedes Stockwerk sein eigenes Netzwerk. Aber mit VLANs kann man die Computer in verschiedenen Stockwerken so organisieren, dass sie zu einem einzigen Netzwerk gehören, wenn es sinnvoll ist. 
+
+Es gibt zwei Möglichkeiten, wie man diese Netzwerke einrichtet. 
+
+1. **Statische Einrichtung:** Der Netzwerk-Administrator entscheidet, welcher Computer an welchem Platz zu welchem Netzwerk gehört. Das bedeutet, er muss das manuell einstellen. Wenn ein Computer an einen bestimmten Platz angeschlossen wird, hat er die Eigenschaften des Netzwerks, das für diesen Platz festgelegt wurde. Aber das kann Probleme verursachen, wenn jemand den Computer woanders anschließt. 
+
+2. **Dynamische Einrichtung:** Hier wird es einfacher. Es gibt einen speziellen Computer im Netzwerk, der anhand der MAC-Adresse, das ist eine einzigartige Zahl für jeden Computer, herausfindet, zu welchem VLAN der Computer gehört. Sobald du diesen Computer anschließt, schaut das System nach, zu welchem VLAN es passt und erlaubt ihm die Kommunikation. 
+
+Die VLAN-Informationen werden also über die MAC-Adressen der Computer und die speziellen Anschlüsse (Switch-Ports) im Netzwerk übertragen. Das hilft, die Computersysteme flexibler und sicherer zu organisieren.

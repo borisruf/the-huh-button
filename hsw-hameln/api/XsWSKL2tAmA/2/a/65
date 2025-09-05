@@ -1,1 +1,8 @@
-Jede IP-Adresse hat auch noch eine weitere Nummer dabei, man nennt diese Subnetzmaske. Diese Subnetzmaske teilt die IP-Adresse in zwei Teile auf: einen Netzanteil und einen Hostanteil. Man kann IP-Adressen also nicht alleine betrachten, man muss immer auch die Subnetzmaske dazu nehmen. Und genau wie eine IP-Adresse hat auch eine Subnetzmaske vier Teile.
+Eine IP-Adresse ist wie eine Hausnummer im Internet. Sie besteht aus vier Teilen, die man Oktette nennt (zum Beispiel 172.16.14.193). Diese Adresse hat zwei wichtige Teile: 
+
+1. **Netzanteil**: Das ist der Teil, der zeigt, zu welchem Netzwerk das Haus gehört.
+2. **Host-Anteil**: Das ist der Teil, der zeigt, welches spezielle Haus oder Gerät in diesem Netzwerk ist.
+
+Um zu verstehen, wo der Netzanteil endet und der Host-Anteil beginnt, braucht man eine Subnetzmaske. Die Subnetzmaske hilft also zu erkennen, welcher Teil der IP-Adresse das Netzwerk ist und welcher Teil das Gerät im Netzwerk.
+
+Deshalb ist es wichtig, eine IP-Adresse immer zusammen mit ihrer Subnetzmaske zu betrachten, um zu wissen, wie sie funktioniert.

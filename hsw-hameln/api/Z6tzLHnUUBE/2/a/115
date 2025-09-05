@@ -1,0 +1,11 @@
+Die Aussage beschreibt, wie Daten in einem Netzwerk bewegt werden. Hier ist eine einfache Erklärung:
+
+1. **Routing von Datagrammen**: Daten werden in kleine Teile, die "Datagramme" heißen, aufgeteilt. Diese kleinen Datenpakete müssen durch das Netzwerk zu ihrem Ziel gelangen. Das nennt man "Routing".
+
+2. **Routing-Protokolle**: Es gibt spezielle Regeln (Routing-Protokolle), die auf der dritten Ebene eines Modells (dem OSI-Modell) arbeiten. Diese Regeln helfen dabei, den besten Weg für die Daten zu finden, damit sie ankommen.
+
+3. **IP**: Das Internetprotokoll (IP) wird genutzt, um diesen Weg zu bestimmen. Ein wichtiges Ziel von IP ist es, jedem Computer im Netzwerk eine Adresse zu geben, damit die Daten wissen, wohin sie gehen sollen.
+
+4. **Fragmentierung und Defragmentierung**: Manchmal sind die Datenpakete zu groß, um sie auf einmal zu senden. Dann werden sie in kleinere Stücke zerlegt (Fragmentierung). Am Zielort werden diese Stücke wieder zusammengefügt (Defragmentierung).
+
+Zusammengefasst: IP hilft dabei, Daten richtig zu adressieren, die besten Wege zu finden und große Daten in kleinere Teile zu zerlegen und wieder zusammenzufügen. Wir werden später mehr darüber erfahren.

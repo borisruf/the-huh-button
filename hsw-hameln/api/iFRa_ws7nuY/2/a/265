@@ -1,0 +1,5 @@
+Die Aussage besagt, dass der Anteil von Gleichstrom (DC) in einem Signal möglichst klein sein sollte. Der Grund dafür ist, dass Gleichstrom mehr Widerstand in den Kabeln erzeugt, was zu einem Verlust des Signals führt. 
+
+Zusätzlich gibt es nicht nur diesen Widerstand, sondern auch einen weiteren, der von der Frequenz des Signals abhängt. Das bedeutet, dass die Auswirkungen des Widerstands unterschiedlich sind, je nach Art des Signals. 
+
+Zusammengefasst: Wenig Gleichstrom ist besser, damit das Signal beim Übertragen nicht verloren geht.

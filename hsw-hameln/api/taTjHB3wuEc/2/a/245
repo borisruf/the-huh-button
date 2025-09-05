@@ -1,0 +1,13 @@
+Die Aussage beschreibt, wie das "Stop-and-Wait"-Verfahren in der Datenübertragung funktioniert. Hier ist eine einfache Erklärung:
+
+1. **Sender und Empfänger**: Es gibt einen Sender, der Daten schickt, und einen Empfänger, der diese Daten erhält.
+
+2. **Warten auf Bestätigung**: Wenn der Sender das "Stop-and-Wait"-Verfahren nutzt, sendet er ein kleines Datenpaket und muss dann warten, bis der Empfänger ihm sagt, dass das Paket angekommen ist. Das nennt man "Acknowledgement" oder Bestätigung.
+
+3. **Fenstergröße 1**: In diesem Verfahren kann der Sender nur ein Paket gleichzeitig senden. Er kann erst das nächste Paket senden, wenn er die Bestätigung für das vorherige Paket bekommen hat.
+
+4. **Langsame Übertragung**: Wenn der Sender ständig warten muss, verschenkt er Zeit, weil er nicht gleichzeitig mehrere Pakete schicken kann. Das ist besonders ein Problem, wenn die Verbindung langsam ist, wie zum Beispiel bei einer langen Strecke zwischen Sender und Empfänger.
+
+5. **Besseres Verfahren**: Ein besserer Ansatz wäre, mehrere Pakete auf einmal zu senden, ohne auf Bestätigungen zu warten. So kann die Verbindung besser genutzt werden und es werden schneller Daten übertragen.
+
+Zusammengefasst: Im "Stop-and-Wait"-Verfahren kann der Sender nur ein Paket auf einmal senden und muss auf eine Bestätigung warten, was die Übertragung langsamer macht.

@@ -1,0 +1,1 @@
+  Auf der Schicht darüber geht es um die Darstellung, deswegen eben auch Darstellungsschicht, also die Schicht 6, da geht es um die Darstellung der Daten, also werden sie korrekt kodiert.  Wenn ich eine Mail im ASCII-Format abschicke, wird sie eben auf der anderen Seite beim Empfänger durch das OSI-Modell auch wieder im ASCII-Code dargestellt.

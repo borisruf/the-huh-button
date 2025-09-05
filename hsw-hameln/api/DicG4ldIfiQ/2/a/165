@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass beim Senden von elektrischen Signalen nicht nur der normale Widerstand, den wir kennen (ohmscher Widerstand), wichtig ist, sondern auch ein Teil, der "Scheinwiderstand" heißt. 
+
+Dieser Scheinwiderstand besteht aus zwei Teilen: 
+1. Der ohmsche Widerstand – das ist der übliche Widerstand, den wir bei elektrischen Geräten haben.
+2. Der Blindwiderstand – das ist ein weiterer Widerstand, der entsteht durch bestimmte Eigenschaften des Stroms, wenn er sich verändert, wie zum Beispiel durch Spulen.
+
+Zusammen zeigen diese beiden Widerstände, wie gut das Signal durch das Kabel oder die Leitung kommt. Die Technik muss also beide Widerstände berücksichtigen, um sicherzustellen, dass das Signal gut ankommt und nicht zu schwach wird.

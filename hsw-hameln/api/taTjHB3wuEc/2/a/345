@@ -1,0 +1,5 @@
+Stell dir vor, du versendest Briefe an einen Freund, aber dein Freund ist beschäftigt und kann nicht so viele Briefe auf einmal lesen. Der Freund sagt dir, wie viele Briefe er gleichzeitig lesen kann. Wenn er mehr Zeit hat, kann er dir sagen, dass er jetzt mehr Briefe auf einmal lesen kann. 
+
+In diesem Beispiel sind die Briefe wie Daten, die geschickt werden. Die "Fenstergröße" ist die Anzahl der Briefe, die du ihm gleichzeitig schicken darfst. Wenn dein Freund sagt, dass er nur 2 Briefe auf einmal lesen kann, schickst du ihm 2 Briefe und wartest dann auf eine Antwort. Wenn er sagt, dass er jetzt 4 Briefe schaffen kann, kannst du ihm wieder mehr schicken.
+
+So funktioniert die Kommunikation zwischen zwei Computern auch. Der Sender schickt Daten, und der Empfänger sagt, wie viele er gerade verarbeiten kann. Das kann sich während der Unterhaltung ändern, je nachdem, wie viel der Empfänger schaffen kann. So wird sichergestellt, dass die Daten schnell und ordentlich ankommen, ohne dass der Empfänger überfordert wird.

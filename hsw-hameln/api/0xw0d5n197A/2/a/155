@@ -1,0 +1,9 @@
+Stell dir vor, ein Computer-Netzwerk ist wie ein großes Haus mit vielen Zimmern. Damit dieses Haus sicher ist, müssen wir Sachen einrichten, die Eindringlinge draußen halten. 
+
+Eine DMZ, das steht für Demilitarisierte Zone, ist wie ein sicherer Raum im Haus, wo wir einige Gäste (also Daten oder Computer) hineinlassen können, aber die nicht ganz bis ins Wohnzimmer dürfen. Wir machen einen speziellen Raum und stellen dort Wachen auf, die genau schauen, wer hinein und heraus kommt.
+
+Diese Wachen sind wie Firewalls. Sie sehen sich die "Pakete" (das sind die Daten, die zwischen den Computern hin- und hergeschickt werden) an und entscheiden, ob sie reinlassen oder nicht. Sie stellen sicher, dass alles, was reinkommt, vertrauenswürdig ist.
+
+Außerdem gibt es Systeme, die wie Alarmanlagen funktionieren. Sie hören, ob jemand versucht, durch ein Fenster oder eine Tür einzubrechen, und schlagen Alarm oder können sogar selbst handeln, um den Eindringling zu stoppen.
+
+Insgesamt müssen wir darauf achten, dass unser Netzwerk (das große Haus) sicher bleibt, nicht nur von außen, sondern auch von Leuten, die im Inneren sind und vielleicht etwas Böses im Schilde führen. Wir nutzen verschiedene Methoden, um das Haus zu schützen und alle sicher zu halten.

@@ -1,0 +1,9 @@
+Stell dir vor, dein Computer und ein anderer Computer sind wie zwei Häuser, und sie möchten Nachrichten austauschen. Die Adressen der Häuser sind wie die IP-Adressen der Computer, damit die Nachrichten wissen, wo sie hin müssen.
+
+Wenn dein Computer eine Nachricht sendet, verlassen sie zuerst dein Haus (Rechner A) über einen Weg (Router) und gehen dann zu einem anderen Weg (Router) bis sie beim anderen Haus (Rechner B) ankommen. Auf jedem Weg verändert sich, wie die Nachricht aussieht. Der Computer, von dem die Nachricht kommt, ist wie der Absender, und der Computer, der die Nachricht bekommt, ist wie der Empfänger.
+
+In einem Netzwerk gibt es viele verschiedene Wege, um Nachrichten zu senden, und manchmal müssen die Nachrichten auf dem Weg an verschiedenen Stellen angepasst werden, damit sie durch die verschiedenen „Tore“ (Netzwerkprotokolle) passen. Manchmal sind diese Tore unterschiedlich groß, also muss die Nachricht in passende Stücke (Fragmente) zerlegt werden. Das macht das Internetprotokoll (IP). 
+
+Um sicherzustellen, dass die Nachrichten ankommen, braucht man auch zwei Arten von Adressen: die IP-Adresse für die gesamte Strecke über verschiedene Netze und eine spezielle Adresse (MAC-Adresse) für die Verbindung im eigenen kleinen Netz. 
+
+Das ist wichtig, weil, wenn man von einem Netz ins andere geht, die Adresse, die man benutzt, sich auf dem Weg ändern kann. So passt alles zusammen, und die Nachricht kann sicher beim richtigen Haus ankommen.

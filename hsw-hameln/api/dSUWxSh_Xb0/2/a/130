@@ -1,0 +1,5 @@
+Multiplexing ist ein Weg, um viele Gespräche gleichzeitig über ein einzelnes Kabel zu führen. Stell dir vor, du hast vier Freunde, die gleichzeitig mit dir sprechen wollen, aber du kannst nur mit einem gleichzeitig reden. Multiplexing hilft, dass alle gleichzeitig „reden“ können, indem es die Stimmen in kleine Teile aufteilt und sie über das gleiche Kabel geschickt werden.
+
+Oben im Bild sehen wir Verzweiger, die helfen, die verschiedenen Gespräche zu sortieren. Unten im Bild gibt es zwei wichtige Geräte: einen Multiplexer und einen Demultiplexer. Der Multiplexer sorgt dafür, dass die vielen Gespräche in einem einzigen Datenstrom zusammengefasst werden. Der Demultiplexer hingegen nimmt diesen Datenstrom und teilt ihn wieder auf, sodass jeder Freund seine eigene Stimme hört.
+
+Es gibt verschiedene Methoden, wie das Multiplexing funktioniert, und diese werden wir uns jetzt genauer ansehen. Kurz gesagt, Multiplexing ermöglicht es, dass mehrere Daten gleichzeitig über dasselbe Kabel gesendet werden, ohne dass es zu Störungen kommt.

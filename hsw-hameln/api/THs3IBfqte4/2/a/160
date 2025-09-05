@@ -1,0 +1,9 @@
+Die Aussage bedeutet Folgendes: 
+
+Wenn man mit Signalen arbeitet, kann man verschiedene Wege nutzen, um Informationen zu übertragen. Eine Möglichkeit ist, die Frequenz zu ändern. 
+
+Stell dir Frequenz wie die Geschwindigkeit vor, mit der ein Ton schlägt oder wummert. Wenn die Frequenz hoch ist, bedeutet das, wir senden die Zahl 1. Wenn die Frequenz niedrig ist, bedeutet das, wir senden die Zahl 0. 
+
+Das hilft uns, Daten in einem Signal darzustellen. Außerdem gibt es noch andere Wege, wie die Phasenmodulation, die wir auch verwenden können. Phasenmodulation ist eine andere Methode, um Informationen durch Signale zu übertragen, indem wir die Phase (d.h. die Ausrichtung) des Signals ändern. 
+
+In einfachen Worten: Hohe Frequenz = 1 und niedrige Frequenz = 0.

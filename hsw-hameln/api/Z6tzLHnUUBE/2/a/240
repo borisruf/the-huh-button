@@ -1,0 +1,7 @@
+In einem Computernetzwerk gibt es Regeln, die festlegen, wie groß die Datenpakete sein dürfen, die wir schicken. Diese Größe nennt man MTU, also Maximum Transmission Unit. 
+
+Stell dir vor, du hast einen großen Koffer mit 1400 Sachen darin. Wenn du diesen Koffer durch eine Tür tragen musst, die groß genug ist (in unserem Beispiel 1500), kannst du das problemlos machen, weil dein Koffer kleiner ist als die Tür.
+
+Jetzt stell dir vor, du gehst durch eine andere Tür, die viel größer ist (in diesem Fall 4352). Dein Koffer mit 1400 Sachen passt auch hier leicht durch die Tür, also kannst du immer noch alles einfach weiterschicken ohne etwas verändern zu müssen.
+
+Wenn die Türen jedoch sehr klein wären, müsste man den Koffer eventuell aufteilen, damit er hindurchpasst – das nennt man Fragmentierung. Aber in diesem Beispiel klappt alles gut, weil die Größe der Türen größer ist als die Größe deines Koffers.

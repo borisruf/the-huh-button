@@ -1,0 +1,5 @@
+Es ist ganz wichtig, dass alle Personen, die an einem Netzwerkprojekt arbeiten, ihre Aufgaben gut aufschreiben. Wenn sie das nicht tun, können später Probleme auftreten. Zum Beispiel, wenn man Tests macht, um zu überprüfen, ob das Netzwerk gut funktioniert, müssen die Ergebnisse dieser Tests ebenfalls aufgeschrieben werden. 
+
+In den Tests simuliert man, dass das Netzwerk sehr viel Arbeit hat, um zu sehen, ob es dennoch schnell und zuverlässig bleibt. Wenn das Netzwerk unter „Last“ steht, also beschäftigt ist, schauen wir, ob es trotzdem gut funktioniert und die Anforderungen erfüllt.
+
+Deshalb ist die Dokumentation der Tests und der Ergebnisse von großer Bedeutung, um sicherzustellen, dass alle Seiten wissen, wie gut das Netzwerk funktioniert und ob alles richtig gemacht wurde.

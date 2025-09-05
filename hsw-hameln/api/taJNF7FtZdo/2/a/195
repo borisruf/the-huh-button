@@ -1,0 +1,5 @@
+In einfachen Worten bedeutet die Aussage, dass der Weg von einem Ort zu einem anderen in einem Netzwerk gemessen wird, indem man zählt, wie viele Router die Daten durchlaufen. 
+
+Stellen Sie sich vor, Sie wollen von einem Ort zum anderen reisen, und es gibt verschiedene Stationen (oder Kreuzungen), an denen Sie anhalten müssen. Jedes Mal, wenn Sie an einer Station ankommen und dann weiterfahren, nennen wir das einen "Hop". 
+
+Wenn also Daten von einem Computer zu einem anderen Computer geschickt werden, wird gezählt, wie viele Router die Daten durchqueren müssen. Das hilft den Routern zu entscheiden, wie sie die Daten am besten weiterleiten können, damit sie schnell und ohne Verzögerung ankommen.

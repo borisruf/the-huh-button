@@ -1,1 +1,7 @@
-Wir möchten unser Netzwerk so gestalten, dass es immer funktioniert und selten ausfällt. Dafür installieren wir mehrere Geräte (wie Switches) und Verbindungen. Aber wenn wir zu viele davon verwenden, kann ein Kreislauf entstehen, der sich ständig wiederholt. Das ist wie ein Kreis im Verkehr, in dem die Autos immer im Kreis fahren und nicht herauskommen. Unser Netzwerk kennt solche Kreise aber nicht und kann damit nichts anfangen. Grundsätzlich wäre so ein Kreis in unserem Netzwerk ein Fehler im Design oder Aufbau.
+Die Aussage bedeutet Folgendes:
+
+Wenn wir in einem Netzwerk mehrere Switches benutzen, um sicherzustellen, dass alles gut funktioniert und es keine Ausfälle gibt, kann das auch ein Problem verursachen. Manchmal können wir dabei Schleifen im Netzwerk erzeugen. 
+
+Stell dir vor, dass die Daten in einem Netzwerk wie Wasser sind, das durch Rohre fließt. Wenn du Rohre so anordnest, dass das Wasser im Kreis fließen kann, wird das sehr chaotisch. So etwas passiert in einem Netzwerk, wenn es Schleifen gibt. 
+
+Das Ethernet-Protokoll, das dafür sorgt, dass die Daten richtig und schnell geschickt werden, kennt solche Schleifen nicht. Es kann damit nicht umgehen und das wäre ein Fehler in der Planung des Netzwerks. Das bedeutet also, wir müssen vorsichtig sein, wenn wir mehrere Switches verwenden, um sicherzustellen, dass unser Netzwerk nicht durcheinander gerät.

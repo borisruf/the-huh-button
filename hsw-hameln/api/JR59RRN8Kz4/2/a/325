@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass bei der Nutzung von sogenannten Voice-over-IP-VLANs (virtuellen Netzwerken für das Telefonieren über das Internet) einige Vorteile entstehen. 
+
+Ein Vorteil ist, dass das Netzwerk besser organisiert wird. Wenn zum Beispiel Daten in einem Netzwerk gesendet werden, gibt es manchmal Störungen, die durch so genannte "Broadcasts" entstehen können. Ein "Broadcast" ist, wenn eine Nachricht an alle Geräte im Netzwerk gesendet wird. Wenn wir verschiedene VLANs benutzen, bleibt jede dieser Nachrichten nur in dem speziellen VLAN, also nur bei den Geräten in diesem VLAN. Das hilft, das Netzwerk ruhiger und schneller zu halten, weil nicht alle Geräte mit allen Nachrichten belästigt werden. 
+
+Das sorgt dafür, dass die Sprachanrufe klarer und einfacher sind, weil sie nicht von vielen anderen Daten gestört werden. So wird die Sprachkommunikation zügiger und mit weniger Unterbrechungen übertragen.

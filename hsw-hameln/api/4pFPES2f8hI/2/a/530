@@ -1,0 +1,7 @@
+Wir schauen uns jetzt an, wie wir große Netzwerke in kleinere Gruppen, die man Subnetze nennt, aufteilen können. Das ist wichtig, weil es nicht mehr genug IP-Adressen gibt und wir besser mit unseren Adressen umgehen müssen.
+
+Eine IP-Adresse besteht aus einer Zahl, die aus vier Teilen (Blöcken) besteht, und die Subnetzmaske hilft uns zu bestimmen, wie viele Geräte (Hosts) wir in einem Netzwerk haben können. Wenn wir aus einer großen Gruppe von Adressen eine kleinere machen, verringern wir die Zahl der verfügbaren Adressen in jedem Subnetz.
+
+In unserem Beispiel gibt es ein großes Netzwerk mit 254 Adressen. Wir teilen es in 8 kleinere Netzwerke auf. Jedes kleine Netzwerk hat 32 Adressen, aber wir können nicht alle benutzen, da wir die ersten und letzten Adressen für besondere Zwecke reservieren müssen. So haben wir in jedem kleinen Netzwerk nur 30 Adressen, die wir tatsächlich nutzen können.
+
+Die Tabelle, die wir sehen, zeigt uns die 8 neuen Subnetze, die wir gebildet haben. Sie wurde schon vorher erwähnt. Jedes neue Subnetz hat eine eigene Adresse, aber wir müssen darauf achten, dass wir die speziellen Adressen für Netzwerknutzung nicht vergeben. Das hilft uns, unsere Adressen besser zu verwalten und die Netzwerke sicherer zu machen.

@@ -1,1 +1,7 @@
-Die Aussage sagt, dass es verschiedene Sorten von Informationen gibt, die an unserem Computer ankommen. Jede Sorte Information hat eine spezielle Nummer, die "Portnummer" genannt wird. Aber alle diese Informationen kommen von der gleichen Adresse im Internet, das ist die "IP-Adresse". Man könnte es so vorstellen, als ob jemand viele verschiedene Pakete an die gleiche Adresse schickt, aber jedes Paket hat eine andere Nummer, damit der Empfänger weiß, was für eine Art von Paket es ist.
+Stell dir vor, du hast ein großes Postamt. Dieses Postamt hat eine einzige Adresse, das ist die IP-Adresse. 
+
+Jetzt kommen viele verschiedene Briefe und Pakete an, die zu unterschiedlichen Personen in diesem Postamt gehören. Um zu wissen, für wen jeder Brief oder jedes Paket ist, hat das Postamt viele verschiedene Kästchen oder Fächer. Diese Kästchen sind wie die Portnummern. 
+
+Die Portnummern helfen dabei, die verschiedenen Daten (Briefe und Pakete) an den richtigen „Empfänger“ im Postamt zu sortieren, auch wenn alle zur gleichen Adresse kommen. 
+
+Das bedeutet, das Postamt (also der Computer) bekommt unterschiedliche Informationen, aber sie kommen alle zur gleichen IP-Adresse.

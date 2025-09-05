@@ -1,0 +1,5 @@
+Die Aussage besagt, dass wir spezielle „Ports“ benutzen, um verschiedene Geräte in einem Netzwerk zu erkennen, wenn sie über einen Router mit dem Internet verbunden sind. Ein Router ist wie ein Tor von deinem Zuhause ins Internet. Wenn mehrere Geräte in deinem Haus das Internet nutzen wollen, müssen sie alle über die gleiche öffentliche Adresse (die Adresse deines Routers) gehen. 
+
+Um herauszufinden, welches Gerät welchen Dienst (wie das Surfen im Internet oder das Senden einer E-Mail) nutzt, helfen die Ports. Jeder Dienst hat einen eigenen Port, und dieser Port zeigt an, zu welchem Gerät und zu welchem Dienst die Verbindung gehört. 
+
+PAT (Port Address Translation) ist eine Technik, die hilft, die Ports den verschiedenen Geräten im Netzwerk zuzuordnen, damit alles reibungslos funktioniert. Du kannst dir das wie eine Adresse mit Zimmernummern in einem großen Gebäude vorstellen. Die Adresse ist die öffentliche IP-Adresse des Routers, und die Zimmernummern sind die Ports, die zu den einzelnen Geräten gehören. So weiß der Router, wo er die Informationen hinschicken soll, wenn die Geräte im Haushalt etwas im Internet anfordern.

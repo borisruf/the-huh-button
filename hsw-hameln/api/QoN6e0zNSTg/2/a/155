@@ -1,0 +1,9 @@
+Die Aussage spricht über eine wichtige Idee in Computernetzwerken, die schon lange existiert. Es geht um Ethernet, das ist eine Art, wie Computer miteinander verbunden sind. 
+
+Ein Mann namens Bob Metcalf hat diese Idee vor 40 Jahren entwickelt. Er dachte, dass alle Geräte in einem Netzwerk ein gemeinsames "Medium" benutzen können, um miteinander zu kommunizieren. Das bedeutet, dass alle Computer oder Geräte den gleichen Weg verwenden, um Daten zu senden.
+
+Aber wenn viele Geräte gleichzeitig auf dieses gemeinsame Medium zugreifen wollen, kann es zu Problemen kommen. Daher müssen Regeln festgelegt werden, wie die Geräte das Medium nutzen dürfen. Diese Regeln nennt man Protokolle. 
+
+Eine spezielle Regel, die in diesem Zusammenhang wichtig ist, heißt CSMA-CD. Das steht für "Carrier Sense Multiple Access with Collision Detection". Es bedeutet, dass die Geräte zuerst "lauschen" (hören) müssen, ob das Medium gerade benutzt wird, bevor sie selbst Daten senden. Wenn zwei Geräte gleichzeitig senden, kann es zu einem "Zusammenstoß" der Daten kommen. Die Geräte müssen also sicherstellen, dass sie nicht gleichzeitig senden, um Missverständnisse zu vermeiden.
+
+Zusammengefasst: CSMA-CD hilft den Geräten, fair zu kommunizieren, indem sie darauf achten, ob andere Geräte gerade senden, und es gibt Regeln, die sicherstellen, dass alle Geräte gleich behandelt werden.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass ich als Verantwortlicher für das Netzwerk (Administrator) die Regeln dafür, wie Daten in einem Netzwerk weitergeleitet werden, selbst festlegen kann. Diese Regeln sind in den sogenannten Routing-Tabellen gespeichert. 
+
+Indem ich diese Tabellen bearbeite, kann ich beeinflussen, welche Wege die Daten nehmen, wenn sie von einem Ort zum anderen reisen. Ich möchte dabei sicherstellen, dass die Daten möglichst sicher – und nicht auf einem riskanten oder schlechten Weg – übertragen werden. 
+
+Das ist so ähnlich, wie wenn ich mir bei einer Reise überlege, welchen Weg ich nehme, um sicher ans Ziel zu kommen. Wenn ich also das Netzwerk wie eine Reise betrachte, kann ich die besten Routen auswählen, um sicherzustellen, dass die Daten nicht verloren gehen oder in Gefahr geraten.

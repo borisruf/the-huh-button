@@ -1,0 +1,9 @@
+Wir reden hier darüber, wie man Informationen, die aus Einsen und Nullen bestehen, so in ein Signal umwandelt, dass wir sie über Kabel schicken können. Dazu gibt es verschiedene Methoden.
+
+Eine Methode heißt „Return-to-Zero“. Bei dieser Methode zeigen wir mit einem hohen Signal, dass wir eine Eins haben, und wenn wir eine Null haben, ist das Signal weg. Das Problem dabei ist, dass wir viel von dem gleichen Signal haben, also einen „hohen Gleichstromanteil“, und das macht es schwer, den Rhythmus (Takt) des Signals zu erkennen.
+
+Eine andere Methode, die „Non-Return-to-Zero“ genannt wird, zeigt eine Eins auch mit einem hohen Signal, aber für eine Null gibt es immer noch ein schwaches Signal. Das ist zwar einfach, aber auch hier haben wir das gleiche Problem mit dem Takt und dem vielen Gleichstrom.
+
+Um diese Probleme zu lösen, kombinieren wir das Non-Return-to-Zero-Verfahren mit einem zusätzlichen Signal, einem Takt. Das führt dazu, dass das Signal ständig wechselt – also hin und her geht – und damit keinen hohen Gleichstromanteil mehr hat. Dieses Hin und Her hilft uns auch, den Takt leicht zurückzugewinnen und alles ist einfacher zu handhaben.
+
+Am Ende müssen wir uns nur noch auf die Änderungen des Signals konzentrieren, also wann das Signal hoch oder niedrig wird.

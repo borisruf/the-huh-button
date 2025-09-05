@@ -1,1 +1,7 @@
-Wir wollen, dass Computer überall auf der Welt miteinander reden können. Um das zu tun, brauchen wir Regeln, damit alle Computer dieselbe "Sprache" sprechen. Diese Regeln sind wie eine durchgehende Linie von einem Computer zum anderen. Man kann sich das wie eine Bestätigung vorstellen, die der eine Computer zum anderen schickt, um zu zeigen, dass die Nachricht angekommen ist. Außerdem gibt es Standardprogramme, die dafür sorgen, dass das Ganze funktioniert. Diese Programme sind TCP und IP - das sind die Hauptregeln, auf die wir uns konzentrieren wollen. Sie funktionieren auf bestimmten Ebenen im Computer. In einer Aufstellung können wir genau sehen, wo sie funktionieren.
+In diesem Text geht es um zwei wichtige Dinge, die bei der Kommunikation in Netzwerken helfen: TCP und IP. 
+
+Stell dir vor, IP ist wie ein Briefträger. Er nimmt deinen Brief (die Daten) und bringt ihn zu einer bestimmten Adresse (dem Ziel). IP kümmert sich nicht darum, ob der Brief sicher ankommt oder nicht; er bringt ihn einfach von einem Ort zum anderen.
+
+TCP ist wie ein guter Freund, der sicherstellt, dass der Brief wirklich ankommt. Wenn der Brief verloren geht oder nicht ankommt, fragt er nach und sorgt dafür, dass der Brief nachgeschickt wird. 
+
+Zusammen arbeiten IP und TCP, damit die Daten in Netzwerken gut und richtig übertragen werden. IP schickt die Daten, und TCP sorgt dafür, dass sie sicher ankommen.

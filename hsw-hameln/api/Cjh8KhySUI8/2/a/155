@@ -1,0 +1,11 @@
+In der Aussage wird über UDP (ein Protokoll für den Datenaustausch) gesprochen. Hier sind die wichtigen Punkte in einfacher Sprache erklärt:
+
+1. **Portnummern:** Jedes Programm, das Daten sendet oder empfängt, hat eine spezielle „Tür”-Nummer (Portnummer). So können die Daten wissen, wo sie hin sollen.
+
+2. **Länge:** Wir müssen wissen, wie groß die Daten sind, die wir senden. Das hilft, den Überblick zu behalten.
+
+3. **Checksumme:** Das ist eine Methode, die hilft zu überprüfen, ob die Daten auf dem Weg nicht kaputt gegangen sind. Wenn etwas nicht stimmt, kann man das so erkennen.
+
+4. **Fehlerkorrektur:** UDP hat nur einfache Möglichkeiten, Fehler zu bemerken. Es versucht nicht immer, jeden Fehler zu beheben, weil es sich mehr um Geschwindigkeit als um Sicherheit kümmert.
+
+Im Großen und Ganzen bedeutet das, dass UDP einfachere Werkzeuge hat, um Daten schnell zu senden, auch wenn das bedeutet, dass manchmal Daten verloren gehen können. Es wird oft für Dinge verwendet, bei denen Schnelligkeit wichtiger ist als, dass alles immer perfekt ankommt, wie zum Beispiel bei Videoanrufen oder Streaming.

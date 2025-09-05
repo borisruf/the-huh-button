@@ -1,0 +1,3 @@
+Die Aussage bedeutet: Jeder Router im Netzwerk hat eine spezielle Art von "Karte" oder "Datenbank", die ihm genau sagt, wie das gesamte Netzwerk aufgebaut ist. Er weiß also, wo alle anderen Router sind und wie sie miteinander verbunden sind. 
+
+Diese Informationen helfen dem Router dabei, den besten Weg zu finden, um Daten von einem Punkt A zu einem Punkt B zu senden. Anstatt nur Informationen von den Nachbarn zu sammeln, hat der Router alles selbst im Überblick. So kann er schneller und genauer entscheiden, welche Route die beste ist.

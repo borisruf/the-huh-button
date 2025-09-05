@@ -1,0 +1,11 @@
+Die Aussage beschreibt, wie Geräte in einem Netzwerk miteinander kommunizieren, indem sie zuerst checken, ob die Verbindung (das "Medium") frei ist, bevor sie Informationen senden. Hier ist eine vereinfachte Erklärung:
+
+Stell dir vor, du und dein Freund wollen gleichzeitig in einen Raum gehen, aber ihr wollt nicht reden, wenn der andere da ist, damit ihr euch nicht überlappt. 
+
+1. **Carrier Sense (CS)**: Bevor jemand in den Raum geht, schaut er rein, um zu sehen, ob der Raum leer ist. Das bedeutet, dass die Geräte (wie Endgerät 1 und 3) prüfen, ob die Verbindung für sie frei ist.
+
+2. **Multiple Access (MA)**: Wenn beide sehen, dass der Raum (oder die Verbindung) leer ist, können sie gleichzeitig hineingehen und anfangen zu reden. Das heißt, sie senden ihre Informationen gleichzeitig.
+
+3. **Was passiert dann?**: Wenn beide gleichzeitig anfangen zu sprechen und ihre Daten schicken, kann es Chaos geben, weil sie sich gegenseitig stören könnten. Deshalb gibt es Regeln (Protokolle), die festlegen, wie alle fair miteinander umgehen und die Verbindung nutzen können, ohne dass es zu Problemen kommt.
+
+Zusammengefasst: Bevor Geräte Daten senden, überprüfen sie, ob die Verbindung frei ist. Wenn ja, können sie gleichzeitig senden, was aber auch zu Störungen führen kann, wenn es nicht richtig geregelt wird.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir in einem Netzwerk eine bestimmte maximale Datenmenge haben, die wir insgesamt nutzen können. Diese Datenmenge nennt man Bandbreite. Wir können diese Bandbreite aufteilen, damit verschiedene Gruppen oder Bereiche im Netzwerk (die VLANs) gleichzeitig Daten senden können.
+
+Stell dir vor, das Netzwerk ist wie ein Wasserhahn, aus dem Wasser kommt. Die Gesamtbandbreite ist die Menge an Wasser, die der Hahn liefern kann. Wenn wir mehrere Behälter haben (die verschiedenen VLANs), können wir das Wasser aufteilen, sodass jeder Behälter eine bestimmte Menge bekommt. So kann jeder Bereich im Netzwerk arbeiten, ohne dass einer zu viel Wasser (oder Daten) bekommt und die anderen leer ausgehen. 
+
+Es hilft sicherzustellen, dass alle Bereiche des Netzwerks gut funktionieren, auch wenn viele Personen darin gleichzeitig etwas machen.

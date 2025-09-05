@@ -1,0 +1,9 @@
+Die Aussage bedeutet Folgendes:
+
+Es gibt zwei Arten von IP-Adressen: private und öffentliche. 
+
+- **Private IP-Adressen** sind wie Adressen in einem kleinen Wohngebiet. Diese Adressen können in vielen verschiedenen Netzwerken verwendet werden, ohne dass sie sich stören, weil sie nicht direkt im Internet gesehen werden. Man kann sich das vorstellen, als ob jeder in seinem eigenen Haus bestimmte Adressen vergibt, die nur dort wichtig sind, aber nicht für die ganze Welt.
+
+- **Öffentliche IP-Adressen** sind wie Adressen, die im ganzen Land bekannt sind. Diese Adressen werden im Internet verwendet und können von jedem gefunden werden.
+
+Die private Adresse ist also nicht im Internet sichtbar. Das heißt, wenn jemand im Internet nach einer privaten Adresse sucht, wird er sie nicht finden. Öffentlich Adressen hingegen sind im Internet sichtbar und können von allen Nutzern erreicht werden.

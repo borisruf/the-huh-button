@@ -1,0 +1,7 @@
+Bei IP Version 4 gibt es eine einfachere Adresse. Sie sieht so aus: 172.16.14.193. Das sind vier Zahlen, die durch Punkte getrennt sind. Das kann man sich leicht merken. 
+
+Jetzt gibt es eine neue Adresse, die IP Version 6 heißt. Diese sieht viel komplizierter aus. Anstatt vier Zahlen gibt es jetzt acht Gruppen. Diese Gruppen sind durch Doppelpunkte getrennt und jede Gruppe hat vier Zeichen, die aus Zahlen und Buchstaben bestehen. Das nennt man Hexadezimalsystem. 
+
+Es ist schwieriger, sich diese neuen Adressen zu merken, weil sie länger und komplizierter sind. Das macht es für Menschen, die IP Version 4 gewohnt sind, nicht einfach. 
+
+Die neue IP Version 6 Adresse ist notwendig, weil wir nicht mehr genug Adressen in der alten Version haben. IP Version 6 gibt uns viele, viele Adressen, sodass wir für alle Geräte, die wir heute und in der Zukunft benutzen, genug haben.

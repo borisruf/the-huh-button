@@ -1,0 +1,5 @@
+In dem Text geht es darum, dass es ein Problem mit den IP-Adressen gibt. IP-Adressen sind wie Adressschilder für Computer im Internet. Es gibt nicht mehr genug von ihnen, besonders bei einer bestimmten Art von IP-Adressen, die wir "IPv4" nennen. Deshalb müssen wir eine Lösung finden.
+
+Die Lösung heißt "Subnetze". Das bedeutet, dass wir die großen Gruppen von IP-Adressen, die wir schon haben, in kleinere Gruppen aufteilen. Diese kleineren Gruppen helfen uns, die Adressen besser zu nutzen. So verschwenden wir nicht so viele Adressen und können sicherer mit den Netzwerken umgehen.
+
+Zusammengefasst: Wir haben nicht genug IP-Adressen, weil wir sie früher nicht gut geplant haben. Die Lösung ist, die Adressen in kleinere Gruppen (Subnetze) aufzuteilen.

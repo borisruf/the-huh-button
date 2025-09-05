@@ -1,0 +1,13 @@
+Die Aussage beschreibt, wie Daten über verschiedene Netzwerke geschickt werden. Jedes Netzwerk hat eine maximale Größe für die Daten, die es übertragen kann, die nennt man MTU (Maximum Transmission Unit). Wenn die Daten größer sind als die MTU eines Netzwerks, müssen sie in kleinere Stücke, oder Fragmente, aufgeteilt werden, damit sie korrekt übertragen werden können. 
+
+Hier sind die wichtigsten Punkte einfach erklärt:
+
+1. **Daten aufteilen**: Wenn Daten von einem Netzwerk ins nächste gehen und das nächste Netzwerk eine kleinere MTU hat, müssen die Daten in kleinere Teile zerlegt werden.
+
+2. **Neue MTU**: Wenn die Daten über einen Router in ein Netzwerk mit einer kleineren MTU geschickt werden, ist es nötig, die Daten aufzuteilen. Zum Beispiel, wenn die MTU 532 ist, werden die Daten so geschnitten, dass sie in diese Größe passen.
+
+3. **Rückkehr zur normalen Größe**: Sobald die Daten das nächste Netzwerk erreichen, das eine größere MTU hat (wie 1500), müssen sie nicht wieder aufgeteilt werden und können so weitergeschickt werden.
+
+4. **IP Version 6**: Bei dieser neueren Version von IP müssen die Router nicht mehr dauernd die MTU überprüfen oder neu berechnen. Stattdessen wird der ganze Weg, den die Daten nehmen, vorher geplant und die Daten werden schon im Voraus auf die passende Größe gebracht. Das macht es für die Router einfacher, da sie weniger rechnen müssen.
+
+Zusammengefasst: Man muss die Daten manchmal kleiner machen, damit sie problemlos durch unterschiedliche Netzwerke reisen können. IP hilft dabei, das zu organisieren.

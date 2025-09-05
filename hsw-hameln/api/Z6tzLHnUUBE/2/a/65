@@ -1,0 +1,9 @@
+Die Aussage erklärt, wie das Internetprotokoll (IP) funktioniert. Hier ist eine einfache Erklärung:
+
+1. **IP** hilft, Computer im Internet zu finden, also wie eine Adresse für jeden Computer.
+2. Wenn Informationen, wie ein Paket, zu groß sind, kann IP sie in kleinere Stücke zerlegen. Das nennt man **Fragmentierung**.
+3. Wenn die kleinen Stücke ankommen, werden sie wieder zusammengefügt. Das nennt man **Defragmentierung**.
+4. IP ist **nicht immer zuverlässig**. Das bedeutet, es kann mal was verloren gehen oder es gibt keine feste Verbindung zwischen den Computern.
+5. **TCP** ist ein anderer Dienst, der diese Probleme für IP löst. Es sorgt dafür, dass die Verbindung zwischen den Computern stabiler und zuverlässiger wird.
+
+Zusammengefasst: IP hilft Informationen zu transportieren und sie richtig zu adressieren, auch wenn es manchmal Probleme gibt. TCP hilft, diese Probleme zu beheben.

@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass das Sprachnetzwerk (Voice-VLAN) mehr "Platz" oder Geschwindigkeit hat als das Datennetzwerk (Daten-VLAN). Stell dir vor, es ist wie zwei Straßen: eine für Autos (Daten) und eine für Busse (Sprache). Die Busse brauchen mehr Platz, weil sie sicher und schnell fahren müssen.
+
+Außerdem können die beiden Netzwerke ihre eigenen speziellen IP-Adressen haben, wie verschiedene Hausnummern, die sich nicht überschneiden. Dadurch wird alles einfacher und funktioniert besser.

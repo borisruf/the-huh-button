@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes:
+
+Im IP-Header gibt es verschiedene wichtige Informationen. Eine dieser Informationen ist die "Version", die angibt, welche Art von IP verwendet wird. Außerdem gibt es andere Felder, die erklären, welches Protokoll über IP läuft und auch die Daten, die übertragen werden sollen. 
+
+In der nächsten Übung werden wir uns den IP-Header genauer anschauen und die verschiedenen Teile genau erklären. Dabei nehmen wir die Informationen Schritt für Schritt auseinander, also wir schauen uns jeden Teil genau an, um besser zu verstehen, wie das alles funktioniert.

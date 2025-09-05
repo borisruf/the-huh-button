@@ -1,1 +1,5 @@
-Eine IP-Adresse ist wie eine Telefonnummer für Computer im Internet. Sie besteht immer aus vier Teilen. Jeder dieser Teile wird ein "Oktett" genannt. Die Zahl 193 in der Adresse 172.16.14.193 ist also ein Oktett. Jede solche Adresse hat zwei Teile: Der "Netzanteil" sagt uns, welchem Netzwerk der Computer gehört und der "Hostanteil" zeigt uns den spezifischen Computer innerhalb dieses Netzwerks. Es ist also ähnlich wie bei einer Adresse, wo die Straße uns das Gebiet sagt und die Hausnummer uns das spezifische Haus zeigt.
+Die Aussage spricht über IP-Adressen, die aus 32 Bits bestehen. Das bedeutet, dass die Adresse aus einer langen Reihe von 0en und 1en besteht. Eine IP-Adresse sieht meistens so aus: 172.16.14.x, wobei "x" eine Zahl von 0 bis 255 sein kann. 
+
+In diesem Beispiel ist 172.16.14 eine Art "Adresse" in einem Netzwerk. Es zeigt, wo ein Computer oder ein anderes Gerät sich befindet. Die Zahlen sind in vier Gruppen unterteilt (getrennt durch Punkte), und jede Gruppe kann eine Zahl von 0 bis 255 sein. 
+
+Also, die IP-Adresse hilft dabei, Geräte im Internet zu finden und miteinander zu verbinden.

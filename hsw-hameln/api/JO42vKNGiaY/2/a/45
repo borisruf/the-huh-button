@@ -1,0 +1,6 @@
+Die Aussage bedeutet, dass man versucht hat, das Problem zu lösen, dass es nicht genug IP-Adressen gibt. Man hat verschiedene Wege ausprobiert, um das zu verbessern. Zwei dieser Wege sind: 
+
+1. Man hat private IP-Adressen gemacht, die nur in bestimmten Netzwerken benutzt werden können.
+2. Man hat das Netz in kleinere Teile, genannt Subnetze, aufgeteilt.
+
+Das hilft, damit mehr Geräte eine IP-Adresse bekommen können, bis man auf die neue Version, IP Version 6, umsteigt, die viel mehr Adressen bietet.

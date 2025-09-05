@@ -1,0 +1,10 @@
+Wir haben drei Gruppen in unserem Netzwerk, die wir VLANs nennen. Aber jetzt haben wir nur noch zwei Gruppen, in denen Computer sind, und eine neue Gruppe nur für Telefone. Das ist unser spezielles "Voice-VLAN" für Telefonate.
+
+Wenn man sich das "Voice-VLAN" genauer anschaut, gibt es viele Vorteile. Zum Beispiel: 
+
+1. **Gleichzeitig nutzen**: Wir können dieselben Kabel für Internet und Telefon benutzen, was praktisch ist.
+2. **Einfachere Technik**: Wir benutzen eine einheitliche Technik für Daten und Telefonate, was alles einfacher macht.
+3. **Kostensparen**: Wir können auch Telefon-Programme auf dem Computer nutzen, statt echte Telefone zu kaufen.
+4. **Bessere Qualität**: Wir stellen sicher, dass die Gespräche ohne Störungen übertragen werden, damit sie gut klingen.
+
+Um das gut zu machen, brauchen wir einen speziellen Server, der die Telefonate organisiert, und unser Netzwerk muss bestimmten Regeln folgen, damit die Gespräche schnell und klar sind. Indem wir das Voice-VLAN getrennt halten, können wir die Sprache priorisieren und dafür sorgen, dass alles gut funktioniert.

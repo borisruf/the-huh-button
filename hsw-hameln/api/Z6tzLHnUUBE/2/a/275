@@ -1,0 +1,15 @@
+Die Aussage handelt von der Übertragung von Daten in einem Netzwerk und erklärt, was passiert, wenn Datenpakete von einem Netzwerk in ein anderes übergehen, das eine kleinere maximale Größe für Datenpakete hat.
+
+Hier ist eine einfache Erklärung:
+
+1. **Datenpakete**: Wenn Informationen in einem Netzwerk gesendet werden, werden sie in sogenannte „Pakete“ aufgeteilt. Diese Pakete haben eine bestimmte Größe.
+
+2. **MTU**: MTU steht für "Maximum Transmission Unit" und ist die größte Größe, die ein Paket in einem bestimmten Netzwerk haben darf. Verschiedene Netzwerke haben unterschiedliche MTU-Größen.
+
+3. **Datenübertragung**: Wenn wir Informationen in einem Netzwerk senden, müssen wir darauf achten, wie groß die Pakete sind. Wenn wir von einem Netzwerk (z. B. Ethernet) in ein anderes (z. B. PPP) springen, kann es passieren, dass die MTU in dem neuen Netzwerk kleiner ist.
+
+4. **Fragmentierung**: Wenn das Datenpaket zu groß ist (zum Beispiel 1400 Byte), um in das neue Netzwerk zu passen (z. B. wenn die MTU nur 532 Byte beträgt), muss das Paket in kleinere Teile, also Fragmente, aufgeteilt werden.
+
+5. **Wiederleitung**: Diese kleinen Fragmente werden dann durch das neue Netzwerk gesendet. Wenn wir wieder in ein Netzwerk mit einer größeren MTU zurückkommen (wie Ethernet mit 1500 Byte), können die Pakete wieder ganz normal gesendet werden, ohne dass sie erneut aufgeteilt werden müssen.
+
+Zusammengefasst: Wenn Datenpakete von einem Netzwerk in ein anderes mit kleineren Größenbeschränkungen gehen, müssen sie zerlegt werden. IP sorgt dafür, dass diese Aufteilung funktioniert.

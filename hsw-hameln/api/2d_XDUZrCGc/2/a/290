@@ -1,0 +1,7 @@
+Öffentliche und private IP-Adressen sind wie zwei verschiedene Arten von Adressen für Computer im Internet.
+
+**Öffentliche IP-Adressen** sind einmalig und werden von einer wichtigen Organisation, der Internet Assigned Numbers Authority (IANA), vergeben. Diese Adressen sind sozusagen wie offizielle Adressen, die jeder im Internet sehen kann. Internetanbieter (Provider) bekommen diese Adressen und geben sie dann an ihre Kunden weiter.
+
+**Private IP-Adressen** sind wie Adressen, die nur in einem kleinen Bereich benutzt werden, zum Beispiel in deinem Zuhause oder in einem Büro. Jeder kann diese Adressen frei benutzen, solange sie nicht direkt im Internet sichtbar sind. Das heißt, dass viele verschiedene Haushalte die gleiche private Adresse haben können, ohne Probleme zu bekommen, weil sie sich nicht in demselben Netzwerk befinden.
+
+Zusammengefasst: Öffentliche IP-Adressen sind für das Internet gedacht und werden zentral vergeben. Private IP-Adressen kann jeder für sein eigenes Netzwerk nutzen, ohne dass sie mit anderen in Konflikt geraten.

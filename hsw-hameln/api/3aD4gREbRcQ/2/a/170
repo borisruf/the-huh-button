@@ -1,0 +1,15 @@
+In dieser Aussage geht es darum, wie E-Mails über das Internet gesendet werden. Wenn du eine E-Mail verschickst, passierst viele wichtige Dinge. Zuerst wird die Verbindung über etwas namens TCP hergestellt, was die Kommunikation regelt.
+
+Hier sind die einfachen Punkte:
+
+1. **TCP und Ports**: Wenn du eine E-Mail schickst, wird ein spezieller "Weg" namens TCP benutzt. Es gibt auch bestimmte "Adressen" für diese Wege, die Ports genannt werden. Für das Senden von E-Mails benutzt man den Port 25 und für das Empfangen den Port 110.
+
+2. **Sitzungsschicht**: Danach geschieht alles auf der Sitzungsschicht. Diese Schicht hilft dabei, die Verbindung zu deinem E-Mail-Server aufzubauen. 
+
+3. **Verbindung aufbauen**: Zuerst wird eine Verbindung hergestellt, damit du mit dem Server sprechen kannst.
+
+4. **Verbindung halten**: Dann kümmert sich die Sitzungsschicht darum, wie die Verbindung aktiv bleibt, während du deine E-Mail sendest.
+
+5. **Verbindung schließen**: Wenn du fertig bist und die E-Mail geschickt wurde, wird die Verbindung wieder beendet, und du meldest dich vom Server ab.
+
+Das alles macht sicher, dass deine E-Mails richtig gesendet und empfangen werden.

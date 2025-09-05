@@ -1,0 +1,5 @@
+In einem Netzwerk gibt es Geräte, die Router heißen. Diese Router helfen dabei, Daten von einem Ort zum anderen zu schicken, ähnlich wie Straßen, die Autos zu verschiedenen Zielen bringen. Jeder Router hat eine eigene Liste, die Routing-Tabelle heißt. Diese Liste zeigt, wohin die Daten als Nächstes geschickt werden müssen.
+
+Wenn ein Router Daten empfängt, checkt er zuerst, ob er das Ziel ist. Wenn ja, gibt er die Daten weiter. Wenn nicht, schaut er in seine Routing-Tabelle, um herauszufinden, wohin er die Daten schicken soll. Die Tabelle sagt dem Router, welche Adresse das nächste Ziel hat und wie viele Router (Hops) die Daten noch durchlaufen müssen, um dort anzukommen.
+
+In unserem Beispiel gibt es ein Netzwerk mit zwei Teilen, die miteinander Daten austauschen wollen. Dazwischen stehen verschiedene Router, die alle ihre eigenen Routing-Tabellen haben. Diese Tabellen helfen den Routern, die Daten schnell und auf dem besten Weg weiterzuleiten.

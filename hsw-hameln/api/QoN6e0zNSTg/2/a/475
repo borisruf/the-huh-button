@@ -1,0 +1,7 @@
+Okay, ich erkläre die Aussage einfach:
+
+Hier haben wir ein Gerät, das wir Netzwerkadapter nennen. Dieser Adapter ist wichtig für Computer, damit sie miteinander kommunizieren können. Jeder Netzwerkadapter hat eine spezielle Adresse, die heißt MAC-Adresse. Diese Adresse ist wie eine einzigartige Telefonnummer nur für diesen Adapter, damit man ihn überall auf der Welt erkennen kann.
+
+Diese MAC-Adresse besteht aus 6 Gruppen von Zahlen und Buchstaben. Manchmal sehen wir sie in einer besonderen Schreibweise, wo die Gruppen durch Striche getrennt sind. Das hilft, die Adresse klar und übersichtlich darzustellen.
+
+Zusammengefasst: Ein Netzwerkadapter hat eine eigene, eindeutige Adresse, die es ihm erlaubt, sich in einem Netzwerk zu identifizieren.

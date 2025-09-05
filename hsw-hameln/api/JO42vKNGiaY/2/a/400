@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes: Wenn man eine IP-Adresse in der Version 6 schreibt, kann man lange Reihen von Nullen kürzen. Das geht aber nur einmal in einer Adresse. Um das zu zeigen, benutzt man zwei Doppelpunkte (::).
+
+Stell dir vor, eine IP-Adresse sieht sehr kompliziert aus mit vielen Zahlen und Nullen. Wenn in der Adresse viele Nullen direkt hintereinander stehen, kann man diese Nullen kürzer schreiben, damit die Adresse einfacher aussieht. Aber man darf das nur ein einziges Mal machen in der ganzen Adresse. 
+
+Das macht es leichter, die Adresse zu lesen und zu verstehen.

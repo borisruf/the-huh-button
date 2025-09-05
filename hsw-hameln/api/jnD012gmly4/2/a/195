@@ -1,0 +1,3 @@
+Diese Aussage bespricht ein Problem beim Senden von Daten. Wenn wir Daten in kleine Pakete, die "Frames" genannt werden, aufteilen, müssen wir sicherstellen, dass der Empfänger nicht denkt, die Nachricht sei zu Ende, wenn er ein bestimmtes Zeichen sieht. Dieses Zeichen nennt man "End of Text".
+
+In der Bitstopf-Methode wird vereinbart, dass wir dieses "End of Text"-Zeichen in den Daten nicht verwenden dürfen. Das hilft, Missverständnisse zu vermeiden. Wenn der Empfänger ein solches Zeichen sieht, weiß er nicht, ob es wirklich das Ende der Nachricht ist oder ob es nur ein Teil der Daten ist. Diese Regel sorgt also dafür, dass der Empfänger die Nachricht richtig versteht und keine Fehler gemacht werden.

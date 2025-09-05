@@ -1,0 +1,3 @@
+Die Aussage besagt, dass wenn wir die Subnetzmaske ändern, es schwieriger wird, schnell zu erkennen, in welchem Netzwerk sich ein Computer mit einer bestimmten IP-Adresse befindet. Um herauszufinden, in welchem Netzwerk der Computer ist, verwenden wir etwas, das wir "logischen Endvergleich" nennen. Das bedeutet, wenn wir die IP-Adresse und die passende Subnetzmaske haben, können wir berechnen, in welchem Netzwerk der Computer ist. 
+
+Zusammengefasst: Wenn die Subnetzmaske anders ist, müssen wir einen kleinen Rechenprozess machen, um zu verstehen, wo der Computer im großen Netzwerk ist.

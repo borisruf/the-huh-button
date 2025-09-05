@@ -1,0 +1,5 @@
+Die Aussage besagt, dass wir unsere Daten in kleine Stücke zerlegen (wir nennen sie Pakete), um sie über unterschiedliche Wege zu senden. Diese Pakete können verschiedene Routen wählen, um schneller ans Ziel zu kommen. 
+
+Damit wir die Pakete später wieder richtig zusammensetzen können, müssen wir ihnen eine Nummer geben, damit wir wissen, in welcher Reihenfolge sie gekommen sind. 
+
+Das ist wichtig, weil die Pakete nicht immer gleich ankommen. Manchmal kommt ein Paket früher an als ein anderes, und wir müssen sie so anordnen, dass sie wieder die richtige Reihenfolge haben, wenn wir die gesamte Nachricht wieder zusammensetzen.

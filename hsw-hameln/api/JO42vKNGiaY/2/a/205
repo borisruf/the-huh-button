@@ -1,0 +1,3 @@
+In dieser Aussage geht es darum, dass wir später genauer anschauen werden, wie die neue Art, IP-Adressen zu schreiben, funktioniert. Diese neue Art ist etwas komplizierter als die alte, die die meisten Leute schon lange kennen (IP Version 4). Wenn jemand schon viele Jahre mit der alten Version gearbeitet hat, kann es schwierig sein, sich an die neue Version (IP Version 6) zu gewöhnen. 
+
+Ursprünglich hatten wir nur eine begrenzte Anzahl von IP-Adressen, und jetzt gibt es nicht mehr genug davon. Deshalb gibt es die neue Version, die viel mehr Adressen bietet. Aber die Art, in der wir die Adressen jetzt schreiben müssen, ist anders, und das kann verwirrend sein. Wir werden alles im Detail erklären, damit es klarer wird.

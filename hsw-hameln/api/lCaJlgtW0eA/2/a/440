@@ -1,0 +1,7 @@
+Die Aussage bedeutet einfach: Wenn viele Computer in einem Netzwerk sind und einer von ihnen eine Nachricht an alle schickt (das nennt man einen Broadcast), dann wird diese Nachricht von den Switches, die die Computer verbinden, überall im Netzwerk verbreitet. 
+
+Stellt euch vor, die Switches sind wie Türen in einem Raum. Wenn ihr eine Tür öffnet und etwas ruft, hören es alle im Raum. 
+
+Wenn wir die Verbindung zwischen zwei Switches entfernen, dann wird jeder Switch wie ein eigener Raum. Wenn jetzt einer in einem Raum ruft, hören nur die Leute in diesem Raum und nicht mehr die in dem anderen Raum. So entstehen zwei separate Bereiche (Broadcast-Domänen), in denen nur die Computer im gleichen Bereich sich gegenseitig hören können. 
+
+Das hilft, das Netzwerk etwas ruhiger und schneller zu machen, weil nicht jeder Schrei (Broadcast) von allen gehört wird.

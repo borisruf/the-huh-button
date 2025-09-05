@@ -1,0 +1,7 @@
+In diesem Text geht es darum, wie man ein großes Netzwerk in kleinere Teile, sogenannte Subnetze, aufteilt. Dabei wird erklärt, dass wir dazu die sogenannten Host-Bits, die normalerweise für Computer im Netzwerk verwendet werden (dargestellt durch die Nullen in der Subnetzmaske), ändern. Wir verwandeln einige dieser Nullen in Einsen, um neue Netzwerk-Bits zu erstellen.
+
+Wenn wir mehr Einsen machen, können wir mehr Subnetze erstellen. Ein Beispiel: Wenn wir drei Nullen in Einsen verwandeln, verwenden wir die Rechnung „2 hoch 3“. Das bedeutet, dass wir insgesamt acht Subnetze haben können.
+
+Mit Subnetzmasken (das ist ein technischer Begriff) können wir also die Größe und Anzahl der Netzwerke besser verwalten. Dies hilft uns auch, IP-Adressen wieder frei zu bekommen, weil wir nicht mehr so viele benötigen, als wir ursprünglich dachten. 
+
+Zusammengefasst: Wir ändern ein paar Nullen in Einsen, um neue Subnetze zu machen. Wenn wir drei Nullen umwandeln, können wir acht kleinere Netzwerke erstellen.

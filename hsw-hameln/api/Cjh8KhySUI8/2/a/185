@@ -1,0 +1,7 @@
+Okay, lass uns das einfach erklären:
+
+Im vorherigen Bild haben wir gesehen, dass TCP, ein Protokoll, das für die Datenübertragung verwendet wird, einen Header hat, der 20 Byte groß ist. Dieser Header enthält viele Informationen über die Daten, die geschickt werden, wie bestimmte Nummern und Bestätigungen, die sicherstellen, dass die Daten korrekt ankommen.
+
+Jetzt geht es um ein anderes Protokoll, UDP. Im Gegensatz zu TCP hat UDP weniger Informationen im Header. Das bedeutet, dass die Daten schneller gesendet werden können, aber es gibt weniger Kontrolle darüber, ob alles richtig ankommt. Es ist also schneller, aber weniger sicher. UDP wird oft für Dinge wie Telefonanrufe über das Internet oder Videos anschauen verwendet, wo es nicht so schlimm ist, wenn ein paar Daten fehlen. 
+
+Zusammengefasst: TCP hat mehr Informationen im Header (20 Byte), damit alles sicher ankommt. UDP hat weniger Informationen, damit es schneller geht, auch wenn das Risiko besteht, dass nicht alles ankommt.

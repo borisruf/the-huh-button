@@ -1,0 +1,5 @@
+In der Aussage wird erklärt, wie Informationen in einem Netzwerk verbreitet werden und warum das manchmal problematisch sein kann. Hier ist eine einfache Erklärung:
+
+Stell dir vor, du bist in einem großen Freundeskreis und erzählst deinen Freunden etwas. Wenn jeder Freund das, was du gesagt hast, an seine Freunde weitergibt, kann es lange dauern, bis alle es gehört haben. Manchmal kann es so sein, dass dein Freund etwas erzählt, das nicht mehr stimmt, weil es verändert wurde oder weil der Weg, den du beschrieben hast, gar nicht mehr existiert.
+
+Das zu lösen ist die Aufgabe von sogenannten Link-State-Protokollen. Diese helfen den „Routern“ im Netzwerk, sich schneller und genauer darüber zu verständigen, wo die Daten hinmüssen und welche Wege aktuell gut sind. Damit wird es einfacher und schneller, die richtigen Informationen zu verbreiten, ohne dass falsche oder alte Wege weitergegeben werden.

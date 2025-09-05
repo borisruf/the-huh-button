@@ -1,0 +1,7 @@
+In der Aussage geht es darum, wie man eine Subnetzmaske beschreibt. Eine Subnetzmaske ist wie eine Wegweiser für Netzwerke, um zu zeigen, wie viele Computer (Hosts) in einem Netzwerk sind.
+
+Wenn wir von „255.255.0.0“ sprechen, bedeutet das, dass die Subnetzmaske 16 Einsen hat. Man kann sich das wie eine Reihe von Kästchen vorstellen. Jedes Kästchen kann entweder eine Eins oder eine Null sein. Die Einsen stehen für die Teile des Netzwerks, und die Nullen stehen für die Computer, die zu diesem Netzwerk gehören.
+
+Die moderne Art, eine Subnetzmaske darzustellen, wird auch „klassenlos“ genannt. Das bedeutet, dass man nicht mehr nur in große Gruppen unterteilt, sondern flexibler entscheiden kann, wie viele Computer in einem Netzwerk sein sollen. Statt 255.255.0.0 können wir einfach 172.16.14.193/16 schreiben. Das „/16“ zeigt an, dass wir 16 Einsen in unserer Subnetzmaske haben.
+
+So hilft die Subnetzmaske, die IP-Adressen besser zu nutzen.

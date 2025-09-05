@@ -1,0 +1,9 @@
+Klar! Hier ist die Erklärung in einfacher Sprache:
+
+Wir haben gelernt, dass man große Computer-Netzwerke in kleinere Teile aufteilen kann. Das nennt man "Subnetting". Das hilft, wenn nicht genug IP-Adressen da sind oder wenn man mehr Sicherheit braucht. 
+
+Eine "Subnetzmaske" ist ein Werkzeug, um zu sehen, wie viele kleine Netzwerke man aus einem großen Netzwerk machen kann. Wenn wir zum Beispiel ein großes Netzwerk haben, können wir einige Zahlen, die normalerweise für Computer verwendet werden (die "Host-Bits"), ändern, um neue kleine Netzwerke zu machen. 
+
+Das bedeutet, dass wir mehr Netzwerke haben, aber weniger Computer in jedem Netzwerk ansprechen können. Wenn wir von einem großen Netzwerk unsere Adressen besser nutzen wollen, können wir Subnetze bilden.
+
+Wir werden lernen, wie man das genau macht und welche Schritte wichtig sind. Am Ende können wir aus einem großen Netzwerk viele kleine Netzwerke machen, die besser organisiert sind.

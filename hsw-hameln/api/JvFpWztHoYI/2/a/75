@@ -1,0 +1,7 @@
+In der Erklärung geht es darum, wie man Informationen (Bits) in Signale umwandelt, die man über Kabel senden kann. Es gibt verschiedene Methoden, um das zu tun. Eine einfache Methode nennt sich "Return-to-Zero". 
+
+Das funktioniert so: Wenn man eine Eins hat, gibt es einen Impuls (das bedeutet, das Signal geht nach oben), und wenn man eine Null hat, bleibt das Signal auf einem niedrigen Niveau (das heißt, es wird nicht höher, es bleibt "null").
+
+Der Nachteil bei dieser Methode ist, dass sie viel Gleichstrom hat, und es ist schwierig, den Takt (also den Rhythmus) aus dem Signal zu erkennen.
+
+Es gibt aber auch andere Methoden, die besser funktionieren. Eine davon heißt "Non-Return-to-Zero". Diese Methode ist ähnlich wie die erste, aber sie hat ihre eigene Art, die Signale zu übertragen und dabei weniger Probleme.

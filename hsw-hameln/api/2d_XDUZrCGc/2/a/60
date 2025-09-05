@@ -1,0 +1,9 @@
+Die Aussage sagt Folgendes:
+
+Wenn wir eine IP-Adresse anschauen, gibt es einen Teil, der "erstes Oktett" genannt wird. Dieser Teil hat 8 Plätze, und jeder Platz kann entweder 0 oder 1 sein (das nennt man binär). 
+
+Wenn die obersten zwei Plätze (also die höchsten Bits) im ersten Oktett wie folgt sind: der erste Platz ist 1 und der zweite Platz ist 0, dann können die Zahlen in diesem ersten Oktett zwischen 128 und 191 liegen. 
+
+Das bedeutet, wenn wir diese Zahlen in eine andere Form (dezimales System) umwandeln, erkennen wir, dass die IP-Adresse zu einer bestimmten Gruppe gehört, die "Klasse B" genannt wird. 
+
+Zusammengefasst: Wenn die ersten zwei Bits 1 und 0 sind, gehört die IP-Adresse zur Klasse B und die Zahl im ersten Teil kann zwischen 128 und 191 sein.

@@ -1,0 +1,5 @@
+Dynamische Routen sind eine Art, wie Computer in einem Netzwerk Informationen über die besten Wege austauschen können. Das passiert über spezielle Programme, die Routing-Protokolle genannt werden. 
+
+Stell dir vor, die Router sind wie Pfadfinder, die herausfinden, wie man am besten von einem Ort (A) zu einem anderen Ort (B) kommt. Wenn sich etwas ändert, wie zum Beispiel ein neuer Weg oder wenn ein Weg gesperrt ist, dann können die Router schnell die neuen Informationen untereinander teilen und ihre Routen anpassen. Das bedeutet, dass die Router selbst entscheiden, welcher Weg der beste ist, ohne dass ein Mensch das manuell eingeben muss. 
+
+Das ist praktisch, denn so kann der Datenverkehr im Netzwerk viel schneller und effizienter laufen.

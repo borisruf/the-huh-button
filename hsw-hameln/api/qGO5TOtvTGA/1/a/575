@@ -1,0 +1,7 @@
+In der oben genannten Erklärung wird zwischen statischem und dynamischem Routing unterschieden, zwei grundlegenden Methoden zur Konfiguration von Routen in Netzwerken. 
+
+**Statische Routen** sind manuell vom Netzwerkadministrator festgelegt. Der Administrator gibt spezifische Routen auf dem Router ein, um festzulegen, wie Datenpakete von einem Netzwerk (A) zu einem anderen (B) gesendet werden sollen. Diese Methode ist einfach und direkt, birgt jedoch das Risiko, dass Routen nicht mehr aktuell sind, falls sich Netzwerkverbindungen ändern oder ausfallen.
+
+**Dynamische Routen** hingegen werden mithilfe von Routing-Protokollen festgelegt, bei denen Router automatisch Informationen über das Netzwerk austauschen. Dies ermöglicht eine fortlaufende Anpassung der Routen basierend auf aktuellen Netzwerkbedingungen und optimiert den Datenverkehr entsprechend. Es gibt verschiedene Typen dynamischer Protokolle, wie Distance-Vector-Protokolle (z. B. RIP) und Link-State-Protokolle (z. B. OSPF), die unterschiedliche Ansätze zur Bestimmung der optimalen Routen nutzen.
+
+Zusammengefasst: Statische Routen bieten Kontrolle, während dynamische Routen Flexibilität und Anpassungsfähigkeit bieten.

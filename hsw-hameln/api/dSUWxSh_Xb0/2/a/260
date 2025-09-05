@@ -1,0 +1,9 @@
+In diesem Text geht es um eine Technik namens Multiplexing, die hilft, dass viele Menschen gleichzeitig über ein Kabel oder eine Leitung kommunizieren können. 
+
+Stell dir vor, du und deine Freunde wollt gleichzeitig ein Lied im Radio hören, aber es gibt nur einen einzigen Kanal. Damit jeder hören kann, müssen sie abwechselnd den Kanal nutzen. Das ist das Grundprinzip von Multiplexing: Es lässt viele Daten auf einer einzigen Verbindung laufen.
+
+Es gibt verschiedene Arten von Multiplexing. Eine dieser Arten ist das **Zeit-Multiplexing**. Hierbei wird die Zeit in kleine Stücke (Slots) unterteilt. Jeder Kommunikationspartner bekommt immer abwechselnd einen dieser Slots. Das bedeutet, dass die Leute nacheinander sprechen können, und in der Zeit, in der ein Freund spricht, kann der andere hören. Dies nennt man **synchrones** Zeit-Multiplexing.
+
+Außerdem gibt es noch das **asynchrone** Zeit-Multiplexing, aber das wird im Text noch näher erklärt. Im Unterschied zu synchronem Multiplexing können hier die Kommunikationspartner unterschiedlich lange sprechen, wann sie wollen. 
+
+Zusammengefasst: Es geht darum, wie man viele Menschen gleichzeitig kommunizieren lassen kann, indem man Zeit oder Frequenzen nutzt, damit das Kabel nicht überlastet wird.

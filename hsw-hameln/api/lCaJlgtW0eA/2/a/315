@@ -1,0 +1,5 @@
+Die Aussage sagt, dass jedes Gerät in einem Netzwerk eine MAC-Adresse hat. Eine MAC-Adresse ist wie eine persönliche Kennung für jedes Gerät, so ähnlich wie eine Hausnummer für ein Haus. 
+
+Wenn zwei Geräte, wie z.B. Computer A und Computer B, miteinander verbunden sind, benutzt der Switch, der die beiden Geräte verbindet, eine spezielle Tabelle. Diese Tabelle heißt MAC-Adresstabelle. In dieser Tabelle stehen die MAC-Adressen der Geräte, die an dem Switch angeschlossen sind. Der Switch nutzt diese Tabelle, um zu wissen, wo die Daten hin sollen. 
+
+Das hilft dem Switch, die Daten schnell und richtig von einem Gerät zum anderen zu schicken, ohne dass die Daten an alle Geräte im Netzwerk gesendet werden müssen. So wird das Netzwerk schneller und effizienter.

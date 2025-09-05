@@ -1,0 +1,11 @@
+Die Aussage beschreibt, was passiert, wenn man eine Webseite aufruft. Hier ist eine sehr einfache Erklärung:
+
+1. **Webserver ansteuern**: Wenn du eine Webseite im Internet besuchst, sendest du eine Nachricht an einen speziellen Computer, den man "Webserver" nennt. Dieser Webserver kann Informationen über Webseiten bereitstellen.
+
+2. **Seite abrufen**: Du fragst den Webserver nach einer bestimmten Webseite. Diese Anfrage kommt von deinem Computer.
+
+3. **Antwort vom Webserver**: Der Webserver schickt ein Antwort zurück zu deinem Computer. Das ist die Webseite, die du sehen möchtest.
+
+4. **Ports umkehren**: In dieser Antwort gibt es zwei wichtige Zahlen, die "Ports" genannt werden. Dein Computer hat anfangs einen bestimmten Port benutzt, um den Webserver zu fragen (die Anfrage geht raus). Wenn der Webserver dann antwortet, wird dieser ursprüngliche Port von deinem Computer zum Zielport für die Antwort. Der Port, auf den der Webserver antwortet, wird also der Quellport in der Antwort.
+
+Zusammengefasst bedeutet das: Dein Computer fragt nach einer Webseite und bekommt eine Antwort vom Webserver zurück, wobei die Ports (die Zahlen, die den Kommunikationsweg angeben) sich "umkehren".

@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, wie Funkverbindungen funktionieren und was passiert, wenn die Frequenzen, die sie verwenden, sich überschneiden. 
+
+Stellen Sie sich vor, verschiedene Geräte, wie Handys oder Computer, senden und empfangen Informationen über Funkwellen. Jede dieser Wellen hat eine besondere Frequenz, wie ein Radiosender. Wenn zwei Sender mit ähnlichen Frequenzen gleichzeitig senden, können sie sich gegenseitig stören – das nennt man Interferenzen. 
+
+Wenn es viel Interferenzen gibt, wird das Signal schwächer, und die Geschwindigkeit, mit der die Informationen gesendet werden, wird langsamer. Das ist wie wenn mehrere Autos versuchen, gleichzeitig durch eine enge Straße zu fahren – es gibt Staus, und alle kommen langsamer voran.
+
+Um das zu vermeiden, müssen die Kanäle, die diese Geräte zum Senden nutzen, gut ausgewählt werden. Wenn zu viele Geräte mit ähnlichen Frequenzen gleichzeitig senden, wird es noch schwieriger, störungsfrei zu arbeiten. Daher ist es wichtig, verschiedene Kanäle zu wählen, die sich nicht überlappen, damit alle Geräte gut funktionieren können.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass beim Übertragen von Daten in einem Netzwerk normalerweise alle Datenpakete gleich behandelt werden. Es gibt keine spezielle Bevorzugung für bestimmte Daten. Man versucht einfach, alle Daten so gut wie möglich zu übertragen, ohne einer Gruppe von Daten mehr Vorrang zu geben als einer anderen. 
+
+Das Best-Effort-Prinzip heißt, dass das Netzwerk sein Bestes gibt, um alles zu übertragen, aber es gibt keine Garantie, dass alles perfekt klappt oder dass keine Daten verloren gehen. 
+
+In unserem konkreten Beispiel, wo es um Telefonate über das Internet (Voice over IP) geht, ist es wichtig, dass die Sprache eine hohe Qualität hat. Deshalb müssen wir sicherstellen, dass die Sprachdaten Vorrang bekommen, damit sie schnell und klar ankommen, anstatt gleich behandelt zu werden wie andere Daten.

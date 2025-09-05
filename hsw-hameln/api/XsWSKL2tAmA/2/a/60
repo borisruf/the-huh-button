@@ -1,1 +1,7 @@
-Eine IP-Adresse ist wie eine Adresse für Computer im Internet. Sie besteht aus zwei Teilen. Ein Teil nennt man Netzwerkanteil und der andere Teil ist der Geräteteil oder Hostanteil. Diese Teile werden durch etwas namens Subnetzmaske bestimmt. Man muss also immer diese Subnetzmaske berücksichtigen, wenn man eine IP-Adresse betrachtet. Es ist so, als wenn man bei einer Adresse nicht nur die Straße, sondern auch die Stadt berücksichtigen muss, um den richtigen Ort zu finden.
+Eine IP-Adresse besteht aus vier Zahlen, die durch Punkte getrennt sind, wie zum Beispiel 172.16.14.193. Jede dieser Zahlen nennt man ein Oktett. 
+
+Eine IP-Adresse hat zwei Teile: einen Netzanteil und einen Host-Anteil. Der Netzanteil zeigt, in welchem Netzwerk die Adresse ist, und der Host-Anteil zeigt, welches Gerät (z.B. Computer oder Smartphone) in diesem Netzwerk ist.
+
+Um zu wissen, welcher Teil der Adresse das Netzwerk und welcher Teil das Gerät ist, brauchen wir die Subnetzmaske. Die Subnetzmaske hilft uns zu verstehen, wie die IP-Adresse aufgeteilt ist.
+
+Deshalb ist es wichtig, eine IP-Adresse immer zusammen mit ihrer Subnetzmaske zu betrachten, um genau zu wissen, was sie bedeutet.

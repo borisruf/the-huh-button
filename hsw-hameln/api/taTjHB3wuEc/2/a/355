@@ -1,0 +1,7 @@
+Die Aussage besagt, dass beim Sliding-Window-Verfahren, das zur Datenübertragung verwendet wird, Sender und Empfänger miteinander sprechen müssen. Dabei senden sie bestimmte Nachrichten, um sicherzustellen, dass alles richtig funktioniert. 
+
+Stellen wir uns vor, es gibt einen Sender, der sehr schnell Daten sendet, und einen Empfänger, der nicht so schnell ist. Damit der Sender nicht zu viele Daten auf einmal schickt und der Empfänger überfordert wird, müssen sie sich absprechen. Das nennt man Flusssteuerung. 
+
+Das Sliding-Window-Verfahren hilft dabei. Es ermöglicht dem Sender, eine bestimmte Anzahl an Daten zu schicken, ohne sofort auf eine Bestätigung des Empfängers zu warten. Wenn der Empfänger die Daten erhält, schickt er eine Rückmeldung, dass alles angekommen ist und teilt dem Sender mit, wie viele Daten er als Nächstes schicken kann. Dieses Hin-und-her ist wichtig, damit beide Seiten gut zusammenarbeiten und die Verbindung schnell und effizient bleibt. 
+
+Kurz gesagt: Beim Sliding-Window müssen Sender und Empfänger ständig miteinander kommunizieren, um sicherzustellen, dass die Datenübertragung gut funktioniert und keiner überfordert wird.

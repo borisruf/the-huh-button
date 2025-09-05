@@ -1,0 +1,5 @@
+Die Aussage sagt aus, dass Kollisionen nur in bestimmten Bereichen eines Netzwerks auftreten. Das bedeutet, dass, wenn mehrere Geräte gleichzeitig versuchen, Daten zu senden, es zu Problemen kommen kann. Aber nur in den Bereichen, die durch bestimmte Geräte (wie Switches) verbunden sind, kann das passieren.
+
+Die Aussage erwähnt auch eine "Broadcast-Domäne". Das ist einfach ein Bereich im Netzwerk, in dem eine Nachricht, die an alle gesendet wird (Broadcast), alle Geräte erreichen kann. Solche Nachrichten erreichen Geräte, die in der gleichen Broadcast-Domäne sind, aber nicht die Geräte in anderen Bereichen.
+
+Zusammengefasst: Kollisionen passieren nur in bestimmten Teilen des Netzwerks, und es gibt Bereiche, wo Nachrichten an alle gesendet werden können, ohne dass es zu Kollisionen kommt.

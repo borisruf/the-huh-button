@@ -1,7 +1,9 @@
-In diesem Text geht es um Netzwerke und Protokolle auf Computern, konkret um TCP und IP. Das sind Methoden, wie Computer miteinander reden und Daten austauschen.
+Die Aussage bedeutet, dass es wichtig ist, dass die Daten, die zwischen Computern ausgetauscht werden, wirklich ankommen und richtig sind. Wenn die Daten nicht ankommen, gibt es einen "Timeout", das heißt, dass der Computer wartet und es dann noch einmal versucht, die Daten zu senden. 
 
-Es gibt verschiedene Arten von Daten, die von einem Ort zum anderen geschickt werden können. Jede Art hat eine eigene Nummer - das nennt man Portnummern. Mit diesen Nummern wissen die Computer, um welche Art von Daten es sich handelt und wo sie hinsollen.
+Bei dieser ganzen Kommunikation zwischen den Computern gibt es bestimmte Regeln. Diese Regeln helfen dabei, sicherzustellen, dass die Daten richtig sind. Dazu gehören Dinge wie:
 
-Manchmal kann es passieren, dass Daten unterwegs verloren gehen. Dann gibt es einen "Timeout", eine Art Wecker. Wenn der Wecker klingelt und die Daten sind nicht angekommen, werden sie nochmal geschickt. Das nennen wir "Neuübertragung".
+- **Bestätigungen**: Der Empfänger sagt "Ich habe die Daten bekommen."
+- **Sequenznummern**: Jede Datenübertragung wird nummeriert, sodass man weiß, in welcher Reihenfolge sie geschickt wurden.
+- **Abschluss der Übertragung**: Am Ende wird bestätigt, dass alles erfolgreich übertragen wurde.
 
-Alles zusammen - die verschiedenen Arten von Daten, das Überprüfen ob sie angekommen sind und das Wiederholen falls sie verloren gegangen sind - nennt man "Kommunikation".
+Insgesamt sorgt diese Art der Kommunikation dafür, dass auch wenn etwas schiefgeht, die Daten erfolgreich verschickt und empfangen werden.

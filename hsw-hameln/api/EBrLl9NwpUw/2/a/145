@@ -1,3 +1,9 @@
-In unserem Computer-Netzwerk benutzen wir viele Verbindungen und Schalter (Switches), um sicherzustellen, dass alles gut funktioniert, auch wenn ein Teil davon kaputt geht. Aber genau dadurch kann ein Problem auftreten: Datenpakete, die von einem Ort zum anderen geschickt werden sollen, können sich im Kreis bewegen und nirgendwo ankommen. Das passiert, weil sie von all den zusätzlichen Verbindungen verwirrt werden. Dieses Chaos in unserem Netzwerk nennen wir "Broadcast-Storm" und kann alles verlangsamen oder sogar komplett stoppen. 
+In einem Netzwerk gibt es Geräte, die Switches heißen. Diese Switches helfen, Daten von einem Punkt zum anderen zu schicken. Wenn wir viele Switches haben, um sicherzustellen, dass das Netzwerk immer funktioniert (das nennt man Redundanz), können wir ein Problem bekommen: Es entstehen Schleifen.
 
-Um dieses Problem zu verhindern, benutzen wir etwas, das sich Spanning-Tree-Protokoll nennt. Das ist wie eine Art Straßenkarte für die Datenpakete. Wenn wir dieses Protokoll aktivieren, erlauben wir den Schaltern nur noch, Informationen über diese Karte auszutauschen. Alle anderen Daten werden erstmal gestoppt. Auf diese Weise stellen wir sicher, dass die Datenpakete ihren Weg finden und unser Netzwerk gut funktioniert.
+Stell dir vor, du hast zwei Straßen, die in einem Kreis verbunden sind. Wenn ein Auto (das sind die Daten) immer im Kreis fährt und nicht weiß, wo es hin soll, bleibt es einfach immer auf der Straße. Das macht das Netzwerk sehr unordentlich, weil all die Autos sich gegenseitig stören und niemals ankommen. 
+
+Wenn das passiert, nennt man das einen Broadcast-Sturm. Die Switches können nicht mehr damit umgehen, und das Netzwerk wird langsam oder kaputt. 
+
+Um das zu lösen, gibt es ein Verfahren, das Spanning-Tree-Protokoll heißt. Das funktioniert so: Wenn wir es einschalten, sagen die Switches: "Stop! Wir blockieren jetzt einige Verbindungen." Das bedeutet, dass die Switches sich nicht mehr normal miteinander unterhalten und nur noch Informationen über das Spanning-Tree-Protokoll austauschen. 
+
+Das sorgt dafür, dass keine Daten mehr in den Schleifen hin- und hergeschickt werden, und das Netzwerk bleibt ordentlich und funktioniert gut.

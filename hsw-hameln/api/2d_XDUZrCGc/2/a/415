@@ -1,0 +1,8 @@
+Die Aussage bedeutet einfach:
+
+- 16 ist eine spezielle IP-Adresse, die man in einem privaten Netzwerk verwenden kann (nicht im Internet).
+- Der Router ist wie die Tür, die dein Zuhause mit dem Internet verbindet.
+- Die öffentliche IP-Adresse ist die Adresse, die das Internet sieht, wenn jemand nach deinem Netzwerk sucht.
+- Alle Computer in deinem Netzwerk (unterhalb des Routers) nutzen diese eine öffentliche IP-Adresse, um mit dem Internet zu kommunizieren. 
+
+Das ist ein bisschen so, wie wenn du in einem großen Gebäude mit vielen Wohnungen wohnst. Alle Wohnungen haben ihre eigene Nummer, aber alle Wohnungen benutzen die gleiche Adresse des Gebäudes, wenn sie Post erhalten.

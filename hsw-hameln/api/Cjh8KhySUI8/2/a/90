@@ -1,0 +1,3 @@
+Echtzeitanwendungen sind Programme oder Dienste, die sofortige Reaktionen brauchen, ohne Verzögerung. Ein gutes Beispiel dafür ist IP-Telefonie oder Voice over IP. Das bedeutet, wenn du jemanden anrufst, möchtest du, dass dein Gespräch sofort übertragen wird, ohne lange Wartezeiten. 
+
+Wenn man diese Anwendungen benutzt, ist es wichtiger, dass die Daten schnell ankommen, auch wenn manchmal etwas verloren geht. Das ist anders als bei anderen Anwendungen, wo es wichtig ist, dass alle Daten fehlerfrei und in der richtigen Reihenfolge ankommen. Echtzeitanwendungen wie IP-Telefonie müssen schnell sein, damit die Kommunikation flüssig bleibt, und deshalb verwenden sie das UDP-Protokoll, das weniger Sicherheitsmechanismen hat, aber dafür viel schneller ist.

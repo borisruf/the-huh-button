@@ -1,1 +1,7 @@
-Wir benutzen Zahlen namens "Portnummern", um sicherzustellen, dass Information, die über das Internet an unseren Computer gesendet wird, auch an die richtige Stelle gelangt. Man kann sich das wie eine Art Adresse vorstellen. Jede Information, die an unseren Computer gesendet wird, hat eine solche Adresse. Die Adresse besteht aus der "IP-Adresse" (das ist die Adresse des Computers selbst) und einer "Portnummer" (die zeigt, an welche Anwendung auf dem Computer die Information gehen soll). Wenn wir die IP-Adresse und die Portnummer zusammennehmen, bekommen wir ein "Socket". Das ist wie eine spezielle Adresse für jede einzelne Information, die an unseren Computer gesendet wird.
+Okay, ich erkläre das einfach:
+
+Wenn Computer miteinander sprechen, brauchen sie Adressen, damit sie wissen, wohin sie die Informationen schicken sollen. Diese Adresse nennt man IP-Adresse. Aber nur mit der IP-Adresse wissen die Computer nicht, welche Anwendung die Informationen bekommen soll. Deshalb nutzen sie Portnummern.
+
+Stell dir vor, ein Computer ist wie ein großes Gebäude (die IP-Adresse) mit vielen Räumen (die Portnummern). Jeder Raum hat eine Nummer. Wenn Informationen in das Gebäude kommen, helfen die Portnummern, die Informationen in den richtigen Raum zu bringen, also zur richtigen Anwendung. 
+
+Wenn wir die IP-Adresse und die Portnummer zusammennehmen, haben wir etwas, das wir "Socket" nennen. Ein Socket ist also wie die genaue Adresse eines bestimmten Raumes im Gebäude. So wissen der Computer, wohin die Informationen geschickt werden sollen.

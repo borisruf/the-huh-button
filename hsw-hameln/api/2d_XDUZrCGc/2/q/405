@@ -1,0 +1,1 @@
+16, das ist also eine Adresse oder ein Netzwerk aus dem privaten IP-Adressbereich.  Wir sehen oberhalb des Routers, also Richtung Internet, eine öffentliche IP-Adresse und jeder Rechner, der jetzt unterhalb meines Routers hängt, würde nach außen hin mit dieser einen öffentlichen IP-Adresse sichtbar sein.

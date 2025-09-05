@@ -1,1 +1,5 @@
-In diesem Text geht es darum, dass wir uns mit den Themen "TCP" und "IP" auseinandersetzen wollen. Du kennst sicherlich bereits Beispiele dafür, wie die IP-Adresse. Aber was macht TCP eigentlich genau? Das wollen wir genauer unter die Lupe nehmen. Alles, was wir bisher gelernt haben, basiert auf einem Modell - dem TCP-IP-Modell oder auch DoD-Modell genannt. Dieses Modell bildet die Grundlage für alle Netzwerke und auch für das OSI-Modell, welches wir heute kennen.
+Das TCP-IP-Modell ist wie ein wichtiges Grundgerüst für Computer-Netzwerke. Es hilft, dass die Computer untereinander gut kommunizieren können. Das OSI-Modell, das wir auch lernen, basiert auf diesem TCP-IP-Modell. 
+
+In dieser Lektion schauen wir uns zwei Hauptteile von diesem Modell genauer an: TCP und IP. TCP kümmert sich darum, dass die Nachrichten sicher und richtig ankommen, während IP dafür sorgt, dass die Nachrichten die richtige Adresse erreichen. Die IP-Adresse ist dabei wie eine Wohnadresse für den Computer. 
+
+Zusammengefasst: Das TCP-IP-Modell ist sehr wichtig, weil es die Grundlage für die Netzwerke und auch für das OSI-Modell ist, das wir später anschauen werden.

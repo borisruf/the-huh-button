@@ -1,1 +1,5 @@
-Wir wollen sicherstellen, dass viele Daten gleichzeitig gesendet werden können, bevor wir eine Bestätigung bekommen, dass sie angekommen sind. Damit das funktioniert, brauchen wir eine Art Absprache zwischen dem, der die Daten sendet und dem, der sie empfängt. Diese Absprache heißt "Fenster". Beide Seiten stimmen sich also ab, wie viele Daten gesendet werden sollen, bevor eine Bestätigung kommt.
+Wir wollen, dass Daten schneller zwischen Computern geschickt werden. Normalerweise müssen wir warten, bis ein Computer sagt, dass er die Daten bekommen hat, bevor wir mehr Daten senden. Das kann lange dauern. 
+
+Um das schneller zu machen, benutzen wir ein „Fenster“. Dieses Fenster hilft den Computern, sich darauf zu einigen, wie viele Daten sie gleichzeitig senden können, ohne auf eine Bestätigung zu warten. Das bedeutet, dass der Computer, der die Daten schickt, eine bestimmte Menge Daten senden kann, bevor er fragt, ob alles angekommen ist. 
+
+So können die Daten schneller ankommen, weil nicht ständig gewartet werden muss.

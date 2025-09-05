@@ -1,0 +1,7 @@
+Die Aussage sagt, dass wir aus einer langen Reihe von Einsen und Nullen (das ist der Bitstrom) ein Signal machen, das wir dann übermitteln können. 
+
+Ein Signal ist wie eine Welle, die durch den Raum geht. Man kann sich das wie das Wasser in einem Fluss vorstellen: Es fließt und verändert sich ständig. Um unsere Informationen zu senden, schauen wir uns das Signal an einem bestimmten Ort und zu bestimmten Zeiten an. Das nennt man Abtasten. 
+
+Wir nehmen das Signal also regelmäßig und schauen uns, wie hoch es gerade ist (das nennt man Wertdiskrete Abtastung). Wenn wir beide Arten von Abtastungen (die zeitliche und die wertmäßige) kombinieren, verwandeln wir das Signal in ein digitales Signal, das wir dann über unsere Kabel oder Drahtlos übertragen können. 
+
+Kurz gesagt: Wir verwandeln unsere Daten in eine Form, die wir übertragen können, damit andere sie empfangen und verstehen können.

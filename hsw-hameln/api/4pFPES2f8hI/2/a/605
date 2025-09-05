@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass ich herausfinden kann, zu welchem Netzwerk meine IP-Adresse gehört. In diesem Beispiel haben wir die IP-Adresse 192.168.10.195 und eine spezielle Maske, die wir Subnetzmaske nennen und die hier 27 ist. 
+
+Mit dieser Subnetzmaske kann ich die erste Adresse des Netzwerks berechnen. Das heißt, ich schaue mir die Teile der Adresse an, die zum Netzwerk gehören, und das gibt mir die Netzwerknummer. So weiß ich, in welchem Teil des Internets oder Netzwerks ich mich befinde. 
+
+Die Subnetzmaske hilft mir also zu verstehen, welche IP-Adressen in meinem Netzwerk sind und welche nicht.

@@ -1,0 +1,9 @@
+Die Aussage bedeutet, dass es bei IP-Version 6 Adressen Regeln gibt, wie man sie schreibt. Diese Regeln sind wichtig, damit man die Adressen leichter lesen und schreiben kann. Ein besonders einfacher Teil ist, dass man Nullen, die am Anfang eines Blocks stehen, einfach weglassen kann. 
+
+Hier sind die wichtigsten Punkte:
+
+1. Eine IP-Version 6 Adresse besteht aus mehreren Blöcken.
+2. In jedem Block kann man vierstellige Zahlen (Hexadezimalzahlen) haben.
+3. Wenn in einem Block eine Zahl wie 03 steht, kann man die Null davor weglassen, sodass man nur 3 schreibt. 
+
+Das macht die Adressen kürzer und einfacher.

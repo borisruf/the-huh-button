@@ -1,0 +1,9 @@
+In dieser Aussage geht es darum, wie man Daten, die man übertragen möchte, gut organisiert und sicher macht. 
+
+1. **Nutzdaten:** Das sind die wichtigen Informationen, die wir senden wollen.
+2. **Zusätzliche Informationen:** Um die Nutzdaten sicher zu senden, fügen wir noch Informationen hinzu, die helfen, Fehler zu erkennen und zu korrigieren. Diese nennt man Steuerungs- und Fehlerkorrekturinformationen.
+3. **Kopfteil und Nachspann:** Außerdem gibt es am Anfang und am Ende der Daten noch spezielle Teile, die man Kopfteil und Nachspann nennt. Diese helfen ebenfalls, die Daten richtig zu verarbeiten.
+4. **Rahmenbildung:** Alles zusammen - die Nutzdaten, das Kopfteil und der Nachspann - nennt man Rahmenbildung.
+5. **Ziel:** Durch diese zusätzlichen Informationen können wir die Daten sicher von einem Ort zum anderen schicken und sicherstellen, dass wir merken, wenn etwas falsch gelaufen ist.
+
+In einfachen Worten: Wenn wir Daten senden, sorgen wir dafür, dass sie gut verpackt sind, damit sie sicher ankommen und wir wissen, ob alles richtig ist.

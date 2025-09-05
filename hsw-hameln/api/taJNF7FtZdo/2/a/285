@@ -1,0 +1,5 @@
+Die Aussage bedeutet einfach gesagt: Je nachdem, wie viele Daten gerade durch ein Netzwerk geschickt werden, kann sich die beste Route, die ein Datenpaket nehmen sollte, ändern. Das ist wie im Straßenverkehr – wenn viel Verkehr ist, wählt man vielleicht einen anderen Weg. 
+
+In einem Netzwerk gibt es Router, die wie Kreuzungen in einer Stadt funktionieren. Wenn ein Datenpaket an einem Router ankommt, schaut der Router, ob er das Ziel des Pakets ist. Wenn nicht, schaut er in einer Tabelle nach, um zu entscheiden, wo das Paket als nächstes hingehen soll. 
+
+Die Router müssen die aktuellen Daten berücksichtigen, um die schnellste und beste Route zu finden, ähnlich wie man beim Autofahren die aktuelle Verkehrslage checkt, um Staus zu vermeiden.

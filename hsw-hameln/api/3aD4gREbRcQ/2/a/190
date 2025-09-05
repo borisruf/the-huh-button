@@ -1,0 +1,5 @@
+In der Darstellungsschicht, also in der Schicht 6 des OSI-Modells, geht es darum, wie die Informationen aussehen und in einem bestimmten Format dargestellt werden. Diese Schicht sorgt dafür, dass die Daten richtig umgewandelt werden, damit sie für den Empfänger verständlich sind. 
+
+Wenn ich eine E-Mail schreibe, benutze ich ein Format namens ASCII, das ist eine Art Code, um die Buchstaben und Zeichen darzustellen. Wenn ich diese E-Mail verschicke, wird sie beim Empfänger auch wieder in diesem ASCII-Code angezeigt. 
+
+Das heißt, die Darstellungsschicht sorgt dafür, dass alles so aussieht, wie es aussehen soll, damit der Empfänger die E-Mail genau so lesen kann, wie ich sie geschrieben habe.

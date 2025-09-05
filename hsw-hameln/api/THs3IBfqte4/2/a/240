@@ -1,0 +1,3 @@
+Die Aussage besagt Folgendes: Wenn wir in einer Sekunde 6 Bit Daten übertragen, dann ist die Geschwindigkeit der Übertragung 6 Bit pro Sekunde. In diesem speziellen Fall, wo die Daten nur die Werte 0 oder 1 haben (man nennt das binär), ist die Geschwindigkeit auch 6 Baud. Baud ist ein Begriff, der beschreibt, wie oft sich das Signal ändert. 
+
+Das bedeutet, in diesem binären Fall sind Bitrate und Baudrate gleich, weil wir nur zwei Zustände haben: entweder eine 0 oder eine 1. Das gilt aber nur, wenn wir nur diese zwei Werte verwenden, also nur im binären Fall.

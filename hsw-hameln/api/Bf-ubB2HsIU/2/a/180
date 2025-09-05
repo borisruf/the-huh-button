@@ -1,11 +1,11 @@
-Das ist etwas kompliziert, aber ich versuche es mal einfacher zu erklären. 
+In einfacheren Worten gesagt, handelt die Aussage von der Kommunikation in einem Netzwerk. Es gibt verschiedene Schichten, die dabei helfen, dass Daten von einem Ort zum anderen geschickt werden. 
 
-Wir sprechen hier von Computernetzwerken und wie sie Daten austauschen. Ein Computer hat eine eigene ID, die man MAC-Adresse nennt. Eine IP-Adresse ist wie die Straßenadresse eines Computers im Netzwerk. ARP ist ein Weg, um herauszufinden, welche MAC-Adresse zu welcher IP-Adresse gehört. 
+1. **ARP**: Das hilft, die physikalische Adresse (MAC-Adresse) eines Geräts mit seiner Internetadresse (IP-Adresse) zu verbinden. So findet man heraus, wo die Daten hingeschickt werden sollen.
 
-Man kann sich Routing-Protokolle wie digitale Straßenkarten vorstellen, die den Daten zeigen, wohin sie gehen sollen. 
+2. **Routing-Protokolle**: Diese sorgen dafür, dass Router (Geräte, die Daten weiterleiten) miteinander reden können und den besten Weg für die Daten finden.
 
-Das OSI-Modell und das TCP-IP-Modell sind wie Baupläne für Netzwerke. 
+3. **Transportschicht**: Diese Schicht kümmert sich um den sicheren Transport von Daten. Es gibt zwei wichtige Protokolle hier:
+   - **TCP**: Stellt sicher, dass die Daten richtig und vollständig ankommen.
+   - **UDP**: Funktioniert schneller, aber man hat nicht immer die Garantie, dass die Daten sicher ankommen.
 
-Bei der vierten Schicht des OSI-Modells oder der Transportschicht des TCP-IP-Modells geht es darum, wie die Daten von einem Ort zum anderen gesendet werden. 
-
-Es gibt zwei Arten, wie die Daten gesendet werden können: das TCP-Protokoll und das UDP-Protokoll. Wir schauen uns das TCP-Protokoll an. Das TCP-Protokoll ist wie ein Sicherheitsbeamter, der sicherstellt, dass die Daten sicher ans Ziel kommen.
+Insgesamt geht es darum, dass Daten in einem Netzwerk organisiert und sicher von einem Punkt zu einem anderen geschickt werden.

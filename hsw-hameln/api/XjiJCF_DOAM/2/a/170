@@ -1,0 +1,5 @@
+IP-Adressen sind wie Adressen für dein Zuhause, nur für Geräte im Internet. Jedes Gerät, wie Handys, Tablets oder Drucker, braucht eine eigene IP-Adresse, damit es im Internet gefunden werden kann. 
+
+Eine IP-Adresse hat 32 Bit, was bedeutet, dass es eine bestimmte Anzahl an möglichen Adressen gibt. Aber immer mehr Geräte brauchen Adressen, zum Beispiel, weil immer mehr Dinge mit dem Internet verbunden sind. Das führt dazu, dass es nicht mehr genug IP-Adressen für alle Geräte gibt. 
+
+Das nennt man einen „knappwerdenden Adressraum“. Das ist ein Problem, weil wir bald nicht mehr genug Adressen haben, um allen Geräten im Internet eine eigene Adresse zu geben. Deshalb gibt es einen Wechsel von der alten Version der IP-Adressen (IPv4) zu einer neuen Version (IPv6), die viel mehr Adressen bietet.

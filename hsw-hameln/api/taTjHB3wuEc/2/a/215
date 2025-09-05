@@ -1,0 +1,3 @@
+Die Aussage bedeutet einfach, dass der Empfänger, der die Daten bekommt, ein bestimmtes "Fenster" braucht, um die Daten richtig zu empfangen. Dieses Fenster zeigt, wie viele Daten der Empfänger auf einmal verarbeiten kann. Wenn der Sender viele Daten schnell sendet, muss der Empfänger auch genug Platz im Fenster haben, um diese Daten zu bekommen. 
+
+Es ist wichtig, dass das Fenster des Empfängers mindestens genauso groß ist wie das des Senders. So können beide gut miteinander arbeiten und sicherstellen, dass die Daten schnell und ohne Probleme ankommen. Wenn der Empfänger nicht genug Platz hat, kann er die Daten nicht schnell genug verarbeiten, und das kann zu Verzögerungen führen.

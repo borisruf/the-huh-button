@@ -1,3 +1,7 @@
-Wenn wir in unserem Computer-Netzwerk zusätzliche Verbindungen und Geräte (wie "Switches") einbauen, um es sicherer zu machen, kann das auch Probleme verursachen. Es kann passieren, dass wir damit eine Art Kreisverkehr schaffen, in dem die Datenpakete, die die Computer im Netzwerk austauschen, sich endlos im Kreis bewegen, weil sie ihren Zielort nicht finden können. 
+Stell dir vor, du hast mehrere Straßen, die sich kreuzen, und du baust viele Ampeln. Manchmal kann es so sein, dass die Ampeln nicht richtig reagieren und die Autos einfach im Kreis fahren, weil sie nicht wissen, wo sie hin sollen. 
 
-Das kommt zum Beispiel vor, wenn ein Paket falsch adressiert ist. Statt anzukommen, bewegt es sich immer weiter im Kreis. Diese Situation heißt "Broadcast-Storm". Das ist schlecht, weil es das Netzwerk belastet und verlangsamt.
+In einem Netzwerk passiert Ähnliches mit den Switches. Wenn sie nicht wissen, wo die Daten hingehen sollen, können sie die Daten ständig hin- und her senden, anstatt sie richtig zu schicken. Das nennt man eine Schleife. 
+
+Wenn ein Paket von Daten immer wieder in dieser Schleife bleibt, nennt man das einen "Broadcast-Storm". Das bedeutet, dass die Daten im Netzwerk kein Ziel finden und dadurch stundenlang im Kreis fahren und so das ganze Netzwerk lahmlegen können. 
+
+Das ist nicht gut, weil niemand die Daten empfangen kann, die sie eigentlich brauchen.

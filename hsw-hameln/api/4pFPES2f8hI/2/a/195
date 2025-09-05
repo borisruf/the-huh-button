@@ -1,0 +1,5 @@
+Subnetzmasken helfen, große Netzwerke in kleinere Netzwerke, die Subnetze, aufzuteilen. Das machen wir, weil es nicht mehr genug IP-Adressen gibt. Früher hat man viele Adressen für wenig Geräte vergeben, was zu einem Mangel geführt hat.
+
+Wenn wir Subnetze bilden, ändern wir die Subnetzmaske. Das bedeutet, wir machen aus den letzten Nullen in der Adresse neue Bits, sodass wir kleinere Netzwerke erstellen. Dadurch gibt es weniger Geräte in jedem Netzwerk, was die Sicherheit erhöht und verhindert, dass wir zu viele ungenutzte Adressen haben.
+
+Ein Beispiel für eine IP-Adresse und ihre Subnetzmaske ist 172.16.14.193 mit der Maske 255.255.0.0. Die Subnetzmaske sagt, wie viele Geräte zu einem bestimmten Netzwerk gehören.

@@ -1,0 +1,7 @@
+Statisches Routing und dynamisches Routing sind zwei Wege, wie Routern helfen, Daten von einem Ort zum anderen zu schicken.
+
+- **Statisches Routing**: Hier muss eine Person, die dafür zuständig ist (wir nennen sie Administrator), bestimmte Informationen auf den Routern eingeben. Diese Informationen sind die Wege, die die Daten nehmen sollen, um von einem Router zu einem anderen zu gelangen. Man kann sich das wie eine Karte vorstellen, die einmal gezeichnet wird. Wenn sich etwas ändert, muss die Person die Karte manuell aktualisieren.
+
+- **Dynamisches Routing**: Bei dieser Methode arbeiten Routern miteinander, um selbst herauszufinden, wie die besten Wege sind. Die Router tauschen ständig Informationen aus und passen sich automatisch an, wenn sich etwas ändert. Man könnte sagen, sie sind wie intelligente Reiseführer, die immer den besten Weg finden.
+
+Zusammengefasst: Statisches Routing ist wie eine feste Anleitung, die man einmal aufschreibt, während dynamisches Routing flexibel ist und die Router ständig kommunizieren, um die besten Wege zu finden.

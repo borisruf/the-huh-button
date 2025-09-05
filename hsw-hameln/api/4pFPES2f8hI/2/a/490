@@ -1,0 +1,9 @@
+Okay, ich erkläre das in sehr einfacher Sprache:
+
+Wenn wir ein großes Netzwerk haben und es in kleinere Teile (Subnetze) aufteilen, dann müssen wir uns auch anschauen, wie viele Computer (Hosts) wir in jedem dieser kleinen Teile haben können.
+
+Das Wichtigste dabei sind die "Nullen" in einer speziellen Zahl, der Subnetzmaske. Diese Nullen zeigen uns, wie viele Plätze für Computer wir haben. 
+
+Wenn wir die Nullen zählen, sehen wir, wie viele Computer wir in einem Subnetz ansprechen können. Je mehr Nullen wir haben, desto mehr Computer können wir verbinden. 
+
+Wir haben also zwei Dinge: Wir teilen das große Netzwerk in kleinere Netzwerke auf, und wir zählen die Nullen, um zu wissen, wie viele Computer in jedem kleinen Netzwerk sein können.

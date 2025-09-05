@@ -1,0 +1,15 @@
+Okay, lass uns das einfach erklären:
+
+Wir sprechen darüber, wie wir Fehler bei der Übertragung von Daten erkennen können. Wenn Daten gesendet werden, können sie manchmal kaputtgehen oder sich verändern. Um zu wissen, ob alles in Ordnung ist, benutzen wir eine Methode namens CRC, was für "zyklischer Redundanz-Check" steht.
+
+Hier sind die Hauptpunkte:
+
+1. **Fehlererkennung**: Manchmal gibt es Fehler in den Daten. Wir wollen sicherstellen, dass die Daten, die wir bekommen, die richtigen sind.
+
+2. **Prüfziffer**: Um zu überprüfen, ob die Daten richtig sind, fügen wir eine Art Zusatzinfo, genannt Prüfziffer, hinzu. Diese hilft uns zu sehen, ob etwas nicht stimmt.
+
+3. **Kleine und große Fehler**: Bei weniger wichtigen Daten, wie Musik- oder Videoübertragungen, können kleine Fehler oft ignoriert werden. Aber wichtige Daten, wie Banküberweisungen, müssen genau richtig sein.
+
+4. **Fehler beheben**: Wenn ein Fehler gefunden wird, gibt es Möglichkeiten, das zu lösen. Entweder wird die Datenübertragung automatisch korrigiert oder der Sender wird gebeten, die Daten erneut zu senden.
+
+Zusammengefasst: Mit dem CRC-Verfahren können wir sicherstellen, dass die Daten, die wir empfangen, auch wirklich die richtigen sind.

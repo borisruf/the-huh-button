@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes in einfacher Sprache:
+
+Wenn wir ein großes Netzwerk in kleinere Teile, sogenannte Subnetze, aufteilen, können wir auch schauen, wie viele Computer (Hosts) in jedem dieser kleineren Teile Platz haben. Dabei ist es wichtig, die "Nullen" in der Subnetzmaske zu zählen. Diese Nullen zeigen, wie viele Computer wir in einem Subnetz verbinden können. Je mehr Nullen wir haben, desto mehr Computer können wir in diesem kleineren Netzwerk ansprechen.
+
+Um es noch einfacher zu erklären: Stell dir vor, wir haben viele Plätze in einem Garten (das große Netzwerk) und wir machen Gruppen mit weniger Plätzen (Subnetze). Die leeren Plätze (die Nullen) sagen uns, wie viele Personen in jeder Gruppe Platz haben können. Wenn wir wissen, wie viele leere Plätze es gibt, können wir also herausfinden, wie viele Personen (Hosts) wir in die Gruppe einladen können.

@@ -1,0 +1,11 @@
+Wenn wir Subnetze bilden, teilen wir ein großes Netzwerk in kleinere Teile auf. Das hilft uns aus mehreren Gründen:
+
+1. **Platz sparen**: Es gibt nicht genug IP-Adressen für alle Geräte weltweit. Wenn wir kleinere Netzwerke (Subnetze) machen, können wir die Adressen besser verwenden und sparen Platz.
+
+2. **Bessere Sicherheit**: In einem großen Netzwerk kann jeder auf viele Informationen zugreifen. Wenn wir es in kleinere Teile aufteilen, können wir den Zugriff besser kontrollieren und die Sicherheit erhöhen. Zum Beispiel können wir bestimmen, wer in welchem Teil des Netzwerks arbeiten kann.
+
+3. **Einfachere Verwaltung**: Wenn ein Netzwerk sehr groß ist, wird es schwierig, es zu verwalten. Kleinere Subnetze sind einfacher zu organisieren und zu überwachen. Das hilft Administratoren, Probleme schneller zu finden und zu lösen.
+
+4. **Weniger Störungen**: Wenn in einem großen Netzwerk viele Geräte gleichzeitig aktiv sind, kann es zu Störungen kommen. In kleineren Subnetzen sind weniger Geräte gleichzeitig verbunden, was die Leistung verbessert.
+
+Zusammengefasst: Durch die Bildung von Subnetzen verbessern wir die Nutzung von IP-Adressen, erhöhen die Sicherheit, machen die Verwaltung einfacher und verringern mögliche Störungen im Netzwerk.

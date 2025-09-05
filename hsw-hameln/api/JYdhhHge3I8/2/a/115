@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es eine Methode gibt, wie Daten von einem Ort zu einem anderen geschickt werden. Bei der „Store-and-Forward-Verbindung“ werden komplette Datenpakete genommen und zwischengespeichert, bevor sie weitergeleitet werden. Man kann sich das wie ein Postamt vorstellen. Wenn ein Paket ankommt, wird es zuerst dort gesammelt und aufbewahrt, bis es dann weiter zu seinem Ziel geschickt wird. 
+
+Im Netzwerk gibt es Geräte wie Router oder Switches, die diese Aufgabe übernehmen. Sie empfangen die Daten an einem Eingang und senden sie dann nach einer kurzen Pause über einen Ausgang weiter, bis sie beim Empfänger ankommen. 
+
+Das ist eine von vielen Möglichkeiten, wie Daten über das Internet oder andere Netzwerke übertragen werden können.

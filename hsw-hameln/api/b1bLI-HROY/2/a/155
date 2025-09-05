@@ -1,0 +1,11 @@
+Die Aussage beschreibt, wie das Internet oder Netzwerk in einem Gebäude aufgebaut ist. Hier ist eine ganz einfache Erklärung:
+
+1. **Glasfasern verwenden**: In einem Gebäude gibt es dünne, schnelle Glasfaser-Kabel, die Daten sehr schnell transportieren können.
+
+2. **Medienwandler**: Diese Glasfaser-Kabel gehen zuerst zu einem Gerät, das "Medienwandler" heißt. Der Medienwandler hilft dabei, die Daten von Glasfaser in ein anderes Format zu ändern, damit sie weitergeleitet werden können.
+
+3. **Kupferkabel**: Vom Medienwandler führen dann weitere Kabel (Kupferkabel) zu einem anderen Gerät, das viele Anschlüsse hat, zum Beispiel einen „Switch“ oder ein „Patchfeld“. Diese Geräte helfen, die Daten an verschiedene Computer oder Geräte im Gebäude zu verteilen.
+
+4. **Verteilung in den Etagen**: Von diesen Geräten gehen die Daten weiter in die verschiedenen Bereiche oder Etagen des Gebäudes.
+
+Im Grunde genommen beschreibt die Aussage, wie Informationen durch Kabel von einem Ort zum anderen in einem Gebäude geschickt werden, damit jeder Zugang zum Internet oder Netzwerk hat.

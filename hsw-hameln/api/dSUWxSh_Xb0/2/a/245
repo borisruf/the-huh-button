@@ -1,0 +1,10 @@
+Die Aussage beschreibt, wie mehrere Kommunikationspartner (Menschen oder Geräte, die miteinander sprechen) etwas über ein Kabel oder einen anderen Kanal senden können, ohne dass es durcheinandergeht. 
+
+Man kann sich das wie ein Turniersystem vorstellen, bei dem jeder Teilnehmer abwechselnd an die Reihe kommt. Hier sind die Schritte einfach erklärt:
+
+- **Zeit** wird von links nach rechts angezeigt. Das bedeutet, dass wir sehen, wie die Zeit vergeht.
+- **Bandbreite** wird von oben nach unten angezeigt. Das zeigt, wie viel Platz wir für unsere Daten haben.
+- Es gibt drei Kommunikationspartner (Drei Personen oder Geräte).
+- Jeder dieser Partner bekommt abwechselnd eine Zeitspanne (Slot), um seine Informationen zu senden. Zum Beispiel: Der erste Partner sendet, dann der zweite, dann der dritte und dann fängt es wieder von vorne an (1, 2, 3, 1, 2, 3).
+
+Das Ziel ist, dass alle Partner gleichzeitig kommunizieren können, indem sie sich die Zeit teilen. So stört niemand den anderen, weil jeder eine bestimmte Zeit hat, in der er senden kann.

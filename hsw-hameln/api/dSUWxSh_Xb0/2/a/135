@@ -1,0 +1,7 @@
+Multiplexing ist eine Technik, die es mehreren Nutzern oder Geräten ermöglicht, gleichzeitig über ein einziges Kabel oder Medium zu kommunizieren. Stell dir vor, du hast vier Leute, die gleichzeitig sprechen möchten, aber nur einen Platz haben, um zu reden. Normalerweise könnte nur einer reden, während die anderen warten müssen.
+
+In der Grafik siehst du oben, dass diese vier Leute (Kommunikationsteilnehmer) ihre Nachrichten auf einen einzigen Kommunikationskanal schicken. Das nennt man „Verzweiger“, weil es mehrere Eingänge gibt, die aber alle in einen Ausgang führen.
+
+Unten in der Grafik siehst du dann einen Multiplexer und einen Demultiplexer. Der Multiplexer nimmt die Nachrichten von den vier Leuten und schickt sie über das eine Kabel. Der Demultiplexer sorgt dann dafür, dass die Nachrichten beim richtigen Empfänger ankommen. So können alle vier Leute ihre Nachrichten gleichzeitig senden, ohne dass sie sich gegenseitig stören.
+
+Es gibt verschiedene Methoden, wie das Multiplexing funktioniert, und die werden wir uns genauer ansehen. Es hilft also, dass viele Gespräche gleichzeitig über ein Kabel gehen können, ohne dass jeder warten muss.

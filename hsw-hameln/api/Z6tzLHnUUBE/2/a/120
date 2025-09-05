@@ -1,0 +1,11 @@
+Okay, ich erkläre das in sehr einfacher Sprache:
+
+Im Netzwerk gibt es Dinge, die Informationen verschicken. Diese Informationen reisen in kleinen Paketen, die wir „Datagramme“ nennen. Damit diese Pakete den richtigen Weg durch das Netzwerk finden, benutzen wir etwas, das „Routing“ heißt. Routing hilft dabei, die Pakete zu den richtigen Adressen zu bringen.
+
+Das Internetprotokoll, kurz IP, hilft dabei, diese Pakete zu steuern. Es ist auf einer bestimmten Ebene des Modells, das OSI-Modell, eingeordnet. Auf dieser Schicht tritt das Internetprotokoll in Aktion.
+
+Ein wichtiger Teil von IP ist die Adressierung. Das bedeutet, dass jeder Computer im Netzwerk eine einzigartige Adresse hat, damit die Informationen auch an den richtigen Ort geschickt werden.
+
+Manchmal ist ein Paket zu groß, um es auf einmal zu verschicken. Dann wird das Paket in kleinere Teile zerlegt – das nennt man „Fragmentierung“. Wenn die Teile ankommen, werden sie wieder zusammengesetzt – das nennt man „Defragmentierung“. 
+
+Zusammengefasst: IP kümmert sich darum, wie Pakete adressiert werden, wie sie ihren Weg finden und was passiert, wenn sie zu groß sind. Später werden wir noch genauer darüber sprechen.

@@ -1,0 +1,5 @@
+Die Router sind wie Postboten für Daten. Wenn einer der Router ein Paket an einen anderen Router schicken möchte, muss er wissen, wie er dorthin kommt. Diese Router tauschen Informationen miteinander aus, um herauszufinden, welcher Weg der beste ist. 
+
+Stell dir vor, wenn ein Router etwas weiß, erzählt er es seinen Nachbarn. Die Nachbarn hören zu, fügen ihre eigenen Informationen hinzu und erzählen dann wieder ihren Nachbarn. So sammeln alle Router Informationen, um eine Art Karte zu erstellen. Auf dieser Karte steht, wie viele „Sprünge“ sie machen müssen, um ihr Ziel zu erreichen. Je weniger Sprünge, desto schneller können sie das Datenpaket dahin bringen, wo es hin muss. 
+
+Diese Karten nennt man Routing-Tabellen. Sie helfen den Routern, die besten Wege für die Daten zu finden.

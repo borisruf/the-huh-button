@@ -1,0 +1,7 @@
+In einfacher Sprache bedeutet die Aussage:
+
+WLAN, das ist ein Mittel, um sich drahtlos mit dem Internet zu verbinden, ist nicht ganz sicher. Es gibt eine bestimmte Sicherheitstechnik, die WPA2 heißt. Diese Technik wurde 2007 zum letzten Mal verbessert. Aber ein paar Jahre später fanden Sicherheitsexperten eine Schwäche in diesem System. Interessanterweise steht das sogar im Handbuch, das über 1200 Seiten hat, und auf Seite 196 findet man die Information über diese Schwäche, die man WPA2-O196 nennt.
+
+Trotz dieser Schwäche stellt man fest, dass das System trotzdem hohe Sicherheitsstandards hat. Wenn man die Sicherheitsrichtlinien des BSI (Bundesamt für Sicherheit in der Informationstechnik) anschaut, sieht man, dass WPA2 immer noch als sicher angesehen wird.
+
+Zusätzlich wird im Text erklärt, wie Funknetzwerke funktionieren und welche Unterschiede es in der Reichweite und Bandbreite gibt, zum Beispiel zwischen Bluetooth für kurze Distanzen, WLAN für mittlere Distanzen und Mobilfunknetzen für große Distanzen. Es gibt auch viele technische Details über das Einrichten von WLANs und welche Probleme dabei auftreten können.

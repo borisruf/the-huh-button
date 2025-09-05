@@ -1,1 +1,7 @@
-Wir haben vorher schon einmal über Multiplexing gesprochen. Jetzt schauen wir uns das noch einmal an, aber aus einer etwas anderen Perspektive. Im Grunde bedeutet das, dass wir nicht nur verschiedene Leute oder Geräte haben, die in unserem Netzwerk miteinander reden, sondern auch viele verschiedene Sorten von Informationen, die sie hin und her schicken.
+Portnummern sind wie Adressen für verschiedene Anwendungen auf einem Computer. Wenn zwei Computer miteinander reden, funktioniert das ähnlich wie zwei Menschen, die sich in einem Raum unterhalten. Jeder spricht eine eigene Sprache oder hat ein eigenes Thema, über das er redet. 
+
+Stell dir vor, in einem großen Büro gibt es viele Menschen, die an verschiedenen Projekten arbeiten. Jeder sitzt an einem anderen Tisch und hat verschiedene Dinge zu besprechen. Damit niemand durcheinanderkommt, hat jeder Tisch eine Nummer. Wenn jemand also etwas zu einem bestimmten Projekt sagen will, weiß er, an welchen Tisch er gehen muss. 
+
+So funktionieren auch Portnummern! Sie helfen den Computern zu wissen, zu welcher Anwendung die gesendeten Daten gehören. Zum Beispiel: Wenn du im Internet surfst (z.B. auf einer Website), verwendet dein Computer eine bestimmte Portnummer, um mit dem Webserver zu kommunizieren. Eine andere Anwendung, wie ein Spiel, verwendet eine andere Portnummer. 
+
+Portnummern ermöglichen es also, dass viele Anwendungen gleichzeitig auf demselben Computer oder im selben Netzwerk arbeiten können, ohne dass sie sich gegenseitig stören. So bleibt alles ordentlich und funktioniert gut!

@@ -1,0 +1,7 @@
+In der Aussage geht es darum, dass wir für zwei Router, die miteinander verbunden sind, mindestens zwei IP-Adressen brauchen. 
+
+Stell dir vor, die Router sind wie Menschen, die miteinander sprechen. Jeder braucht eine Adresse, damit der andere weiß, wo er ihn finden kann. 
+
+Um die Adressen möglichst sparsam zu nutzen, empfehlen die Experten, eine spezielle Art von Adresse zu verwenden, die „Slash 30“ genannt wird. Diese ist so eingestellt, dass wir genau genug Adressen haben, um beide Router zu erreichen, ohne unnötig viele Adressen zu verschwenden. So sparen wir Platz für Adressen, die wir vielleicht später für andere Geräte oder Router brauchen. 
+
+Zusammengefasst: Für die Verbindung von zwei Routern brauchen wir zwei Adressen und sollten darauf achten, nicht mehr Adressen zu verwenden, als nötig.

@@ -1,0 +1,9 @@
+In sehr einfacher Sprache:
+
+Eine IP-Adresse ist wie die Adresse, die ein Haus hat, damit man es finden kann. Es gibt zwei Hauptarten von IP-Adressen: die ältere IP-Version 4 und die neuere IP-Version 6.
+
+**IP-Version 4** sieht so aus: Man hat vier Zahlen, die durch Punkte getrennt sind. Zum Beispiel könnte eine Adresse so aussehen: 172.16.14.193. Jede dieser Zahlen nennt man "Oktett", und jede Zahl ist zwischen 0 und 255.
+
+**IP-Version 6** ist etwas anders. Hier sind die Zahlen nicht in normalen Zahlen, sondern in einer speziellen Form, die "Hexadezimal" heißt. Bei IP-Version 6 trennt man die Zahlen nicht mit Punkten, sondern mit Doppelpunkten. Das macht die Adressen länger, aber es hilft, mehr Geräte anzusprechen, weil wir immer mehr davon haben und die alten Adressen nicht ausreichen.
+
+Zusammengefasst: IP-Adressen helfen, Geräte im Internet zu finden. IP-Version 4 verwendet Punkte und einfache Zahlen, während IP-Version 6 Doppelpunkte und spezielle Zahlen verwendet.

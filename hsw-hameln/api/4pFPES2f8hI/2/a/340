@@ -1,0 +1,11 @@
+Okay, lass uns das einfach erklären!
+
+In der Folie sehen wir eine Tabelle mit 8 kleinen Netzen. Wenn wir zählen, fangen wir immer bei 0 an, das bedeutet, die erste Gruppe ist die Nummer 0 – die zählt mit. Das ist wichtig, damit wir alles richtig nachvollziehen können. In der Tabelle sind das oberste und unterste Netzwerk rot markiert, damit wir sie besser erkennen.
+
+Wir haben darüber gesprochen, was eine Subnetzmaske ist und warum sie wichtig ist. Mit Subnetzmasken können wir große Netzwerke in kleinere Teile aufteilen, die "Subnetze" genannt werden. Das hilft uns, Platz bei den IP-Adressen zu sparen und die Netzwerke besser zu organisieren.
+
+Früher haben die Leute viele IP-Adressen einfach verteilt, ohne wirklich nachzudenken, und jetzt haben wir nicht mehr genug Adressen für alle. Deshalb müssen wir die großen Netzwerke kleiner machen, damit jeder das bekommt, was er braucht.
+
+Wenn wir zum Beispiel ein großes Netzwerk mit vielen IP-Adressen haben, aber nur einige davon nutzen, können wir die leeren Adressen mit Subnetzen besser aussortieren. So sparen wir IP-Adressen und machen die Netzwerke sicherer.
+
+Zusammengefasst: In der Tabelle sehen wir 8 kleine Netze, wir zählen ab 0, und dabei helfen uns die roten Markierungen, die wichtigen Teile schnell zu erkennen.

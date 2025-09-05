@@ -1,0 +1,11 @@
+In dieser Aussage geht es darum, wie IP-Adressen in Gruppen eingeteilt werden, die man A, B und C nennt. Diese Gruppen helfen dabei, das Netzwerk besser zu organisieren. 
+
+Um es einfach zu erklären: 
+
+- IP-Adressen sind wie Adressen für Computer im Internet. 
+- Es gibt verschiedene Gruppen (Klassen), und jede Gruppe kann eine bestimmte Anzahl von Computern oder Netzwerken haben. 
+- Die beste Art, die Computer zu finden, hängt davon ab, in welche Gruppe die Adresse gehört.
+
+Früher gab es große Unternehmen, als das Internet neu war. Diese Unternehmen haben viele IP-Adressen bekommen. Das bedeutet, dass die Einteilung in die Gruppen manchmal schwierig sein kann, weil diese großen Firmen viel Platz im Netzwerk beanspruchen.
+
+Zusammengefasst: Die Einteilung in Klassen A, B und C hilft, das Netzwerk zu organisieren, aber es gibt Herausforderungen, weil große Unternehmen viele Adressen brauchen.

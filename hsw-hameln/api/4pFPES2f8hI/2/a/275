@@ -1,0 +1,11 @@
+Die Aussage bezieht sich darauf, wie Netzwerke mit IP-Adressen organisiert werden. Eine "Standard Klasse-C-Subnetzmaske" ist eine spezielle Regel, die definiert, wie viele Geräte in einem bestimmten Netzwerk angeschlossen werden können. 
+
+In diesem Fall bedeutet die Subnetzmaske 255.255.255.0, dass man in diesem Netzwerk Platz für 254 Geräte hat. Das liegt daran, dass die IP-Adresse, die wir hier betrachten (zum Beispiel 192.168.10.0), zusammen mit dieser Subnetzmaske die Anzahl der möglichen Geräte bestimmt, die miteinander kommunizieren können. 
+
+Eine einfache Erklärung: 
+
+- Die Subnetzmaske hilft, Netzwerke in kleinere Teile zu unterteilen.
+- Mit einer Standardklasse-C-Subnetzmaske können bis zu 254 Geräte in einem Netzwerk angeschlossen werden.
+- Das ist wichtig, weil es hilft, die Verwendung von IP-Adressen besser zu organisieren, insbesondere wenn es nicht genug Adressen für alle Geräte gibt.
+
+Zusammengefasst: Die Standard Klasse-C-Subnetzmaske ermöglicht es, ein Netzwerk so zu setzen, dass bis zu 254 Geräte dort miteinander verbunden sein können.

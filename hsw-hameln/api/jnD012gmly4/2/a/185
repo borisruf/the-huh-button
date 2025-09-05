@@ -1,0 +1,7 @@
+Okay, lass uns die Aussage in sehr einfacher Sprache erklären:
+
+Wenn Computer miteinander reden, teilen sie Informationen in „Rahmen“ oder „Frames“ auf. Diese Rahmen bestehen aus den wichtigen Daten, die geschickt werden, und zusätzlichen Informationen, die helfen, die Daten zu verstehen und Fehler zu erkennen.
+
+Früher war es so, dass jedes Mal, wenn die Information zu einem Rahmen geschickt wurde, auch gesagt wurde, wie lang dieser Rahmen ist. Wenn die Angabe verloren ging, wusste man nicht mehr, wo der Rahmen endet. 
+
+Heutzutage wird eine neue Methode verwendet, die sogenannte Sentinel-Methode. Dabei werden spezielle Zeichen am Anfang und Ende der Daten hinzugefügt. Diese Zeichen helfen, den Rahmen zu erkennen. Das Problem ist jedoch, dass diese speziellen Zeichen auch in den Daten selbst vorkommen könnten. Daher müssen wir überlegen, wie wir verhindern können, dass der Computer denkt, die Nachricht sei zu Ende, nur weil er eines dieser speziellen Zeichen gefunden hat.

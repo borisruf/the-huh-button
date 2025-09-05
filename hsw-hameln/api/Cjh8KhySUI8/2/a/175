@@ -1,0 +1,9 @@
+Die Aussage bezieht sich auf zwei Arten von Protokollen, die für die Datenübertragung im Internet verwendet werden: TCP und UDP. Hier ist die Erklärung in sehr einfacher Sprache:
+
+1. **Fehlererkennung**: Das bedeutet, dass das System feststellen kann, ob bei der Übertragung von Daten etwas schiefgelaufen ist. UDP, die einfachere Methode, hat eine Art von Fehlererkennung durch etwas, das „Checksumme“ heißt. Die Checksumme hilft dabei zu überprüfen, ob die Daten richtig angekommen sind.
+
+2. **Fehlerbehebung**: Das bedeutet, dass das System nicht nur erkennt, dass ein Fehler passiert ist, sondern auch versucht, den Fehler zu reparieren. Das macht TCP. UDP hat diese Fähigkeit nicht. Wenn also bei UDP ein Datenpaket fehlt oder kaputt ist, wird nichts unternommen, um den Fehler zu korrigieren.
+
+3. **Größe des Headers**: Der Header ist der Teil der Daten, der Informationen über die Daten enthält. Der Header von UDP ist kleiner als der von TCP, weil UDP weniger Informationen braucht. 
+
+Zusammengefasst: UDP kann erkennen, wenn etwas nicht stimmt, aber es kann nichts dagegen tun. Das macht es einfacher und schneller, aber auch weniger sicher als TCP, das Fehler erkennen und beheben kann.

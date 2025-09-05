@@ -1,0 +1,15 @@
+Okay, lass es uns einfach erklären:
+
+Stell dir vor, du hast ein großes Gebäude mit drei Stockwerken. In jedem Stockwerk gibt es ein eigenes Netzwerk, das durch besondere Geräte, die Switches heißen, verbunden ist. Normalerweise funktioniert es so, dass jedes Stockwerk sein eigenes Netzwerk hat. Aber manchmal möchtest du, dass Leute aus verschiedenen Stockwerken miteinander kommunizieren, als wären sie im gleichen Raum.
+
+Hier kommen die sogenannten VLANs (virtuelle lokale Netzwerke) ins Spiel. VLANs erlauben es uns, diese Netzwerkgrenzen zu flexibler zu gestalten. Du kannst Gruppen von Computern aus verschiedenen Stockwerken zu einem gemeinsamen Netzwerk zusammenfassen, auch wenn sie nicht im selben Stockwerk sind. 
+
+Jetzt, wie funktioniert das genau? Es gibt zwei Wege, um festzulegen, welche Computer zu welchen VLANs gehören:
+
+1. **Statische Zuweisung**: Ein Netzwerktechniker sagt, welches Kabel (Port) zu welchem VLAN gehört. Das ist ein bisschen wie das Anbringen von Schildern an den Tischen in einem Restaurant – nicht immer einfach, weil der Computer an diesem Port auch wirklich in das VLAN passen muss.
+
+2. **Dynamische Zuweisung**: Hier schaut der Switch beim Anschließen eines Computers auf die spezielle „Hausnummer“ des Computers (das ist die MAC-Adresse) und entscheidet dann automatisch, zu welchem VLAN er gehört. Das macht es einfacher, weil der Techniker nicht immer alles manuell einstellen muss.
+
+Wenn nun ein Computer startet, schickt er Daten, die zunächst keine Informationen über das VLAN enthalten (das nennt man ein „Untagged-Paket“). Der Switch, an den der Computer angeschlossen ist, fügt dann die VLAN-Informationen hinzu, bevor er die Daten weiter sends. Wenn die Daten an einen anderen Switch geschickt werden, kann der auch die VLAN-Informationen lesen und weiterverarbeiten. Schließlich, kurz bevor die Daten beim Empfänger ankommen, entfernt der letzte Switch die VLAN-Informationen, da der Computer das nicht braucht, und gibt ihm nur die reinen Daten.
+
+So können wir also die Netzwerke so organisieren, dass sie flexibler und effizienter sind, auch wenn die Computer an unterschiedlichen Orten im Gebäude stehen.

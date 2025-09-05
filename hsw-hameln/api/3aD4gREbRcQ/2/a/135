@@ -1,0 +1,7 @@
+In dieser Erklärung geht es darum, wie Computer miteinander kommunizieren. Wir schauen uns dabei drei wichtige Schichten des OSI-Modells an, die für diese Kommunikation verantwortlich sind: die Anwendungsschicht, die Darstellungsschicht und die Sitzungsschicht. 
+
+Stellen Sie sich das vor wie ein großes Gebäude mit vielen Etagen. Die oberen Etagen sind die Schichten, die dafür sorgen, dass Programme richtig miteinander arbeiten. Wenn Sie zum Beispiel eine E-Mail versenden oder eine Webseite aufrufen, nutzen Sie spezielle Protokolle wie SMTP für E-Mails oder HTTP für das Surfen im Internet. Diese Protokolle sind wie die Regeln, die den Programmen sagen, wie sie miteinander sprechen sollen.
+
+Bevor die Nachrichten versendet werden, müssen sie noch in kleine Pakete zerlegt werden, und dafür gibt es die Transportschicht. Dort kommt es darauf an, ob die Pakete sicher und alle genau ankommen (TCP) oder ob es schneller gehen soll, auch wenn vielleicht nicht alles ankommt (UDP).
+
+Zusammengefasst: Wenn Computer Programme benutzen, um miteinander zu reden, gibt es spezielle Regeln und Wege, wie das funktioniert. Das passiert in den oberen drei Schichten des OSI-Modells, wobei die Transportebene wie eine Art Verbindungshändler funktioniert. Alle Programme, die wir nutzen, bauen auf diesen verbindenden Regeln auf.

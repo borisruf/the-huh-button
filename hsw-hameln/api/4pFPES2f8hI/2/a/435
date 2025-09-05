@@ -1,0 +1,7 @@
+Wenn wir ein großes Netzwerk in kleinere Teile, die man Subnetze nennt, aufteilen wollen, müssen wir herausfinden, wie viele Subnetze wir machen können. Um das zu wissen, schauen wir uns an, wie viele "Bits" wir ändern müssen. Ein "Bit" ist wie ein kleines Licht, das entweder an (1) oder aus (0) sein kann.
+
+Stell dir vor, wir haben ein großes Netzwerk und dort gibt es einige "Bits", die ausgeschaltet sind (Nullen). Wenn wir einige dieser ausgeschalteten Bits in eingeschaltete Bits umwandeln, können wir mehr Subnetze erstellen. Wenn wir zum Beispiel drei Nullen in Einsen umwandeln, dann bedeutet das, dass wir viele neue Subnetze erstellen können. 
+
+Mit der Formel 2 hoch die Anzahl der umgewandelten Bits können wir berechnen, wie viele Subnetze wir haben. Wenn wir also 2 hoch 3 rechnen, bekommen wir 8. Das heißt, wir können 8 kleinere Netzwerke (Subnetze) aus unserem großen Netzwerk machen.
+
+Zusammengefasst: Wenn wir some Bits von 0 auf 1 ändern, können wir herausfinden, wie viele Subnetze wir bilden können, und in diesem Beispiel haben wir festgestellt, dass wir 8 Subnetze erstellen können.

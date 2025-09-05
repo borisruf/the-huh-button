@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass ich manchmal den Verkehr im Netzwerk reduzieren möchte, um die Leistung zu verbessern. Wenn ich nur Switches benutze, die einfach Geräte verbinden, dann kann es passieren, dass alle Geräte in einem großen Bereich (Broadcast-Domäne) miteinander kommunizieren. Das sorgt dafür, dass viele Nachrichten an alle Geräte gesendet werden, auch wenn sie nicht für alle gedacht sind. Das kann das Netzwerk langsamer machen. 
+
+Um das Problem zu lösen, brauche ich Geräte wie Router. Router können den Verkehr besser steuern und helfen, die Broadcast-Domänen zu verkleinern. So kann ich die Leistung des Netzwerks verbessern und Störungen reduzieren.

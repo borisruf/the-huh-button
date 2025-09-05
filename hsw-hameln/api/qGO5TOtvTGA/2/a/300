@@ -1,0 +1,7 @@
+Die Aussage bedeutet: 
+
+Wenn ein Router Informationen über Wege zu anderen Routern hat, gibt er diese Informationen an die Router weiter, die direkt neben ihm sind. Diese Nachbar-Router schauen sich die Informationen an, fügen eigene Informationen hinzu und geben das Ganze wieder an ihre eigenen Nachbarn weiter. 
+
+Die Routing-Tabellen sind wie Listen, die zeigen, wie teuer oder lang ein Weg zu einem Ziel ist. Eine Methode, um diese „Kosten“ zu messen, ist der „Hop-Count“, also die Anzahl der Router, die die Daten durchlaufen müssen, um ans Ziel zu kommen. Je weniger Hops, desto besser ist der Weg. 
+
+Zusammengefasst: Router teilen ihre Weg-Infos mit anderen Routern, die diese Infos dann sammeln und weitergeben. Dabei nutzen sie Tabellen, um den besten Weg zu finden.

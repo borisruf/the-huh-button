@@ -1,0 +1,13 @@
+Die Aussage beschreibt, wie man die Datenübertragung zwischen einem Sender und einem Empfänger effizienter gestalten kann, besonders wenn sie unterschiedlich schnell sind. Hier ist eine einfache Erklärung:
+
+1. **Sender und Empfänger**: Stell dir vor, es gibt einen schnellen Sender, der viele Daten schicken kann, und einen langsamen Empfänger, der nicht so schnell die Daten bekommen und verarbeiten kann.
+
+2. **Flusssteuerung**: Um sicherzustellen, dass der Empfänger mit dem Sender mithalten kann, muss eine Regel gefunden werden - das nennt man Flusssteuerung. Diese Regel hilft, die Geschwindigkeit zwischen Sender und Empfänger anzupassen.
+
+3. **Bestätigungen**: Wenn der Sender Daten schickt, braucht er eine Bestätigung (Acknowledgement), dass der Empfänger die Daten bekommen hat. In einer einfachen Methode, namens "Stop-and-Wait", wartet der Sender nach jedem gesendeten Paket auf die Bestätigung, bevor er das nächste Paket schickt. Das dauert viel Zeit, besonders bei langen Distanzen, wie beim Versand zwischen Kontinenten.
+
+4. **Pipelining**: Um die Zeit besser zu nutzen und die Verbindung voll auszunutzen, kann der Sender mehrere kleine Pakete gleichzeitig schicken, ohne jedes Mal auf eine Bestätigung zu warten. Stattdessen bekommt er eine kumulative Bestätigung für mehrere Pakete auf einmal. Dies wird durch ein "Fenster" geregelt, das festlegt, wie viele Pakete gleichzeitig gesendet werden können, ohne auf die einzelnen Bestätigungen zu warten.
+
+5. **Verzögerungsbandbreite-Produkt**: Diese Strategie hängt zudem von der Verzögerung (wie lange es dauert, bis die Daten ankommen) und der Bandbreite (wie viele Daten gleichzeitig gesendet werden können) ab. 
+
+Insgesamt geht es darum, die Übertragung schneller und effizienter zu gestalten, indem man cleverer damit umgeht, wie die Daten gesendet und bestätigt werden.

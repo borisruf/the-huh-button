@@ -1,0 +1,9 @@
+Wir schauen uns jetzt die letzten drei Schichten im OSI-Modell an. Diese Schichten sind wichtig, weil sie dafür sorgen, dass Programme gut miteinander arbeiten können. 
+
+Die Schicht 5 heißt Sitzungsschicht. Sie hilft dabei, dass zwei Computer gut miteinander "reden" können. 
+
+Die Schicht 6 heißt Darstellungsschicht. Sie kümmert sich darum, dass die Daten in einer Form sind, die die Computer verstehen können.
+
+Die Schicht 7 ist die Anwendungsschicht. Sie ist die, die wir sehen, zum Beispiel wenn wir ein Programm wie ein Spiel oder eine Webseite benutzen. 
+
+Wir wollen verstehen, was genau in diesen Schichten passiert und warum sie wichtig sind. Ein kleines Beispiel wird uns helfen, das einfacher zu erklären. Wenn wir von "anwendungsorientiert" sprechen, meinen wir, dass es um die Anwendungen geht, also die Programme, die wir nutzen.

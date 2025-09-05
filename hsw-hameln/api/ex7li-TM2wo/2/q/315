@@ -1,0 +1,1 @@
+  Zum Beispiel das CRC 32 ist so ein Standard, den verwenden wir im Ethernet.  Das heißt also eine 32-Bit -Folge als Prüfsumme wird an das Paket und damit den Rahmen angehängt, um festzustellen, ob in einem Ethernet-Paket letztlich ein Fehler ist.

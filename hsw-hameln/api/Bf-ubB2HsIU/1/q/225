@@ -1,1 +1,1 @@
- Wenn wir jetzt TCP uns als Protokoll mal genauer anschauen, dann sehen wir an dieser Stelle relativ schematisch, was sich eigentlich alles in so einem TCP-Header befindet.
+ Mit einer Ende-zu-Ende-Kontrolle, das heißt wir schauen, kommen die Daten überhaupt an und kommen die Daten auch fehlerfrei an.

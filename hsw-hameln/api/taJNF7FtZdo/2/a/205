@@ -1,0 +1,11 @@
+Okay! Stell dir vor, das Internet ist wie ein riesiges Straßennetz. Die Daten, die du sendest, sind wie Autos, die von einem Ort zum anderen fahren.
+
+Wenn ein Auto an eine Kreuzung kommt (das ist wie ein Router), muss es entscheiden, wohin es weiterfahren soll. Um das zu entscheiden, schaut der Router in eine Art "Straßenkarte", die Routing-Tabelle heißt. 
+
+In dieser Tabelle steht:
+
+1. **Wo das Auto hin möchte (die Adresse der Daten).**
+2. **Wie weit es zum Ziel ist (das wird in "Hops" gemessen, also in Stationen, wo das Auto stoppt).**
+3. **Welcher der nächste Router ist, zu dem das Auto fahren soll.**
+
+Wenn das Auto am Router ankommt, guckt es zuerst, ob es schon am Ziel ist. Wenn nicht, schaut es in die Tabelle, um zu sehen, wo es als Nächstes hinfahren soll, und schickt die Daten dann an den nächsten Router weiter. Und das passiert immer wieder, bis die Daten ihr Ziel erreichen.

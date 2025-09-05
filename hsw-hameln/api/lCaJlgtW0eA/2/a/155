@@ -1,0 +1,11 @@
+In diesem Text geht es darum, wie man verschiedene Computer-Netzwerke miteinander verbindet. Man braucht dazu Geräte, die man "Koppelungselemente" nennt. 
+
+Es gibt verschiedene Koppelungselemente, die unterschiedliche Aufgaben haben:
+
+1. **Repeater und Hub**: Diese Geräte sind ganz einfach. Sie nehmen ein Signal auf und schicken es gleich wieder weiter, um die Reichweite des Netzwerks zu vergrößern. Das kann aber auch dazu führen, dass viele Geräte gleichzeitig versuchen, Daten zu senden, was zu Störungen führt. Wir nennen das "Kollisionsdomäne".
+
+2. **Switches und Bridges**: Diese sind ein bisschen smarter. Sie können Daten besser verwalten, indem sie eine Art Adresse (die MAC-Adresse) verwenden. Das hilft, verschiedene Teile des Netzwerks zu trennen, sodass weniger Störungen auftreten.
+
+3. **Router**: Dies sind die intelligentesten Koppelungselemente. Sie verwenden eine andere Art von Adresse (die IP-Adresse) und können ganze Netzwerke miteinander verbinden. Router bestimmen auch, in welche Netzwerke Daten geschickt werden und helfen, die Bereiche zu definieren, in denen Daten gesendet werden können.
+
+Die Aussage über "Broadcast-Domänen" bedeutet, dass in jedem Netzwerk-Bereich (Broadcast-Domäne) Daten an alle Geräte gesendet werden können. Aber an den Grenzen dieser Bereiche können diese Daten nicht mehr gesendet werden. Das sorgt dafür, dass die Netzwerke übersichtlich bleiben und nicht durcheinander geraten.

@@ -1,0 +1,3 @@
+Die Aussage bedeutet folgendes in einfacher Sprache:
+
+Am Ende eines Datenpakets (das nennt man "Frame") wird eine spezielle Art von Code hinzugefügt, um sicherzustellen, dass die Daten richtig übertragen wurden. Dieser Code wird CRC32 genannt, was eine Methode ist, um Fehler zu erkennen. Wenn die Daten beim Versenden verändert wurden oder kaputt gegangen sind, kann der Empfänger das mit diesem Code feststellen. So kann man sicherstellen, dass die Informationen, die gesendet wurden, auch tatsächlich so angekommen sind, wie sie hätten sein sollen.

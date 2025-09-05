@@ -1,1 +1,1 @@
- In diesem Fall ist also 172, 16 die ersten beiden Oktette und da ich in meiner Subnetzmaske in den beiden letzten Oktetten jeweils nur 0 entstehen habe, kann da auch nur 0 rauskommen.
+ In diesem Fall ist also 172,16 die ersten beiden Oktette und da ich in meiner Subnetzmaske in den letzten Oktetten jeweils nur Nullen stehen habe, kann da auch nur 0 rauskommen.

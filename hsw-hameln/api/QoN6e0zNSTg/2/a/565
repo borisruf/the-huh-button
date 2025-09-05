@@ -1,0 +1,5 @@
+Okay, ich erkläre das in einfacher Sprache:
+
+Wenn wir mit vielen Computern gleichzeitig reden wollen und nicht nur mit einem, benutzen wir einen sogenannten Broadcaster. Das bedeutet, wir senden eine Nachricht an eine spezielle Adresse, die für alle Computer im Netzwerk gilt. Diese besondere Adresse sieht aus wie eine ganze Reihe von F, was bedeutet, dass die Nachricht an alle Geräte geschickt wird, die mit dem Netzwerk verbunden sind.
+
+Stell dir vor, du rufst in einem Raum: „Hallo alle zusammen!“ Anstatt nur eine Person anzusprechen, hörst du, dass alle anderen auch hier sind. Genau so funktioniert es mit dem Broadcaster: Man sendet die Nachricht an viele Computer gleichzeitig, anstatt nur an einen einzigen.

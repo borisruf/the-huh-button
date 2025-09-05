@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, wie man Daten überträgt, besonders elektronsiche Signale. Hier die Erklärung in sehr einfacher Sprache:
+
+Wir wollen die ursprünglichen Daten, die wir haben, wieder richtig herstellen können. Dazu müssen wir sicherstellen, dass das Signal, das wir schicken, einen klaren Takt hat. Ein klarer Takt hilft uns, die Daten richtig zu synchronisieren, also sicherzustellen, dass alles richtig zusammenpasst.
+
+Außerdem müssen wir die „Packungsdichten“ anpassen. Das bedeutet, dass wir mehr Informationen in den gleichen Raum oder den gleichen Zeitraum packen können. Wir machen das, indem wir die Geschwindigkeit, mit der wir die Daten übertragen (die Baudrate), im Vergleich zur tatsächlichen Menge der Informationen (der Bitrate) erhöhen. So können wir schneller und effizienter arbeiten, während wir die Signale senden.
+
+Zusammengefasst: Wir müssen das Signal gut vorbereiten, damit wir die ursprünglichen Daten wieder richtig erkennen können. Das erreichen wir, indem wir einen klaren Rhythmus schaffen und mehr Informationen gleichzeitig senden.

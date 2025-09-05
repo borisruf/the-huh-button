@@ -1,0 +1,12 @@
+Okay, lass es uns einfach erklären:
+
+Wenn du eine IP-Adresse hast, das ist wie die Adresse deines Computers im Internet, brauchst du auch eine Subnetzmaske. Die Subnetzmaske hilft dir zu verstehen, zu welchem Netzwerk dein Computer gehört. 
+
+Stell dir vor, das Internet ist wie eine große Stadt mit vielen Häusern, und jede IP-Adresse ist wie die Adresse eines Hauses. Die Subnetzmaske sagt dir, welche Häuser zu einer Nachbarschaft gehören. 
+
+Wenn du beides hast, also die IP-Adresse und die Subnetzmaske, kannst du herausfinden, in welcher Nachbarschaft dein Computer ist. Das nennt man dann die Netzwerkadresse. 
+
+Zusammengefasst: 
+- IP-Adresse = Wo dein Computer ist 
+- Subnetzmaske = Welche Nachbarschaft das ist 
+- Mit beidem kannst du wissen, wo in der großen Stadt dein Haus steht.

@@ -1,0 +1,9 @@
+Die Aussage besagt, dass es ein Problem gibt, wenn Computer in verschiedenen virtuellen Netzwerken (VLANs) miteinander sprechen möchten. In einem solchen Fall benötigt man wieder spezielle Geräte, die auf der dritten Schicht des Netzwerks arbeiten, um diese Verbindung herzustellen.
+
+Hier ist die Erklärung in sehr einfacher Sprache:
+
+Wenn zwei Computer, die in verschiedenen Bereichen eines Unternehmens arbeiten, miteinander reden wollen, dann müssen sie etwas benutzen, was die Verbindung möglich macht. Diese Bereiche nennt man VLANs. 
+
+Wie in einem großen Gebäude mit mehreren Stockwerken: Wenn jeder Stock ein eigenes Netzwerk hat, dann können die Computer in einem Stock nicht direkt mit den Computern in einem anderen Stock sprechen. Um das zu ermöglicht, braucht man besondere Geräte, die dafür sorgen, dass die verschiedenen Netzwerke (wie die Stockwerke) miteinander kommunizieren können. 
+
+Diese Geräte arbeiten auf einer speziellen "Schicht" im Netzwerk, die dafür zuständig ist, dass die Daten von einem Netzwerk zum anderen geschickt werden. Das ist nötig, weil die Computer in verschiedenen VLANs sonst nicht wissen, wie sie miteinander sprechen sollen.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass ein Datenpaket, das von einem Ort zu einem anderen geschickt wird, möglicherweise unterwegs verloren gegangen ist, weil es zu viele Stationen (Hops) durchlaufen hat. 
+
+Jedes Paket hat eine "Lebenszeit" oder "Time-to-Live" (TTL). Diese Zeit gibt an, wie viele Router (Hops) das Paket passieren darf, bevor es verworfen wird. Wenn das Paket während seiner Reise zu oft umgeleitet wird oder wenn die Route sehr lang ist, könnte es sein, dass es die erlaubte Anzahl von Hops überschreitet. 
+
+Wenn das passiert, wird das Paket nicht mehr zugestellt und gilt als verloren. Es ist also wichtig, beim Senden von Daten sicherzustellen, dass sie schnell und direkt an ihr Ziel gelangen, ohne zu viele Umwege zu machen.

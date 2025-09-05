@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie das ARP-Protokoll (Address Resolution Protocol) funktioniert. Hier ist die Erklärung in sehr einfacher Sprache:
+
+Manchmal müssen Computer herausfinden, welche IP-Adresse zu einer bestimmten MAC-Adresse gehört. Die MAC-Adresse ist wie eine spezielle Nummer, die jedem Computer zugeordnet ist. Wenn ein Computer die IP-Adresse eines anderen Computers mit einer bestimmten MAC-Adresse wissen möchte, fragt er einfach alle Computer im Netzwerk. 
+
+Die Antwort kommt von dem Computer, dessen MAC-Adresse er gefragt hat. Dieses Verfahren kann man in einem speziellen Programm auf dem Computer sehen oder auch in den Einstellungen.
+
+Der ARP-Speicher ist ein Ort, wo solche Informationen für eine gewisse Zeit aufbewahrt werden. Aber dieser Speicher wird nach einer Zeit geleert. Das bedeutet, wenn eine bestimmte Zeit vorbei ist, werden die Informationen wieder gelöscht. Das passiert, weil sich die Zuordnungen von IP-Adressen und MAC-Adressen manchmal ändern können.

@@ -1,0 +1,9 @@
+Die Aussage beschreibt eine bestimmte Art von Computer-Netzwerk, genannt 10Base5. 
+
+- **10 Megabit pro Sekunde** bedeutet, dass die maximale Geschwindigkeit des Netzwerks 10 Millionen Bits pro Sekunde beträgt. 
+- **Basisbandverfahren** heißt, dass auf dem Kabel nur ein Signal gleichzeitig gesendet wird, also keine andere Art von Übertragung wie zum Beispiel Telefonanrufe.
+- **500 Meter Segmentlänge** bedeutet, dass der Abstand zwischen den Geräten, die mit diesem Kabel verbunden sind, nicht länger als 500 Meter sein darf.
+
+Es gibt auch Regeln, wie Geräte, die das Signal verstärken (Repeater), im Netzwerk aufgestellt werden müssen, damit alles richtig funktioniert.
+
+Zusammengefasst: 10Base5 ist ein schnelles Netzwerk, das über ein einziges Kabel funktioniert und nur bestimmte Längen und Regeln für die Nutzung hat.

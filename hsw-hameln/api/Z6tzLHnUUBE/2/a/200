@@ -1,0 +1,7 @@
+Die Aussage geht darum, warum wir die Daten in kleinere Stücke aufteilen müssen, wenn wir sie über ein Netzwerk senden. 
+
+In einem Netzwerk gibt es verschiedene Wege, um Informationen zu übertragen. Jedes dieser Wege hat eine bestimmte Größe, die es verarbeiten kann - das nennt man MTU (Maximum Transmission Unit). 
+
+Wenn wir also Daten haben, die größer sind als die erlaubte Größe auf einem bestimmten Weg, muss das Internetprotokoll (IP) diese Daten in kleinere Teile, die Fragmente, zerlegen. So können die Daten trotzdem gesendet werden, ohne die vorgegebene Größe zu überschreiten. 
+
+Zusammengefasst: Wir müssen Daten aufteilen, damit sie durch das Netzwerk passen, da verschiedene Netzwerke unterschiedliche Größenbegrenzungen haben.

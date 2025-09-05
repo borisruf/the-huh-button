@@ -1,0 +1,5 @@
+Wenn wir Daten über Signale übertragen, benutzen wir verschiedene Methoden. Eine einfache Methode ist die binäre Übertragung, bei der wir nur zwei Werte haben: 0 und 1. In einem Zeitraum von einer Sekunde können wir so 6 Daten übermitteln, also 6 Bit pro Sekunde.
+
+Jetzt verwenden wir eine bessere Technik, bei der wir mehr als nur zwei Werte nutzen können. Zum Beispiel stellen wir uns vor, wir haben vier verschiedene Amplituden. Das bedeutet, dass wir dann in einem Schritt gleich 2 Bit gleichzeitig übertragen können. Das ist effizienter als nur 1 Bit pro Schritt.
+
+Es gibt also verschiedene Möglichkeiten, Signale zu benutzen, um Daten schneller und besser zu übertragen. Je mehr Werte wir verwenden können, desto mehr Informationen können wir in der gleichen Zeit senden.

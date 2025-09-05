@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass die Qualität eines bestimmten Verfahrens zur Fehlererkennung von Daten sehr davon abhängt, welches spezielle mathematische Polynom genutzt wird, um die Prüfzahlen zu berechnen. 
+
+Einfach gesagt: Wenn wir sicherstellen wollen, dass unsere gesendeten Daten richtig angekommen sind, benutzen wir eine Art „Prüfzucker“, um die Daten zu überprüfen. Der "Prüfzucker" wird mit Hilfe eines speziellen Rezeptes (dem Generator-Polynom) gemacht. Wenn wir das falsche Rezept wählen, wird der Prüfzucker nicht so gut sein, und wir könnten Fehler nicht richtig erkennen. Daher müssen wir sorgfältig auswählen, welches Rezept wir für die Berechnung des Prüfzuckers verwenden, damit alles gut funktioniert.

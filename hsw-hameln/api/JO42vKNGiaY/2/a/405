@@ -1,0 +1,3 @@
+Die Aussage „Und zwar macht man das mit Hilfe eines doppelten Doppelpunktes“ bedeutet, dass man in IP Version 6 lange Zahlen einfach kürzen kann, um sie leichter lesbar zu machen. Wenn in der Adresse mehrere Nullen direkt hintereinander stehen, kann man diese durch „::“ ersetzen. So wird die Adresse kürzer und einfacher, ohne wichtige Informationen zu verlieren. 
+
+Für jeden Teil der Adresse gibt es Regeln, wie man die Nullen weglassen kann. Man kann aber nur einmal in einer Adresse so einen doppelten Doppelpunkt verwenden, damit jeder weiß, wo die Nullen weggenommen wurden. Das macht es einfacher, sich die Adresse zu merken oder sie zu schreiben.

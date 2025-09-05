@@ -1,0 +1,1 @@
+ Bei UDP sind es eben nur 8 Byte, was letzten Endes dazu führt, dass die Geschwindigkeit bei UDP natürlich größer ist, dass wir mehr Daten in derselben Zeit übertragen können, was aber letzten Endes auch dazu führt, dass wir eine geringere Sicherheit haben.

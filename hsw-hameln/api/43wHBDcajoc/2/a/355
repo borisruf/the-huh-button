@@ -1,0 +1,13 @@
+Okay, lass uns das einfacher erklären. 
+
+Es geht um Funknetzwerke, wie WLAN oder Bluetooth. Diese Netzwerke nutzen Funkwellen, um Daten zu übertragen. 
+
+Hier sind ein paar wichtige Punkte:
+
+1. **Funkkanäle**: In einem bestimmten Frequenzbereich, dem ISM-Band, gibt es mehrere Kanäle, auf denen Funknetzwerke funken können. Man kann sich das wie Radiosender vorstellen. Es gibt 14 Kanäle, aber man kann nicht alle gleichzeitig nutzen, ohne Probleme zu bekommen.
+
+2. **Überlappung vermeiden**: Wenn man benachbarte Kanäle nutzt, dürfen sie sich nicht überschneiden. Das ist wichtig, weil sich sonst die Signale stören können, was man Interferenzen nennt. Interferenzen sind wie das Durcheinander von Stimmen, wenn viele Menschen gleichzeitig reden.
+
+3. **Maximal drei Kanäle**: Man kann höchstens drei Kanäle direkt nebeneinander benutzen, ohne dass sie sich stören. Wenn mehr Kanäle überlappen, gibt es Probleme.
+
+Das sind die Herausforderungen beim Aufbauen und Nutzen von Funknetzwerken. Man muss klug planen, wo man welche Kanäle nutzt, damit alles gut funktioniert.

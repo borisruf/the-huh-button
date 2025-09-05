@@ -1,0 +1,9 @@
+In der Erklärung wird über verschiedene Arten gesprochen, wie Informationen in einem Netzwerk weitergeleitet werden. 
+
+1. **Leitungsvermittlung** ist eine alte Methode, bei der eine direkte Verbindung zwischen zwei Benutzern hergestellt wird. Man kann sich das vorstellen wie ein Telefonanruf, bei dem eine spezielle Leitung nur für dieses Gespräch verwendet wird.
+
+2. **Speichervermittlung** ist eine andere Methode, bei der Daten zuerst in einem Zwischenspeicher (oder Knotenpunkt) abgelegt werden. Von dort werden sie dann weitergeschickt. Das ist ein bisschen wie wenn man einen Brief an eine Poststelle schickt und die Post dann den Brief an den Empfänger weiterleitet.
+
+3. **Paketvermittlung** ist eine spezielle Art der Speichervermittlung. Hier werden große Nachrichten in kleine „Pakete“ aufgeteilt, die dann unabhängig voneinander auf dem besten Weg zu ihrem Ziel geschickt werden können. Man kann sich das wie Puzzles denken, bei denen die Teile auch verschiedene Wege nehmen können, um schließlich wieder zusammengefügt zu werden.
+
+Die Aussage bedeutet also, dass bei der Speichervermittlung Nachrichten an bestimmten Punkten gespeichert werden können. Dadurch können mehrere Leute gleichzeitig Informationen austauschen, ohne auf eine direkte Verbindung warten zu müssen. Das macht den Austausch effizienter.

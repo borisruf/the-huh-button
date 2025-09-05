@@ -1,0 +1,7 @@
+Die Aussage bezieht sich auf den Austausch von Daten über ein Netzwerk, insbesondere bei der Anfrage einer Webseite, die in diesem Fall die Startseite von Wikipedia ist. Dabei sind zwei wesentliche Punkte hervorzuheben: 
+
+1. **Empfängeradresse und Quellenadresse**: Jedes Datenpaket im Ethernet-Protokoll enthält sowohl die Adresse des Senders (Quellenadresse) als auch die Adresse des Empfängers (Empfängeradresse). Dies ermöglicht es den Netzwerkkomponenten, zu erkennen, woher die Daten stammen und wohin sie gesendet werden sollen.
+
+2. **Unicast-Kommunikation**: Die Kommunikation erfolgt im Unicast-Verfahren, was bedeutet, dass eine direkte Eins-zu-eins-Verbindung zwischen dem Sender und dem Empfänger besteht. In diesem Fall bedeutet das, dass die spezifische Anfrage des Nutzers an die Wikipedia-Server gerichtet ist und nur diese zurück eine Antwort an den Nutzer sendet.
+
+Diese Elemente sind entscheidend für die ordnungsgemäße Funktion des Netzwerks und ermöglichen die gezielte Datenübertragung zwischen Geräten.

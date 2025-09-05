@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir, um das Internet oder unser Netzwerk besser zu nutzen, unsere großen Daten in kleinere Teile aufteilen. Diese kleineren Teile nennt man "Pakete". Wenn wir diese Pakete gleichzeitig versenden, können wir sie schneller und effizienter über das Netzwerk leiten.
+
+Stellt euch vor, ihr wollt ein großes Bild verschicken. Anstatt das ganze Bild auf einmal zu senden, schickt ihr es in vielen kleinen Teilen. Dadurch können mehrere Teile gleichzeitig auf verschiedenen Wegen zum Ziel gelangen. Das spart Zeit, weil nicht immer alle Teile aufeinander warten müssen. 
+
+Indem wir die großen Daten in kleinere Pakete aufteilen, verwenden wir die Bandbreite (also die Kapazität des Netzwerks) viel besser. So kann mehr Information gleichzeitig gesendet werden, und alles geht schneller.

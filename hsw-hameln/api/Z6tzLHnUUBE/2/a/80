@@ -1,0 +1,3 @@
+Also, die Aussage sagt, dass wir mit IP Pakete machen. Im OSI-Modell, das ist ein Modell, das erklärt, wie Computer kommunizieren, gibt es verschiedene Ebenen oder Schichten. Auf der dritten Schicht, die wir Schicht 3 nennen, arbeiten wir mit diesen Paketen.
+
+In einfachen Worten: Wenn Computer miteinander reden, benutzen sie verschiedene Schichten. Auf der dritten Schicht gehen die Informationen in kleine Teile, die wir Pakete nennen. IP hilft uns dabei, diese Pakete zu erstellen und sicherzustellen, dass wir die richtigen Computer erreichen.

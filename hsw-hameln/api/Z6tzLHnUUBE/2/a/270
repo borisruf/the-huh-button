@@ -1,0 +1,17 @@
+Die Aussage handelt von der Übertragung von Daten in einem Netzwerk und erklärt einen Prozess, der passiert, wenn Daten von einem Computer zu einem anderen geschickt werden. Hier sind die wichtigsten Punkte einfach erklärt:
+
+1. **Datenpakete**: Wenn Computer Daten senden, werden diese in kleine Abschnitte, sogenannte Pakete, aufgeteilt.
+
+2. **MTU (Maximum Transmission Unit)**: Jedes Netzwerk hat eine maximale Größe, die ein Paket haben darf, um erfolgreich gesendet zu werden. Das nennt man MTU. 
+
+3. **Verschiedene Netzwerke**: Es gibt verschiedene Arten von Netzwerken, und jede hat ihre eigene MTU. Zum Beispiel: 
+   - Ethernet hat eine MTU von 1500.
+   - Bei PPP (eine andere Netzwerkart) ist die MTU viel kleiner, nur 532.
+
+4. **Daten anpassen**: Wenn ein Datenpaket, das 1400 groß ist, durch ein Netzwerk mit einer MTU von 532 geschickt werden muss, kann das nicht direkt geschehen, weil das Paket zu groß ist. 
+
+5. **Fragmentierung**: Deshalb muss das Paket in noch kleinere Teile zerlegt werden. Dieser Prozess heißt Fragmentierung. IP, ein Protokoll im Netzwerk, kümmert sich darum, die großen Pakete zu zerkleinern, damit sie in das kleinere MTU passen.
+
+6. **Weitergabe**: Nachdem die Pakete kleiner gemacht wurden, können sie durch das Netzwerk geschickt werden. Wenn sie dann einen anderen Router erreichen, der wieder eine größere MTU hat (wie Ethernet mit 1500), können sie unverändert weitergegeben werden.
+
+Insgesamt geht es also darum, dass Datenpakete manchmal in kleinere Stücke zerlegt werden müssen, damit sie durch verschiedene Netzwerke geschickt werden können. IP hilft dabei, diese Pakete so aufzuteilen, dass sie die richtige Größe haben.

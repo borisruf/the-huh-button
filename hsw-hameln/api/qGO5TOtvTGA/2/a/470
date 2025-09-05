@@ -1,0 +1,9 @@
+Ein Router ist ein Gerät, das in verschiedenen Netzwerken arbeitet und verschiedene Adressen hat, also IP-Adressen, die zu diesen Netzwerken gehören. Wichtig ist für uns, dass wir wissen, welches „Standard-Gateway“ es für die Verbindung zu dem Netz gibt, von dem wir gerade ausgehen.
+
+Stell dir vor, du willst eine Postkarte schicken. Wenn die Postkarte nicht an jemanden in deinem eigenen Dorf geht, musst du zur Poststelle, die die Karten an andere Städte weiterleitet. Diese Poststelle ist wie das „Standard-Gateway“. Es ist der Ort, wo du deine Post abgibst, wenn du nicht weißt, wo die Person lebt, die die Karte bekommen soll.
+
+In einem Netzwerk, wenn dein Computer einen anderen Computer erreichen will, der nicht im gleichen Netzwerk ist, fragt er zuerst das „Standard-Gateway“. Der Router hilft dann, die Daten an den richtigen Ort zu bringen. 
+
+Wir schauen uns auch an, wie Router miteinander kommunizieren, um herauszufinden, wie sie die besten Wege für Daten finden können. Es gibt verschiedene Methoden, wie Router Informationen tauschen können. Manchmal stellt ein Mensch die Routen ein (statisch), und manchmal sprechen die Router untereinander und finden selbst die besten Routen (dynamisch). 
+
+Egal wie, die Router brauchen Informationen, die ihnen sagen, wie sie die Daten am besten weiterleiten können, besonders wenn das Ziel weit weg ist oder in einem anderen Netzwerk.

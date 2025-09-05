@@ -1,0 +1,13 @@
+In dieser Erklärung geht es darum, wie man ein großes Netzwerk in kleinere Teile, sogenannte Subnetze, aufteilen kann. 
+
+1. **Subnetze und IP-Adressen**: Ein Subnetz ist ein kleineres Netzwerk innerhalb eines größeren Netzwerks. Wenn wir ein großes Netzwerk (zum Beispiel mit vielen IP-Adressen) haben, können wir es in kleinere Netzwerke aufteilen, damit wir nicht so viele IP-Adressen verschwenden.
+
+2. **Subnetzmaske**: Eine Subnetzmaske hilft uns zu bestimmen, wie viele IP-Adressen in einem Subnetz sind und wie viele Netzwerke wir haben. Wenn wir die Subnetzmaske ändern, ändert sich auch die Anzahl der IP-Adressen, die wir in einem Netzwerk verwenden können.
+
+3. **Beispiel**: Wenn wir ein Netzwerk mit 254 IP-Adressen haben, und wir wollen es in kleinere Netzwerke aufteilen, nehmen wir etwas von den Adressen weg, um neue Subnetze zu erstellen. Zum Beispiel, wenn wir 3 Adressen „nehmen“, können wir 8 kleinere Netzwerke erstellen, aber nicht alle Adressen aus diesen Netzwerken können verwendet werden.
+
+4. **Adressierung**: In jedem Subnetz gibt es einige Adressen, die nicht verwendet werden können, wie die erste und die letzte Adresse. Das bedeutet, wenn wir sagen, ein Subnetz hat 32 IP-Adressen, können wir nur 30 davon verwenden.
+
+5. **Wichtig**: Wenn wir die Subnetzmaske verändern, ist es nicht so einfach zu sehen, wo ein Computer mit einer bestimmten IP-Adresse sich befindet. Deshalb müssen wir spezielle Methoden nutzen (wie den logischen Endvergleich), um herauszufinden, in welchem Subnetz eine IP-Adresse ist.
+
+Zusammengefasst: Subnetze helfen uns, besser mit IP-Adressen umzugehen, sie sparen Platz und machen Netzwerke sicherer. Wir müssen immer darauf achten, welche Adressen wir verwenden können.

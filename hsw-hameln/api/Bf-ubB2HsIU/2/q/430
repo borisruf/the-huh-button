@@ -1,1 +1,1 @@
- Damit jetzt dieser Handshake abgeschlossen werden kann, antwortet unser ursprünglicher Sender an dieser Stelle noch einmal, und zwar nämlich mit der Bestätigung des Synchronisations der Sequenznummer von unserem Sender, also Y plus 1.  Jetzt sind die beiden also miteinander synchronisiert und können anfangen, Daten auszutauschen.
+ Jetzt sind die beiden also miteinander synchronisiert und können anfangen, Daten auszutauschen.  Und wie das in etwa aussehen könnte, das sehen wir jetzt in diesem Schaubild.

@@ -1,0 +1,5 @@
+Wir reden hier über ein Netzwerk, das Ethernet heißt. Am Anfang wird gesagt, dass bei der Übertragung von Informationen immer etwas vorne und hinten an das Paket angefügt wird. Man kann sich das wie einen Brief vorstellen: Vorne steht die Adresse des Empfängers und hinten könntest du noch etwas Wichtiges hinzufügen.
+
+In der zweiten Schicht des OSI-Modells – das ist eine Art Anleitung, wie Netzwerke funktionieren – gibt es zwei Adressen: die Zieladresse (wohin die Infos gehen) und die Quelladresse (von wo die Infos kommen). Das ist wichtig, damit die Daten den richtigen Weg finden und an die richtige Stelle gelangen. 
+
+Zusammengefasst: Wenn Daten über das Netzwerk geschickt werden, wird immer etwas vorne und hinten dazugefügt, damit klar ist, woher die Daten kommen und wohin sie gehen sollen.

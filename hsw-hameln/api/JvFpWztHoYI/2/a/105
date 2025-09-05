@@ -1,0 +1,9 @@
+Die Aussage besagt, dass es bei der Übertragung von Daten in Form von Einsen und Nullen Probleme gibt. Wenn wir viele Einsen oder Nullen hintereinander haben, bleibt der Signalpegel (das ist der Stromfluss) oft auf einem hohen oder niedrigen Level. Das nennt man einen hohen Gleichstromanteil. 
+
+Außerdem können wir aus dem Signal keinen Taktsignal gewinnen, das hilft, die Daten richtig zu lesen. Man braucht also eine Möglichkeit, um diese Probleme zu lösen: 
+
+1. **Taktrückgewinnung**: Das ist wichtig, um zu wissen, wann man ein neues Bit (eine Eins oder eine Null) anfangen soll. Wenn das Signal immer gleich bleibt, kann man damit nichts anfangen.
+
+2. **Gleichstromanteil**: Wenn viele Einsen oder Nullen hintereinander kommen, bleibt das Signal oft auf einem bestimmten Level, und das ist nicht gut, weil es schwieriger wird, die Bits zu unterscheiden.
+
+Die Frage ist also, wie man ein Signal erzeugen kann, das sowohl die Taktrückgewinnung ermöglicht als auch den hohen Gleichstromanteil verringert. Es müssen also bessere Methoden gefunden werden, damit die Datenübertragung reibungslos und zuverlässig funktioniert.

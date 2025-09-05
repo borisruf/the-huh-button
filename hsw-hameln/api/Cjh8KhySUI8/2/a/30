@@ -1,0 +1,7 @@
+UDP und TCP sind zwei Arten von Protokollen, die helfen, Daten über das Internet zu senden. Beide sind auf der gleichen Ebene, die als vierte Schicht bezeichnet wird, aber sie haben sehr unterschiedliche Ziele und Eigenschaften.
+
+TCP sorgt dafür, dass die Daten ganz ankommen und in der richtigen Reihenfolge sind. Es ist also sehr zuverlässig, aber etwas langsamer.
+
+UDP hingegen ist schneller, aber weniger zuverlässig. Es kümmert sich nicht so sehr darum, ob die Daten immer vollständig oder in der richtigen Reihenfolge ankommen. Es ist also besser für Anwendungen, bei denen Geschwindigkeit wichtig ist, wie zum Beispiel bei Online-Spielen oder Video-Anrufen.
+
+Das Wichtigste ist: TCP und UDP sind beide auf der gleichen Schicht, aber sie funktionieren ganz anders.

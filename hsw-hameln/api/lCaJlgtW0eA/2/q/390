@@ -1,0 +1,1 @@
+ Das soll heißen, würde aus diesen Kollisionsdomänen, aus diesen Netzwerksegmenten, ein Rechner einen Broadcast senden, dann würde der auch unseren Switch überspringen und wir hätten trotzdem einen Broadcast über diese Grenze, die der Switch quasi darstellt für die Kollisionsdomäne hinweg.  Das Ganze haben wir auch nochmal dargestellt in diesem Schaubild.

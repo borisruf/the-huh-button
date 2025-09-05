@@ -1,0 +1,7 @@
+Also, ein Internet-Router ist wie eine Tür zwischen deinem eigenen kleinen Netzwerk und dem großen Internet. Wenn du mit deinem Computer ins Internet gehen willst, macht der Router die Verbindung dafür. 
+
+Jeder Computer in deinem Netzwerk hat eine eigene private Adresse, die nur im kleinen Netzwerk funktioniert. Aber wenn du etwas im Internet machen möchtest, z.B. eine Webseite besuchen, sieht das Internet nur die Adresse des Routers. 
+
+Das bedeutet, alle Computer in deinem Netzwerk nutzen die gleiche Adresse, die der Router ins Internet sendet. So kann der Router sicherstellen, dass deine Anfrage an die richtige Stelle im Internet geht, und er sorgt dafür, dass die Antworten an den richtigen Computer in deinem Netzwerk zurückkommen. 
+
+Zusammengefasst: Der Router ist der einzige sichtbare Teil nach außen, während alle Computer im Inneren privat bleiben.

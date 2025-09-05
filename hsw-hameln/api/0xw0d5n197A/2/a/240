@@ -1,0 +1,5 @@
+Das Beispiel beschreibt, wie man in einem Netzwerk die Sicherheit gewährleisten kann. Wenn man im Internet surfen möchte, öffnet man normalerweise einen bestimmten „Eingang“ im Netzwerk, der als Port 80 bezeichnet wird. Dieser Eingang lässt viele Arten von Daten passieren, zum Beispiel Webseiten.
+
+Aber es gibt ein Problem: Manche Programme, wie Skype, können ihre Gespräche ebenfalls über diesen Eingang schicken. Wenn man nicht möchte, dass Skype oder andere Programme im Netzwerk genutzt werden, muss man die Daten, die durch diesen Eingang kommen, genau beobachten und analysieren. Das nennt man „Datenstrom-Analyse“. Man schaut, was für Daten das sind, um sicherzustellen, dass nur erlaubte Dinge durchkommen.
+
+Zusätzlich spricht man auch über etwas, das „Virtual Private Network“ (VPN) heißt. Das ist wichtig, wenn man zwei Netzwerke miteinander verbinden möchte, um die Daten dort sicher zu halten. Insgesamt geht es also darum, wie man sicherstellt, dass nur vertrauenswürdige und gewünschte Daten in ein Netzwerk gelangen.

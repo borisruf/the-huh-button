@@ -1,0 +1,5 @@
+In der einfachen Sprache bedeutet die Aussage Folgendes:
+
+Wenn zwei Gruppen von Computern, die in verschiedenen virtuellen Netzwerken (VLANs) sind, miteinander sprechen wollen, ist das ein bisschen wie bei echten Netzwerken. Um diese Gruppen miteinander verbinden zu können, brauchen wir eine spezielle Art von Gerät, das auf einer höheren Ebene (Schicht 3) arbeitet, meist einen Router. 
+
+Mit VLANs kann man Computer in einem großen Gebäude in verschiedene Gruppen einteilen, auch wenn sie in unterschiedlichen Stockwerken sind. Man kann sie so einrichten, dass nur bestimmte Computer miteinander kommunizieren können. Wenn dann aber zwei dieser Gruppen (VLANs) Informationen austauschen möchten, brauchen wir einen Router oder ein ähnliches Gerät, um diese Kommunikation zu ermöglichen, genau wie bei zwei echten Netzwerken.

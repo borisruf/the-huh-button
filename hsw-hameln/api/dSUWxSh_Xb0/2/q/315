@@ -1,0 +1,1 @@
+ Ja, und wenn wir jetzt ein geschickteres Verfahren ansetzen, dann nehmen wir das Asynchrone Zeit-Multiplexing.  Da geht es letztlich auch darum, zu pollen oder abzufragen, wer hat denn jetzt wie viel zu senden.

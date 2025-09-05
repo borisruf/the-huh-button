@@ -1,0 +1,7 @@
+Die Aussage erklärt, wie Netzwerkgeräte eine eindeutige Adresse bekommen, um sich im Netzwerk zu identifizieren. Die Adresse, die man "MAC-Adresse" nennt, besteht aus 6 Byte. 
+
+- Die ersten drei Byte (also die ersten 24 Bits) sind eine spezielle Kennung für den Hersteller des Geräts. Das heißt, sie zeigen an, von welchem Unternehmen das Gerät kommt.
+  
+- Die letzten drei Byte geben dann viele verschiedene Möglichkeiten für die Adressen. Genau genommen gibt es 2 hoch 24 Adressen, was ungefähr 16 Millionen entspricht. 
+
+Das bedeutet, dass jedes Unternehmen mit seiner speziellen Kennung sehr viele verschiedene Geräte adressieren kann, sodass kein Gerät die gleiche Adresse hat. Es ist wichtig, dass Geräte im Netzwerk eine einzigartige Adresse haben, damit sie sich gegenseitig finden und miteinander kommunizieren können.

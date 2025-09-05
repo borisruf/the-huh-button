@@ -1,5 +1,9 @@
-Wir versuchen die IP-Adresse 172.16.14.193 zu verstehen. Sie besteht aus vier Teilen, auch Oktette genannt. Es gibt einen Netzwerkteil und einen Teil, der spezifisch für jeden Computer (oder "Host") in diesem Netzwerk ist. Diese Teile werden durch eine sogenannte "Subnetzmaske" festgelegt. Die Subnetzmaske für unsere IP-Adresse hat vier Oktette, genau wie die IP-Adresse selbst.
+Sicher! Hier ist die Erklärung in sehr einfacher Sprache:
 
-Manchmal müssen wir diese Zahlen in eine binäre Form umwandeln, die nur Nullen und Einsen verwendet. Das hilft uns, die Subnetzmaske besser zu verstehen. Jede IP-Adresse gehört zu einer bestimmten Klasse, und jede Klasse hat eine Standard-Subnetzmaske. Für die Klasse B, zu der unsere IP-Adresse gehört, ist die Standard-Subnetzmaske 255.255.0.0.
+Wenn wir die IP-Adresse 193.16.14.172 betrachten, gehört sie zur Gruppe der Klasse B. Diese Klasse hat eine spezielle Maske, die uns hilft zu verstehen, wie viele Computer wir in diesem Netzwerk anschließen können.
 
-Die Anzahl der Nullen in der Subnetzmaske ist wichtig, denn sie sagt uns, wie viele verschiedene Computer wir in unserem Netzwerk haben können. Für unsere Klasse B-Adresse mit Standard-Subnetzmaske gibt es 16 Nullen in der Subnetzmaske. Das bedeutet, wir können viele verschiedene Computer in unserem Netzwerk haben.
+Die Subnetzmaske für Klasse B hat 16 Nullen. Das bedeutet, dass wir viel Platz für Computer (Hosts) haben. Um herauszufinden, wie viele Computer wir maximal anschließen können, schauen wir uns die Anzahl der Nullen in der Maske an. 
+
+Wir haben 16 Nullen. Wenn wir 2 hoch 16 rechnen, bedeutet das, dass wir aus diesen Nullen viele verschiedene Kombinationen erzeugen können. Das Ergebnis von 2 hoch 16 gibt uns die maximale Anzahl der Computer, die wir in diesem Netzwerk haben können. 
+
+Einfach gesagt: Die Anzahl der Nullen in der Maske zeigt uns, wie viele Computer in einem Netzwerk Platz finden.

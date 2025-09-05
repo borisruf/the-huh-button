@@ -1,1 +1,9 @@
-Das ist ein bisschen kompliziert, aber ich versuche es so einfach wie möglich zu erklären. Stell dir vor, du hast eine Adresse, die aus vier Teilen besteht und jedes Teil ist wie eine Nummer. Diese Adresse nennt man IP-Adresse. Aber diese Adresse ist nicht ganz alleine, sie hat eine Art Schatten: die sogenannte Subnetzmaske. Diese Schatten-Adresse hilft dabei, die Hauptadresse in zwei Teile zu unterteilen. Den Teil für das Netz und den Teil für den einzelnen Computer oder Handy oder was auch immer diese Adresse benutzt. Beide, die Hauptadresse und die Schattenadresse, bestehen aus vier Teilen. (Und weil es im Computer alles mit Bits und so zu tun hat, sagt man dazu Oktette.) Die Haupt- und Schattenadresse funktionieren zusammen - wie ein Schlüssel und ein Schloss. Nur wenn sie zusammenpassen, kannst du im Internet Sachen wie Websites aufrufen. Die Adresse, mit der wir rechnen, lautet 172.16.14.
+Die Aussage, die wir erklären wollen, handelt von IP-Adressen und ihrer Struktur. Hier ist die Erklärung in einfacher Sprache:
+
+Eine IP-Adresse hilft Computern, sich im Internet zu finden, ähnlich wie eine Adresse für ein Haus. Eine IP-Adresse, die wir IPv4 nennen, sieht so aus: Sie hat vier Teile, die wir Oktette nennen. Zum Beispiel in der Adresse 172.16.14.193 gibt es die vier Teile: 172, 16, 14 und 193.
+
+Diese Adresse hat insgesamt 32 Bits, was eine Art von Computerverschlüsselung ist. Die IP-Adresse besteht aus zwei Hauptteilen: einem Netzanteil und einem Host-Anteil. Der Netzanteil sagt, zu welchem Netzwerk der Computer gehört, und der Host-Anteil sagt, welcher Computer im Netzwerk angesprochen wird.
+
+Damit wir wissen, was zu welchem Anteil gehört, nutzen wir etwas, das Subnetzmaske heißt. Die Subnetzmaske ist ebenfalls wie die IP-Adresse in vier Teile unterteilt und hilft uns zu verstehen, welcher Teil die Netzwerk-ID und welcher Teil die Computer-ID ist.
+
+Zusammengefasst: Eine IP-Adresse zeigt, wo ein Computer im Internet ist. Sie hat 32 Bits, besteht aus vier Teilen und wird mit einer Subnetzmaske verbunden, um zu bestimmen, welches Netzwerk und welcher Computer gemeint ist.

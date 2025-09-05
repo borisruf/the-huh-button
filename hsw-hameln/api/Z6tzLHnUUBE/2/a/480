@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes: Wenn Daten von einem Computer (Rechner A) zu einem anderen Computer (Rechner B) geschickt werden, bleiben die IP-Adressen (die Adressen, die die Computer im Internet identifizieren) von A und B gleich. 
+
+Die MAC-Adressen (die physischen Adressen, die die Geräte im lokalen Netzwerk identifizieren) ändern sich jedoch. Jeder Router, der die Daten von A nach B weiterleitet, ersetzt die MAC-Adresse des vorherigen Geräts durch seine eigene. 
+
+Das bedeutet, dass das Datenpaket, während es durch das Netzwerk reist, von Router zu Router geschickt wird, und jeder Router fügt seine eigene MAC-Adresse hinzu, bis die Daten schließlich bei Rechner B ankommen.

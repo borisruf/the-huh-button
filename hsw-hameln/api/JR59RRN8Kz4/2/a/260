@@ -1,0 +1,5 @@
+In dieser Aussage geht es darum, wie man sicherstellt, dass Sprachdaten beim Telefonieren über das Internet (Voice over IP) gut und ohne Störungen übertragen werden. 
+
+Stell dir vor, dein Internet besteht aus vielen kleinen "Paketen", die Daten transportieren. Manchmal sind diese Pakete wichtig, wie die für ein Telefonat, und manchmal sind sie weniger wichtig, wie die für eine E-Mail. Quality-of-Service (QoS) bedeutet, dass wir die wichtigen Pakete, die für Gespräche sind, bevorzugen. 
+
+Wenn wir also genau hinsehen, welche Pakete wichtig sind, können wir die wichtigen Pakete wie die für das Telefonat schneller und besser durch das Netzwerk schicken. Dadurch stellen wir sicher, dass das Gespräch klar und ohne Unterbrechungen ankommt.

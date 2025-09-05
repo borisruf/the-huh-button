@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie zwei Computer, die miteinander kommunizieren, ihre Datenübertragung effizienter gestalten können. 
+
+Stell dir vor, ein Computer (der Sender) möchte viele Daten schnell an einen anderen Computer (den Empfänger) schicken. Aber der Empfänger kann die Daten nicht so schnell verarbeiten. Daher müssen sie eine Regel finden, um die Kommunikation zu organisieren. Diese Regel nennt man Flusssteuerung.
+
+Das "Sendefenster" ist wie ein Lernfenster, das ihnen zeigt, wie viele Daten sie gleichzeitig senden können, ohne auf eine Bestätigung zu warten. Es funktioniert so: Der Sender kann mehrere kleine Datenpakete gleichzeitig schicken, anstatt jedes Mal zu warten, bis der Empfänger sagt: "Ich habe das Paket erhalten." Dieses Fenster kann verschoben werden, um mehr oder weniger Daten zu senden, je nachdem, wie schnell der Empfänger ist.
+
+So sorgt das Sendefenster dafür, dass der Sender und der Empfänger besser zusammenarbeiten, ohne dass die Verbindung langweilig wird, weil man ständig warten muss. Das Ziel ist, die Verkehrsleitung (also die Datenleitung) immer beschäftigt zu halten!

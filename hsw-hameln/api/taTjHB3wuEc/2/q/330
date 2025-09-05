@@ -1,0 +1,1 @@
+ Er reduziert seine Fenstergröße, er schickt jetzt nur noch zwei Pakete, bevor er eine Bestätigung erwartet und an dieser Stelle bestätigt dann unser Empfänger natürlich auch das nächste Paket, in diesem Falle das Acknowledgement 7 und sagt weiterhin Fenstergröße 2.  Das kann sich im Laufe der Kommunikation weiter anpassen.

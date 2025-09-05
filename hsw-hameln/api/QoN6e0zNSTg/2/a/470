@@ -1,0 +1,5 @@
+Ein Netzwerkadapter ist ein Gerät, das Computer oder andere Geräte mit einem Netzwerk verbindet. Jeder Netzwerkadapter hat eine besondere Nummer, die MAC-Adresse genannt wird. Diese Nummer ist wie eine eindeutige ID für das Gerät, damit man es unter vielen anderen Geräten erkennen kann. 
+
+Die MAC-Adresse ist 6 Byte lang, was bedeutet, dass sie aus 6 Gruppen von Zahlen und Buchstaben besteht. Diese Gruppen werden oft in einer speziellen Schreibweise dargestellt, die Hexadezimal genannt wird. Die Teile der Adresse werden durch einen Strich (oder einen anderen Separator) getrennt. 
+
+Das bedeutet zusammengefasst: Ein Netzwerkadapter hat eine spezielle Nummer, die hilft, ihn zu identifizieren, und diese Nummer sieht in einer bestimmten Form aus.

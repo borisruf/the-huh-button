@@ -1,0 +1,7 @@
+Okay, lass uns das einfach erklären:
+
+Wenn Informationen von einem Ort zum anderen gesendet werden, müssen sie in kleine Pakete, die man „Frames“ nennt, aufgeteilt werden. Damit jeder, der die Informationen empfängt, genau weiß, wo ein Paket anfängt und wo es endet, gibt es spezielle Zeichen. Diese Zeichen heißen „Start of Text“ und „End of Text“. Manchmal können diese speziellen Zeichen auch in den Informationen selbst vorkommen, und das kann zu Verwirrung führen.
+
+Um zu verhindern, dass der Empfänger denkt, das Ende der Nachricht sei erreicht, weil er ein „End of Text“-Zeichen gefunden hat, gibt es eine Regel: Diese speziellen Zeichen dürfen nicht in den Informationen selbst erscheinen. Wenn sie das doch tun, wird das mit einer bestimmten Methode, die man „Bitstopf-Methode“ nennt, geregelt. Diese Methode sorgt dafür, dass die Zeichen im Datenteil nicht als Ende der Nachricht missverstanden werden.
+
+Im Beispiel wird gezeigt, dass im zweiten Byte (also ein Teil der gesendeten Daten) tatsächlich ein „End of Text“-Zeichen ist. Dieses Zeichen ist unter den Regeln des Protokolls klar definiert, sodass der Empfänger weiß, dass es sich nur um ein Teil der Daten handelt und nicht um das wirkliche Ende.

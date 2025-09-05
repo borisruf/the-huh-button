@@ -1,5 +1,13 @@
-Eine IP-Adresse ist wie eine Hausnummer im Internet: Sie zeigt den Computern, wo sie Daten hin- und abbekommen sollen. Damit der Computer richtig arbeiten kann, muss er wissen, welcher Teil der IP-Adresse für das Netzwerk und welcher für den einzelnen Computer (den "Host") steht. Diese Info bekommt er aus der "Subnetzmaske". In der Maske stehen viele Einsen und Nullen. Die Einsen zeigen den Netzwerk-Teil an und die Nullen den Host-Teil.
+Okay, lass uns das einfach erklären!
 
-Zum Beispiel haben wir die IP-Adresse 172.16.14.193. Die dazugehörige Subnetzmaske zeigt mit Einsen an, dass die ersten beiden Teile ("Oktette") zum Netzwerk gehören. Die Nullen zeigen, dass die letzten beiden Teile zum Host gehören. Also gehört die 172.16 zu dem Netzwerk und die 14.193 zum Host.
+Eine IP-Adresse ist wie eine Adresse für dein Haus im Internet. Sie besteht aus vier Teilen, die durch Punkte getrennt sind, und jeder Teil wird "Oktett" genannt. Zum Beispiel: 172.16.14.193. 
 
-Um das zu überprüfen kann man die Zahlen untereinander schreiben und einen "Endvergleich" machen. Bei dem "Endvergleich" vergleicht man die Zahlen von oben und unten. Wenn unten und oben eine Eins steht, schreibt man eine Eins hin. Steht da was anderes, schreibt man eine Null hin. Bei unserem Beispiel kommt da bei den ersten beiden Teilen nur ein Ergebnis raus, wenn in der IP-Adresse eine Eins steht. So sieht man schön, dass der Netzwerk-Teil und der Host-Teil stimmen.
+Die Subnetzmaske ist eine Art Karte, die zeigt, welcher Teil der IP-Adresse zum Netzwerk gehört und welcher Teil zu einem Computer in diesem Netzwerk. Auch die Subnetzmaske wird in vier Teilen angezeigt.
+
+Jetzt, wenn wir die IP-Adresse und die Subnetzmaske nebeneinander schreiben, können wir sie vergleichen. Es gibt eine einfache Regel: Wenn in beiden Adressen (IP-Adresse und Subnetzmaske) an der gleichen Stelle eine „1“ steht, dann schreiben wir für diese Stelle auch eine „1“ auf.
+
+In unserem Beispiel 172.16.14.193 und der Subnetzmaske 255.255.0.0 schneiden wir die ersten zwei Teile der Adressen an. Bei der Subnetzmaske ist da: 255.255.0.0, was in binär (eine andere Art, Zahlen darzustellen) bedeutet, dass die ersten zwei Teile ganz „voll“ sind (also nur 1en haben). 
+
+Das bedeutet, dass nur in den Teilen, wo auch in der IP-Adresse eine „1“ steht, wir auch eine „1“ für unseren Vergleich bekommen. Das hilft uns zu verstehen, welcher Teil der IP-Adresse das Netzwerk ist und welcher Teil der Computer.
+
+Zusammengefasst: Wir vergleichen die IP-Adresse und die Subnetzmaske, um herauszufinden, was zum Netzwerk gehört und was zum speziellen Computer!

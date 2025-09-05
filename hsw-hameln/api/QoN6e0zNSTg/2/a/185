@@ -1,0 +1,8 @@
+Die Aussage beschreibt, wie verschiedene Geräte in einem Netzwerk miteinander kommunizieren, ohne sich zu stören. Hier ist die Erklärung in sehr einfacher Sprache:
+
+- **CSMA** steht für „Carrier Sense Multiple Access“, was bedeutet, dass Geräte wie Endgerät 1 und Endgerät 3 zuerst hören, ob das Netzwerk gerade benutzt wird. 
+- „Carrier Sense“ heißt, dass die Geräte „lauschen“ und überprüfen, ob sie reden können, ohne dass jemand anderes gerade spricht.
+- Wenn Endgerät 1 und Endgerät 3 feststellen, dass das Netzwerk frei ist (also niemand spricht), können sie gleichzeitig mit der Übertragung ihrer Informationen anfangen.
+- Es ist wichtig, dass beide Geräte wissen, wann sie sprechen können, damit es nicht zu Störungen kommt und alles reibungslos funktioniert.
+
+Also, sie hören zuerst zu, und wenn alles ruhig ist, fangen sie an, ihre Nachrichten zu senden. So können viele Geräte in einem Netzwerk gleichzeitig kommunizieren, ohne sich gegenseitig zu unterbrechen.

@@ -1,0 +1,16 @@
+In dieser Erklärung geht es darum, wie Computer im Internet mit speziellen Zahlen, den IP-Adressen, identifiziert werden. Hier ist eine einfache Erklärung der wichtigen Punkte:
+
+1. **Wolke und Computer**: Stell dir vor, die Wolke steht für das Internet, also für all die Informationen und Webseiten. Unten sind viele Computer, die miteinander verbunden sind. Diese Computer sind nicht direkt mit dem Internet verbunden, sondern über ein Gerät namens Switch, und dazwischen gibt es einen Router.
+
+2. **IP-Adressen**: Jede Verbindung im Internet hat eine Adresse, die IP-Adresse heißt. Diese Adressen helfen dabei, die Computer und Geräte zu identifizieren, damit sie miteinander kommunizieren können.
+
+3. **IP-Adressklassen**: Man kann die IP-Adressen in verschiedene Klassen einteilen: A, B und C. Jede Klasse hat bestimmte Regeln, wie die Adressen aussehen dürfen. 
+   - **Klasse A**: Hier hat die Adresse eine bestimmte Zahl zwischen 0 und 127. Diese Klasse kann viele Computer unterstützen.
+   - **Klasse B**: Diese hat Zahlen zwischen 128 und 191. Sie kann weniger Computer unterstützen als Klasse A, aber mehr als Klasse C.
+   - **Klasse C**: Die Zahlen hier liegen zwischen 192 und 223. Diese Klasse ist für kleinere Netzwerke gedacht.
+
+4. **Private und öffentliche IP-Adressen**: Es gibt auch private IP-Adressen, die in einem eigenen Netzwerk verwendet werden können, wie zum Beispiel in einem Zuhause. Diese Adressen sind im Internet nicht sichtbar. Öffentliche IP-Adressen hingegen sind die, die im Internet gesehen werden und von speziellen Stellen vergeben werden.
+
+5. **Zugriff auf das Internet**: Wenn Computer mit privaten IP-Adressen ins Internet gehen wollen, nutzen sie einen Router. Dieser Router hat eine öffentliche IP-Adresse. Der Router sorgt dafür, dass die Informationen zwischen dem privaten Netzwerk und dem Internet hin und her geschickt werden.
+
+Auf diese Weise können die Computer in einem kleinen Netzwerk (wie zu Hause) sicher ins Internet gehen, ohne dass ihre privaten Adressen im Internet sichtbar sind.

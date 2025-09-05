@@ -1,0 +1,5 @@
+Der Sender schickt Daten an den Empfänger. Wenn der Empfänger die Daten erhält, muss er dem Sender bestätigen, dass alles in Ordnung ist. Wenn der Sender zu viele Daten auf einmal schickt und der Empfänger damit überfordert ist, kann der Empfänger sagen: „Ich kann nicht so viel auf einmal empfangen, bitte schicke mir weniger Daten.“ 
+
+Wenn der Empfänger sagt, er kann nur 5 Daten auf einmal empfangen, erwartet der Sender, dass der Empfänger diese Menge 5 bestätigen wird. Wenn alles in Ordnung ist, könnte der Sender trotzdem zu viele Daten schicken, also muss er auf die Rückmeldung des Empfängers warten, bevor er mehr Daten sendet.
+
+Jetzt muss der Sender also seine Menge an Daten, die er senden darf, reduzieren, und das musst er ebenfalls dem Sender mitteilen, damit der Sender sich darauf einstellen kann.

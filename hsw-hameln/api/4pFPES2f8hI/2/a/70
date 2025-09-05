@@ -1,0 +1,7 @@
+Die Aussage spricht über ein Problem in Computernetzwerken. 
+
+Stell dir vor, ein Netzwerk ist wie eine große Stadt mit vielen Häusern (das sind die Computer). In dieser Stadt sind die Adressen für die Häuser (IP-Adressen) sehr begrenzt und manchmal viel zu groß. Das macht es schwierig, viele kleine Gruppen von Häusern zu verwalten.
+
+Wenn man die Stadt (das Netzwerk) in kleinere Viertel (Subnetze) aufteilt, wird es einfacher, alles zu organisieren und zu verwalten. Außerdem ist es wichtig, dass die verschiedenen Viertel sicher sind.
+
+Die Subnetzmaske ist ein Werkzeug, das hilft, diese Viertel zu erstellen und zu bestimmen, wo welche Häuser stehen. Indem man die große Stadt in kleinere Teile aufteilt, kann man besser mit der Adressknappheit umgehen und gleichzeitig die Sicherheit erhöhen.

@@ -1,0 +1,11 @@
+Stell dir vor, wir haben ein großes Gebäude mit drei Stockwerken. In jedem Stockwerk gibt es ein eigenes Netzwerk, wo die Computer miteinander reden. Aber manchmal will man die Computer nicht nur nach Stockwerken aufteilen, sondern man möchte flexiblere Gruppen bilden. Dafür gibt es etwas, das nennt man VLANs (virtuelle LANs). Damit kann man Computer so organisieren, dass sie selbst über verschiedene Stockwerke hinweg zusammenarbeiten können.
+
+Es gibt zwei Hauptwege, wie man VLANs einrichten kann:
+
+1. **Statisch:** Der Netzwerk-Administrator entscheidet, welcher Computer zu welchem VLAN gehört, und stellt das ganz genau für jeden Anschluss an einem Switch ein. Das bedeutet, wenn ein Computer an einen bestimmten Platz angeschlossen wird, hat dieser Platz schon eine feste VLAN-Zugehörigkeit. Wenn dort aber ein Computer angeschlossen wird, der nicht zu diesem VLAN gehört, kann das Probleme geben.
+
+2. **Dynamisch:** Hier wird es einfacher. Es gibt eine zentrale Stelle im Netzwerk, die weiß, wo welcher Computer gehört, basierend auf der speziellen Adresse des Computers (das nennt man MAC-Adresse). Wenn man einen Computer an einen Switch anschließt, überprüft der Switch, wo dieser Computer hingehört und fügt die passende VLAN-Information hinzu.
+
+Wenn ein Computer etwas schickt, ist das wie ein Paket. Dieses Paket muss wissen, zu welchem VLAN es gehört. Das geschieht auf einer speziellen Ebene im Netzwerk (Schicht 2), wo man zusätzliche Informationen in das Paket einfügt. Diese Informationen helfen dem Switch zu erkennen, zu welchem VLAN das Paket gehört.
+
+Zusammengefasst: VLANs helfen, Computer flexibler zu gruppieren, sodass sie nicht nur nach Stockwerken, sondern nach Bedarf zusammenarbeiten können, und es gibt Wege, das einzurichten - entweder manuell oder automatisch.

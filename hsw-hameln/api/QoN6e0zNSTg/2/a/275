@@ -1,0 +1,7 @@
+In diesem Text wird über ein Netzwerk-System gesprochen, besonders über eine Technologie namens Ethernet. Es wird erklärt, dass Ethernet eine Idee ist, die schon seit 40 Jahren existiert. Der Erfinder, Bob Metcalf, hatte die Idee, dass mehrere Geräte ein gemeinsames Medium (wie Kabel) nutzen, um miteinander zu kommunizieren.
+
+Das hat aber auch Probleme, weil viele Geräte gleichzeitig auf das Kabel zugreifen wollen. Man muss also Regeln aufstellen, wie sie das rechtzeitig und ordentlich machen können, damit es nicht zu Verwirrungen (Kollisionen) kommt.
+
+Ein wichtiges Verfahren dafür heißt CSMA-CD. Das bedeutet, dass die Geräte zuerst hören, ob das Medium frei ist. Wenn ja, senden sie ihre Daten. Wenn zwei Geräte gleichzeitig senden, entsteht eine Kollision. Das wird bemerkt und die Übertragung wird gestoppt. Jedes Gerät wartet dann eine zufällige Zeit, bevor es erneut versucht, seine Daten zu senden.
+
+Zusammenfassend wird gesagt, dass in der Erklärung besonders die zweite Schicht im ISO-OSI-Modell wichtig ist. In dieser Schicht geht es um die Sicherheit der Datenübertragung. Diese Schicht hat zwei Unterteilungen, die hier das erste Mal erwähnt werden.

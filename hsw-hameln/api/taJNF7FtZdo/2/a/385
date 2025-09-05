@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es zwei Möglichkeiten gibt, wie Router entscheiden können, wohin sie Daten senden:
+
+1. **Dynamisch:** Das bedeutet, dass die Router automatisch lernen, welche Wege die besten sind, ohne dass jemand manuell eingreifen muss. Sie nutzen Informationen über den Netzwerkverkehr, um die besten Routen zu finden.
+
+2. **Manuell:** Hierbei kann ein Administrator (eine Person, die das Netzwerk steuert) die Routen selbst einstellen. Das heißt, er kann direkt bestimmen, welche Wege die Daten nehmen sollen.
+
+In beiden Fällen ist es wichtig, dass die Router wissen, wohin die Daten gesendet werden sollen, damit sie den besten oder gewünschten Weg finden.

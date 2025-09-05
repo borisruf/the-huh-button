@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es zwei Arten von Internetadressen gibt: IP Version 4 und IP Version 6. 
+
+- **IP Version 4** hat kurze Adressen, die nur 32 Zeichen lang sind. Das ist wie eine kleine Villa mit nur ein paar Zimmern. Es gibt nicht genug Platz für alle, die eine Adresse brauchen, deshalb werden die Adressen knapp.
+
+- **IP Version 6** hingegen hat viel längere Adressen, die 128 Zeichen lang sind. Das ist wie ein großes Schloss mit vielen Zimmern! Es gibt dadurch viel mehr Platz.
+
+Wegen dieser langen Adressen in IP Version 6 können wir viele mehr Adressen vergeben – ganz viele, nämlich 10 hoch 38. Das ist eine riesige Zahl, viel mehr, als wir zurzeit brauchen. Das hilft, dass es langfristig genug Adressen für all die Geräte gibt, die mit dem Internet verbunden sind.

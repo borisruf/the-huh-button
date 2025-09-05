@@ -1,0 +1,9 @@
+Die Aussage sagt etwas über die Darstellung von IP-Adressen in der neuen Version (IP Version 6). 
+
+Stell dir vor, eine IP-Adresse ist wie eine Telefonnummer, die aus mehreren Gruppen von Zahlen besteht. Bei IP Version 4 hatten wir Gruppen mit 3 Zahlen, die durch Punkte getrennt waren, wie "192.168.1.1".
+
+In IP Version 6 haben wir jetzt Gruppen mit 4 Zahlen, die durch Doppelpunkte getrennt sind, wie "2001:0db8:85a3:0000:0000:8a2e:0370:7334". Jede dieser Gruppen sieht aus wie eine Hexadezimalzahl (das bedeutet, sie kann Zahlen von 0 bis 9 und Buchstaben von A bis F enthalten).
+
+Jetzt ist es wichtig zu wissen, dass wir nicht immer 4 Zahlen in jeder Gruppe haben müssen. Wenn nur zwei Zahlen in einer Gruppe stehen, wissen wir, dass am Anfang zwei Nullen fehlen. Beispiel: Statt "1A2B" schreiben wir einfach "1A2B" und wissen, dass es eigentlich "00:1A2B" sein könnte. Es ist wie wenn du eine Telefonnummer hast und die ersten zwei Ziffern nicht da sind, du aber weißt, dass sie dort sein sollten. 
+
+Das macht es einfacher, die Adressen zu schreiben und zu lesen, auch wenn es komplizierter aussieht.

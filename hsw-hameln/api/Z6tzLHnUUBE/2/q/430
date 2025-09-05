@@ -1,0 +1,1 @@
+  Wenn ich das jetzt aber verschicken möchte, dann kenne ich ja unter Umständen gar nicht die MAC-Adresse von meinem Rechner B, also schicke ich das Ganze erstmal an den nächsten Router und zwar ist dann die Quell-MAC-Adresse logischerweise meine.  Die Ziel-MAC-Adresse ist dann aber die von Router 1 in diesem Fall.

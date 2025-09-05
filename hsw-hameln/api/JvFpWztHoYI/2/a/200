@@ -1,0 +1,13 @@
+Okay, lass uns die Aussage einfacher erklären:
+
+Wenn wir Daten (wie Einsen und Nullen) über ein Kabel schicken, müssen wir ein Signal erzeugen, das diese Daten zeigt. Dazu benutzen wir eine Technik, die wir „Leitungskodierung“ nennen.
+
+Eine einfache Methode ist das Return-to-Zero-Verfahren, wo eine Eins durch einen kurzen „Hoch-Puls“ dargestellt wird und eine Null durch keinen Puls (die Linie „kehrt zurück“ zum Grundzustand). Aber diese Methode hat einen Nachteil: Sie hat einen hohen Gleichstromanteil und wir können nicht gut erkennen, wo der Takt ist.
+
+Das Non-Return-to-Zero-Verfahren ist ähnlich, aber hier hat die Null auch ein niedriges Signal, sodass wir es erkennen können. Es ist einfach umzusetzen, hat aber ebenfalls Probleme mit dem Takt und dem Gleichstrom.
+
+Um diese Probleme zu lösen, kombinieren wir das Non-Return-to-Zero-Verfahren mit einem Taktsignal. Das bedeutet, wir fügen ein zusätzliches Regel-Signal hinzu, das hilft, die Einsen und Nullen genau zu erkennen und den Takt zurückzugewinnen. 
+
+So können wir sicherstellen, dass es bei den Daten viele Wechsel gibt und nicht immer das gleiche Signal bleibt – das hilft uns, das Signal besser zu verarbeiten, auch wenn es mal gestört ist. 
+
+Zusammengefasst: Wir nutzen einen Takt und ein Non-Return-to-Zero-Verfahren zusammen, um ein gutes Signal für die Datenübertragung zu erzeugen.

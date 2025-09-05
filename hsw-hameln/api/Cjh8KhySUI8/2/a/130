@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir uns zwei verschiedene Arten von Datenübertragungsprotokollen anschauen: UDP und TCP. Beide Protokolle haben einige ähnliche Dinge, die markiert sind (blau eingefärbt). Das bedeutet, dass sie gewisse Gemeinsamkeiten haben.
+
+Aber es gibt auch Unterschiede. Zum Beispiel hat TCP eine Sequenznummer und Bestätigungen (Acknowledgements), die wichtig sind, um sicherzustellen, dass die Daten in der richtigen Reihenfolge ankommen und dass alles, was gesendet wurde, auch wirklich angekommen ist. UDP hat diese Dinge nicht. 
+
+Das liegt daran, dass UDP schneller arbeiten will, auch wenn das bedeutet, dass nicht alle Datenpakete ankommen könnten. Das ist in Situationen wie Telefonaten über das Internet oder beim Streamen von Videos nicht so wichtig, weil man dort oft nichts merkt, wenn mal ein kleines Stück fehlt.

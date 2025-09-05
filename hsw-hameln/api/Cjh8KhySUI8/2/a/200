@@ -1,0 +1,7 @@
+Die Aussage besagt, dass es zwei Arten von Protokollen gibt, um Daten über das Internet zu senden: TCP und UDP. 
+
+- Bei TCP ist der Header, also der Teil der Daten, der Informationen über die Übertragung enthält, 20 Byte groß. Das bedeutet, es gibt viele Informationen, die überprüft werden, um sicherzustellen, dass die Daten richtig ankommen. Das macht die Übertragung sicherer, aber auch langsamer.
+
+- Bei UDP ist der Header nur 8 Byte groß. Das bedeutet, es gibt viel weniger Informationen und Überprüfungen. Dadurch können mehr Daten schneller gesendet werden, aber es ist weniger sicher. Es kann sein, dass nicht alle Daten ankommen.
+
+Zusammengefasst: UDP kann schneller sein, weil es weniger kontrolliert, aber das bedeutet auch, dass es nicht so sicher ist wie TCP.

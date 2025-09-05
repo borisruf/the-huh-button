@@ -1,0 +1,5 @@
+Wir haben jetzt drei Gruppen im Netzwerk, die man VLANs nennt. Von diesen drei Gruppen haben wir zwei, in denen Computer sind, und eine Gruppe, die nur für Telefone da ist. Diese spezielle Gruppe für Telefone nennt man Voice-VLAN.
+
+Wenn wir Telefone im Netzwerk verwenden, gibt es viele Vorteile. Zum Beispiel können wir die gleichen Kabel sowohl für das Telefonieren als auch für andere Daten benutzen. So müssen wir nicht verschiedene Systeme für Sprache und Daten haben. Außerdem können wir neben Telefonanrufen auch Videotelefonate und andere Dienste nutzen.
+
+Für die Telefonate brauchen wir besondere Technik, damit die Sprachqualität gut ist. Das bedeutet, wir müssen sicherstellen, dass die Sprache schnell und ohne Unterbrechungen übertragen wird.  Wenn wir die Sprache und die Daten in getrennte Gruppen (VLANs) einteilen, hilft das, die Qualität der Gespräche noch besser zu machen. So bekommen die Sprachdaten Vorrang und können störungsfrei übertragen werden.

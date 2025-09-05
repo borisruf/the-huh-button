@@ -1,0 +1,7 @@
+Die Aussage besagt Folgendes:
+
+IP-Adressen sind wie Adressen für Computer im Internet. Sie werden in verschiedene Gruppen eingeteilt, die Klassen heißen. Diese Klassen zeigen, wie die IP-Adresse aussieht, besonders das erste Stück, das wir "Oktett" nennen. 
+
+Wenn die ersten drei Stellen (Bits) des ersten Oktetts so aussehen: 1, 1, 0, dann gehört die IP-Adresse zur Klasse C. In dieser Klasse dürfen die Zahlen im ersten Oktett zwischen 192 und 223 liegen. 
+
+Es gibt auch andere Klassen von IP-Adressen, aber wir konzentrieren uns zuerst auf die Klassen A, B und C. Diese sind wichtig, weil die meisten Computeradressen in diesen Klassen sind.

@@ -1,0 +1,17 @@
+Die Aussage bedeutet, dass wir unsere Daten, die aus einer Reihe von Einsen und Nullen bestehen (das nennen wir Bitstrom), in ein Signal verwandeln. Dieses Signal ist etwas, das wir tatsächlich über ein Kabel oder eine andere Art von Verbindung senden können. 
+
+Hier ein einfacher Schritt-für-Schritt-Erklärung:
+
+1. **Daten haben**: Wir beginnen mit den Informationen, die aus Einsen und Nullen bestehen.
+
+2. **Signal erstellen**: Diese Daten werden in ein "Signal" umgewandelt. Ein Signal ist etwas, das wir sehen oder hören können, wie eine Welle oder ein Geräusch.
+
+3. **Zeit und Ort**: Das Signal verändert sich im Raum (wo es ist) und in der Zeit (wann es ist). Das bedeutet, dass es zu verschiedenen Zeiten und an verschiedenen Orten unterschiedliche Formen annehmen kann.
+
+4. **Abtasten**: Um das Signal zu digitalisieren, nehmen wir an bestimmten Punkten im Zeitverlauf und an bestimmten Orten Messungen vor. Das nennt man Abtasten. Das ist wie ein Foto machen, aber mit dem Signal.
+
+5. **Digital machen**: Wenn wir diese Messungen kombinieren, können wir das ursprüngliche Signal in eine digitale Form bringen, die aus Einsen und Nullen besteht, so dass wir sie leicht senden können.
+
+6. **Übertragung**: Schließlich senden wir dieses digitale Signal über einen digitalen Kanal (wie das Internet) oder einen analogen Kanal (wie eine Telefonleitung).
+
+Also im Grunde genommen: Wir verwandeln Daten in ein Signal, das wir dann übertragen können.

@@ -1,0 +1,13 @@
+VLAN steht für Virtuelles Lokales Netzwerk. Es hilft, verschiedene Computer in einer großen Gruppe in kleinere Gruppen zu unterteilen, damit sie besser miteinander kommunizieren können, ohne dass sie sich gegenseitig stören.
+
+Stell dir ein großes Bürogebäude vor. Es hat drei Stockwerke, und jedes Stockwerk hat seine eigenen Computer. Normalerweise könnte jedes Stockwerk ein eigenes Netzwerk haben. Wenn aber jemand im Erdgeschoss mit jemandem im zweiten Stock sprechen möchte, brauchen sie einen Router, um diese Verbindung herzustellen.
+
+VLANs erlauben es uns, die Computer unabhängig vom Stockwerk in Gruppen einzuteilen. So könnte ein Computer im Erdgeschoss zur Gruppe im zweiten Stock gehören, ohne dass eine physische Verbindung zwischen den beiden nötig ist.
+
+Es gibt zwei Arten, diese VLANs einzurichten:
+
+1. **Statische Methode:** Hier entscheidet einer, meistens ein Administrator, welche Computer zu welchem VLAN gehören. Er macht das für jeden Anschluss an einem Switch. Das kann problematisch sein, weil manchmal ein Computer an den falschen Anschluss gesteckt wird und dann nicht richtig funktioniert.
+
+2. **Dynamische Methode:** Bei dieser Methode schauen wir uns die MAC-Adresse an. Jede Netzwerkverbindung hat eine eigene MAC-Adresse, so wie eine Telefonnummer. Wenn ein Computer an einen Switch angeschlossen wird, erkennt das Netzwerk, zu welchem VLAN dieser Computer gehört, basierend auf seiner MAC-Adresse. 
+
+Die VLAN-Informationen werden also durch diese MAC-Adressen über die Switch-Ports übertragen, damit das Netzwerk weiß, wo die Computer hingehören und wie sie miteinander kommunizieren können.

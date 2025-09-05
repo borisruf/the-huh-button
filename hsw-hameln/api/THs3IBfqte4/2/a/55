@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, wie Daten in einem Netzwerk übertragen werden. Hier ist eine einfache Erklärung:
+
+Wir sprechen über Ethernet, was eine Art von Netzwerk ist, das viele Geräte verbindet, wie Computer. Wenn wir Informationen schicken, nutzen wir das gesamte Band von Frequenzen, das uns zur Verfügung steht. Das bedeutet, dass wir viele verschiedene Signale gleichzeitig senden können.
+
+Wir benutzen eine Methode, um diese Daten zu übertragen, die "Zeit-Multiplexing" heißt. Das bedeutet einfach, dass wir die Zeit nutzen, um verschiedene Daten nacheinander zu senden, anstatt sie alle auf einmal zu schicken. So können wir sicherstellen, dass alles gut funktioniert.
+
+Zusammengefasst: Wir senden Daten in Netzwerken effizient, indem wir die gesamte verfügbare Frequenz und eine kluge Methode namens Zeit-Multiplexing nutzen.

@@ -1,1 +1,5 @@
-Das bedeutet, dass wir einige Teile unseres Netzwerksystems grün gefärbt haben, um sie besser zu erkennen. Durch diese grünen Teile, die auch Ports genannt werden, schicken wir Daten von einem Ort zum anderen. Das System ist extra so gebaut, dass die Daten immer den besten Weg nehmen, um schnell und sicher anzukommen.
+In diesem Text geht es um Netzwerke, in denen Geräte, die Switches genannt werden, miteinander verbunden sind. Wenn man viele Verbindungen macht, kann es passieren, dass die Geräte durcheinanderkommen und Datenpakete in einer Schleife geschickt werden. Das ist ein Problem, weil die Geräte nicht wissen, wohin sie die Daten schicken sollen, und das führt dazu, dass das Netzwerk überlastet wird.
+
+Um dieses Problem zu lösen, gibt es das Spanning-Tree-Protokoll. Dabei wird zuerst der gesamte Datenverkehr zwischen den Switches gestoppt. Die Switches tauschen dann Informationen aus, um herauszufinden, welcher Switch der wichtigste ist und wie die Daten am besten durch das Netzwerk geschickt werden können. 
+
+Sobald das geregelt ist, dürfen wieder einige Verbindungen Daten senden. In der verwendeten Grafik sind die Ports, die nun Daten weiterleiten dürfen, grün gefärbt. Die grünen Ports zeigen also an, wo die Daten durch die Switches fließen können. 

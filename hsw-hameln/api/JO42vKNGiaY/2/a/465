@@ -1,0 +1,11 @@
+In einfachen Worten gesagt:
+
+Wenn wir eine IP-Adresse in der neuen Version (IP Version 6) schreiben, gibt es spezielle Regeln, wie wir das einfacher machen können. 
+
+1. **Führende Nullen weglassen**: Wenn in einem Block der Adresse Nullen ganz vorne stehen, dürfen wir diese Nullen weglassen. Zum Beispiel wird aus "00A1" einfach "A1".
+
+2. **Doppelte Doppelpunkte**: Manchmal haben wir mehrere Blöcke mit nur Nullen (also "0000"). Wenn das passiert, können wir alle diese Blöcke auf einmal mit zwei Doppelpunkten "::" abkürzen, aber nur einmal in der ganzen Adresse. Das bedeutet: Wenn wir einmal einen Block mit Nullen mit "::" abgekürzt haben, dürfen wir nicht noch einen anderen Block mit Nullen genauso abkürzen.
+
+Das ist wichtig, damit jeder sofort sieht, wo wir abgekürzt haben. Wenn wir es mehrmals machen, könnte es unklar werden, was wir genau gemeint haben.  
+
+Zusammengefasst: Wir dürfen Nullen weglassen, aber es gibt strenge Regeln, wie wir das tun können, damit die Adresse immer klar und eindeutig bleibt.

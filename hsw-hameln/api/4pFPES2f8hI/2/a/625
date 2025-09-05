@@ -1,0 +1,11 @@
+Okay, lass uns das Schritt für Schritt in einfacher Sprache erklären.
+
+Stell dir vor, wir haben eine große Adresse für ein Netzwerk, so wie eine große Straße mit vielen Häusern. Jedes Haus hat eine eigene Nummer. Diese große Adresse hat bestimmte Regeln, die wir "Subnetzmaske" nennen.
+
+Die Subnetzmaske hilft uns, die große Straße in kleinere Straßen zu unterteilen. Wenn wir in der Subnetzmaske sehen, wo "1" steht, bedeutet das, dass wir in dieser kleinen Straße sind. Wenn wir "0" sehen, sind wir im Bereich für die Hausnummern, also da, wo die Adressen von den einzelnen Häusern stehen.
+
+Wenn wir die Adresse eines Hauses mit der Subnetzmaske vergleichen, können wir herausfinden, zu welcher kleinen Straße das Haus gehört. Dabei schauen wir nur auf die Stellen, wo die Subnetzmaske "1" hat. Wenn dort auch bei der Hausnummer eine "1" steht, dann gehört das Haus zu dieser kleinen Straße.
+
+In unserem Beispiel haben wir die Adresse "192.168.10.195" und die Subnetzmaske mit vielen "1" und "0", was uns sagt, dass wir in einer kleineren Gruppe von Adressen sind. Am Ende, nach den Berechnungen, finden wir heraus, dass die Adresse dieser kleinen Straße "192.168.10.192" ist.
+
+Zusammengefasst: Die Subnetzmaske hilft uns, große Netzwerke in kleinere Teile zu unterteilen, sodass wir einfacher verwalten können, wer wo wohnt (also welche Geräte wo im Netzwerk sind).

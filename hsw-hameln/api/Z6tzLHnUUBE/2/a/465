@@ -1,0 +1,17 @@
+Die Aussage bedeutet folgendes:
+
+Wenn ein Computer Informationen an einen anderen Computer senden möchte, muss er wissen, wohin die Daten geschickt werden sollen. Dazu gibt es zwei wichtige Adressen: eine IP-Adresse und eine MAC-Adresse.
+
+1. **IP-Adresse:** Das ist die Adresse, die sagt, wo der Computer im Internet oder Netzwerk ist. Diese Adresse bleibt gleich, egal wo die Daten hingehen.
+
+2. **MAC-Adresse:** Das ist die Adresse, die benutzt wird, um die Daten innerhalb eines kleinen Netzwerks (wie in einem Haus oder Büro) weiterzuleiten. Diese Adresse ändert sich, wenn die Daten von einem Gerät zum anderen geschickt werden.
+
+Wenn Computer A zum Beispiel Daten an Computer B senden möchte, sieht es so aus:
+- Computer A hat eine IP-Adresse und eine eigene MAC-Adresse.
+- Computer B hat ebenfalls eine IP-Adresse und eine eigene MAC-Adresse.
+
+Wenn Computer A Daten senden möchte, schaut er zuerst, wohin er die Daten schicken will (die IP-Adresse von Computer B) und an wen im Netzwerk (die MAC-Adresse des ersten Routers). 
+
+Der Router nimmt die Daten, sieht die IP-Adresse von Computer A (der Absender) und die IP-Adresse von Computer B (der Empfänger) und erkennt, dass er die Daten an den nächsten Router weiterleiten muss. 
+
+Der Router ändert die MAC-Adresse der Datenpakete und setzt seine eigene MAC-Adresse als Absender ein und die MAC-Adresse des nächsten Routers als Empfänger. So geht es weiter von Router zu Router, bis die Daten schließlich zu Computer B kommen.

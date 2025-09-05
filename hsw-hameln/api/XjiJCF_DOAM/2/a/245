@@ -1,0 +1,7 @@
+In einfachen Worten bedeutet die Aussage folgendes:
+
+Wenn wir eine IP-Adresse aus der alten Version (IP-Version 4) anschauen, sieht sie anders aus als in der neuen Version (IP-Version 6). In IP-Version 4 benutzen wir Punkte, um die verschiedenen Teile der Adresse zu trennen. Zum Beispiel: 172.16.14.193.
+
+In IP-Version 6 benutzen wir andere Zahlen, die Hexadezimalzahlen genannt werden. Das sind Zahlen, die man auch mit Buchstaben (A, B, C, D, E, F) schreiben kann. Außerdem teilen wir die Teile der Adresse nicht mit Punkten, sondern mit Doppelpunkten. Das bedeutet, dass die Darstellung der Adresse in IP-Version 6 ganz anders aussieht. 
+
+Zusammengefasst: IP-Version 4 hat Punkte und normale Zahlen, während IP-Version 6 Doppelpunkte und spezielle Zahlen verwendet.

@@ -1,0 +1,7 @@
+Wenn wir im Internet eine Webseite besuchen, passiert folgendes:
+
+1. **Port 80**: Das ist wie eine Tür, die wir öffnen, um zu einem bestimmten Dienst zu gelangen, in diesem Fall dem Dienst für Webseiten (HTTP).
+   
+2. **Webserver**: Das ist der Computer, der die Webseite gespeichert hat. Wenn wir die Tür (Port 80) öffnen, sagen wir dem Webserver, dass wir die Webseite sehen möchten.
+
+Also schicken wir eine Anfrage über diese Tür (Port 80) an den Webserver, und dieser schickt uns dann die Webseite zurück.

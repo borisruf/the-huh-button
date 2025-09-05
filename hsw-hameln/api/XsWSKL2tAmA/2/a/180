@@ -1,1 +1,9 @@
-Jede IP-Adresse macht einen Computer in einem Netzwerk einzigartig. Diese IP-Adressen bestehen aus vier Teilen, die durch Punkte getrennt sind. Jeder dieser Teile kann von 0 bis 255 gehen. Aber nicht alle diese Teile werden benötigt, um den Computer allein zu finden. Einige Teile werden verwendet, um das Netzwerk, in dem sich der Computer befindet, zu identifizieren. Andere Teile werden verwendet, um den speziellen Computer im Netzwerk zu finden. Welche Teile zur Identifizierung des Netzwerks und welche zur Identifizierung des Computers verwendet werden, wird durch die Subnetzmaske bestimmt. Ein Subnetz ist im Grunde ein Teil des Netzwerks. Die Subnetzmaske ist auch eine Art Adresse mit vier Teilen, die bestimmt, wie viele der vier Teile der IP-Adresse für das Netzwerk und wie viele für den Computer verwendet werden. Es gibt verschiedene Arten von Netzwerken, und je nachdem, wie groß das Netzwerk ist oder wie viele Computer darin enthalten sind, kann die Subnetzmaske unterschiedlich sein.
+Okay, ich erkläre das ganz einfach:
+
+Eine IP-Adresse ist wie eine Adresse für ein Haus, aber im Internet. Sie hilft Computern, sich gegenseitig zu finden. Jede IP-Adresse hat zwei Teile: einen Netzteil und einen Hostteil. Der Netzteil sagt, zu welchem Netzwerk der Computer gehört, und der Hostteil sagt, welcher Computer in diesem Netzwerk ist.
+
+Die Subnetzmaske hilft dabei, diesen Netz- und Hostteil zu bestimmen. Sie ist ein bisschen wie eine Schablone, die sagt, wie die IP-Adresse aufgeteilt ist. Die Subnetzmaske besteht auch aus Zahlen, ähnlich wie die IP-Adresse.
+
+In jeder Subnetzmaske gibt es Nullen und Einsen. Die Nullen in der Subnetzmaske sind wichtig, denn sie zeigen uns, wie viele Computer in einem Netzwerk sein können. Je mehr Nullen da sind, desto weniger Computer können wir haben. Wenn es weniger Nullen gibt, können wir mehr Computer in einem Netzwerk unterbringen.
+
+Zusammengefasst: Die Subnetzmaske hilft uns, die verschiedenen Teile einer IP-Adresse zu verstehen und wie viele Computer wir in einem Netzwerk haben können.

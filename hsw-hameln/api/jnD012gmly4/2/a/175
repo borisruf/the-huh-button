@@ -1,0 +1,9 @@
+Okay, ich erkläre das einfach.
+
+Wenn Informationen über das Internet gesendet werden, nutzen wir sogenannte "Frames". Das sind kleine Pakete, die die Daten enthalten. Diese Frames brauchen spezielle Informationen, um sicherzustellen, dass sie richtig ankommen und auch richtig gelesen werden. 
+
+Früher haben wir gesagt, wie lang so ein Frame ist, indem wir das im Kopf des Frames aufgeschrieben haben. Aber wenn diese Informationen verloren gehen, wissen wir nicht mehr, wo das Frame endet. Das ist ein Problem.
+
+Heute verwenden wir eine andere Methode, die nennt sich "Sentinel-Methode". Dabei fügen wir besondere Zeichen am Anfang und am Ende der Daten ein, um den Rahmen zu markieren. Diese Zeichen helfen uns zu verstehen, wo die Daten anfangen und wo sie aufhören. 
+
+Das Problem ist, dass diese besonderen Zeichen auch in den Daten selbst vorkommen können. Wenn der Empfänger diese Zeichen sieht, könnte er denken, dass die Nachricht zu Ende ist, obwohl das nicht stimmt. Wir müssen also eine Lösung finden, um sicherzustellen, dass der Empfänger die Zeichen richtig interpretiert.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir am Ende eines Datenrahmens (Frame) eine spezielle Art von Fehlerprüfung haben, die CRC32 heißt. Diese Fehlerprüfung sorgt dafür, dass wir sicherstellen können, dass die Daten, die gesendet wurden, auch richtig angekommen sind.
+
+Um das einfach zu erklären: Wenn jemand dir ein Paket mit Infos schickt, stellen wir sicher, dass alles stimmt, bevor du das Paket öffnest. Die CRC32-Prüfung hilft dabei, Fehler zu finden, die während der Übertragung passieren könnten. Wenn etwas nicht stimmt, weiß man, dass ein Problem aufgetreten ist, und man kann das Paket erneut senden.
+
+Insgesamt sagt die Aussage also, dass die Fehlererkennung den gesamten Datenrahmen komplett macht und sichert, dass die Informationen korrekt sind.

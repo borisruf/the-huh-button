@@ -1,0 +1,5 @@
+UDP ist ein Protokoll, das verwendet wird, um Daten schnell zu senden. Es kümmert sich weniger darum, dass alles sicher und vollständig ankommt, sondern fokussiert sich darauf, die Daten so schnell wie möglich von einem Ort zum anderen zu bringen. 
+
+Das bedeutet, dass manchmal Daten verloren gehen können, aber das ist in manchen Situationen nicht schlimm, zum Beispiel bei Videos oder Online-Spielen. Dort ist es wichtiger, dass die Information schnell ankommt, als dass jede einzelne Nachricht perfekt ankommt. 
+
+UDP verwendet weniger Regeln und hat weniger Schutzmaßnahmen, wodurch es schneller ist als andere Protokolle wie TCP, die mehr auf Sicherheit und Vollständigkeit achten. Daher schauen wir uns an, in welchen Fällen es sinnvoll ist, UDP zu benutzen, um die Geschwindigkeit zu verbessern, auch wenn nicht alle Daten sicher ankommen.

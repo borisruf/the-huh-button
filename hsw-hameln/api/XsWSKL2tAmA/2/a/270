@@ -1,1 +1,9 @@
-Eine IP-Adresse ist wie eine Telefonnummer für Computer. Sie hilft Computern, sich gegenseitig im Internet zu finden. Jede IP-Adresse wird von einer Subnetzmaske begleitet. Diese Subnetzmaske teilt die IP-Adresse in zwei Teile - den Netzwerkteil und den Hostteil. Der Netzwerkteil zeigt an, zu welchem Netzwerk der Computer gehört. Der Hostteil zeigt an, welche spezifische Maschine in diesem Netzwerk gemeint ist. Die 1 und Nullen in einer Subnetzmaske zeigen an, wie die IP-Adresse aufgeteilt wird. Binär "1" steht für Netzwerk-Bits und "0" für Host-Bits. Anhand unseres Beispiels: wenn die ersten 8 Bits jeweils auf 1 stehen, dann gehören sie zum Netzwerkteil. Die übrigen Bits gehören zum Hostteil.
+Okay, lass uns das einfach erklären.
+
+Eine IP-Adresse ist wie eine Adresse für deinen Computer im Internet. Sie hilft dabei, zu wissen, wo Informationen hin und her geschickt werden sollen. Jede IP-Adresse hat zwei Teile: den Netz-Anteil und den Host-Anteil. Der Netz-Anteil sagt, zu welchem Netzwerk dein Computer gehört, und der Host-Anteil sagt, welches spezielle Gerät in diesem Netzwerk es ist.
+
+Eine Subnetzmaske ist wie ein Werkzeug, das uns hilft zu erkennen, welcher Teil der IP-Adresse der Netz-Anteil ist und welcher Teil der Host-Anteil ist. Die Subnetzmaske besteht aus Zahlen, die wir in einer bestimmten Weise schreiben. Wir können sie in 4 Gruppen (Oktette) aufteilen, die mit Punkten getrennt sind.
+
+In unserem Beispiel mit der Klasse B sehen wir, dass die Subnetzmaske so aussieht: 255.255.0.0. Hier bedeutet "255", dass die ersten 8 Bits (oder die ersten 8 Stellen) für den Netz-Anteil gelten. Diese Bits sind alle auf "1". Die anderen zwei Gruppen (Oktette) stehen für den Host-Anteil. Dort sind alle Bits auf "0", das heißt, sie sind nicht für das Netzwerk vergeben.
+
+Zusammenfassend: Die Nullen in der Subnetzmaske helfen uns herauszufinden, welcher Teil der IP-Adresse zum Netzwerk gehört und welcher zum speziellen Gerät (Host) in diesem Netzwerk. Wenn wir die Subnetzmaske mit der IP-Adresse vergleichen, sehen wir klar, welcher Teil für das Netzwerk und welcher für den Host ist.

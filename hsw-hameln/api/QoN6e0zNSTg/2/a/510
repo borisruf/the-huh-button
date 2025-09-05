@@ -1,0 +1,7 @@
+Es gibt zwei Arten von Adressen bei Ethernet. 
+
+Die erste Art ist die Senderadresse. Das ist die Adresse des Geräts, das die Daten sendet. 
+
+Die zweite Art ist die Empfängeradresse. Das ist die Adresse des Geräts, das die Daten empfängt. 
+
+Zusammen helfen uns diese Adressen, zu wissen, wer die Informationen schickt und wer sie bekommen soll.

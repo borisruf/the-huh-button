@@ -1,1 +1,5 @@
-Wir wollen, dass viele Informationen gleichzeitig gesendet werden können, bevor wir eine Meldung bekommen, dass alles gut angekommen ist. Aber das geht nur, wenn wir eine Art "Fenster" haben. Dieses "Fenster" ist eine Vereinbarung zwischen dem, der die Informationen sendet und dem, der sie empfängt. Sie legen fest, wie viele Informationen geschickt werden können, bevor eine Bestätigung geschickt wird.
+Die Aussage bedeutet, dass wir bei der Übertragung von Daten sicherstellen wollen, dass wir mehrere Daten auf einmal schicken können, ohne auf eine Antwort warten zu müssen. Normalerweise können wir das nur erreichen, wenn Sender und Empfänger sich vorher darüber einigen, wie viele Daten sie senden dürfen, bevor der Sender eine Bestätigung vom Empfänger erwartet. 
+
+Das nennt man ein "Fenster". Dieses Fenster hilft dabei, den Ablauf der Datenübertragung zu organisieren. Es sorgt dafür, dass die Kommunikation schneller und effizienter abläuft, weil der Sender nicht ständig warten muss, bis der Empfänger sagt, dass die Daten angekommen sind. 
+
+Zusammengefasst: Wir möchten, dass Informationen schneller von einem Computer zum anderen geschickt werden können, ohne dauernd auf Antworten zu warten. Dazu brauchen wir ein System, das festlegt, wie viele Daten gleichzeitig gesendet werden dürfen.

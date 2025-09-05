@@ -1,0 +1,7 @@
+Die Aussage beschreibt eine Art, wie man Informationen als elektrische Signale überträgt. Es gibt verschiedene Methoden, um aus einer Reihe von Einsen und Nullen ein Signal zu machen.
+
+Beim Return-to-Zero-Verfahren wird eine Eins als ein kurzer hoher Impuls dargestellt, und eine Null bedeutet, dass das Signal auf einen normalen, ruhigen Zustand zurückgeht, ohne einen weiteren Ausschlag. Das hat den Nachteil, dass es schwer ist, den Rhythmus der Einsen und Nullen daraus abzuleiten.
+
+Das Non-Return-to-Zero-Verfahren ist eine andere Methode. Hier wird eine Null nicht ganz durch einen ruhigen Zustand angezeigt. Stattdessen wird sie durch einen niedrigen, aber immer noch messbaren Signalwert dargestellt. Das bedeutet, es gibt immer noch eine Art Signal für die Null, was es einfacher macht, den Rhythmus der Daten zu erkennen und das Signal zu verarbeiten. 
+
+Zusammengefasst: Bei der ersten Methode (Return-to-Zero) gibt es bei einer Null kein Signal, bei der zweiten Methode (Non-Return-to-Zero) gibt es aber ein schwaches Signal, das eine Null darstellt. Das macht es leichter, das Signal zu verstehen und zu benutzen.

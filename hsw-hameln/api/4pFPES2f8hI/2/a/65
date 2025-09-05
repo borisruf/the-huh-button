@@ -1,0 +1,11 @@
+In dieser Aussage geht es um die Probleme, die mit Computernetzwerken verbunden sind. Hier sind die Hauptpunkte, einfach erklärt:
+
+1. **Sicherheit**: In Netzwerken gibt es nicht genug Grundsicherheit. Das bedeutet, dass es nicht genügend Schutz gibt, um die Netzwerke davor zu bewahren, dass unbefugte Personen darauf zugreifen.
+
+2. **Subnetze**: Um die Netzwerkverwaltung zu verbessern, braucht man Subnetze. Subnetze sind kleine Teile eines großen Netzwerks. Wenn man ein großes Netzwerk in kleinere Teile aufteilt, wird es einfacher, die einzelnen Teile zu verwalten.
+
+3. **IP-Adressen**: Es gibt viele Computer in einem Netzwerk, und sie brauchen alle eine eigene IP-Adresse, um miteinander zu kommunizieren. Aber es gibt nicht genug IP-Adressen für alle Computer, besonders wenn die Netzwerke sehr groß sind.
+
+4. **Lösung**: Durch die Bildung von Subnetzen kann man das Problem der vielen benötigten IP-Adressen besser lösen. Man kann die Adressen besser organisieren und sorgt so dafür, dass es einfacher wird, das Netzwerk zu verwalten.
+
+Zusammengefasst: In der Netzwerkwelt gibt es Sicherheitsprobleme und Schwierigkeiten bei der Verwaltung, besonders wegen der vielen benötigten IP-Adressen. Man kann das besser in den Griff bekommen, indem man Netzwerke in kleinere Teile aufteilt.

@@ -1,3 +1,9 @@
-Wenn wir in unseren Computernetzwerken zusätzliche (oder doppelte) Wege hinzufügen, um dafür zu sorgen, dass sie nicht plötzlich zusammenbrechen können, kann es passieren, dass diese zusätzlichen Wege ein Durcheinander erzeugen und alles verlangsamen. Um dieses Durcheinander zu verhindern oder aufzuräumen, gibt es eine spezielle Methode namens "Spanning-Tree". Mit dieser Methode werden zunächst alle Wege oder Verbindungen blockiert und es wird ein "Führer" (Root-Bridge) gewählt.
+Die Aussage bedeutet:
 
-Sobald dieser Wahlprozess abgeschlossen ist, werden einige der Verbindungen wieder geöffnet, damit die Daten fließen können. Diese bestimmten geöffneten Verbindungen nennen wir grüne oder "Root"-Ports. Diese Ports leiten die Daten weiter und sorgen dafür, dass kein Durcheinander verursacht wird. Der beste Weg zur Root-Bridge wird also über diese grünen Ports gewählt.
+Es gibt besondere Anschlüsse an den Switches, die „Route-Ports“ heißen und grün sind. Diese Anschlüsse sind wichtig, weil sie direkt mit der „Route-Bridge“ verbunden sind. Die Route-Bridge hilft, die Daten im Netzwerk hin und her zu schicken.
+
+Im Netzwerk gibt es viele Kabel und Verbindungen, die helfen, dass alles gut funktioniert und nicht ausfällt. Aber wenn wir zu viele Verbindungen haben, können die Daten durcheinander geraten und endlos im Kreis hin- und her geschickt werden. Das kann das Netzwerk überlasten und es kann Probleme geben.
+
+Um dieses Problem zu lösen, gibt es das sogenannte „Spanning-Tree-Protokoll“. Das sorgt dafür, dass manchmal bestimmte Verbindungen blockiert werden, damit keine Schleifen entstehen. Wenn das Protokoll aktiv ist, hören die Switches auf, normale Daten zu schicken, und tauschen nur Informationen über das Protokoll aus. 
+
+Am Ende entscheidet das Protokoll, welche Verbindungen offen bleiben dürfen, also die „Route-Ports“, damit die Daten wieder normal fließen können. Diese Route-Ports sind die grünen Anschlüsse, über die die Daten weitergeleitet werden.

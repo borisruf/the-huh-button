@@ -1,0 +1,7 @@
+Wir werden jetzt über das Internetprotokoll (IP) sprechen, das wichtig ist, damit Daten über das Internet gesendet werden können. 
+
+Zuerst müssen wir wissen, dass IP dafür sorgt, dass Computer mit speziellen Adressen angesprochen werden können, ähnlich wie Häuser mit Adressen. Außerdem hilft IP auch dabei, große Datenpakete in kleinere Teile zu zerlegen, bevor sie gesendet werden. Das nennt man "Fragmentierung". Wenn die Daten dann ankommen, müssen sie wieder zusammengesetzt werden – das nennt man "Defragmentierung". 
+
+Es ist wichtig, diese Teile zu machen, weil Daten manchmal zu groß sind, um sie auf einmal zu senden. Indem man sie in kleinere Stücke zerlegt, können sie leichter und schneller durch das Netzwerk reisen. In den Übungen werden wir die verschiedenen Teile des IP-Headers, das sind die Informationen, die mit jedem Datenpaket geschickt werden, genauer anschauen und verstehen, wie alles funktioniert. 
+
+Die Frage ist also: Warum müssen wir die Daten überhaupt in kleinere Stücke zerlegen? Das ist wichtig, damit alles reibungslos und effizient über das Netzwerk gesendet werden kann.

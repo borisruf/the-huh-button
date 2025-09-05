@@ -1,1 +1,7 @@
-Um besser zu verstehen, wie IP-Adressen funktionieren, müssen wir uns die IP-Adresse in einer Form namens "Binärschreibweise" anschauen. IP-Adressen bestehen aus zwei Teilen, dem Netz- und dem Hostteil, und diese werden durch eine sogenannte "Subnetzmaske" bestimmt. Man kann sich das so vorstellen, dass jede IP-Adresse eine Maske hat, die bestimmte Teile hervorhebt. Es ist wichtig, die IP-Adresse und ihre zugehörige Subnetzmaske zusammen zu betrachten.
+Die Aussage „Wo kommt das aber eigentlich her?“ fragt danach, woher die Informationen über die Teile einer IP-Adresse stammen. Um das zu verstehen, müssen wir die IP-Adresse in eine andere Form umwandeln, nämlich in binär. 
+
+Eine IP-Adresse ist wie eine spezielle Adresse für Geräte im Internet, und sie besteht aus verschiedenen Teilen. Diese Teile helfen uns zu wissen, wo das Gerät im Netzwerk ist und wie wir es erreichen können. In der Erklärung erfährst du, dass eine IP-Adresse aus 32 kleinen „Bits“ besteht, die man sich wie Lichtschalter vorstellen kann – sie sind entweder an (1) oder aus (0). 
+
+Wenn wir die IP-Adresse in binär anschauen, können wir besser verstehen, wie die Teile, die Netzwerkadresse (Netzanteil) und die Geräteadresse (Host-Anteil), zusammenarbeiten. 
+
+Zusammengefasst: Um zu wissen, wie eine IP-Adresse funktioniert, müssen wir sie in eine andere, einfachere Form umwandeln.

@@ -1,0 +1,1 @@
+  Wir sehen das hier an diesem Beispiel der IP Version 6 Adresse, da haben wir ein Slash64 hinten dran, das ist diese classless Inter-Domain-Routing-Schreibweise, die wir auch schon kennengelernt haben bei der Subnetzbildung und die gibt in diesem Fall eben an, dass wir 64 Bit eben für das sogenannte Präfix innerhalb dieser Adresse dort verwenden.

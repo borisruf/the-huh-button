@@ -1,0 +1,9 @@
+In sehr einfacher Sprache bedeutet die Aussage Folgendes:
+
+Wenn wir ein Netzwerk in kleinere Netzwerke (Subnetze) aufteilen, müssen wir immer ein paar Adressen abziehen. Das ist so, weil einige Adressen besondere Aufgaben haben.
+
+Wenn wir eine Subnetzmaske von 27 haben, bedeutet das, dass wir 5 Teile für die Geräte (Hosts) übrig haben (weil es 32 Teile gibt und wir 27 für das Netzwerk verwenden). Wir rechnen dann 2 hoch 5 aus, was 32 ergibt. Das heißt, theoretisch könnten wir 32 Geräte in diesem kleinen Netzwerk benutzen.
+
+Aber, es gibt einen Trick: Die erste Adresse (die für das Netzwerk selbst benutzt wird) und die letzte Adresse (die für spezielle Nachrichten benutzt wird) können wir nicht verwenden. Das bedeutet, wir müssen von den 32 möglichen Adressen 2 abziehen. Also haben wir 32 minus 2, was 30 ergibt.
+
+Deshalb können in diesem kleinen Netzwerk 30 Geräte angeschlossen werden.

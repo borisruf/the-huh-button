@@ -1,0 +1,5 @@
+Die Aussage „Der knappwerdende Adressraum ist ein Problem derzeit“ bedeutet, dass es nicht mehr genug IP-Adressen für all die Geräte gibt, die mit dem Internet verbunden sind. 
+
+Wir haben viele Geräte, wie Smartphones, Tablets und Laptops, die alle eine eigene IP-Adresse brauchen, um miteinander zu kommunizieren. Wenn jedes Gerät mehrere IP-Adressen hat, wird der Platz für neue Adressen immer weniger. 
+
+Stell dir vor, IP-Adressen sind wie Telefonnummern für Geräte im Internet. Wenn immer mehr Geräte dazu kommen, wird es schwieriger, für jedes Gerät eine eigene Nummer zu finden. Das ist ein Problem, weil wir bald nicht mehr genug IP-Adressen haben könnten. Um diesem Problem zu lösen, gibt es eine neue Art von IP-Adressen, die IP-Version 6, die viel mehr Adressen bereitstellt als die alte Version 4.

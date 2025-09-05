@@ -1,0 +1,5 @@
+Die Aussage erklärt, dass in großen Netzwerken, wie dem Internet, Routern nicht einfach nur sagen, wo sie hinleiten sollen, indem sie lange Listen (Routing-Tabellen) austauschen. Stattdessen benutzen sie ein anderes System. Dieses System heißt „Link-State-Advertisements“. 
+
+Das bedeutet, jeder Router hat eine spezielle, gut organisierte Liste mit Informationen über das ganze Netzwerk. Er hat also einen Überblick, welche anderen Router es gibt und wie die Verbindungen zwischen ihnen sind. Wenn sich etwas im Netzwerk ändert, schickt der Router kleine Informationen (Link-State-Advertisements) an die anderen Router, um ihnen zu helfen, ihre Listen aktuell zu halten. Dadurch wissen alle Router schneller, wie sie die besten Wege für die Daten finden können. 
+
+Auf diese Weise bleibt das Netzwerk effektiver, auch wenn es sehr groß ist.

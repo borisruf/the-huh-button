@@ -1,0 +1,17 @@
+Okay, lass mich das einfach erklären:
+
+Wenn wir Informationen von einem Platz zum anderen senden, zum Beispiel über das Internet, können manchmal Fehler passieren. Um zu wissen, ob die Informationen richtig angekommen sind, gibt es eine Methode namens "Prüfziffer" oder "Prüfzuschlag".
+
+Hier ist, was passiert:
+
+1. **Senden von Informationen**: Wir haben die ursprünglichen Daten (das sind die Informationen, die wir schicken) und wir fügen eine spezielle Zahl hinzu, die aus diesen Daten berechnet wird. Diese Zahl nennt man Prüfziffer.
+
+2. **Übertragung**: Wir senden die ursprünglichen Daten UND die Prüfziffer.
+
+3. **Empfangen der Informationen**: Wenn die Informationen auf der anderen Seite ankommen, wird die empfangene Prüfziffer mit einer neuen Prüfziffer verglichen, die jetzt erneut aus den empfangenen Daten berechnet wird.
+
+4. **Überprüfen**: Wenn beide Prüfziffern übereinstimmen, bedeutet das: "Alles ist gut, die Informationen sind fehlerfrei angekommen." Wenn sie nicht übereinstimmen, gibt es einen Fehler.
+
+5. **Wie wir den Fehler erkennen**: Um herauszufinden, ob ein Fehler vorliegt, benutzen wir eine Art Mathematik (man spricht von Division), um die empfangenen Daten mit den ursprünglichen Daten zu vergleichen. Wenn die Division ein Ergebnis ohne Rest liefert, sind die Daten in Ordnung. Wenn es einen Rest gibt, ist ein Fehler aufgetreten.
+
+Zusammengefasst: Wir senden Daten zusammen mit einer Prüfziffer. Wenn alles gut ankommt, stimmen die Prüfziffern überein. Wenn nicht, gab es einen Fehler.

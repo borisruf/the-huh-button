@@ -1,0 +1,9 @@
+Okay, lass uns das einfacher erklären:
+
+Stell dir vor, ein Netzwerk ist wie eine große Stadt. Innerhalb dieser Stadt gibt es verschiedene Viertel, wo die Leute miteinander reden können. Jedes dieser Viertel nennen wir "Kollisionsdomäne". Wenn viele Leute in einem Viertel gleichzeitig sprechen, kann es ein Durcheinander geben – das nennt man eine "Kollision".
+
+Jetzt haben wir in diesem Netzwerk auch "Switches". Ein Switch ist wie eine Brücke, die verschiedene Viertel miteinander verbindet. Wenn jemand in einem Viertel etwas sagt, schickt der Switch diese Information an das richtige Viertel. So wird das Durcheinander (die Kollisionen) kleiner, weil nur in dem Viertel, wo die Leute reden, was schiefgehen kann.
+
+Aber auch wenn die Switch-Brücke die Viertel verbindet, gibt es immer noch eine Sache: Wenn jemand einen "Broadcast" macht – also eine Nachricht für alle schickt – wird diese Nachricht nicht nur an die Leute in seinem Viertel gesendet, sondern kann auch an andere Viertel weitergehen, die mit dem Switch verbunden sind. Das bedeutet, dass die Nachricht über die Grenze zwischen den Vierteln (also durch den Switch) springen kann.
+
+Zusammengefasst: Der Switch hilft, das Durcheinander (Kollisionen) in den Vierteln zu verhindern, aber wenn jemand für alle spricht (Broadcast), kann die Nachricht trotzdem in andere Viertel gelangen.

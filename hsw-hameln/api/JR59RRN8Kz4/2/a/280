@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass es komplizierter ist, die Sprach- und Datenübertragung in einem Netzwerk zu verwalten, wenn man alles zusammen macht. Aber man kann die Sache einfacher gestalten, indem man Sprach- und Datenübertragung in getrennte Bereiche (VLANs) aufteilt. 
+
+Das heißt, man hat einen Bereich nur für Telefonate und einen anderen für alles andere. Dadurch wird die Verwaltung einfacher und man kann die Qualität der Sprachübertragung besser kontrollieren.

@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass es verschiedene Wege gibt, um zu entscheiden, wie Daten in einem Netzwerk geschickt werden. Bei einem bestimmten Protokoll, hier OSPF genannt, schaut man nicht nur darauf, wie viele Router die Daten durchqueren müssen (das ist die Metrik bei anderen Protokollen), sondern auch, wie gut oder schnell die Verbindungen sind, die die Router haben. 
+
+Also, wenn man Daten von einem Ort zum anderen schickt, kann man entweder einfach zählen, wie viele Stationen die Daten passieren (wie bei RIP), oder man kann auch überprüfen, wie stabil oder schnell die Verbindungen sind (wie bei OSPF). Das hilft, den besten Weg für die Daten zu finden.

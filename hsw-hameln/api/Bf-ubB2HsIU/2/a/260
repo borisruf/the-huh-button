@@ -1,1 +1,9 @@
-Das ist eine Menge Information, aber ich versuche es so einfach wie möglich zu machen: Du verbindest dich über ein Netzwerk mit anderen Computern, damit ihr Daten austauschen könnt. Dabei spielen zwei wichtige Regeln eine Rolle: IP und TCP. IP kümmert sich darum, dass Daten gesendet und Zielort und Absender genannt wird. TCP sorgt dafür, dass die Daten auch wirklich ankommen und sie richtig sind. Dein Computer benutzt Ports, die sind wie kleine Türen, durch die Informationen gesendet und empfangen werden. Die Nummern dieser Ports sind wichtig, damit weiß dein Computer, wo er die Informationen hin schicken soll und wo sie her kamen. Später lernen wir noch genauer, wie wir das alles nutzen können.
+Die Aussage bedeutet, dass wir später in einer Übung genauer anschauen werden, wofür Portnummern wichtig sind. Zum jetzigen Zeitpunkt fragen wir uns aber zuerst, warum wir überhaupt Portnummern brauchen.
+
+Einfach gesagt: Wenn Computer miteinander sprechen, benutzen sie „Türnummern“, die wir Portnummern nennen. Diese Nummern helfen dabei, die verschiedenen Gespräche und Datenströme zu sortieren. 
+
+Stell dir vor, ein Computer ist wie ein großes Haus mit vielen Zimmern. Jedes Zimmer hat eine eigene Tür mit einer Nummer. Wenn jemand ins Haus kommt und einem bestimmten Zimmer (also einem bestimmten Programm oder Dienst) eine Nachricht senden will, braucht er die richtige Türnummer. 
+
+Die Portnummer sagt dem Computer, wohin die Nachricht genau gehen soll, damit sie nicht im falschen Zimmer landet. So kann der Computer viele Nachrichten gleichzeitig erhalten und wissen, welches Programm (oder Dienst) die Nachricht bekommen soll. 
+
+Deshalb sind Portnummern wichtig: Sie helfen, die Kommunikation zwischen Computern klar und ordentlich zu halten.

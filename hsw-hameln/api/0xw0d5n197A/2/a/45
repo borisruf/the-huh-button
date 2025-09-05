@@ -1,0 +1,9 @@
+Auf dieser Folie zeigen wir einige Möglichkeiten, wie man Netzwerke sichern kann. Es ist nicht alles aufgelistet, aber wir nennen Dinge wie:
+
+- **Paketfilter**: Das sind Regeln, die entscheiden, was für Daten ins Netzwerk dürfen und was nicht.
+- **Stateful Inspection**: Das ist eine Technik, die den Verlauf von Datenverbindungen beobachtet, um sicherzustellen, dass nur erlaubte Verbindungen stattfinden.
+- **VPN (Virtuelles Privates Netzwerk)**: Das hilft, Daten sicher über das Internet zu senden, als wäre man in einem privaten Netzwerk.
+- **Anti-Viren-Programme**: Die suchen nach und entfernen schädliche Software, die Computer angreifen kann.
+- **Anti-Spam-Maßnahmen**: Das sind Wege, um unerwünschte E-Mails (Spam) zu erkennen und zu blockieren.
+
+Insgesamt geht es darum, das Netzwerk zu schützen. Später werdet ihr in weiteren Kursen mehr darüber lernen.

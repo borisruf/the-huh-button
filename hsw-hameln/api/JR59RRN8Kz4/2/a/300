@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass wir zwei spezielle Netzwerke (VLANs) einrichten. Eines ist nur für den normalen Datenverkehr, also für Dinge wie E-Mails oder Internetnutzung. Das andere ist für Sprachdaten, also für Telefonate, die über das Internet gehen. 
+
+Das hilft uns, die Sprach- und Datenübertragungen besser zu organisieren. Man kann sich das wie zwei verschiedene Straßen vorstellen: Eine Straße nur für Autos und eine andere nur für Busse. So können beide Arten von Verkehr reibungsloser fließen, ohne sich gegenseitig zu stören.

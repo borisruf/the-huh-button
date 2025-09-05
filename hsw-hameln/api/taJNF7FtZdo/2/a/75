@@ -1,0 +1,5 @@
+Die Aussage fragt, in welche Richtung man gehen soll: nach rechts, nach links oder vielleicht noch woanders hin. Das sind keine echten Straßen mit Kreuzungen, sondern Punkte in einem Netzwerk.
+
+Im Text geht es darum, wie man einen Weg findet, zum Beispiel mit einem Auto von einem Ort zum anderen. Man könnte ein Programm benutzen, das einen zeigt, welche Straßen man nehmen kann, je nachdem, wie viel Verkehr gerade ist. Man muss dann entscheiden, welche Route man nehmen möchte.
+
+Ähnlich funktioniert es auch in Computernetzwerken. Die Straßen sind die Verbindungen zwischen den Geräten, und die Knotenpunkte sind wie Kreuzungen, wo man entscheiden muss, welchen Weg man nimmt. So muss man auch im Netzwerk herausfinden, wohin die Daten weitergeschickt werden sollen.

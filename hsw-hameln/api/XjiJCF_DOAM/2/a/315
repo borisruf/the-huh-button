@@ -1,0 +1,5 @@
+Stell dir vor, das Internet ist wie ein großes Netz mit vielen Häusern. Jedes Haus hat eine Adresse, damit die Leute wissen, wo sie hingehen sollen. Diese Adresse ist die IP-Adresse.
+
+Jetzt gibt es viele Websites wie Google. Wenn du "google.de" in deinen Computer eingibst, fragt dein Computer nach der Adresse, die zu Google gehört. Das passiert mit einem speziellen System namens DNS, das die einfache Adresse "google.de" in die echte Adresse (IP-Adresse) umwandelt, die der Computer braucht, um die Website zu finden.
+
+Also, wenn du "google.de" tippst, zeigt dir das Internet, wo genau Google ist, indem es die Adresse in Zahlen (IP-Adresse) übersetzt. Das ist wichtig, damit dein Computer die richtigen Informationen von Google bekommt.

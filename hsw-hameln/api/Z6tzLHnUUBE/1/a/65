@@ -1,0 +1,7 @@
+Die Aussage behandelt drei zentrale Konzepte im Kontext der Netzwerkkommunikation: Fragmentierung, Defragmentierung und die Rolle des Internetprotokolls (IP) sowie des Transmission Control Protocols (TCP). 
+
+Fragmentierung bezieht sich auf den Prozess, bei dem größere Datenpakete in kleinere Segmente aufgeteilt werden, um sie effizient über Netzwerke zu übertragen. Dies ist notwendig, da Netzwerkprotokolle und -geräte oft Beschränkungen hinsichtlich der maximalen Paketgröße haben. 
+
+Defragmentierung hingegen ist der umgekehrte Prozess, bei dem diese kleineren Fragmente am Zielort wieder zu einem vollständigen Paket zusammengesetzt werden. 
+
+Die Aussage weist darauf hin, dass IP ein unzuverlässiger und verbindungsloser Dienst ist, was bedeutet, dass es keine Garantie für die Lieferung der Pakete oder deren Reihenfolge gibt. Im Gegensatz dazu sorgt TCP, das auf IP aufsetzt, für eine zuverlässige und verbindungsorientierte Kommunikation, indem es sicherstellt, dass die Daten korrekt und in der richtigen Reihenfolge ankommen.

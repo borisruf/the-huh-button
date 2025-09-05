@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es zwei Wege gibt, um ein Netzwerk in verschiedene Teile zu teilen. Eine Möglichkeit ist die "statische Einrichtung von VLANs". 
+
+Um das einfach zu erklären: Stell dir ein Gebäude mit drei Etagen vor. Normalerweise könnte jede Etage ein eigenes Netzwerk haben. Wenn man aber die statische Methode für VLANs benutzt, entscheidet man bereits im Voraus, welche Computer in welchen Teil des Netzwerks kommen. Das heißt, man legt fest, welche Computer auf der ersten Etage, der zweiten Etage oder der dritten Etage zu welchem Teil des Netzwerks gehören. 
+
+Das ist wie wenn man jedem Raum in einem Haus eine bestimmte Funktion gibt, die nie wechselt. So bleibt alles ordentlich und klar, aber man kann schnell nicht mehr Änderungen vornehmen, wenn sich die Bedürfnisse ändern.

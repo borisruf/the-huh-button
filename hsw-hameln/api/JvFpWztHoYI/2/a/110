@@ -1,0 +1,9 @@
+Die Aussage erklärt ein Problem, das beim Übertragen von Informationen über Leitungen auftreten kann. Es geht darum, wie man digitale Signale (die aus Einsen und Nullen bestehen) in eine Form bringt, die durch Kabel geschickt werden kann. 
+
+Es gibt verschiedene Methoden, um diese Signale zu erzeugen. Eine einfache Methode heißt "Return-to-Zero". Dort wird eine Eins durch einen Kurzzeit-Ausschlag dargestellt, und wenn es keine Eins gibt, bleibt das Signal in einem Ruhe-Zustand, was eine Null bedeutet. 
+
+Das Problem dabei ist, dass es viel Gleichstrom gibt, also eine Art ständig vorhandene Spannung, wenn viele Einsen oder Nullen hintereinander kommen. Außerdem kann man nicht leicht den Takt (also den Rhythmus der Einsen und Nullen) aus diesem Signal erkennen. 
+
+Eine andere Methode heißt "Non-Return-to-Zero". Hier wird auch eine Null angezeigt, aber mit einem kleineren Ausschlag. Auch hier gibt es jedoch das gleiche Problem: Man kann den Takt nicht zurückgewinnen und der Gleichstromanteil bleibt hoch. 
+
+Die Frage ist also: Wie kann man diese Probleme mit dem Takt und dem hohen Gleichstrom vermeiden?

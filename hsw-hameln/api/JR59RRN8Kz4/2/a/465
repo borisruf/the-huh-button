@@ -1,0 +1,5 @@
+In diesem Beispiel haben wir einen Router. Man kann sich den Router wie einen Postboten vorstellen, der Informationen sendet und empfängt. Einerseits ist der Router mit dem normalen Telefonnetz verbunden, also mit den Telefonen, die man von zu Hause kennt. Auf der anderen Seite ist der Router mit einem Switch verbunden. 
+
+Ein Switch ist wie ein Verteiler, der verschiedene Computer und Geräte verbindet, damit sie miteinander sprechen können. In unserem Fall macht der Router so, dass die Telefongespräche, die über das Internet (Voice over IP) laufen, auch ins klassische Telefonnetz gehen können und umgekehrt.
+
+Also, der Router hilft dabei, dass Telefonate über das Internet genauso gut funktionieren wie die alten Telefone, die man kennt.

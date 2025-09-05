@@ -1,0 +1,8 @@
+Die Aussage erklärt, dass es in einem bestimmten Modell (dem OSI-Modell) drei wichtige Schichten gibt, die sich mit speziellen Programmen kümmern, die Menschen nutzen. Diese Programme helfen dabei, mit anderen Geräten oder dem Internet zu kommunizieren.
+
+- Die Schichten 5 (Sitzungsschicht), 6 (Darstellungsschicht) und 7 (Anwendungsschicht) sind die oberen Schichten.
+- In diesen Schichten laufen verschiedene Anwendungen, die man als Protokolle bezeichnet, wie z.B. Telnet, FTP und HTTP. 
+- Diese Protokolle sind wie Regeln, die festlegen, wie Informationen zwischen dem Computer und dem Benutzer ausgetauscht werden.
+- Letztlich sorgen sie dafür, dass alles klar und einfach für den Nutzer ist, sodass man beispielsweise Daten hochladen oder Webseiten ansehen kann.
+
+Im Schaubild werden diese Protokolle und Anwendungen nochmals dargestellt, um zu zeigen, wie sie in diesem Modell zusammenarbeiten.

@@ -1,0 +1,11 @@
+In dieser Aussage geht es darum, wie verschiedene Programme auf einem Computer miteinander kommunizieren. Es wird erklärt, dass es bestimmte „Schichten“ gibt, die dabei helfen, diese Kommunikation zu organisieren. 
+
+Stell dir vor, das Internet funktioniert wie ein Postsystem. Die oberen Schichten, die von 5 bis 7 gehen, sind wie die letzten Stationen, wo die Briefe (also die Daten) vorbereitet werden, damit sie zu dir kommen. In diesen Schichten haben wir verschiedene „Anwendungen“, wie zum Beispiel:
+
+- **Telnet**: Damit kann man sich auf einen anderen Computer einloggen.
+- **FTP**: Damit kann man Dateien von einem Computer auf einen anderen übertragen.
+- **HTTP**: Das ist das Protokoll, das wir brauchen, um Webseiten anzuschauen.
+
+Diese Anwendungen sind wichtig, weil sie die Verbindung zwischen dem Computer und dem Nutzer herstellen. Wenn du eine Webseite besuchen willst oder eine Datei herunterladen möchtest, nutzen diese Anwendungen die oben genannten Schichten, um sicherzustellen, dass alles richtig funktioniert. 
+
+Das Bild, dass erwähnt wird, zeigt dir, wie all diese Programme und Protokolle zusammenarbeiten, um die Kommunikation im Internet zu ermöglichen.

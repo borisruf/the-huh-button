@@ -1,0 +1,7 @@
+In diesem Text geht es um das Thema Multiplexing, also darum, wie mehrere Daten über ein einziges Kabel gleichzeitig gesendet werden können. 
+
+Zuerst wird erklärt, dass es verschiedene Arten von Multiplexing gibt. Eine dieser Arten ist das Zeit-Multiplexing. Das bedeutet, dass der Raum auf dem Kabel in verschiedene Zeitfenster aufgeteilt wird, damit mehrere Leute ihre Nachrichten nacheinander schicken können, ohne dass es zu Verwirrungen kommt. 
+
+Wenn wir von "vertikalen Slots" sprechen, stellen wir uns vor, dass die Zeit auf einem Diagramm von ganz links nach ganz rechts verläuft. Die "Bandbreite" zeigt an, wie viel Information auf einmal gesendet werden kann und verläuft von oben nach unten. Also wird die Zeit auf der horizontalen Achse und die Bandbreite auf der vertikalen Achse dargestellt.
+
+Das Wichtigste ist, dass durch diese Aufteilung unterschiedliche Nutzer ihre Daten nutzen können, ohne dass es zu Störungen kommt. So kann jeder kommunizieren, auch wenn nur ein Kabel verwendet wird.

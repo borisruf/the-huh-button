@@ -1,0 +1,5 @@
+Die Aussage sagt, dass wir bisher darüber gesprochen haben, wie schnell wir Daten übertragen können. Das messen wir in "Bits pro Sekunde". Das ist einfach eine Zahl, die uns sagt, wie viel Information in einer Sekunde gesendet wird.
+
+Jetzt gibt es einen speziellen Fall, wo die Geschwindigkeit, also die "Übertragungsrate", gleich sein kann wie die "Schrittgeschwindigkeit", die wir mit "Baud" messen. Das passiert, wenn wir digitale Daten auf eine ganz einfache Weise übertragen, die wir "binäre Übertragung" nennen. Das bedeutet, wir verwenden nur zwei verschiedene Zustände: einen für die Zahl 1 und einen für die Zahl 0. In diesem Fall ist die Anzahl der Bits pro Sekunde die gleiche wie die Anzahl der Signalwechsel pro Sekunde.
+
+Also, in einfachen Worten: Wenn wir Daten in einer sehr einfachen Art und Weise senden, ist die Geschwindigkeit, mit der wir die Daten senden, die gleiche wie die Geschwindigkeit, mit der wir die Signale ändern.

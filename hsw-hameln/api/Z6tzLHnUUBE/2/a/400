@@ -1,0 +1,5 @@
+Die Aussage bedeutet:
+
+Wenn wir nur innerhalb unseres eigenen Netzwerks sind, ist es einfach, die Computer zu finden und zu erreichen. Jeder Computer hat eine IP-Adresse, und die funktioniert gut für uns. 
+
+Aber wenn wir Daten zu einem anderen Netzwerk oder ins Internet senden wollen, ändert sich etwas. Dort müssen die Computer die Daten anders adressieren, weil sie zu einem anderen Netzwerk gehören. Es gibt also verschiedene Adressen für verschiedene Netzwerke. Wenn die Daten reisen, müssen sie sich an die neuen Adressen anpassen, damit sie am richtigen Ort ankommen.

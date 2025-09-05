@@ -1,7 +1,16 @@
-Die Aussage beschreibt, wie IP-Adressen und Subnetzmasken funktionieren und wie sie zusammenhängen. 
+Okay, ich erkläre das jetzt ganz einfach:
 
-Jede IP-Adresse besteht aus vier Gruppen von Zahlen (Oktetten). Es gibt zwei wichtige Teile davon: den Netzwerk-Teil und den Host-Teil. Eine spezielle Maske, die Subnetzmaske, bestimmt welche Teile wofür verwendet werden. Diese Subnetzmaske setzt sich ebenfalls aus vier Oktetten zusammen. 
+Eine IP-Adresse hilft, Geräte im Internet oder in einem Netzwerk zu finden. Sie sieht aus wie eine Reihe von Zahlen, zum Beispiel 172.16.14.193. 
 
-Die Subnetzmaske enthält Nullen und Einser. Die Anzahl der Nullen gibt auf, wie viele Geräte (Rechner/Hosts) du in deinem Netzwerk unterbringen kannst. Aber das Netzwerk hat auch zwei spezielle Adressen, die nicht für Geräte genutzt werden können: die erste Adresse ist die Netzwerkadresse und die letzte ist für das Senden von Nachrichten an alle Geräte (Broadcast-Adresse). 
+Die Subnetzmaske ist eine andere Gruppe von Zahlen, die angibt, wie die IP-Adresse aufgeteilt ist. Es gibt zwei Teile: den „Netz-Anteil“ und den „Host-Anteil“. 
 
-Die IP-Adresse und die Subnetzmaske zusammen sagen also, wer in welchem Netzwerk ist und wer mit wem kommunizieren kann.
+- **Netz-Anteil**: Das ist der Teil, der angibt, zu welchem Netzwerk die IP-Adresse gehört.
+- **Host-Anteil**: Das ist der Teil, der angibt, welches Gerät (z.B. Computer oder Drucker) in diesem Netzwerk ist.
+
+Die Subnetzmaske sagt, wie viele Zahlen (oder „Bits”) zur Netzadresse gehören und wie viele zur Geräteadresse. 
+
+Zum Beispiel:
+- Wenn die Subnetzmaske die Zahl 255.255.0.0 hat, dann weiß man, dass die ersten 16 Bits zur Netzwerkadresse gehören und die letzten 16 Bits zur Geräteadresse. 
+- Wenn die Subnetzmaske viele Nullen hat, bedeutet das, dass man viele Geräte im Netzwerk haben kann.
+
+Zusammengefasst: Die Subnetzmaske hilft zu erkennen, welche Teile der IP-Adresse das Netzwerk beschreiben und welche Teile das Gerät beschreiben.

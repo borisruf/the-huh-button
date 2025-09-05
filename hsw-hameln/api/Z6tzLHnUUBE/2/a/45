@@ -1,0 +1,7 @@
+Das Internetprotokoll (IP) ist wichtig für die Kommunikation im Internet. Es ist wie eine Adresse für Computer, damit sie einander finden können. Hier sind die Hauptpunkte, einfach erklärt:
+
+1. **Schichten im OSI-Modell:** Das OSI-Modell ist ein System, das hilft zu verstehen, wie Daten über das Internet geschickt werden. IP gehört zur dritten Schicht, während TCP und UDP zur vierten Schicht gehören.
+
+2. **Ziele von IP:** Eine der wichtigsten Funktionen von IP ist die Adressierung. Das bedeutet, dass jeder Computer im Internet eine spezielle Nummer, die IP-Adresse, hat. Diese Nummer hilft, den Computer zu identifizieren und Daten an den richtigen Ort zu senden.
+
+Zusammengefasst: IP sorgt dafür, dass Computer im Internet miteinander sprechen können, indem es jedem Computer eine eindeutige Adresse gibt.

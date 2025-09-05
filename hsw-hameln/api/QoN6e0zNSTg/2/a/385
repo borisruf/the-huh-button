@@ -1,0 +1,3 @@
+Die Aussage besagt, dass es ein spezielles Feld in einem Datenpaket gibt, das sagt, welche Art von Informationen in dem Paket steckt. Wenn wir von "Schicht 3" sprechen, meinen wir eine bestimmte Ebene im Netzwerk, die dafür verantwortlich ist, Daten zwischen verschiedenen Geräten auszutauschen. Ein "A-Paket" oder ein "IP-Paket" bedeutet einfach, dass es sich um bestimmte Arten von Daten handelt, die wir über das Netzwerk senden.
+
+In einfacher Sprache: Wenn ein Computer Daten an einen anderen Computer sendet, zeigt ein bestimmtes Feld im Paket an, was für Daten das sind, damit der empfangende Computer weiß, wie er sie behandeln soll.

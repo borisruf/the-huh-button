@@ -1,0 +1,1 @@
+ Wir können statische Routen konfigurieren, wir können dynamische Routen konfigurieren.  Dynamische Routen haben eben den Vorteil, dass über Routing -Protokolle die Informationen automatisch ausgetauscht und damit eben auch die Wegefindung automatisch angepasst werden kann.

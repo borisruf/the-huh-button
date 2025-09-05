@@ -1,0 +1,5 @@
+In der einfachen Sprache erklärt, sagt die Aussage Folgendes:
+
+Wir werden uns später genauer ansehen, wie der IP-Header aufgebaut ist und was alles darin steht. Das müssen wir verstehen. Wenn wir aber über das Teilen und Zusammensetzen von Datenpaketen sprechen wollen, also über Fragmentierung und Defragmentierung, ist die erste Frage: Warum ist das nötig?
+
+Hier geht es darum, dass es verschiedene Regeln und Aufgaben für die Kommunikation im Internet gibt. Eine wichtige Aufgabe des Internetprotokolls (IP) ist es, Daten zu adressieren und sicherzustellen, dass sie richtig ankommen. Manchmal müssen diese Daten in kleinere Stücke zerlegt werden, weil sie zu groß sind. Diese Stücke nennt man Fragmente. Das Zerlegen nennt man Fragmentierung und das Zusammensetzen wieder Defragmentierung. Es ist wichtig zu verstehen, warum und wie das funktioniert!

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es verschiedene Programme gibt, die in einem bestimmten Bereich des Netzwerks arbeiten. Diese Programme helfen den Nutzern, mit dem Netzwerk zu kommunizieren und Informationen auszutauschen. Die Programme nutzen spezielle Regeln, die man Protokolle nennt, um sicherzustellen, dass alles richtig funktioniert.
+
+Im OSI-Modell, das hilft zu verstehen, wie Netzwerke arbeiten, gibt es sieben Schichten. Die oberen drei Schichten (5 bis 7) sind besonders wichtig für Anwendungen, die die Nutzer direkt nutzen können. Zum Beispiel gibt es Programme wie Telnet, FTP und HTTP, die verschiedene Aufgaben erfüllen. Diese Programme sind das, was die Nutzer sehen und verwenden, um auf das Netzwerk zuzugreifen und damit zu arbeiten. 
+
+Das Schaubild zeigt, wie diese Programme und Protokolle miteinander verbunden sind und funktionen.

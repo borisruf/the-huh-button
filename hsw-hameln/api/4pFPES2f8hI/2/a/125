@@ -1,0 +1,5 @@
+Die Aussage erklärt, wie man Subnetze bildet, also kleinere Netzwerke innerhalb eines großen Netzwerks. Man hat eine Art Grundstruktur, die aus Zahlen besteht, die IP-Adresse genannt wird. Diese Struktur hat Teile, die wir nutzen, um Geräte im Netzwerk zu identifizieren (Host-Bits) und andere Teile, die zeigen, zu welchem Netzwerk die Geräte gehören (Netzanteil-Bits).
+
+Um Subnetze zu machen, wandelt man die Host-Bits (die sind als Nullen in einer speziellen Maske sichtbar) in Netzanteil-Bits um. Dabei muss man darauf achten, dass man keine Lücken zwischen den Nullen lässt, wenn man sie umwandelt. Das bedeutet, dass man immer von der linken Seite zur rechten Seite arbeiten muss, ohne einen Teil zu überspringen.
+
+In diesem Kapitel werden wir Schritt für Schritt lernen, wie das genau geht. Es geht darum, wie wir besser mit der begrenzten Anzahl an IP-Adressen umgehen können, die uns zur Verfügung stehen.

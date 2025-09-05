@@ -1,0 +1,9 @@
+Eine klassische IP-4-Adresse ist eine Art Nummer, die einem Gerät im Internet oder in einem Netzwerk zugewiesen wird, damit es sich identifizieren kann. 
+
+Man kann sich die IP-Adresse wie die Adresse eines Hauses vorstellen. Wenn jemand dir einen Brief schicken möchte, braucht er die richtige Adresse, damit der Brief ankommen kann. 
+
+In einem Netzwerk gibt es viele Geräte wie Computer, Smartphones und Drucker, und jedes braucht eine eigene IP-Adresse, um richtig zu funktionieren. 
+
+Eine IP-4-Adresse hat 32 Bits, was bedeutet, sie besteht aus vier Zahlen, die durch Punkte getrennt sind. Zum Beispiel: 172.16.14.193. Diese Adresse ist einzigartig, so wie jede Hausadresse anders ist. 
+
+Die IP-4-Adressen werden langsam knapp, weil immer mehr Geräte eine Adresse brauchen. Deshalb gibt es jetzt auch IP-Version 6, die viel mehr Adressen zur Verfügung stellt.

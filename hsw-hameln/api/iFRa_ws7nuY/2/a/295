@@ -1,0 +1,7 @@
+In einfacher Sprache bedeutet die Aussage:
+
+Wir möchten die Geschwindigkeit, mit der wir Daten senden (Baudrate), anpassen, damit wir mehr Informationen pro Sekunde übertragen können (Bitrate). Das ist wichtig, damit unsere Datenübertragung schneller und effizienter wird.
+
+Außerdem müssen wir einen Weg finden, um Fehler zu erkennen, die während der Datenübertragung passieren können. Das bedeutet, wir müssen sicherstellen, dass die Informationen, die beim Empfänger ankommen, korrekt sind. Wenn wir wissen, dass etwas schief gelaufen ist, können wir versuchen, das Problem zu beheben, noch bevor die Daten richtig beim Empfänger ankommen. 
+
+Im Grunde wollen wir, dass der Prozess der Datenübertragung schnell und fehlerfrei ist.

@@ -1,11 +1,11 @@
-Stell dir vor, du gehst in ein neues Spielzeug-Geschäft und willst etwas kaufen. Als erstes grüßt du den Ladenverkäufer. Der Verkäufer grüßt zurück und fragt, ob er helfen kann. Du sagst ihm, was du kaufen möchtest. Danach könnt ihr eure Transaktion abschließen.
+In einem Netzwerk müssen zwei Computer, bevor sie miteinander sprechen können, sich zuerst „kennenlernen“. Das geschieht durch einen speziellen Prozess, den man den „Drei-Wege-Handshake“ nennt. Dieser Prozess sorgt dafür, dass beide Computer wissen, dass sie bereit sind, Daten zu senden und zu empfangen.
 
-Genau so funktioniert der sogenannte Drei-Wege-Handshake in einem Computer Netzwerk. Ein Computer 'A' möchte eine Verbindung mit Computer 'B' aufbauen. 
+Hier ist, was genau passiert:
 
-1. Computer 'A' sendet eine Nachricht (ein sogenanntes "SYN"-Paket), um "Hallo" zu sagen. Diese Nachricht enthält die Nummer, mit der Computer 'A' die Verbindung starten möchte.
+1. **Der erste Schritt**: Der erste Computer (nennen wir ihn Computer A) sendet eine Nachricht an den zweiten Computer (Computer B). In dieser Nachricht sagt Computer A, dass er eine Verbindung aufbauen möchte. 
 
-2. Computer 'B' antwortet mit einer eigenen Nachricht, einem "SYN-ACK"-Paket. Es enthält die Nummer, mit der Computer 'B' die Verbindung starten möchte, und bestätigt gleichzeitig die Nummer von Computer 'A'.
+2. **Der zweite Schritt**: Computer B erhält diese Nachricht und antwortet. In seiner Antwort sagt er, dass er die Verbindung auch möchte und gibt Computer A eine Bestätigung, dass er die Anfrage erhalten hat.
 
-3. Schlussendlich sendet Computer 'A' ein letztes Paket (ein "ACK"-Paket) zurück, um die Nummer von 'B' zu bestätigen. 
+3. **Der dritte Schritt**: Schließlich sendet Computer A eine weitere Nachricht an Computer B, in der er bestätigt, dass er die Antwort erhalten hat und die Verbindung jetzt aktiv ist.
 
-Dieses Hin und her ist notwendig, um sicherzustellen, dass beide Computer bereit sind, Daten zu senden und zu empfangen. Es stellt sicher, dass die Daten korrekt und sicher übertragen werden können. Dieser Vorgang ist im TCP-Protokoll festgelegt. TCP steht für "Transmission Control Protocol" und ist quasi die "Spielregel", wie Daten in einem Computer Netzwerk gesendet werden sollen.
+Durch diese drei Schritte (darum „Drei-Wege-Handshake“) stellen die Computer sicher, dass sie beide bereit sind, miteinander zu kommunizieren. Erst nachdem dieser Prozess abgeschlossen ist, können sie sicher und ordentlich Daten austauschen.

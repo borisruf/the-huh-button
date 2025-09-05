@@ -1,0 +1,7 @@
+Es geht darum, wie man digitale Informationen, also Bits, in ein Signal umwandeln kann, das über Kabel geschickt werden kann. 
+
+Es gibt verschiedene Methoden, um das zu tun. Eine einfache Methode heißt „Return-to-Zero“. Da zeigt ein Signal einen Ausschlag, wenn es eine Eins ist, und kehrt dann wieder in die Ausgangslage zurück, wenn es eine Null ist. Das hat aber ein Problem: Es gibt einen hohen Gleichstromanteil, was bedeutet, dass das Signal nicht gut für die Übertragung ist, und man kann nicht den Takt (also den Rhythmus) aus dem Signal herauslesen.
+
+Eine andere Methode heißt „Non-Return-to-Zero“. Hier wird eine Eins immer als ein höherer Wert gezeigt, und eine Null als ein niedriger Wert. Aber auch diese Methode hat Probleme, weil man wieder nicht den Takt zurückgewinnen kann und viele Nullen oder Einsen das Signal langweilig machen.
+
+Um diese Probleme zu lösen, kann man das Non-Return-to-Zero-Verfahren mit einem Taktsignal kombinieren. Das geschieht mit einer XOR-Verknüpfung (das ist eine einfache Rechenart). Das bedeutet, dass das Signal sich in jedem Abschnitt ändert, sodass es leichter wird, den Takt daraus zu lesen. So hat man weniger Probleme mit dem Gleichstromanteil, und das Signal wird besser für die Übertragung.

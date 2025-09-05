@@ -1,0 +1,5 @@
+In dieser Aussage geht es darum, dass es für Computer-Netzwerke verschiedene Wege gibt, um Daten von einem Punkt (A) zu einem anderen Punkt (B) zu schicken. Manchmal gibt es eine Route, die am besten funktioniert, wenn wir die Daten verschicken. Aber es kann auch sein, dass zu einem anderen Zeitpunkt ein anderer Weg besser ist. 
+
+Das kann passieren, wenn ein bestimmter Teil des Netzwerks (wie die Verbindung zwischen Punkt C und dem Netzwerk N2) sehr beschäftigt ist oder "überlastet", also viele Daten gleichzeitig geschickt werden und es deshalb langsamer geht. In diesem Fall wäre es besser, die Daten über einen anderen Weg zu schicken, den wir gerade beschrieben haben, also über die Router A, D, B und dann E. 
+
+Im Grunde genommen: Je nach Situation muss das Netzwerk entscheiden, welchen Weg es für die Daten nimmt, um sicherzustellen, dass sie schnell und ohne Verzögerung ankommen.

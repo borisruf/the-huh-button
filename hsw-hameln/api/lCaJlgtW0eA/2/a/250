@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir in einem Netzwerk, wo man verschiedene Segmente hat, nicht zu viele Geräte gleichzeitig haben dürfen. Es gibt eine wichtige Regel: Von 5 Netzwerksegmenten dürfen nur 3 Segmente Geräte haben, die aktiv sind. 
+
+Wenn wir also die verschiedenen Teile eines Netzwerks betrachten, sieht man, dass es wichtig ist, die richtige Anzahl an aktiven Geräten zu haben, damit alles gut funktioniert. Wenn mehr Geräte in einem Segment sind, kann es langsamer werden oder Probleme geben. 
+
+Wenn wir dann weiter nach oben gehen, gibt es Geräte wie Switches, die helfen, diese Segmente zu verbinden. Diese sind besser als einfache Geräte wie Hubs, weil sie intelligenter sind und helfen, den Datenverkehr besser zu organisieren.

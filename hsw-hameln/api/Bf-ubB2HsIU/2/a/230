@@ -1,1 +1,11 @@
-Das ist wie bei einem Brief: Wenn du einen Brief verschickst, brauchst du eine Absenderadresse (das ist hier der Quell-Port) und eine Empfängeradresse (hier der Empfänger-Port). Diese Adressen sind wichtig, damit dein Brief auch wirklich da ankommt, wo er hin soll. Und innerhalb des Briefes (das entspricht hier den Anwendungssystemen und Nutzdaten) können noch weitere Informationen stehen, die für den Empfänger wichtig sind.
+Die Aussage beschreibt, wie TCP (Transmission Control Protocol) funktioniert und wie es sicherstellt, dass Daten in einem Netzwerk richtig ankommen. Hier ist die Erklärung in einfacher Sprache:
+
+1. **Ende-zu-Ende-Kontrolle**: Das bedeutet, wir wollen sicherstellen, dass die gesendeten Daten am Zielorten ankommen und dass sie dabei keine Fehler haben.
+
+2. **TCP und IP**: TCP und IP sind wichtige Protokolle für die Datenübertragung im Internet. IP kümmert sich darum, dass die Daten zu einer bestimmten Adresse geschickt werden, aber es hilft nicht dabei, sicherzustellen, dass die Daten genau richtig ankommen.
+
+3. **TCP hilft IP**: TCP arbeitet mit IP zusammen, um sicherzustellen, dass die Daten sicher und ohne Fehler ankommen. Es überprüft den Fortschritt der Datenübertragung und sendet Bestätigungen (Quittungen), dass alles gut gelaufen ist.
+
+4. **Ports**: Im TCP gibt es Portnummern, die wie Adressen für verschiedene Programme auf einem Computer sind. Sie helfen dabei, die Daten richtig zuzuordnen, damit die richtigen Informationen beim richtigen Programm ankommen.
+
+Zusammengefasst: TCP sorgt dafür, dass die Daten sicher und richtig an den gewünschten Ort gesendet werden, indem es überprüft, ob alles gut läuft und die richtigen Programme angesprochen werden.

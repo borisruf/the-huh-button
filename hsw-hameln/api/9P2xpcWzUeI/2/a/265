@@ -1,0 +1,9 @@
+Stell dir vor, du hast ein großes Gebäude mit drei Stockwerken. In jedem Stockwerk gibt es ein eigenes Netzwerk, damit die Menschen dort miteinander kommunizieren können. 
+
+Jetzt haben wir die Idee von VLANs (virtuellen LANs). Damit können wir die Menschen in diesem Gebäude so organisieren, dass sie nicht nur auf ihrem Stockwerk sprechen, sondern auch mit Leuten in anderen Stockwerken, wenn wir das wollen. 
+
+Wenn jemand aus dem pinken Netzwerk (Stockwerk) mit jemandem aus dem gelben Netzwerk sprechen möchte, muss dieser pinke Computer durch eine Art „Tür“ gehen, die von einem Router kontrolliert wird. Diese „Tür“ nennt man Standard Gateway. 
+
+Es ist wichtig zu wissen, dass jedes VLAN (jeder Stockwerk) seine eigene kleine Gruppe (Broadcast-Domäne) hat, in der sie kommunizieren können. So bleiben sie sortiert und können nur miteinander sprechen, wenn sie durch den Router gehen. 
+
+Zusammengefasst: VLANs helfen uns, das Netzwerk besser zu organisieren, und wir brauchen einen Router, damit verschiedene VLANs miteinander reden können.

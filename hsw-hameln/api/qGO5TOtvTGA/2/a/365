@@ -1,0 +1,12 @@
+Die Aussage bedeutet, dass ein Datenpaket, das wir gesendet haben, nicht rechtzeitig an sein Ziel gekommen ist und deshalb veraltet ist. 
+
+Stell dir vor, du schickst jemandem einen Brief. Du schreibst auf den Brief, dass er nur eine Woche lang gültig ist. Wenn der Brief nach einer Woche noch nicht angekommen ist, ist er "abgelaufen" und der Empfänger oder das System weiß nicht mehr, was damit zu tun ist. 
+
+Bei Datenpaketen gibt es etwas Ähnliches: Jedes Paket hat eine „Lebenserwartung“, die Time-to-Live (TTL), das ist wie ein Timer. Wenn das Paket zu viele Router passiert, ohne angekommen zu sein, wird diese Zeit aufgebraucht, und das Paket wird verworfen, weil es als nicht mehr benötigter Kommentar angesehen wird. 
+
+Der Grund, warum das Paket vielleicht nicht rechtzeitig ankam, könnte sein:
+1. Es gibt zu viele Stationen (Router), die es passieren muss, was länger dauert.
+2. Es gibt eine Störung oder ein Problem in einem der Router.
+3. Die Route, die das Paket nimmt, ist zu lang und ineffizient.
+
+Wenn das Paket abläuft, hilft das, das Netzwerk sauber zu halten, damit keine alten, unnötigen Datenpakete im System bleiben.

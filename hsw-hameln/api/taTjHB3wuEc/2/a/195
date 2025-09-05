@@ -1,0 +1,9 @@
+Die Aussage handelt von einem speziellen System, das dabei hilft, Daten zwischen einem Sender und einem Empfänger auszutauschen, ohne dass es zu Problemen kommt, wenn einer schneller ist als der andere.
+
+Stell dir vor, du hast einen Freund, der dir viele Nachrichten auf einmal senden möchte, aber du schaffst es nicht, sie alle sofort zu lesen. Um sicherzustellen, dass du nicht überwältigt wirst, muss ihr eine Regel festlegen, wie viele Nachrichten er dir auf einmal schicken kann, bevor du ihm sagen kannst: "Ich bin bereit für mehr!"
+
+Das "Sendefenster" ist wie ein Fenster, das zeigt, wie viele Nachrichten dein Freund dir gleichzeitig senden darf. Wenn er das Fenster öffnet, kann er ein paar Nachrichten schicken. Wenn du sie erhalten und gelesen hast, sagst du ihm Bescheid, und das Fenster wird wieder geöffnet, sodass er dir die nächsten Nachrichten senden kann.
+
+Das "Sliding-Window" bedeutet, dass dieses Fenster sich bewegt. Das heißt, nachdem du ein paar Nachrichten gelesen hast und ihm zugeschickt hast, dass du bereit für mehr bist, kann er weitere Nachrichten senden, und das Fenster wird eröffnet, um Platz für neue Nachrichten zu schaffen.
+
+Das hilft dabei, sicherzustellen, dass die Verbindung zwischen euch beiden immer genutzt wird und es schnell und effizient funktioniert, ohne dass du überlastet wirst.

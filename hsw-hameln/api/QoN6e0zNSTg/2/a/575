@@ -1,0 +1,9 @@
+In der Aussage geht es darum, wie Daten in einem Netzwerk von einem Computer zu anderen Computern gesendet werden. Wenn ich zum Beispiel etwas von meiner Adresse (meinem Computer) an andere Computer im Netzwerk senden möchte, kann ich das auf zwei Arten tun.
+
+1. **Unicast:** Das ist wie eine normale Nachricht an eine bestimmte Person. Wenn ich etwas von meiner Adresse an eine bestimmte Adresse sende, ist das eine Unicast-Nachricht. Das heißt, die Nachricht geht nur an einen bestimmten Computer.
+
+2. **Broadcast:** Wenn ich eine Nachricht an alle Computer im Netzwerk senden möchte, stelle ich mir das wie eine große Ansage vor, die an alle geht. In der Aussage gibt es eine Beschreibung von einer MAC-Adresse, die nur aus „F“ besteht. Diese spezielle Adresse wird verwendet, um eine Nachricht an alle Netzwerke und Computer gleichzeitig zu senden.
+
+Zusätzlich wird auch erwähnt, dass wir in einem weiteren Beispiel untersuchen werden, was passiert, wenn ich mit meiner Nachricht nicht nur innerhalb meines kleinen Netzwerks bleibe, sondern wenn ich zum Beispiel Informationen von meinem Computer an eine Webseite wie Wikipedia sende. Das bedeutet, wir schauen uns an, wie die Daten über verschiedene Netzwerkgrenzen hinweg gesendet werden.
+
+Zusammengefasst: Man kann entweder direkt an einen speziellen Computer (Unicast) oder an alle im Netzwerk (Broadcast) eine Nachricht senden. Und wir werden lernen, wie diese Nachrichten auch zu weit entfernten Orten wie Webseiten gelangen.

@@ -1,0 +1,9 @@
+Ein Switch ist ein Gerät, das Netzwerke oder Netzwerkbereiche miteinander verbindet. Er funktioniert auf einer bestimmten Ebene des Modells, das beschreibt, wie Computer kommunizieren. 
+
+Wenn ein Computer mit einem Switch kommuniziert, sieht der Switch die spezielle Adresse (MAC-Adresse) des Computers. Anhand dieser Adresse kann der Switch entscheiden, wohin die Daten geschickt werden sollen. Das ist wie eine Post, die Briefe an die richtige Adresse weiterleitet.
+
+In einem Netzwerk mit vielen Geräten kann es manchmal zu Problemen kommen, wenn mehrere Geräte gleichzeitig Daten senden wollen. Das nennt man eine Kollision. Ein Switch hilft, solche Kollisionen zu vermeiden, weil er gezielt Daten an die richtigen Geräte sendet und nicht an alle gleichzeitig.
+
+Im Vergleich dazu gibt es einfachere Geräte, wie Repeater oder Hubs, die nur Daten weiterleiten, ohne daran zu denken, an wen sie geschickt werden. Das macht sie weniger effizient, weil alle Geräte sich die Bandbreite teilen müssen.
+
+Zusammengefasst hilft ein Switch dabei, dass Daten schnell und effizient an die richtigen Geräte in einem Netzwerk geschickt werden, ohne dass es zu vielen Störungen oder Kollisionen kommt.

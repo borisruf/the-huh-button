@@ -1,0 +1,9 @@
+In dem Text geht es darum, wie Informationen in Computernetzwerken übertragen werden, besonders beim Ethernet. Hier ist eine einfachere Erklärung der wichtigen Teile:
+
+Wenn Daten gesendet werden, müssen sie in Pakete, die "Frames" genannt werden, verpackt werden. Um sicherzustellen, dass die Daten richtig ankommen und keine Fehler entstehen, fügt man zusätzliche Informationen zu diesen Paketen hinzu, wie eine Art Umschlag.
+
+Früher hatte man eine Methode, bei der die Länge des Pakets in den Umschlag geschrieben wurde. Das bedeutete, dass man wissen musste, wie lang das Paket ist, um zu wissen, wo es endet. Das war jedoch problematisch, denn wenn diese Information verloren ging, wusste man nicht, wo das Paket aufhörte.
+
+Heute verwendet man eine andere Methode, die "Sentinel-Methode" heißt. Hierbei werden spezielle Zeichen am Anfang und am Ende des Pakets gesetzt, um zu zeigen, wo es beginnt und wo es endet. Diese Zeichen sind wichtig, damit die Computer die Daten korrekt lesen können, auch wenn sie irgendwo im Datenpaket vorkommen. 
+
+So können die Computer die Informationen sicher und effizient übertragen, ohne dass sie die Länge der Daten wissen müssen.

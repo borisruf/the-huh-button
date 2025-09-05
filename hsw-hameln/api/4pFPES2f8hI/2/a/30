@@ -1,0 +1,9 @@
+Die Subnetzmaske ist ein wichtiges Werkzeug in Netzwerken. Sie hilft uns dabei, große Netzwerke in kleinere Teile, die Subnetze, zu organisieren. 
+
+Stell dir ein großes Haus vor, das viele Zimmer hat. Um die Zimmer besser zu nutzen und zu verwalten, teilen wir das Haus in verschiedene Bereiche auf. Jedes Zimmer oder jeder Bereich hat seine eigene Adresse, damit wir wissen, wo alles hin gehört.
+
+Die Subnetzmaske funktioniert ähnlich. Sie zeigt den Computern im Netzwerk, wie die Adressen verteilt sind. So können wir sicherstellen, dass die Computer in einem bestimmten Bereich (Subnetz) miteinander sprechen können, ohne dass die Kommunikation mit anderen Bereichen stört.
+
+Das Problem, das wir mit Subnetzen lösen wollen, ist, dass in großen Netzwerken oft viele Computer gleichzeitig kommunizieren. Das kann zu Verwirrung führen und die Leistung beeinträchtigen. Mit Subnetzen organisieren wir die Computer so, dass sie effizienter zusammenarbeiten können.
+
+Zusammengefasst: Eine Subnetzmaske hilft uns, große Netzwerke in kleinere Teile zu unterteilen, damit alles leichter verwaltet werden kann.

@@ -1,0 +1,9 @@
+In der Erklärung geht es darum, wie Daten in einem Netzwerk von einem Ort zum anderen geschickt werden. Es werden verschiedene Methoden erklärt, wie diese Daten übertragen werden:
+
+1. **Leitungsvermittlung**: Das ist wie in alten Filmen, wo eine Telefonistin Kabel von einem Anruf zu einem anderen verbindet. Hier wird eine feste Verbindung für jeden Anruf genutzt, und wenn die Leitungen besetzt sind, müssen neue Anrufe warten.
+
+2. **Speichervermittlung**: Bei dieser Methode werden die Daten erst gespeichert, bevor sie weitergeschickt werden, ähnlich wie bei der Post. Die Daten können mehrere Zwischenstationen haben, bis sie ihr Ziel erreichen. Das ermöglicht, dass mehrere Nachrichten gleichzeitig bearbeitet werden.
+
+3. **Paketvermittlung**: Das ist eine besondere Art der Speichervermittlung. Hier werden die Daten in kleine Pakete zerlegt, die dann unabhängig und auf verschiedenen Wegen zum Ziel geschickt werden. Diese Pakete kommen oft in einer anderen Reihenfolge an, deshalb braucht man eine Nummerierung, damit sie wieder richtig zusammengesetzt werden können.
+
+Im Vergleich dazu wird bei der Nachrichtenvermittlung jedes Mal die gesamte Nachricht von einem Ort zum anderen geschickt. Dieses System versucht, die Datenübertragung effizienter zu gestalten, indem es mehrere Methoden nutzt und dafür sorgt, dass die Daten schnell und flexibel ihren Weg finden.

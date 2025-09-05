@@ -1,0 +1,5 @@
+Die Aussage bedeutet einfach: 
+
+In einer IP-Adresse der Version 6 gibt es mehrere Teile, die "Blöcke" heißen. Jeder Block hat normalerweise vier Zahlen oder Buchstaben. Wenn in einem Block nur zwei Zahlen oder Buchstaben stehen, dann können wir wissen, dass dort zwei Nullen fehlen. Diese Nullen sind einfach nur nicht geschrieben worden, aber sie gehören trotzdem dazu. 
+
+Das hilft, die Adresse kürzer und einfacher zu lesen. Also wenn du nur zwei Zeichen siehst, kannst du dir denken, dass davor zwei Nullen stehen, auch wenn sie nicht geschrieben sind.

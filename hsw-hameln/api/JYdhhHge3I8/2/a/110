@@ -1,0 +1,7 @@
+Die Aussage beschreibt eine Art, wie Daten in Netzwerken weitergeleitet werden. Man nennt das "Store-and-Forward". 
+
+Das bedeutet: Wenn Daten (wie kleine Pakete) an einen bestimmten Punkt kommen, werden sie zuerst gespeichert. Danach werden sie weitergeschickt zu einem anderen Ort. 
+
+Stell dir vor, du gibst ein Paket an einen Postboten. Der Postbote nimmt das Paket, und an seiner nächsten Haltestelle gibt er es an einen anderen Postboten weiter, der es an den nächsten Ort bringt. So funktioniert die Store-and-Forward-Verbindung: Das Paket wird zuerst an einem Punkt „gespeichert“ und dann weiter „geschickt“. 
+
+So können Daten durch unterschiedliche Geräte (wie Router oder switches) fließen, bis sie ihr Ziel erreichen.

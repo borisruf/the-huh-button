@@ -1,7 +1,9 @@
-Wir sprechen hier über die Art und Weise, wie Computer den Aufbau von Internetadressen (IP-Adressen) erkennen. Solche Adressen bestehen aus vier Teilen (die wir "Oktetts" nennen) und haben insgesamt 32 Stellen. Jeder dieser vier Teile kann einen unterschiedlichen Wert haben, der in der Computersprache als "Bit" bezeichnet wird. 
+Eine IP-Adresse ist wie eine Adresse für Computer im Internet. Sie besteht aus vier Teilen, die Oktette genannt werden. Jedes Oktett hat acht Zahlen, die man in einem speziellen Code darstellt, den man binär nennt. 
 
-Wenn wir eine IP-Adresse anschauen und verstehen möchten, was jede Stelle bedeutet, müssen wir sie manchmal in eine andere Form umwandeln - nämlich von der binären Form, die der Computer verwendet (mit vielen Einsen und Nullen), in die dezimale Form, die wir Menschen besser verstehen können (mit Zahlen von 0 bis 9). 
+Wenn wir eine IP-Adresse wie "172.16.14.193" haben, können wir sie auch in diesen binären Code umwandeln, um zu sehen, wie der Computer sie versteht. 
 
-Um diese Umwandlung durchzuführen, schauen wir uns jede Stelle in jedem der vier Teile der IP-Adresse an und berechnen, welchen Wert sie hat. Dann addieren wir alle diese Werte zusammen, um den Gesamtwert der IP-Adresse in der dezimalen Form zu erhalten. Wir können diesen Vorgang auch rückgängig machen, um eine dezimale IP-Adresse in eine binäre umzuwandeln. 
+Manchmal wollen wir diese binäre Darstellung wieder in die normale Zahl umrechnen, die wir besser verstehen können. Dafür müssen wir wissen, wie viel jede der Zahlen in diesem Code wert ist. 
 
-Es ist wichtig zu beachten, dass jede IP-Adresse mit einer "Subnetzmaske" verbunden ist, die uns hilft zu verstehen, welche Teile der Adresse für das Netzwerk und welche für den spezifischen Computer (den "Host") gelten. Diese Subnetzmaske hat auch vier Teile und sieht genauso aus wie eine IP-Adresse.
+Das bedeutet, wenn wir von binär (diese Zahlen, die nur aus 0 und 1 bestehen) zu dezimal (die Zahlen, die wir normalerweise verwenden) umrechnen, schauen wir uns an, wie wichtig jede Zahl in den verschiedenen Teilen (Oktetten) ist. 
+
+Es gibt eine Schritt-für-Schritt-Anleitung, die uns hilft, diese Umrechnung zu machen, egal ob wir von binär nach dezimal oder andersherum gehen.

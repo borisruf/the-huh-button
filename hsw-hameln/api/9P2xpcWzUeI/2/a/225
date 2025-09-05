@@ -1,0 +1,7 @@
+Stell dir vor, ein Gebäude hat drei Stockwerke. In jedem Stockwerk gibt es ein eigenes Netzwerk, damit die Computer untereinander kommunizieren können. Man kann die Computer auch in Gruppen einteilen, die „virtuelle LANs“ oder VLANs heißen. Diese Gruppen helfen, die Computer besser zu organisieren, auch wenn sie in unterschiedlichen Stockwerken sind.
+
+Wenn ein Computer etwas senden will, schickt er ein „Paket“ an einen „Switch“, der wie ein Postbote ist, der die Pakete weiter verteilt. Zuerst schickt der Computer ein Paket ohne spezielle Informationen darüber, zu welcher Gruppe er gehört. Der Switch schaut dann entweder auf den Anschluss, an dem der Computer steckt, oder auf die spezielle ID des Computers (die MAC-Adresse), um herauszufinden, zu welcher Gruppe das Paket gehört. 
+
+Der Switch fügt dann diese Gruppeninformation in das Paket ein. Wenn das Paket zum nächsten Switch gesendet wird, prüft auch dieser, was mit dem Paket gemacht werden soll. Schließlich, bevor das Paket beim Empfänger ankommt, entfernt der letzte Switch die Gruppeninformation, damit der Computer am Ende nichts mit dieser Information zu tun hat und einfach das Paket erhält.
+
+So können Computer, die in verschiedenen Gebäudeteilen sind, trotzdem in dieselbe Gruppe eingeteilt und miteinander verbunden werden, ohne dass man für jedes Stockwerk ein eigenes Netzwerk braucht. Das macht die Netzwerkarbeit flexibler und einfacher.

@@ -1,0 +1,7 @@
+In einfachen Worten sagt die Aussage, dass es ein Problem mit der Anzahl der IP-Adressen gibt. Bei IP Version 4 (das ist eine bestimmte Art von Internet-Adressen) wird es immer schwieriger, neue Adressen zu finden, weil schon viele vergeben sind. Daher müssen Experten Lösungen finden, um dieses Problem zu lösen.
+
+Außerdem haben Netzwerke nicht genug Sicherheit. Das bedeutet, dass es schwer ist, die Netzwerke zu schützen. Wir werden später genauer sehen, was das bedeutet.
+
+Ein weiteres Problem ist, dass wir ohne Subnetze (das sind kleinere Gruppen von IP-Adressen innerhalb eines Netzwerks) nicht gut verwalten können, wie die Adressen verteilt sind.  
+
+Zusammengefasst: Es gibt zu wenig IP-Adressen, Netzwerke sind nicht sicher, und ohne Subnetze ist es schwer, alles im Netzwerk zu kontrollieren.

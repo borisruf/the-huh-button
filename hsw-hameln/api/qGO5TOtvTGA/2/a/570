@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass die Router wissen müssen, wie sie Informationen von einem Punkt (Router mit der IP-Adresse Punkt 1) zu einem anderen Punkt (Router mit der IP-Adresse Punkt 2) senden können. Aber es ist nicht genug, nur den Weg von Punkt 1 zu Punkt 2 zu kennen. Sie müssen auch wissen, wie die Informationen von Punkt 2 zurück nach Punkt 1 kommen, damit die Antworten oder Rückmeldungen auch richtig ankommen können. 
+
+Wenn man sich vorstellt, dass man von einem Ort (A) zu einem anderen Ort (B) reisen möchte, ist es wichtig, nicht nur zu wissen, wie man hinkommt, sondern auch, wie man wieder zurückkommt. Es gibt viele verschiedene Wege, die man nehmen kann, und das ist das, was in dieser Aussage angesprochen wird. 
+
+Zusammengefasst: Die Router müssen beide Wege kennen – für die Hin- und Rückfahrt, damit die Kommunikation gut funktioniert.

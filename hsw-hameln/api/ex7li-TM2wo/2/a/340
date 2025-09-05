@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es immer die Möglichkeit gibt, dass trotz aller Bemühungen ein Fehler auftritt, den wir nicht bemerken. Wir können niemals garantieren, dass es keine Fehler gibt, weil immer etwas Unvorhergesehenes passieren kann.
+
+In diesem Text geht es darum, Daten auf technische Weise zu überprüfen und Fehler zu finden. Ein wichtiger Teil dabei ist das "Generator-Polynom". Das ist ein mathematisches Werkzeug, das hilft, die Prüfzahlen zu erstellen, die wir verwenden, um Fehler zu erkennen. Je besser und geeigneter dieses Polynom ist, desto besser können wir Fehler erkennen. 
+
+Also, die Qualität unseres Verfahrens (wie gut wir Fehler finden können) hängt stark davon ab, welches Generator-Polynom wir verwenden. Wenn wir ein schlechtes Polynom wählen, können wir weniger gut erkennen, ob Fehler aufgetreten sind, und somit bleibt immer die kleine Möglichkeit, dass wir einen Fehler übersehen.

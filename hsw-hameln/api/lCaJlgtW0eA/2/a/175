@@ -1,0 +1,7 @@
+Stell dir vor, das OSI-Modell ist wie ein Schichtenkuchen, bei dem jede Schicht eine andere Aufgabe hat, wenn es um Netzwerke geht.
+
+Ganz unten, in der ersten Schicht, finden wir einfache Geräte wie Repeater und Hubs. Diese Geräte sind wie kleine Helfer, die ein Signal von einem Ort zum anderen weitergeben. Sie nehmen das Signal auf, machen es stärker und schicken es dann weiter. Das ist wichtig, weil Kabel wie Twisted-Pair-Kabel nur eine bestimmte Länge haben, normalerweise 100 Meter. Wenn das Signal länger als 100 Meter reisen soll, kann es schwächer werden oder sogar ganz verschwinden. Repeater und Hubs helfen also, diese Entfernung zu überwinden, indem sie das Signal erneuern.
+
+Aber es gibt noch mehr: Wenn wir Geräte wie Switches oder Bridges anschauen, die eine Schicht höher im Modell sind, sehen wir, dass sie schlauer sind. Sie arbeiten nicht nur mit dem Signal, sondern können auch entscheiden, wo das Signal hingeschickt werden soll, basierend auf einer Adresse. Das hilft, die Netzwerke besser zu organisieren.
+
+Zusammenfassend: Die einfachen Geräte unten helfen uns, Daten über längere Strecken zu senden, während die schlaueren Geräte oben die Daten besser verwalten und richten.

@@ -1,0 +1,12 @@
+Die Aussage besagt, dass die private IP-Adresse in verschiedenen Netzwerken gleich sein kann, ohne dass es Probleme gibt. 
+
+Hier ist eine einfache Erklärung:
+
+- Jedes Netzwerk, wie zum Beispiel das Internet in einer Hochschule oder in einer Firma, kann eigene private IP-Adressen benutzen.
+- Private IP-Adressen sind Adressen, die nur in einem bestimmten Netzwerk genutzt werden, zum Beispiel bei dir zu Hause oder in deinem Unternehmen.
+- Das bedeutet, dass in der Hochschule HSW die IP-Adresse „192.168.1.1“ genauso wie in einer anderen Firma oder Hochschule existieren kann, ohne dass es zu Verwirrungen kommt.
+- Warum ist das möglich? Weil zwischen diesen Netzwerken ein Router steht. Dieser Router verbindet die Netzwerke mit dem Internet. 
+- Der Router sorgt dafür, dass die Daten von und zu den richtigen Adressen kommen.
+- Außerdem verwenden die Netzwerke öffentliche IP-Adressen, die im Internet einzigartig sind. Diese öffentlichen Adressen verhindern, dass es Probleme mit den gleichen privaten Adressen gibt.
+
+Zusammengefasst: Private IP-Adressen können gleich sein, weil sie in verschiedenen Netzwerken sind, und die Router helfen, die Kommunikation klar zu halten.

@@ -1,0 +1,11 @@
+In diesem Text geht es um Netzwerke, die Computer oder Geräte miteinander verbinden, zum Beispiel das Ethernet. 
+
+Hier ist die einfache Erklärung:
+
+Das Bild zeigt gut, wie alles funktioniert. Bei unseren Studien sind wir im vierten Teil, aber wir betrachten die zweite Schicht des ISO-OSI-Modells, die sich mit der Sicherung von Daten beschäftigt. Diese Schicht hat eine Besonderheit: Sie wird in zwei kleinere Bereiche aufgeteilt. 
+
+Wir schauen uns zuerst Ethernet an, eine Technologie, die seit 40 Jahren existiert. Bob Metcalf hat die Idee für Ethernet entwickelt. Es ist so, als ob alle Geräte in einem Raum sind und alle gleichzeitig sprechen wollen. Das ist eine Herausforderung: Wie entscheidet man, wer sprechen darf?
+
+Um das zu regeln, gibt es Regeln. Diese Regeln sorgen dafür, dass alle fair behandelt werden und niemand zu lange warten muss. Wenn Geräte gleichzeitig Informationen senden wollen, kann es zu „Kollisionen“ kommen, ähnlich wie wenn zwei Menschen gleichzeitig reden. Das System erkennt diese Kollisionen und sorgt dafür, dass die Geräte warten, bevor sie es erneut versuchen. Dabei wird ein Zufallsfaktor eingesetzt, sodass jeder eine faire Chance hat.
+
+Insgesamt zeigt das Bild, wie man diese Probleme löst und dass die Sicherungsschicht in kleinere Teile aufgeteilt wird, um die Aufgaben besser zu organisieren.

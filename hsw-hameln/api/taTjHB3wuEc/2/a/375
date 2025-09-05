@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie Informationen über das Internet gesendet werden. Wenn ein Computer (Sender) eine Nachricht an einen anderen Computer (Empfänger) schickt, kann es sein, dass die beiden Computer nicht gleich schnell sind. Der Sender kann sehr schnell Daten schicken, aber der Empfänger braucht mehr Zeit, um die Daten zu verarbeiten.
+
+Um sicherzustellen, dass die Daten erfolgreich übertragen werden, gibt es eine Methode namens "Flusssteuerung". Diese Methode sorgt dafür, dass der Sender weiß, wann er die nächsten Daten schicken kann, und der Empfänger auch bestätigen kann, dass er die vorherigen Daten erhalten hat. 
+
+Wenn der Sender ein Datenpaket schickt und der Empfänger das Paket nicht erhält (zum Beispiel, weil es verloren ging), gibt es die Möglichkeit, dieses Paket erneut zu senden. So wird sichergestellt, dass alle gesendeten Daten auch wirklich ankommen. 
+
+Einfach gesagt, Flusssteuerung hilft, die gesendeten Daten zwischen zwei Computern gut zu koordinieren, damit nichts verloren geht und beide Computer richtig zusammenarbeiten können.

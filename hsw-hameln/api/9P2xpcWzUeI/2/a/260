@@ -1,0 +1,7 @@
+In einfachen Worten erklärt diese Aussage Folgendes:
+
+Wenn wir zwei Gruppen von Computern haben, die wir VLANs nennen – eine Gruppe ist pink und die andere ist gelb – und ein Computer aus der pinken Gruppe möchte mit einem Computer aus der gelben Gruppe sprechen, dann braucht er eine Art Vermittler. Dieser Vermittler ist ein Router, der dafür sorgt, dass die beiden Gruppen miteinander kommunizieren können.
+
+Jede Gruppe (VLAN) ist wie ein eigener Raum in einem Gebäude. Wenn ein Computer in einem Raum (VLAN) mit einem Computer in einem anderen Raum (VLAN) sprechen möchte, muss er durch das Tor (Router) gehen, das die Räume verbindet. 
+
+Wichtig ist auch, dass jede Gruppe ihre eigenen Nachrichten hat, die nur innerhalb ihrer Gruppe bleiben, beschreiben wir das als "Broadcast-Domäne". Das bedeutet, wenn ein Computer in der pinken Gruppe eine Nachricht sendet, erhalten nur die Computer in dieser Gruppe diese Nachricht und nicht die aus der gelben Gruppe.

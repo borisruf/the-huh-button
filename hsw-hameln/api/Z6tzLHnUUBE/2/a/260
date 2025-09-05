@@ -1,0 +1,11 @@
+Stell dir vor, du hast einen großen Brief, den du von einem Ort zum anderen senden möchtest. Manchmal kannst du den Brief ganz einfach in einem großen Umschlag verschicken, weil der Umschlag groß genug ist. 
+
+In diesem Beispiel ist der große Umschlag wie ein Netzwerkprotokoll, das große Datenpakete (deine Briefe) problemlos transportieren kann. Wenn du deinen Brief in ein Netzwerk mit einem großen Umschlag schickst, der bis zu 1500 Gramm wiegen kann, ist alles in Ordnung, weil dein Brief nur 1400 Gramm wiegt.
+
+Jetzt musst du aber eine andere Route wählen, und für diesen neuen Weg gibt es einen kleineren Umschlag. Der neue Umschlag kann nur 532 Gramm tragen. Hier ist das Problem: Dein Brief wiegt mehr als das, was der neue Umschlag tragen kann. 
+
+Also musst du deinen großen Brief in kleinere Teile aufteilen, damit du sie in den kleinen Umschlag stecken kannst. Dieser Prozess, bei dem du den großen Brief in viele kleine Stücke zerlegst, nennt man "Fragmentierung". 
+
+Das Internetprotokoll (IP) hilft dir dabei, diese Fragmentierung durchzuführen. Es sorgt dafür, dass dein ursprünglicher Brief in die kleineren Teile zerlegt wird, die dann einfach durch das Netzwerk geschickt werden können, bis sie am Ziel wieder zusammengefügt werden, sodass der Empfänger deinen vollständigen Brief erhält.
+
+Zusammengefasst: Wenn Datenpakete durch verschiedene Netzwerke reisen, die unterschiedliche Größenanforderungen haben, müssen sie manchmal in kleinere Stücke zerlegt werden, damit sie richtig übermittelt werden können. Das erledigt IP für uns.

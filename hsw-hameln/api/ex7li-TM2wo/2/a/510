@@ -1,0 +1,3 @@
+Wenn ich Daten sende, erwarte ich, dass der Empfänger mir sagt, ob er die Daten richtig bekommen hat. Wenn ich nach einer bestimmten Zeit keine Antwort vom Empfänger bekomme, weiß ich, dass etwas nicht stimmt. Vielleicht sind die Daten verloren gegangen oder die Antwort hat den Empfänger nicht erreicht. 
+
+In diesem Fall wird der Sender die Daten erneut senden. Das bedeutet, dass es eine Art Timer gibt, der zählt, wie lange ich auf die Antwort warte. Wenn die Zeit abläuft und ich nichts höre, kann ich nicht mehr warten und muss die Daten einfach nochmal schicken.

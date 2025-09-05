@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir die Subnetzmaske ändern, also die Art und Weise, wie wir Netzwerke aufteilen, damit wir kleinere Netzwerke erstellen. Früher haben wir große Netzwerke gehabt, die viele Computer (Hosts) einbeziehen konnten. Wenn wir die Subnetzmaske anpassen, machen wir diese großen Netzwerke kleiner und teilen sie in viele kleine, sogenannte Subnetze auf.
+
+Das hat Folgen: In diesen kleineren Netzwerken können wir nicht mehr so viele Computer ansprechen wie vorher, weil die Aufteilung nötig ist, um die Nutzung der IP-Adressen (die Nummern, die Computer identifizieren) besser zu regeln. Wir müssen also die Anzahl der Computer, die in einem einzelnen kleinen Netzwerk sein können, verringern. 
+
+Zusammengefasst: Wir ändern die Subnetzmaske, um große Netzwerke in kleinere Gruppen aufzuteilen. Diese kleineren Gruppen können weniger Computer haben als die großen Netzwerke vorher.

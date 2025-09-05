@@ -1,0 +1,1 @@
+ Das bedeutet, die Ausfallwahrscheinlichkeiten meiner Komponente addieren sich immer dann, wenn ich keine Alternativen habe, also zum Beispiel keine alternativen Wege, keinen alternativen Router.   Wenn ich Alternativen zur Verfügung stelle, also Redundanzen schaffe, in dem Fall multiplizieren sich meine Ausfallwahrscheinlichkeiten, werden dadurch geringer.

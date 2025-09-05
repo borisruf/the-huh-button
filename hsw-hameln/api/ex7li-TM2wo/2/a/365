@@ -1,0 +1,7 @@
+In der Erklärung geht es darum, wie wir Fehler bei der Übertragung von Daten erkennen können. Wenn Daten über das Internet oder ein Netzwerk gesendet werden, kann es passieren, dass sie sich verändern. Das nennt man Datenverfälschung. Um diese Fehler zu erkennen, verwenden wir verschiedene Methoden, wie das CRC 32-Verfahren.
+
+Das CRC 32-Verfahren ist eine Art von „Prüfziffer“, die wir zu den Daten hinzufügen. Es hilft uns zu sehen, ob die Daten, die wir empfangen, korrekt sind. Wenn wir diese Daten schicken, wird eine spezielle Zahl (Prüfziffer) berechnet. Wenn die Zahlen ankommen, können wir sie wieder prüfen. Wenn die Prüfzahl stimmt, wissen wir, dass alles in Ordnung ist. Wenn nicht, gibt es einen Fehler.
+
+Im Ethernet, einer Art von Netzwerk, nutzen wir das CRC 32-Verfahren, um sicherzustellen, dass die Daten genau und ohne Fehler ankommen. Es ist wichtig, dass wir wissen, ob bei der Übertragung etwas schiefgelaufen ist, damit wir darauf reagieren können. Manchmal ignorieren wir kleine Fehler, zum Beispiel bei Musik- oder Videoübertragungen, aber bei wichtigen Daten, wie bei Geldüberweisungen, müssen wir sehr vorsichtig sein.
+
+Zusammengefasst: Das CRC 32-Verfahren hilft uns, Fehler in Daten zu erkennen, indem es eine Prüfziffer an die Daten anhängt, mit der wir dann überprüfen, ob die Daten korrekt angekommen sind.

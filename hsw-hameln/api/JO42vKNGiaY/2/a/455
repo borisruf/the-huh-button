@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass bei einer IP-Adresse der Version 6 (IPv6) besondere Regeln für das Abkürzen von Nullen gelten. 
+
+1. **Doppelte Nullen am Anfang:** Eine IPv6-Adresse kann mit einer speziellen Abkürzung beginnen, die als "doppelter Doppelpunkt" bezeichnet wird. Das ist eine Art, die Adresse kürzer zu machen.
+
+2. **Eine Nullenfolge abkürzen:** Wenn es in der Adresse mehrere Gruppen von Nullen gibt, darf man nur eine dieser Gruppen abkürzen. Das bedeutet, wenn zwei Gruppen von Nullen vorkommen, kann man nur eine davon auf diese besondere Art verkürzen. 
+
+Das Ziel dieser Regeln ist es, die langen IPv6-Adressen einfacher zu schreiben und zu lesen.

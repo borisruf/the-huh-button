@@ -1,0 +1,9 @@
+Die Aussage besagt Folgendes:
+
+Wenn wir ein großes Netzwerk in kleinere Teile, die wir Subnetze nennen, aufteilen, schauen wir uns die Adressen in diesen Subnetzen an. Jede Gruppe von Adressen hat einen bestimmten Bereich, den wir "Host-Range" nennen. 
+
+In diesem speziellen Fall haben wir 32 Adressen in einem Subnetz. Jedoch können wir nicht alle 32 Adressen nutzen. Die erste Adresse wird für die Netzwerk-ID verwendet, also für die Identifikation des Subnetzes, und die letzte Adresse wird für die Broadcast-ID benutzt, das ist eine spezielle Adresse, um Nachrichten an alle Geräte im Netzwerk zu senden. 
+
+Das bedeutet, dass wir von den 32 verfügbaren Adressen nur 30 wirklich verwenden können, weil wir die erste und die letzte Adresse abziehen müssen. 
+
+Zusammengefasst: Bei 32 Adressen in einem Subnetz können wir nur 30 Adressen für Geräte nutzen.

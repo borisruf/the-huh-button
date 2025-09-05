@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass wenn ein Signal von einem Punkt zu einem anderen geschickt wird, das empfangene Signal immer schwächer ist als das gesendete Signal. Das passiert, weil das Medium, durch das das Signal reist, das Signal dämpft oder schwächt. 
+
+Die Dämpfung hängt davon ab, welche Art von Medium wir verwenden – zum Beispiel ist Kupferkabel gut für kurze Strecken, während Lichtwellenleiter (z.B. Glasfasern) für lange Strecken besser sind.
+
+Außerdem gibt es noch andere Widerstände, die wir beachten müssen. Der „ohmsche Widerstand“ ist der normale Widerstand, den die Kabel bieten. Aber es gibt auch die „Blindwiderstände“, die mit dem Verhalten von Wechselstrom zu tun haben. Diese beiden Widerstände zusammen beeinflussen, wie stark das Signal geschwächt wird, wenn es durch das Medium reist. 
+
+Insgesamt sagen diese Erklärungen, dass wir verstehen müssen, warum ein Signal schwächer ankommt und dass wir verschiedene Faktoren berücksichtigen müssen, um eine zuverlässige Signalübertragung zu gewährleisten.

@@ -1,0 +1,11 @@
+Eine IP-Version 6-Adresse kann sehr lange sein und sieht kompliziert aus. Manchmal gibt es in dieser Adresse viel Nullen. 
+
+1. Wenn die Adresse ganz vorne nur Nullen hat, kann man die ersten Nullen einfach weglassen. Zum Beispiel wird aus „0001:2345:6789:ABCD“ einfach „1:2345:6789:ABCD“.
+
+2. Wenn es in einer Adresse eine lange Reihe von Nullen gibt, also mehrere Nullen hintereinander, darf man diese Reihe nur einmal mit einem speziellen Zeichen abkürzen. Dieses spezielle Zeichen ist der doppelte Doppelpunkt (::). 
+
+Das heißt:
+- Du kannst die Nullen am Anfang weglassen.
+- Und wenn du irgendwo in der Adresse viele Nullen hast, darfst du die gesamte Reihe der Nullen nur einmal mit :: ersetzen. 
+
+Aber, wenn du zwei verschiedene Gruppen mit vielen Nullen hast, kannst du sie nicht beide mit :: abkürzen – nur eine!

@@ -1,1 +1,9 @@
-Wir haben hier Beispiele für Internet-Regeln oder Anweisungen, die genannt werden, wenn wir im Internet unterwegs sind. Dies sind Internet-Protokolle. Zwei sehr wichtige Protokolle sind TCP und IP. Du kannst IP als deine Internet-Adresse sehen. TCP hilft IP dabei sicherzustellen, dass die Informationen, die du im Internet sendest oder empfängst, genau dort ankommen, wo sie sollen und ohne Fehler sind. Es gibt auch andere Protokolle. Eines davon ist ICMP. Dieses Protokoll wird verwendet, wenn Probleme auftreten. Ein bekanntes Beispiel dafür ist der PING, der dazu dient zu überprüfen, ob eine andere Internet-Adresse erreichbar ist.
+In Netzwerken gibt es verschiedene Regeln (Protokolle), die dafür sorgen, dass die Daten richtig von einem Ort zum anderen geschickt werden. Zwei sehr wichtige Regeln sind TCP und IP. 
+
+IP kümmert sich darum, dass die Daten an die richtige Adresse geschickt werden. Es ist wie eine Postkarte: Sie hat eine Adresse, aber sie sagt nichts darüber, wie man die Postkarte an den Empfänger übergibt. 
+
+TCP ist wie ein Kurier, der sicherstellt, dass die Postkarte nicht nur ankommt, sondern auch unbeschadet. Wenn etwas schiefgeht, hilft TCP, das Problem zu lösen.
+
+Ein weiteres Protokoll, das hier wichtig ist, heißt ICMP. Es wird verwendet, wenn es Probleme gibt, zum Beispiel wenn jemand nicht antwortet. Ein bekanntes Beispiel für ICMP ist der PING-Befehl, der überprüft, ob ein Computer erreichbar ist. 
+
+Zusammen sorgen diese Protokolle dafür, dass Daten in Netzwerken sicher und richtig übertragen werden.

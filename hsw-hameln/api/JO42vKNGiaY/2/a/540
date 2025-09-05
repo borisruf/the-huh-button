@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass wir eine spezielle Art von Adresse im Internet, die IP-Adresse, ändern müssen. Wir haben in der alten Version (IP Version 4) 32 Zahlen, die wir aufschreiben können, aber jetzt in der neuen Version (IP Version 6) haben wir 128 Zahlen.
+
+Wenn wir von der alten zur neuen Adresse wechseln wollen, müssen wir darauf achten, dass die oberen 96 Zahlen immer mit 0 geschrieben werden müssen. Nur die letzten 32 Zahlen können anders sein. Das bedeutet, wir müssen die neuen Adressen so gestalten, dass die ersten 96 Zahlen nur 0 sind, damit wir die richtigen Adressen bekommen. 
+
+Am Ende stellen wir sicher, dass nur diese letzten 32 Zahlen unterschiedlich sind, damit die Adresse gültig ist und wir sie verwenden können. 
+
+In einfacher Sprache: Wenn wir die Adressen umstellen, müssen wir viele Nullen schreiben, und nur die letzten Zahlen dürfen anders sein.

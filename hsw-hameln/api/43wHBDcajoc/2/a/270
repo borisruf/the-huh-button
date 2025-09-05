@@ -1,0 +1,11 @@
+In dem Text geht es um verschiedene Arten von Funknetzwerken, insbesondere WLAN (Wireless Local Area Network). 
+
+Die wichtigste Aussage ist: Wenn wir WLAN nutzen, gibt es unterschiedliche Reichweiten, also wie weit das Signal reicht. Diese Reichweite hängt davon ab, welches Frequenzband (wie viele Hertz) wir nutzen und wie viel das Signal durch Wände oder andere Hindernisse geschwächt wird.
+
+Es werden verschiedene WLAN-Standards beschrieben, die zeigen, wie schnell Daten übertragen werden können. Zum Beispiel: 
+
+- **Bluetooth** hat eine Reichweite von etwa 10 Metern und kann Daten mit Geschwindigkeiten von bis zu 24 Megabit pro Sekunde senden.
+- **WLAN** kann viel schneller sein. Ein älterer Standard startet bei 2 Megabit pro Sekunde, neuere Standards erreichen theoretisch bis zu 600 Megabit pro Sekunde.
+- Bei größeren Entfernungen, wie in Städten, gibt es andere Netzwerke (wie WiMAX), die noch schneller sind.
+
+Die Aussage fragt auch, wie man ein WLAN Netzwerk aufbauen kann. Es gibt verschiedene Möglichkeiten, aber man muss immer die Reichweite und die Störanfälligkeit des Signals beachten.

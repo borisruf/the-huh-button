@@ -1,0 +1,5 @@
+In diesem Text geht es darum, wie verschiedene Netzwerke miteinander verbunden werden. Wenn man Netzwerke koppelt, braucht man spezielle Geräte, die dabei helfen.
+
+Im OSI-Modell, das eine Art Anleitung zum Verständnis von Netzwerken ist, gibt es verschiedene Schichten. Ganz unten, auf der ersten Schicht, haben wir einfache Geräte wie Repeater oder Hubs. Diese Geräte sind ziemlich simpel. Ihre Aufgabe ist es, ein Signal zu empfangen, es zu verstärken und dann gleich wieder weiterzuschicken. Mit diesen Geräten kann man die Reichweite eines Netzwerks erhöhen. Aber sie haben auch einen Nachteil: Sie können dazu führen, dass es öfter zu Störungen kommt, wenn viele Geräte gleichzeitig nutzen.
+
+Jetzt gehen wir eine Schicht höher im OSI-Modell. Dort finden wir anspruchsvollere Geräte, die Switches oder Bridges heißen. Diese Geräte helfen auch dabei, Netzwerke zu verbinden, aber sie können mehr als nur Signale weiterleiten. Wir werden uns später noch genauer anschauen, was sie alles machen können.

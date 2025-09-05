@@ -1,0 +1,7 @@
+Die Aussage, die du erklärt haben möchtest, bedeutet Folgendes:
+
+In einem kleinen Netzwerk, wie zum Beispiel in deinem Zuhause oder Büro, brauchst du nur eine IP-Adresse, um einen Computer zu finden. Das ist einfach, weil alles in diesem Netzwerk miteinander verbunden ist.
+
+Wenn du aber Informationen von deinem Netzwerk zu einem anderen Netzwerk, zum Beispiel über das Internet, schicken willst, dann müssen die Adressen auf dem Weg verändert werden. Das liegt daran, dass verschiedene Netzwerke unterschiedliche Adressen benutzen. Wenn die Daten von einem Netzwerk in ein anderes geschickt werden, müssen sie also an die neuen Bedingungen und Adressen angepasst werden, damit sie ankommen.
+
+Zusammengefasst: In einem sicheren kleinen Netzwerk bleibt die IP-Adresse gleich. Bei der Übertragung über das Internet muss die Adresse jedoch geändert werden.

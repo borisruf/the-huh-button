@@ -1,0 +1,8 @@
+Wenn man Daten überträgt, kann es passieren, dass ein paar Bits, also kleine Teile der Daten, falsch ankommen. Um zu wissen, wie viele dieser Fehler passiert sind, kann man eine einfache Rechnung machen. Man schaut sich an, wie viele Bits insgesamt gesendet wurden und wie viele von denen Fehler hatten. 
+
+Die Aussage bedeutet also: Man berechnet, wie viele Bits mit Fehlern bei der Übertragung angekommen sind, und teilt diese Zahl durch die gesamte Anzahl der gesendeten Bits. So bekommt man einen Wert, der zeigt, wie gut oder schlecht die Übertragung war. 
+
+Beispiel: 
+Wenn man 1000 Bits sendet und 10 davon haben Fehler, dann berechnet man 10 (die fehlerhaften Bits) geteilt durch 1000 (die gesendeten Bits). Das ergibt 0,01 oder 1%. Das heißt, 1% der gesendeten Bits waren falsch. 
+
+Das hilft den Technikern zu verstehen, wie oft Fehler passieren und wie man die Übertragung vielleicht verbessern kann, damit weniger Bits falsch ankommen.

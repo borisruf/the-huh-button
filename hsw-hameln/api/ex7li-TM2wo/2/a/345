@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass die Qualität eines Verfahrens, das Fehler in Daten erkennt, stark davon abhängt, welches spezielle Werkzeug (Generator-Polynom) wir dafür verwenden. Wenn wir die Daten senden und eine Art „Prüfziffer“ (eine Zahl, die hilft festzustellen, ob die Daten korrekt sind) hinzufügen, dann können wir herausfinden, ob etwas falsch gelaufen ist.
+
+Das Beispiel erklärt, dass wir bei der Überprüfung der Daten berechnen können, ob alles in Ordnung ist. Wenn die Berechnung keinen Fehler zeigt – also wenn kein „Rest“ bleibt – ist alles gut. Aber selbst wenn alles gut aussieht, kann es trotzdem sein, dass ein Fehler passiert ist. Daher bleibt immer ein kleines Risiko, dass wir einen Fehler nicht bemerken, und das nennt man die „Restfehler-Rate“. Wir können diese Rate berechnen, um zu verstehen, wie sicher unser Verfahren ist. 
+
+Zusammengefasst: Wie gut unsere Methode zur Fehlererkennung funktioniert, hängt davon ab, welches Werkzeug wir benutzen, und es gibt immer ein kleines Risiko, dass wir einen Fehler übersehen.

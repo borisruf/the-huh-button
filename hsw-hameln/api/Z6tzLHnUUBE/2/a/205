@@ -1,0 +1,7 @@
+In unseren Netzwerken gibt es verschiedene Arten, Daten zu senden. Eine der bekanntesten Arten heißt Ethernet. Aber es gibt auch andere Arten, wie FDDI oder PPP. Jede dieser Arten hat unterschiedliche Regeln für die Größe der Datenpakete, die sie senden können. Diese maximale Größe nennt man MTU, was für "Maximum Transmission Unit" steht.
+
+Manchmal, wenn wir Daten senden möchten, sind diese Daten größer als das, was das Netzwerk erlaubt. In solchen Fällen muss das Internetprotokoll (IP) die großen Daten in kleinere Teile zerlegen. Das nennt man Fragmentierung. Die kleinen Teile wird man wieder zusammenfügen, wenn sie an ihrem Ziel angekommen sind. Das nennt man Defragmentierung.
+
+Wenn wir uns ein Beispiel ansehen: Stellen wir uns vor, wir haben ein Datenpaket, das 1400 Einheiten groß ist, und wir möchten es über Ethernet senden. Wir müssen sicherstellen, dass dieses Paket nicht größer ist als die erlaubte Größe der Ethernet-Nachricht.
+
+Zusammengefasst: IP hilft dabei, Daten in passende Größenteile zu zerlegen, damit sie durch das Netzwerk geschickt werden können, egal welches Netzwerkprotokoll wir benutzen.

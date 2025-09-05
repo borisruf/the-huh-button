@@ -1,0 +1,5 @@
+Die Aussage sagt, dass immer dann, wenn man ein großes Netzwerk hat, das nicht vollständig geswitcht ist oder nicht im Full-Duplex-Modus arbeitet, man eine sogenannte Kollisionsdomäne hat. 
+
+Eine Kollisionsdomäne ist der Bereich, in dem Daten miteinander um die Verbindung „kämpfen“ können, also, wo es zu Kollisionen kommen kann, wenn zwei Geräte gleichzeitig versuchen, Daten zu senden. Wenn man in einem Netzwerk arbeitet, in dem nicht alle Geräte gut verbunden sind (nicht "voll geswitcht") und nicht gleichzeitig senden können (nicht im Full-Duplex-Modus), dann ist die Wahrscheinlichkeit, dass zwei Datenpakete aufeinanderprallen, höher. Das bedeutet, dass man ein Verfahren braucht, um mit diesen Kollisionen umzugehen, wie zum Beispiel CSMA/CD, das schon bekannt ist. Man kann Kollisionen nicht ganz verhindern, aber man kann versuchen, sie zu steuern.
+
+Zusammengefasst: In einem unvollständig verbundenen Netzwerk können Daten zusammenstoßen, was Probleme verursacht, und man muss eine Lösung finden, um damit umzugehen.

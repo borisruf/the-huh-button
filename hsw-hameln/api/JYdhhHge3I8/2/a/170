@@ -1,0 +1,9 @@
+In dieser Aussage geht es darum, wie Daten in Netzwerken weitergeleitet werden. Es gibt verschiedene Möglichkeiten, wie dies geschehen kann. Wir werden uns anschauen, wie das funktioniert. 
+
+Das erste Beispiel ist die „Leitungsvermittlung“. Das kann man sich wie ein Telefon vorstellen: Wenn du jemanden anrufst, wird eine direkte Verbindung zwischen dir und der anderen Person hergestellt.
+
+Das zweite Beispiel ist die „Speichvermittlung“. Dabei wird die gesamte Nachricht zuerst gespeichert, bevor sie weitergeschickt wird, fast wie beim Versenden eines Briefes.
+
+Die dritte Art, die „Paketvermittlung“, kombiniert diese beiden Methoden. Hier werden Daten in kleine Pakete aufgeteilt und dann unabhängig voneinander verschickt. Sie können dabei verschiedene Wege nehmen, um ihr Ziel zu erreichen. 
+
+Wir werden uns gleich ansehen, wie die Paketvermittlung genau funktioniert und die drei Arten noch einmal im Schaubild zeigen.

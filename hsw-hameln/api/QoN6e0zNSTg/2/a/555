@@ -1,0 +1,12 @@
+In diesem Text geht es um Netzwerke, speziell um Ethernet. 
+
+Stell dir vor, du hast viele Computer, die miteinander sprechen wollen. Wenn ein Computer nur mit einem anderen Computer redet, nennt man das Unicast. Das ist so, als würdest du mit einem Freund in einem ruhigen Raum sprechen.
+
+Aber manchmal wollen viele Computer gleichzeitig miteinander sprechen. Wenn ein Computer eine Nachricht an alle anderen Computer im Netzwerk senden will, nennt man das Broadcasting. Das ist, wie wenn du in einen großen Raum rufst und alle Leute hören dich.
+
+Also gibt es zwei Arten, wie Computer miteinander kommunizieren können:
+
+1. **Unicast**: Ein Computer spricht mit einem anderen Computer (1 zu 1).
+2. **Broadcast**: Ein Computer spricht mit allen Computern gleichzeitig (alle hören zu).
+
+Der Text erklärt, wie dies in Netzwerken funktioniert, und dass es wichtig ist, die Kommunikation zu steuern, damit alles gut funktioniert und keine Informationen verloren gehen.

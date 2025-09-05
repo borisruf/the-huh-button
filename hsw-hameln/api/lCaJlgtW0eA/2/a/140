@@ -1,0 +1,5 @@
+In einfachen Worten heißt die Aussage:
+
+Oben im OSI-Modell, einer Art Anleitung, wie Netzwerke miteinander kommunizieren, gibt es die Router. Diese Router helfen, verschiedene Netzwerke zu verbinden. Sie nutzen IP-Adressen, also spezielle Zahlen, die jedem Gerät im Netzwerk zugeordnet sind. Das hilft den Routern zu entscheiden, wohin sie Daten schicken sollen.
+
+Ein Router hat zwei oder mehr Anschlüsse. Mit einem Anschluss ist er mit einem Netzwerk verbunden, und mit den anderen Anschlüssen kann er mit anderen Netzwerken kommunizieren. So können viele Netzwerke miteinander verbunden werden, und die Daten können zwischen ihnen fließen.

@@ -1,1 +1,1 @@
- Und genau diese 16 Nullen nehme ich einfach für die Berechnung der maximal verfügbaren Hosts, ich rechne dafür 2 hoch die Anzahl der Nullen, also 2 hoch 16, da kommt irgendwas über 65.
+500 bei raus und ich sehe aber auch schon auf der Folie, ich muss immer zwei wieder abziehen, denn zwei Adressen sind pro Netzwerk immer fest reserviert.

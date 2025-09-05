@@ -1,0 +1,10 @@
+Die Aussage beschreibt, wie zwei Computer, A und B, über Switches miteinander verbunden sind und wie diese Switches die Kommunikation zwischen den beiden managen. 
+
+Hier ist es einfach erklärt:
+
+1. **Rechner A und B**: Das sind zwei Computer, die miteinander sprechen wollen.
+2. **MAC-Adresse**: Jedes Gerät hat eine spezielle Nummer (die MAC-Adresse), die wie eine persönliche ID ist. Damit kann ein Computer im Netzwerk erkannt werden.
+3. **Switches**: Das sind Geräte, die die Computer miteinander verbinden. Sie helfen, die Nachrichten von einem Computer zum anderen zu schicken.
+4. **MAC-Adresstabelle**: Die Switches merken sich, welche Computer verbunden sind und welche MAC-Adresse zu welchem Computer gehört. Das ist wie ein Adressbuch, in dem steht, wo jeder Computer ist.
+
+Zusammengefasst: Die Switches verbinden die Computer A und B und wissen, wie sie Nachrichten zwischen ihnen senden, weil sie sich die MAC-Adressen merken.

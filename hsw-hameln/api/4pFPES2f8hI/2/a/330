@@ -1,0 +1,5 @@
+Wir haben eine große Gruppe von IP-Adressen, und wir wollen diese Gruppe in kleinere Gruppen teilen, die man Subnetze nennt. Das hilft uns, die Adressen besser zu nutzen, weil wir diese großen Gruppen manchmal nicht ganz brauchen.
+
+In der großen Gruppe können viele Geräte eine Adresse haben - zum Beispiel 254 Geräte. Wenn wir die Gruppe also in kleinere Teile aufteilen, entscheiden wir uns, zum Beispiel 8 kleinere Gruppen zu machen. Jede dieser Gruppen kann dann 32 Adressen haben. So können wir die Adressen effizienter nutzen und dabei auch sicherer arbeiten. 
+
+Das Ganze wird in einer Tabelle dargestellt, die zeigt, wie die Aufteilung aussieht.

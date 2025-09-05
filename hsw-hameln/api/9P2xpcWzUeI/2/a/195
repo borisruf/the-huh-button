@@ -1,0 +1,15 @@
+In einem Netzwerk, das aus mehreren Teilen besteht, können verschiedene Geräte miteinander kommunizieren. Man kann sich das wie ein Gebäude mit mehreren Stockwerken vorstellen. Jedes Stockwerk hat sein eigenes Netzwerk. 
+
+Normalerweise könnte man sagen: „Das Erdgeschoss ist ein Netzwerk, der erste Stock ist ein anderes Netzwerk, und so weiter.“ Aber manchmal möchte man, dass Geräte aus verschiedenen Stockwerken trotzdem im gleichen Netzwerk sind. Dafür gibt es etwas, das sich VLAN nennt. 
+
+VLAN steht für Virtuelles Lokales Netzwerk. Es ist wie ein unsichtbarer Raum, den man über verschiedene Stockwerke hinweg teilen kann. So können Geräte, die vielleicht weit weg voneinander stehen, trotzdem zusammenarbeiten, als wären sie im selben Raum.
+
+Es gibt zwei Möglichkeiten, wie man VLANs einrichten kann. 
+
+1. **Statische Einrichtung**: Der Netzwerk-Administrator sagt jedem Anschluss an einem Switch, zu welchem VLAN er gehört. Wenn ein Computer an den Anschluss angeschlossen wird, gehört er automatisch zu diesem VLAN. Das kann ein bisschen fehleranfällig sein, wenn der falsche Computer angeschlossen wird.
+
+2. **Dynamische Einrichtung**: Hier gibt es eine spezielle Station im Netzwerk, die entscheidet, zu welchem VLAN ein Computer gehört, basierend auf seiner MAC-Adresse (das ist wie eine persönliche ID für jeden Computer). Wenn der Computer angeschlossen wird, schaut das Netzwerk nach, in welches VLAN er gehört.
+
+Um all diese Informationen zu verarbeiten, wird einem Datenpaket ein kleiner Zusatz (Header) von 4 Byte hinzugefügt, in dem steht, zu welchem VLAN das Paket gehört. Dadurch weiß das Netzwerk, wohin die Daten geschickt werden müssen. Außerdem gibt es dort noch andere technische Informationen, die erst einmal nicht so wichtig sind. 
+
+Insgesamt hilft das, die Netzwerke flexibler zu gestalten und die Geräte so zu verbinden, wie man es braucht.

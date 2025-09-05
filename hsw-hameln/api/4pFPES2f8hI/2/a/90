@@ -1,0 +1,9 @@
+Okay, lass uns das einfach erklären:
+
+Früher dachten die Menschen, dass sie viele IP-Adressen brauchen würden. Deshalb gaben sie ganz viele Adressen an viele Leute. Aber jetzt, viele Jahre später, merken wir, dass nicht so viele Adressen gebraucht werden wie gedacht. Das ist so, als ob man viel zu viel Essen für eine kleine Party kauft.
+
+Jetzt haben wir ein Problem: Es gibt nicht mehr genug IP-Adressen für alle Geräte und Leute, die welche brauchen. 
+
+Um dieses Problem zu lösen, können wir „Subnetze“ erstellen. Das ist wie das Teilen des Essens in kleinere Portionen, damit mehr Leute etwas bekommen. Mit Subnetzen können wir die vorhandenen IP-Adressen besser organisieren und effizienter nutzen. So können mehr Geräte miteinander verbunden werden, ohne dass wir gleich neue Adressen kaufen müssen. 
+
+Die Idee ist also: Teile die Adressen in kleinere Gruppen (Subnetze), damit wir sie besser nutzen können und das Problem mit den zu wenigen IP-Adressen verringern.

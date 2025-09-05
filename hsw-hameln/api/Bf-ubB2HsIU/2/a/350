@@ -1,1 +1,9 @@
-Das bedeutet, dass der Computer und eine bestimmte Anwendung immer gemeinsam betrachtet werden, sodass Daten richtig zugeordnet werden können. Ein Computer kann verschiedene Arten von Daten erhalten und diese müssen richtig zugeordnet werden. Deshalb gibt es Portnummern, die helfen, die Daten der richtigen Anwendung zuzuordnen. So wie eine Adresse auf einem Brief hilft, den Brief dem richtigen Empfänger zuzuordnen. Es gibt auch Standard-Portnummern für bestimmte Anwendungen wie FTP, Telnet, SMTP und HTTP.
+In der Aussage geht es um spezielle "Ports", die in der Computer-Welt verwendet werden. Ein "Port" ist wie eine Tür, die verschiedene Arten von Informationen auf einem Computer ankommen lässt. Es gibt viele Ports, aber einige sind besonders bekannt und werden oft genutzt.
+
+Zum Beispiel:
+- **FTP** für den Dateitransfer,
+- **Telnet** für den Zugriff auf entfernte Computer,
+- **SMTP** für den E-Mail-Versand,
+- **HTTP** für die Webseiten.
+
+Diese Ports haben bestimmte Nummern, und alle diese bekannten Ports gehören zu einer Gruppe, die man "Well-Known-Ports" nennt. Man kann sich das wie eine Liste von wichtigen Türen in einem großen Gebäude vorstellen, die alle unterschiedliche Aufgaben haben, aber alle zum gleichen Platz gehören.

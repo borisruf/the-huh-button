@@ -1,0 +1,5 @@
+Früher gab es ein Computer-Netzwerk namens Ethernet, das ein bestimmtes System hatte, um Daten zu senden. Bei diesem alten System war es so, dass in den Informationen, die mit den Daten geschickt wurden, auch stand, wie lang diese Daten waren. Das nennt man einen "Header".
+
+Das Problem dabei war, dass, wenn diese Länge verloren ging oder kaputt ging, die Computer nicht mehr wussten, wo die Daten endeten. Das führte zu Verwirrung und Problemen.
+
+Heute benutzen die meisten Netzwerke eine andere Methode. Sie geben die Länge der Daten nicht mehr im Header an, weil das zu Problemen führen kann. Stattdessen haben sie bessere Lösungen gefunden, um sicherzustellen, dass die Daten korrekt und ohne Verwirrung übertragen werden.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass in einem Netzwerk Informationen in kleinen Teilen, die "Pakete" genannt werden, verschickt werden. Diese Pakete reisen von einem Ort zum anderen. Wenn sie an einem Knotenpunkt, wie einem Router oder Switch, ankommen, werden sie nicht sofort weitergeschickt, sondern zuerst gespeichert. Das nennt man "Store-and-Forward". 
+
+Die Pakete können dann auf verschiedene Weisen und über verschiedene Wege an ihr Ziel geschickt werden, selbst wenn sie zu einer großen Nachricht gehören. Das heißt, die kleinen Pakete einer Nachricht kommen vielleicht nicht gleichzeitig an, sondern können verschiedene Routen wählen, um zum Empfänger zu gelangen. 
+
+Insgesamt geht es darum, wie Informationen in einem Netzwerk geschickt werden, und das wird in diesem Video weiter erklärt.

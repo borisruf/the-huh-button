@@ -1,0 +1,5 @@
+Im Internet gibt es Adressen, damit Computer sich finden können. Diese Adressen heißen IP-Adressen. Früher gab es viele von diesen Adressen, aber jetzt sind sie fast alle vergeben, das nennt man „IP-Adressknappheit“. 
+
+Um das Problem zu lösen, hat man verschiedene Wege ausprobiert. Zum Beispiel hat man bestimmte Adressen für private Benutzung erstellt und kleinere Netzwerke gebildet, die nennt man Subnetze. 
+
+Aber trotz dieser Lösungen sind die Adressen immer noch zu wenig. Deshalb hat man entschieden, etwas Neues zu machen: eine neue Version von den Internet-Adressen, die nennt man IP Version 6. Diese neue Version hat viel mehr Adressen, sodass wieder genügend Platz für neue Geräte im Internet ist.

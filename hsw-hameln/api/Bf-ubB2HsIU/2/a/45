@@ -1,1 +1,3 @@
-In diesem Teil der Veranstaltung werden wir uns vor allem mit zwei wichtigen Teilen von Netzwerken beschäftigen, nämlich TCP und IP. Wir haben schon einen ersten Eindruck davon bekommen. Bei IP haben wir zum Beispiel schon über IP-Adressen gesprochen. Jetzt wollen wir mehr darüber lernen, was TCP genau tut.
+In dieser Aussage geht es um Netzwerke und Internet. Es wird erklärt, dass es viele wichtige Begriffe gibt, die wir vielleicht schon kennen, wie die IP-Adresse. Jetzt wollen wir mehr über zwei wichtige Teile des Internets lernen: TCP und IP. Wir haben schon ein wenig darüber gehört, aber jetzt werden wir genauer darauf eingehen. 
+
+Alles, was wir bis jetzt gelernt haben, basiert auf einem speziellen Plan oder Modell. Das ist nicht das OSI-Modell, sondern das TCP-IP-Modell, das auch DoD-Modell genannt wird. Dieses Modell hilft uns zu verstehen, wie das Internet funktioniert.

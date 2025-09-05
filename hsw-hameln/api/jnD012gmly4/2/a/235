@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes in einfacher Sprache:
+
+Wenn wir Daten verschicken, kann es sein, dass in diesen Daten viele Einsen hintereinander vorkommen. Wenn der Sender fünf Einsen nacheinander sieht, muss er automatisch ein zusätzliches Zeichen, das "Stopfbit" genannt wird, hinzufügen. 
+
+Das Stopfbit ist eine Art Hinweis, damit der Empfänger weiß, dass die fünf Einsen nicht das Ende der Nachricht sind. Es hilft zu verhindern, dass der Empfänger denkt, die Nachricht wäre zu Ende, nur weil da viele Einsen sind. 
+
+So sorgt das Stopfbit dafür, dass die Daten richtig gelesen werden und Missverständnisse vermieden werden.

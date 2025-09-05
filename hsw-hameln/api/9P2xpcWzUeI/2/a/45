@@ -1,0 +1,3 @@
+Wir sprechen darüber, wie man verschiedene Netzwerke miteinander verbindet. Es gibt echte Netzwerke, aber auch virtuelle Netzwerke, die wir "VLANs" nennen. 
+
+Stell dir ein Gebäude mit drei Stockwerken vor: Erdgeschoss, erster Stock und zweiter Stock. In unserem Beispiel wird in jedem Stockwerk ein eigenes kleines Netzwerk gemacht. Diese Netzwerke können miteinander verbunden werden, zum Beispiel durch einen speziellen Kasten, der "Switch" heißt, und einen weiteren Kasten, der "Router" heißt. So können die verschiedenen Stockwerke miteinander kommunizieren und auch mit anderen Netzwerken verbinden.

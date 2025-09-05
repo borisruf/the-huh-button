@@ -1,0 +1,10 @@
+Okay, lass uns die Aussage ganz einfach erklären.
+
+Stell dir vor, in einem großen Gebäude gibt es zwei verschiedene Gruppen von Menschen, die jeweils in ihrem eigenen Raum sitzen. Das sind die VLANs. Um mit den anderen sprechen zu können, müssen sie durch einen Flur (das Transfersegment) gehen. Damit das funktioniert, braucht jeder Raum einen Türsteher (Router). Diese Türsteher helfen, die Nachrichten von einem Raum zum anderen zu bringen. 
+
+Zusammengefasst:
+- Zwei Gruppen in eigenen Räumen = zwei VLANs.
+- Ein Flur, durch den sie gehen = Transfersegment.
+- Ein Türsteher für jede Gruppe = zwei Router, die die Nachrichten senden und empfangen.
+
+So können die Gruppen miteinander kommunizieren!

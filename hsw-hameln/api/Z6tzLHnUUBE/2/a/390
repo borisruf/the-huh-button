@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass eine IP-Adresse allein in einem eigenen Netzwerk normalerweise ausreicht, um Geräte klar zu identifizieren. Wenn du zum Beispiel in deinem Zuhause mehrere Geräte wie Computer, Smartphones und Drucker hast, weiß jedes Gerät, welches es ist, wenn du nur die IP-Adresse verwendest. 
+
+Aber, wenn man mit anderen Netzwerken verbunden ist, wie zum Beispiel dem Internet, wird es komplizierter. Dort gibt es viele Geräte, und sie könnten alle die gleiche IP-Adresse haben, weil diese Adressen nicht eindeutig sind, wenn man über sein eigenes Netzwerk hinaus schaut. Da kommt die MAC-Adresse ins Spiel. Sie ist einzigartig und hilft dabei, Geräte sicher zu unterscheiden, selbst wenn die IP-Adresse gleich sein könnte.
+
+In einfachen Worten: Innerhalb deines kleinen Netzwerks reicht eine IP-Adresse, um alles zu erkennen. Aber wenn du mit vielen anderen Netzwerken sprichst, brauchst du noch mehr Informationen (wie die MAC-Adresse), um sicherzustellen, dass du das richtige Gerät anvisierst.

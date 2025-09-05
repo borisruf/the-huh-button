@@ -1,0 +1,7 @@
+Okay, lass uns das einfach erklären!
+
+Wenn wir über ein Netzwerk sprechen, wollen wir sicherstellen, dass es gut funktioniert und immer verfügbar ist. Das bedeutet, dass wir manchmal mehrere Teile oder Geräte haben, die die gleiche Aufgabe machen, falls eines kaputtgeht. Diese zusätzlichen Teile nennt man „Redundanz“.
+
+Jetzt können wir die Wahrscheinlichkeit berechnen, dass eines dieser Teile ausfällt oder kaputtgeht. Das heißt, wir können auch herausfinden, wie zuverlässig das Netzwerk ist. Wenn wir wissen, wie oft jedes Teil kaputtgehen kann, können wir auch ausrechnen, wie hoch die Wahrscheinlichkeit ist, dass das gesamte Netzwerk ausfällt oder nicht funktioniert.
+
+Also, wenn wir viele Geräte haben, die sich gegenseitig ersetzen können, dann wird die Wahrscheinlichkeit, dass das Netzwerk ausfällt, kleiner. Das hilft uns, ein stabiles Netzwerk zu haben, das immer funktioniert.

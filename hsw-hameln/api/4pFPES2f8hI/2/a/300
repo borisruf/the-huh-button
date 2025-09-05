@@ -1,0 +1,7 @@
+Die Aussage erklärt, dass in einer speziellen Art von Internet-Adresse, der Subnetzmaske, wir einen Teil, der normalerweise für die Anzahl der Computer (oder Hosts) genutzt wird, ändern. 
+
+Normalerweise haben wir eine Subnetzmaske mit vielen „0“ am Ende, was bedeutet, dass wir viele Computer in einem Netzwerk haben könnten. Wenn wir mehr Netzwerke (Subnetze) schaffen wollen, nehmen wir einige dieser „0“ und machen sie zu „1“. 
+
+In diesem speziellen Fall haben wir 27 Bits (das sind die „1“), und der Rest ist immer noch „0“. Dies bedeutet, dass wir jetzt mehr Netzwerke, aber weniger Computer in jedem Netzwerk haben. 
+
+Das hilft uns, die Anzahl der verfügbare Internet-Adressen besser zu nutzen und sicherer zu sein, weil jedes kleinere Netzwerk besser kontrolliert werden kann.

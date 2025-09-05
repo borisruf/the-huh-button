@@ -1,0 +1,7 @@
+Die Aussage bezieht sich auf die Verwaltung von Netzwerkanschlüssen in einem Computer-Netzwerk. Hier ist eine einfache Erklärung:
+
+Ein Switch ist wie ein großer Verteiler für die Internetverbindungen in einem Gebäude. Wenn wir verschiedene Gruppen oder Abteilungen im Gebäude haben (wie verschiedene Stockwerke), wollen wir sicherstellen, dass nur die richtigen Leute auf bestimmte Informationen zugreifen können.
+
+VLANs (Virtuelle LANs) helfen uns dabei. Sie erlauben uns, Gruppen zu bilden, die nicht unbedingt im gleichen Stockwerk sind. Es ist so, als ob wir bestimmte Räume im Gebäude haben, die für verschiedene Gruppen reserviert sind, egal in welchen Stockwerken sie sich befinden.
+
+Wenn der Administrator (die Person, die das Netzwerk verwaltet) einen Port an einem Switch einstellt, sagt er dem Switch, zu welcher Gruppe dieser Port gehört. Zum Beispiel kann ein Port dem ersten Stock zugeordnet werden, während ein anderer Port zu einer anderen Gruppe gehört. So kann der Administrator kontrollieren, wer mit wem kommunizieren kann und welche Geräte in welche Gruppen gehören.

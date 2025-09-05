@@ -1,0 +1,5 @@
+Die Aussage erklärt, wie man Netzwerke in einem Gebäude aufteilt. Stell dir ein Haus mit drei Etagen vor: Erdgeschoss, erster Stock und zweiter Stock. Jede Etage hat ihr eigenes Netzwerk, das durch spezielle Geräte, wie einen Switch und einen Router, miteinander verbunden ist.
+
+Diese Art der Aufteilung ist aber ziemlich fest und starr. Das bedeutet, dass man nicht immer die besten Verbindungen oder Möglichkeiten hat, so wie man es in der Realität vielleicht möchte. 
+
+Hier kommen die "VLANs" ins Spiel. Das sind virtuelle Netzwerke, die man nutzen kann, um Netzwerke flexibler zu gestalten. Mit VLANs kann man also verschiedene Teile eines Netzwerks vom physischen Standort unabhängig gestalten. So kann man z. B. Geräte, die im Erdgeschoss stehen, aber richtig zusammenarbeiten müssen, virtuell in dasselbe Netzwerk bringen, auch wenn sie sich in verschiedenen Etagen oder Bereichen befinden.

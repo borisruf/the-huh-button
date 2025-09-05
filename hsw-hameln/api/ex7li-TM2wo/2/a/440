@@ -1,0 +1,5 @@
+Die Aussage beschreibt einen wichtigen Punkt in der Datenübertragung. Wenn jemand Daten von einem Sender an einen Empfänger schickt, gibt es manchmal Probleme, wie dass die Daten verloren gehen. Das passiert, wenn das Paket mit den Daten unterwegs verloren geht und der Empfänger bekommt nichts.
+
+Wenn der Empfänger merkt, dass er nichts bekommen hat, kann er dem Sender Bescheid geben. Er sendet ein "Negativ-Acknowledgement". Das bedeutet: "Ich habe das Paket nicht bekommen." Der Sender weiß dann, dass er die Daten erneut schicken muss.
+
+In einfachen Worten: Wenn du mir etwas schickst und ich es nicht bekomme, sage ich dir das, damit du es mir nochmal senden kannst.

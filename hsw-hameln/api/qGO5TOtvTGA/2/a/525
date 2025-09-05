@@ -1,0 +1,3 @@
+Um zwei Netzwerke miteinander zu verbinden, brauchen wir zwei Router. Zwischen ihnen gibt es eine spezielle Verbindung, das nennen wir das Transfersegment. Um diese Verbindung zu nutzen, braucht jeder Router eine eigene IP-Adresse. Der erste Router hat eine IP-Adresse für seine Verbindung in das Transfersegment, und der zweite Router hat eine eigene IP-Adresse für die gleiche Verbindung. 
+
+Zusammenfassend: Wenn zwei Netzwerke sprechen wollen, brauchen wir zwei Router und mindestens zwei IP-Adressen – eine für jeden Router.

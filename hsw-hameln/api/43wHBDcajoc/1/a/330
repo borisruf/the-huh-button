@@ -1,0 +1,13 @@
+Die Herausforderungen beim Aufbau und Betrieb von Funknetzen, insbesondere WLANs, sind vielfältig. Dazu gehören:
+
+1. **Interferenz und Störanfälligkeit**: Funknetze sind anfällig für Störungen durch andere elektronische Geräte, Wände und Hindernisse, die die Signalqualität beeinträchtigen können.
+
+2. **Maximale Reichweite und Bandbreite**: Die theoretischen Übertragungsraten sind oft nicht realistisch, da die tatsächliche Leistung durch physikalische Gegebenheiten und Netzwerküberlastung erheblich reduziert werden kann.
+
+3. **Zugriffsmanagement**: In Shared-Media-Netzwerken wie WLANs müssen effiziente Protokolle implementiert werden, um den gleichzeitigen Zugriff mehrerer Benutzer oder Geräte zu regeln, was zu Verzögerungen oder Bandbreitenengpässen führen kann.
+
+4. **Sicherheitsrisiken**: WLAN-Netzwerke sind anfällig für unbefugten Zugriff, wobei die Sicherheit durch Verschlüsselungstechniken und Zugriffsrichtlinien gewährleistet werden muss.
+
+5. **Skalierbarkeit**: Die Integration zusätzlicher Access Points und die Verwaltung von Netzwerkressourcen kann komplex werden, insbesondere in großen oder dynamischen Umgebungen.
+
+Die Herausforderung besteht also darin, eine zuverlässige, sichere und leistungsfähige Verbindung über Funknetze zu gewährleisten, während gleichzeitig die oben genannten Probleme berücksichtigt werden.

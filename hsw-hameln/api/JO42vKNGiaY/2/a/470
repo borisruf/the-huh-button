@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass man in der neuen Version von IP-Adressen (IP Version 6) Abkürzungen nur einmal nutzen soll, damit es keine Verwirrung gibt. Wenn man die Adresse verkürzt, sollte man darauf achten, dass es klar ist, was gemeint ist. Wenn man also die Abkürzung einmal gemacht hat, soll man sie nicht nochmal an einer anderen Stelle in der gleichen Adresse machen. Wenn man die Adresse umgekehrt liest, also von hinten nach vorne, gelten die gleichen Regeln für die Abkürzungen. 
+
+Zusammengefasst: Abkürzungen in IP Version 6-Adressen sollten immer nur einmal gemacht werden, um Missverständnisse zu vermeiden.

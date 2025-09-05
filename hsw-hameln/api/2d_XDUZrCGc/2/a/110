@@ -1,0 +1,11 @@
+Es gibt verschiedene Klassen von IP-Adressen, die wichtig für das Internet sind. Jede Klasse hat einen bestimmten Bereich, in dem die Adressen liegen, und jede Klasse kann eine unterschiedliche Anzahl von Netzwerken unterstützen. 
+
+Um zu bestimmen, zu welcher Klasse eine IP-Adresse gehört, schauen wir uns die erste Zahl (Oktett) an. Wenn die erste Zahl zwischen 0 und 127 liegt, gehört sie zu Klasse A. Das bedeutet, dass viele Netzwerke damit verbunden werden können. 
+
+Liegt die Zahl zwischen 128 und 191, gehört sie zu Klasse B. Diese Klasse hat weniger Netzwerke als Klasse A, aber immer noch viele. 
+
+Wenn die Zahl zwischen 192 und 223 liegt, gehört sie zu Klasse C. Diese Klasse kann noch weniger Netzwerke unterstützen als die anderen beiden. 
+
+Es gibt auch weitere Klassen (D und E), aber diese sind für spezielle Zwecke und weniger wichtig für die meisten Anwendungen. 
+
+In einer Tabelle werden wir sehen, wie viele Netzwerke jede dieser Klassen unterstützen kann.

@@ -1,0 +1,3 @@
+Okay, hier ist eine einfache Erklärung der Aussage:
+
+Es gibt einige Probleme, wenn wir Funknetzwerke einrichten. Zum Beispiel haben wir im ISM-Bereich normalerweise 14 Kanäle, die wir nutzen können. Jeder Kanal benötigt Platz von 22 MHz. Wenn wir Kanäle nebeneinander verwenden, dürfen sie sich nicht überlappen, weil sie sonst Störungen verursachen. Das heißt, wenn wir zum Beispiel drei Kanäle verwenden, müssen diese so gewählt werden, dass sie sich nicht in den Frequenzen schneiden. Ansonsten gibt es Interferenzen, also Störungen, die die Verbindung schwächen oder kaputt machen können. Das ist ein großes Thema, mit dem wir immer wieder zu tun haben, wenn es um Funknetze geht.

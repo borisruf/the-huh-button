@@ -1,0 +1,3 @@
+In der IP-Version 6 Adresse gibt es Blöcke, die aus vier Zahlen bestehen. Manchmal sind in diesen Blöcken nicht alle Zahlen da, weil manche Nullen weggelassen werden. Wenn zum Beispiel nur zwei Zahlen in einem Block stehen, bedeutet das, dass da eigentlich noch zwei Nullen fehlen, die man einfach vorne hinzufügen kann. 
+
+Das ist wichtig, um die Adresse leichter zu lesen und zu schreiben. Wenn man die lange Version der Adresse nehmen würde, würde man sehen, dass die Nullen einfach nicht aufgeschrieben wurden. So hilft es, die Adresse kürzer und einfacher zu machen.

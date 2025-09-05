@@ -1,0 +1,5 @@
+Eine IP-Adresse ist wie eine Telefonnummer für Geräte, die mit dem Internet verbunden sind. Bei einer klassischen IP-Adresse, die wir IP-Version 4 nennen, besteht sie aus vier Teilen. Diese Teile nennt man "Oktette". 
+
+Stell dir vor, die IP-Adresse ist wie eine Adresse für dein Zuhause, die aus vier Zahlen besteht. Jede dieser Zahlen kann zwischen 0 und 255 liegen. 
+
+Wenn du also eine IP-Adresse wie "172.16.14.193" siehst, bedeutet das, dass du vier Zahlen in einer bestimmten Reihenfolge hast, die zusammengenommen die Adresse des Geräts im Internet bilden. Diese Einteilung hilft, Geräte einfach zu finden und miteinander zu kommunizieren.

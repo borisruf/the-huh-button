@@ -1,11 +1,13 @@
-Das Internet und Computer-Netzwerke funktionieren, weil sie verschiedene Regeln und Systeme nutzen. Diese Systeme helfen dabei, zu verstehen, wie Daten von einem Ort zum anderen gesendet werden.
+Das OSI-Modell und das TCP-IP-Modell helfen uns zu verstehen, wie Daten über das Internet übertragen werden. In diesen Modellen gibt es verschiedene Schichten, die unterschiedliche Aufgaben haben.
 
-Ein wichtiger Teil dieser Systeme sind die sogenannten "Protokolle". Zwei dieser Protokolle sind TCP und IP. Sie helfen, zu verstehen, wie Daten auf Computern aussehen und was passiert, wenn sie gesendet werden.
+In der vierten Schicht, der **Transportschicht**, arbeiten die Protokolle TCP und UDP. Wir schauen uns hier vor allem TCP an. 
 
-"TCP" ist ein Protokoll, das hilft sicherzustellen, dass Daten richtig und sicher von einem Punkt zum anderen gelangen. Stell dir vor, du sendest eine Postkarte an jemanden. TCP hilft sicherzustellen, dass die Postkarte richtig zugestellt wird, genau wie es der Postbote tut.
+**TCP (Transmission Control Protocol)** hat das Ziel, dass die Daten sicher und richtig ankommen. Das bedeutet:
 
-IP nennen wir das "verbindungslose" Protokoll, denn es hilft nur, die Information zu versenden, aber es macht sich keine Gedanken darüber, ob die Information richtig oder überhaupt angekommen ist - genau wie wenn du einen Stein ins Wasser wirfst und dich nicht darum kümmerst, ob der Stein überhaupt den Grund des Wassers erreicht.
+1. **Sicherheit:** Wir möchten sicherstellen, dass die Daten, die wir senden, auch wirklich beim Empfänger ankommen.
+   
+2. **Fehlerfreiheit:** Darüber hinaus ist es wichtig, dass die Daten keine Fehler haben, wenn sie ankommen. 
 
-TCP ist dann wie unser Postbote, der dafür sorgt, dass die Postkarte (unsere Information) sicher und korrekt beim Empfänger ankommt.
+TCP sorgt dafür, dass, wenn eine Nachricht gesendet wird, der Absender eine Bestätigung erhält, sobald die Nachricht beim Empfänger angekommen ist. Wenn etwas schiefgeht oder ein Teil der Nachricht fehlt, kann der Absender die Daten erneut schicken. So wird sichergestellt, dass alles korrekt und vollständig ist.
 
-Es ist ein bisschen kompliziert, aber das Wichtigste ist: Diese Protokolle helfen uns dabei, Daten sicher und korrekt von einem Ort zum anderen zu senden.
+Zusammengefasst: TCP hilft, dass die Daten sicher und ohne Fehler von einem Computer zum anderen gelangen.

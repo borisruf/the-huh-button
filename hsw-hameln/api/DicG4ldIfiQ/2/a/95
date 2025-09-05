@@ -1,0 +1,9 @@
+Die Aussage spricht darüber, was passiert, wenn Signale in Kabeln oder Leitungen aneinander stören. Das nennt man „Übersprechen“. 
+
+In einfachen Worten: 
+
+Wenn wir Informationen durch ein Kabel schicken, kann es Störungen geben. Diese Störungen können passieren, weil die Kabel sich gegenseitig beeinflussen. Das liegt an verschiedenen physikalischen Effekten, wie der Induktion. 
+
+Um eine klare Übertragung zu haben, müssen wir wissen, welche Störungen auftreten können und wie wir sie vermeiden. Dazu müssen wir auch verstehen, wie die Kabel funktionieren und welche Grenzen sie haben. Zum Beispiel: Kupferkabel sind gut für kurze Strecken, aber mit Lichtwellenleitern (d.h. Glasfaserkabeln) können wir viel längere Strecken überbrücken. Außerdem können nicht alle Kabel gleich viel Informationen gleichzeitig (Bandbreite) übertragen. 
+
+Die Physik sorgt dafür, dass Dinge in den Kabeln schwingen oder rauschen können, was ebenfalls zu Störungen führen kann. Ein Grund, warum bestimmte Kabeldrehungen haben, ist, um diese Störungen zu minimieren.

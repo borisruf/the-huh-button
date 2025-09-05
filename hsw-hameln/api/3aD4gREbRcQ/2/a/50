@@ -1,0 +1,3 @@
+Die Aussage sagt, dass im TCP-IP-Modell, welches weniger Schichten hat als das OSI-Modell, die Schichten 5, 6 und 7 des OSI-Modells (Sitzungsschicht, Darstellungsschicht und Anwendungsschicht) zusammen betrachtet werden. Das bedeutet, dass man diese drei Schichten nicht einzeln sieht, sondern als eine Gruppe. So wird es einfacher, den Zusammenhang zu verstehen. 
+
+Im einfachsten Sinne: Im TCP-IP-Modell schaut man sich diese drei Schichten als eine Einheit an, anstatt sie getrennt zu betrachten.

@@ -1,3 +1,5 @@
-Auf dem Bild sehen wir das Modell von TCP-IP in unserem Netzwerk. Das sind nur vier Schichten. Diese vier Schichten zeigen uns genau, wie unser Netzwerk funktioniert. Dieses Modell funktioniert unabhängig von der Art des Netzwerks oder wie die Computer in diesem Netzwerk aufgebaut sind.  Es hilft uns, unser Netzwerk besser zu verstehen und zu steuern. 
+Die Aussage bedeutet, dass wir ein System entwickeln wollen, das unabhängig von der Technik ist, die in einem Netzwerk verwendet wird, und auch unabhängig von den Geräten, die in diesem Netzwerk verbunden sind. 
 
-Einfach gesagt: Wir haben ein Bild von unserem Netzwerk. Das Modell hat vier Teile. Diese vier Teile erklären, wie unser Netzwerk funktioniert. Es ist egal, wie unser Netzwerk oder unsere Computer gebaut sind. Das Modell hilft uns trotzdem, alles zu verstehen.
+Das Ziel ist, dass alle Geräte und Technologien miteinander kommunizieren können, egal wie sie aufgebaut sind oder wie sie funktionieren. Um dies zu erreichen, brauchen wir gemeinsame Regeln oder Standards, die allen helfen, sich zu verbinden und zu verstehen. 
+
+Im weiteren Verlauf wird erklärt, wie bestimmte Protokolle, wie TCP und IP, dabei helfen, diese Verbindung möglich zu machen und wie ein wichtiges Modell (das TCP-IP-Modell) als Grundlage für viele Netzwerke dient.

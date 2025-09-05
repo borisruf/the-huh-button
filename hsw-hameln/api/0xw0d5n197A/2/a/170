@@ -1,0 +1,11 @@
+In einem Netzwerk ist es wichtig, dass die Sicherheit gut ist, damit keine unerwünschten Personen oder Programme Zugang bekommen. Es gibt verschiedene Wege, um das zu erreichen. Zum Beispiel gibt es Paketfilter, die entscheiden, ob bestimmte Daten erlaubt sind oder nicht. 
+
+### Was sind die wichtigsten Punkte der Aussage?
+
+1. **Einbrüche erkennen:** Man kann spezielle Systeme verwenden, die automatisch versuchen, Einbrüche in das Netzwerk zu erkennen und zu verhindern. Das nennt man Intrusion Detection oder Intrusion Protection Systeme.
+
+2. **Schwierigkeiten:** Es ist nicht ganz einfach, diese Systeme richtig einzustellen, damit sie gut funktionieren.
+
+3. **Paketfilter:** Paketfilter sind ein genauerer Blick auf die Daten, die ins Netzwerk kommen. Sie schauen sich die Adresse (IP-Adresse) und den Port an, um herauszufinden, ob die Daten erlaubt sind oder nicht.
+
+Die Hauptidee ist, dass es wichtig ist, die Sicherheit eines Netzwerks zu schützen, und dazu gibt es verschiedene hilfsreiche Systeme und Methoden.

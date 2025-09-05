@@ -1,0 +1,7 @@
+In einfachen Worten bedeutet die Aussage Folgendes:
+
+Früher hatten wir feste Arten von Netzwerken, zu denen unsere IP-Adressen gehörten. Jetzt benutzen wir etwas Neues, das heißt "Präfix". Das Präfix hilft uns zu verstehen, zu welchem Netzwerk eine IP-Adresse gehört. 
+
+Bei der neuen IP-Version 6 gibt es eine spezielle Art, das zu zeigen: Am Ende der Adresse steht etwas wie "/64". Das zeigt an, dass 64 Bits der IP-Adresse für das Netzwerk verwendet werden. Man kann sich das wie eine Art Adresse fürs Internet vorstellen, die sagt, wo genau ein Computer oder Gerät zu finden ist. 
+
+Zusammengefasst: Anstelle von festen Netzwerken haben wir jetzt dieses neue System mit dem Präfix, um zu zeigen, wo eine IP-Adresse im Netzwerk gehört.

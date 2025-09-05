@@ -1,0 +1,1 @@
+ Die ersten drei Byte, die werden typischerweise für die Herstellerkennung genommen und die letzten drei Byte, die ergeben dann in diesem Fall eben 2 hoch 24 Adressierungsmöglichkeiten.  Also wir haben pro Herstellerkennung, die Hersteller haben natürlich mehrere Kennungen, haben wir etwa 16, 17 Millionen Adressen zur Verfügung.

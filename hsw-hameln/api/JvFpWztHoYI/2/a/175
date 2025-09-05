@@ -1,0 +1,13 @@
+Die Aussage beschreibt, wie man digitale Daten über Kabel übertragen kann, und erklärt zwei Methoden zur Kodierung dieser Daten. Lassen Sie uns das in einfacher Sprache darstellen:
+
+1. **Datenübertragung**: Wir haben Daten, die in Einsen (1) und Nullen (0) bestehen. Um diese Daten über ein Kabel zu senden, müssen wir sie in ein Signal umwandeln.
+
+2. **Return-to-Zero (RZ)**: Bei der ersten Methode, dem Return-to-Zero-Verfahren, bedeutet eine Eins, dass das Signal hoch ist (wie ein Pfeil nach oben), und eine Null bedeutet, dass das Signal wieder auf null zurückgeht (der Pfeil ist wieder neutral). Die Herausforderung hierbei ist, dass ein langes Stück Einsen oder Nullen dazu führt, dass das Signal ständig hoch oder niedrig ist, wodurch es schwierig wird, den richtigen Takt (Timing) zu behalten.
+
+3. **Non-Return-to-Zero (NRZ)**: Die zweite Methode heißt Non-Return-to-Zero. Hier bleibt das Signal bei Einsen auch weiterhin hoch, und eine Null wird durch ein niedrigeres Signal dargestellt. Diese Methode ist einfach, hat aber ebenfalls Probleme mit langen Folgen von Einsen oder Nullen, da das Timing auch hier verloren gehen kann.
+
+4. **Kombination mit Taktsignal**: Um die Probleme zu lösen, kann man die Non-Return-to-Zero-Methode mit einem Taktsignal kombinieren. Das bedeutet, dass bei jeder Übertragung das Signal wechselt – selbst wenn es eine Null gibt. So können wir immer wieder erkennen, wann wir uns im richtigen Takt befinden, weil es häufige Signalwechsel gibt.
+
+5. **Wichtigkeit der Signalwechsel**: Am Ende geht es darum, dass wir uns nicht um die genauen Werte (ob 1 oder 0) kümmern müssen, sondern nur um die Wechsel im Signal. Selbst wenn das Signal durch Störungen verändert wird, können wir die Wechsel noch erkennen, und das macht die Verarbeitung einfacher.
+
+Zusammenfassend: Wir haben verschiedene Wege, um Daten als Signale zu senden. Einige Wege machen es schwerer, den richtigen Takt zu halten. Durch Klugheit bei der Kombination von Methoden können wir sicherstellen, dass wir unsere Daten auch dann richtig lesen können, wenn das Signal schwächer oder verzerrt ist.

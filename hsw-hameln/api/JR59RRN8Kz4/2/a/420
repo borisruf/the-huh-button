@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass das Netzwerk für Telefongespräche (Voice-VLAN) mehr Platz hat als das Netzwerk für Daten (Daten-VLAN). Das hilft, die Qualität der Telefonate zu verbessern. 
+
+Stell dir vor, wenn viele Leute in einer Schule gleichzeitig sprechen, kann es unruhig werden und man hört manche vielleicht nicht gut. Wenn wir jedoch einen ruhigen Raum nur für wichtige Gespräche haben, kann man sich besser verstehen. So ähnlich ist es mit den VLANs. 
+
+Außerdem können wir verschiedenen Gruppen unterschiedliche IP-Adressen geben. Es ist, als ob die Schüler in verschiedenen Klassenräumen jeweils ihre eigenen Namen haben, sodass wir sie einfach voneinander unterscheiden können. Das hilft auch, damit alles gut funktioniert!

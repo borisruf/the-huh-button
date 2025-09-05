@@ -1,0 +1,17 @@
+Die Aussage beschreibt, wie Daten in einem Netzwerk über verschiedene Geräte (Switches) gesendet werden und wie virtuelle Netzwerke (VLANs) eingerichtet sind, um eine bessere Kommunikation zu ermöglichen. 
+
+Hier ist eine einfache Erklärung:
+
+1. **Pakete senden:** Wenn ein Computer Daten sendet, werden diese Daten in kleine Pakete aufgeteilt. Diese Pakete reisen durch das Netzwerk zu ihrem Ziel.
+
+2. **Switches:** Die Pakete werden an verschiedene Schalter (Switches) gesendet. Jeder Switch weiß, wo die Pakete hin sollen und hilft, sie weiterzuleiten.
+
+3. **VLANs:** Manchmal müssen Computer in verschiedenen „virtuellen Netzwerken“ (VLANs) miteinander reden. Ein VLAN ist wie ein spezielles, geschütztes Netzwerk innerhalb eines großen Netzwerks.
+
+4. **Datenverarbeitung:** Wenn ein Paket von einem Computer kommt, schaut der Switch, zu welchem VLAN dieser Computer gehört. Der Switch fügt dem Paket bestimmte Informationen hinzu, damit alle anderen Switches im Weg wissen, zu welchem VLAN es gehört.
+
+5. **Zustellung:** Wenn das Paket das Ziel erreicht, muss der letzte Switch das VLAN-Zeichen wieder entfernen, sodass der Computer die Daten versteht.
+
+6. **Herausforderung:** Wenn Computer aus verschiedenen VLANs miteinander kommunizieren müssen, gibt es zusätzliche Herausforderungen, ähnlich wie bei der Verbindung von zwei getrennten Netzwerken.
+
+Zusammengefasst: Die Daten werden in Paketen gesendet, durch Switches geleitet, und wenn VLANs beteiligt sind, wird sichergestellt, dass die Pakete die richtigen Informationen enthalten, damit sie am Ziel richtig ankommen.

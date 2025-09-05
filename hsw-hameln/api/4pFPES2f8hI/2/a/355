@@ -1,0 +1,5 @@
+In der Aussage geht es um eine Tabelle, die 8 kleine Netzwerke zeigt. Diese Netzwerke werden Subnetze genannt. Wenn wir zählen, fangen wir immer bei 0 an. Das ist wichtig, weil die Tabelle so aufgebaut ist.
+
+In der Tabelle sind die obersten und untersten Netzwerke rot markiert. Das zeigt, dass es besondere Informationen zu diesen Netzwerken gibt. 
+
+Im großen Zusammenhang geht es darum, wie man viele IP-Adressen besser nutzen kann. Früher haben viele Leute viel zu viele IP-Adressen bekommen, und jetzt sind sie knapp. Um das Problem zu lösen, teilt man große Netzwerke in kleinere Subnetze auf. Dadurch hat man mehr Kontrolle und Sicherheit und kann die IP-Adressen besser verwalten. Die Tabelle hilft dabei zu zeigen, wie diese Subnetze angeordnet sind.

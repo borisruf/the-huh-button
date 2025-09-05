@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes: Wenn ein Computer (Rechner A) Informationen an einen anderen Computer (Rechner B) sendet, bleibt die IP-Adresse von Rechner A und die IP-Adresse von Rechner B immer gleich. Das ist wichtig, weil diese IP-Adressen zeigen, wo die Informationen herkommen und wo sie hin sollen.
+
+Aber bei der Übertragung der Daten durch verschiedene Router - das sind Geräte, die Daten im Netzwerk weiterleiten - wird immer die MAC-Adresse geändert. Eine MAC-Adresse ist eine spezielle Adresse für Geräte innerhalb eines Netzwerks, sozusagen die "Hausadresse" eines Computers oder Routers.
+
+Wenn die Daten von Rechner A zu Rechner B reisen, schaut der erste Router, was er mit den Informationen machen soll. Er sieht die IP-Adressen und weiß, dass die Daten von A nach B gehen sollen. Dann nimmt der Router seine eigene MAC-Adresse für die Übertragung und sendet die Daten weiter. Der nächste Router macht das gleiche: Er schaut sich wieder die IP-Adressen an, ersetzt aber die MAC-Adresse durch seine eigene. So geht das weiter, bis die Daten endlich bei Rechner B ankommen. 
+
+Zusammengefasst bleibt die IP-Adresse für die gesamte Reise gleich, aber die MAC-Adressen ändern sich mit jedem Router, der die Daten weitergibt.

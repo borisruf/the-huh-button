@@ -1,0 +1,17 @@
+Die Aussage sagt, dass beim Telefonieren über das Internet wichtig ist, dass die Sprachdaten schnell und ohne Fehler übertragen werden. Wenn wir miteinander sprechen, wollen wir, dass das, was wir sagen, klar und ohne Unterbrechungen ankommt. 
+
+Hier sind die wichtigen Punkte:
+
+1. **Schnelligkeit**: Die Daten sollen schnell ankommen, damit es nicht lange dauert, bis der andere uns hört.
+  
+2. **Fehlerfreiheit**: Es sollten möglichst keine Daten verloren gehen. Wenn Teile der Sprache fehlen, ist das Gespräch schwer zu verstehen.
+
+3. **Störungsfreiheit**: Es dürfen keine Störungen wie Rauschen oder Verzögerungen auftreten.
+
+4. **Wenig Paketverluste**: Es ist wichtig, dass alle Teile der Sprachübertragung ankommen, sonst fehlt etwas im Gespräch.
+
+5. **Wenig Jitter**: Jitter bedeutet, dass die Daten manchmal schneller und manchmal langsamer ankommen. Das sollten wir minimieren, damit die Stimme gleichmäßig und klar ist.
+
+6. **Wenig Verzögerung**: Wenn einer spricht, sollte der andere schnell antworten können. Lange Pausen sind unnatürlich und stören das Gespräch.
+
+Zusammengefasst braucht man eine gute Verbindung, damit die Gespräche über das Internet so gut sind, wie wenn wir mit einem normalen Telefon reden.

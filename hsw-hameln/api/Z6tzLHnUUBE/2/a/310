@@ -1,0 +1,7 @@
+Okay, hier ist die Aussage in sehr einfacher Sprache erklärt:
+
+Bei IPv6 (der neuen Version von IP) müssen die Router nicht selbst die Daten so klein machen, wenn sie durch das Netzwerk geschickt werden. Stattdessen wird schon vorher geplant, wie die Daten aufgeteilt werden, bevor sie die Router erreichen. Das hilft, die Router weniger zu belasten.
+
+Wenn wir darüber sprechen, wie Daten in einem lokalen Netzwerk (LAN) weitergeleitet werden, müssen wir auch über die MAC-Adressen sprechen. MAC-Adressen sind spezielle Adressen, die Geräte im Netzwerk identifizieren. Um herauszufinden, welche MAC-Adresse zu welcher IP-Adresse gehört, benutzen wir ein weiteres Protokoll namens ARP (Address Resolution Protocol). 
+
+Zusammengefasst: Bei IPv6 wird das Aufteilen von Daten einfacher gemacht, und für die Identifizierung von Geräten im Netzwerk verwenden wir ARP.

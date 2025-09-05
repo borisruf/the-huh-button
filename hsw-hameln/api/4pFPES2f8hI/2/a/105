@@ -1,0 +1,7 @@
+Die Aussage fragt nach der Lösung für ein Problem, das mit Internet-Adressen zu tun hat. Wir haben schon über „Subnetzmasken“ gesprochen, aber jetzt wollen wir verstehen, was die genau sind und was wir damit machen können.
+
+Das Problem ist, dass wir nicht genug IP-Adressen haben. IP-Adressen sind wie Telefonnummern für Computer im Internet. Früher hat man viele Adressen verteilt, ohne richtig zu überlegen, wie viele man wirklich braucht. Jetzt sind viele dieser Adressen schon vergeben, und das macht es schwierig, neue Geräte zu verbinden.
+
+Die Lösung für dieses Problem ist, Subnetze zu bilden. Das bedeutet, wir teilen ein großes Netzwerk in kleinere Teile auf. So können wir die Adressen besser nutzen und organisieren. Mit Subnetzen können wir auch die Sicherheit erhöhen und die Verwaltung einfacher machen.
+
+Zusammengefasst: Wir hatten zu viele IP-Adressen verteilt, und um das Problem zu lösen, teilen wir die Netzwerke in kleinere Subnetze auf.

@@ -1,0 +1,9 @@
+Stell dir vor, du hast eine große Kiste mit vielen Plätzchen, die verschiedene Computer in einem Netzwerk repräsentieren. Manchmal ist es schwer, genug Platz für alle zu haben, weil die Kiste zu voll ist. Um das Problem zu lösen, teilen wir die große Kiste in kleinere Kisten auf.
+
+Jede kleine Kiste hat eine bestimmte Anzahl an Plätzchen, wo wir Computer unterbringen können. Wenn wir einige von diesen Plätzchen in der großen Kiste umbenennen, damit sie für die kleinen Kisten gezählt werden, verlieren wir ein paar Plätzchen für die Computer. 
+
+Zum Beispiel, wenn wir drei Plätzchen von der großen Kiste nehmen und sie in die kleine Kiste umwandeln, müssen wir wissen, wie viele Plätzchen wir jetzt noch haben. Wenn wir am Anfang 8 Plätzchen in der großen Kiste hatten und 3 davon umbenennen, bleiben uns 5 Plätzchen, die wir für Computer verwenden können.
+
+Die Regel besagt, dass wir das erste und das letzte Plätzchen in jeder Kiste nicht benutzen dürfen. Das erste Plätzchen ist für die Adresse der Kiste selbst und das letzte Plätzchen ist für spezielle Aufgaben.
+
+Das bedeutet, dass, wenn wir eine kleine Kiste mit 32 Plätzen haben, wir tatsächlich nur 30 davon für Computer nutzen können. So sorgen wir dafür, dass jeder Computer seinen Platz hat, ohne dass es zu eng wird!

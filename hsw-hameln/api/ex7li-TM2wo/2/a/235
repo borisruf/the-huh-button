@@ -1,0 +1,9 @@
+Stell dir vor, du möchtest jemandem einen wichtigen Brief schicken. Damit du sicher bist, dass der Brief keinen Schaden nimmt oder sich niemand etwas wegnimmt, machst du Folgendes:
+
+1. **Prüfsumme:** Bevor du den Brief abschickst, fügst du eine Art Zahl hinzu, die dir sagt, ob der Brief ganz und richtig angekommen ist. Diese Zahl nennt sich „Prüfsumme“. Man kann sie sich wie einen geheimen Code vorstellen, der aus dem Inhalt deines Briefes und einem speziellen Rezept (Generator-Polynom) berechnet wird.
+
+2. **Fehler erkennen:** Wenn der Brief ankommt, schaut der Empfänger zuerst auf die Prüfsumme. Wenn die Prüfsumme stimmt, weiß er, dass der Brief in Ordnung ist und keine Fehler aufgetreten sind. Wenn die Prüfsumme nicht stimmt, bedeutet das, dass etwas mit dem Brief nicht stimmt – vielleicht wurde etwas verändert oder ist verloren gegangen.
+
+3. **Warum das wichtig ist:** Bei wichtigen Dingen wie Geldüberweisungen ist es besonders wichtig, Fehler sofort zu erkennen, weil schon kleine Fehler große Probleme verursachen können. Also brauchst du die Prüfsumme, um sicherzugehen, dass alles korrekt ist.
+
+Zusammengefasst: Du hängst eine Zahl (Prüfsumme) an deinen wichtigen Brief an, die dir hilft zu überprüfen, ob der Brief beim Empfänger in der gleichen Form ankommt, wie du ihn abgeschickt hast.

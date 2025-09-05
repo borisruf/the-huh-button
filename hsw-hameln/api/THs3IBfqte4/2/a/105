@@ -1,0 +1,7 @@
+Die Aussage erklärt, wie man mehrere Signale gleichzeitig überträgt. Das nennt man "Frequenz-Multiplex". 
+
+Stell dir vor, du hast einen Kanal, wie ein Rohr, durch das Wasser fließt. Wenn du viele verschiedene Arten von Wasser (Signale) gleichzeitig durch das gleiche Rohr schicken möchtest, brauchst du eine Methode, um sie zu trennen. Das ist, was Frequenz-Multiplex macht: Es teilt das Rohr in mehrere kleine Rohre, die alle gleichzeitig Wasser transportieren können.
+
+Modulation ist eine Technik, um diese Signale zu übertragen. Man nimmt ein Hauptsignal, das wie ein Trägersignal ist, und legt andere Signale darauf. Das ist ein bisschen wie wenn du ein große Welle (das Trägersignal) machst und dann kleine Wellen (die Daten, die übertragen werden) darauf reiten. 
+
+Im Text wird auch erwähnt, dass das mit digitalen Signalen funktioniert, bei denen die Daten klar und einfach übertragen werden. Also zusammengefasst: Frequenz-Multiplex erlaubt es, mehrere Signale gleichzeitig zu senden, und Modulation hilft, diese Signale in einer Form zu bringen, die leicht übermittelt werden kann.

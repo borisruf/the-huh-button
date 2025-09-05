@@ -1,0 +1,7 @@
+Die Aussage besagt, dass wir die Dämpfung von Signalen auf eine bestimmte Art und Weise zeigen wollen, die einfacher zu verstehen ist. 
+
+Wenn ein Signal gesendet wird, wird es manchmal schwächer, wenn es ankommt. Das nennt man Dämpfung. Um das besser zu zeigen und zu vergleichen, benutzen wir eine spezielle Art von Darstellung, die „logarithmisch“ genannt wird. 
+
+Mit dieser Darstellung können wir sehr große und sehr kleine Werte auf eine einfacher zu lesende Skala bringen. So ist es leichter, zu sehen, wie stark das Signal geschwächt wurde. 
+
+Im Beispiel, das hier betrachtet wird, geht es speziell um die Dämpfung von Spannungen.

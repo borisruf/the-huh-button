@@ -1,0 +1,7 @@
+Okay, lass uns das einfach erklären:
+
+Stell dir vor, du hast eine Art Sicherheitsmann für deine Daten, die durch ein Netzwerk gehen. Normalerweise schaut dieser Sicherheitsmann sich jedes einzelne Päckchen an, das kommt und geht. Das nennt man "Stateful Inspection". Anstatt nur ein Päckchen für sich zu betrachten, schaut der Sicherheitsmann sich mehrere Päckchen zusammen an, die miteinander reden, also die zu einer Unterhaltung gehören. Wenn er sieht, dass diese Unterhaltung erlaubt ist, lässt er die Päckchen passieren.
+
+Außerdem gibt es einen speziellen Bereich in deinem Netzwerk, den wir “Demilitarisierte Zone” (DMZ) nennen. Das ist wie ein sicherer Raum, der mit besonderen Türen (Firewalls) geschützt ist. Diese Türen geben nur bestimmten Daten den Zugang hinein oder hinaus. So bleibt der Rest des Netzwerks besser geschützt.
+
+Insgesamt geht es also darum, die Sicherheit der Daten zu gewährleisten und zu verhindern, dass gefährliche oder unerwünschte Daten ins Netzwerk gelangen.

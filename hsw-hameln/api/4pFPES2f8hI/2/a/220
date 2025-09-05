@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass eine Subnetzmaske in einer speziellen Form geschrieben werden kann. In diesem Fall ist die Subnetzmaske 255.255.0.0. Diese Zahl kann durch eine einfachere Schreibweise ersetzt werden. Statt die Zahlen zu verwenden, kann man auch die Anzahl der Einsen aufschreiben, die in der Subnetzmaske enthalten sind. 
+
+Bei 255.255.0.0 gibt es 16 Einsen, wenn wir die 1en in der Maske zählen. Das zeigt, wie viele Teile eines Netzwerks wir haben. Die moderne Art, die Subnetzmaske zu schreiben, ist also, nur die IP-Adresse (wie 172.16.14.193) zu nehmen und dann einen Schrägstrich (/) und die Zahl der Einsen (in diesem Fall 16) dahinter zu setzen. So sieht man schnell, wie viele Netzteile es gibt, ohne die ganzen Zahlen schreiben zu müssen.

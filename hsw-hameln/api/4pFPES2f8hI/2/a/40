@@ -1,0 +1,5 @@
+IP Version 4 ist eine Art von Adresse, die Computer und Geräte im Internet nutzen. Diese Adressen werden langsam weniger, weil es immer mehr Geräte gibt. Das ist ein Problem, weil jedes Gerät eine Adresse braucht, um sich im Internet zu verbinden. 
+
+Um dieses Problem zu lösen, haben die Leute sich etwas Überlegt: Sie teilen große Gruppen von Adressen in kleinere Gruppen auf. Diese kleineren Gruppen heißen Subnetze. Mit Subnetzen können wir die Adressen besser nutzen und die knappen Adressen effizienter verteilen. 
+
+Die Subnetzmaske hilft dabei, diese kleinen Gruppen zu bilden und zu organisieren, damit wir die Internetadressen besser verwalten können.

@@ -1,0 +1,21 @@
+Die Aussage beschreibt, wie man Informationen (Bits) in Signale umwandelt, die über Kabel oder drahtlos übertragen werden können. 
+
+Hier ist eine einfache Erklärung der Kernpunkte:
+
+1. **Bits**: Das sind die kleinsten Informationseinheiten, die entweder eine Eins (1) oder eine Null (0) sein können.
+   
+2. **Signalübertragung**: Um eine Eins oder eine Null zu übertragen, benutzt man elektrische Signale. 
+
+3. **Flanken**: Damit sind die Veränderungen eines Signals gemeint:
+   - Eine **steigende Flanke** bedeutet, dass das Signal von niedrig auf hoch wechselt.
+   - Eine **fallende Flanke** bedeutet, dass das Signal von hoch auf niedrig wechselt.
+
+4. **Was wird dargestellt?**:
+   - Wenn das Signal von niedrig auf hoch wechselt, zeigt das eine **Null** an.
+   - Wenn das Signal von hoch auf niedrig wechselt, zeigt das eine **Eins** an.
+
+5. **Warum ist das wichtig?**: 
+   - Durch diese Art von Signalen kann man sicherstellen, dass die Daten synchron bleiben, also dass Sender und Empfänger immer wissen, wann ein neues Bit beginnt.
+   - Außerdem hilft es, Probleme mit dem Signal zu erkennen, auch wenn es durch Störungen verändert wird.
+
+Insgesamt geht es also darum, wie man Daten zuverlässig und genau überträgt, indem man das Verhalten des Signals (das kommt in Flanken vor) nutzt, um Einsen und Nullen darzustellen.

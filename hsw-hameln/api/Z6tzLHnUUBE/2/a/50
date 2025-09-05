@@ -1,0 +1,7 @@
+Die Aussage erklärt, dass das Internetprotokoll (IP) zwei wichtige Aufgaben hat. 
+
+Erstens hilft IP dabei, Computer im Internet zu finden. Jedes Gerät bekommt eine spezielle Nummer, damit andere Geräte wissen, wo sie es finden können. Diese Nummern nennt man IP-Adressen. 
+
+Zweitens kann IP große Datenpakete, die von anderen Protokollen (wie TCP oder UDP) kommen, in kleinere Teile zerlegen. Das hilft, die Daten sicher und richtig zu verschicken. Wenn die Teile ankommen, können sie wieder zusammengesetzt werden. 
+
+Zusammengefasst: IP hilft, Computer zu finden und große Daten in kleinere Stücke zu teilen.

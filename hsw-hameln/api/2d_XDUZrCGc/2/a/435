@@ -1,0 +1,9 @@
+In dieser Aussage geht es darum, wie wir mit dem Internet kommunizieren, besonders beim Besuch von Webseiten. 
+
+Wenn wir im Internet surfen und eine Webseite aufrufen, benutzen wir „Ports“. Ein Port ist wie eine spezielle Tür, die uns zu verschiedenen Diensten auf einem Computer führt. 
+
+In diesem Fall ist Port 80 wichtig. Port 80 ist der Standard für Webseiten, die mit HTTP arbeiten. Wenn wir also auf eine Webseite gehen, wie zum Beispiel www.beispiel.de, benutzen wir Port 80. Der Computer, der die Webseite speichert, nennt man „Webserver“. 
+
+Wenn wir einen Webbrowser nutzen, um die Webseite zu sehen, sendet unser Computer eine Nachricht über das Internet an den Webserver über Port 80. Der Webserver empfängt die Nachricht durch diese Tür (Port) und schickt die Webseite zurück zu unserem Computer. 
+
+Zusammengefasst: Wenn wir eine Webseite aufrufen, verwenden wir Port 80, um mit dem Webserver zu sprechen und die Webseite herunterzuladen.

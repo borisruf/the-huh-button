@@ -1,0 +1,9 @@
+Wir haben hier ein einfaches Netzwerk, das aus zwei Teilen besteht: N1 auf der linken Seite und N2 auf der rechten Seite. Diese beiden Teile möchten Informationen miteinander teilen.
+
+Wenn du dir vorstellst, dass die Netzwerke wie Straßen sind und die Router an den Kreuzungen ähnlich sind, dann müssen wir einen Weg finden, damit die Daten von einem Teil zum anderen gelangen. 
+
+Wie bei einer Autofahrt musst du auch hier entscheiden, welchen Weg du nimmst, damit die Daten schnell und ohne Stau ankommen. Die Router im Netzwerk entscheiden, wohin die Daten geschickt werden, ähnlich wie ein Navigationsgerät dir sagt, welche Straße du nehmen sollst.
+
+Jeder Router hat eine Art Karte, die ihm sagt, wo die Daten hin müssen und wie schnell sie dorthin gelangen können. Wenn die Daten bei einem Router ankommen, schaut dieser nach, ob er das Ziel ist. Wenn nicht, schaut er auf seine Karte, um herauszufinden, wo die Daten als Nächstes hingehen sollen.
+
+So sorgen die Router dafür, dass die Daten von einem Netzwerk zum anderen gelangen, und sie versuchen immer, den besten und schnellsten Weg zu finden.

@@ -1,0 +1,11 @@
+Die Flusssteuerung sorgt dafür, dass ein schneller Sender und ein langsamer Empfänger gut zusammenarbeiten können. Man kann sich das wie einen Fluss vorstellen: Wenn der Wasserfluss (also die Daten) zu schnell ist, kann der Empfänger (das Wasserbecken) nicht alles aufnehmen, und es könnte überlaufen oder etwas verlieren.
+
+Wenn der Sender etwas sendet, muss er darauf warten, dass der Empfänger sagt: "Ja, ich habe das Paket bekommen!" Das nennt man eine Bestätigung. Es gibt verschiedene Möglichkeiten, wie das gemacht werden kann.
+
+Eine einfache Methode ist das „Stop-and-Wait“-Verfahren. Hierbei sendet der Sender ein Paket, wartet auf die Bestätigung und sendet dann das nächste Paket. Das kann viel Zeit kosten, besonders wenn die Verbindung lang ist, weil er ständig warten muss.
+
+Eine bessere Methode ist das „Pipelining“. Hierbei kann der Sender mehrere Pakete gleichzeitig senden, ohne auf die Bestätigung jedes einzelnen Pakets zu warten. Der Empfänger kann dann sagen, welches Paket ihm fehlt, und der Sender weiß, dass er das fehlende Paket erneut senden muss.
+
+Außerdem gibt es das Konzept eines „Fensters“, das festlegt, wie viele Pakete der Sender auf einmal senden kann, ohne auf eine Bestätigung warten zu müssen. Dieses Fenster kann sich während der Kommunikation ändern. Wenn der Empfänger mehr Daten verarbeiten kann, kann das Fenster größer werden, und der Sender kann mehr Pakete senden.
+
+Zusammengefasst: Flusssteuerung hilft dabei, dass Sender und Empfänger in einem guten Tempo zusammenarbeiten, damit keine Daten verloren gehen. Wenn etwas verloren geht, wie ein Paket, kann der Sender es erneut senden, um sicherzustellen, dass alles ankommt.

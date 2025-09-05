@@ -1,0 +1,7 @@
+Wir sprechen über VLANs, eine Technik, die es uns hilft, Computergruppen in einem Netzwerk zu organisieren. Jede Gruppe kann man sich wie ein eigenes Zimmer in einem Haus vorstellen. 
+
+Jetzt schauen wir uns an, wie wir diese "Zimmer" (VLANs) nutzen können, um sicher zu sein, dass Daten gut übertragen werden, besonders wenn wir über das Internet telefonieren (das nennt sich Voice-over-IP). 
+
+Wenn wir über Voice-over-IP sprechen, ist es wichtig, dass die Anrufe klar und deutlich sind. Dafür brauchen wir besondere Regeln, die wir „Quality-of-Service“ nennen. Diese Regeln sorgen dafür, dass die Sprachdaten schnell und in guter Qualität übertragen werden. 
+
+Also, in einfachen Worten: VLANs helfen uns, Computer zu organisieren und sicherzustellen, dass sie nicht durcheinander kommen. Wenn wir dann telefonieren wollen, müssen wir zusätzliche Regeln beachten, damit die Gespräche gut klingen. 

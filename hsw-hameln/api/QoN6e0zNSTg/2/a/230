@@ -1,0 +1,3 @@
+In einfachen Worten bedeutet die Aussage folgendes:
+
+Wenn zwei oder mehr Geräte gleichzeitig versuchen, Informationen über das Netzwerk zu senden und sie sich dabei stören (das nennt man Kollision), passiert Folgendes: Sie senden ein spezielles Signal, das viel größer ist als die normalen Daten, die sie senden wollten. Dieses große Signal wird von allen Geräten im Netzwerk empfangen, und dann müssen die Geräte eine bestimmte Zeit warten, bevor sie es wieder versuchen. Diese Wartezeit nennt man "Back-off-Time". Es ist wichtig, dass sie warten, damit sie nicht gleich wieder kollidieren, wenn sie erneut senden wollen.

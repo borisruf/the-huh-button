@@ -1,0 +1,5 @@
+Das Internetprotokoll (IP) ist wie eine wichtige Adresse für Computer im Netzwerk, damit sie miteinander sprechen können. Es ist auf einer bestimmten Ebene (Schicht 3) im OSI-Modell, das ist ein Modell, das erklärt, wie Computer kommunizieren. 
+
+Vorher haben wir über zwei andere Protokolle gesprochen, TCP und UDP, die auf einer höheren Ebene (Schicht 4) sind. Diese Protokolle helfen, Daten sicher und schnell zu senden. 
+
+Jetzt gehen wir eine Ebene tiefer und schauen uns IP an. Eine der wichtigsten Aufgaben von IP ist, dass es jedem Computer eine spezielle Adresse (IP-Nummer) zuweist. Diese Adresse hilft, den Computer zu finden und sicherzustellen, dass die Daten an den richtigen Ort gesendet werden.

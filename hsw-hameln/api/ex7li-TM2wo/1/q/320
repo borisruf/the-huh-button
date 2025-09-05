@@ -1,0 +1,1 @@
+ Das heißt also eine 32-Bit -Folge als Prüfsumme wird an das Paket und damit den Rahmen angehängt, um festzustellen, ob in einem Ethernet-Paket letztlich ein Fehler ist.

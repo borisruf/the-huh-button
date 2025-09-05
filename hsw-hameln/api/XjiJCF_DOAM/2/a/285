@@ -1,0 +1,3 @@
+Die Aussage sagt, dass DNS ein wichtiger Teil des Internets ist. Es hilft uns, Webseiten zu finden. Wenn wir eine Webseite besuchen, benutzen wir meistens den Namen der Webseite, wie zum Beispiel "www.example.com". Aber der Computer braucht eine IP-Adresse, um die Webseite tatsächlich zu erreichen. Eine IP-Adresse ist eine spezielle Nummer, die Geräte im Internet voneinander unterscheidet. 
+
+Man kann sich DNS wie ein Adressbuch für das Internet vorstellen. Wenn du den Namen einer Webseite eingibst, schaut DNS nach, welche IP-Adresse zu diesem Namen gehört, damit dein Computer die richtige Webseite finden kann. Jede Webseite hat also eine IP-Adresse, die ihr genau zugeordnet ist, und DNS hilft uns, diese IP-Adressen zu finden, wenn wir einen Namen eingeben.

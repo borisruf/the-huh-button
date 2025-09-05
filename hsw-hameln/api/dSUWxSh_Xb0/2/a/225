@@ -1,0 +1,7 @@
+In einfacher Sprache bedeutet die Aussage folgendes:
+
+Bei der zweiten Methode, die wir gerade besprochen haben, dem Zeit-Multiplexing, teilen wir die Zeit auf. Das Bild zeigt, dass wir die Informationen nicht in horizontale Abschnitte aufteilen, sondern in vertikale Abschnitte. 
+
+Das heißt, wenn mehrere Menschen über ein Kabel miteinander reden wollen, nutzen sie nicht den Platz gleichzeitig, sondern jeder bekommt einen bestimmten Zeitabschnitt, in dem er sprechen kann. So können alle trotz nur einem Kabel dabei sein, ohne dass es zu Verwirrungen kommt. 
+
+Also beim Zeit-Multiplexing wird die Zeit so aufgeteilt, dass jeder Benutzer seinen eigenen „Slot“ hat, um seine Daten zu senden.

@@ -1,0 +1,11 @@
+In dieser Erklärung geht es darum, wie Daten von einem Computer zu einem anderen Computer geschickt werden. Wenn du zum Beispiel eine Nachricht Online sendest, muss diese Nachricht viele verschiedene Stationen (Routern) durchlaufen, bevor sie ihr Ziel erreicht.
+
+1. **Trace Route**: Das ist ein Werkzeug, das dir zeigt, wie viele Stationen deine Daten durchlaufen haben und an welchen Stationen es vielleicht Probleme gegeben hat. Es hilft herauszufinden, wo die Verbindung unterbrochen ist.
+
+2. **Statische Routen**: Das sind feste Wege, die ein Mensch (Administrator) auf den Routern einstellt. Wenn sich etwas im Netzwerk ändert, muss der Mensch das manuell anpassen.
+
+3. **Dynamische Routen**: Hier arbeiten die Router selbst und finden die besten Wege für die Daten. Sie tauschen Informationen untereinander aus und können so besser auf Veränderungen reagieren.
+
+4. **Distance-Vector und Link-State Protokolle**: Das sind zwei Arten von dynamischen Routing-Systemen. Distance-Vector ist einfacher und funktioniert gut in kleinen Netzwerken. Link-State ist komplizierter, aber besser für große Netzwerke, da es mehr über das ganze Netzwerk weiß.
+
+Zusammengefasst: Wir schauen uns an, wie Daten von einem Punkt zum anderen reisen und wie man herausfindet, wo es eventuell Probleme gibt.

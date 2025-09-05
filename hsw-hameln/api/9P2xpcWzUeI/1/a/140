@@ -1,0 +1,7 @@
+Die Aussage "Welcher Rechner gehört eigentlich in welches VLAN?" bezieht sich auf die Zuordnung von Geräten zu virtuellen LANs (VLANs) innerhalb eines Netzwerks. VLANs ermöglichen die flexible Gruppierung von Geräten, unabhängig von ihrer physischen Position im Netzwerk, was die Netzwerkverwaltung und Sicherheit verbessert. Es gibt zwei Hauptmethoden zur Zuweisung von Geräten zu VLANs: 
+
+1. **Statische Zuweisung**: Der Netzwerkadministrator weist jedem Switch-Port manuell ein bestimmtes VLAN zu. Dies erfordert sorgfältige Planung, um sicherzustellen, dass an jedem Port der jeweils richtige Rechner angeschlossen ist.
+
+2. **Dynamische Zuweisung**: Hier wird die Zugehörigkeit zu VLANs anhand von MAC-Adressen automatisiert verwaltet. Eine zentrale Steuerstation bestimmt, welcher Rechner zu welchem VLAN gehört, was die Flexibilität erhöht und menschliche Fehler bei der Port-Zuweisung reduziert.
+
+In beiden Fällen ist es entscheidend, die VLAN-Zugehörigkeit korrekt zu definieren, um die gewünschten Netzwerksegmente und deren Kommunikationsregeln umzusetzen.

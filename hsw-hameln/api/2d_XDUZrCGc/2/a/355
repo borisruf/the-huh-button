@@ -1,0 +1,3 @@
+Die Aussage bedeutet folgendes: 
+
+Obwohl ich nur eine einzige öffentliche IP-Adresse habe, die nach außen ins Internet zeigt, kann ich mehrere Geräte oder Dienste in meinem Netzwerk nutzen. Ein Beispiel sind ein Web-Server oder E-Mails. Wenn viele Geräte in meinem Netzwerk ins Internet gehen wollen, erledigt der Router diese Aufgabe. Er sorgt dafür, dass alle Geräte über diese eine öffentliche IP-Adresse ins Internet zugreifen können, auch wenn sie verschiedene Dinge tun. So kann beispielsweise ein Computer surfen, während ein anderer E-Mails sendet - alles läuft über die gleiche öffentliche IP-Adresse, weil der Router die Verbindungen verwaltet.

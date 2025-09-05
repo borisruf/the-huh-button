@@ -1,0 +1,7 @@
+In einfachen Worten bedeutet das:
+
+Wir haben Zeit, die wir in einer Linie von oben nach unten darstellen können. Wenn Daten gesendet werden, kommen sie irgendwann als Ganzes an, wie ein Paket.
+
+Aber wenn wir die verfügbaren Verbindungen besser nutzen wollen, teilen wir die Daten in kleine Stücke auf. Mit diesen kleineren Stücken können wir sie gleichzeitig auf verschiedene Wege senden. So nutzen wir die Verbindung viel effizienter. 
+
+Das hilft uns, Daten schneller und besser an den richtigen Ort zu bekommen, auch wenn sie in kleinen Happen ankommen. Wenn sie angekommen sind, setzen wir sie wieder richtig zusammen.

@@ -1,0 +1,8 @@
+Die Aussage sagt, dass wir unsere Geräte, wie Telefone und Computer, in zwei verschiedene Gruppen (VLANs) aufteilen können. 
+
+- Die Telefone bekommen ihre speziellen IP-Adressen aus einer bestimmten Gruppe, zum Beispiel aus einem kleinen Adressbereich (Klasse-A).
+- Die normalen Computer bekommen ihre IP-Adressen aus einem größeren Bereich (Klasse-B).
+
+Das hilft uns, die Dinge besser zu organisieren und zu verwalten. Wenn wir die Telefone und Computer getrennt haben, können wir einfacher sicherstellen, dass die Sprache gut übertragen wird, ohne dass die Verbindung langsamer wird durch große Daten-Downloads von den Computern. 
+
+So können wir auch sicherstellen, dass alles gut funktioniert und es weniger Probleme gibt.

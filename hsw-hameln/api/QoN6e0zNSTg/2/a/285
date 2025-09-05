@@ -1,0 +1,7 @@
+In diesem Text wird erklärt, wie Computer in einem Netzwerk miteinander kommunizieren, besonders über Ethernet, eine Technik, die schon seit 40 Jahren genutzt wird. Die Idee hinter Ethernet ist, dass viele Geräte ein gemeinsames Medium, wie Kabel, nutzen können, um Daten auszutauschen.
+
+Die Sicherungsschicht ist dabei eine spezielle Ebene im Netzwerkmodell. Diese Schicht wird in zwei kleinere Teile unterteilt. Das ist wichtig, um die Kommunikation besser zu organisieren und zu verstehen.
+
+Das Beispiel mit dem CSMA-CD-Protokoll zeigt, wie Geräte darauf achten, ob das Kabel frei ist, bevor sie senden. Wenn zwei Geräte gleichzeitig senden, kann es zu einem "Zusammenstoß" (Kollision) kommen. In diesem Fall müssen die Geräte warten und dann wieder versuchen, ihre Daten zu senden, wobei oft ein Zufallsfaktor ins Spiel kommt. Das Ganze sorgt dafür, dass alle Geräte fair behandelt werden, auch wenn es mal zu Problemen kommt.
+
+Zusammengefasst: Es geht darum, wie man in einem Netzwerk sicher und gleichzeitig miteinander kommuniziert, und dass es Regeln gibt, um Probleme zu lösen, wenn mehrere Geräte gleichzeitig Daten senden wollen.

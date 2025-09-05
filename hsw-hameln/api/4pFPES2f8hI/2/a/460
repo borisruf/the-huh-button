@@ -1,0 +1,9 @@
+Okay, lass es mich ganz einfach erklären!
+
+Wenn wir ein großes Netzwerk in kleinere Teile aufteilen, nennen wir diese Teile "Subnetze". Jedes Subnetz hat bestimmte Adressen, die wir verwenden können. Aber nicht alle Adressen in einem Subnetz können wir nutzen.
+
+In jedem Subnetz gibt es zwei Adressen, die wir nicht verwenden dürfen:  
+1. Die erste Adresse wird für die Identifizierung des Subnetzes selbst verwendet. Wir nennen das die "Netzadresse".  
+2. Die letzte Adresse wird verwendet, um eine Nachricht an alle Geräte im Subnetz zu senden. Wir nennen das die "Broadcast-Adresse".
+
+Deshalb, wenn wir sagen, dass wir aus 8 Subnetzen 2 Adressen nicht verwenden können (die erste und die letzte), bleiben uns nur 6 Subnetze, die wir tatsächlich benutzen können. So haben wir sicher, dass die Adressen, die wir vergeben, immer für die Geräte in unserem Subnetz nutzbar sind!

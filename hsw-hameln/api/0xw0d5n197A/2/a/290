@@ -1,0 +1,7 @@
+Ein VPN-Tunnel ist wie ein geschützter Weg für Daten, der sicherstellt, dass Informationen sicher von einem Ort zu einem anderen reisen, besonders wenn sie über das unsichere Internet gehen. 
+
+Stell dir vor, du möchtest von einem Laden (Laden A) zu einem anderen Laden (Laden B) etwas schicken. Normalerweise könnten andere Leute diese Sendung sehen, wenn sie über das Internet geschickt wird. Aber wenn du einen VPN-Tunnel benutzt, wird deine Sendung in eine Art unsichtbaren Briefkasten gepackt, wo niemand sie sehen kann. Das passiert durch etwas, das man "Verschlüsselung" nennt. 
+
+Das VPN-Gateway ist wie der Schlüssel zu diesem Briefkasten. Es sorgt dafür, dass nur die richtigen Leute die Nachricht lesen können. So bekommst du sicher deine Daten von Laden A nach Laden B, ohne dass jemand anderes sie mitbekommt. 
+
+Der Tunnel selbst ist nicht wirklich da, sondern wird durch diese Verschlüsselung ganz speziell geschaffen. So kannst du sicher und privat im Internet arbeiten.

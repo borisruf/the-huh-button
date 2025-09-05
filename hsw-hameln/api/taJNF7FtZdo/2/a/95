@@ -1,0 +1,9 @@
+In dieser Aussage geht es darum, dass die Systeme, die bestimmen, wie Daten in einem Netzwerk von einem Punkt zum anderen reisen (Routing-Systeme), sehr wichtig sind. Sie haben drei wichtige Aufgaben oder Ziele:
+
+1. **Weg finden**: Sie müssen den besten Weg finden, damit die Daten schnell und effizient an ihr Ziel gelangt. Das ist so ähnlich wie wenn du mit dem Auto fährst und die beste Strecke suchst.
+
+2. **Alternativen bieten**: Manchmal gibt es verschiedene Wege, um ans Ziel zu kommen. Die Routing-Systeme müssen auch diese alternativen Wege kennen und bereitstellen, damit man auswählen kann, welcher Weg am besten ist.
+
+3. **Verkehrsinfo nutzen**: Sie sollten auch Verkehrsinformationen berücksichtigen, um zu entscheiden, welcher Weg gerade am besten ist, ähnlich wie man im Auto auch auf Staus oder Baustellen achtet.
+
+Zusammengefasst bedeutet das, dass Routing-Systeme dafür sorgen, dass die Daten auf die beste und schnellste Art ihr Ziel erreichen, indem sie verschiedene Wege vergleichen und die aktuellen Bedingungen im Netzwerk nutzen.

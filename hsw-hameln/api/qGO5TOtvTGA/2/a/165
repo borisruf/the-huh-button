@@ -1,0 +1,3 @@
+Beim statischen Routing muss eine Person, die Administrator heißt, die Routen manuell auf den Routern eintragen. Das bedeutet, sie sagt den Routern, welchen Weg die Daten von einem Punkt (A) zu einem anderen Punkt (B) nehmen sollen. 
+
+Das klingt einfach, aber es gibt auch Schwierigkeiten dabei. Wenn sich zum Beispiel die Netzwerke ändern oder wenn ein Router kaputtgeht, muss der Administrator alles wieder anpassen und neue Routen eintragen. Das kann mühsam sein und Fehler verursachen. Daher hat der Administrator viel Arbeit, um alles richtig zu machen, und das kann manchmal kompliziert werden.

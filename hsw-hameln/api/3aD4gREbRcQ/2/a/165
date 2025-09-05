@@ -1,0 +1,9 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn Computer miteinander kommunizieren, nutzen sie bestimmte Regeln oder "Protokolle". Diese Protokolle sind wie Sprachen, die die Computer sprechen, damit sie einander verstehen. 
+
+Es gibt zwei Hauptsprachen, die verwendet werden: TCP und UDP. Man kann sich das wie zwei verschiedene Wege vorstellen, um Informationen zu schicken. TCP ist zuverlässig, das bedeutet, dass es sicherstellt, dass alles gut ankommt. UDP ist schneller, aber nicht so sicher; manche Infos könnten verloren gehen.
+
+Im Fall des E-Mail-Versands benutzen wir die TCP-Sprache. Für das Versenden von E-Mails wird ein bestimmter "Port" verwendet, nämlich Port 25. Wenn man die E-Mails abruft, also liest, wird ein anderer Port genutzt, nämlich Port 110.
+
+Zusammengefasst: E-Mails benutzen die sichere Sprache (TCP) und haben bestimmte "Zugänge" (Ports), um die Informationen zu senden und zu empfangen.

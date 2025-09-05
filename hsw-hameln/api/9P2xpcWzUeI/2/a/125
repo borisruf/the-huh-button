@@ -1,0 +1,9 @@
+Stell dir ein Gebäude mit drei Stockwerken vor. Jedes Stockwerk hat sein eigenes Netzwerk, das durch Netzwerkgeräte verbunden ist. Diese traditionelle Methode ist wie ein fester Plan, bei dem jedes Stockwerk sein eigenes Netzwerk hat. Aber manchmal möchte man die Arbeitsplätze flexibler gestalten und Menschen aus verschiedenen Stockwerken in einem gemeinsamen Netzwerk zusammenbringen. 
+
+Das nennt man VLANs (virtuelle LANs). Mit VLANs kannst du Gruppen von Computern bilden, unabhängig von ihrem Standort im Gebäude. Es gibt zwei Möglichkeiten, wie man VLANs einrichten kann:
+
+1. **Statische Einrichtung**: Der Netzwerk-Administrator (die Person, die das Netzwerk verwaltet) entscheidet, welcher Netzwerkanschluss zu welchem VLAN gehört. Wenn ein Computer an diesen Anschluss angeschlossen wird, muss dieser Computer zu dem VLAN passen, das dort eingestellt ist. Das kann problematisch sein, wenn man vergisst, die richtigen Einstellungen zu machen.
+
+2. **Dynamische Einrichtung**: Hierbei passt sich das Netzwerk automatisch an. Wenn ein Computer angeschlossen wird, erkennt das Netzwerk, zu welchem VLAN dieser Computer gehört, und bindet ihn dort ein. Das macht es einfacher und flexibler.
+
+Zusammengefasst: VLANs helfen, Netzwerke flexibler zu gestalten, und man kann sie entweder manuell (statisch) oder automatisch (dynamisch) einrichten.

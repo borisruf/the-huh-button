@@ -1,0 +1,13 @@
+In dem Text geht es darum, wie Daten in einem Netzwerk von einem Ort zum anderen geschickt werden. Man kann sich das wie eine Reise von einer Stadt zur anderen vorstellen.
+
+1. **Daten als Reisende**: Die Daten sind wie Menschen, die von einem Ort (z.B. Hameln) nach einem anderen (z.B. Münster) reisen. Um dorthin zu kommen, brauchen sie eine Route, also einen Weg.
+  
+2. **Router als Wegweiser**: Die Router im Netzwerk sind wie Kreuzungen oder Wegweiser, die entscheiden, in welche Richtung die Daten als Nächstes gehen sollen. Sie schauen, wo die Daten hin müssen und leiten sie in die richtige Richtung.
+
+3. **Routing-Tabellen**: Jeder Router hat ein „Wissen“ in Form von einer Tabelle, die ihm sagt, wo die Daten als Nächstes hingehen sollen. In dieser Tabelle stehen wichtige Informationen wie die Adresse des Zielortes (IP-Adresse) und wie „weit“ dieser Ort ist, gemessen in „Hops“ (also wie viele Router die Daten durchlaufen müssen).
+
+4. **Traffic und Staus**: Manchmal kann es im Netzwerk „Staus“ geben, wenn zu viele Daten gleichzeitig reisen. Die Router versuchen, diese Staus zu umgehen, indem sie die Daten auf eine andere Route schicken, die vielleicht gerade weniger ausgelastet ist.
+
+5. **OSI-Modell**: Bevor die Daten den Router erreichen, durchlaufen sie eine Reihe von „Schichten“ im OSI-Modell, wo sie verarbeitet werden. Zwischen den Endpunkten (z.B. zwei Computer) werden sie vollständig verarbeitet.
+
+Zusammengefasst: Router helfen den Daten, sicher und schnell von einem Punkt zum anderen zu reisen, indem sie den besten Weg auswählen und die Daten entsprechend ihrer Adressen leiten.

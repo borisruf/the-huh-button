@@ -1,0 +1,5 @@
+Eine Kollisionsdomäne entsteht, wenn wir mehrere Geräte in einem Netzwerk miteinander verbinden, ohne dass alles ganz modern oder auf die beste Art und Weise verkabelt ist. Wenn wir zum Beispiel einen einfachen Verteiler (Hub) oder alte Kabel verwenden, die nicht die beste Leistung haben, können mehrere Geräte gleichzeitig versuchen, Daten zu senden. Das kann dazu führen, dass ihre Nachrichten sich "überlappen" oder sich "kollisionieren". 
+
+Das passiert, wenn zwei oder mehr Geräte gleichzeitig senden möchten. Wenn das passiert, müssen sie ihre Nachrichten erneut senden, weil die erste Übertragung nicht richtig angekommen ist. Wir können versuchen, Kollisionen zu verhindern, aber sie können nie ganz vermieden werden, besonders wenn das Netzwerk nicht optimal arbeitet.
+
+In einem gut organisierten Netzwerk mit modernen Geräten und Techniken, wie zum Beispiel Switches, können wir Kollisionen viel besser vermeiden, weil diese Geräte besser kontrollieren, wie Daten gesendet werden. Aber wenn wir nicht alles so gut organisiert haben, dann gibt es immer wieder Probleme mit Kollisionen, wenn viele Geräte versuchen, gleichzeitig zu kommunizieren.

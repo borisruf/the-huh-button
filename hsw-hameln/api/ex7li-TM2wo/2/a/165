@@ -1,0 +1,9 @@
+Das Hemming-Verfahren ist eine Methode, um Fehler in Daten zu finden und zu korrigieren. Wenn die Daten über ein Netzwerk geschickt werden, kann es passieren, dass sie sich verändern oder kaputtgehen. Um das zu überprüfen, schauen wir mit speziellen Techniken, ob alles richtig ist.
+
+Wenn wir einen Fehler entdecken, gibt es zwei Arten, damit umzugehen:
+
+1. **Hemming-Verfahren**: Hierbei wird eine Art „Code“ verwendet, der hilft, die beschädigten Daten beim Empfänger wieder richtig zu machen. Das ist ein bisschen kompliziert, weil es viel Rechenarbeit erfordert.
+
+2. **Einfaches Fehleranfordern**: Wenn wir merken, dass es einen Fehler gibt, können wir einfach die korrekten Daten anfordern. Das bedeutet, wir sagen: „Da ist etwas falsch, schick mir bitte die richtigen Daten noch einmal.“
+
+In dieser Erklärung geht es darum, wie wichtig es ist, Fehler zu finden und sicherzustellen, dass die Informationen korrekt sind, besonders bei wichtigen Sachen wie Geldtransaktionen.

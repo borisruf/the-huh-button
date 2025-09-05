@@ -1,9 +1,11 @@
-Jede Adresse, die Geräte im Internet verwenden, nennt man IP-Adresse. Diese besteht aus vier Teilen oder "Oktetten", und jeder dieser Teile wird durch einen Punkt getrennt. Eine IP-Adresse kann zum Beispiel so aussehen: 172.16.14.193.
+Die Aussage beschreibt, wie IP-Adressen und Subnetzmasken aussehen und wie man sie miteinander vergleicht.
 
-Es gibt auch etwas, das wir "Subnetzmaske" nennen. Die Subnetzmaske hilft uns, den Unterschied zwischen den Abschnitten der IP-Adresse zu verstehen, die uns sagen, zu welchem Netzwerk das Gerät gehört und welche spezielle Nummer es innerhalb dieses Netzwerks hat.
+Stell dir vor, jede IP-Adresse besteht aus vier Teilen, die Oktette heißen. Jede Oktette hat 8 Bits, also kleine Informationen, die entweder eine 0 oder eine 1 sind.
 
-Stellen Sie sich vor, Sie leben in einer Stadt mit vielen Häusern. Die "Netzwerk" Teile der IP-Adresse könnten uns sagen, in welcher Straße das Haus liegt. Der "Host" oder Geräte-Teil könnte uns dann genau sagen, welches Haus in dieser Straße gemeint ist.
+Die Subnetzmaske ist eine Art Regel, die sagt, welcher Teil der IP-Adresse das Netzwerk ist und welcher Teil die einzelnen Computer (Hosts) innerhalb dieses Netzwerks beschreibt. 
 
-Eine Subnetzmaske könnte also zum Beispiel so aussehen: 255.255.0.0. Die Teile, die mit "255" geschrieben sind, sagen uns, dass dieser Teil zur Netzerkennung gehört, und ein "0" sagt uns, dass dieser Teil zur Gerätekennung gehört.
+In der Subnetzmaske gibt es Zahlen wie 255 und 0. Wenn eine Zahl 255 ist, bedeutet das, dass alle 8 Bits auf 1 sind. Wenn sie 0 ist, sind alle 8 Bits auf 0. Zum Beispiel sieht eine Subnetzmaske für eine Klasse B-IP-Adresse so aus: 255.255.0.0. Das bedeutet, dass die ersten beiden Teile (Oktette) die Netzwerkadresse beschreiben und die letzten beiden Teile die einzelnen Computer im Netzwerk.
 
-In unserem Beispiel wäre es also so: wegen der Subnetzmaske 255.255.0.0 und der IP-Adresse 172.16.14.193 würden die ersten beiden Teile (172 und 16) uns sagen, zu welchem Netzwerk das Gerät gehört, und die letzten beiden Teile (14 und 193) sagen uns, welches spezielle Gerät in diesem Netzwerk gemeint ist.
+Wenn du die IP-Adresse und die Subnetzmaske nebeneinander schreibst, kannst du sehen, welcher Teil der IP-Adresse zum Netzwerk gehört (das sind die 1en in der Subnetzmaske) und welcher zum Computer (das sind die 0en).
+
+Für eine einfache Überprüfung kannst du die IP-Adresse und die Subnetzmaske vergleichen, um zu sehen, wie sie zusammenpassen. Das nennt man Endvergleich. Es hilft zu verstehen, wie viele Computer in einem Netzwerk sein können und wie die Adressen organisiert sind.

@@ -1,0 +1,1 @@
+ Zunächst mal gibt es sogenannte IP-Adressklassen und die werden gebildet auf Basis der höchstwertigen Bits im ersten Oktett unserer IP-Adresse.   Das soll heißen, wir nehmen das erste Oktett in binärer Schreibweise und schauen uns an, was für einen Wert das höchstwertige Bit hat.

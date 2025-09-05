@@ -1,0 +1,9 @@
+Die Aussage bespricht ein Technisches Problem, das bei der Übertragung von Daten auftritt. Hier ist eine einfache Erklärung:
+
+Wenn man Daten über das Internet schickt, fügt man spezielle Zeichen hinzu, die den Anfang und das Ende der Nachricht zeigen. Diese Zeichen nennt man „Start of Text“ (Anfang der Nachricht) und „End of Text“ (Ende der Nachricht). 
+
+Das Problem ist: Wenn diese speziellen Zeichen auch in den eigentlichen Daten vorkommen, könnte der Empfänger denken, die Nachricht sei früher zu Ende, als sie tatsächlich ist. Das wäre ein Fehler. 
+
+Um zu verhindern, dass so etwas passiert, gibt es eine Lösung, die „Bitstopf-Methode“ heißt. Diese Methode sorgt dafür, dass die besonderen Zeichen für den Anfang und das Ende der Nachricht nicht in den Daten selbst enthalten sein dürfen. 
+
+So weiß der Empfänger immer genau, wo die Nachricht beginnt und endet, und es gibt weniger Fehler bei der Übertragung.

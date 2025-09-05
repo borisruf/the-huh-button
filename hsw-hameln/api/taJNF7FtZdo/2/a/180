@@ -1,0 +1,7 @@
+In diesen Erklärungen geht es um das Routing von Daten in Netzwerken, also darum, wie Daten von einem Punkt zu einem anderen Punkt geschickt werden. 
+
+Die Aussage bedeutet, dass jeder Router, der die Daten weiterleitet, eine Tabelle hat – die Routing-Tabelle. In dieser Tabelle muss es mindestens drei wichtige Informationen geben. 
+
+Erstens, braucht der Router die Adresse des Ziels, wohin die Daten geschickt werden sollen. Diese Adresse nennt man IP-Adresse. 
+
+Das ist wie bei einer Reise. Wenn du von einem Ort zum anderen reisen möchtest, brauchst du zuerst die Adresse, wohin du gehen willst. Genau das macht der Router mit Daten in einem Netzwerk – er schaut in seine Tabelle, um zu wissen, wohin die Daten geschickt werden müssen.

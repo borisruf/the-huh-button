@@ -1,0 +1,7 @@
+Die Aussage bezieht sich auf die Verwendung von "führenden Nullen" in IP-Version 6-Adressen. Hier ist eine einfache Erklärung:
+
+In IP-Version 6 gibt es Adressen, die aus mehreren Gruppen von Zahlen bestehen. Manchmal gibt es in diesen Gruppen Nullen, die am Anfang stehen. Zum Beispiel, wenn eine Gruppe wie 0042 aussieht, kann man die Nullen vorne weglassen und einfach 42 schreiben. Das macht es leichter, die Adresse zu lesen und zu merken.
+
+Die Aussage sagt, dass in einem Beispiel, das von einer IP-Adresse aus der älteren Version, IP-Version 4, stammt – nämlich 172.16.14.193 – eine IP-Version 6-Adresse entsteht. In dieser neuen Adresse können die Nullen, die ganz vorne in manchen Gruppen stehen, einfach weggelassen werden. 
+
+Das Ziel dieser Abkürzungen ist es, die neue Adresse einfacher zu gestalten, damit sie leichter zu benutzen und zu merken ist.

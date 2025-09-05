@@ -1,0 +1,7 @@
+Bei TCP (Transmission Control Protocol) gibt es mehr Informationen, die mit den Daten gesendet werden. Das nennt man "Protokollinformationen". Bei TCP sind das 20 Byte. Das hilft, die Daten zuverlässig zu senden, aber macht die Übertragung langsamer.
+
+Bei UDP (User Datagram Protocol) sind es nur 8 Byte an Protokollinformationen. Das macht UDP schneller, weil weniger Informationen übertragen werden müssen. Daher können mehr Daten in der gleichen Zeit gesendet werden. 
+
+Aber, weil UDP so schnell ist und weniger Sicherheit bietet, kann es passieren, dass einige Datenpakete nicht ankommen. Das ist nicht schlimm für Dinge wie Videoanrufe oder Musikstreaming, wo es nicht so wichtig ist, dass wirklich jedes Datenpaket ankommt. Denn wenn mal ein kleines Stück fehlt, merkt das das Ohr oder das Auge oft nicht. 
+
+Zusammengefasst: UDP ist schneller, aber weniger sicher, während TCP langsamer, aber dafür sicherer ist.

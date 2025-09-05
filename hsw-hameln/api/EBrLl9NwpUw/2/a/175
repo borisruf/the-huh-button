@@ -1,7 +1,5 @@
-Also, das Bild zeigt, dass unsere Datenwege, die Ports, alle rot sind. Das bedeutet, sie senden gerade keine normalen Daten, weil sie blockiert sind.
+In diesem Bild sehen wir, dass alle Verbindungen (Ports) rot sind. Das bedeutet, dass sie gerade keine normalen Daten weiterleiten. Sie sind im "Blocking-Status", was heißt, sie sind im Moment blockiert.
 
-Wir haben in unserem Netzwerk mehrere Wege und Verbindungen gemacht, damit nicht alles sofort kaputt geht, wenn mal was nicht funktioniert. Das Problem ist, dass dadurch Schleifen entstehen können. Schleifen sind schlecht, weil sie bewirken, dass Daten hin und her geschickt werden, ohne dass sie ankommen. Das kann passieren, wenn die Daten falsch adressiert sind. Dann drehen sie quasi endlos ihre Runden und das belastet unser Netzwerk sehr.
+Das passiert, um unser Netzwerk sicherer zu machen. Wenn wir viele Verbindungen haben (das nennt man Redundanz), kann es Probleme mit Daten geben, die immer hin- und her geschickt werden. Das kann das Netzwerk überlasten und zu Störungen führen. 
 
-Aber zum Glück gibt es da eine Lösung, die nennt sich Spanning-Tree-Protokoll. Die Idee ist, dass man einfach bestimmte Wege blockiert. Bei Spanning-Tree wird erstmal der ganze Datenverkehr gestoppt. Die einzelnen Verbindungen, die Switches, tauschen nur noch Infos über das Spanning-Tree-Protokoll aus. Alle Ports, also Datenwege, werden blockiert und senden keine normalen Daten mehr. 
-
-Wenn dann alles geprüft ist und klar ist, welcher Weg der beste ist, dann werden die normalen Daten wieder geschickt. Und genau das zeigt das Bild: Alle Ports sind rot, also sie sind blockiert und senden keine Daten.
+Um das zu verhindern, benutzt man das Spanning-Tree-Protokoll. Dieses Protokoll sorgt dafür, dass einige Verbindungen im Netzwerk blockiert werden, damit keine Schleifen entstehen. So bleibt das Netzwerk stabil und die Daten können später wieder richtig verteilt werden, sobald alles eingerichtet ist.

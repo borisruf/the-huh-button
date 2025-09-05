@@ -1,0 +1,9 @@
+Routing-Informationen sind wie Wegbeschreibungen für Daten, die durch Netzwerke reisen. Wenn Daten von einem Ort A zu einem Ort B geschickt werden, müssen sie wissen, welchen Weg sie nehmen sollen. Dafür verwenden Router, die wie Verkehrszeichen sind.
+
+Es gibt zwei Arten von Wegbeschreibungen: 
+
+1. **Statische Routing-Informationen**: Das sind feste Wege, die nicht ändern. Man gibt dem Router einmal einen bestimmten Weg, und er bleibt dabei, egal was passiert.
+
+2. **Dynamische Routing-Informationen**: Das sind flexible Wege, die sich ändern können. Die Router können hier Informationen untereinander austauschen und selbst den besten Weg finden, je nachdem, ob es gerade Probleme auf der Strecke gibt oder nicht.
+
+In dieser Sitzung wollen wir lernen, wie Router ihre Wegbeschreibungen bekommen und wie sie sicherstellen, dass die Daten den besten Weg von A nach B nehmen.

@@ -1,0 +1,7 @@
+Die Aussage erklärt, wie IP Version 6 Adressen aufgebaut sind. Man kann sich das so vorstellen:
+
+Wie bei IP Version 4, wo die Adressen aus vier Zahlen bestehen, hat auch IP Version 6 einen bestimmten Aufbau. Aber anstatt vier Zahlen sieht die Adresse in IP Version 6 ganz anders aus. Sie ist viel länger und wird in einem speziellen System geschrieben, das Hexadezimal heißt.
+
+Statt vier Zahlen, die durch Punkte getrennt sind, hat die IP Version 6 Adresse acht Gruppen von Zahlen, die durch Doppelpunkte getrennt sind. Jede Gruppe hat vier Zeichen. Die Zeichen können Zahlen und Buchstaben sein. Das macht die Adressen komplizierter und schwieriger zu merken, aber so kann man viel mehr Adressen erstellen, weil sie viel mehr Platz haben.
+
+Zusammengefasst: IP Version 6 Adressen sind länger und in einem anderen Format als die IP Version 4 Adressen, aber sie haben auch eine bestimmte Struktur.

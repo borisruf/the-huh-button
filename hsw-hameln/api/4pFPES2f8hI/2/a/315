@@ -1,0 +1,13 @@
+Stell dir vor, du hast viele Adressen für Computer, aber nicht genug, um jedem Computer eine eigene Adresse zu geben. Um das Problem zu lösen, können wir die Adressen in kleinere Gruppen aufteilen, die wir "Subnetze" nennen. 
+
+Hier ist, wie das geht: 
+
+1. **Subnetzmaske**: Das ist wie ein Werkzeug, das uns hilft zu entscheiden, wo die Adressen für die Netzwerke und wo die für die Computer drin sind.
+   
+2. **Bits**: Man kann die Subnetzmaske als eine Reihe von Stellen (Bits) betrachten. Es gibt Stellen für den Netzwerkteil (das sind Einsen) und für den Computerteil (das sind Nullen).
+
+3. **Ändern der Nullen**: Wenn wir ein Netzwerk in kleinere Teile aufteilen, "nehmen" wir einige der Nullen und machen sie zu Einsen. Das hilft uns, mehr Netzwerke zu erstellen. 
+
+4. **Beispiel mit 3 Nullen**: Wenn wir 3 Nullen in Einsen ändern, sagen wir, dass wir 2 hoch 3 haben. Das bedeutet, wir bekommen 8 neue kleine Netzwerke aus der Änderung.
+
+Das ist also wie ein Kuchen, den wir in viele kleinere Stücke schneiden, damit jeder ein Stück bekommt. So können wir die Adressen besser nutzen!

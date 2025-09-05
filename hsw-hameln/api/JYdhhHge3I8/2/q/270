@@ -1,0 +1,1 @@
+ Wenn wir jetzt dann uns über die Paketvermittlung unterhalten, da ist es dann eben nicht mehr asynchron, sondern wir können das Ganze dann tatsächlich synchron machen oder parallel im Parallelbetrieb machen.  Das heißt, wir haben bei der Paketvermittlung eben vom Prinzip her die Erzeugung zunächst mal von Frames, was wir ja auch schon kennengelernt haben.

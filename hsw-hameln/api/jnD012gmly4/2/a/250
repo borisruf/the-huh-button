@@ -1,0 +1,5 @@
+In ganz einfachen Worten bedeutet die Aussage Folgendes:
+
+Wenn Daten über das Netzwerk gesendet werden, gibt es spezielle Regeln, um sicherzustellen, dass die Daten richtig ankommen. Eine dieser Regeln besagt, dass wenn es fünf Einsen (also "1") hintereinander in den Daten gibt, dann fügt der Sender eine zusätzliche Null (also "0") hinzu. Diese Null nennt man "Stopfbit". 
+
+Der Grund dafür ist, um Verwirrung zu vermeiden. Wenn der Empfänger die Daten bekommt, muss er wissen, dass diese Null nicht Teil der eigentlichen Daten ist. Deshalb muss er die Null wieder entfernen, sodass nur die echten Daten übrig bleiben. So weiß der Empfänger genau, wo die echten Informationen anfangen und aufhören.

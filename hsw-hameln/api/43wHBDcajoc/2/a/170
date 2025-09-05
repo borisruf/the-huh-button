@@ -1,0 +1,9 @@
+Die Aussage bedeutet, dass wir ein Netzwerk haben, in dem viele Geräte gleichzeitig miteinander kommunizieren können. Das nennt man „Shared Media“. Wenn viele Geräte sich ein Medium (wie zum Beispiel die Luft für WLAN) teilen, müssen wir darauf achten, dass die Informationen gut und sicher übertragen werden.
+
+Um das zu erreichen, gibt es zwei wichtige Schichten, auf die wir achten müssen:
+
+1. **Bitübertragungsschicht**: Hier geht es darum, wie die einzelnen Bits (das sind die kleinsten Teile von Informationen) von einem Gerät zu einem anderen geschickt werden. Es regelt die Art und Weise, wie die Daten über das Netzwerk gesendet werden.
+
+2. **Sicherungsschicht**: Diese sorgt dafür, dass die Daten, die gesendet werden, sicher und fehlerfrei ankommen. Sie kümmert sich zum Beispiel darum, dass wir wissen, wenn ein Stück Information verloren geht und es erneut geschickt werden muss.
+
+Zusammengefasst heißt das: Wenn viele Geräte Informationen austauschen, müssen wir sicherstellen, dass die Bits richtig übertragen und die Daten sicher sind.

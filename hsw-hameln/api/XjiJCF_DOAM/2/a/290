@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass jedes Gerät im Internet, wie z.B. ein Webserver, eine spezielle Nummer hat, die IP-Adresse genannt wird. Diese Nummer hilft, das Gerät im Internet zu finden. 
+
+Wenn es viele Websites und Server gibt, müsste man sich für jede davon eine eigene IP-Adresse merken. Das wäre sehr schwierig und unpraktisch, weil es so viele davon gibt. 
+
+Deshalb haben wir das DNS-System. DNS ist wie ein Telefonbuch für das Internet. Es hilft dabei, die Namen von Websites (wie www.beispiel.de) in die passenden IP-Adressen umzuwandeln, damit wir sie leichter finden können, ohne uns jede Nummer merken zu müssen.

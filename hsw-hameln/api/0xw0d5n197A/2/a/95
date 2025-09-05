@@ -1,0 +1,5 @@
+Die Aussage beschreibt, was eine Firewall macht. Eine Firewall ist wie eine Schutzmauer für ein Netzwerk. Sie schaut sich die Daten, die hin und her geschickt werden, genau an. Die Aufgabe der Firewall ist es herauszufinden, ob diese Daten sicher sind. 
+
+Stell dir vor, du hast einen wichtigen Brief, und du möchtest sicherstellen, dass er nicht geöffnet oder verändert wurde, bevor er bei dir ankommt. Die Firewall macht etwas Ähnliches mit den Daten: Sie überprüft, ob die Daten, die ins Netzwerk kommen oder das Netzwerk verlassen, vertrauenswürdig und unbeschädigt sind. 
+
+Das ist wichtig, weil es beim Schutz von Netzwerken nicht nur um die Gefahren von außen geht, sondern auch um die Gefahren von innen, also von den Menschen, die das Netzwerk benutzen. Es gibt viele verschiedene Wege, ein Netzwerk sicher zu machen, und die Firewall ist nur eine davon.

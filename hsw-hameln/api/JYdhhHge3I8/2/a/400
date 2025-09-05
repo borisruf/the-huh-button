@@ -1,0 +1,13 @@
+In der Erklärung geht es darum, wie Daten in Netzwerken übertragen werden. Man kann sich das so vorstellen:
+
+Stell dir vor, du hast wie bei einem Postsystem viele Briefe, die von verschiedenen Leuten verschickt werden. Es gibt verschiedene Wege, wie diese Briefe an ihr Ziel kommen können. 
+
+1. **Leitungsvermittlung:** Das ist wie ein alter Telefonanruf, wo eine feste Verbindung zwischen zwei Personen hergestellt wird, bis das Gespräch beendet ist. Wenn jemand anders anrufen will, muss er warten, bis die Leitung frei ist.
+
+2. **Speichervermittlung:** Hier werden die Briefe zwischengespeichert, bevor sie zur nächsten Station weitergeschickt werden. Das ist wie ein Postamt, wo die Briefe gesammelt und später verteilt werden. So können mehrere Leute gleichzeitig ihre Briefe verschicken.
+
+3. **Paketvermittlung:** Bei dieser Methode werden die Daten in kleine Stücke (Pakete) zerlegt. Diese Pakete reisen dann unabhängig und können verschiedene Wege nehmen, um ihr Ziel zu erreichen. Das ist wie bei einem Puzzle, wo die Teile irgendwann wieder zusammengesetzt werden müssen. 
+
+Die letzte Aussage besagt, dass es in der Paketvermittlung auch einige Herausforderungen gibt, die für die Nutzer nicht immer sichtbar sind. Das Wort „Protokolle“ bezieht sich darauf, wie die Regeln für den Datenaustausch festgelegt sind. 
+
+Insgesamt geht es also darum, wie Informationen effizient und schnell durch Netzwerke fließen, auch wenn das manchmal bedeutet, dass die Daten in kleine Teile zerlegt werden.

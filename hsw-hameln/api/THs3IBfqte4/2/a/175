@@ -1,0 +1,5 @@
+Die Aussage beschreibt, wie Informationen übertragen werden, indem die Phasen von Signalen verändert werden. 
+
+Stell dir vor, wir haben ein Lichtsignal, das manchmal an und manchmal aus ist. In der Phasenmodulation benutzen wir den Winkel des Lichts, um Informationen zu senden. Wenn wir ein "0" senden wollen, verändern wir die Phase des Lichts um 180 Grad, also so, dass es anders erscheint. Wenn wir ein "1" senden wollen, bleibt die Phase gleich.
+
+Das bedeutet, dass wir durch die Änderung der Phase des Signals zwischen "0" und "1" unterscheiden können. Es ist eine Möglichkeit, digitale Informationen zu übermitteln, indem wir die Eigenschaften des Signals benutzen, statt einfach nur die Lautstärke (Amplitude) oder die Frequenz zu ändern.

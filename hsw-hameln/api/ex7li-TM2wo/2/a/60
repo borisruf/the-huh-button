@@ -1,0 +1,5 @@
+Die Aussage erklärt, wie man herausfindet, ob in einer Datei oder einem Datenpaket Fehler sind. Man schaut, ob sich die Informationen verändert haben, obwohl die Größe der Datei gleich geblieben ist. 
+
+Um das zu überprüfen, benutzt man eine spezielle Methode, die Prüfziffer oder Prüfsumme heißt. Diese Methode hilft zu erkennen, ob kleine Teile (Bits) von den Daten falsch sind. Ein bestimmter Weg, um das zu machen, heißt zyklischer Redundanz-Check (CRC). 
+
+Im Grunde genommen geht es darum, Fehler in Daten zu finden, bevor man sie weiterverarbeitet.

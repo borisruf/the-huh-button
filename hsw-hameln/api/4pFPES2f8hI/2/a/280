@@ -1,0 +1,7 @@
+In diesem Text geht es darum, wie man große Netzwerke in kleinere Teile aufteilt, die man "Subnetze" nennt. Zuerst haben wir ein großes Netzwerk mit bis zu 254 Geräten (Hosts). Aber manchmal braucht man nicht so viele Geräte in einem Netzwerk und möchte die Adressen besser nutzen.
+
+Die Lösung dafür ist die Subnetzmaske. Sie hilft uns, das große Netzwerk in kleinere Netzwerke zu unterteilen. Dabei wird ein Teil der Adresse, der normalerweise für Geräte genutzt wird, umgewandelt, damit er für die Netzwerke verwendet werden kann. Man muss sorgfältig vorgehen, sodass die Umwandlung ordentlich geschieht.
+
+Wenn wir nicht alle Adressen eines großen Netzwerks brauchen, können wir also durch das Bildung von Subnetzen Adressen freigeben. Außerdem verbessert es auch die Sicherheit. 
+
+Zusammengefasst: Wir nehmen ein großes Netzwerk, teilen es in kleinere Teile auf, und dadurch sparen wir Adresse und machen das Netzwerk sicherer.

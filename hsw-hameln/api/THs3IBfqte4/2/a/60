@@ -1,0 +1,8 @@
+In dieser Erklärung geht es darum, wie Daten in einem Netzwerk, wie zum Beispiel im Ethernet oder LAN, übertragen werden. 
+
+1. **Datenübertragung**: Wenn Informationen gesendet werden, braucht man eine Methode dafür. 
+2. **Frequenzspektrum**: Man kann sich das wie einen großen Bereich von Farben vorstellen, die wir benutzen, um Nachrichten zu senden. In diesem Fall nutzen wir alle "Farben" oder Frequenzen am besten aus, um Daten zu übertragen.
+3. **Digitale Übertragung**: Die Daten werden in einem speziellen digitalen Format geschickt, was bedeutet, dass sie in Form von Einsen und Nullen übertragen werden.
+4. **Multiplex-Technik**: Das ist eine Methode, um mehrere Daten gleichzeitig über einen Kanal zu senden. Dabei wird eine besondere Technik verwendet, die Zeit-Multiplexing heißt. Das bedeutet, dass verschiedene Daten zu unterschiedlichen Zeiten gesendet werden, ohne dass sie sich gegenseitig stören.
+
+Insgesamt zeigen wir, dass es eine fortschrittliche Art gibt, wie wir in Netzwerken wie Ethernet Informationen schnell und effizient miteinander austauschen können.

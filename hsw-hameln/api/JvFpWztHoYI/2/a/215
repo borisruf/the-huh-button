@@ -1,0 +1,13 @@
+Die Aussage erklärt, wie man aus einer Abfolge von Einsen und Nullen (Bits) ein Signal macht, das man über Kabel senden kann. 
+
+Hier ist der einfache Ablauf:
+
+1. **Signalwechsel ist wichtig**: Wenn wir ein Signal senden wollen, ist es wichtig, dass wir zwischen Einsen und Nullen unterscheiden können. Man kann das so machen, dass ein Signalwechsel (von hoch nach niedrig oder umgekehrt) eine Eins zeigt und kein Wechsel eine Null.
+
+2. **Was sind fallende und steigende Flanken?**: Wenn das Signal hoch ist und dann fällt, nennen wir das eine "fallende Flanke" – das bedeutet, es ist eine Eins. Wenn das Signal tief ist und dann wieder steigt, nennen wir das eine "steigende Flanke" – das bedeutet, es ist eine Null. 
+
+3. **Keine konstanten Signale**: Wenn wir viele Einsen hintereinander haben, gibt es immer wieder Signalwechsel, und das ist gut, weil das bedeutet, dass wir keine konstanten Signale haben, die schwer zu erkennen wären. 
+
+4. **Gleichstromanteil**: Ein hoher Gleichstromanteil bedeutet, dass das Signal über längere Zeit gleich bleibt, was es schwieriger macht, den Takt (oder Rhythmus) herauszufinden. Signalwechsel helfen, den Takt beizubehalten.
+
+Das Ziel ist also, durch kluge Entscheidungen beim Senden der Signale die Informationen klar und einfach zu übertragen, so dass man sie leicht erkennen kann.

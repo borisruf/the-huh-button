@@ -1,0 +1,1 @@
+ In diesem Fall, bei einem Mailversand, ist es eben TCP und wir haben dort die TCP Ports 25 für SMTP und den TCP Port 110 für POP3.

@@ -1,0 +1,7 @@
+Es gibt verschiedene Arten von Routing-Protokollen, die helfen, den besten Weg für Daten von einem Ort zu einem anderen zu finden, zum Beispiel von Computer A zu Computer B. 
+
+Ein Beispiel für so ein Protokoll ist RIP. Das ist ein sogenanntes Distance-Vector-Protokoll. Diese Art von Protokoll hat ihre eigenen Herausforderungen und Probleme, die man beachten muss. 
+
+Stell dir vor, ein Routing-Protokoll ist wie ein Navi, das dir zeigt, wie du am besten von einem Ort zum anderen kommst. Bei RIP schaut das Navi, wie viele Stationen oder "Hops" es auf dem Weg gibt. Wenn alles gut funktioniert, ist es einfach. Aber wenn irgendwo ein Weg gesperrt ist oder etwas kaputt geht, dann muss das Navi in der Lage sein, einen neuen Weg zu finden. Das ist eine der Herausforderungen, mit denen solche Protokolle umgehen müssen. 
+
+Insgesamt gibt es also verschiedene Protokolle, und jedes hat seine eigenen Vor- und Nachteile, die wichtig sind, wenn man Daten in einem Netzwerk schickt.

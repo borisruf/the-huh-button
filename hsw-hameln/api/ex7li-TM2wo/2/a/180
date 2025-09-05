@@ -1,0 +1,11 @@
+In dieser Aussage geht es darum, wie man Fehler bei der Datenübertragung erkennt und damit umgeht. 
+
+Wenn Daten von einem Ort zum anderen geschickt werden, können manchmal Fehler passieren, zum Beispiel weil Teile der Daten falsch angekommen sind oder ganz verloren gegangen sind. Um solche Fehler zu entdecken, gibt es verschiedene Methoden.
+
+Eine Methode heißt "zyklische Redundanz-Prüfung". Dabei wird eine Art Kontrollsumme verwendet, um zu überprüfen, ob die Daten richtig sind. Wenn alles in Ordnung ist, kommt die Nachricht wie geplant an. Wenn ein Fehler festgestellt wird, gibt es zwei Hauptmöglichkeiten, damit umzugehen:
+
+1. **Korrigieren der Fehler**: Manchmal kann das System die Fehler selbst beheben und die Daten zurück in die richtige Form bringen. Das benötigt aufwendige Berechnungen.
+
+2. **Senden der Daten erneut**: Wenn das System den Fehler nicht selbst beheben kann, sagt es einfach: „Bitte sende die Daten nochmal!“ Das nennt man Sende-Wiederholung.
+
+Die Aussage, die du anfangs erwähnt hast, bezieht sich auf diese Methode der Sende-Wiederholung, die durch den zyklischen Redundanz-Check unterstützt wird, um sicherzustellen, dass die Daten richtig und vollständig ankommen.

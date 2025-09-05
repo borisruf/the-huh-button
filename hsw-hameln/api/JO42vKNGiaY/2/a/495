@@ -1,0 +1,7 @@
+Die Aussage über die Umwandlung von IP-Adressen bedeutet folgendes:
+
+Wenn wir eine spezielle Abkürzung, genannt "Doppelpunkt, Doppelpunkt", in einer IP Version 6-Adresse sehen, dann kann man diese Abkürzung wieder auflösen. Das heißt, man fügt Nullen wieder ein, die weggelassen wurden. Zum Beispiel, wenn nach dem Doppelpunkt, Doppelpunkt eine "1" kommt, könnte man sich das so vorstellen: Vor der "1" stehen jetzt mehrere Nullen, die wir wieder hinzufügen.
+
+Das hilft uns auch, zu verstehen, wie man eine IP Version 4-Adresse (die ältere Art von IP-Adresse) in eine IP Version 6-Adresse (die neue Art) umwandeln kann. Es ist also möglich, von einer alten zu einer neuen Adresse zu wechseln. 
+
+Zusammengefasst: Man kann die Abkürzungen wieder auflösen und es ist möglich, alte IP-Adressen in neue IP-Adressen zu verwandeln.

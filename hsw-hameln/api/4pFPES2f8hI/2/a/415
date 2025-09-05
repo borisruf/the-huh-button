@@ -1,0 +1,13 @@
+Okay, lass uns das in einfacheren Worten erklären.
+
+In einem großen Netzwerk gibt es viele Computer und Geräte, die sich eine Adresse teilen müssen, damit sie miteinander kommunizieren können. Manchmal gibt es nicht genug Adressen für alle, weil wir in der Vergangenheit zu viele Adressen vergeben haben, ohne zu wissen, dass wir sie nicht alle brauchen. Das nennt man "Adressknappheit".
+
+Um dieses Problem zu lösen, teilen wir das große Netzwerk in kleinere Teile. Diese kleineren Teile nennen wir "Subnetze". Jedes Subnetz hat eine eigene Adresse, die ihm hilft, die Kommunikation besser zu organisieren und sicherer zu machen.
+
+Um Subnetze zu erstellen, nutzen wir etwas, das "Subnetzmaske" heißt. Eine Subnetzmaske hilft uns zu bestimmen, wie viele Netzwerke wir aus einem großen Netzwerk machen können. Wenn wir die Subnetzmaske ändern, verwandeln wir einige "Plätze" für Computer (die Nullen in der Maske) in neue Netzwerk-Adressen (die Einsen in der Maske).
+
+Wenn wir ein großes Netzwerk aufteilen, ändern wir also die Subnetzmaske, und dadurch entstehen kleinere Netzwerke. Wir sorgen dafür, dass es weniger Computer in jedem dieser kleinen Netzwerke gibt, was sicherer und einfacher zu verwalten ist.
+
+In unseren Übungen werden wir konkret durchrechnen, wie wir diese Subnetze bilden können. Das bedeutet, wir schauen uns an, wie viele Subnetze wir machen können und wie man das genau macht, Schritt für Schritt.
+
+Zusammengefasst: Wir nehmen ein großes Netzwerk, teilen es in kleinere Netzwerke auf und nutzen dazu die Subnetzmaske. So können wir die Adressen besser nutzen und es wird übersichtlicher.

@@ -1,0 +1,11 @@
+Die Aussage spricht darüber, wie viele Bits (kleine Einheiten von Daten) falsch empfangen werden, verglichen mit der Gesamtzahl der Bits, die gesendet wurden. Es geht darum, herauszufinden, wie gut die Datenübertragung funktioniert. Wenn bei der Übertragung Fehler auftreten, möchte man wissen, wie viele von diesen Fehlern es im Verhältnis zu allen gesendeten Daten gibt.
+
+Hier ist eine ganz einfache Erklärung:
+
+- Stell dir vor, du schickst 100 Nachrichten an einen Freund.
+- Von diesen 100 Nachrichten sind 5 Nachrichten kaputt oder falsch angekommen.
+- Um herauszufinden, wie gut die Übertragung war, kannst du sagen: "Ich habe 5 falsche Nachrichten von 100 gesendet." 
+- Das bedeutet, dass 5% der Nachrichten falsch waren.
+- Wenn man solche Prozentzahlen kennt, kann man besser verstehen, wie gut oder schlecht die Übertragung war und ob man etwas verbessern muss.
+
+Zusammengefasst: Es wird geschaut, wie viele Fehler es gibt, damit man die Qualität der Datenübertragung verstehen kann.

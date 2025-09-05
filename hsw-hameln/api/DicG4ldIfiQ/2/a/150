@@ -1,0 +1,11 @@
+Wenn wir über Dämpfung sprechen, geht es darum, dass das Signal, das wir senden, schwächer wird, wenn es durch ein Kabel oder ein anderes Medium geht. Das liegt an verschiedenen Widerständen, die das Signal beeinflussen.
+
+Es gibt zwei Arten von Widerständen, die wir beachten müssen:
+
+1. **Ohmscher Widerstand**: Das ist der normale Widerstand, den man sich leicht vorstellen kann. Er sorgt dafür, dass das Signal langsamer wird oder schwächer wird.
+
+2. **Blindwiderstand**: Das ist ein besonderer Widerstand, der in manchen Situationen kommt. Er hat auch Einfluss auf das Signal, aber auf eine andere Art als der ohmsche Widerstand.
+
+Wenn wir beide Widerstände zusammennehmen, nennen wir das den **Scheinwiderstand**. Dieser beschreibt also, wie stark das Signal beeinflusst wird, insgesamt betrachtet. 
+
+Um sicherzustellen, dass wir das Signal richtig übertragen, müssen wir also beide Arten von Widerständen mit einbeziehen und verstehen. So können wir besser wissen, wie das Signal unterwegs beeinträchtigt werden kann und wie wir das verhindern können.

@@ -1,0 +1,9 @@
+Klar, ich erkläre das ganz einfach:
+
+Wir haben Daten, die wir übertragen wollen, zum Beispiel Einsen und Nullen. Um diese Daten als Signal zu senden, gibt es spezielle Methoden. Eine Methode nennt sich "Return-to-Zero", wo eine Eins durch einen hohen Wert angezeigt wird, und eine Null bedeutet, dass nichts da ist. Aber so ist es schwer, den richtigen Takt (also den richtigen Zeitpunkt) zu erkennen, weil es zu viele Nullen hintereinander geben kann.
+
+Eine andere Methode nennt sich "Non-Return-to-Zero". Hier wird eine Eins auch hoch angezeigt, aber eine Null ist ein niedriger Wert. Das ist einfacher, aber hat das gleiche Problem: Es ist zu viel von einem Wert hintereinander.
+
+Um die Taktung besser zu machen und weniger Probleme mit Nullen und Einsen zu haben, kann man beide Methoden kombinieren. Man bringt ein Taktsignal dazu, das verschiedene Signale erzeugt. Das heißt, es wechselt zwischen Eins und Null in jedem Moment. So haben wir keinen hohen Anteil von nur Einsen oder Nullen, und es ist einfacher, den Takt zurückzugewinnen. 
+
+Zusammengefasst: Wir nutze ein Taktsignal, um die Einsen und Nullen besser zu übertragen, sodass wir die Übertragung einfacher und zuverlässiger machen. Das nennt man dann "Manchester-Kodierung".

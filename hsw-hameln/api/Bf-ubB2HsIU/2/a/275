@@ -1,1 +1,11 @@
-In unserem Netzwerk gibt es viele verschiedene Menschen und Geräte, die miteinander kommunizieren. Und sie alle senden verschiedene Arten von Daten hin und her. Das wollen wir hier mal zeigen.
+In einem Netzwerk gibt es viele verschiedene Geräte, die miteinander sprechen, wie Computer, Drucker oder Smartphones. Diese Geräte kommunizieren auf unterschiedliche Arten, und sie senden auch verschiedene Arten von Informationen, wie Texte, Bilder oder Videos. Diese Vielfalt an Geräten und Daten will die Erklärung darstellen. 
+
+Jetzt schauen wir uns zwei wichtige Protokolle an, die dafür sorgen, dass die Daten richtig übertragen werden: TCP und IP. IP gibt an, wohin die Daten geschickt werden, wie eine Adresse. TCP sorgt dafür, dass die Daten sicher ankommen und nicht verloren gehen oder kaputtgehen. 
+
+Das TCP-IP-Modell hat vier Schichten, die helfen, die Kommunikation zu organisieren. Es ist wichtig, dass alle Geräte im Netzwerk auf die gleiche Weise kommunizieren, damit sie sich verstehen. Dafür gibt es Standards und Regeln.
+
+Um sicherzustellen, dass die wichtigsten Informationen auch wirklich ankommen und in der richtigen Reihenfolge ankommen, verwendet TCP Kontrollmechanismen. So wird überprüft, ob die Daten angekommen sind und ob sie in Ordnung sind.
+
+An einem Beispiel: Wenn du einen Brief (Daten) schickst, ist die Adresse (IP-Adresse) wichtig, damit der Brief an die richtige Person kommt. Aber TCP ist wie ein guter Freund, der sicherstellt, dass der Brief nicht zerknittert oder verloren geht und rechtzeitig ankommt.
+
+Zusammengefasst: In einem Netzwerk arbeiten viele Geräte mit verschiedenen Daten. TCP und IP helfen, diese Kommunikation zu regeln, damit alles gut funktioniert.

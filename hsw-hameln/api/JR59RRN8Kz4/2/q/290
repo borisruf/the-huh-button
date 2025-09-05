@@ -1,0 +1,1 @@
+ Man kann nämlich getrennte Voice- und Daten-VLANs einsetzen.  Das soll heißen, wir erstellen uns einfach virtuelle LANs, einmal für die Datenübertragung und einmal für die Sprach -Datenübertragung.

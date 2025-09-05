@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, wie man Informationen überträgt und dabei die Eigenschaften von Signalen verändert. Es wird gesagt, dass wir nicht nur die Stärke (Amplitude), sondern auch die Position (Phase) des Signals ändern können.
+
+Stell dir vor, du hast einen Wasserhahn. Du kannst den Wasserfluss stark oder schwach machen – das ist wie die Amplitude. Wenn du den Wasserhahn in eine andere Richtung drehst, verändert sich die Art, wie das Wasser rauskommt – das ist die Phase.
+
+Wenn wir beide Dinge kombinieren, können wir viele verschiedene Informationen in einem einzigen Signal übertragen. Das nennt man Quadratur-Amplituden-Modulation (QAM). Diese Technik wird zum Beispiel bei DSL (Internet über Telefonleitungen) verwendet, um Daten schnell zu schicken.
+
+Zusammengefasst: Wir können das Signal auf verschiedene Arten verändern, um mehr Informationen gleichzeitig zu übertragen, was bei der Internetnutzung wichtig ist.

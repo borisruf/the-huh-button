@@ -1,5 +1,5 @@
-In unserer Computersystem-Welt verbinden Kabel die Computer und teilen Informationen aus. Manchmal legen wir mehrere Kabel für den Fall, dass eines kaputt geht. Aber dieses Extra an Kabeln kann dazu führen, dass Informationen im Kreis geschickt werden und Chaos anrichten. Um dies zu verhindern, nutzen wir ein spezielles System namens "Spanning-Tree".
+Die Aussage bedeutet, dass in einem Netzwerk einige Verbindungen (Leitungen) zwischen den Switches nicht aktiv sind. Sie sind im "Blocking-Modus". Das heißt, sie leiten keine Daten weiter, um zu verhindern, dass es Probleme gibt, wenn eine Schleife entsteht. 
 
-Stellen Sie sich all diese zusätzlichen Kabel wie extra Autobahnen vor. Spanning-Tree blockiert einige dieser Autobahnen und hält den Verkehr sauber und ordentlich. Nur spezielle "Spanning-Tree"-Informationen können durch diese blockierten Autobahnen fließen.
+Wenn jetzt eine der aktiven Verbindungen (die, die Daten übertragen) kaputt geht, gibt es  die Möglichkeit, dass die Switches die "Blocked"-Verbindungen aktivieren können. Dadurch können die Daten weitergeleitet werden, obwohl eine Verbindung ausgefallen ist. 
 
-Jetzt ist alles friedlich und organisiert. Aber was passiert, wenn eine der offenen Autobahnen kaputt geht? Spanning-Tree erkennt das und öffnet eine der zuvor blockierten Autobahnen. Das hält den Verkehr (unsere Daten) fließend und verhindert Chaos.  So arbeiten unsere Computernetzwerke zuverlässig und störungsfrei.
+Das Ziel ist, dass das Netzwerk trotzdem funktioniert, auch wenn etwas schiefgeht.

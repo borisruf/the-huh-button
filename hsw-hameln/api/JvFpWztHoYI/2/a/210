@@ -1,0 +1,11 @@
+Die Aussage beschreibt, wie man Informationen (Bits) in ein Signal umwandelt, das über Kabel gesendet werden kann. 
+
+1. **Leitungskodierung**: Das ist eine Methode, um Bits in Signale umzuwandeln, damit sie transportiert werden können.
+
+2. **Return-to-Zero (RZ)**: Bei diesem Verfahren zeigt man eine Eins als hohen Ausschlag im Signal und eine Null als keinen Ausschlag (also der Ausschlag kehrt zu null zurück). Dies hat einen Nachteil: Es hat viel Gleichstrom, was es schwierig macht, den Takt (wie schnell die Signale gesendet werden) zurückzugewinnen.
+
+3. **Non-Return-to-Zero (NRZ)**: Bei diesem Verfahren gibt es auch eine Anzeige für Einsen und Nullen, aber die Nullen sind durch einen niedrigen Pegel (Signalzustand) angezeigt. Auch hier gibt es Probleme mit dem Gleichstrom.
+
+4. **Manchester-Kodierung**: Um die Probleme der vorherigen Verfahren zu lösen, kombiniert man NRZ mit einem Taktsignal. Bei dieser Kodierung wird eine fallende Flanke (der Wechsel von hoch zu niedrig) als Eins betrachtet und eine steigende Flanke (von niedrig zu hoch) als Null. 
+
+Das bedeutet, dass man nur auf die Wechsel im Signal achten muss. Dadurch kann man die Informationen besser übertragen und auch Störungen erkennen, weil es immer Signalwechsel gibt.

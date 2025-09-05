@@ -1,0 +1,1 @@
+ Klassischerweise, Stichwort Subnet-Bildung, sollte man dann natürlich so wenig IP-Adressen wie möglich verschwenden, sollte also eine Subnet-Maske Slash 30 verwenden, wo wir also noch zwei Nullen in unserer Subnet-Maske haben.

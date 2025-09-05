@@ -1,0 +1,5 @@
+Die Aussage bedeutet folgendes:
+
+Wenn zwei Geräte gleichzeitig versuchen, Daten über dasselbe Netzwerk zu senden, kann es zu einem Problem kommen, das nennt man Kollision. Wenn das passiert, hören die Geräte auf zu senden und senden stattdessen ein spezielles Signal, das GEM-Signal. Dieses Signal zeigt allen, dass ein Fehler aufgetreten ist. Es ist viel stärker und größer als die normale Datenübertragung.
+
+Nachdem das GEM-Signal gesendet wurde, müssen die Geräte eine kleine Pause machen, bevor sie es erneut versuchen, um sicherzustellen, dass sie nicht wieder gleichzeitig senden. Diese Pause nennt man "Back-off-Time". So wird vermieden, dass wieder eine Kollision passiert.

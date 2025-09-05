@@ -1,0 +1,5 @@
+Diese Aussage erklärt, dass man beim Planen eines Netzwerks viele Dinge beachten muss. Es ist wichtig, zuerst zu verstehen, welche Anwendungen in dem Netzwerk genutzt werden sollen. Dazu schaut man sich ein Modell namens OSI-Modell an, das hilft, das Netzwerk besser zu verstehen. 
+
+Das OSI-Modell hat sieben Schichten, und die obersten drei Schichten (von 5 bis 7) sind die, die für die Anwendungen wichtig sind. Man muss sich fragen, was die Nutzer oder der Auftraggeber mit dem Netzwerk machen wollen. Anhand dieser Wünsche plant man dann, wie das Netzwerk aufgebaut werden soll, sowohl in der Theorie als auch in der Praxis.
+
+Zusammengefasst: Zuerst muss man wissen, was im Netzwerk passieren soll, bevor man mit dem Planen anfängt. Das hilft dabei, alles richtig zu machen und ein gutes Netzwerk zu erstellen.

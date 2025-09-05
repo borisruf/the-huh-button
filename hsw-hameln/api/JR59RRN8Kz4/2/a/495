@@ -1,0 +1,5 @@
+In dieser Aussage geht es darum, dass ein Telefon wie ein kleiner Sammler für Daten ist. Es hat einen Schalter (Switch) eingebaut, der hilft, die Informationen von und zu zwei verschiedenen Gruppen (VLANs) zu leiten. Eine Gruppe ist für die Computer, und die andere ist für die Telefone. 
+
+So können beide Arten von Informationen gleichzeitig durch ein Kabel geschickt werden, ohne dass sie durcheinanderkommen. 
+
+Stell dir vor, du hast zwei Wasserleitungen: eine für Trinkwasser (das sind die Computer) und eine für Brauchwasser (das sind die Telefone). Der Schalter im Telefon sorgt dafür, dass das Wasser richtig fließt und nicht mischt. Dadurch können alle Geräte gut miteinander arbeiten, ohne sich gegenseitig zu stören.

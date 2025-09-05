@@ -1,0 +1,21 @@
+In dieser Erklärung geht es um Computernetzwerke und wie man sie in kleinere Teile, sogenannte Subnetze, aufteilen kann. Hier ist eine vereinfachte Erklärung der wichtigsten Punkte:
+
+1. **IP-Adressen und Subnetzmaske:** 
+   - Jede IP-Adresse hat eine Subnetzmaske, die angibt, wie das Netzwerk in kleinere Teile unterteilt wird. Es hilft zu erkennen, welches Teilnetz eine bestimmte IP-Adresse gehört.
+
+2. **Subnetze:** 
+   - Subnetze sind kleinere Netzwerke innerhalb eines größeren Netzwerks. Das Teilen in Subnetze hilft, die Netzwerkadressierung besser zu organisieren und sicherer zu machen.
+
+3. **Host-Adressen und Netzwerk-IDs:**
+   - Eine IP-Adresse hat zwei Teile: die Netzwerk-ID und die Host-Adresse. Die Netzwerk-ID zeigt an, zu welchem Netzwerk eine Adresse gehört, während die Host-Adresse einen spezifischen Computer innerhalb dieses Netzwerks identifiziert.
+
+4. **Einsen und Nullen in der Subnetzmaske:** 
+   - Die Subnetzmaske besteht aus Einsen und Nullen. Bereiche mit Einsen geben an, wo das Netzwerk endet, und Bereiche mit Nullen zeigen die Host-Adressen an. Wenn man Nullen in Einsen umwandelt, schafft man zusätzliche Netzwerk-Anteile.
+
+5. **Berechnung von Subnetzen und Hosts:**
+   - Man kann herausfinden, wie viele Subnetze und wie viele Hosts (Computer) in jedem Subnetz vorhanden sind, indem man die Anzahl der Einsen und Nullen in der Subnetzmaske zählt. Zum Beispiel, wenn man 3 Nullen in Einsen umwandelt, kann man 8 Subnetze erstellen, und wenn man noch 5 Nullen übrig hat, können 30 Hosts in jedem dieser Subnetze sein.
+
+6. **Wichtige Regeln:**
+   - Das erste und das letzte Subnetz, die man erstellt, kann man nicht für Hosts verwenden. Diese sind für besondere Zwecke reserviert (Netzwerk-Adresse und Broadcast-Adresse).
+
+Zusammengefasst hilft die Subnetzmaske, großen Netzwerken eine bessere Struktur zu geben, indem man sie in kleinere Teile unterteilt, die einfacher zu verwalten sind.

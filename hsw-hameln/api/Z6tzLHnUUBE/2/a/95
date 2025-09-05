@@ -1,0 +1,5 @@
+Das OSI-Modell ist wie eine Stadt mit verschiedenen Etagen, in denen unterschiedliche Dinge passieren. Auf der dritten Etage, Schicht 3, geht es darum, Daten in kleine Pakete zu packen. Das ist so, als würde man große Dinge in kleine Kisten packen, damit man sie leichter transportieren kann.
+
+Ein wichtiger Teil von dieser dritten Etage ist die Adressierung. Das bedeutet, dass jedem Computer oder jedem Gerät eine spezielle Adresse zugewiesen wird, damit man genau weiß, wo die Daten hin sollen. Diese Adressen werden IP-Adressen genannt.
+
+Zusammengefasst: Auf Schicht 3 im OSI-Modell werden Daten in Pakete gepackt und jeder Computer bekommt eine IP-Adresse, damit die Daten an die richtige Stelle geschickt werden können.

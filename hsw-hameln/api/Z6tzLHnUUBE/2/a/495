@@ -1,0 +1,15 @@
+Okay, lass uns das einfacher erklären.
+
+Wenn ein Computer (wir nennen ihn Computer A) mit einem anderen Computer (Computer B) sprechen möchte, muss er wissen, wohin er die Nachrichten schicken soll.
+
+1. **Woher kommt die Nachricht?** Computer A sagt, dass die Nachricht von ihm kommt. Das nennt man die Quell-IP-Adresse.
+  
+2. **An wen geht die Nachricht?** Die Nachricht ist für Computer B. Das nennt man die Ziel-IP-Adresse.
+
+3. **Wie kommt die Nachricht dorthin?** Computer A schickt die Nachricht an einen ersten Router (das ist wie ein Postvermittler), der die Nachricht weiterleitet. Der Router sieht, dass die Nachricht von Computer A kommt und dass sie zu Computer B geht. Der Router ersetzt die Adresse von Computer A (das ist die Quell-MAC-Adresse) mit seiner eigenen Adresse, weil er nun derjenige ist, der die Nachricht weiterleitet.
+
+4. **Was passiert als Nächstes?** Der nächste Router (Router 2) sieht, dass die Nachricht von Router 1 kommt und zur Ziel-IP-Adresse von Computer B geschickt wird. Auch dieser Router packt die Nachricht aus, sieht die Quell-IP-Adresse von Computer A und die Ziel-IP-Adresse von Computer B und schickt die Nachricht weiter. Wieder wird die eigene MAC-Adresse des Routers verwendet.
+
+5. **Schließlich kommt die Nachricht bei Computer B an.** Computer B sieht jetzt: „Oh, die Nachricht kommt von Computer A.“ Er kann auch sehen, welcher Router die Nachricht geschickt hat.
+
+So, am Ende weiß Computer B, dass die Nachricht von Computer A kam, und könnte Computer A auch antworten.

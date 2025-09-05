@@ -1,0 +1,9 @@
+In einfachen Worten bedeutet die Aussage folgendes:
+
+Wenn verschiedene Teile eines Netzwerks miteinander verbunden werden, kommt mehr „Intelligenz“ ins Spiel. Das heißt, bestimmte Geräte wie Switches oder Bridges helfen dabei, Informationen besser zu verwalten. Diese Geräte verwenden etwas, das „MAC-Adresse“ genannt wird. 
+
+Eine MAC-Adresse ist wie eine spezielle Adresse für jedes Gerät in einem Netzwerk, die hilft zu bestimmen, wo die Daten hingehen sollen. 
+
+Mit Switches und Bridges können wir verschiedene Netzwerkbereiche verbinden, aber sie können auch angeben, wo die Daten hingehen sollen, um Verwirrung zu vermeiden. So wird verhindert, dass die Daten in einem großen, chaotischen Bereich „stoßen“, was als Kollisionsdomäne bekannt ist. 
+
+Zusammengefasst: Switches und Bridges helfen uns, verschiedene Netzwerke miteinander zu verbinden und organisieren, wohin die Daten geschickt werden müssen.

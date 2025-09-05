@@ -1,0 +1,7 @@
+Stell dir vor, du möchtest jemandem einen Brief schicken. Der Brief enthält wichtige Informationen, also die "Nutzdaten". Aber damit der Brief sicher und an die richtige Adresse kommt, brauchst du noch ein paar zusätzliche Dinge.
+
+Erstens, du schreibst einen Absender oben auf den Umschlag, damit der Empfänger weiß, woher der Brief kommt. Das ist der "Kopfteil". Dann schreibst du vielleicht eine kurze Notiz oder ein Dankeschön am Ende des Briefes, das ist der "Nachspann". 
+
+Diese Teile sind wichtig, auch wenn sie nicht wirklich die Hauptinformation sind. Sie helfen dabei, den Brief sicher zuzustellen und sicherzustellen, dass alles richtig ist. Wenn etwas schiefgeht, könntest du mit der Absenderadresse herausfinden, wo der Fehler passiert ist.
+
+Ähnlich ist es mit Daten, die über das Internet gesendet werden. Die "Nutzdaten" sind die Hauptinformationen, die du senden möchtest, aber du fügst noch einen "Kopfteil" und einen "Nachspann" hinzu. Diese helfen dabei, die Daten sicher von einem Ort zum anderen zu schicken und Fehler zu erkennen. Dieser Vorgang, bei dem die Nutzdaten eingerahmt werden, nennt man "Rahmenbildung". Das passiert nach bestimmten Regeln, die festgelegt wurden, wie im ISO-OSI-Modell.

@@ -1,0 +1,5 @@
+Die Aussage besagt, dass man lange IP-Adressen in der Version 6 kürzen kann. Wenn es viele Nullen in der Adresse gibt, kann man diese weglassen. Man kann auch eine Gruppe von Nullen an einer bestimmten Stelle der Adresse noch mehr kürzen, und zwar mit einem speziellen Zeichen, dem doppelten Doppelpunkt (::). 
+
+Das macht die Adresse einfacher und kürzer, was hilfreich ist, weil sie sonst sehr lang und kompliziert werden kann. 
+
+Zusammengefasst: Man kann Nullen in IP-Version 6 Adressen weglassen, um sie leichter zu lesen.

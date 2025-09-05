@@ -1,0 +1,13 @@
+In diesem Text geht es darum, wie wir Netzwerke miteinander verbinden. Man kann sich ein Netzwerk wie mehrere Räume in einem Gebäude vorstellen, die durch Türen (Koppelungselemente) verbunden sind. 
+
+Hier sind die wichtigsten Punkte einfach erklärt:
+
+1. **Kollisionsdomäne**: Das ist ein Bereich im Netzwerk, wo Daten miteinander "kämpfen" können, also wo es zu Übertragungsproblemen kommen kann, wenn mehrere Geräte gleichzeitig Daten senden. Je mehr Geräte in diesem Bereich sind, desto größer ist die Wahrscheinlichkeit, dass sie sich stören.
+
+2. **Hubs und Repeater**: Diese Geräte sind sehr einfach und dienen nur dazu, das Signal zu verstärken und weiterzuleiten. Wenn sie benutzt werden, wird der Kollisionsbereich größer, weil sie alle Geräte in einem großen Raum verbinden, ohne zu wissen, wer wann Daten sendet.
+
+3. **Intelligentere Geräte**: Es gibt bessere Geräte, wie Switches, die entscheiden können, wohin die Daten gehen sollen. Sie verbessern die Situation, da sie den Datenfluss steuern können und so kleinere Kollisionsbereiche schaffen. Man kann sich das wie eine intelligente Tür vorstellen, die nur mit einem bestimmten Raum spricht, anstatt mit allen gleichzeitig.
+
+4. **Verkleinern der Kollisionsdomänen**: Wenn wir die Probleme mit den Daten besser lösen wollen, sollten wir diese intelligenten Geräte verwenden, damit die Daten schneller und sicherer ankommen.
+
+Zusammengefasst heißt das: Um die Probleme im Netzwerk zu reduzieren, müssen wir von einfachen Geräten (Hubs) auf intelligentere Geräte (Switches) umsteigen.

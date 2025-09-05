@@ -1,0 +1,9 @@
+In dieser Aussage geht es um die Struktur von Netzwerken, die durch verschiedene Modelle dargestellt wird. 
+
+Stell dir vor, ein Netzwerk hat verschiedene Schichten, ähnlich wie ein mehrschichtiger Kuchen. Jede Schicht hat ihre eigene Aufgabe. 
+
+Die obersten drei Schichten sind wichtig für die Anwendungen, die wir nutzen, wie zum Beispiel das Surfen im Internet oder das Herunterladen von Dateien. Diese sind im OSI-Modell als Schichten 5 bis 7 bekannt. 
+
+Das TCP-IP-Modell, das weniger Schichten hat, betrachtet diese drei Schichten zusammen. Der zentralste Teil dieses Modells ist die IP-Schicht, die dafür sorgt, dass Daten an die richtige Adresse geschickt werden. Die Schicht 4, die ganz wichtig ist, kümmert sich darum, wie die Daten transportiert werden. 
+
+Die Protokolle, wie Telnet, FTP oder HTTP, sind die Regeln, die bestimmen, wie diese Anwendungen funktionieren und wie sie mit uns, den Nutzern, kommunizieren.

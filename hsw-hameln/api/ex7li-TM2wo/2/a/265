@@ -1,0 +1,9 @@
+In diesem Text geht es darum, wie wir Fehler erkennen und beheben können, wenn Daten übertragen werden. Manchmal passieren Fehler, wenn Daten von einem Ort zu einem anderen geschickt werden. Diese Fehler können verschiedene Ursachen haben und können dazu führen, dass die Informationen falsch oder gar nicht ankommen.
+
+Um Fehler zu erkennen, brauchen wir eine Art Sicherheitssystem. Wenn wir Daten schicken, fügen wir eine zusätzliche Information hinzu, die wie ein Aufpasser funktioniert. Diese zusätzliche Information hilft uns herauszufinden, ob die Daten richtig angekommen sind oder ob etwas schiefgegangen ist. 
+
+Ein Beispiel dafür ist der zyklische Redundanz-Check (CRC). Dabei wird eine Art mathematische Rechnung mit den Daten gemacht, bevor sie geschickt werden. Am Empfänger wird diese Rechnung dann wiederholt. Wenn die Rechnung stimmt, wissen wir, dass die Daten korrekt sind. Wenn nicht, können wir entweder um die Daten bitten, dass sie nochmal geschickt werden, oder wir versuchen, die Daten mit speziellen Methoden zu reparieren.
+
+Im Text wird auch darauf hingewiesen, dass es unterschiedliche Wege gibt, mit Fehlern umzugehen, je nachdem, wie wichtig die Daten sind. Bei bestimmten Übertragungen, wie zum Beispiel bei Video- oder Telefonanrufen, können kleine Fehler manchmal ignoriert werden, weil die Geschwindigkeit wichtiger ist. Bei wichtigen Daten, wie zum Beispiel bei Banküberweisungen, müssen wir aber sicherstellen, dass alles richtig ist.
+
+Zusammengefasst: Wenn wir Daten senden, fügen wir eine Art Sicherheitsinformation hinzu, um Fehler zu entdecken. Der zyklische Redundanz-Check (CRC) ist ein Beispiel dafür, wie wir diese Sicherheit erreichen können. Wenn etwas nicht stimmt, wissen wir, dass wir die Daten überprüfen oder erneut senden müssen.

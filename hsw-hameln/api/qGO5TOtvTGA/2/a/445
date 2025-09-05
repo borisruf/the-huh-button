@@ -1,0 +1,3 @@
+Wenn dein Computer mit einem anderen Computer in einem anderen Netzwerk sprechen möchte, kann er das nicht direkt tun. Er muss wissen, dass der andere Computer nicht in seinem eigenen Netzwerk ist. Dazu schaut er sich die IP-Adresse und eine spezielle Zahl an, die zeigt, zu welchem Netzwerk er gehört.
+
+Wenn der Computer feststellt, dass der andere Computer nicht in seinem Netzwerk ist, schickt er die Daten nicht direkt zu ihm. Stattdessen gibt er die Daten einem "Helfer" – das nennt man "Default Gateway". Dieser Helfer ist ein Router, der die Daten weiterleiten kann, damit sie ihr Ziel erreichen. Das funktioniert in einem VLAN (einem virtuellen Netzwerk) genau wie in einem normalen Netzwerk (LAN).

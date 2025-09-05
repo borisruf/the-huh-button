@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes: 
+
+Ein Router hat sehr präzise Informationen über das gesamte Netzwerk, das aus vielen Routern besteht. Diese Informationen beziehen sich nicht nur auf die Router, die ihm direkt verbunden sind, sondern auch auf solche, die weit weg sind. Anders als bei anderen Methoden werden hier keine einfachen Listen von Routen (Routing-Tabellen) ausgetauscht. Stattdessen gibt es spezielle Nachrichten, die "Link-State-Advertisements" heißen. Diese Nachrichten helfen den Routern, besser zu verstehen, wie das gesamte Netzwerk aufgebaut ist und welche Wege genutzt werden können.
+
+In einfacher Sprache: Ein Router kennt nicht nur seine Nachbarn, sondern auch viele andere Router im Netzwerk. Er benutzt besondere Nachrichten, um mit anderen Routern zu kommunizieren und herauszufinden, wie die beste Verbindung im Netzwerk ist.

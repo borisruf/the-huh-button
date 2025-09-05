@@ -1,0 +1,7 @@
+In einfacher Sprache:
+
+Es geht hier um das Ethernet, eine Technologie, die hilft, Computer miteinander zu verbinden. Am Anfang hatte man ein langes Kabel, an das alle Geräte angeschlossen waren. Man nannte das Kabel "Yellow Cable". Alle Computer konnten damit Daten senden, aber sie mussten sich den Platz am Kabel teilen. Das führte oft zu Problemen, weil manchmal mehrere Computer gleichzeitig senden wollten. Dann gab es "Kollisionen", was bedeutete, dass die Daten durcheinander kamen.
+
+Heute ist das anders. Statt eines langen Kabels hat man Switches. Diese Geräte sorgen dafür, dass jedes Gerät eine eigene Verbindung hat. Das ist wie wenn man jedem Computer eine eigene Telefonleitung gibt, damit sie gleichzeitig ohne Störungen sprechen können.
+
+Wenn wir von "X Megabit pro Sekunde" sprechen, meinen wir, wie schnell Daten gesendet werden können. In der modernen Technik verwendet man spezielle Kabel wie "Twisted Pair" oder "LWL" (Lichtwellenleiter), um diese hohen Geschwindigkeiten zu erreichen. Das ist der aktuelle Standard, den man heute in der Praxis verwendet.

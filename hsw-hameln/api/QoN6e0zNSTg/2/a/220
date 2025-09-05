@@ -1,0 +1,3 @@
+Wenn zwei Geräte in einem Netzwerk gleichzeitig versuchen, Informationen zu senden und sie sich dabei gegenseitig stören, entsteht eine Kollision. Wenn das passiert, erkennt das Netzwerk dieses Problem und stoppt die Übertragung. Um sicherzustellen, dass alle wissen, dass es ein Problem gibt, wird ein großes Signal, das "GEM-Signal" genannt wird, gesendet. 
+
+Dieses GEM-Signal ist viel stärker als das normale Signal, das die Geräte senden wollten. Es dient dazu, allen im Netzwerk zu zeigen, dass etwas nicht stimmt, damit sie wissen, dass sie warten müssen, bevor sie es erneut versuchen. So sorgt das Netzwerk dafür, dass alles wieder funktioniert und niemand durcheinander kommt.

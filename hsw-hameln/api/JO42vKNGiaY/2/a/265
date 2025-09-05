@@ -1,0 +1,3 @@
+In einfachen Worten sagt die Aussage, dass die neuen IP-Adressen in Version 6 (IPv6) anders aufgebaut sind als die alten in Version 4 (IPv4). Bei IPv4 hatten wir eine einfache Art, die Adressen in kleine Gruppen, die Subnetze heißen, aufzuteilen. Jetzt gibt es bei IPv6 stattdessen etwas, das "Präfix" genannt wird. 
+
+Das Präfix zeigt an, zu welchem Netzwerk eine IP-Adresse gehört. Es ist eine neue Methode, um die Adressen zu organisieren, weil die alten Methoden nicht mehr genug Adressen liefern konnten. Das bedeutet, dass wir jetzt eine bessere Übersicht und mehr Platz für neue Adressen haben.

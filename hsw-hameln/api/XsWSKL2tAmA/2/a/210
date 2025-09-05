@@ -1,1 +1,7 @@
-Diese Aussage geht um eine spezielle Art von Internet-Adresse, die man eine Klasse B-Adresse nennt. Diese B-Adresse teilt sich in zwei Teile auf: den Netz-Anteil und den Host-Anteil. Dies ist wie bei einer Telefonnummer, wo es Vorwahlen und Rufnummern gibt. Die Maske hilft zu bestimmen, welcher Teil der Adresse für was genutzt wird. In diesem Fall hat die Maske 16 leere Stellen. Um zu wissen, wie viele unterschiedliche Adressen wir mit dieser 16er-Maske kreieren können, nehmen wir die Zahl 2 und multiplizieren sie so oft mit sich selbst, wie es leere Stellen gibt, also 16 Mal. Das Ergebnis ist über 65.000, was bedeutet, dass wir so viele verschiedene Adressen erstellen können.
+Die Aussage bedeutet Folgendes:
+
+Um herauszufinden, wie viele Computer (Hosts) in einem Netzwerk mit einer bestimmten IP-Adresse arbeiten können, schauen wir uns die Subnetzmaske an. In der Subnetzmaske gibt es verschiedene "Nullen". Jede Null steht für eine mögliche Adresse für einen Computer. 
+
+Wenn wir zum Beispiel 16 Nullen haben, dann können wir berechnen, wie viele Adressen es gibt, indem wir "2 hoch 16" rechnen. Das bedeutet, dass wir 2 mit sich selbst 16 Mal multiplizieren. Diese Rechnung zeigt uns, wie viele verschiedene Kombinationen von Nullen und Einsen wir haben können, was uns die Anzahl der möglichen Computeradressen im Netzwerk gibt.
+
+Das Ergebnis dieser Rechnung ist etwa 65. Das heißt, in diesem Netzwerk können mehr als 65 Computer eine eigene Adresse haben.

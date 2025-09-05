@@ -1,0 +1,3 @@
+In sehr einfacher Sprache bedeutet die Aussage: 
+
+Wir sprechen darüber, wie wir unsere Daten sicher halten können. Wenn wir ein Netzwerk in verschiedene Bereiche aufteilen (das nennt man Segmentierung), können wir sicherstellen, dass bestimmte Arten von Informationen (Protokolle) nur in einem bestimmten Bereich (VLAN) erlaubt sind. Das hilft uns, die Sicherheit zu verbessern, weil wir kontrollieren können, was wo passieren darf. So können wir verhindern, dass gefährliche Dinge in Bereiche gelangen, die sicher bleiben sollen.

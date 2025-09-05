@@ -1,0 +1,8 @@
+In einfacher Sprache bedeutet die Aussage Folgendes:
+
+Wenn wir uns die Adresse eines Netzwerks anschauen, bemerken wir, dass es in einem bestimmten Bereich (der Host-Range) von 32 Adressen ist. Das bedeutet, dass von diesen 32 Adressen zwei nicht verwendet werden können. Eine Adresse ist die Netzwerk-ID (die sagt, zu welchem Netzwerk die Adressen gehören) und die andere Adresse ist die Broadcast-ID (die benutzt wird, um eine Nachricht an alle Geräte im Netzwerk zu senden). Daher können wir nur 30 Adressen für echte Geräte verwenden, also für Hosts, die im Netzwerk aktiv sind.
+
+Zusammengefasst: 
+- 32 Adressen insgesamt
+- 2 Adressen sind nicht nutzbar
+- Daher bleiben 30 Adressen, die wir für Geräte im Netzwerk nutzen können.

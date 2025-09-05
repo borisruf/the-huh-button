@@ -1,0 +1,9 @@
+NAT (Network Address Translation) und PAT (Port Address Translation) sind Methoden, die helfen, private IP-Adressen, die in einem lokalen Netzwerk (wie zu Hause oder in einem Büro) verwendet werden, ins Internet zu bringen. Hier ist eine einfache Erklärung, was dabei passiert:
+
+1. **Private IP-Adressen**: In deinem Heimnetzwerk hat jeder Computer oder dein Handy eine private IP-Adresse. Diese Adressen sind nur innerhalb deines Netzwerks gültig und können nicht direkt im Internet verwendet werden.
+
+2. **NAT (Network Address Translation)**: Wenn du mit deinem Computer ins Internet gehst, übersetzt ein Gerät (normalerweise dein Router) die private IP-Adresse in eine öffentliche IP-Adresse. Diese öffentliche IP-Adresse ist die, die das Internet sieht. So kann dein Netzwerk mehrere Geräte haben, die alle dieselbe öffentliche IP-Adresse verwenden, während sie unterschiedliche private IP-Adressen im Netzwerk haben.
+
+3. **PAT (Port Address Translation)**: PAT geht einen Schritt weiter. Es hilft dabei, verschiedene Geräte, die die gleiche öffentliche IP-Adresse verwenden, zu unterscheiden, indem es auch die Ports der Geräte verwendet. Ein Port ist wie eine spezielle Tür, durch die Daten geschickt und empfangen werden. Wenn zum Beispiel zwei Computer in deinem Netzwerk gleichzeitig ins Internet wollen, sorgt PAT dafür, dass der Router weiß, welcher Datenverkehr zu welchem Computer gehört.
+
+Zusammengefasst: NAT macht private IP-Adressen brauchbar für das Internet, indem es sie in eine öffentliche IP-Adresse übersetzt. PAT hilft dabei, mehrere Geräte mit derselben öffentlichen IP-Adresse zu verwalten, sodass der Router den Datenverkehr richtig zuordnen kann.

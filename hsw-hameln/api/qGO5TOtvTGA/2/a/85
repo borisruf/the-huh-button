@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es zwei Arten gibt, wie man den Weg für Daten in einem Netzwerk festlegen kann. 
+
+1. **Statische Routen:** Hier entscheidet ein Mensch (der Administrator), wie die Daten von einem Ort zum anderen geschickt werden. Das ist wie eine festgelegte Route auf einer Landkarte. Diese Informationen ändert man nicht oft.
+
+2. **Dynamische Routen:** Hier benutzen die Router spezielle Programme, die sich selbst entscheiden können, welcher Weg für die Daten am besten ist. Diese Programme heißen Routing-Protokolle. Sie helfen den Routern, ständig aktuelle Informationen darüber zu haben, wie die Daten am schnellsten und besten an ihr Ziel kommen.
+
+Außerdem wird gesagt, dass diese dynamischen Routingsysteme auf einer bestimmten Ebene des OSI-Modells (eine Art Struktur, wie Netzwerke funktionieren) arbeiten, und zwar auf der dritten Ebene.

@@ -1,0 +1,9 @@
+Die Aussage bedeutet: 
+
+Die Menge der Daten, die ein Sender auf einmal schicken kann, ist nicht fest. Sie kann sich während der Kommunikation ändern. Es ist wichtig, dass der Sender und der Empfänger miteinander reden, um diese Menge anzupassen. Dabei hilft ein Verfahren, das "Sliding-Window" genannt wird.
+
+Hier ist die Idee einfach erklärt:
+
+Stell dir vor, ein Sender schickt Pakete an einen Empfänger, aber der Empfänger kann nicht so schnell alle Pakete annehmen. Damit der Sender nicht zu viele Pakete auf einmal schickt und den Empfänger überfordert, müssen sie sich einigen, wie viele Pakete der Sender gleichzeitig senden darf. Diese Zahl kann sich während der Kommunikation ändern, je nachdem, wie schnell der Empfänger ist. 
+
+Das Sliding-Window erlaubt es also, dass der Sender und der Empfänger gemeinsam entscheiden, wie viele Daten sie gleichzeitig verschicken und empfangen, damit alles gut läuft.

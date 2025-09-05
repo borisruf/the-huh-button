@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes in einfacher Sprache:
+
+Wir teilen ein großes Netzwerk in viele kleine Teile auf, die wir Subnetze nennen. Wenn wir das tun, gibt es weniger Computer (Hosts), die wir in jedem dieser kleinen Netzwerke anschließen können. Also, wir machen viele kleine Netzwerke aus einem großen Netzwerk.
+
+Das hat einige Gründe. Zum Beispiel sind die IP-Adressen, die wir benutzen, irgendwann knapp geworden. Früher dachten viele, dass sie viele Adressen brauchen, also bekamen sie große Teile von Adressen, die jetzt zu viel sind. Um das Problem zu lösen, teilen wir die großen Teile in kleinere Teile auf, sodass wir besser mit unseren Adressen umgehen können. 
+
+Zusammengefasst: Wenn wir Subnetze bilden, machen wir kleine Netzwerke und haben weniger Computer, die wir in einem solchen kleinen Netzwerk anschließen können.

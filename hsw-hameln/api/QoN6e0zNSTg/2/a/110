@@ -1,0 +1,7 @@
+Um diese Aussage einfach zu erklären: 
+
+Wenn wir Daten in ein Netzwerk senden wollen, brauchen wir spezielle Regeln und Formate, um die Daten richtig zu verpacken. Das nennt man "Kodierungen" und "Frame-Bildungen". Diese Regeln helfen uns, die Daten so vorzubereiten, dass sie über das Netzwerk geschickt werden können.
+
+Außerdem müssen wir sicherstellen, dass alle Teilnehmer im Netzwerk fair und gerecht auf das gemeinsame Medium, also den Datenübertragungskanal, zugreifen können. Das bedeutet, dass jeder die Möglichkeit haben soll, seine Daten zu senden, ohne dass jemand unfair bevorzugt wird. 
+
+Um das alles zu erreichen, arbeiten die verschiedenen Teile des Netzwerks zusammen, damit die Daten richtig und gerecht gesendet werden können.

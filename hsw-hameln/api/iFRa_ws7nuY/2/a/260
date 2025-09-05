@@ -1,0 +1,5 @@
+Die Aussage besagt, dass beim Übertragen von Signalen, der Anteil an Gleichstrom (DC) möglichst niedrig sein sollte. Gleichstrom hat eine Art Widerstand, den man ohmsche Dämpfung nennt, die dazu führt, dass das Signal schwächer wird, wenn es durch Kabel oder andere Materialien geschickt wird.
+
+Aber das ist nicht alles. Es gibt auch einen anderen Effekt, den man frequenzabhängige Dämpfung nennt. Das bedeutet, dass das Signal nicht nur schwächer wird, sondern je nach Frequenz (also wie schnell die Welle schwingt) unterschiedlich stark gedämpft werden kann. Diese Art von Dämpfung kann man sich wie einen zusätzlichen Widerstand vorstellen, der sich nur in bestimmten Situationen zeigt.
+
+Insgesamt ist es wichtig, dass man diese beiden Dämpfungen im Blick hat, wenn man Signale überträgt, damit man die Informationen richtig und klar halten kann.

@@ -1,0 +1,11 @@
+Die Aussage beschreibt ein älteres Netzwerk-System namens Ethernet. Hier ist die Erklärung in sehr einfacher Sprache:
+
+Früher hatten viele Computer ein dickes gelbes Kabel, das sie miteinander verband. Dieses Kabel war sehr wichtig, weil alle Computer darüber kommunizierten. Um die Computer mit dem Kabel zu verbinden, benutzte man kleine Geräte, die "Transceiver" heißen. 
+
+Die Technik, die dort benutzt wurde, nannte man "10Base5". Das bedeutet:
+
+- "10" steht für die Geschwindigkeit: 10 Megabit pro Sekunde. Das ist eine Maßeinheit dafür, wie schnell die Daten übertragen werden.
+- "Base" bedeutet, dass das Kabel direkt für die Übertragung von Daten verwendet wurde, ohne andere Signale.
+- "5" zeigt, dass man mit diesem Kabel bis zu 500 Meter (also ein ganzes Stück weit) arbeiten konnte, bevor man ein neues Kabel brauchte.
+
+Zusammengefasst: Viele Computer hingen an einem dicken gelben Kabel und konnten darüber miteinander sprechen.

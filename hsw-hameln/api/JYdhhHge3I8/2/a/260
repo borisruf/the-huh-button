@@ -1,0 +1,7 @@
+Okay! Ich erkläre die Aussage einfach:
+
+Hier geht es darum, wie Daten über Netzwerke weitergeschickt werden. Zuerst ist das Wichtigste, wenn wir von "asynchron" sprechen. Das bedeutet, dass Daten nicht gleichzeitig an verschiedenen Orten ankommen müssen. Jeder kann seine Daten speichern und später senden, wann es gerade passt.
+
+Wenn wir jetzt über die Paketvermittlung sprechen, wird es anders. Dabei werden die Daten in kleine Teile, sogenannte Pakete, zerlegt. Diese Pakete können dann zur gleichen Zeit auf verschiedenen Wegen geschickt werden. Das nennt man "synchron" oder im "Parallelbetrieb". Das heißt, während einige Pakete schon unterwegs sind, können andere Pakete gleichzeitig auch schon gesendet werden. 
+
+Zusammengefasst: Bei der asynchronen Übertragung kann jeder machen, was er will, und bei der Paketvermittlung werden die Daten in kleinen Paketen schneller und gleichzeitig verschickt.

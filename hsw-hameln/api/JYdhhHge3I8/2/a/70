@@ -1,0 +1,5 @@
+In dieser Aussage geht es darum, dass es verschiedene Wege gibt, um Daten in Netzwerken zu schicken. Man kann sich das wie eine Art Postsystem vorstellen. Es gibt nicht nur einen Weg, um die Post (also die Daten) von einem Ort zum anderen zu bringen, sondern viele verschiedene Wege und Systeme, die das erledigen können.
+
+Wenn Daten in ein Netzwerk kommen, landen sie an bestimmten Punkten (wie Eingangsports). Diese Daten müssen dann durch ein "Schaltzentrum" (wie einen Switch oder Router) geschickt werden. Dieses Schaltzentrum entscheidet, wo die Daten als Nächstes hingehen, also über welche Ausgangsports sie wieder rauskommen.
+
+Die Aussage erklärt, dass es verschiedene Methoden gibt, wie diese Entscheidungen getroffen werden, und dass nicht alles auf die gleiche Weise funktioniert. Es gibt also nicht nur ein einziges Verfahren, um Daten zu senden, sondern viele unterschiedliche Möglichkeiten.

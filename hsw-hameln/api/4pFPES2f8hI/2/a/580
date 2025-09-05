@@ -1,0 +1,11 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn wir ein großes Netzwerk in kleinere Teile, also Subnetze, aufteilen, dann gibt es einige wichtige Dinge zu beachten. 
+
+1. **Schrittweite**: In unserem Beispiel haben wir eine Schrittweite von 32. Das bedeutet, dass jedes kleine Subnetz 32 mögliche Adressen hat.
+
+2. **Adressierbare Hosts**: Von diesen 32 Adressen können wir jedoch nur 30 verwenden. Warum? Weil zwei Adressen reserviert sind: Eine Adresse wird für das Netzwerk selbst (Netz-ID) und eine für Broadcast-Nachrichten (Broadcast-ID) gebraucht. Diese beiden darf man nicht für Geräte in dem Netz nutzen.
+
+3. **Subnetzmaske**: Wenn wir die Standard-Subnetzmaske ändern, wird es schwieriger, auf den ersten Blick zu erkennen, in welchem Subnetz ein Computer mit einer bestimmten IP-Adresse ist. Das müssen wir berücksichtigen, wenn wir die IP-Adressen und Subnetze planen.
+
+In einfachen Worten: Wir teilen ein großes Netzwerk in kleine Teile auf, und bei jedem kleinen Teil gibt es weniger Adressen, die wir wirklich nutzen können. Außerdem, wenn wir die Art und Weise ändern, wie wir die Subnetze benennen oder organisieren, wird es etwas schwieriger, den Überblick zu behalten, in welchem kleinen Teil sich ein bestimmter Computer befindet.

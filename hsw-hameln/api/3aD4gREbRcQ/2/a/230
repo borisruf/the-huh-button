@@ -1,0 +1,5 @@
+In der sieben Schichten des OSI-Modells ist die siebte Schicht die Anwendungsschicht. Das bedeutet, das ist die Schicht, wo die Nutzer, also wir Menschen, direkt mit dem Computer und seinen Programmen arbeiten. 
+
+Stell dir vor, du sitzt vor deinem Computer und schreibst eine E-Mail. Das Mailprogramm, das du öffnest, ist die direkte Verbindung zwischen dir und dem Computer. Du tippst deine Nachricht ein und klickst auf "Senden". Das ist, was in dieser Schicht passiert: Du verwendest ein Programm, um mit anderen Menschen zu kommunizieren. 
+
+Die Daten, also deine E-Mail, werden durch dieses Programm an den Computer geschickt. Hier wird also alles vorbereitet, was du brauchst, um Nachrichten zu schreiben und zu empfangen.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir eine spezielle Art von Code benutzen können, die sicherstellt, dass die empfangenen Informationen wieder genau so sind wie die ursprünglichen. Das heißt, wenn die Informationen durch Fehler verändert wurden, kann der Empfänger sie wieder richtig machen.
+
+Aber um das zu tun, braucht es viel Rechenleistung und komplizierte Berechnungen. Das ist nötig, weil der Empfänger sicherstellen muss, dass alles stimmt und es keine Fehler gibt. Wenn viele Daten korrekt wiederhergestellt werden müssen, wird es ganz schön aufwändig.
+
+In einfachen Worten: Wenn Informationen über das Internet geschickt werden, können Fehler passieren. Wir können Codes nutzen, um diese Fehler zu korrigieren, aber das kostet viel Zeit und Rechenarbeit.

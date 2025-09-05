@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, wie Geräte in einem Netzwerk miteinander kommunizieren. Man teilt das Netzwerk in Schichten auf, das nennt man das OSI-Modell. 
+
+1. **Schicht 1**: Hier sind einfache Geräte wie Repeater und Hubs. Diese Geräte sind „dumm“, weil sie nur Signale weiterleiten. Sie nehmen ein Signal auf, verändern es ein wenig und schicken es wieder weiter. Sie helfen, das Signal über eine längere Strecke zu senden, aber sie verstehen nicht, was das Signal bedeutet.
+
+2. **Schicht 2**: Hier kommen smartere Geräte, wie Switches und Bridges. Diese sind klüger als die Geräte auf Schicht 1, weil sie Informationen verwenden, um Entscheidungen zu treffen. Sie nutzen etwas, das MAC-Adresse heißt, um die Signale gezielt an die richtigen Empfänger weiterzuleiten. Das macht das Netzwerk effizienter, weil sie nicht einfach alles weiterleiten, sondern genau wissen, wohin das Signal gehen soll.
+
+Zusammengefasst: Schicht 1 ist für einfache Signalübertragung da, während Schicht 2 klügere Entscheidungen trifft, um Netzwerke besser zu verbinden.

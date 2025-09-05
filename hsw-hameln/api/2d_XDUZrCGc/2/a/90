@@ -1,0 +1,7 @@
+Die Aussage sagt, dass wir bei IP-Adressen bestimmte Regeln haben, um sie in Gruppen einzuteilen. 
+
+Wenn wir uns die ersten drei Zahlen einer IP-Adresse anschauen (die man Oktette nennt), gibt es einen speziellen Teil, der uns sagt, zu welcher Gruppe die Adresse gehört. 
+
+Wenn die ersten drei Bits (das sind kleine Teile in der Computer-Sprache) im ersten Oktett so aussehen: 1, 1, 0, dann gehört diese Adresse zur Gruppe C. In dieser Gruppe können die Zahlen im ersten Teil der Adresse zwischen 192 und 223 liegen. 
+
+Es gibt auch andere Gruppen, aber für unser Verständnis sind die ersten drei Gruppen – A, B und C – die wichtigsten.

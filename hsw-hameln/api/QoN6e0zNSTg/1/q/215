@@ -1,0 +1,1 @@
+ Also letztlich nochmal das Ganze etwas anders dargestellt, sobald also eine Kollision entdeckt wurde, Sie sehen das hier, wird die Übertragung abgebrochen, es wird ein GEM-Signal gesendet.

@@ -1,0 +1,5 @@
+Die Aussage erklärt, wie wir verschiedene Netzwerke miteinander verbinden. Es gibt einfache Geräte, die nur Signale weitergeben, und es gibt intelligentere Geräte, die entscheiden können, wo diese Signale hingehen. 
+
+Stell dir vor, ein einfaches Gerät wie ein Repeater oder Hub ist wie ein Wasserrohr, das Wasser von einem Ort zum anderen leitet, ohne zu wissen, wo es hinfließt. Es macht die Verbindung länger, aber es sorgt auch dafür, dass manchmal viele Wasserstrahlen gleichzeitig durch das Rohr fließen, was zu Stau führen kann.
+
+Jetzt gibt es etwas klügere Geräte, die Switches oder Bridges heißen. Diese Geräte können „sehen“, wohin das Wasser (die Informationen) geschickt werden soll – das nennt man die MAC-Adresse. Wenn sie mehrere Röhren (Netzwerkteile) verbinden, können sie besser entscheiden, wo das Wasser hinfließen soll, sodass es nicht staut. Sie helfen also, die Informationen schneller und effizienter zu verschicken, indem sie genau wissen, wohin sie gehen sollen.

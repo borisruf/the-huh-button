@@ -1,0 +1,1 @@
+ Und das wird einfach dadurch erzeugt, dass wenn die tatsächlich im Datenteil vorhanden sind, wir sehen das hier auf der Senderseite beispielsweise, sind gleich bei dem zweiten Byte ist genau exakt das End of Text-Zeichen, nämlich 0, 6 mal die 1 und 0.  Das ist jetzt unter diesem Protokoll die Vereinbarung, dass das das End of Text-Zeichen ist.

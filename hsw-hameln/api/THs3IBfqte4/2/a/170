@@ -1,0 +1,7 @@
+In sehr einfacher Sprache:
+
+Wenn wir Informationen überbrücken, nutzen wir verschiedene Methoden, damit die Daten richtig ankommen. Eine dieser Methoden heißt „Phasenmodulation“. 
+
+Stell dir vor, wir haben eine Art Welle, die wir benutzen, um unsere Daten zu senden. Bei dieser Methode ändern wir die Phase der Welle, also wie sie sich dreht. Wenn wir ein „0“ senden wollen, lassen wir die Welle um 180 Grad drehen. Wenn wir ein „1“ senden wollen, lassen wir die Welle einfach so wie sie ist oder drehen sie nicht.
+
+Das bedeutet, dass wir durch diese Drehungen (Phasenwechsel) erkennen können, ob wir eine „1“ oder eine „0“ schicken. Es ist eine Art von Code, den wir nutzen, um unsere Nachrichten über das Signal zu senden.

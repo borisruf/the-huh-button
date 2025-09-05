@@ -1,0 +1,19 @@
+In dem Text wird darüber gesprochen, wie man Fehler bei der Übertragung von Daten erkennen und manchmal auch korrigieren kann. 
+
+1. **Fehler erkennen**: Wenn zum Beispiel bei einer Datenübertragung etwas schiefgeht, kann das dazu führen, dass die Daten falsch sind. Es gibt bestimmte Verfahren, um das zu merken, wie zum Beispiel Prüfzahlen. Diese Prüfzahlen helfen zu überprüfen, ob die Daten, die gesendet wurden, auch richtig angekommen sind.
+
+2. **Unterschiedliche Fehlerarten**: Es gibt zwei Arten von Fehlern: 
+   - Manchmal verändern sich die Daten, aber die Länge bleibt gleich (das nennt man Datenverfälschung).
+   - Manchmal gehen die Daten komplett verloren, und das merkt man gar nicht.
+
+3. **Wichtigkeit je nach Art der Daten**: Bei wichtigen Daten, wie zum Beispiel Geldtransfers, ist es sehr wichtig, dass alles richtig ist. Ein kleiner Fehler kann große Probleme verursachen. Bei weniger wichtigen Sachen, wie Videos oder Sprachübertragungen, kann man manchmal kleine Fehler einfach ignorieren, weil es wichtiger ist, dass alles schnell geht.
+
+4. **Fehlerbehebung**: Wenn ein Fehler erkannt wird, gibt es zwei Möglichkeiten:
+   - Eine Methode versucht, die Daten automatisch zu reparieren. Das ist kompliziert.
+   - Eine andere Methode fragt einfach nach: "Bitte schick mir die Daten noch einmal."
+
+5. **Zusatzinformationen**: Damit Fehler erkannt werden können, werden den Daten zusätzliche Informationen hinzugefügt. Zum Beispiel eine Prüfziffer.
+
+6. **CRC-Verfahren**: Das “zyklische Redundanz-Check” (CRC) ist ein Beispiel für so ein Verfahren. Dabei wird eine Prüfziffer berechnet und zusammen mit den Daten gesendet. Wenn die Daten ankommen, kann man die Prüfziffer wieder berechnen und schauen, ob alles in Ordnung ist.
+
+Am Ende wird angedeutet, dass es weitere Beispiele gibt, um das besser zu verstehen.

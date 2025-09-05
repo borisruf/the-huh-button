@@ -1,0 +1,11 @@
+Wir werden gleich sehen, wie die Paketvermittlung funktioniert. Es gibt drei wichtige Arten, wie wir Daten zwischen verschiedenen Geräten weiterleiten können. 
+
+Im ersten Teil haben wir gelernt, dass wir Daten über unsere Verbindungsmöglichkeiten, die wir haben, senden können. Jetzt schauen wir, wie die Daten durch verschiedene Geräte wie Switches oder Router weitergegeben werden. Diese Geräte haben verschiedene Eingänge und Ausgänge. Wenn die Daten ankommen, sorgen diese Geräte dafür, dass die Daten richtig an den Empfänger weitergeleitet werden.
+
+Es gibt verschiedene Methoden, um die Daten zu vermitteln. Eine Methode ist die "Leitungsvermittlung", die man früher kannte, wo man eine direkte Verbindung für Gespräche hergestellt hat – sozusagen eine direkte Leitung. 
+
+Die zweite Methode ist die "Speichervermittlung". Hierbei werden Daten in Paketen wie Briefe gespeichert und von einem Ort zum anderen gesendet, ohne dass sie gleichzeitig übertragen werden müssen.
+
+Die dritte Methode, die für uns wichtig ist, nennt man „Paketvermittlung“. Bei dieser Methode werden die Daten in kleine Pakete aufgeteilt, die dann verschiedene Wege nehmen können, um ihr Ziel zu erreichen.
+
+Wir werden diese drei Vermittlungsarten jetzt noch genauer betrachten und in ein Schaubild einordnen, damit es klarer wird.

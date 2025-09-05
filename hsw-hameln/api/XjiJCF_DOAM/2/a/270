@@ -1,0 +1,7 @@
+In diesem Text geht es um IP-Adressen, die man braucht, damit Geräte im Internet miteinander kommunizieren können. Jedes Gerät, wie ein Computer, Smartphone oder Drucker, hat eine eigene IP-Adresse, damit man es eindeutig erkennen kann. Manchmal hat ein Gerät sogar mehrere IP-Adressen, zum Beispiel, wenn es sowohl über Kabel als auch über WLAN verbunden ist.
+
+Das Internet-Protokoll (IP) ist wichtig fürs „Routing“. Das bedeutet, es hilft, Informationen von einem Gerät zu einem anderen zu schicken. Es gibt verschiedene Formen von IP, wie die alte Version 4 (IPv4) und die neue Version 6 (IPv6). Die neue Version bietet mehr Adressen, weil immer mehr Geräte ins Internet gehen und wir nicht genug IP-Adressen haben.
+
+Eine wichtige Funktion im Internet ist das DNS-Protokoll. Das hilft, die IP-Adressen in einfache Namen zu verwandeln, damit wir uns die Adressen leichter merken können. Beim Surfen im Internet geben wir oft Namen ein, wie „google.com“, und das DNS-Protokoll wandelt diesen Namen in die passende IP-Adresse um, damit wir die Website erreichen können. 
+
+Am Ende wird gesagt, dass es später in einem eigenen Kapitel noch mehr Details dazu geben wird.

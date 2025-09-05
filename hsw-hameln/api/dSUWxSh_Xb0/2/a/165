@@ -1,0 +1,7 @@
+Multiplexing ist ein Verfahren, um mehrere Daten gleichzeitig über einen einzelnen Kanal zu schicken. Stell dir vor, du hast vier Freunde, die miteinander reden wollen, aber nur ein Telefon zur Verfügung steht. Multiplexing hilft, dass alle nacheinander oder sogar gleichzeitig sprechen können, ohne dass sie sich stören.
+
+In einem Netzwerk gibt es verschiedene Wege, wie Daten übermittelt werden können. Man kann Kabel benutzen, oder Lichtwellenleiter, die besonders schnell sind. Wenn Daten über Kabel geschickt werden, nutzt man oft Frequenzen, um sie von einander zu trennen. Das ist wie verschiedene Musikrichtungen, die alle gleichzeitig im Radio gespielt werden.
+
+Bei Lichtwellenleitern verwenden wir Wellenlängen, um die Daten zu unterscheiden. Das ist, als ob jeder Freund eine andere Farbe Licht benutzt, um zu kommunizieren.
+
+Wenn sich Daten durch die Luft bewegen, wie bei Funk, nutzt man Code-Multiplexing. Hierbei bekommen die Daten spezielle „Codes“, damit sie wissen, wann sie senden können. So können viele Gespräche gleichzeitig stattfinden, ohne dass sich jemand in die Quere kommt.

@@ -1,0 +1,11 @@
+Das Return-to-Zero-Verfahren und das Non-Return-to-Zero-Verfahren sind Methoden, um Informationen (Bits) in Signale umzuwandeln, die über Kabel gesendet werden können.
+
+1. **Return-to-Zero-Verfahren:** 
+   - Hier gibt es einen starken Ausschlag (ein Signal) für die Eins und dann kehrt das Signal auf einen neutralen Wert zurück, um eine Null darzustellen. 
+   - Das bedeutet: Wenn es eine Eins gibt, sieht man ein Signal, und wenn es eine Null gibt, geht das Signal nach unten und bleibt dort (im Grundzustand).
+
+2. **Non-Return-to-Zero-Verfahren:** 
+   - Bei diesem Verfahren gibt es auch ein Signal für die Eins, aber für die Null gibt es nicht einfach einen ruhigen Zustand. Stattdessen bleibt das Signal bei einem niedrigen, aber nicht ganz ruhigen Wert, um die Null darzustellen. 
+   - Das heißt, wir sehen einen Unterschied zwischen dem hohen Signal für die Eins und einem niedrigen Signal für die Null.
+
+Zusammengefasst: Im Return-to-Zero geht das Signal komplett zurück in den Grundzustand für eine Null. Im Non-Return-to-Zero bleibt es bei einem niedrigen Niveau, um eine Null darzustellen.

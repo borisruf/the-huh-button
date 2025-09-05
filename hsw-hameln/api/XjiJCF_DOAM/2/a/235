@@ -1,0 +1,10 @@
+Okay, lass uns das einfach erklären:
+
+IP-Adressen sind wie Adressen für Geräte im Internet. Jedes Gerät, wie ein Computer oder ein Handy, hat eine eigene IP-Adresse, damit es im Netz gefunden werden kann. Wenn man von IP-Version 4 spricht, hat jede Adresse 32 Bits und sieht aus wie 4 Zahlen, die durch Punkte getrennt sind (zum Beispiel 172.16.14.193). Jede dieser Zahlen besteht aus 8 Bits.
+
+Aber wenn wir zu IP-Version 6 wechseln, wird die Adresse viel länger und sieht anders aus. In dieser neuen Version hat jede Adresse 128 Bits, was viel mehr Platz für Adressen bedeutet. Das ist wichtig, weil immer mehr Geräte eine IP-Adresse brauchen. 
+
+Kurz gesagt: 
+- IP-Adressen helfen, Geräte im Internet zu finden.
+- IP-Version 4 hat 32 Bits (4 Zahlen).
+- IP-Version 6 hat 128 Bits – das ist mehr Platz für viele neue Adressen.

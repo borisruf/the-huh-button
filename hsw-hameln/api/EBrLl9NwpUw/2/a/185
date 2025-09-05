@@ -1,3 +1,9 @@
-In unserem Netzwerk haben wir viele Schaltkästen (sogenannte Switches), um sicherzustellen, dass auch bei einem Fehler alles weiterläuft. Diese Switches sind mehrfach miteinander verbunden. Das Problem ist, dass diese vielen Verbindungen zu Schleifen führen können. Stell dir vor, ein Paket (Information) weiß nicht, wo es hin soll, es wird dann immer im Kreis geschickt. Das kann unser Netzwerk überlasten.
+In einem Netzwerk benutzen wir viele Switches, um sicherzustellen, dass alles gut funktioniert und auch wenn ein Teil kaputt geht, das Netzwerk weiterarbeiten kann. Manchmal können diese Switches miteinander verbunden sein, und das kann ein Problem verursachen, das wir Schleifen nennen. 
 
-Deshalb haben wir ein System namens Spanning-Tree, das hilft, diese Schleifen zu vermeiden. Es blockiert erstmal alle Verbindungen. Dann werden spezielle Informationen (BPDUs) zwischen den Switches ausgetauscht, um eine Haupt-Switch (Root-Bridge) zu wählen. Dieser Prozess findet unter den Switches selbst statt. Sobald die Haupt-Switch gewählt ist, wird der normale Datenverkehr wieder aufgenommen, und die blockierten Verbindungen werden wieder geöffnet.
+Wenn in unserem Netzwerk eine Schleife entsteht, können die Pakete, die Informationen transportieren, immer wieder zwischen den Switches hin- und hergeschickt werden, ohne dass sie ankommen. Das führt dazu, dass das Netzwerk überflutet wird, weil die Switches nicht wissen, wo die Pakete hin sollen. Das nennt man einen "Broadcast-Storm" – das Netzwerk wird unbrauchbar, weil es so viel Verkehr gibt.
+
+Um dieses Problem zu lösen, gibt es das Spanning-Tree-Protokoll. Das Protokoll hilft den Switches zu entscheiden, welche Verbindungen sie benutzen sollten und welche sie blockieren müssen. So verhindern sie, dass Schleifen entstehen.
+
+Wenn wir das Spanning-Tree-Protokoll aktivieren, werden alle normalen Datenübertragungen zwischen den Switches vorübergehend gestoppt. Stattdessen tauschen die Switches nur noch Informationen über das Spanning-Tree-Protokoll aus. Diese speziellen Informationen heißen BPDUs, also Bridge-Protokoll-Data-Units. 
+
+Die Switches arbeiten also zusammen, um einen guten Weg für die Daten zu wählen und verhindern, dass es zu diesen Schleifen kommt. Sobald die Switches sich entschieden haben, wird der normale Datenverkehr wiederhergestellt und alles funktioniert wieder gut.

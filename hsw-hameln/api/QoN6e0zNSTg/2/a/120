@@ -1,0 +1,7 @@
+Um diese Aussage einfach zu erklären: 
+
+Wenn wir Daten über ein Netzwerk senden wollen, müssen wir zuerst sicherstellen, dass alles richtig kodiert und in die richtige Form gebracht wird. Das nennt man „Kodierung“ und „Frame-Bildung“. Diese Schritte sind wichtig, damit die Daten auf das Netzwerk, also das „Medium“, geschickt werden können.
+
+Außerdem müssen wir Regeln haben, damit alle Geräte im Netzwerk fair auf dieses Medium zugreifen können. Das bedeutet, dass jedes Gerät die gleiche Chance haben sollte, seine Daten zu senden, ohne dass es zu lange dauert. 
+
+Die Regeln dafür, wie die Geräte auf das Netzwerk zugreifen, nennt man „Medienzugriffssteuerung“. Diese Regeln müssen gut mit der Art und Weise zusammenpassen, wie wir die Daten kodieren und in Frames verpacken, damit alles reibungslos funktioniert.

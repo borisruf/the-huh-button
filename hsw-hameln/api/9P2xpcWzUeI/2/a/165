@@ -1,0 +1,12 @@
+In dieser Erklärung reden wir über Computer-Netzwerke, besonders über eine Sache, die VLANs genannt wird. 
+
+Stell dir ein großes Gebäude vor, mit mehreren Stockwerken – Erdgeschoss, erster und zweiter Stock. Jedes Stockwerk hat sein eigenes Netzwerk, das durch spezielle Geräte, die Switches heißen, verbunden wird. Normalerweise nur ein Stockwerk pro Netzwerk ist eine feste Regel, das heißt, man kann das nicht einfach ändern.
+
+Jetzt kommt VLAN ins Spiel. Mit VLANs kann man die Netzwerke flexibler gestalten. Man kann die Computer im Gebäude so verbinden, dass sie nicht nur nach Stockwerken, sondern auch nach Bedürfnissen gruppiert werden. Das ist nützlich, weil es nicht immer passt, dass Menschen, die zusammenarbeiten, auch im selben Stockwerk sind.
+
+Es gibt zwei Möglichkeiten, VLANs zu erstellen:
+1. **Statische Einrichtung**: Ein Netzwerktechniker geht zu jedem Switch-Port (wo die Computer angeschlossen sind) und sagt, zu welchem VLAN es gehört. Das kann fehleranfällig sein, weil der Techniker sicherstellen muss, dass der richtige Computer am richtigen Port angeschlossen ist. Wenn man einen anderen Computer anschließt, könnte das Problem geben.
+  
+2. **Dynamische Einrichtung**: Hier benutzt man die MAC-Adresse des Computers, also eine spezielle Zahl, die jedem Computer gehört. Es gibt eine zentrale Steuerstation, die weiß, wo jeder Computer hingehört. Wenn man einen Computer anschließt, schaut die Steuerstation nach, welches VLAN für ihn passend ist.
+
+Um zu verstehen, wie diese VLAN-Informationen über das Netzwerk übertragen werden, schauen wir auf das OSI-Modell, das ist ein wichtiger Rahmen, um zu erklären, wie Netzwerke funktionieren. Insbesondere gucken wir auf Schicht 2, wo die Informationen, die nötig sind, um die Computer in VLANs zu erkennen, zum normalen Datenpaket hinzugefügt werden.

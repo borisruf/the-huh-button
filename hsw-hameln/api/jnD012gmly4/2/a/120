@@ -1,0 +1,9 @@
+Okay, ich erkläre das in einfacher Sprache:
+
+Wenn wir Daten (also Informationen) von einem Ort zu einem anderen schicken, müssen wir sie in "Pakete" verpacken. Diese Pakete nennt man "Frames". Damit die Sender und Empfänger wissen, was genau in diesen Frames ist, müssen wir ein paar zusätzliche Infos dazu packen. 
+
+Das zusätzliche Zeug, das wir dazu packen, nennt man den Kopf (Header) und den Fuß (Footer) des Frames. Der Kopf ist vor den Daten und enthält wichtige Informationen, zum Beispiel wie lang das ganze Paket ist. Der Fuß kommt nach den Daten.
+
+Um sicherzustellen, dass alles richtig funktioniert, arbeiten wir in verschiedenen Schichten, die in einem Modell namens ISO-OSI gegliedert sind. Jede Schicht fügt ihrer eigenen Information etwas Neues hinzu, damit die Daten richtig und ohne Fehler übertragen werden können. 
+
+So gesehen wird die ursprüngliche Information vom "Nutzdaten" in einen Rahmen gesetzt, der sicherstellt, dass sie korrekt ankommt und Fehler erkannt werden können.

@@ -1,0 +1,7 @@
+Die Aussage bedeutet einfach gesagt:
+
+Wenn wir Daten schicken, packen wir sie nicht einfach so in ein Paket. Vor und nach den Daten fügen wir zusätzliche Informationen hinzu. Diese zusätzlichen Informationen nennen wir Kopfteil (am Anfang) und Nachspann (am Ende). Zusammen nennt man das Rahmenbildung.
+
+Diese zusätzlichen Infos helfen uns, die Daten richtig von einem Ort zum anderen zu schicken. Sie sorgen auch dafür, dass wir Fehler erkennen können, falls etwas nicht richtig ankommt. Man kann sich das wie einen Brief vorstellen: Der Brief ist der Inhalt, aber der Umschlag ist wichtig, um sicherzustellen, dass der Brief an die richtige Adresse kommt. 
+
+Das ganze Verfahren folgt bestimmten Regeln, die in einem speziellen Modell, dem ISO-OSI-Modell, beschrieben sind.

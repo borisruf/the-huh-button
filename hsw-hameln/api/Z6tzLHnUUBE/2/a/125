@@ -1,0 +1,14 @@
+Die Aussage bedeutet Folgendes:
+
+Im Internet gibt es Datenpakete, die wir Datagramme nennen. Diese Datagramme müssen durch das Netzwerk geschickt werden, damit sie von einem Computer zu einem anderen kommen. Es gibt spezielle Regeln und Programme, die helfen, den besten Weg für diese Datagramme zu finden. Diese Regeln nennt man Routing-Protokolle, und sie arbeiten auf der dritten Ebene eines Modells, das wir OSI-Modell nennen.
+
+Ein wichtiger Teil dieser Arbeit ist die IP-Adresse, die jedem Computer im Netzwerk eine eindeutige Kennung gibt. Dadurch wissen die Computer, wo sie die Daten hinschicken sollen.
+
+Manchmal sind die Datenpakete zu groß, um sie auf einmal zu senden. In solchen Fällen werden sie in kleinere Teile zerlegt – das nennt man Fragmentierung. Wenn die Teile ihr Ziel erreichen, werden sie wieder zusammengesetzt – das nennt man Defragmentierung.
+
+Zusammengefasst: 
+- IP hilft, die Datenpakete zu adressieren und den besten Weg zu finden.
+- IP sorgt dafür, dass große Datenpakete in kleinere zerlegt und dann wieder zusammengesetzt werden. 
+- All das geschieht, damit die Daten zuverlässig von einem Computer zu einem anderen gelangen. 
+
+Wir werden später noch mehr Details darüber erfahren, wie genau das funktioniert.

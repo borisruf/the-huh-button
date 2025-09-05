@@ -1,0 +1,9 @@
+Stell dir vor, wir haben ein großes Gebäude mit drei Stockwerken. In jedem Stockwerk gibt es ein eigenes Netzwerk. Normalerweise ist es so, dass nur die Computer im gleichen Stockwerk miteinander reden können.
+
+Aber was ist, wenn die Computer im ersten Stock mit den Computern im zweiten Stock sprechen wollen? Das wäre so, als ob wir zwei verschiedene kleine Netzwerke miteinander verbinden möchten. 
+
+Um das zu ermöglichen, brauchen wir etwas, das auf einer höheren Ebene arbeitet – wir nennen das "Schicht-3". Diese Schicht hilft den Computern, die in verschiedenen Netzwerken oder Stockwerken sind, miteinander zu kommunizieren. 
+
+Bei VLANs (also virtuellen Netzwerken) ist es ähnlich. Man kann virtuelle Netzwerke über die Stockwerke hinweg erstellen, sodass die Computer in verschiedenen Stockwerken miteinander sprechen können, wenn wir diese Schicht-3-Hilfe haben. 
+
+Wenn zwei Computer aus verschiedenen VLANs miteinander reden möchten, brauchen wir also wieder dieses Schicht-3-Element, damit die Kommunikation funktioniert.

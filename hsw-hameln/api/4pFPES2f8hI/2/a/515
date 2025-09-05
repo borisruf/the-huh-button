@@ -1,0 +1,11 @@
+Okay, lass uns das in ganz einfachen Worten erklären:
+
+Stell dir vor, du hast eine große Kiste voller Spielzeuge (das sind deine IP-Adressen). Diese Kiste ist viel zu groß für das, was du wirklich brauchst. Du möchtest die Spielzeuge besser organisieren, also teilst du die große Kiste in mehrere kleinere Kisten auf (das sind die Subnetze).
+
+Jede kleine Kiste kann nur eine bestimmte Anzahl von Spielzeugen halten. Um zu wissen, wie viele Spielzeuge in eine kleine Kiste passen, musst du bestimmte Regeln befolgen. In deinem Beispiel hast du gesagt, dass du einige Spielzeuge (Nullen) aus dem großen Kistenlager entnommen und in einer kleinen Kiste mit anderen Spielzeugen (Einsen) verwandelt hast.
+
+Wenn du aus deiner großen Kiste drei Spielzeuge entnimmst (du hast drei Nullen in Einsen umgewandelt), bleiben dir fünf Spielzeuge (also fünf Nullen) für die kleinen Kisten übrig. Um herauszufinden, wie viele Spielzeuge in eine kleine Kiste passen, machst du eine Rechnung: 2 hoch 5. Das bedeutet, dass du mit diesen fünf übrig gebliebenen Nullen 32 verschiedene Spielzeuge (Adressen) in einer dieser kleinen Kisten unterbringen kannst.
+
+Aber, ganz wichtig, in jeder kleinen Kiste kannst du das erste und das letzte Spielzeug nicht nehmen. Das erste Spielzeug ist wie ein „Schilder“ für die Kiste, und das letzte Spielzeug ist wie ein „Abschlussschild“, das sagt, dass die Kiste voll ist. 
+
+Also, nachdem du an die Regeln gedacht hast, kannst du in jeder kleinen Kiste 30 Spielzeuge wirklich benutzen. Und so organisierst du deine große Kiste besser, indem du sie in kleinere Kisten (Subnetze) mit einer bestimmten Anzahl von Spielzeugen (Adressen) aufteilst.

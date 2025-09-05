@@ -1,0 +1,14 @@
+In dieser Erklärung geht es darum, wie Computer miteinander kommunizieren, besonders wenn sie Daten senden. Manchmal sendet der Computer, der die Daten schickt, schnell, aber der Computer, der die Daten empfängt, kann nicht so schnell arbeiten. Das wird als Problem bezeichnet, weil man sicherstellen muss, dass der Sender nicht zu viele Daten auf einmal schickt, die der Empfänger nicht verarbeiten kann.
+
+Um dieses Problem zu lösen, gibt es eine Methode, die "Flusssteuerung" heißt. Diese Methode hilft den beiden Computern zu vereinbaren, wie viele Daten sie gleichzeitig schicken können. Eine der Techniken, die dabei verwendet wird, nennt sich "Sliding-Window". 
+
+Hier ist eine einfache Erklärung:
+
+- **Sender und Empfänger**: Es gibt zwei Computer. Einer sendet Daten, der andere empfängt sie.
+- **Schnelligkeit**: Manchmal sendet der Computer schnell, aber der empfangende Computer kann nicht so schnell arbeiten.
+- **Gespräch**: Die beiden Computer müssen sich austauschen, um zu klären, wie viele Daten der Sender schicken kann, ohne dass der Empfänger überfordert wird.
+- **Fenster**: Dieses "Fenster" ist wie ein Raum, in dem eine bestimmte Anzahl von Datenpaketen gleichzeitig geschickte werden kann.
+- **Schieben**: Wenn der empfangende Computer bestätigt, dass er die Daten erhalten hat, kann der Sender wieder neue Daten schicken, ähnlich wie beim Schieben eines Fensters.
+- **Anpassung**: Wenn der empfangende Computer mehr oder weniger Daten verarbeiten kann, können die beiden Computer ihr "Fenster" anpassen.
+
+Kurz gesagt, durch ein ständiges Gespräch und das Anpassen der Menge der gesendeten Daten stellen die Computer sicher, dass sie effizient und ohne Probleme kommunizieren können.

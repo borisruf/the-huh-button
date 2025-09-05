@@ -1,0 +1,9 @@
+Es gibt verschiedene Arten von IP-Adressen, und sie werden in Klassen eingeteilt. Jede Klasse hat ihre eigenen Regeln, wie man sie nutzt. 
+
+Um das Problem zu lösen, dass es nicht genug IP-Adressen gibt, hat man private und öffentliche IP-Adressen eingeführt. 
+
+**Private IP-Adressen** sind wie geheime Adressen, die jeder in seinem eigenen Netzwerk verwenden kann. Zum Beispiel zu Hause oder im Büro. Man kann diese Adressen frei verwenden, ohne dass sie im Internet sichtbar sind. 
+
+**Öffentliche IP-Adressen** sind die Adressen, die man braucht, um im Internet gefunden zu werden. Diese Adressen müssen einzigartig sein, weil sie im gesamten Internet verwendet werden. 
+
+Das hat man gemacht, um sicherzustellen, dass nicht zu viele Adressen verschwendet werden. Wenn jeder private Adressen nutzen kann, hilft das, den Bedarf an öffentlichen Adressen zu verringern und sicherzustellen, dass es genug gibt, um im Internet zu verbinden.

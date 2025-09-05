@@ -1,0 +1,12 @@
+In dieser Erklärung geht es darum, wie Funknetzwerke, wie WLAN und Bluetooth, funktionieren und wie man sie sicher machen kann.
+
+1. **Funknetzwerke**: Das sind Netzwerke, die ohne Kabel arbeiten, damit Geräte wie Handys oder Computer miteinander verbunden werden können. Man kann verschiedene Arten von Funknetzwerken unterscheiden, je nachdem, wie weit sie reichen:
+   - **Bluetooth**: Für ganz kurze Distanzen, etwa 10 Meter. Gut für Dinge wie kabellose Kopfhörer.
+   - **WLAN**: Für größere Distanzen, etwa in einem Gebäude. Hier gibt es verschiedene Standards, die die Geschwindigkeit bestimmen, also wie schnell Daten übertragen werden können.
+   - **Mobilfunknetze**: Für noch größere Entfernungen, wie beim Telefonieren im Auto.
+
+2. **WLAN-Geschwindigkeit**: WLAN hat sich im Laufe der Jahre verbessert. Es kann jetzt sehr schnell sein, bis zu 600 Megabit pro Sekunde. Aber bei WLAN gibt es auch technische Herausforderungen, zum Beispiel Störungen, wenn viele Geräte gleichzeitig verbunden sind.
+
+3. **Sicherheit**: Ein wichtiges Thema bei Funknetzwerken ist der Datenschutz, also wie man persönliche Daten schützt, wenn man das Netzwerk nutzt. Der aktuelle Standard dafür heißt WPA2. Das ist eine Methode, um die Informationen, die über das WLAN gesendet werden, zu verschlüsseln. So kann niemand einfach mitlesen, was man im Internet macht.
+
+4. **Fazit**: Wenn man ein Funknetzwerk plant, muss man sowohl die Technik als auch die Sicherheit im Blick haben. Man muss darauf achten, dass alles gut funktioniert und dass die Daten der Nutzer sicher sind.

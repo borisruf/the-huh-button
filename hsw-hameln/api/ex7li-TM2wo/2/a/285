@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes: Wenn wir Daten über das Internet senden und diese auf der anderen Seite ankommen, überprüfen wir, ob alles richtig ist. Um das zu machen, verwenden wir eine Art rechnen, die wir "Prüfzahlen" oder "Prüfsummen" nennen. 
+
+Wenn beim Überprüfen der empfangenen Daten ein Rest übrig bleibt, bedeutet das, dass bei der Übertragung ein Fehler passiert ist. Das ist sicher. 
+
+Wenn es keinen Rest gibt, kann es sein, dass alles in Ordnung ist, aber es könnte auch ein Fehler aufgetreten sein, den wir nicht entdecken können. Das bedeutet, dass wir nicht 100 % sicher sein können, dass alles richtig ist, wenn kein Rest bleibt - es kann trotzdem ein Problem gegeben haben, das wir übersehen haben.
+
+Zusammengefasst: Ein Rest beim Überprüfen bedeutet immer einen Fehler. Kein Rest ist besser, aber nicht unbedingt perfekt.

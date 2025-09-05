@@ -1,1 +1,9 @@
-Die IP-Adresse und Subnetzmaske arbeiten zusammen, um einen Teil der IP-Adresse als Netzwerkanteil und einen anderen Teil als Hostanteil zu definieren. Sie tun dies durch ein System von 1 und 0 in der Subnetzmaske. Die 1en in der Subnetzmaske zeigen den Netzwerkanteil der IP-Adresse, und die 0en zeigen den Hostanteil. Im Beispiel des Klasse-B-Netzes, die ersten beiden Abschnitte der IP-Adresse und Subnetzmaske sind mit 1en gefüllt. Das bedeutet, dass diese beiden Abschnitte den Netzwerkanteil der IP-Adresse darstellen. Die letzten beiden Abschnitte sind mit 0en gefüllt, was bedeutet, dass diese den Hostanteil der IP-Adresse darstellen. Zusammen helfen die IP-Adresse und Subnetzmaske dabei, zu bestimmen, welche Teile des Netzwerks zu welchen Gruppen gehören.
+Die Aussage erklärt, wie man eine IP-Adresse und die dazugehörige Subnetzmaske vergleicht. Hier ist das in einfacher Sprache:
+
+Stell dir vor, wir haben eine IP-Adresse, die aus vier Teilen besteht, zum Beispiel 172.16.14.193. Dazu gehört auch eine Subnetzmaske, die wir ebenfalls in vier Teilen schreiben, zum Beispiel 255.255.0.0. 
+
+Bei der Subnetzmaske sehen wir, dass die ersten beiden Teile (also die ersten 8 Bits in jedem der ersten beiden Teile) mit 255 gefüllt sind. Das bedeutet, diese Bits sind alle auf 1. Die letzten beiden Teile sind 0, das bedeutet, alle diese Bits sind auf 0.
+
+Jetzt schauen wir uns die IP-Adresse an. Bei der IP-Adresse sind die Bits unterschiedlich. Aber wenn wir die IP-Adresse und die Subnetzmaske untereinander aufschreiben, können wir vergleichen, wo die Teile zusammenpassen.
+
+Dieser Vergleich hilft uns zu verstehen, wie viele Geräte in einem Netzwerk sind und wie das Netzwerk organisiert ist. Mit der Subnetzmaske wissen wir, welcher Teil der IP-Adresse das Netzwerk bezeichnet und welcher Teil für die einzelnen Geräte (Hosts) genutzt wird.

@@ -1,0 +1,3 @@
+In einfachen Worten bedeutet die Aussage, dass wir vorhin in einer Grafik gesehen haben, dass der TCP-Header, also der Teil der Information, der für das TCP-Protokoll wichtig ist, 20 Byte groß ist. In diesem Header sind viele wichtige Informationen enthalten, die helfen, sicherzustellen, dass die Daten richtig und in der richtigen Reihenfolge ankommen. Bei TCP gibt es also mehr Informationen, um die Übertragung genau zu steuern.
+
+Im Vergleich dazu hat UDP weniger Informationen und ist einfacher. Das bedeutet, dass es schneller Daten senden kann, aber nicht garantieren kann, dass alle Daten ankommen oder in der richtigen Reihenfolge sind.

@@ -1,0 +1,5 @@
+Stell dir vor, du und ein Freund spielt ein Spiel, bei dem du ihm nur einen Ball nach dem anderen zuwerfen kannst. Wenn du einen Ball wirfst, musst du warten, bis er dir sagt, dass er den Ball gefangen hat, bevor du den nächsten wirfst. Das dauert lange, und du nutzt nicht die ganze Zeit, die ihr zusammen spielt.
+
+Jetzt stell dir vor, du könntest mehrere Bälle gleichzeitig in den Fluss werfen, ohne auf die Rückmeldung deines Freundes zu warten, solange er dir sagt, wie viele Bälle er gleichzeitig fangen kann. Das ist wie das "Sliding Window" (das bewegliche Fenster). Es bedeutet, dass ihr euch darauf einigt, wie viele Bälle (Daten) du gleichzeitig werfen (senden) darfst, bevor du eine Bestätigung (Acknowledge) bekommen musst.
+
+So könnt ihr beide viel besser spielen, ohne Zeit zu verlieren, und der Fluss zwischen euch wird immer gut genutzt!

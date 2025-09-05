@@ -1,0 +1,5 @@
+In einfachen Worten bedeutet die Aussage, dass wir Netzwerke verbinden können. Das sind wie verschiedene Räume oder Bereiche in einem Gebäude. Manchmal sind diese Bereiche echte Räume, die wir sehen können, und manchmal sind sie virtuelle Räume, die wir nicht direkt sehen, aber sie existieren in Computern.
+
+Stell dir ein Gebäude mit drei Stockwerken vor: Erdgeschoss, erster Stock und zweiter Stock. In jedem Stockwerk gibt es ein eigenes Netzwerk, das miteinander verbunden ist, aber klar voneinander getrennt bleibt. Das ist, was man VLANs nennt – es sind virtuelle Netzwerke, die so funktionieren, als wären sie in verschiedenen Stockwerken. 
+
+Also, wir können Netzwerke innerhalb eines Stockwerks haben und sie auch mit anderen Stockwerken oder Netzwerken verbinden. Das hilft dabei, alles organisiert zu halten.

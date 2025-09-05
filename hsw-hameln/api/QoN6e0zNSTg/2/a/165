@@ -1,0 +1,11 @@
+Die Aussage spricht darüber, wie Computer oder Geräte in einem Netzwerk miteinander kommunizieren können, ohne sich gegenseitig zu stören. 
+
+1. **CS (Carrier Sense)**: Das bedeutet, dass die Geräte zuerst "lauschen", also prüfen, ob der Weg für die Datenübertragung frei ist. Stell dir vor, du willst mit jemandem sprechen, aber du hörst zuerst nach, ob die andere Person gerade redet.
+
+2. **Sicheres Zugreifen**: Geräte 1 und 3 hören beide, dass der Weg frei ist. Wenn sie das hören, dürfen sie gleichzeitig anfangen, ihre Informationen zu senden. Es ist wie wenn zwei Freunde gleichzeitig mit dir reden, weil sie sich sicher sind, dass du gerade alleine bist.
+
+3. **Das Problem**: Wenn beide gleichzeitig senden, können sich die Daten aber überschneiden, was bedeutet, dass die Informationen durcheinandergehen. In diesem Fall müssen die Geräte eine Regel finden, um das zu vermeiden. 
+
+4. **Fairness und Zuverlässigkeit**: Das Netzwerk sorgt dafür, dass alle Geräte fair behandelt werden und jeder die Chance hat, seine Daten zu schicken, ohne dass es zu Problemen kommt.
+
+Zusammengefasst: Vor dem Senden von Daten lauschen die Geräte, um sicherzustellen, dass niemand anderes gerade sendet. Wenn der Weg frei ist, senden sie gleichzeitig, aber sie müssen aufpassen, dass sie sich nicht stören!

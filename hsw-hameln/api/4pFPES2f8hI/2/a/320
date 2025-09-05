@@ -1,0 +1,9 @@
+In sehr einfacher Sprache:
+
+Wenn wir über Netzwerke sprechen, benutzen wir eine spezielle Zahl, die nennt sich Subnetzmaske. Das hilft uns, die Netzwerke in kleinere Gruppen zu teilen. 
+
+In unserem Beispiel haben wir die Subnetzmaske so verändert, dass wir jetzt 27 Bits haben. Ursprünglich hatten wir viele Nullen, die für die Geräte (Hosts) in unserem Netzwerk stehen. Jetzt haben wir drei dieser Nullen genommen und sie in Einsen umgewandelt. Das bedeutet, dass wir mehr davon in den Teil der Maske gesteckt haben, der für das Netzwerk ist.
+
+Warum ist das wichtig? Jedes Mal, wenn wir eine Null in eine Eins umwandeln, schaffen wir Platz für neue kleine Netzwerke. In unserem Fall, da wir drei Einsen haben, können wir 2 hoch 3 rechnen. Das bedeutet, dass wir jetzt 8 kleinere Netzwerke erstellen können. 
+
+Zusammengefasst: Wir teilen ein großes Netzwerk in 8 kleinere Netzwerke auf, indem wir Nullen in Einsen umwandeln.

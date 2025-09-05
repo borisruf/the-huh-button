@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir uns anschauen, welche Dienste und Anwendungen UDP nutzen. UDP ist eine Art von Protokoll, das es ermöglicht, Daten sehr schnell zu senden. Dabei ist es uns nicht so wichtig, dass jede einzelne Dateninformation ankommt. 
+
+Im Vergleich dazu kümmert sich ein anderes Protokoll, TCP, mehr darum, dass alle Daten sicher ankommen, aber das dauert länger. Bei UDP wollen wir schneller sein, auch wenn das bedeutet, dass manchmal ein bisschen Information verloren geht. 
+
+Das ist nützlich in bestimmten Fällen, und jetzt schauen wir uns an, wo UDP verwendet wird, um diese schnelle Datenübertragung zu erreichen.

@@ -1,0 +1,7 @@
+Die Aussage erklärt, wie man die Geschwindigkeit von digitalen Signalen beschreibt. Man benutzt dafür zwei Begriffe: "Baud" und "Bit pro Sekunde".
+
+- **Baud**: Das ist eine Einheit, die sagt, wie oft sich das Signal pro Sekunde ändert oder einen neuen Zustand annimmt. Zum Beispiel, wenn sich das Signal einmal pro Sekunde ändert, sagen wir, es hat eine Baudrate von 1 Baud.
+
+- **Bit pro Sekunde**: Das ist eine andere Einheit, die beschreibt, wie viele Informationen (in Bits) pro Sekunde übertragen werden. Wenn wir von Übertragungsgeschwindigkeit reden, denken wir meistens daran, wie viele Bits wir in einer Sekunde senden können.
+
+Zusammengefasst: Baud hilft uns zu verstehen, wie schnell das Signal selbst wechselt, während Bit pro Sekunde zeigt, wie viele Informationen wir tatsächlich damit übertragen.

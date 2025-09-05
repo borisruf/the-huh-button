@@ -1,0 +1,13 @@
+Okay! Lass uns das einfacher erklären.
+
+Wenn man mit einem Computer ins Internet geht, braucht man eine Adresse, die IP-Adresse. Diese IP-Adresse hilft, den Computer im Internet zu finden, ähnlich wie eine Wohnung mit einer Adresse. 
+
+Es gibt verschiedene Arten von IP-Adressen, die in Klassen eingeteilt werden. Es gibt Klasse A, B und C. Diese Klassen helfen uns, die Adressen besser zu organisieren. Zum Beispiel haben große Firmen, wie IBM, viele Adressen, die sie nicht alle benutzen. Das ist nicht gut, denn es gibt nicht genug Adressen für alle Computer auf der Welt.
+
+Es gibt auch private und öffentliche IP-Adressen. Private Adressen kann man zu Hause oder in kleinen Firmen verwenden. Die sind wie unoffizielle Adressen, die nicht im Internet sichtbar sind. Öffentliche Adressen dagegen sind für das Internet. Jeder Computer kann diese sehen.
+
+Um von einem privaten Netzwerk ins Internet zu kommen, benutzen wir etwas, das NAT heißt. Dieses NAT hilft, dass viele Computer unter einer einzigen öffentlichen Adresse ins Internet gehen können. Es ist so wie wenn viele Leute in einer großen Wohnung leben, aber die Post nur an die Adresse der gesamten Wohnung geschickt wird.
+
+In einem Programm wie Wireshark, das zeigt, was im Netzwerk passiert, können wir sehen, wie Computer miteinander reden. Wenn ein Computer aus einem privaten Netzwerk etwas ins Internet sendet, hat er einen speziellen „Quellport“ (eine Art „Tür“) für die Kommunikation. Dieser Port hat eine Nummer, die über 30.000 ist, und hilft, dass alles richtig funktioniert und die Daten an den richtigen Ort kommen.
+
+Zusammengefasst: IP-Adressen helfen, Computer im Internet zu finden. Es gibt verschiedene Arten von Adressen, und NAT sorgt dafür, dass viele Computer im Internet über eine einzige Adresse kommunizieren können. Wireshark hilft uns, das alles zu sehen.

@@ -1,7 +1,11 @@
-Wenn wir über Computer reden, dann haben diese eine spezielle Adresse, damit sie sich im Internet finden können. Diese Adresse nennt man IP-Adresse. Eine IP-Adresse besteht aus vier Zahlen, die durch Punkte getrennt sind, zum Beispiel 172.16.14.193. Diese vier Zahlen kann man nochmal in Bits unterteilen und stellen den Ort des Computers im Netzwerk dar.
+In diesem Text geht es um IP-Adressen und Subnetzmasken. Eine IP-Adresse ist wie eine Adresse für einen Computer im Internet, damit er Informationen senden und empfangen kann. 
 
-Damit ein Computer weiß, wo er selbst und andere Computer im Netzwerk sind, gibt es noch eine zusätzliche Information. Das ist die sogenannte Subnetzmaske. Die Subnetzmaske ist auch eine Art Adresse und besteht ebenfalls aus vier Zahlen, die durch Punkte getrennt sind. Je nachdem, welche Zahlen in der Subnetzmaske stehen, weiß der Computer, ob er mit anderen Computern im gleichen Netzwerk ist oder ob er mit Computern in einem anderen Netzwerk sprechen will.
+Eine typische IP-Adresse hat vier Teile, die man "Oktette" nennt. Diese Teile helfen zu bestimmen, wo die IP-Adresse im Netzwerk ist und welchem Gerät sie zugeordnet ist.
 
-Zum Beispiel, wenn die Subnetzmaske 255.0.0.0 ist, dann sagt dies dem Computer, dass alle Computer, die die gleiche erste Zahl in ihrer IP-Adresse haben, im gleichen Netzwerk sind. Diese Art von Subnetzmaske wird in Netzwerken verwendet, die viele Computer haben.
+Die Subnetzmaske ist wichtig, weil sie erklärt, welcher Teil der IP-Adresse zum Netzwerk gehört (Netzanteil) und welcher Teil zu einem bestimmten Gerät (Host-Anteil). 
 
-Anders gesagt, die IP-Adresse ist wie die Hausnummer und die Straße, auf der du wohnst, und die Subnetzmaske ist wie der Stadtteil, in dem du wohnst. Beides zusammen ermöglicht es den Computern, sich in dem großen "Internet-Stadtplan" zurechtzufinden.
+Die Subnetzmasken haben auch vier Teile. Ein Beispiel für eine Subnetzmaske wäre "255.255.255.0". Die Zahlen 255 heißen, dass die ersten Teile der IP-Adresse zum Netzwerk gehören.
+
+Wenn wir eine IP-Adresse ins Binärformat umwandeln (eine Art von Sprache für Computer), können wir besser verstehen, wie die verschiedenen Teile der Adresse funktionieren. 
+
+Zusammengefasst: IP-Adressen helfen Computern, sich zu finden, und Subnetzmasken zeigen, welcher Teil der Adresse das Netzwerk und welcher Teil das einzelne Gerät ist.

@@ -1,0 +1,9 @@
+In diesem Text geht es darum, wie Computer in einem Netzwerk miteinander kommunizieren, besonders beim Ethernet. Die Aussagen beschreiben, wie Datenpakete, die aus vielen Informationen bestehen, organisiert und gesendet werden.
+
+Die Aussage, die du erklärt haben möchtest, bedeutet Folgendes:
+
+Oben in den Datenpaketen gibt es festgelegte Bereiche, wo bestimmte Informationen stehen. Diese Bereiche sind immer gleich und sind wichtig, damit die Computer wissen, welche Informationen sie senden oder empfangen. 
+
+In einem späteren Teil der Übung werden wir uns anschauen, wie diese Datenpakete genau aussehen und wie sie zusammengesetzt sind.
+
+Zusammengefasst: Es gibt bestimmte Regeln, die festlegen, wie die Daten in Netzwerken organisiert sind, und wir werden bald lernen, wie das genau funktioniert.

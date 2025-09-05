@@ -1,0 +1,9 @@
+Stell dir vor, es gibt einen Sender und einen Empfänger. Der Sender kann sehr schnell Nachrichten schicken, aber der Empfänger schafft es nicht, diese so schnell zu empfangen. Um das Problem zu lösen, müssen sie sich absprechen, wie viele Nachrichten der Sender auf einmal senden darf, bevor er auf eine Bestätigung warten muss. 
+
+Das nennt man Flusssteuerung. Es ist wichtig, damit der Sender nicht zu viele Nachrichten auf einmal schickt und der Empfänger nicht überfordert wird.
+
+Jetzt gibt es eine Regel, die besagt, dass die Sendergröße (also wie viele Nachrichten er gleichzeitig senden darf) manchmal geändert werden kann. Wenn der Empfänger zum Beispiel sagt, „Ich kann nur zwei Nachrichten auf einmal verarbeiten“, muss sich der Sender daran anpassen.
+
+In der Aussage wird erwähnt, dass der Sender vielleicht noch nicht ganz verstanden hat, dass er jetzt nur zwei Nachrichten auf einmal geschickt werden soll. Deshalb könnte er trotzdem noch Nachrichten 3, 4 und 5 schicken, weil er denkt, dass er das so machen kann.
+
+Zusammengefasst: Der Sender muss lernen, langsamer zu senden, wenn der Empfänger ein Problem hat. Wenn er das nicht sofort versteht, könnte er trotzdem noch zu viele Nachrichten versenden.

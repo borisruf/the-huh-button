@@ -1,0 +1,5 @@
+In dieser Aussage geht es um eine Methode, wie man Signale für die Übertragung kodieren kann. Bei der Phasenmodulation verändert man die Phase eines Signals, also den Punkt, an dem das Signal startet. 
+
+Stell dir vor, das Signal ist wie eine Welle, die auf und ab geht. Wenn wir ein "0" senden wollen, ändern wir die Welle um 180 Grad, sodass sie umgekehrt wird. Ein "1" bleibt so, wie es ist. 
+
+Durch diese Änderungen der Phase können wir also unsere Daten gut darstellen: eine bestimmte Phase bedeutet ein „1“, und eine andere Phase (wie die Veränderung um 180 Grad) bedeutet ein „0“. So können Informationen sicher und klar übermittelt werden.

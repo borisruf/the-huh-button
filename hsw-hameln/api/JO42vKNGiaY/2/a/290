@@ -1,0 +1,5 @@
+Die Aussage geht darum, wie IP Version 6 (IPv6) Adressen aufgebaut sind. Eine IPv6-Adresse hat hinten eine Zahl, hier „Slash64“, die angibt, wie viele Stellen für das Netzwerk benutzt werden. In diesem Fall sind das die ersten 64 Stellen der Adresse. 
+
+Diese 64 Stellen sind also wichtig, weil sie zeigen, zu welchem Netzwerk die Adresse gehört. Auch wenn wir nicht wirklich von Subnetzen sprechen, benutzen wir diese Technik, um sicherzustellen, dass die Adresse zu einem bestimmten Netzwerk passt.
+
+Zusammenfassend: Die Zahl „64“ nach dem Slash zeigt an, wie viele Stellen in der Adresse für das Netzwerk verwendet werden. Die ersten 64 Stellen sind wichtig für die Zuordnung der Adresse zu einem Netzwerk.

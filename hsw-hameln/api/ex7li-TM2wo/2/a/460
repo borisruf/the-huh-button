@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass manchmal nicht nur die Daten, die wir senden, verloren gehen können, sondern auch die Bestätigung, dass die Daten angekommen sind, also die Quittierung. Das kann dazu führen, dass der Sender nicht weiß, ob die Daten wirklich angekommen sind oder nicht.
+
+Um sich gegen solche Probleme zu schützen, kann man verschiedene Methoden nutzen. Zum Beispiel könnte man mehrere Bestätigungen schicken oder ein System einbauen, das sicherstellt, dass sowohl die Daten als auch die Bestätigung korrekt übermittelt werden. Man könnte auch bestimmte Protokolle oder Techniken verwenden, die verhindern, dass die Bestätigung verloren geht. So hat man immer einen sicheren Weg, um zu wissen, dass die Daten erfolgreich angekommen sind.

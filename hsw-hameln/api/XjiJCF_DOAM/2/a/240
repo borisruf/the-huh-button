@@ -1,0 +1,7 @@
+Es geht um IP-Adressen, die wichtige Adressen für Geräte im Internet sind. IP-Adressen helfen, dass Geräte wie Computer, Smartphones oder Drucker miteinander kommunizieren können. 
+
+Eine IP-Adresse in Version 4 hat 32 Bits, die in vier Teile unterteilt sind. Jeder Teil hat 8 Bits, und die Teile werden durch Punkte getrennt, wie in der Adresse 172.16.14.193. Damit es einfacher ist, merken wir uns die Teile als Zahlen.
+
+Die neuere Version, IP-Version 6, hat viel größere Adressen mit 128 Bits. Das bedeutet, dass es mehr Adressen für die vielen Geräte gibt, weil immer mehr Geräte ins Internet kommen. 
+
+Wenn wir die gleiche IP-Adresse in Version 6 anschauen, sieht sie ganz anders aus. Also, es gibt verschiedene Arten, IP-Adressen darzustellen, und das ist wichtig, um alle Geräte miteinander zu verbinden.

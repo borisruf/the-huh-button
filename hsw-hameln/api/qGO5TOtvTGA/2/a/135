@@ -1,0 +1,11 @@
+Okay, lass uns das einfach erklären!
+
+Wenn wir über Netzwerke reden, müssen die Daten, also die Informationen, die von einem Punkt zu einem anderen gesendet werden, ihren Weg finden. Dafür gibt es "Router". Router sind Geräte, die Daten von einem Ort zum anderen leiten.
+
+Jetzt gibt es eine spezielle Art von Software, die den Routern hilft, den besten Weg zu finden. Diese Software nennt man „Routing-Protokoll“. Ein Beispiel für ein Routing-Protokoll ist RIP.
+
+Manchmal sind die Wege, die man für die Daten festlegen möchte, von jemandem manuell und ganz genau festgelegt. Das nennt man "statisch". Stellen dir vor, das wäre wie eine Karte, die immer gleich bleibt.
+
+Andere Male kann die Software selbst entscheiden, welcher Weg der beste ist. Das nennt man "dynamisch", und hier kommen die Routing-Protokolle ins Spiel. Wenn wir von RIP sprechen, reden wir genau über ein solches Protokoll, das den Routern hilft, die besten Wege zu finden, ohne dass jemand alles manuell festlegen muss.
+
+Ganz wichtig: Es gibt einen Unterschied zwischen dem „IP-Protokoll“, das die Daten über das Netzwerk schickt, und „Routing-Protokollen“ wie RIP, die den Routern sagen, wie sie die Daten leiten sollen. Es ist wichtig, diese Begriffe nicht zu vermischen!

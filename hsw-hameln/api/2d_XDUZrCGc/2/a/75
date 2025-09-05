@@ -1,0 +1,11 @@
+Okay, ich erkläre das einfach:
+
+IP-Adressen sind wie Adressen für Computer im Internet. Diese Adressen sind in Klassen unterteilt, damit wir sie besser verstehen können. 
+
+1. **Klasse A**: Wenn das erste Stück der Adresse (das nennt man Oktett) mit einer „0“ anfängt, gehört die Adresse zur Klasse A. In Zahlen heißt das, die ersten Zahlen können zwischen 0 und 127 sein.
+
+2. **Klasse B**: Wenn das erste Stück der Adresse mit „1 0“ anfängt, ist es Klasse B. Hier können die Zahlen zwischen 128 und 191 liegen.
+
+3. **Klasse C**: Wenn das erste Stück der Adresse mit „1 1 0“ anfängt, ist es Klasse C. In diesem Fall können die Zahlen zwischen 192 und 223 liegen.
+
+Das bedeutet also, dass man an der ersten Stelle einer IP-Adresse sehen kann, welche Klasse sie hat, wenn man die ersten Bits (das sind die kleinen Zahlen im Binärsystem) anschaut.

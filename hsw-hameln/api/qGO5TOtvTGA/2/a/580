@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes:
+
+Wir können festlegen, wie Daten von einem Ort zu einem anderen reisen sollen. Das nennt man "statische Routen". Ein Mensch muss dabei alles einstellen und die Informationen manuell eingeben.
+
+Es gibt auch "dynamische Routen". Hier arbeiten die Router (Geräte, die Daten weiterleiten) automatisch zusammen und tauschen Informationen aus. Das passiert durch spezielle Programme, die helfen, den besten Weg für die Daten zu finden. Wenn sich etwas im Netzwerk ändert, wie neue Verbindungen oder defekte Router, passen die Router die Wege von selbst an. 
+
+Das bedeutet, dass dynamische Routen flexibler und einfacher sind, weil sie sich automatisch anpassen können, ohne dass jemand alles neu einstellen muss.

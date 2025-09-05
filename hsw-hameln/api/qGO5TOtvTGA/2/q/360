@@ -1,0 +1,1 @@
+ Wenn wir uns das Ganze jetzt mal in der Praxis anschauen wollen, dann haben wir an dieser Stelle ein Netzwerk und wir kriegen dabei jetzt die Information, dass unser Paket irgendwie verloren gegangen ist.   Also TTL, Expired in Transit, unser Paket, unsere Time-to-Live des Paketes ist abgelaufen.

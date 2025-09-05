@@ -1,1 +1,7 @@
-Es geht darum, dass wir auf einem Computer gleichzeitig viele verschiedene Dinge machen können. Das ist so, als ob in einer großen Firma viele Leute gleichzeitig verschiedene Jobs erledigen. Jede Person braucht ihren eigenen Arbeitsplatz und ihre eigenen Werkzeuge, damit sie ihren Job gut machen kann. In einem Computer nennen wir diese Arbeitsplätze "Ports" und jedes Programm hat eine spezielle Nummer, damit der Computer weiß, welches Programm an welchem Port arbeitet. Das ist wichtig, damit der Computer alle Aufgaben richtig zuordnet und alles reibungslos funktioniert.
+Die Aussage bedeutet einfach:
+
+Wir haben viele verschiedene Prozesse oder Programme, die gleichzeitig auf einem Computer arbeiten. Damit sie nicht durcheinander kommen, brauchen wir einen Weg, um sie voneinander zu unterscheiden. 
+
+Das machen wir mit Portnummern. Jede Anwendung oder jeder Prozess bekommt eine eigene Nummer (Portnummer). Diese Nummer hilft dem Computer zu wissen, welches Programm welche Daten bekommt. So können sie koexistieren, also gleichzeitig existieren, ohne sich gegenseitig in die Quere zu kommen. 
+
+Zusammengefasst: Portnummern helfen, verschiedene Programme auf einem Computer zu organisieren, damit sie gleichzeitig arbeiten können, ohne Probleme zu verursachen.

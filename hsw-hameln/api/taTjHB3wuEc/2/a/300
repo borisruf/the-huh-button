@@ -1,0 +1,3 @@
+Die Aussage bedeutet Folgendes: Der Sender soll seine Daten Schritt für Schritt schicken und auf Bestätigungen vom Empfänger warten. Wenn der Empfänger sagt, dass er ein Problem hat und nicht so viele Daten auf einmal nehmen kann, muss der Sender weniger Daten gleichzeitig schicken. 
+
+In diesem Fall hat der Sender trotzdem die Daten 3, 4 und 5 geschickt, weil er dachte, das wäre in Ordnung. Aber die Nummer 5 hat der Empfänger wieder nicht bekommen. Das zeigt, dass der Sender nicht richtig auf die neue Regel, dass er weniger Daten schicken soll, geachtet hat.

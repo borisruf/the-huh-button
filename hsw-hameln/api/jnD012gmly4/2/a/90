@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir wichtige Informationen, die wir senden wollen (Nutzdaten), immer mit ein bisschen zusätzlicher Information versehen. Diese zusätzlichen Informationen helfen uns, die Nutzdaten richtig zu senden und sicherzustellen, dass sie auch ohne Fehler ankommen.
+
+Man kann sich das wie ein Geschenk vorstellen: Wenn du ein Geschenk in eine Geschenkverpackung steckst, bekommst du eine schöne Verpackung drumherum (das ist der Kopfteil und der Nachspann). Diese Verpackung hilft, das Geschenk zu schützen und sicherzustellen, dass derjenige, der das Geschenk bekommt, auch genau weiß, von wem es ist und dass es unversehrt ist.
+
+In der Technik nennt man diese Art der „Verpackung“ Rahmenbildung. Diese Rahmenbildung hilft, die Daten von einem Ort zum anderen zu schicken, und sorgt dafür, dass wir Fehler erkennen können, falls etwas schiefgeht. Es gibt also ganz bestimmte Regeln, wie wir diese Verpackung machen müssen, und diese Regeln sind in einer bekannten Norm (der ISO-OSI-Schicht) festgelegt.

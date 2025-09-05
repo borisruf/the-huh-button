@@ -1,0 +1,11 @@
+In dieser Aussage geht es darum, dass man die verschiedenen Teile eines Datenpakets, das über ein Netzwerk geschickt wird, selbst anschauen und analysieren kann. Man kann erkennen, welche Protokolle (Regeln, wie Daten gesendet werden), welche Adressen (wo die Daten hin und wo sie herkommen) und welche Informationen (die eigentlichen Daten) enthalten sind.
+
+Einfach gesagt: Wenn wir ein Paket ansehen, können wir herausfinden:
+1. **Welche Sprache (Protokoll)** es spricht.
+2. **Von wem** es kommt (Absenderadresse).
+3. **Wohin** es geht (Empfängeradresse).
+4. **Was drin ist** (Nutzdaten).
+
+Das ist wie wenn man einen Brief aufmacht und die Absenderadresse, die Empfängeradresse und den Inhalt liest. 
+
+Am Ende wird erklärt, dass wir das alles in einem größeren Zusammenhang betrachten und analysieren, wie alles zusammenpasst.

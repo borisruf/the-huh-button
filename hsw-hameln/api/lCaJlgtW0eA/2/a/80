@@ -1,0 +1,3 @@
+Die beiden Wörter "Bridge" und "Switch" können in diesem Zusammenhang gleichbedeutend verwendet werden. Eine Bridge ist ein Gerät, das auf der zweiten Schicht im OSI-Modell arbeitet. Sie hat einen Eingang, um Informationen aufzunehmen, und einen Ausgang, um diese Informationen weiterzugeben. 
+
+Im Kapitel geht es darum, wie verschiedene Netzwerke miteinander verbunden werden. Um dies zu tun, brauchen wir spezielle Geräte, die dabei helfen. Es gibt einfachere Geräte ganz unten im Modell (wie Repeater und Hubs), die nur dafür da sind, ein Signal zu verstärken. Aber auf der zweiten Schicht gibt es komplexere Geräte wie Bridges und Switches, die nicht nur verbinden, sondern auch bestimmte Aufgaben erfüllen, um den Datenverkehr besser zu organisieren.

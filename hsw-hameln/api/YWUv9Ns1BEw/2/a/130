@@ -1,0 +1,7 @@
+Die Aussage besagt, dass es heute bestimmte Regeln und Techniken gibt, wie man Ethernet, also ein System zur Verbindung von Computern, nutzt. Am Anfang wurde Ethernet einfach mit einem langen Kabel betrieben, an dem alle Geräte gleichzeitig angeschlossen waren. Das erste Ethernet konnte 10 Megabit pro Sekunde übertragen und hatte eine maximale Kabellänge von 500 Metern.
+
+Die ursprüngliche Technik hatte ein Problem: Wenn mehrere Geräte gleichzeitig Daten senden wollten, kam es zu Kollisionen. Das heißt, die Daten stießen zusammen und gingen verloren. Das machte es schwierig, wichtige Dinge wie Telefonie über das Internet (Voice over IP) zu nutzen, da das glatt laufen sollte, ohne Störungen.
+
+Deshalb hat man die Technik verbessert. Statt eines einfachen Kabels benutzen wir heute einen "Switch", also ein Gerät, das die Verbindungen zwischen den verschiedenen Computern steuert. So können die Geräte direkt miteinander kommunizieren, ohne dass die Daten sich gegenseitig stören. 
+
+Es gibt inzwischen viele verschiedene Varianten von Ethernet, die immer schneller wurden: von 10 Megabit pro Sekunde über 100 Megabit pro Sekunde bis hin zu 10 und 100 Gigabit pro Sekunde. In der Praxis, also im täglichen Gebrauch, sind das die Standards, wie wir Ethernet heute verwenden.

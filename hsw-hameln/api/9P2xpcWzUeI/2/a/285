@@ -1,0 +1,19 @@
+Okay, lass uns das einfach erklären:
+
+Stell dir vor, du hast ein großes Gebäude mit drei Etagen. Jede Etage hat ihre eigenen Büros und Computer. Normalerweise ist es so, dass jede Etage ein eigenes Netzwerk hat. Wenn jemand aus dem ersten Stock mit jemandem im zweiten Stock sprechen möchte, muss er zu einem speziellen Ort (Router) gehen, um sich mit dem anderen Netzwerk zu verbinden.
+
+Jetzt gibt es eine neue Idee, die heißt VLANs (virtuelle Netzwerke). Mit VLANs können wir die Computer mehr flexibel organisieren. Zum Beispiel können wir die Computer aus dem ersten und dem zweiten Stock so verbinden, dass sie wie ein eigenes Netzwerk sind, auch wenn sie auf verschiedenen Etagen sind. Das macht es einfacher für die Leute, miteinander zu kommunizieren, weil sie in der gleichen Gruppe sind, auch wenn sie nicht im gleichen Raum sind.
+
+Es gibt zwei Möglichkeiten, wie man diese Gruppen (VLANs) einrichten kann: 
+
+1. **Statische Einrichtung**: Der Administrator gibt für jeden Eingang (Port) an, zu welchem VLAN er gehört. Wenn jemand den Port benutzt, kann er nur mit Leuten im gleichen VLAN sprechen.
+   
+2. **Dynamische Einrichtung**: Hierbei schaut der Netzwerkcomputer, welcher Computer (anhand seiner MAC-Adresse) an den Port angeschlossen ist und ordnet ihn dem richtigen VLAN zu.
+
+Wenn die Computer Daten senden, fügt das Netzwerk zusätzliche Informationen dazu, die sagen, zu welchem VLAN sie gehören. Wenn die Daten an den nächsten Switch weitergegeben werden, kann der Switch entscheiden, was mit diesen Daten passiert, basierend auf dieser VLAN-Information.
+
+Wenn jetzt ein Computer aus einem VLAN mit einem Computer aus einem anderen VLAN sprechen möchte, brauchen wir einen speziellen „Übergangsbereich“ (Router), der die Kommunikation zwischen den VLANs ermöglicht. 
+
+Ein weiterer Begriff, den wir hier verwenden, ist „VLAN-Trunk“. Das ist wie ein Bündel von verschiedenen VLAN-Verbindungen, die zusammenarbeiten können.
+
+Zusammengefasst: VLANs helfen, Computer flexibler in Gruppen zu organisieren, damit sie einfacher miteinander kommunizieren können, selbst wenn sie nicht im gleichen Gebäude oder auf der gleichen Etage sind.

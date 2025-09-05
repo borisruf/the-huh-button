@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es bei der Übertragung von Daten verschiedene Regeln (Protokolle) gibt, die festlegen, wie mit Fehlern umgegangen wird. Wenn Daten gesendet werden, kann manchmal etwas schiefgehen, zum Beispiel können sie falsch oder gar nicht ankommen. 
+
+Auf dieser "Transportebene", die dafür zuständig ist, die Daten von einem Ort zum anderen zu bringen, gibt es spezielle Arten von Protokollen. Diese Protokolle sind wie Regeln, die sagen, was passiert, wenn ein Fehler auftritt. Manchmal kann man kleine Fehler einfach ignorieren, besonders bei Dingen wie Video- oder Audioübertragungen, wo man es nicht so genau nehmen muss.
+
+Also zusammengefasst: Es gibt klare Regeln, wie man mit Fehlern umgeht, wenn man Daten sendet.

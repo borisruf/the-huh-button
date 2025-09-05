@@ -1,0 +1,11 @@
+Stell dir vor, wir haben einen großen Rucksack (unser Datenpaket), den wir durch verschiedene Türen (Netzwerkprotokolle) tragen müssen. Jede Tür hat eine unterschiedliche Größe, also wie viel Platz sie für unseren Rucksack hat.
+
+1. **Erste Tür (Ethernet)**: Der Rucksack ist 1400 kg schwer, aber die Tür hat Platz für 1500 kg. Passt also gut durch!
+
+2. **Zweite Tür (FDDI)**: Hier kann die Tür 4352 kg halten. Der Rucksack passt immer noch ohne Probleme durch die Tür.
+
+3. **Dritte Tür (PPP)**: Jetzt kommt die knifflige Tür. Sie kann nur 532 kg halten. Unser Rucksack ist also viel zu schwer für diese Tür!
+
+Nun müssen wir unseren Rucksack aufteilen, damit er durch die dritte Tür passt. Das Aufteilen des Rucksacks nennt man "Fragmentieren". Das macht das Internetprotokoll (IP) für uns. Es sorgt dafür, dass unser großes Paket in kleinere Teile zerlegt wird, die durch jede Tür passen.
+
+Zusammengefasst: IP hilft uns, unsere Daten in kleinere Teile aufzuteilen, wenn wir durch Netzwerke mit unterschiedlichen Größen müssen. So können sie überall hin geschickt werden, ohne dass etwas verloren geht.

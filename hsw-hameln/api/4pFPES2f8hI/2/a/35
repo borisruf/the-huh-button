@@ -1,0 +1,11 @@
+Die Aussage spricht über ein wichtiges Thema in der Computertechnik: die Subnetzmaske. Lassen Sie uns das Schritt für Schritt einfach erklären:
+
+1. **Subnetzmaske**: Das ist ein Werkzeug, das hilft, ein großes Netzwerk in kleinere Teile zu unterteilen, die wir "Subnetze" nennen.
+
+2. **Warum Unterteilen?**: Manchmal gibt es so viele Computer oder Geräte in einem Netzwerk, dass es unübersichtlich wird. Wenn wir das große Netzwerk in kleinere Subnetze aufteilen, wird es leichter, alles zu verwalten und zu steuern.
+
+3. **Was man damit machen kann**: Mit der Subnetzmaske können wir bestimmen, welche Teile eines Netzwerkes zusammengehören. So wissen die Computer, wie sie miteinander kommunizieren können.
+
+4. **Problem oder Grund für Unterteilungen**: Wenn ein Netzwerk zu groß oder chaotisch wird, kann es langsamer werden, und es kann schwieriger sein, Probleme zu finden. Deshalb teilen wir es in kleinere, besser verwaltbare Teile auf.
+
+Zusammengefasst: Die Subnetzmaske ist wichtig, um große Netzwerke in kleinere, übersichtliche Teile zu zerlegen, damit alles leichter funktioniert und verwaltet werden kann.

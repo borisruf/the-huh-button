@@ -1,0 +1,5 @@
+Die Aussage besagt Folgendes:
+
+Wenn du in deinem eigenen Netzwerk bist, brauchst du nur eine IP-Adresse, um Daten an andere Computer zu senden. Das funktioniert gut. Aber wenn du mit einem Computer in einem anderen, ganz anderen Netzwerk oder im Internet kommunizieren möchtest, ändern sich die Adressen während der Datenübertragung. Das liegt daran, dass verschiedene Netzwerke unterschiedliche Adressierungssysteme haben, und die Daten müssen durch mehrere Router und Systeme reisen, die jeweils die Adressen anpassen müssen. 
+
+Kurz gesagt: Innerhalb eines Netzwerks bleibst du bei einer Adresse, aber beim Versenden von Daten zu anderen Netzwerken ändert sich die Adresse, damit die Daten ihr Ziel erreichen können.

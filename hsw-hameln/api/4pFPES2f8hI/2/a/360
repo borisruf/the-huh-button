@@ -1,0 +1,7 @@
+In der Tabelle, die wir unten sehen, sind 8 Netzwerke dargestellt. Wir zählen immer bei 0, was wichtig ist. Die obersten und untersten Netzwerke sind rot markiert. 
+
+Wir haben gelernt, dass es bei den IP-Adressen ein Problem gibt: Es gibt nicht genug Adressen für alle. Um das zu lösen, teilen wir große Netzwerke in kleinere Netzwerke auf, die wir Subnetze nennen. 
+
+Jedes Subnetz hat eine eigene Maske, die sagt, wie viele Adressen es hat. Wenn wir die Adressen aufteilen, können wir sicherer arbeiten und vielleicht weniger Adressen verwenden, als wir für ein großes Netzwerk bräuchten. 
+
+In diesem Beispiel haben wir mit einer Adresse aus einem kleinen Netzwerk (192.168.10.0) gearbeitet. Wir haben diese in 8 kleinere Netzwerke (Subnetze) aufgeteilt, die jeweils 32 Adressen haben. Das ist in der Tabelle zu sehen, wo wir sie von 0 bis 7 zählen. Die roten Markierungen zeigen das erste und das letzte Netzwerk.

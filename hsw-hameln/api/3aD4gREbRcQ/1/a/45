@@ -1,0 +1,1 @@
+Die Aussage beschreibt, dass in der Betrachtung des OSI-Modells die Schichten 5 (Sitzungsschicht), 6 (Darstellungsschicht) und 7 (Anwendungsschicht) oft als eine zusammenhängende Einheit betrachtet werden. Dies ist auch im TCP/IP-Modell der Fall, das aufgrund seiner geringeren Anzahl an Schichten diese drei Schichten bündelt und sie in einem gemeinsamen Kontext darstellt.

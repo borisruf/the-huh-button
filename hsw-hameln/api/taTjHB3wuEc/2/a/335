@@ -1,0 +1,13 @@
+In dieser Erklärung geht es um die Kommunikation zwischen zwei Computern, einem Sender und einem Empfänger. Sie senden Daten, aber der Sender kann schneller arbeiten als der Empfänger. Um sicherzustellen, dass der Empfänger nicht überfordert wird, gibt es eine Regel, die bespricht, wie viele Daten der Sender gleichzeitig senden darf. 
+
+Diese Regel nennt man "Flusssteuerung". Sie funktioniert so:
+
+1. **Sender und Empfänger jede für sich**: Der Sender möchte viele Daten senden, aber der Empfänger kann nur eine bestimmte Menge an Daten auf einmal verarbeiten.
+
+2. **Fenstergröße**: Es gibt eine Art „Fenster“, das beschreibt, wie viele Daten der Sender auf einmal senden darf, ohne auf eine Bestätigung vom Empfänger zu warten. Dieses Fenster kann groß oder klein sein, je nachdem, wie der Empfänger damit zurechtkommt.
+
+3. **Anpassung**: Wenn der Empfänger Schwierigkeiten hat, die Daten schnell genug zu verarbeiten, kann er dem Sender sagen: „Ich kann nur ein bisschen Daten auf einmal annehmen. Lass uns die Fenstergröße kleiner machen.“ Wenn er sich wieder besser fühlt und mehr Daten verarbeiten kann, kann er der anderen Seite mitteilen: „Ich kann jetzt mehr Daten annehmen, lass uns die Fenstergröße größer machen.“
+
+4. **Kommunikation**: So bleibt die Verbindung zwischen Sender und Empfänger immer gut, weil sie sich gegenseitig helfen, die besten Einstellungen zu finden.
+
+Zusammengefasst: Sender und Empfänger sprechen darüber, wie viele Daten sie gleichzeitig senden oder empfangen können, und passen das während ihrer Kommunikation an, je nachdem, wie schnell sie arbeiten können.

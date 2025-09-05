@@ -1,0 +1,5 @@
+Modulation ist wie eine Art „Verpackung“ für Daten, damit sie besser über ein Signal gesendet werden können. Man nimmt ein Trägersignal, das wie eine Welle ist, und packt die Daten darauf ein. Das macht man zum Beispiel, indem man die Höhe (Amplitude) dieser Welle verändert, um die Informationen zu übermitteln. 
+
+Stell dir vor, du hast eine ruhige Wasseroberfläche und wirfst einen kleinen Stein hinein. Die Wellen, die der Stein macht, sind wie das Trägersignal. Wenn du die Wellen höher oder niedriger machst, kannst du verschiedene Nachrichten senden. Das ist die Amplituden-Modulation. 
+
+Zusammengefasst: Modulation hilft uns, Daten zu senden, indem wir sie auf ein Trägersignal „legen“, so dass sie über große Entfernungen transportiert werden können.

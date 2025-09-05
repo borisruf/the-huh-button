@@ -1,3 +1,9 @@
-Das ist so, als ob man ein ganzes Netzwerk von Telefonleitungen hat. Normalerweise benutzen die Telefone den besten und einfachsten Weg, um miteinander zu sprechen. Aber manchmal gibt es Verwirrungen und die Telefone fangen an, die Nachrichten im Kreis zu schicken, ohne dass sie jemals ankommen. 
-Um das zu verhindern, haben kluge Leute ein System namens Spanning-Tree-Protokoll erfunden. Das blockiert alle anderen Wege, außer dem besten Weg. So gibt es keine Verwirrung und keine kreisenden Nachrichten mehr.
-Aber was passiert, wenn der beste Weg aus irgendeinem Grund nicht mehr funktioniert? Dann erlaubt das System einen der vorher blockierten Wege zu nutzen. So ist sicher, dass die Nachricht immer noch ankommt, auch wenn es etwas länger dauert.
+Die Aussage "Die befinden sich nach wie vor im Blocking-Modus" bedeutet, dass einige Verbindungen (Leitungen) in einem Netzwerk zwar vorhanden, aber nicht aktiv sind. Diese Verbindungen dürfen im Moment keine Daten übertragen. Das ist eine Vorsichtsmaßnahme, um Probleme wie Schleifen zu vermeiden, die auftreten können, wenn Datenpakete endlos hin- und hergeschickt werden.
+
+Wenn jetzt eine der Verbindungen, die regelmäßig genutzt wird, kaputt geht, passiert Folgendes:
+
+1. **Switches kommunizieren:** Die Switches (Geräte, die Daten senden und empfangen) merken, dass eine Verbindung nicht mehr funktioniert.
+2. **Neuer Weg gesucht:** Die Switches überprüfen ihre Verbindungen und finden einen anderen Weg, um Daten zu senden, damit sie trotzdem kommunizieren können. 
+3. **Ports wechseln:** Die Ports, die vorher im Blocking-Modus waren, können jetzt aktiviert werden, sodass sie Daten durchlassen.
+
+So sorgt das Spanning-Tree-Protokoll dafür, dass das Netzwerk auch dann weiter funktioniert, wenn einige Verbindungen ausfallen.

@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass in einem System, das mehrere Kanaele verwendet, jeder Kanal nur einen kleinen Teil der gesamten "Bandbreite" nutzen kann. "Bandbreite" ist wie der Platz, den wir auf einem Weg haben, um Autos (in diesem Fall Daten) fahren zu lassen. Wenn der Weg sehr breit ist, können viele Autos gleichzeitig fahren. Aber wenn wir ihn in kleinere Abschnitte aufteilen, kann jeder Abschnitt nur einen bestimmten Platz nutzen. 
+
+Obwohl jeder Kanal also nur einen kleinen Platz hat, können sie trotzdem gleichzeitig arbeiten. Das heißt, viele Daten können gleichzeitig über das gleiche Kabel oder Medium geschickt werden. Das ist wie wenn viele Autos gleichzeitig auf einem großen Weg fahren, auch wenn sie nicht den ganzen Weg alleine für sich haben.

@@ -1,0 +1,5 @@
+Die Aussage beschreibt, wie Daten über ein Ethernet-Netzwerk gesendet werden. Um das einfach zu erklären:
+
+Stell dir vor, du hast einen großen Brief (das ist das Ethernet-Paket) mit einer Größe von 1400. Die Post (Ethernet) hat eine Regel, dass Briefe nicht größer als 1500 sein dürfen. Da unser Brief (1400) kleiner als die Regel (1500) ist, können wir ihn einfach so absenden, ohne ihn zerlegen zu müssen.
+
+Also, wenn wir die Daten versenden und die Größe passt, können wir alles auf einmal schicken, ohne die Daten in kleinere Stücke (Fragmente) zu schneiden.

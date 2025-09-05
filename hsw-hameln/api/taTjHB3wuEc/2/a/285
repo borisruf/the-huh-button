@@ -1,0 +1,9 @@
+Okay, lass es mich einfach erklären:
+
+Stell dir vor, du hast einen Wasserhahn, der sehr schnell Wasser herauslässt. Jetzt gibt es jemanden, der einen Eimer darunter stellt, um das Wasser zu sammeln. Aber der Eimer kann nur eine bestimmte Menge Wasser halten, und wenn er voll ist, kann er kein weiteres Wasser aufnehmen.
+
+In diesem Beispiel ist der Wasserhahn der Sender, der viele Daten (Wasser) schnell sendet, und der Eimer ist der Empfänger, der die Daten aufnehmen muss. Wenn der Eimer voll ist, kann er kein weiteres Wasser annehmen – genau wie der Empfänger keine weiteren Daten annehmen kann, wenn sein Speicher voll ist.
+
+Jetzt sagt der Empfänger zum Sender: "Ich habe das Paket 3 erhalten, aber ich kann nicht mehr als 2 Pakete gleichzeitig aufnehmen." Das ist wie eine Bestätigung, dass er etwas bekommen hat, aber auch eine Bitte, weniger schnell Wasser (Daten) zu schicken, damit er nicht überfordert wird.
+
+Die Erklärung über den 'Schiebefenster'-Prozess bedeutet, dass der Sender und der Empfänger sich darauf einigen, wie viele Daten sie gleichzeitig senden und empfangen können, damit alles gut funktioniert und keiner überfordert wird. So können sie sicherstellen, dass die Verbindung immer aktiv bleibt und keine Zeit verloren geht.

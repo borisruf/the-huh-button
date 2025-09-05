@@ -1,0 +1,3 @@
+Die Aussage sagt, dass es bei den oberen drei Schichten im OSI-Modell um Anwendungen geht. Das bedeutet, dass dort die Programme und Funktionen arbeiten, die wir im Alltag nutzen, wie zum Beispiel E-Mail oder Internetbrowser. Diese Schichten sind wichtig, weil sie dafür sorgen, dass unsere Geräte miteinander kommunizieren können, wenn wir diese Anwendungen benutzen. 
+
+Im OSI-Modell gibt es mehrere Schichten, und die Schichten 5 bis 7 kümmern sich um die Kommunikation und Darstellung der Daten, die von den Anwendungen benötigt werden. Es geht also darum, wie Daten gesendet und empfangen werden, damit die Anwendungen richtig funktionieren.

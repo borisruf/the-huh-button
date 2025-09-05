@@ -1,0 +1,11 @@
+In dieser Erklärung geht es um das Aufteilen von großen Netzwerken in kleinere Teile, die man "Subnets" nennt. 
+
+- Ein Netzwerk hat viele IP-Adressen, die wie Telefonnummern sind, damit verschiedene Geräte miteinander sprechen können. 
+- Manchmal braucht man nicht all diese Adressen, und es ist besser, das große Netzwerk in viele kleine Netzwerke aufzuteilen. 
+- Bei der Aufteilung bekommt man mehr Kontrolle und auch ein bisschen mehr Sicherheit. 
+
+Die Anzahl der neuen kleinen Netzwerke hängt davon ab, wie viele "Buchstaben" man von einer Art von Adressen nimmt und sie ändert. Wenn man drei Buchstaben ändert, kann man daraus acht kleine Netzwerke machen. 
+
+Allerdings kann man nicht alle neuen kleinen Netzwerke verwenden. Das erste und das letzte davon sind für besondere Zwecke reserviert, sodass nur sechs von den acht kleinen Netzwerken tatsächlich für Geräte genutzt werden können. 
+
+Zusammengefasst: Wir machen das große Netzwerk kleiner, können es besser verwalten und haben dabei nicht mehr so viele Adressen, die wir nutzen müssen.

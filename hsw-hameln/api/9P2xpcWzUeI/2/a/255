@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, wie zwei verschiedene Teile eines Netzwerks, die man VLANs nennt, miteinander sprechen können.
+
+Stell dir vor, du hast ein großes Gebäude mit drei Stockwerken. Jedes Stockwerk ist wie ein eigenes kleines Netzwerk. Die Computer in einem Stockwerk (zum Beispiel das pinke VLAN) können einfach miteinander reden. Aber wenn ein Computer aus dem pinken Stockwerk mit einem Computer im gelben Stockwerk sprechen möchte, muss er durch eine Art Eingang oder "Tor" gehen. Dieses "Tor" wird als Standard Gateway bezeichnet.
+
+Das bedeutet, damit die Computer von einem VLAN zum anderen kommunizieren können, brauchen sie ein Gerät, das auf einer anderen Ebene des Netzwerks arbeitet (das sogenannte Schicht-3-Element). Dieses Gerät hilft dabei, die Botschaften von einem VLAN ins andere weiterzuleiten.
+
+Zusammengefasst: Um mit jemandem aus einem anderen Stockwerk oder VLAN zu sprechen, braucht man ein spezielles "Tor", das die Information weiterschickt.

@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie man sicherstellen kann, dass Daten, die über das Internet oder ein Netzwerk gesendet werden, korrekt ankommen. 
+
+Hier ist die Erklärung in einfacher Sprache:
+
+Wenn wir Daten verschicken, fügen wir eine Art „Überprüfung“ hinzu, die wir Prüfsumme nennen. Diese Prüfsumme hilft uns zu prüfen, ob die Daten während der Übertragung verändert wurden. 
+
+Um diese Prüfsumme zu erstellen, verwenden wir eine spezielle Formel, die auf den Daten basiert. Diese Formel nennt man Generator-Polynom. 
+
+Insgesamt hilft die Prüfsumme, Fehler zu finden, falls Daten beschädigt oder falsch übertragen werden. Also, die Prüfsumme ist wie ein Extra-Stück Information, das uns sagt, ob die gesendeten Daten richtig sind oder nicht.

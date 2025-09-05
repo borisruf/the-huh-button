@@ -1,0 +1,13 @@
+In dieser Erklärung geht es darum, wie man Daten, die aus Einsen und Nullen bestehen, in ein Signal umwandelt, das man über Kabel senden kann. 
+
+Zuerst sprechen wir über zwei Methoden, wie man das machen kann: das "Return-to-Zero"-Verfahren und das "Non-Return-to-Zero"-Verfahren. 
+
+- **Return-to-Zero**: Bei dieser Methode zeigt ein "Hochsignal" eine Eins und ein "Niedrigsignal" zeigt eine Null. Wenn es eine Eins gibt, geht das Signal nach oben, und wenn es eine Null gibt, geht das Signal wieder nach unten. Das Problem ist, dass es viele Einsen nacheinander gibt, was das Signal schwer verständlich macht. 
+
+- **Non-Return-to-Zero**: Diese Methode hat eine andere Art, Einsen und Nullen anzuzeigen. Es gibt immer noch ein niedriges Signal für eine Null, aber es bleibt nicht immer wieder bei Null. Auch hier gibt es viele Einsen hintereinander, was wieder zu Problemen führt.
+
+Um diese Probleme zu lösen, kann man die Non-Return-to-Zero-Methode mit einem Takt-Signal kombinieren. Das heißt, es gibt regelmäßig Wechsel im Signal, die helfen, den Rhythmus beizubehalten. Das sorgt dafür, dass das Signal leichter zu lesen ist, und man hat nicht mehr so viele Probleme mit langen Abschnitten, die gleich bleiben.
+
+Schlussendlich wird bei der "Manchester-Kodierung" gesagt: Ein Wechsel von hoch zu niedrig (eine fallende Flanke) zeigt eine Eins, und ein Wechsel von niedrig zu hoch (eine steigende Flanke) zeigt eine Null. So werden die Einsen durch diese Wechsel dargestellt, und die Informationen sind klarer und einfacher zu verstehen, auch wenn es Störungen im Signal gibt. 
+
+Einfach gesagt: Es geht darum, wie man Daten in Signale umwandelt, damit sie gut über Kabel übermittelt werden können, ohne dass Informationen verloren gehen.

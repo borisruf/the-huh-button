@@ -1,0 +1,11 @@
+In diesem Text geht es darum, wie man große Netzwerke in kleinere Teile aufteilt. Diese kleinen Teile nennt man Subnetze. Es wird erklärt, wie man das macht und warum es wichtig ist.
+
+1. **Subnetze und IP-Adressen**: IP-Adressen sind wie Adressen für Computer, damit sie sich finden können. Manchmal sind allerdings zu viele Computer in einem großen Netzwerk, und wir brauchen eine bessere Organisation.
+
+2. **Subnetzmaske**: Eine Subnetzmaske hilft uns, die große IP-Adresse in kleinere Netzwerke zu unterteilen. Es zeigt, wie viele Adressen wir in jedem Subnetz verwenden können. Praktisch ist es so, dass wir einige Adressen für spezielle Aufgaben reservieren müssen und die ersten und letzten nicht verwenden können.
+
+3. **Beispiel**: Wenn wir eine IP-Adresse wie 192.168.10.0 nehmen und sie in 8 kleine Subnetze aufteilen, können wir das tun, indem wir einige Zahlen (Bits) ändern. Jeder der kleinen Teile hat auch eine eigene Adresse, aber nicht alle Adressen sind für Computer benutzbar. 
+
+4. **Aufpassen**: Es ist wichtig, die richtige Adresse für das Subnetz zu erkennen. Manchmal, wenn wir von einer Host-Adresse (einer Adresse für einen Computer) sprechen, sollten wir aufpassen, dass wir die Adresse des Netzwerkes nicht mit einer normalen Adresse verwechseln.
+
+Zusammengefasst: Es geht darum, große Netzwerke kleiner und übersichtlicher zu machen, damit die Computer besser miteinander kommunizieren können.

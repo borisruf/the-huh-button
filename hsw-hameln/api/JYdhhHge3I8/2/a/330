@@ -1,0 +1,13 @@
+Die Aussage beschreibt, wie Daten in einem Netzwerk übertragen werden. Man kann sich das wie das Versenden von Paketen vorstellen.
+
+1. **Nachrichtenvermittlung**: Hier wird die ganze Nachricht auf einmal von einem Ort zum anderen geschickt, genau wie ein großes Paket. Es wird alles auf einmal übermittelt und an einem bestimmten Ziel ankommen.
+
+2. **Paketvermittlung**: Statt große Nachrichten auf einmal zu senden, wird die Nachricht in kleinere Teile (Pakete) zerlegt. Diese Pakete gehen dann von verschiedenen Punkten über unterschiedliche Wege zum Ziel.
+
+3. **Speichervermittlung**: Dazwischen gibt es auch einen Weg, wo die Nachrichten an bestimmten Punkten gespeichert werden, damit sie später zugestellt werden können. Das ist wie wenn man einen Brief in ein Postamt bringt, und sie den Brief dann an die richtige Adresse weiter senden, ohne dass man auf das ganze Paket warten muss.
+
+Die wesentlichen Unterschiede sind also:
+- Bei der Nachrichtenvermittlung kommt alles zusammen und geheim.
+- Bei der Paketvermittlung wird alles in kleine Stücke zerlegt und kann auf unterschiedlichen Wegen zum Ziel geleitet werden. So kann es schneller und flexibler gehen.
+
+Zusammengefasst: Daten können als ganze Nachrichten oder in kleinen Paketen über verschiedene Wege gesendet werden, was die Übertragung effizienter macht.

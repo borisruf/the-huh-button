@@ -1,0 +1,7 @@
+Es geht darum, wie man verschiedene Netzwerke oder Teile von Netzwerken miteinander verbinden kann, damit Computer problemlos miteinander kommunizieren können. Wenn ich nur einfache Geräte habe, wie einen Repeater oder Hub, kann ich zwar Signale verstärken und weiterleiten, aber alle Computer in diesem Netzwerk müssen sich das Verbindungssignal teilen. 
+
+Wenn ich intelligenter arbeiten möchte, benutze ich einen Switch. Ein Switch kann helfen, Kollisionen – also Störungen, wenn zwei Computer gleichzeitig senden – zu vermeiden, indem er Bereiche für verschiedene Computer schafft. Die Geräte, die ich dann verbinden kann, haben unterschiedliche Aufgaben.
+
+Wenn ich aber mit Geräten in anderen Netzwerken sprechen möchte, brauche ich einen Router. Der Router kann wie ein Wegweiser zwischen verschiedenen Netzwerken fungieren. Er sorgt dafür, dass die Daten dort ankommen, wo sie hingehören, auch wenn die Computer sich in unterschiedlichen Netzwerken oder Bereichen befinden – das ist wichtig für gute Kommunikation.
+
+Zusammengefasst: Ein Router verbindet unterschiedliche Netzwerke miteinander, während Switches und einfache Geräte nur innerhalb eines Netzwerks arbeiten.

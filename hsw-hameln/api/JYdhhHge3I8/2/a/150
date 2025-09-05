@@ -1,0 +1,7 @@
+Wenn wir Daten über Netzwerke senden, müssen wir entscheiden, wie wir das machen wollen. Es gibt verschiedene Methoden, um Daten zu übertragen. Eine Methode ist die **Leitungsvermittlung**. Das ist wie bei alten Telefonen, wo jemand die Telefonleitungen verbindet, sodass zwei Leute direkt miteinander sprechen können.
+
+Eine andere Methode ist die **Speichervermittlung**. Dabei werden die Daten in sogenannten "Paketen" gesammelt und dann von einem Ort zum anderen geschickt – ähnlich wie Briefe, die in verschiedenen Postämtern gesammelt und dann weitergeleitet werden.
+
+Wenn wir jetzt beide Methoden kombinieren, wird das sehr interessant für die Netzwerke. Wir nennen das dann **Paketvermittlung**. Dabei erstellen wir Pakete aus Daten, die aus bestimmten Gründen nötig sind, und diese Pakete werden dann von einem Ort zum anderen transportiert.
+
+Ein Beispiel: Stell dir vor, du schreibst einen Brief, steckst ihn in einen Umschlag (das Paket), und gibst ihn dann zur Post. Die Post bringt den Brief zur richtigen Adresse. So ähnlich funktioniert die Paketvermittlung im Internet.

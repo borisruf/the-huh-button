@@ -1,0 +1,7 @@
+In der Erklärung geht es um Netzwerke und IP-Adressen. 
+
+Stell dir vor, du hast ein großes Netzwerk, wie ein riesiges Zimmer, in dem viele Leute (Computer) wohnen. Jedes Zimmer hat eine Adresse, damit die Leute wissen, wo sie sind. Manchmal ist dieses große Zimmer zu voll und deshalb teilen wir es in kleinere Zimmer auf. Diese kleineren Zimmer nennt man "Subnetze". 
+
+Jetzt zur Zählweise: Wenn wir die kleinen Zimmer zählen, fangen wir immer bei 0 an. Das hat einen Grund. Das erste Zimmer (Subnet0) darf nicht benutzt werden, weil es eine spezielle Adresse hat, die für das große Zimmer wichtig ist. Das letzte Zimmer hat auch eine spezielle Adresse, die wir nicht verwenden dürfen, weil sie für wichtige Nachrichten im großen Netzwerk benötigt wird. 
+
+Also, beim Teilen in kleine Zimmer müssen wir darauf achten, dass wir die ersten und die letzten Adressen nicht benutzen können, sonst gibt es Verwirrung. So können wir das große Zimmer besser organisieren und sicherstellen, dass jeder seinen Platz hat.

@@ -1,0 +1,9 @@
+Die Aussage sagt, dass bei der Übertragung von Daten die „Frames“ (das sind kleine Datenpakete) eine bestimmte Länge haben müssen. Es gibt einige wichtige Dinge, die dabei beachtet werden müssen:
+
+1. **Gleichlaufschwankungen**: Manchmal gibt es kleine Unterschiede im Timing, wie schnell die Daten übertragen werden. Das kann Probleme machen, wenn die Daten nicht richtig synchron sind.
+
+2. **Fehlerkorrektur**: Wenn wir Daten übertragen, können Fehler passieren. Wir müssen sicherstellen, dass die richtigen Informationen ankommen. Je länger die Datenpakete sind, desto schwieriger ist es, diese Fehler zu erkennen und zu beheben.
+
+3. **Zwischenspeicherung**: Manchmal müssen Daten für einen kurzen Moment gespeichert werden, bevor sie weitergeleitet werden. Auch das ist bei längeren Datenpaketen komplizierter.
+
+Der Text sagt, dass wir uns nun anschauen werden, wie wir diese Probleme lösen können.

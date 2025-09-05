@@ -1,0 +1,5 @@
+Ein Router ist wie ein Verkehrspolizist für Daten. Damit er seinen Job gut machen kann, braucht er mehrere "Adressen" (IP-Adressen), eine für jede Verbindung, die er hat. Diese Adressen helfen ihm zu wissen, woher die Daten kommen und wohin sie gehen sollen. 
+
+Stell dir vor, dein Laptop hat zwei Wege, um sich mit dem Internet zu verbinden: einen mit einem Kabel und einen über WLAN. Jeder Weg hat eine eigene Adresse, damit die Daten genau wissen, welchen Weg sie nehmen sollen.
+
+Insgesamt sind IP-Adressen wichtig, damit jedes Gerät im Netzwerk eine eigene, klare Adresse hat. So weiß jedes Gerät, wo es hin soll, und alles funktioniert gut.

@@ -1,0 +1,3 @@
+Wenn wir über die Weiterleitung von Datenpaketen in unserem Netzwerk sprechen, kommen wir auch zu einem anderen wichtigen Punkt: den MAC-Adressen. Diese Adressen sind wie spezielle Nummern, die jedem Gerät in unserem Netzwerk zugeordnet sind. Um herauszufinden, welche MAC-Adresse zu einer bestimmten IP-Adresse gehört, benutzen wir ein zusätzliches Protokoll, das heißt ARP (Address Resolution Protocol).
+
+Das Ziel von ARP ist einfach: Es hilft uns, die IP-Adressen, die auf einer höheren Ebene (Schicht 3) sind, mit den MAC-Adressen, die auf einer niedrigeren Ebene (Schicht 2) sind, zu verbinden. So können die Geräte im Netzwerk miteinander kommunizieren, indem sie die richtigen Adressen verwenden.

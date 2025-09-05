@@ -1,0 +1,7 @@
+In einfachen Worten sagt diese Aussage, dass es einige Probleme gibt, wenn wir Daten über eine Leitung übertragen. Wenn wir nur Einsen und Nullen haben, kann es schwierig sein, den richtigen Zeitpunkt zum Empfangen der Informationen zu finden. Es gibt zwei Methoden, um die Daten zu übertragen: 
+
+1. **Return-to-Zero** (Rückkehr zu Null): Hier zeigt ein Hochzeichen (eins) einen Ausschlag, und ein Tiefzeichen (null) bedeutet, dass es zurück auf null geht. Bei dieser Methode gibt es viele Nullen hintereinander, die die Leitung "stumm" macht. Dadurch entsteht ein hoher Gleichstrom, und es ist schwer, den richtigen Zeitpunkt herauszufinden.
+
+2. **Non-Return-to-Zero** (Keine Rückkehr zu Null): Diese Methode ist ähnlich, aber sie zeigt auch Nullen auf eine andere Weise an. Auch hier gibt es jedoch Schwierigkeiten: Man kann den Zeitrhythmus nicht gut erkennen, und es gibt wieder viele Nullen oder Einsen hintereinander, die das Signal nicht eindeutig machen.
+
+Die Frage ist also: Wie kann man diese Probleme lösen, damit es einfacher wird, die Signale zu lesen und zu verstehen?

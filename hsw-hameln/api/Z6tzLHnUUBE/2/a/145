@@ -1,0 +1,7 @@
+Der IP-Header ist wie ein Briefumschlag, der wichtige Informationen über den Inhalt eines Pakets im Internet enthält. Wenn du dir diesen Umschlag anschaust, siehst du verschiedene Kästchen, die bestimmte Informationen haben. 
+
+Ganz oben sind zwei wichtige Adressen: eine steht für den Absender (wo das Paket herkommt) und die andere für den Empfänger (wo das Paket hin soll). 
+
+Außerdem steht in diesem Umschlag, welche Version des Internetprotokolls verwendet wird, und es gibt noch andere Kästchen, die sagen, welches Protokoll das Paket noch hat und was genau in dem Paket drin ist – also die Daten, die wir übertragen wollen.
+
+Zusammengefasst: Der IP-Header hilft dabei, dass Daten im Internet an die richtige Adresse geschickt werden und wir wissen, welches Protokoll die Daten nutzt.

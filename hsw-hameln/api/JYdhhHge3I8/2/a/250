@@ -1,0 +1,7 @@
+Die Aussage „Weil ja eine Zwischenspeicherung stattfindet. Genau, das Asynchrone ist dort das Entscheidende.“ bedeutet Folgendes:
+
+Wenn Daten von einem Ort zu einem anderen geschickt werden, können sie manchmal nicht sofort direkt weitergegeben werden. In so einem Fall werden die Daten zuerst gespeichert, also „zwischengespeichert“, bevor sie an das Ziel weitergeleitet werden. 
+
+Das Wort „asynchron“ heißt, dass eine Nachricht nicht in dem Moment gesendet werden muss, wo sie empfangen wird. Die Daten können also gespeichert werden, während andere Nachrichten gleichzeitig über das Netzwerk gesendet werden. Dadurch können viele Nachrichten gleichzeitig bearbeitet werden, ohne dass sie alle gleichzeitig „dran“ sein müssen. 
+
+Das ist wichtig, weil es bedeutet, dass das System sehr flexibel ist. Wenn eine Nachricht also zwischengespeichert wird, kann das Netzwerk weiterhin andere Daten senden, ohne darauf warten zu müssen, dass die erste Nachricht ankommt.

@@ -1,0 +1,1 @@
+ Heute verwendet man dann eine andere Methode, die Sentinel-Methode und bei der Sentinel-Methode ist es so, es werden durch spezielle Synchronisationszeichen, die sind hier rot, Start of Text und End of Text, also wird an der Stelle eingerahmt der Datenteil durch spezielle Synchronisationszeichen, die letztlich natürlich auch im Datenanteil vorkommen können.

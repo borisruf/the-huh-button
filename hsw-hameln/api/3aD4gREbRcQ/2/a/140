@@ -1,0 +1,7 @@
+In einfacheren Worten bedeutet die Aussage:
+
+Es gibt zwei Hauptwege, wie Daten über das Internet versendet werden: mit TCP oder mit UDP. 
+
+Wenn wir eine E-Mail schicken, benutzen wir TCP. Dabei gibt es spezielle "Türöffnungen", die Ports genannt werden, durch die die Daten geschickt werden. Für E-Mails nutzen wir zum Beispiel Port 25 für das Senden der E-Mail (das nennt man SMTP) und Port 110 für das Empfangen der E-Mail (das nennt man POP3).
+
+Zusammengefasst: Wenn wir über das Senden von E-Mails sprechen, benutzen wir TCP und bestimmte Ports, die dafür zuständig sind.

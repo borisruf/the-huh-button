@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn ein Computer oder ein Gerät im Internet etwas nachfragt, zum Beispiel eine Webseite, geschieht dies über eine bestimmte Adresse, die "IP-Adresse" genannt wird. Jeder Computer hat eine eigene IP-Adresse. Um eine Webseite zu erreichen, nutzt der Computer einen "Port". 
+
+In diesem Fall sagt die Aussage, dass der Computer bei seiner Anfrage einen speziellen Port verwendet. Ein "well-known Port" ist ein Port, der für eine bestimmte Anwendung oder Dienst bekannt ist. Zum Beispiel ist Port 80 der Standardport für Webseiten (HTTP). 
+
+Das bedeutet: Wenn du eine Webseite aufrufst, passiert das über Port 80, der immer verwendet wird, um mit Webseiten zu kommunizieren. Der Computer, der die Anfrage sendet, verwendet eine andere Portnummer, die normalerweise über 30.000 liegt, um die Anfrage richtig zuzuordnen.

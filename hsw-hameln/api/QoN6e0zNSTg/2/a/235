@@ -1,0 +1,7 @@
+Okay, lass es uns einfach machen:
+
+Wenn zwei Geräte im Netzwerk gleichzeitig versuchen, etwas zu senden, kann es zu einem Problem kommen, das nennt man "Kollision". Das bedeutet, dass die Signale der beiden Geräte sich gegenseitig stören. Wenn das passiert, senden die Geräte ein spezielles Signal, das man GEM-Signal nennt. Es ist wie ein großes, lautes Geräusch, das sagt: "Hey, wir haben ein Problem!"
+
+Dieses GEM-Signal ist viel stärker als das normale Signal, das sie senden wollten. Das bedeutet, dass alle Geräte im Netzwerk das GEM-Signal hören. Nachdem sie es gehört haben, müssen die Geräte eine „Pause“ machen, die Back-off-Time genannt wird. In dieser Zeit warten sie, bevor sie es noch einmal versuchen, um sicherzustellen, dass sie nicht wieder gleichzeitig senden. 
+
+Zusammengefasst: Wenn zwei Geräte gleichzeitig sprechen und sich stören, senden sie ein großes Signal, um alle zu informieren, und warten dann eine Weile, bevor sie es nochmal versuchen.

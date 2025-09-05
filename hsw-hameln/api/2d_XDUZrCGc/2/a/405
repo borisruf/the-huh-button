@@ -1,0 +1,7 @@
+Stell dir vor, das Internet ist wie ein großes Netzwerk von Straßen, und jede Straße hat eine Adresse. Diese Adressen heißen IP-Adressen. Es gibt private Straßen (private IP-Adressen), die nur in bestimmten Nachbarschaften (also in einem lokalem Netzwerk, wie deinem Zuhause oder deiner Schule) benutzt werden. Diese privaten Straßen sind nicht im gesamten Internet sichtbar.
+
+Jetzt gibt es auch öffentliche Straßen (öffentliche IP-Adressen), die alle im Internet sehen können. Egal wie viele Computer oder Handys du in deinem Zuhause hast, sie alle teilen sich eine einzige öffentliche Adresse, wenn sie ins Internet gehen. 
+
+Das bedeutet, wenn du mit deinem Computer ins Internet gehst, zeigt der Router (das Gerät, das dein Netzwerk mit dem Internet verbindet) nach außen nur diese eine öffentliche Adresse. Wenn dein Computer eine Website besucht, macht der Router die Arbeit, damit alles richtig ankommt. 
+
+So kann jeder Computer in deinem Heimnetzwerk mit nur einer Adresse nach außen erscheinen. Wenn viele Computer gleichzeitig ins Internet wollen, hilft der Router, damit die Informationen an die richtigen Geräte zurückkommen.

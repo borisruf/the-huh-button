@@ -1,0 +1,3 @@
+Wenn Rechner A mit Rechner B sprechen will, schickt er seine Informationen an einen Switch. Der Switch hilft dabei, die Informationen von einem Computer zum anderen zu senden. Er weiß, wo jeder Computer ist, weil er eine Liste hat, die alle Computer und deren Adressen (die MAC-Adressen) speichert. So kann der Switch sicherstellen, dass die Daten zu dem richtigen Computer (also Rechner B) gehen. 
+
+In einfacheren Worten: Der Switch ist ein Helfer, der dafür sorgt, dass die Nachricht von A nach B kommt, ohne dass die anderen Computer im Weg sind.

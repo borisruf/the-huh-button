@@ -1,0 +1,9 @@
+Die Aussage "10. 0 Slash27" bezieht sich auf eine IP-Adresse, die in einem bestimmten Format geschrieben ist, um ein Netzwerk zu beschreiben. 
+
+Um es einfach zu erklären:
+
+1. **IP-Adresse**: "10.0" ist der Teil der IP-Adresse. IP-Adressen sind wie Adresse für Computer im Internet, damit sie miteinander sprechen können.
+
+2. **Slash27**: Das bedeutet, dass wir eine Subnetzmaske von 27 Bits verwenden. Eine Subnetzmaske hilft dabei, zu bestimmen, wie viele Geräte (Hosts) in diesem Netzwerk sein können. In diesem Fall können maximal 32 - 27 = 5 Geräte in diesem Netzwerk sein, da die restlichen Bits für die Geräte verwendet werden.
+
+Also bedeutet "10.0 Slash27", dass wir ein kleines Netzwerk haben, das mit der Adresse 10.0 beginnt und insgesamt Platz für 5 Geräte hat.

@@ -1,0 +1,15 @@
+In dieser Aussage wird erklärt, wie das TCP-IP-Modell und das OSI-Modell in Schichten organisiert sind. 
+
+Hier ist die einfache Erklärung:
+
+1. **Schichten**: Das Computer-Netzwerk funktioniert in verschiedenen "Schichten". Man kann sich das wie einen Stapel von Bauklötzen vorstellen, wobei jede Schicht eine bestimmte Aufgabe hat.
+
+2. **Obere Schichten**: Die oberen drei Schichten sind wichtig für Anwendungen, die wir nutzen, z. B. Webseiten anschauen oder Dateien austauschen. Diese Schichten helfen den Programmen, miteinander zu kommunizieren. 
+
+3. **Beispiele für Anwendungen**: Programme wie „Telnet“ (für Fernzugriff), „FTP“ (für Dateiübertragung) und „HTTP“ (für Webseiten) arbeiten in diesen oberen Schichten. 
+
+4. **Zentrale Schicht**: In der Mitte gibt es die IP-Schicht, die dafür sorgt, dass die Daten an die richtige Adresse geschickt werden. 
+
+5. **Transport-Schicht**: Die Schicht darunter (Schicht 4) hilft beim Transport der Daten. Hier kommen die Protokolle TCP und UDP ins Spiel, die dafür sorgen, dass die Daten verlässlich oder schnell übertragen werden.
+
+Insgesamt hilft dieses Diagramm, zu verstehen, wie die verschiedenen Teile des Netzwerks zusammenarbeiten, damit wir mit unseren Geräten kommunizieren können.

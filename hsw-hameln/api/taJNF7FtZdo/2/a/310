@@ -1,0 +1,9 @@
+Die Aussage besagt, dass wir im OSI-Modell, das ein Modell für Netzwerke ist, sehen können, wie Daten behandelt werden, wenn sie durch verschiedene Computer und Router geschickt werden. Hier ist es einfach erklärt:
+
+1. Wenn Daten durch ein Netzwerk reisen, werden sie in "Pakete" verpackt.
+2. Diese Pakete werden an verschiedenen Punkten (Routern) auf ihrem Weg durch das Netzwerk überprüft.
+3. Die Router schauen sich die Adresse der nächsten Station an, um zu entscheiden, wo das Paket als Nächstes hin muss.
+4. Diese Kontrolle wird bis zu einem bestimmten Punkt durchgeführt, bis die wichtigste Adresse, die IP-Adresse, erreicht ist.
+5. An den Endpunkten, also den Computern oder Geräten, werden die Pakete dann ganz ausgepackt und die Daten werden an das Ziel geschickt.
+
+Zusammengefasst: Daten werden auf ihrer Reise durch das Netzwerk verpackt, an verschiedenen Stationen geprüft und schließlich am Ziel entpackt. Dabei ist es wichtig, dass jeder Router genau weiß, wohin das Paket als Nächstes gehen soll.

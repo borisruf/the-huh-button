@@ -1,0 +1,22 @@
+Die Aussage handelt von der Sicherheit in Computernetzwerken. Hier sind einige einfache Erklärungen zu den wichtigsten Punkten:
+
+1. **Sicherheit in Netzwerken**: Die Sicherheit ist wichtig, weil nicht nur Hacker von außen gefährlich sind, sondern auch Menschen внутри des Netzwerks. 
+
+2. **Maßnahmen zum Schutz**: Es gibt verschiedene Wege, um Netzwerke zu schützen:
+   - **Paketfilter**: Überprüfen, ob die Daten, die ins Netzwerk kommen, sicher sind.
+   - **Firewalls**: Blockieren unsichere Daten und lassen nur vertrauenswürdige Daten durch.
+   - **VPN (Virtuelle private Netzwerke)**: Schützen Daten, die über das Internet gesendet werden, indem sie sie verschlüsseln.
+   - **Bauliche Maßnahmen**: Sicherstellen, dass nur autorisierte Personen Zugang zu wichtigen Geräten haben.
+
+3. **WLAN-Sicherheit**: Bei drahtlosen Netzwerken (WLAN) ist es wichtig, dass die Daten nicht von Unbekannten abgefangen werden. Man sollte:
+   - Ein sicheres Passwort verwenden.
+   - Sich vergewissern, dass man sich nicht mit unsicheren Netzwerken verbindet.
+
+4. **Geräte von Benutzern**: Wenn Leute ihre eigenen Geräte (z.B. Smartphones) mitbringen, kann das riskant sein, weil man nicht weiß, ob diese Geräte sicher sind. 
+
+5. **Reaktion auf Risiken**: Um sich vor diesen Gefahren zu schützen, sollte man:
+   - Gute Passwörter erstellen und sicher speichern.
+   - Sicherheitsvorkehrungen treffen, um gefährliche Geräte fernzuhalten.
+   - Regelmäßige Schulungen zur Nutzung von Netzwerksicherheit anbieten.
+
+Zusammengefasst: Man muss vorsichtig sein, um Netzwerke vor internen und externen Bedrohungen zu schützen, und dafür verschiedene Maßnahmen und Technologien einsetzen.

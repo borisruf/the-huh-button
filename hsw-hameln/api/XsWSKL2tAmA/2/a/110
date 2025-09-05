@@ -1,5 +1,5 @@
-Um zu verstehen, wie IP-Adressen funktionieren, muss man sich vorstellen, dass jeder Computer eine einzigartige Nummer hat, die IP-Adresse. Diese Nummer besteht aus vier Teilen, die zueinander durch Punkte getrennt sind. 
+Die Aussage sagt, dass wir verstehen müssen, woher die Informationen in einer IP-Adresse kommen. Dazu müssen wir die IP-Adresse in eine Form umwandeln, die Computer nutzen, nämlich in eine spezielle Art von Zahlen, die „binär“ genannt wird. 
 
-Wie bei jeder Adresse gibt es einen Teil, der das Gebiet bestimmt, in dem der Computer liegt (Netzanteil) und einen Teil, der den Computer selbst beschreibt (Hostanteil). Welcher Teil was ist, wird durch eine weitere Nummer bestimmt, die Subnetzmaske. 
+Eine IP-Adresse, zum Beispiel 172.16.14.193, besteht aus vier Teilen, die Oktette genannt werden. Diese Teile helfen uns zu sagen, wo ein Computer im Internet ist. Um noch besser zu verstehen, wie die IP-Adresse funktioniert, schauen wir uns an, wie sie in diesen binären Zahlen aussieht. 
 
-Um zu verstehen woher diese Einteilung kommt, muss man sich die IP-Adresse anders anschauen, nämlich als eine lange Reihe von Nullen und Einsen. Diese Darstellung nennt man Binärschreibweise.
+Das ist wichtig, weil wir nur so sehen können, was genau in der IP-Adresse steht und wie sie funktioniert.

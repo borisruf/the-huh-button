@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass Sender und Empfänger bei der Datenübertragung vereinbaren, wie viele Daten sie gleichzeitig schicken oder empfangen können. Sie verwenden dabei etwas, das wie ein Fenster funktioniert. Dieses Fenster hilft ihnen, ihre Kommunikation so abzustimmen, dass sie gut zusammenarbeiten, ohne dass der Sender zu schnell ist und der Empfänger nicht hinterherkommt.
+
+Wenn der Sender Daten sendet, wartet er nicht mehr darauf, dass der Empfänger jede einzelne Dateneinheit bestätigt. Stattdessen wird eine größere Menge von Daten auf einmal geschickt, und der Empfänger gibt nur einmal Bescheid, wenn mehrere Daten angekommen sind. Diese Bestätigung nennt man „kumulative Bestätigung.“
+
+Das „Zeitdiagramm“ zeigt dann, wie diese Bestätigungen im Vergleich zu den Daten, die gesendet werden, ablaufen. So können beide Seiten effizienter arbeiten und die Verbindung besser nutzen.

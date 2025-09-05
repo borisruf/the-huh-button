@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes in ganz einfacher Sprache:
+
+Es gibt eine Methode, wie man Informationen (Bits) in eine Art von Signal umwandeln kann, das man über Kabel senden kann. Eine einfache Methode heißt "Return-to-Zero", aber bei dieser Methode gibt es ein Problem: Sie kann nicht gut erkennen, wann die Signale beginnen und enden, weil es viel gleichmäßige Spannung gibt.
+
+Eine bessere Möglichkeit ist das "Non-Return-to-Zero"-Verfahren, das es einfacher macht, die Nullen darzustellen, aber auch hier gibt es Schwierigkeiten mit dem Erkennen der Zeit.
+
+Um diese Probleme zu lösen, kann man das Non-Return-to-Zero-Verfahren mit einem Taktsignal verbinden. Das macht man, indem man eine spezielle Logik namens XOR verwendet. Dadurch ändert sich das Signal in jedem Zeitabschnitt, was hilft, die Information klarer zu übertragen und die Zeit besser zu erkennen.

@@ -1,0 +1,11 @@
+Stell dir vor, du versuchst, eine Nachricht über ein Kabel zu schicken. Manchmal wird die Nachricht schwächer, wenn sie ankommt. Das nennt man Dämpfung. Dafür gibt es verschiedene Gründe, und das Kabel hat bestimmte Eigenschaften, die beeinflussen, wie gut die Nachricht ankommt.
+
+Wenn wir über den Widerstand im Kabel reden, denken wir an zwei Arten:
+
+1. **Ohmscher Widerstand**: Das ist der Widerstand, den die elektrische Energie hat, wenn sie durch das Kabel fließt. Es ist wie ein Hindernis, das die Energie verlangsamt.
+
+2. **Blindwiderstand**: Das ist ein anderer Typ Widerstand, der nicht direkt die Energie bremst, aber trotzdem eine Rolle spielt, zum Beispiel bei Geräten, die schwingen oder Strom sparen.
+
+Wenn wir beide Widerstände zusammen betrachten, bekommen wir den **Scheinwiderstand**. Das ist ein Gesamtwert, der zeigt, wie das Kabel die Nachricht ansonsten beeinflusst. Man kann sich das wie ein Gemisch aus verschiedenen Sachen vorstellen, die zusammenwirken, wenn die Nachricht geschickt wird. 
+
+Um sicherzustellen, dass die Nachricht klar und ohne Störungen ankommt, müssen wir also beide Widerstände und ihre Effekte im Kabel berücksichtigen.

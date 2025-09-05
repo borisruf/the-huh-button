@@ -1,3 +1,11 @@
-Wir erinnern uns an die IP-Adresse, die aus Zahlen besteht, wobei jede Zahl durch einen Punkt getrennt ist. Nehmen wir zum Beispiel die IP-Adresse 172.16.14.193. Diese besteht aus vier Gruppen - auch Oktette genannt. Eine IP-Adresse und die dazu gehörende Subnetzmaske arbeiten zusammen, um Teile einer IP-Adresse für spezielle Zwecke zu verwenden.
+Um diese Aussage einfach zu erklären: 
 
-Um dies gut zu verstehen, müssen wir die IP-Adresse in eine Form umwandeln, die wir "binär" nennen. Diese repräsentiert die Zahlen als Kombinationen von 0 und 1. Beim Umrechnen von dieser binären Form zu unserer normalen, dezimalen Form (die Zahlen, wie wir sie kennen), schauen wir uns den Wert von jedem einzelnen Bit (den 0en und 1en) in jedem dieser Oktette an.
+Eine IP-Adresse, wie zum Beispiel 172.16.14.193, ist eine Art von Adresse, die Computern im Internet hilft, einander zu finden. Diese Adresse besteht aus vier Teilen, die wir "Oktette" nennen. Jedes Oktett hat 8 Stellen, und die Adresse hat insgesamt 32 Stellen.
+
+Um besser zu verstehen, wie diese Adresse funktioniert, schauen wir uns an, wie sie in einer anderen Art von Zählweise aussieht, nämlich in "binär". In der binären Zählweise benutzen wir nur die Zahlen 0 und 1.
+
+Wenn wir die IP-Adresse in Binärzahlen umwandeln wollen, müssen wir uns merken, dass jede Stelle in diesen vier Oktetten eine bestimmte Bedeutung hat, ähnlich wie die Stellenwerte in unseren bekannten Zahlen (z. B. Zehner, Hunderter). 
+
+Um von binär (mit 0 und 1) zu dezimal (mit 0 bis 9) zu rechnen, schauen wir uns an, welche Werte jede Stelle hat. So können wir die IP-Adresse besser verstehen und auch sehen, wie die Teile, die Netzanteil und Host-Anteil genannt werden, zusammenspielen. 
+
+Also, wir müssen die IP-Adresse zuerst in die Binärform umwandeln, um zu sehen, was genau passiert und wie sie aufgebaut ist.

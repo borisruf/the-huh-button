@@ -1,0 +1,7 @@
+Die Aussage bedeutet folgendes:
+
+Die ersten 64 Stellen einer IP-Adresse in Version 6 zeigen, zu welchem Netzwerk eine Adresse gehört. Man nennt das Netzwerkkennung. Obwohl es nicht genau ein Subnetz ist, wird es so behandelt.
+
+Zusätzlich hat jeder Computer und jedes Gerät im Netzwerk eine spezielle Adresse, die für seine Verbindung wichtig ist. Diese Adresse wird für jedes Gerät individuell festgelegt.
+
+Im Ganzen ist das wichtig, damit jedes Gerät im Internet eindeutig identifiziert werden kann und um zu wissen, zu welchem Netzwerk es gehört.

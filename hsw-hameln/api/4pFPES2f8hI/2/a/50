@@ -1,0 +1,11 @@
+Die Aussage erklärt ein Problem mit Internetadressen und warum wir Lösungen dafür brauchen. 
+
+1. **IP Version 4 Adressen werden knapp**: Es gibt nicht mehr genug Internetadressen für alle Geräte. 
+
+2. **Techniken zur Lösung**: Man muss sich Methoden oder Techniken überlegen, um mit dem Mangel an Adressen umzugehen. 
+
+3. **Sicherheit**: Netzwerke haben keine grundlegende Sicherheit. Das bedeutet, es ist nicht so einfach, sie zu schützen, und das wird später genauer erklärt.
+
+4. **Verwaltungsprobleme**: Ohne Subnetze, also kleinere Gruppen von Adressen, ist es schwierig, das Netzwerk zu verwalten.
+
+Zusammengefasst: Es gibt ein Problem mit zu wenigen Internetadressen und eine fehlende Sicherheit, und Subnetze helfen dabei, Dinge besser zu organisieren und zu verwalten.

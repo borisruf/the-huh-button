@@ -1,0 +1,9 @@
+Die Aussage dreht sich um die Geschwindigkeit, mit der Daten über Signale übertragen werden. 
+
+Stell dir vor, du sprichst mit jemandem und je schneller ihr sprecht, desto mehr Informationen könnt ihr in einer Minute austauschen. In der Technik gibt es auch eine Art „Sprache“ für die Übertragung von Daten, und dafür gibt es verschiedene Maße, um die Geschwindigkeit zu beschreiben.
+
+1. **Baudrate**: Das ist ein Maß dafür, wie oft sich das Signal oder die „Sprache“ in einer Sekunde ändert. Wenn sich das Signal einmal pro Sekunde ändert, sagt man, es hat eine Baudrate von 1 Baud. Das hilft zu verstehen, wie schnell etwas über die Leitung geschickt wird.
+
+2. **Bit pro Sekunde (bps)**: Das ist ein anderes Maß für die Geschwindigkeit und zeigt, wie viele Bits – also kleine Einheiten von Daten – in einer Sekunde übertragen werden. Es sagt uns mehr darüber, wie viel Information wirklich geschickt wird.
+
+Die Begriffe helfen zu erklären, wie Daten transportiert werden und wie schnell das alles funktioniert. In einfachen Worten, die Baudrate zeigt, wie oft wir das Signal wechseln, und die Bitrate zeigt, wie viele Informationen wir dabei verschicken.

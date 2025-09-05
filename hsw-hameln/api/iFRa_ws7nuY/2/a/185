@@ -1,0 +1,11 @@
+Stell dir vor, wir wollen Informationen über einen Abstand oder eine Strecke verschicken. Um das zu tun, nehmen wir Daten (wie eine Nachricht) und machen daraus ein Signal, das wir über die Luft oder ein Kabel senden können. 
+
+Ein Signal ist einfach eine Art, unsere Daten so darzustellen, dass sie sich über Raum und Zeit ändern können. Zum Beispiel gibt es etwas, das nennt sich elektromagnetische Welle. Das ist wie eine Welle im Wasser, aber sie bewegt sich durch die Luft oder ein Kabel. 
+
+Wenn wir eine solche Welle an einem bestimmten Ort betrachten, sehen wir, dass sie sich über die Zeit verändert. Wir schauen uns also das Signal an einem bestimmten Punkt und zu bestimmten Zeiten an. Dieser Prozess, bei dem wir das Signal regelmäßig messen, nennt sich Abtastung. Wenn wir dies für gleichmäßige Zeitabstände tun, nennen wir das "zeitdiskrete Abtastung".
+
+Aber wir können auch schauen, wie hoch die Welle an einem bestimmten Punkt ist. Das nennt man "wertdiskrete Abtastung". Wenn wir beide Arten von Messungen kombinieren, können wir das Signal in eine digitale Form umwandeln, die wir dann senden können.
+
+Jetzt gibt es spezielle Regeln für solche Wellen, wie die Sinuswelle, die wir verwenden, um die Beschaffenheit des Signals zu beschreiben. Um genau zu sein, schauen wir auf die Welle und berücksichtigen nicht nur die Zeit, sondern auch den Ort, an dem sie sich befindet, sowie wie schnell sie sich bewegt.
+
+Zusammengefasst: Wir schicken Informationen, indem wir sie in Signale umwandeln, die sich über Zeit und Raum verändern, wie eine Welle. Diese Wellen können wir dann digitalisieren und über Medien wie Kabel oder Luft übertragen.

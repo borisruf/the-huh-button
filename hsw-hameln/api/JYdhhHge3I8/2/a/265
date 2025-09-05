@@ -1,0 +1,7 @@
+Die Aussage sagt, dass es einen wichtigen Unterschied gibt, wenn wir über zwei Arten von Datenübertragung sprechen: asynchrone und synchronisierte oder parallele Übertragung.
+
+1. **Asynchrone Übertragung**: Das bedeutet, dass die Daten nicht gleichzeitig oder zur gleichen Zeit ankommen. Es kann sein, dass einige Daten warten müssen, bis andere Daten übermittelt sind. Das ist wie beim Warten in einer Schlange, wo jeder nacheinander bedient wird.
+
+2. **Paketvermittlung**: Bei der Paketvermittlung können die Daten in kleine Teile, oder „Pakete“, aufgeteilt werden. Diese Pakete können auf verschiedene Wege geschickt werden und es ist nicht nötig, dass alles gleichzeitig ankommt. Hier wird es „synchron“ oder „parallel“. Das bedeutet, dass mehrere Pakete gleichzeitig oder in geordneter Weise übertragen werden können. 
+
+Zusammengefasst: Bei der asynchronen Methode warten die Daten oft, während sie bei der Paketvermittlung in kleinen Teilen schnell und gleichzeitig verschickt werden können.

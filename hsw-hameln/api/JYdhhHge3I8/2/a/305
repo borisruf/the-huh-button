@@ -1,0 +1,7 @@
+In der Erklärung geht es um, wie Daten in Netzwerken übertragen werden. Es gibt verschiedene Arten, wie diese Übertragung funktioniert. Eine Methode ist die Leitungsvermittlung, die man sich wie ein Telefonat vorstellen kann, wo ein direkter Weg zwischen zwei Menschen eingerichtet wird. Wenn man telefoniert, können andere nicht gleichzeitig die gleiche Leitung benutzen – sie müssen warten.
+
+Eine andere Methode ist die Speichervermittlung. Hier werden die Daten nicht gleich weitergeleitet, sondern erst gespeichert und später verschickt, wie ein Brief, der durch verschiedene Poststellen geschickt wird. So können mehrere Nachrichten gleichzeitig verschickt werden, ohne dass sie die gleiche Verbindung benutzen müssen.
+
+Die dritte Methode, die Paketvermittlung, ist eine besondere Art der Speichervermittlung. Hier werden die Daten in kleine Teile (Pakete) zerlegt, die dann auf verschiedenen Wegen gleichzeitig geschickt werden können. Diese Pakete haben Nummern, damit am Ende wieder alles in der richtigen Reihenfolge zusammengesetzt werden kann.
+
+Also, es gibt verschiedene Wege, um Daten von einem Punkt zum anderen zu bringen, abhängig davon, ob man eine direkte Verbindung braucht oder ob man die Daten zwischenspeichern und später verschicken kann.

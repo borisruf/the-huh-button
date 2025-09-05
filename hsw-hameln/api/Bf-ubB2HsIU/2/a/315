@@ -1,3 +1,7 @@
-Dieser Text erzählt von verschiedenen Protokollen, die im Internet benutzt werden. Mit diesen Protokollen kann man zum Beispiel Daten von einem Computer zu einem anderen schicken. Dabei ist es wichtig, dass die Daten auch wirklich ankommen und dass sie richtig sind. Deshalb gibt es auch noch zusätzliche Protokolle, die dabei helfen, dass die Daten korrekt ankommen.
+Die Aussage sagt, dass wir ein System haben, das es uns erlaubt, mehrere Dinge gleichzeitig zu tun, ohne dass sie sich gegenseitig stören. Das geschieht durch sogenannte Portnummern.
 
-Eine wichtige Rolle spielen dabei die "Portnummern". Stelle dir vor, dein Computer wäre ein riesiges Haus mit vielen Zimmern. Jedes dieser Zimmer gehört zu einem bestimmten Programm auf deinem Computer. Wenn jetzt Daten an deinen Computer geschickt werden, müssen sie in das richtige Zimmer gelangen. Die "Portnummern" sind dabei so etwas wie Zimmernummern, die dafür sorgen, dass die Daten auch wirklich in das richtige Zimmer gelangen. Das ist wichtig, weil jedes Programm auf deinem Computer nur die Daten verstehen kann, die für dieses Programm bestimmt sind. Deshalb braucht man eine Möglichkeit, die Daten den richtigen Programmen zuzuordnen.
+Um das einfacher zu erklären: Stell dir vor, dein Computer ist wie ein großes Restaurant. In diesem Restaurant gibt es viele Tische (das sind die verschiedenen Anwendungen oder Prozesse), an denen Menschen essen (das sind die Daten). Jeder Tisch hat eine eigene Nummer (das sind die Portnummern). 
+
+Wenn eine Bestellung (also Daten) vom Restaurant mit einem Lieferwagen (also über das Netzwerk) kommt, wird sie an die richtige Tischnummer geschickt. So weiß der Kellner (dein Computer), wo die Bestellung hingehört. 
+
+Die Portnummern helfen also dabei, verschiedene Bestellungen gleichzeitig zu verwalten, damit alles reibungslos läuft und die Daten an die richtigen Anwendungen kommen.

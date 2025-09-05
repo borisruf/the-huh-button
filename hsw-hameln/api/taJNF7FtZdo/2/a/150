@@ -1,0 +1,5 @@
+Die Aussage beschreibt, was ein Router macht, wenn er Daten empfängt. Wenn ein Router ein Datenpaket bekommt, überprüft er zuerst, ob er der letzte Stop ist, bevor die Daten ihr Ziel erreichen. 
+
+Wenn er dieser letzte Stop ist, schickt er die Daten direkt weiter zum Ziel. 
+
+Stellen Sie sich vor, der Router ist wie eine Person, die die letzte Information an jemanden übermittelt, bevor dieser die Aufgabe hat, sie zu nutzen. Wenn der Router es schafft, die Daten direkt weiterzugeben, macht er das, um sicherzustellen, dass alles schnell und effizient läuft. So hilft der Router, dass die Informationen schnell zum richtigen Ort gelangen, ähnlich wie eine Straßenkarte, die den besten Weg zeigt.

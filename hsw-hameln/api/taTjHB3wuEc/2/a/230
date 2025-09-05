@@ -1,0 +1,5 @@
+Die Aussage sagt, dass beim Senden von Daten zwischen zwei Computern wichtig ist, dass beide die gleiche Größe für ihr Empfangsfenster (Receive-Window-Size) einstellen. 
+
+Einfach gesagt: Wenn ein Computer Daten sendet, muss der andere Computer wissen, wie viele Daten er gleichzeitig empfangen kann, ohne überfordert zu werden. 
+
+Wenn die Größe beider Fenster gleich ist, können die Computer gut zusammenarbeiten und die Daten effizienter senden und empfangen, ohne dass es zu Verzögerungen oder Problemen kommt.

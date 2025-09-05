@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass wir immer noch fünf Teile eines Netzwerks haben, die miteinander verbunden sind. Aber jetzt haben wir zwischen diesen Teilen einen Switch eingefügt. 
+
+Das heißt, der Switch hilft, die Daten zwischen den fünf Teilen besser zu verwalten. Er sorgt dafür, dass die Kommunikation effizienter läuft und es weniger Probleme gibt, wenn mehrere Geräte gleichzeitig Daten senden. Der Switch macht das, indem er anhand von Adressen herausfindet, wo die Daten hin müssen. So können die Teile des Netzwerks besser miteinander sprechen.

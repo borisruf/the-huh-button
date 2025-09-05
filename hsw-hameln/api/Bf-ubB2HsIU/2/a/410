@@ -1,1 +1,11 @@
-Verstehst du Telefonieren? Das ist so ähnlich. Stell dir vor, du rufst jemanden an und sagst "Hallo, ich bin hier". Der andere soll dann sagen "Hallo, ich habe verstanden, dass du da bist und ich bin auch hier". Und damit ihr beide wisst, dass ihr miteinander spricht und nicht durcheinander, nummeriert ihr eure Nachrichten. Du hast mit Nachricht 1 angefangen und der andere bestätigt, dass er Nachricht 1 erhalten hat und sendet seine eigene Nachricht, die er als Nummer 2 bezeichnet.
+In dieser Erklärung geht es darum, wie zwei Computer, die miteinander kommunizieren wollen, sich zuerst „vorstellen“ und sicherstellen, dass die Verbindung funktioniert.
+
+1. **Zwei Computer**: Stell dir vor, es gibt zwei Computer. Einer möchte mit dem anderen sprechen.
+
+2. **Erster Schritt – Senden einer Nachricht**: Der erste Computer (sagen wir Computer A) sendet eine spezielle Nachricht an Computer B. Diese Nachricht heißt „Sync-Zeichen“ und hat eine Nummer, die wir X nennen. X zeigt, dass Computer A bereit ist und auch gleich etwas schicken will.
+
+3. **Zweiter Schritt – Bestätigung**: Computer B bekommt die Nachricht von Computer A. Im besten Fall antwortet Computer B mit einer eigenen Nachricht. Diese Nachricht sagt, dass B die Nachricht von A erhalten hat. Um das zu zeigen, schickt B eine Nummer zurück. Diese Nummer ist X + 1. Das bedeutet, dass B das verstanden hat und jetzt bereit ist, mit A zu kommunizieren.
+
+4. **Dritte Antwort – Eigene Nummer senden**: Außerdem schickt Computer B seine eigene Nummer, die wir Y nennen. Diese Nummer zeigt, dass auch B bereit ist zu komunizieren.
+
+Zusammengefasst: Die beiden Computer senden spezielle Nachrichten hin und her, um sicherzustellen, dass sie bereit sind, miteinander zu sprechen. So stellen sie eine gute Verbindung her.

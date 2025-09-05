@@ -1,19 +1,11 @@
-In einfachen Worten bedeutet das:
+In dieser Erklärung geht es um Netzwerke und wie Computer miteinander kommunizieren. Wir schauen uns zwei wichtige Dinge an: TCP und IP. IP hilft, die Daten zu einem bestimmten Ort zu schicken, und TCP sorgt dafür, dass die Daten sicher und in der richtigen Reihenfolge ankommen.
 
-Wir haben gerade über Computernetzwerke gelernt und über zwei wichtige Regeln, wie sie funktionieren, das sind TCP und IP. Jetzt wollen wir tiefer einsteigen und verstehen, wie sie genau funktionieren. Das ist wie ein Bauplan für alle Netzwerke, aber auch andere technische Sachen in den Netzwerken. Jetzt sehen wir auf dem Bild eine einfache Version von diesem Bauplan.
+Auf einem Bild sehen wir ein Modell, das zeigt, wie alles funktioniert. Es gibt vier wichtige Schichten, die hier helfen, die Kommunikation einfach und unabhängig von der Technik zu machen. Das bedeutet, dass unterschiedliche Geräte leicht miteinander reden können, wenn sie sich an dieselben Regeln halten.
 
-Die Idee hinter diesem Bauplan ist, dass wir nicht immer die gleiche Technik oder Bauweise brauchen, aber trotzdem alles miteinander verbunden ist. Dafür brauchen wir Standard-Regeln und wir müssen immer auf die gleiche Weise bestätigen, dass alles richtig verbunden ist. Außerdem brauchen wir verschiedene Programme, die im Netzwerk laufen. 
+Im Bild ist auch erklärt, wie Daten von einem Computer zu einem anderen geschickt werden. Wenn Daten ankommen, möchte der Computer sicherstellen, dass alles richtig ist, und nutzt dafür TCP und IP. 
 
-Für die Programme TCP und IP sehen wir, dass IP einfach Daten verschickt. Aber TCP kümmert sich darum, dass die Daten auch richtig und ohne Fehler ankommen. Es gibt auch noch andere Programme, die mit IP zusammenarbeiten, um alles gut funktionieren zu lassen. 
+Ein wichtiger Teil sind die „Ports“. Man kann sich Ports wie Türöffnungen vorstellen, durch die verschiedene Datenströme in einen Computer kommen. Jeder Datenstrom hat eine eigene Portnummer, damit der Computer weiß, welches Programm die Daten bekommen soll.
 
-Bei der vierten Stufe im Bauplan wollen wir sicherstellen, dass die Daten sicher ankommen. Daher brauchen wir eine Kontrollmöglichkeit von Anfang bis Ende. 
+Wenn zwei Computer miteinander sprechen wollen, stellen sie zuerst eine Verbindung her, das nennt man „Drei-Wege-Handshake“. Dabei schicken sie sich kleine Nachrichten, um sicherzustellen, dass die Verbindung steht, und erst dann können sie Daten austauschen.
 
-Wenn wir uns TCP genauer anschauen, sehen wir, dass es verschiedene Informationen enthält, die wir brauchen, um die Daten richtig zu verschicken. Zum Beispiel gibt es Nummern (sogenannte Ports), die uns sagen, welche Programme gerade benutzt werden. Und es gibt auch die eigentlichen Daten, die wir verschicken wollen. 
-
-Die Nummern sind wichtig, weil wir oft viele verschiedene Daten und Programme auf einmal haben und wir müssen sicherstellen, dass alles richtig sortiert ist. Es gibt festgelegte Nummern für bestimmte Programme, so dass wir wissen, was was ist. 
-
-Wenn wir eine Kombination von einer IP-Adresse und einer Nummer haben, dann haben wir sozusagen ein "Socket". Das bedeutet, wir können die Daten zu einem bestimmten Computer und einem bestimmten Programm zuordnen. 
-
-Wenn zwei Computer miteinander kommunizieren wollen, dann müssen sie zuerst "Hallo" sagen und sicherstellen, dass sie auf der gleichen Wellenlänge sind. Das passiert mit einem speziellen Prozess, der "Drei-Wege-Handshake" genannt wird. Es ist wie ein Ping-Pong-Spiel von Informationen, bis beide Seiten sich verstanden haben. 
-
-Und jetzt schauen wir uns an, wie das in einem Bild aussieht. Da sind auch viele Dinge dabei, die wir schon gelernt haben.
+Insgesamt hilft all das, dass computerbasierte Kommunikation effektiv und sicher funktioniert.

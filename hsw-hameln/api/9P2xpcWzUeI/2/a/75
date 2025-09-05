@@ -1,0 +1,3 @@
+Die Aussage erklärt, dass man in einem Gebäude mit mehreren Stockwerken meist für jedes Stockwerk ein eigenes Netzwerk hat. Das ist eine einfache Art, die Netzwerke zu organisieren. Aber diese Einteilung ist manchmal zu starr und passt nicht immer gut zu dem, was man wirklich braucht.
+
+Um flexibler zu sein, kann man virtuelle Netzwerke nutzen, die man VLANs nennt. Das bedeutet, dass man auch in einem Gebäude mit drei Stockwerken verschiedene Netzwerke schaffen kann, ohne die physische Struktur zu ändern. Man kann also mehrere kleine Netzwerke in einem großen Gebäude haben, die trotzdem gut zusammenarbeiten, ganz so wie man es braucht, ohne an feste Regeln gebunden zu sein.

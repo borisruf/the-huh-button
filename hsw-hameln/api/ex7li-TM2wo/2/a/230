@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie wir sicherstellen können, dass Informationen, die wir über das Internet oder andere Netzwerke senden, nicht beschädigt werden. 
+
+Stell dir vor, du schickst eine Nachricht an einen Freund. Manchmal könnte es passieren, dass ein paar Buchstaben in der Nachricht falsch sind, weil etwas mit dem Übertragungsweg nicht stimmt. Um herauszufinden, ob die Nachricht richtig ankommt, fügen wir eine Art "Zusatzinformation" hinzu, die wir Prüfziffer oder Prüfsumme nennen. 
+
+Diese Prüfziffer hilft uns zu überprüfen, ob alles in der Nachricht in Ordnung ist. Wenn wir die Nachricht empfangen, können wir die Prüfziffer überprüfen. Wenn sie nicht stimmt, wissen wir, dass es einen Fehler gab, und wir können den Absender bitten, die Nachricht noch einmal zu senden. 
+
+Das Verfahren, über das hier gesprochen wird, wird zyklischer Redundanz-Check (CRC) genannt. Es ist also eine Methode, um sicherzustellen, dass die gesendeten Daten korrekt sind, indem wir eine Prüfziffer hinzufügen.

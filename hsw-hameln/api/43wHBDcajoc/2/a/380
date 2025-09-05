@@ -1,0 +1,7 @@
+In einfachen Worten bedeutet die Aussage Folgendes:
+
+Wenn wir mit Funknetzwerken arbeiten, gibt es bestimmte Frequenzen, die wir benutzen können. Im ISM-Bereich, wo viele Geräte wie Wi-Fi und Bluetooth arbeiten, gibt es 14 Kanäle, die wir nutzen können. Jeder Kanal hat eine bestimmte Breite.
+
+Wenn wir mehrere Kanäle nebeneinander nutzen möchten, ist es wichtig, dass sie sich nicht überschneiden. Wir können nur drei Kanäle gleichzeitig benutzen, ohne dass sie sich überlappen. Wenn sie sich überlappen, entstehen Störungen. Diese Störungen nennt man Interferenzen, und sie machen das Signal schwächer. Wenn das Signal schwächer ist, kann weniger Daten gleichzeitig übertragen werden, das bedeutet, die Verbindung wird langsamer.
+
+Zusammengefasst: Um gut zu kommunizieren, müssen wir darauf achten, dass die Kanäle nicht überlappen, sonst gibt es Störungen und die Verbindung wird schlechter.

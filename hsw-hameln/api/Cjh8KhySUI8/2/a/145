@@ -1,0 +1,10 @@
+Die Aussage bedeutet, dass es zwei verschiedene Arten gibt, wie Computer Daten schicken können: TCP und UDP. 
+
+Bei TCP (das ist die eine Art) gibt es bestimmte Dinge, die helfen zu überprüfen, ob die Daten richtig ankommen. Dazu gehören:
+
+- **Sequenznummer**: Das ist eine Nummer, die sagt, in welcher Reihenfolge die Daten geschickt wurden. So kann der Computer erkennen, ob etwas fehlt oder durcheinandergeraten ist.
+- **Acknowledgements (Bestätigungen)**: Das sind Nachrichten, die sagen, dass die Daten erfolgreich angekommen sind.
+
+Bei UDP (die andere Art) fehlen diese Dinge. Das bedeutet, dass UDP schneller ist, aber nicht so sicher. Es kümmert sich nicht darum, ob alle Daten ankommen oder in der richtigen Reihenfolge sind. 
+
+Der wichtige Unterschied ist also: TCP sorgt dafür, dass alles richtig ankommt, während UDP sich mehr darauf konzentriert, die Daten schnell zu schicken, auch wenn manchmal etwas verloren geht.

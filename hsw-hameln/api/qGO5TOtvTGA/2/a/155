@@ -1,0 +1,13 @@
+In dieser Erklärung geht es um das Routing von Daten in einem Netzwerk. Routing bedeutet, dass Daten von einem Punkt (A) zu einem anderen Punkt (B) geschickt werden, und dabei von verschiedenen Routern geleitet werden. 
+
+Es gibt zwei Hauptarten, wie man den Routern sagen kann, wie sie die Daten schicken sollen:
+
+1. **Statisches Routing**: Hier sagt eine Person (ein Administrator) den Routern genau, welchen Weg sie für die Daten nehmen sollen. Das ist wie eine festgelegte Straße, die immer gleich bleibt.
+
+2. **Dynamisches Routing**: Bei dieser Methode können die Router selbst entscheiden, welchen Weg sie nehmen sollen, je nachdem, wie die Straße gerade aussieht. Sie bekommen ständig Informationen von anderen Routern, um den besten Weg zu finden.
+
+Es gibt auch verschiedene Protokolle für dynamisches Routing. Einige Protokolle sind gut für kleine Netzwerke und andere für große Netzwerke wie das Internet. 
+
+Eine Sache, die man sich merken sollte: IP ist ein Protokoll zum Senden von Daten, und bei anderen Protokollen wie RIP geht es speziell um das Routing, also wie die Daten am besten geschickt werden. Man sollte diese Begriffe nicht durcheinander bringen. 
+
+Zusammenfassend: Man kann entweder feste Routen einstellen oder den Routern erlauben, selbst Routen zu finden.

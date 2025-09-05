@@ -1,0 +1,5 @@
+In dieser Aussage geht es darum, wie man die Einsen und Nullen in einem Computersystem in Signale umwandelt, die über Kabel gesendet werden können. 
+
+Stell dir vor, dass eine Eins wie ein Licht ist, das leuchtet, und eine Null wie ein Licht, das aus ist. Wenn wir eine Eins senden wollen, machen wir einen kurzen Ausschlag, also das Licht leuchtet für einen Moment. Wenn wir eine Null senden wollen, bleibt das Licht aus. Das Schaubild zeigt, dass wir mit diesem einfachen System von Licht an und aus unsere Daten übermitteln können. 
+
+Das Verfahren heißt "Return-to-Zero", weil das Licht wieder in den Zustand "aus" zurückkehrt, wenn wir eine Null senden. So können wir durch das Ein- und Ausschalten das, was wir sagen wollen, einfach über das Kabel schicken.

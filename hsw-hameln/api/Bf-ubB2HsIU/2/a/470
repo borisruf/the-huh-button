@@ -1,5 +1,9 @@
-Die Aussage dreht sich um die Art und Weise, wie im Internet Daten von einem Ort zum anderen geschickt werden. Das nennt man Kommunikation. Bei dieser Kommunikation gibt es eine Menge Regeln, damit alles funktioniert. Ein paar von denen haben wir schon gelernt. Zum Beispiel müssen wir immer bestätigen, dass wir eine Nachricht bekommen haben. Auch braucht jede Nachricht eine eigene Nummer, damit wir wissen, ob vielleicht eine Nachricht fehlt. Und am Ende der Übertragung sagen wir auch Bescheid, dass jetzt alle Nachrichten angekommen sind. 
+In diesem Text geht es darum, wie Daten in Netzwerken übertragen werden, besonders durch die Protokolle TCP und IP. 
 
-Ein anderes Thema, das wir schon besprochen haben, ist das sogenannte "Sliding-Window-Verfahren". Das ist eine Methode, um zu entscheiden, wie viele Nachrichten wir auf einmal verschicken oder empfangen können. 
+Stell dir vor, zwei Computer wollen miteinander sprechen. Zuerst müssen sie sich kennenlernen, das nennt man "Drei-Wege-Handshake". Dabei sendet der erste Computer ein Zeichen, um zu sagen "Hallo, ich möchte mit dir reden!" Der zweite Computer antwortet mit einem Zeichen, um zu bestätigen, dass er das erste Zeichen verstanden hat. Zum Schluss sagt der erste Computer noch einmal "Danke für die Bestätigung!" Jetzt wissen beide Computer, dass sie miteinander reden können.
 
-Kurz gesagt, wir schauen uns in diesem Kapitel genauer an, wie die Kommunikation im Internet abläuft und welche Regeln dabei beachtet werden müssen.
+Beim Sprechen müssen die Computer sich auch um wichtige Dinge kümmern, damit die Daten sicher ankommen. Sie benutzen „Bestätigungen“ – das sind kleine Nachrichten, die sagen, dass alles gut angekommen ist – und „Sequenznummern“, um die Daten in der richtigen Reihenfolge zu halten.
+
+Außerdem gehen die übertragenen Daten nicht einfach so verloren. Wenn etwas fehlt, wird es erneut gesendet. Das nennt man „Timeout“.
+
+Also zusammengefasst: Die Computer sprechen miteinander, stellen sicher, dass alles ankommt, und verwenden dabei verschiedene Techniken, um die Kommunikation genau und verlässlich zu machen.

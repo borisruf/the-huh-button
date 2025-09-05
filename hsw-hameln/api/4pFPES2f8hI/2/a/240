@@ -1,0 +1,11 @@
+Die Aussage "14. 193 Netzwerke" bezieht sich auf eine IP-Adresse, die in einem bestimmten Format geschrieben ist und zeigt eine bestimmte Art von Netzwerk an. Lass uns das einfach erklären:
+
+1. **IP-Adresse**: Eine IP-Adresse ist eine spezielle Nummer, die Geräten in einem Netzwerk (wie Computern oder Routern) hilft, sich zu finden und miteinander zu kommunizieren. Die Adresse sieht manchmal so aus: 192.168.14.193.
+
+2. **Subnetze**: Wenn wir ein großes Netzwerk haben (zum Beispiel eine große Gruppe von Computern), können wir dieses große Netzwerk in kleinere Teile aufteilen. Diese kleineren Teile nennt man Subnetze. Das hilft, die Netzwerke besser zu verwalten und sicherer zu machen.
+
+3. **Zahl 14**: Wenn wir sagen "14", könnte das bedeuten, dass wir in diesem speziellen Netzwerk 14 Subnetze gebildet haben. 
+
+4. **Zahl 193**: Die Zahl "193" ist Teil der IP-Adresse und zeigt eine spezifische Adresse im Subnetz an. Jedes Gerät im Subnetz hat eine eigene Adresse, damit es leicht zu finden ist.
+
+Zusammengefasst: Die Aussage sagt uns, dass wir ein Netzwerk (192.168.14.193) haben, das in 14 kleinere Teile aufgeteilt ist, und jedes Teil hat eine spezielle Adresse. So können alle Geräte in diesem Netzwerk besser miteinander kommunizieren.

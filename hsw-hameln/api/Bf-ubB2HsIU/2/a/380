@@ -1,1 +1,11 @@
-Es ist so ähnlich wie wenn du und ein Freund miteinander telefonieren wollen. Es gibt eine bestimmte Nummer, die du anrufen musst, um deinen Freund zu erreichen, das ist seine Telefonnummer. Und es gibt auch eine bestimmte Nummer, die er anrufen muss, um dich zu erreichen, das ist deine Telefonnummer. In der Computertechnik ist es ähnlich. Wenn zwei Computer miteinander sprechen wollen, müssen sie erst einmal die "Telefonnummern" des anderen kennen. Diese "Telefonnummern" sind in diesem Fall die Ports. Es gibt verschiedene Ports, die für verschiedene Zwecke da sind, zum Beispiel der Port für das Internet oder der Port für das Drucken. Aber es gibt auch noch viele andere Ports, die für verschiedene andere Dinge genutzt werden können. Wenn die beiden Computer dann miteinander sprechen wollen, müssen sie erst einmal die Ports des anderen kennen.
+Ein Drei-Wege-Handshake ist ein Verfahren, das zwei Computer verwenden, um sicherzustellen, dass sie bereit sind, miteinander zu kommunizieren. Es gibt drei Schritte:
+
+1. **Anfrage senden**: Der erste Computer (wir nennen ihn Computer A) sendet eine Nachricht an den zweiten Computer (Computer B), um ihm zu sagen, dass er eine Verbindung herstellen möchte. Diese Nachricht heißt "SYN" und bedeutet "synchronized", also "synchronisiert".
+
+2. **Bestätigung senden**: Wenn Computer B die Nachricht von Computer A erhält und bereit ist, die Verbindung herzustellen, antwortet er mit zwei Nachrichten: Er bestätigt den Empfang der Anfrage von Computer A und sendet gleichzeitig seine eigene Anfrage zurück. Das nennt man "SYN-ACK". "ACK" steht für "Acknowledgment", also "Bestätigung".
+
+3. **Verbindung bestätigen**: Schließlich sendet Computer A eine weitere Bestätigung zurück an Computer B, um zu zeigen, dass er die Antwort erhalten hat. Das nennt man "ACK". 
+
+Wenn Computer B diese letzte Bestätigung erhält, ist die Verbindung vollständig hergestellt, und die beiden Computer können sicher Daten austauschen.
+
+Zusammengefasst: Der Drei-Wege-Handshake ist wie ein Treffen zwischen zwei Leuten, bei dem sie sich gegenseitig ihre Absicht, miteinander zu reden, bestätigen, bevor sie das Gespräch beginnen.

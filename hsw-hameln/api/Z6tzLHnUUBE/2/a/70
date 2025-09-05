@@ -1,0 +1,11 @@
+Die Aussage erklärt, dass das Internetprotokoll (IP) eine wichtige Aufgabe hat, nämlich Daten in kleine Teile zu zerlegen, wenn sie über das Internet gesendet werden. Wir nennen das "Fragmentierung". Wenn die Daten dann am Ziel ankommen, müssen diese Teile wieder zusammengefügt werden, was "Defragmentierung" heißt. 
+
+Zudem sagt die Aussage, dass IP selbst keine Garantie dafür gibt, dass die Daten sicher oder in der richtigen Reihenfolge ankommen. Das nennt man „unzuverlässig” und „verbindungslos”. Das bedeutet, dass es keine feste Verbindung zwischen Sender und Empfänger gibt. 
+
+Um die Kommunikation sicherer und verbindlicher zu machen, kommt ein anderes Protokoll ins Spiel, nämlich TCP (Transmission Control Protocol). TCP sorgt dafür, dass die Daten zuverlässig gesendet und empfangen werden, also dass alles richtig ankommt und in der richtigen Reihenfolge.
+
+Zusammengefasst:
+- IP zerlegt Daten in kleinere Teile, die über das Internet geschickt werden (Fragmentierung).
+- Diese Teile müssen später wieder zusammengefügt werden (Defragmentierung).
+- IP ist unzuverlässig und hat keine feste Verbindung.
+- TCP macht die Kommunikation zuverlässig und sorgt dafür, dass alles korrekt ankommt.

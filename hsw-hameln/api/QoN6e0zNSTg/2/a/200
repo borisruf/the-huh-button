@@ -1,0 +1,7 @@
+Stell dir vor, mehrere Leute wollen gleichzeitig mit einem Mikrofon sprechen. Bevor sie anfangen, hören sie zuerst, ob das Mikrofon frei ist. Das nennt man "abhören". Wenn zwei Leute (gerade wie Geräte 1 und 3) feststellen, dass das Mikrofon frei ist, fangen sie gleichzeitig an zu reden.
+
+Aber was passiert, wenn sie beide gleichzeitig sprechen? Es gibt eine Kollision! Das bedeutet, dass ihre Stimmen sich überschneiden und es zu einem Durcheinander kommt. Das ist nicht gut, weil niemand dann versteht, was gesagt wird.
+
+Deshalb muss es eine Regel geben, um solche Kollisionen zu vermeiden oder zu erkennen. Die Regel heißt "Collision Detection" (Kollisionserkennnung). Wenn die Geräte merken, dass es eine Kollision gibt, müssen sie anhalten und es noch einmal versuchen. Dabei hilft ein bisschen Zufall, damit sie nicht immer gleichzeitig anfangen.
+
+Zusammenfassend ist das also wie bei einer Gruppe von Leuten, die sich abwechseln müssen, um sicherzustellen, dass jeder gut gehört wird, und sie müssen darauf achten, dass sie nicht gleichzeitig reden.

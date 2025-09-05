@@ -1,0 +1,7 @@
+In einfachen Worten sagt die Aussage Folgendes:
+
+Wenn wir verschiedene VLANs haben, zum Beispiel eines für Daten und eines für Sprachkommunikation (Voice over IP), dann gibt es wichtige Unterschiede. Wenn im Daten-VLAN viele Nachrichten (Broadcasts) verschickt werden, bleiben diese nur dort und stören nicht die Telefone im Voice-VLAN. 
+
+Umgekehrt bedeutet das auch, dass wenn in unserem normalen Datennetzwerk, wo nur Daten übertragen werden, Nachrichten wie für die Zuteilung von IP-Adressen (DHCP) gesendet werden, diese Nachrichten die Sprachkommunikation nicht beeinträchtigen. 
+
+Das hilft, alles klar und ordentlich zu halten: Die Daten kommunizieren ohne Störungen mit den Telefonansrufen und umgekehrt.

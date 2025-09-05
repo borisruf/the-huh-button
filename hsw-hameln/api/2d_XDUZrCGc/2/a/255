@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es verschiedene Arten von IP-Adressen gibt. Es gibt private IP-Adressen, die in kleineren Netzwerken, wie zum Beispiel in deinem Zuhause oder an Schulen, verwendet werden. Diese Adressen dürfen von jedem frei vergeben werden. Das heißt, verschiedene Leute oder Unternehmen können dieselbe private IP-Adresse benutzen, ohne dass es Probleme gibt.
+
+Warum gibt es keine Probleme? Weil zwischen diesen privaten IP-Adressen ein Router steht. Der Router verbindet das private Netzwerk mit dem öffentlichen Internet. Dadurch wandern die Daten über öffentliche IP-Adressen ins Internet. Das schützt die privaten IP-Adressen, weil man sie im Internet nicht sehen oder finden kann. 
+
+Die Tabelle zeigt die unterschiedlichen Gruppen von privaten IP-Adressen, die in verschiedenen Klassen eingeteilt sind, um den Überblick zu behalten. Diese Einteilung hilft zu verstehen, wie IP-Adressen verwendet werden und wie sie miteinander verbunden sind.

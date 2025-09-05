@@ -1,0 +1,13 @@
+Die Aussage beschreibt, wie das ARP-Protokoll funktioniert. ARP steht für "Address Resolution Protocol", also auf Deutsch "Adressauflösungsprotokoll". Es hilft Computern, die IP-Adresse eines anderen Computers im Netzwerk herauszufinden, wenn sie die MAC-Adresse kennen.
+
+Hier ist die einfache Erklärung:
+
+1. **Was macht ARP?**: ARP hilft einem Computer herauszufinden, welche IP-Adresse zu einer bestimmten MAC-Adresse gehört. Die MAC-Adresse ist eine eindeutige Nummer für jedes Gerät im Netzwerk.
+
+2. **Wie funktioniert das?**: 
+   - Wenn ein Computer wissen möchte, welche IP-Adresse ein bestimmter Computer hat, sendet er eine Frage ins Netzwerk. Diese Frage nennt man "Broadcast". Das bedeutet, der Computer fragt alle Geräte im Netzwerk: "Wer hat diese MAC-Adresse? Welche IP-Adresse gehört dazu?"
+   - Alle anderen Computer hören diese Frage. Der Computer, der die angegebene MAC-Adresse hat, antwortet mit seiner IP-Adresse.
+
+3. **Was sieht man dabei?**: In einem Programm wie Wireshark kann man viele solche Fragen und Antworten sehen, die mit ARP zu tun haben. 
+
+Zusammengefasst: ARP hilft Computern, IP-Adressen mit MAC-Adressen zu verbinden, damit sie miteinander kommunizieren können.

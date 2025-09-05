@@ -1,0 +1,11 @@
+In diesem Text geht es darum, was eine Subnetzmaske ist und warum wir Subnetze bilden möchten. Es gibt einige wichtige Punkte, die du verstehen solltest:
+
+1. **Warum Subnetze?** – Wir haben nicht genug IP-Adressen, weil in der Vergangenheit viele Adressen einfach vergeben wurden, ohne die tatsächliche Nutzung zu berücksichtigen. Wir brauchen also eine Lösung, um die vorhandenen Adressen besser zu nutzen.
+
+2. **Verwendung von Subnetzen** – Indem wir Subnetze bilden, teilen wir ein großes Netzwerk in viele kleinere Netzwerke auf. Das hilft, die Adressen effektiver zu nutzen und gibt mehr Sicherheit.
+
+3. **Subnetzmaske** – Die Subnetzmaske hilft uns zu bestimmen, welche Teile einer IP-Adresse das Netzwerk repräsentieren und welche Teile für die einzelnen Geräte (Hosts) im Netzwerk verwendet werden. Man kann sich das wie eine Art Schlüssel vorstellen, der die Adresse in zwei Teile aufteilt.
+
+4. **Änderung der Subnetzmaske** – Wenn wir Subnetze bilden, ändern wir die Standard-Subnetzmaske, um die Adressen besser aufzuteilen. Auf diese Weise können wir sicherstellen, dass nicht mehr Adressen vergeben werden als tatsächlich nötig sind.
+
+Zusammengefasst: Durch die Bildung von Subnetzen nutzen wir IP-Adressen besser, schaffen mehr Sicherheit und teilen große Netzwerke in kleinere auf.

@@ -1,0 +1,7 @@
+In einfachen Worten bedeutet die Aussage, dass es bei der Funkschicht von WLAN-Netzen (802.11) hauptsächlich zwei Methoden gibt, um Daten über Funk zu übertragen. Diese Methoden sind:
+
+1. **Frequency Hopping Spread Spectrum**: Dabei wechselt das Signal ständig zwischen verschiedenen Frequenzen. Das hilft, Störungen zu vermeiden, weil es nicht immer auf derselben Frequenz bleibt.
+
+2. **Direct Sequence Spread Spectrum**: Hierbei wird das Signal in kleine Stücke zerlegt und mit einer speziellen Methode über eine einzige Frequenz gesendet. Auch das hilft, Störungen zu reduzieren und die Übertragung zu verbessern.
+
+Beide Methoden sind älter, werden aber immer noch verwendet, nur dass sie im Laufe der Zeit verbessert wurden.

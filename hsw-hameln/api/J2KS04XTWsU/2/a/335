@@ -1,0 +1,7 @@
+Wir reden hier darüber, wie man sicherstellt, dass ein Netzwerk zuverlässig funktioniert. 
+
+Wenn man zusätzliche Teile oder Systeme hat, um Probleme zu vermeiden, nennt man das Redundanz. Zum Beispiel kann man gleich zwei Router verwenden, damit, wenn einer kaputtgeht, der andere weiterarbeitet. 
+
+Man kann ausrechnen, wie oft diese Teile kaputtgehen können und wie wahrscheinlich es ist, dass das Netzwerk dann trotzdem funktioniert. Man schaut sich an, wie oft jedes einzelne Teil ausfällt und nutzt diese Informationen, um zu sehen, wie stabil das gesamte System ist. 
+
+So weiß man, ob das Netzwerk oft funktioniert oder ob man besser noch mehr Sicherheiten einbauen sollte. Wenn man ein stabiles Netzwerk will, ist es wichtig, über Redundanzen und Ausfallwahrscheinlichkeiten nachzudenken.

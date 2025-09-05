@@ -1,0 +1,11 @@
+Die Aussage beschreibt, wie man Informationen über Funk oder Kabel übertragen kann. Hier sind die wichtigen Punkte in einfacher Sprache:
+
+1. **Frequenz-Multiplex**: Das ist eine Technik, bei der mehrere Informationen gleichzeitig über eine Leitung geschickt werden, indem man verschiedene Frequenzen nutzt. Man kann sich das wie verschiedene Kanäle im Radio vorstellen. Jedes Signal bekommt seine eigene „Frequenz“ oder „Welle“, die es benutzen kann.
+
+2. **Modulation**: Dieser Begriff bedeutet, dass man eine Art „Trägersignal“ hat, das die Information trägt. Man verändert (moduliert) dieses Signal, um die Daten zu senden. 
+
+3. **Trägersignal**: Das ist eine Art Grundsignal, das immer da ist. Es ist so, als ob du einen Radiosender hast, der immer eine Musik oder einen Ton spielt und auf diesen Sender kannst du dann Informationen auf- oder einspielen.
+
+4. **Non-Return-to-Zero-Digital-Signal**: Das ist ein spezifisches Format für die digitalen Daten, die man sendet. Es bedeutet, dass die Signale nicht zurück zum Ausgangswert gehen, sondern ihre Werte behalten. 
+
+Zusammengefasst geht es hier darum, wie man durch das Nutzen von verschiedenen Frequenzen und das Verändern von Signalen sicherstellen kann, dass viele Daten gleichzeitig über eine Leitung geschickt werden können.

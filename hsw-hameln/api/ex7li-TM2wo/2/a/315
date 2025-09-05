@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie ein Verfahren namens CRC 32 funktioniert, das in Netzwerken wie Ethernet verwendet wird. Hier ist eine einfache Erklärung:
+
+Im Ethernet, einem System, das Computer miteinander verbindet, wird eine Art "Schnelltests" verwendet, um sicherzustellen, dass Daten richtig übertragen werden. Diese "Schnelltests" sind speziellen Zahlen, die Prüfsummen genannt werden. 
+
+Beim CRC 32 wird eine 32-Bit lange Zahl (das sind 32 Einsen und Nullen) berechnet und an die Daten angehängt, die gesendet werden. Diese Zahl hilft dabei zu überprüfen, ob während der Übertragung ein Fehler aufgetreten ist. Wenn die Daten an einem anderen Computer ankommen, wird die Prüfziffer erneut berechnet und mit der ursprünglichen Prüfziffer verglichen. Wenn sie gleich sind, ist alles in Ordnung. Wenn nicht, bedeutet das, dass etwas schiefgegangen ist, und es wurde vielleicht ein Fehler bei der Übertragung gemacht. 
+
+Mit anderen Worten, die Prüfziffer hilft, Fehler zu finden, damit die Daten korrekt und sicher ankommen.

@@ -1,0 +1,11 @@
+In dieser Erklärung geht es darum, wie zwei Computer beim Austausch von Daten sicherstellen können, dass sie richtig miteinander kommunizieren, besonders wenn einer von ihnen schneller ist als der andere. 
+
+Stell dir vor, ein Computer (der Sender) sendet eine Nachricht sehr schnell an einen anderen Computer (den Empfänger). Aber der Empfänger kann die Nachrichten nicht so schnell verarbeiten. Um sicherzustellen, dass der schnelle Sender nicht einfach immer weiter Nachrichten schickt, ohne dass der Empfänger sie lesen kann, gibt es eine Art "Regelwerk".
+
+Das Wichtigste hier ist die "Flusssteuerung". Diese sorgt dafür, dass der Sender und der Empfänger sich darauf einigen, wie viele Nachrichten sie gleichzeitig verschicken oder empfangen können. Das hilft, Datenstau zu vermeiden.
+
+Wenn der Empfänger merkt, dass er nicht mehr Nachrichten auf einmal verarbeiten kann (zum Beispiel weil sein Speicher voll ist), kann er dem Sender sagen: „Warte, ich kann gerade nur 2 Nachrichten empfangen.“ Das nennt man die „Fenstergröße“. 
+
+In der Erklärung sagt man, dass der Sender manchmal das Signal bekommt, seine Fenstergröße, also die Anzahl der Nachrichten, die er gleichzeitig senden kann, zu reduzieren. Dadurch wird sichergestellt, dass der Empfänger nicht überfordert wird und alles richtig empfangen kann. 
+
+Zusammengefasst: Sender und Empfänger müssen kommunizieren und sich anpassen, damit der Datenverkehr reibungslos läuft und nichts verloren geht.

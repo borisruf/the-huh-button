@@ -1,0 +1,7 @@
+In diesem Kontext wird erläutert, wie Daten über verschiedene Netzwerkkomponenten vermittelt werden. Es gibt unterschiedliche Vermittlungsarten: 
+
+1. **Leitungsvermittlung**: Hierbei wird eine permanente Verbindung zwischen Sender und Empfänger hergestellt, ähnlich wie in alten Telefonanlagen.
+2. **Speichervermittlung**: Auch als "Store-and-Forward"-Verfahren bekannt, bei dem Datenpakete vollständig gespeichert und dann weitergeleitet werden, vergleichbar mit der Briefpost, die durch verschiedene Verteilerzentren geht.
+3. **Paketvermittlung**: Eine spezielle Form der Speichervermittlung, bei der Daten in kleine Pakete unterteilt werden, die unabhängig und auf unterschiedlichen Wegen zum Empfänger gelangen können. Diese Art wird häufig in IP-Netzwerken verwendet, da sie eine flexiblere und effizientere Übertragung von Daten ermöglicht. 
+
+Die Unterscheidung dieser Vermittlungsarten ist entscheidend für das Verständnis, wie moderne Netzwerke Daten effizient verwalten und übertragen.

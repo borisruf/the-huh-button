@@ -1,0 +1,1 @@
+ Und zwar geht es bei UDP eher darum, dass man eine Datenübertragung mit einem minimalen Protokoll -Over hätte, und dann damit auch mit minimalen Protokoll-Mechanismen eben realisiert.  Es geht also letzten Endes darum, dass man den Datendurchsatz optimiert, was dann allerdings auch auf Kosten der Sicherheit geht.

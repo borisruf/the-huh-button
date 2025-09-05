@@ -1,1 +1,1 @@
- Es gibt noch weitere Ports, die können zum Beispiel auch frei verwendet werden, dazu aber später auch nochmal mehr.  Wenn wir uns jetzt also eine Verbindung anschauen zwischen zwei Rechnern, dann stellen wir dort fest, die beiden müssen ja irgendwie erstmal sich kennenlernen.
+ Das geschieht in der Regel über einen sogenannten Drei-Wege-Handshake, der auch im TCP-Protokoll festgelegt wird.  Was genau passiert da eigentlich?

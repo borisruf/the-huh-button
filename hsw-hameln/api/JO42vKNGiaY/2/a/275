@@ -1,0 +1,5 @@
+In IP Version 6, die neue Art, wie Computer untereinander kommunizieren, gibt es einen bestimmten Aufbau von Adressen, ähnlich wie bei der alten Version, IP Version 4. 
+
+Früher hatten wir einfache Gruppen von Zahlen, die durch Punkte getrennt waren. Man nannte das Subnetze, die bestimmten, wie die Adressen vergeben wurden. Jetzt gibt es stattdessen etwas, das "Präfix" heißt. Das Präfix sagt uns, in welchem Bereich das Netzwerk ist, zu dem die IP-Adresse gehört.
+
+Das bedeutet, dass die Art, wie wir die Adressen einteilen, sich geändert hat. Wir müssen uns daran gewöhnen, dass alles ein bisschen anders organisiert ist als vorher. Es ist nicht mehr so einfach, wie es einmal war, aber es hilft uns, viel mehr Geräte und Computer zu verbinden!

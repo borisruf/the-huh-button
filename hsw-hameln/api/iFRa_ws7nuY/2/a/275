@@ -1,0 +1,9 @@
+Die Aussage bedeutet, dass es mehrere Dinge gibt, die unser Signal beeinflussen, während wir es übertragen. 
+
+1. **Ohmsche Dämpfung**: Das ist der Widerstand, den der Strom hat, wenn er durch ein Kabel fließt. Dieser Widerstand kann das Signal schwächer machen.
+
+2. **Frequenzabhängige Dämpfung**: Das bedeutet, dass verschiedene Frequenzen (oder Töne) unterschiedlich viel Widerstand erfahren. Wenn das Signal also hochfrequent (schnell) ist, kann es anders abgeschwächt werden als wenn es niederfrequent (langsam) ist. Man kann sich das wie einen Widerstand vorstellen, der nicht immer gleich ist, sondern sich je nach Ton verändert.
+
+3. **Takt ableiten**: Damit wir das Signal gut nutzen können, wollen wir auch wissen, wann genau das Signal kommt. Das nennt man Synchronisation. Es ist wichtig, dass wir einen „Takt“ haben, um in der richtigen Reihenfolge zu arbeiten und das Signal richtig zu interpretieren.
+
+Insgesamt wollen wir also sicherstellen, dass unser Signal so wenig wie möglich geschwächt wird und dass wir gut erkennen können, wann es kommt, damit wir die Informationen, die es transportiert, gut nutzen können.

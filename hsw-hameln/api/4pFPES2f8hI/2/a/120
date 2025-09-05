@@ -1,0 +1,9 @@
+In diesem Text geht es darum, wie man Netzwerke in kleinere Gruppen, sogenannte Subnetze, aufteilt. Das ist wichtig, weil es nicht genug IP-Adressen gibt, um alle Geräte zu verbinden. 
+
+Eine Subnetzmaske hilft uns zu verstehen, wie viele Geräte in einem Netzwerk sind und wie sie miteinander verbunden sind. 
+
+Wenn wir ein Subnetz erstellen, schauen wir uns die Nullen in der Subnetzmaske an. Diese Nullen zeigen uns, welche Teile der IP-Adresse für Geräte (Hosts) verwendet werden. Um ein Subnetz zu bilden, verändern wir diese Nullen in etwas anderes, das wir „Netzanteil-Bits“ nennen. 
+
+Wichtig ist, dass wir die Nullen von links nach rechts verändern, ohne dazwischen irgendwelche Lücken oder Nullen zu lassen. Das macht es einfacher, die verschiedenen Teile des Netzwerks zu verwalten und hilft, die Probleme mit den IP-Adressen zu lösen. 
+
+Zusammengefasst: Wir lernen, wie man ein großes Netzwerk in kleinere Teile aufteilt, damit wir besser mit den verfügbaren IP-Adressen umgehen können.

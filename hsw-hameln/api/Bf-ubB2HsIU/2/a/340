@@ -1,5 +1,11 @@
-Das ist eine Erklärung von Netzwerkprotokollen. In Computernetzwerken gibt es spezielle Regeln und Verfahren, um Informationen von einem Computer zu einem anderen zu übertragen. Zwei dieser wichtigen Regeln heißen TCP und IP. Sie arbeiten zusammen, um sicherzustellen, dass die Informationen korrekt und vollständig ankommen. TCP kümmert sich darum, dass die Daten sicher ankommen. IP dagegen sorgt dafür, dass diese Daten den richtigen Computer erreichen. Diese beiden Regeln arbeiten zusammen, um sicherzustellen, dass die Daten korrekt und vollständig ankommen.
+In dieser Erklärung geht es um Computer und wie sie miteinander kommunizieren, besonders über das Internet. 
 
-Die TCP- und IP-Protokolle verwenden spezielle Nummern, sogenannte Portnummern, um die Daten an die richtige Anwendung auf dem empfangenden Computer zu leiten. Zum Beispiel wird die Portnummer 80 normalerweise für Webseiten verwendet, die über HTTP übertragen werden. Also wenn du eine Webseite in deinem Webbrowser öffnest, sendet dein Computer die Anforderung über Port 80. Der Webserver, der die Webseite hostet, erhält diese Anforderung und sendet die Webseite über Port 80 zurück zu Deinem Computer. 
+Wenn Computer Daten senden oder empfangen, brauchen sie eine klare Adresse, damit die Daten wissen, wo sie hin müssen. Ähnlich wie bei einem Brief, der eine Adresse braucht, um beim richtigen Empfänger anzukommen. 
 
-Diese Portnummern werden immer zusammen mit der IP-Adresse des Computers betrachtet, um die Daten korrekt zu leiten. Deshalb werden diese beiden Informationen oft zusammen erwähnt.
+Hier kommen die "Ports" ins Spiel. Man kann sich Ports wie Türen im Computer vorstellen. Jede Anwendung (wie ein Spiel oder ein Programm) hat ihre eigene Tür (Port). Wenn also Daten an einen Computer geschickt werden, hilft die Kombination aus IP-Adresse (die Adresse des Computers) und Portnummer (die Tür der Anwendung), die Daten zur richtigen Anwendung zu bringen. 
+
+Das bedeutet, dass mehrere Anwendungen gleichzeitig in einem Computer arbeiten können, ohne dass die Daten durcheinander geraten. 
+
+In unserer Erklärung nennen wir auch einige spezielle Ports, die für bestimmte Anwendungen genutzt werden. Zum Beispiel gibt es einen speziellen Port für das Übertragen von Dateien (FTP) und einen anderen für das Surfen im Internet (HTTP). 
+
+Zusammengefasst: Ports helfen, die Daten so zu sortieren, dass sie zur richtigen Anwendung auf einem Computer gelangen.

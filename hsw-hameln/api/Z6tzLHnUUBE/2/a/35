@@ -1,0 +1,1 @@
+Wir haben schon über zwei wichtige Protokolle gesprochen, die auf der vierten Schicht im OSI-Modell arbeiten: TCP und UDP. Jetzt schauen wir uns die Schicht darüber an, die dritte Schicht, und dort ist ein anderes wichtiges Protokoll, das Internetprotokoll, auch IP genannt. IP hat seine eigenen Aufgaben, genau wie TCP und UDP, aber es ist auf einer anderen Schicht im Netzwerk.

@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes:
+
+Wir haben zwei separate Gruppen, die wir VLANs nennen. Eine Gruppe ist für unsere Computer und die andere Gruppe ist für unsere Telefone. Diese Gruppen helfen uns, die Daten ordentlich und sicher zu organisieren. 
+
+Wenn wir unsere Informationen von einem Platz zum anderen bewegen, geschieht das über ein spezielles Kabel, das wir "VLAN-Trunk" nennen. Dieses Kabel verbindet unsere Gruppen mit einem wichtigen Server, der die Gespräche verwaltet. Von diesem Server aus gehen die Daten dann entweder in unser eigenes Netzwerk, wo unsere anderen Geräte sind, oder sie gehen nach draußen in das öffentliche Telefonnetz, damit wir mit anderen Leuten telefonieren können. 
+
+Das alles hilft, dass die Sprache und die Daten gut und schnell übertragen werden, ohne dass sie sich gegenseitig stören.

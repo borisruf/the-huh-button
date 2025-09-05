@@ -1,0 +1,9 @@
+Okay, ich erkläre das einfach:
+
+Wenn du in deinem Netzwerk Internetseiten besuchen möchtest, passiert das meistens über einen bestimmten "Kanal", den nennt man Port 80. Das ist wie eine Tür, durch die die Daten hineinkommen.
+
+Jetzt gibt es Programme wie Skype, die auch durch diese Tür gehen können, um Gespräche zu führen. Wenn du aber keine Skype-Gespräche in deinem Netzwerk haben willst, musst du genau hinschauen, was für Daten durch diese Tür kommen. Du musst die Daten untersuchen, um zu sehen, ob es nur Internetseiten sind oder vielleicht auch Skype-Gespräche.
+
+Außerdem, wenn du zwei Netzwerke miteinander verbinden willst, gibt es etwas, das nennt sich Virtual Private Network (VPN). Das ist eine sichere Verbindung, die dafür sorgt, dass die Daten gut geschützt sind, wenn sie zwischen den Netzwerken hin und her geschickt werden.
+
+Zusammengefasst: Du musst darauf aufpassen, was durch das Netzwerk kommt, um sicherzustellen, dass nur die richtigen Daten, wie Internetseiten, die du willst, durchkommen. Und für sicherere Verbindungen zwischen Netzwerken gibt es VPNs.

@@ -1,1 +1,9 @@
-Das ist ein wenig wie zwei fremde Menschen, die zum ersten Mal miteinander reden wollen. Damit sie sich unterhalten können, müssen sie zuerst wissen, wie sie sich ansprechen. In der Computerwelt entspricht das den Ports, das sind sozusagen "Türen", durch die die Daten zwischen den Computern hin und her gehen. Es gibt viele verschiedene solcher Türen und manche sind nur für bestimmte Dinge da. Aber es gibt auch freie Türen, die für alles Mögliche genutzt werden können. Damit die Daten von einem Computer zum anderen kommen, müssen sie also erst wissen, durch welche Tür sie gehen müssen. So können die Daten immer richtig zugeordnet werden.
+In dieser Erklärung geht es darum, wie Computer im Netzwerk miteinander kommunizieren. 
+
+Stell dir vor, zwei Computer wollen sich unterhalten. Zuerst müssen sie herausfinden, wie sie das machen können. Das ist wie wenn zwei Personen sich vorstellen. 
+
+Die Computer benutzen bestimmte Regeln oder Protokolle, um sicherzugehen, dass die Informationen richtig ankommen. Dabei verwenden sie "Ports". Ein Port ist wie eine Tür, durch die die Informationen in den Computer gelangen. 
+
+Es gibt einige bekannte "Türnummern" (Ports), die für spezielle Aufgaben genutzt werden, wie zum Beispiel für das Senden von E-Mails oder das Surfen im Internet. Es gibt auch viele andere Türnummern, die jeder frei nutzen kann. 
+
+Wenn die beiden Computer eine Verbindung herstellen, müssen sie sich zuerst kennenlernen, um zu wissen, wie sie die Informationen austauschen können.

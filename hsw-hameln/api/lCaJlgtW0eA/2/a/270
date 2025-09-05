@@ -1,0 +1,13 @@
+Die Aussage beschreibt, was eine Kollisionsdomäne ist. Eine Kollisionsdomäne entsteht in einem Netzwerk, wenn mehrere Geräte miteinander kommunizieren und sie dabei Daten gleichzeitig senden können. Das führt manchmal dazu, dass die Daten "kollidieren", also durcheinander geraten. 
+
+Hier sind die einfachen Erklärungen zu den wichtigsten Begriffen:
+
+- **Kollisionsdomäne**: Das ist ein Bereich in einem Netzwerk, in dem Geräte Daten senden und empfangen können. Wenn viele Geräte in diesem Bereich sind und sie gleichzeitig senden, kann es zu Kollisionen kommen, also dass die Daten durcheinander geraten.
+
+- **Switches**: Das sind Geräte, die helfen, verschiedene Teile eines Netzwerks zu verbinden. Sie leiten die Daten gezielt weiter, was hilft, Kollisionen zu vermeiden.
+
+- **Full-Duplex**: Das bedeutet, dass Geräte gleichzeitig senden und empfangen können, ohne dass es zu Kollisionen kommt. 
+
+- **CSMA/CD**: Das ist ein Verfahren, das hilft, Kollisionen zu vermeiden. Es sorgt dafür, dass ein Gerät nur dann sendet, wenn das Netzwerk frei ist. Wenn eine Kollision passiert, müssen die Geräte warten, bevor sie erneut versuchen zu senden.
+
+Zusammengefasst: Eine Kollisionsdomäne ist ein Bereich im Netzwerk, wo Geräte Daten senden und empfangen. Wenn viele Geräte gleichzeitig senden und das Netzwerk nicht clever genug ist (wie bei einem Switch), gibt es Kollisionen und die Daten können verloren gehen. Um das zu managen, verwendet man bestimmte Verfahren, wie CSMA/CD.

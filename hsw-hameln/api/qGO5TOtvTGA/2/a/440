@@ -1,0 +1,7 @@
+Stell dir vor, du schickst einen Brief. Wenn der Empfänger in deiner Stadt wohnt, bringst du den Brief selbst dahin. Wenn der Empfänger aber in einer anderen Stadt lebt, kannst du den Brief nicht einfach selbst zustellen. Du musst ihn zuerst zur Post bringen.
+
+In deinem Netzwerk ist es ähnlich. Jedes Gerät hat eine Adresse, die IP-Adresse. Wenn die IP-Adresse eines anderen Geräts in deinem Netzwerk ist, kannst du direkt mit ihm sprechen. Wenn das Gerät aber außerhalb deines Netzwerks ist, schickst du die Daten an dein Default Gateway, das ist wie die Poststelle. Dort wird entschieden, wo der Datenpaket als nächstes hingeht, damit es schließlich beim Empfänger ankommt.
+
+Zusammengefasst: 
+- Wenn der Empfänger in deinem Netzwerk ist, kommunizierst du direkt.
+- Wenn er nicht da ist, übergibst du die Daten an dein Default Gateway, damit es die Daten weiterleitet.

@@ -1,0 +1,9 @@
+Klar, ich erkläre das mal einfach!
+
+Stell dir vor, jedes Netzwerk ist wie ein großes Klassenzimmer (das ist das große Netzwerk). In diesem Klassenzimmer sind viele Plätze (das sind die Hosts oder Geräte). Manchmal gibt es aber zu viele Plätze für die Anzahl der Schüler, also machen wir kleinere Klassenzimmer (das sind die Subnetze), die besser passen.
+
+Um die neuen Klassenzimmer zu schaffen, schauen wir uns die **Subnetzmaske** an. Diese Maske hilft uns zu entscheiden, wie groß die Klassenzimmer werden. Wenn wir in unserer Subnetzmaske die **Nullen zählen**, wissen wir, wie viele Plätze frei sind. Diese freien Plätze sind wichtig, denn sie zeigen uns, wie viele Geräte wir in dem kleinen Klassenzimmer haben können.
+
+Wenn wir also die Maske so ändern, dass wir weniger Nullplätze haben und mehr feste Plätze (die Einsen), schaffen wir mehr kleine Klassenzimmer. Das bedeutet, wir haben weniger Plätze in jedem Klassenzimmer, aber dafür mehr Klassenzimmer insgesamt. Jedes Klassenzimmer kann dann zum Beispiel 32 Plätze haben, aber wir können nicht alle Plätze benutzen, weil wir zwei für besondere Dinge reservieren müssen: einen Platz für die Klassenzimmer-Bezeichnung und einen für wichtige Mitteilungen an alle Schüler.
+
+Zusammengefasst: Wir zählen die Nullen in der Subnetzmaske, um herauszufinden, wie viele Geräte wir in jedem Klassenzimmer unterbringen können!

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass ein Switch herausfinden kann, wo sich ein Computer im Netzwerk befindet. Wenn ein Computer eine Nachricht senden will, aber nicht weiß, wo der andere Computer ist, wird der Switch eine Art "Frage" an alle Geräte im Netzwerk senden. Das nennt man einen Broadcast. 
+
+Nach dieser Frage wartet der Switch auf Antworten. Wenn ein Computer antwortet, merkt der Switch sich, an welchem Anschluss (Port) diese Antwort kam. So kann er beim nächsten Mal direkt wissen, wo der Computer ist und die Nachricht schnell dorthin schicken. 
+
+Zusammengefasst: Der Switch hilft, den richtigen Weg für Nachrichten im Netzwerk zu finden, auch wenn er erst nachfragen muss, um die Informationen zu bekommen.

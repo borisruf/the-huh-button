@@ -1,0 +1,7 @@
+Okay, lass uns das ganz einfach erklären.
+
+Eine **Subnetzmaske** hilft uns, ein großes Netzwerk in kleinere Teile, die man **Subnetze** nennt, aufzuteilen. Das machen wir, weil die Internet-Adressen, die wir verwenden (IP-Adressen), nicht mehr ausreichen. Früher hat jeder, der ein Netzwerk hatte, viel zu viele IP-Adressen bekommen, ohne richtig darüber nachzudenken. Jetzt haben wir nicht genug Adressen für alle.
+
+Wenn wir **Subnetze** bilden, nehmen wir Teile der IP-Adressen, die wir schon haben, und teilen sie auf, damit mehr Benutzer Zugang haben. Das bedeutet, dass wir die ursprüngliche **Subnetzmaske**, die für große Netzwerke gedacht ist, ändern müssen. Wir stellen sie so ein, dass sie zu unserem neuen, kleineren Netzwerk passt. 
+
+Das Ziel ist also: Durch das Ändern der Subnetzmaske können wir das große Netzwerk in kleinere Teile aufteilen und so die Adressen besser nutzen.

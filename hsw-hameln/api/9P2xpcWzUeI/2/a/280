@@ -1,0 +1,15 @@
+Wir sprechen hier über Netzwerke in einem Gebäude, wo man verschiedene Bereiche (oder "Stockwerke") hat, die man in eigene Netzwerke aufteilen kann. Früher war es so, dass jedes Stockwerk ein eigenes Netzwerk hatte. Das ist nicht immer praktisch, wenn man flexibler arbeiten will. 
+
+Mit VLANs (virtuelle LANs) kann man verschiedene Netzwerke über die Stockwerke hinweg erstellen. Das bedeutet, dass Arbeiter von verschiedenen Stockwerken in einem gemeinsamen Netzwerk sein können, ohne dass sie physisch am selben Ort sind.
+
+Es gibt zwei Arten, wie man VLANs einrichten kann:
+
+1. **Statische VLANs**: Hier sagt ein Netzwerktechniker, welcher Steckplatz am Switch (das Gerät, das die Netzwerkkabel verbindet) zu welchem VLAN gehört. Das bedeutet, dass immer derselbe Computer mit demselben Steckplatz in dasselbe VLAN kommt.
+
+2. **Dynamische VLANs**: Hier wird das Netzwerk cleverer. Der Computer hat eine einzigartige Nummer (MAC-Adresse), und die Geräte im Netzwerk wissen, in welches VLAN dieser Computer gehört, wenn er sich mit einem Steckplatz verbindet.
+
+Wenn Daten zwischen den VLANs gesendet werden müssen, brauchen die Computer einen „Übergangspunkt“, wie einen Router, der die Daten von einem VLAN ins andere leitet. 
+
+Jedes VLAN hat seine eigene Broadcast-Domäne, das heißt, Geräte in einem VLAN können miteinander kommunizieren, ohne dass Geräte in einem anderen VLAN dazwischenfunken.
+
+Außerdem gibt es das Konzept eines **VLAN-Trunks**. Das ist wie ein "Bündel", das mehrere VLAN-Informationen über eine Verbindung transportiert. So können verschiedene VLANs trotzdem effizient miteinander kommunizieren.

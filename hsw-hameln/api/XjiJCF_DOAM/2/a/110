@@ -1,0 +1,12 @@
+Die Aussage sagt aus, dass IP-Adressen auf einer bestimmten Ebene des OSI-Modells, dem Schicht 3, liegen. Das OSI-Modell ist wie ein Bauplan, der zeigt, wie verschiedene Teile eines Netzwerks zusammenarbeiten. 
+
+Hier ist eine einfache Erklärung:
+
+- IP-Adressen helfen, Geräte im Internet eindeutig zu identifizieren. 
+- Es gibt viele Geräte, die eine IP-Adresse haben können, nicht nur Computer. Dazu gehören Smartphones, Drucker und sogar manche Haushaltsgeräte.
+- Manche Geräte haben mehrere IP-Adressen, weil sie verschiedene Möglichkeiten haben, sich mit dem Internet zu verbinden, wie zum Beispiel über Kabel oder WLAN.
+- Ein Router ist ein spezielles Gerät, das viele IP-Adressen braucht, weil er mit verschiedenen Netzwerken verbunden ist.
+
+Das OSI-Modell hat mehrere Schichten, und die IP-Adressen gehören zur dritten Schicht. In dieser Schicht geht es darum, wie Daten im Netzwerk adressiert und weitergeleitet werden. 
+
+Zusammengefasst sagt die Aussage, dass wir bei IP-Adressen darauf achten müssen, wo sie im Netzwerkmodell eingeordnet sind und dass sie wichtig sind, um Geräte im Internet zu erkennen und zu verbinden.

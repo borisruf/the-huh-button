@@ -1,0 +1,9 @@
+Die Aussage ist etwas kompliziert, aber ich kann sie einfacher erklären:
+
+In einem Netzwerk gibt es Sicherheitsmaßnahmen, um zu kontrollieren, welche Daten rein dürfen und welche nicht. Eine wichtige Sicherheitsmaßnahme ist die „Firewall“. Die Firewall entscheidet, ob Datenpakete, also kleine Informationsstücke, in das Netzwerk kommen dürfen oder nicht. 
+
+Datenpakete werden oft nach ihrer Adresse (also der IP-Adresse) und dem Port (das ist wie ein Türschlüssel für die Daten) sortiert. Wenn die Firewall so eingestellt ist, dass nur bestimmte Türen (Ports) offen sind, kann sie zum Beispiel Daten von Seiten wie Google oder Facebook durchlassen.
+
+Das bedeutet, dass viele verschiedene Daten von diesen Seiten über einen speziellen Port (Port 80) in das Netzwerk gelangen. Wenn die Firewall nichts davon blockiert, können diese Daten einfach rein. Aber das ist nicht immer sicher, weil auch gefährliche Daten kommen könnten, wenn die Einstellungen nicht richtig sind.
+
+Zusammengefasst: Die Firewall kontrolliert, welche Daten in das Netzwerk dürfen, basierend auf bestimmten Regeln. Wenn sie zu viele Daten erlaubt, kann das ein Sicherheitsproblem sein.

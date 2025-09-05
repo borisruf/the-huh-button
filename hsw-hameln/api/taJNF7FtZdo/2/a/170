@@ -1,0 +1,11 @@
+Die Aussage bedeutet Folgendes:
+
+Jeder Router im Netzwerk hat eine Liste, die man Routing-Tabelle nennt. Diese Liste hilft dem Router zu entscheiden, wohin die Informationen als Nächstes geschickt werden sollen. 
+
+In der einfachsten Version dieser Liste müssen drei Sachen stehen:
+
+1. **Wohin** die Daten geschickt werden sollen.
+2. **Zu welchem nächsten Router** die Daten gehen.
+3. **Wie der Router diese Informationen nutzt**, um die Daten richtig weiterzuleiten.
+
+Stell dir vor, die Router sind wie Wegweiser an einer Kreuzung. Wenn ein Auto an der Kreuzung ankommt (das sind die Daten), schaut der Wegweiser nach, wo das Auto als Nächstes hinfahren soll, damit es sein Ziel erreicht.

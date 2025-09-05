@@ -1,0 +1,12 @@
+Okay, ich erkläre es dir in einfacheren Worten:
+
+Wir reden hier über Internet und Computer Kommunikation. Wenn Computer miteinander sprechen, benutzen sie Adressen, damit sie wissen, wo die Informationen hin sollen. Es gibt verschiedene Arten von Adressen: 
+
+1. **IP-Adressen** (das sind die Adressen auf der dritten Ebene, also Ebene 3) sind wie die Postadresse eines Computers im Internet. 
+2. **MAC-Adressen** (auf Ebene 2) sind wie die persönliche ID eines Geräts, die dafür sorgt, dass die Informationen im Netzwerk richtig zugestellt werden.
+
+Das **ARP-Protokoll** (Address Resolution Protocol) hilft dabei, herauszufinden, welche MAC-Adresse zu einer bestimmten IP-Adresse gehört. Das ist wichtig, damit die Computer wissen, wohin sie die Daten schicken sollen.
+
+Wenn ein Computer also Daten an einen anderen Computer über das Netzwerk sendet, nutzt er zuerst ARP, um die MAC-Adresse zu finden, die zur IP-Adresse gehört. Das Ganze können wir mit einem Programm namens **Wireshark** beobachten, das uns zeigt, wie diese Datenpakete im Netzwerk unterwegs sind.
+
+Zusammenfassend: ARP hilft, die Adressen zu verbinden, damit Computer richtig miteinander kommunizieren können.

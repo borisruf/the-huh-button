@@ -1,0 +1,9 @@
+In dieser Aussage geht es darum, dass wir beim Übertragen von Informationen bestimmte Regeln oder Vorgaben brauchen. Wenn wir Daten, die nur aus Einsen und Nullen (Bits) bestehen, in Signale umwandeln wollen, müssen wir darauf achten, dass diese Signale bestimmte wichtige Eigenschaften haben. 
+
+Das bedeutet:
+
+- Wir müssen schauen, wie die Signale aussehen, wenn wir sie über Kabel oder Draht senden.
+- Diese Signale müssen verständlich und stabil sein, damit sie nicht durch Störungen verloren gehen oder verändert werden.
+- Es ist wichtig, dass wir die Signale so kodieren (also übersetzen), dass der Empfänger sie richtig empfangen und wieder lesen kann.
+
+Also, damit unsere Informationen gut übertragen werden können, müssen wir sicherstellen, dass wir die richtigen Anforderungen für die Signale beachten.

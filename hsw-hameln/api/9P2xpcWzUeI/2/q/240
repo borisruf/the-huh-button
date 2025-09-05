@@ -1,0 +1,1 @@
+ Jetzt habe ich natürlich beim Thema Internetworking auch das Problem, dass eventuell zwei VLANs oder Rechner aus zwei VLANs miteinander kommunizieren wollen und da habe ich wieder genau das gleiche Problem, wie wenn ich zwei wirkliche, zwei reale Netzwerke miteinander koppeln möchte.  Ich brauche wieder ein Schicht-3 -Element, um das zu realisieren.

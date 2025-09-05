@@ -1,0 +1,5 @@
+In einfachen Worten bedeutet die Aussage folgendes:
+
+Wenn wir ein großes Netzwerk in kleinere Teile aufteilen, nennen wir diese Teile Subnetze. Das erste Subnetz, das "Subnet0", können wir nicht nutzen, um IP-Adressen zu vergeben. Auch das letzte Subnetz dürfen wir nicht verwenden, weil dort eine spezielle Adresse ist, die alle Geräte im Netzwerk erreicht – das nennt man die Broadcast-Adresse. Diese Adressen sind wichtig und dürfen nicht für normale Geräte verwendet werden.
+
+Früher waren viele Einstellungen für Netzwerke, wie die Verwendung dieser speziellen Adressen, nicht klar. Neuere Router können jedoch damit umgehen, sodass man sie unter bestimmten Umständen verwenden kann.

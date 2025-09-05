@@ -1,0 +1,5 @@
+Natürlich! Laut dieser Aussage gibt es in VLANs (virtuellen Netzwerken) keine großen Unterschiede zu normalen LANs (lokalen Netzwerken). Das bedeutet, dass jeder Computer in einem Netzwerk wissen muss, wie er andere Computer erreichen kann, die nicht im gleichen Netzwerk sind. Um dies zu tun, schaut der Computer auf die IP-Adresse des anderen Computers und prüft, ob er sich im gleichen Netzwerk befindet oder nicht.
+
+Wenn der andere Computer nicht im selben Netzwerk ist, muss der erste Computer seine Nachricht an einen speziellen Computer schicken, der als "Default Gateway" bezeichnet wird. Dieses Gateway ist geduldig und kümmert sich darum, die Nachricht weiterzuleiten, auch wenn das bedeutet, dass es einen Router "überspringen" muss.
+
+Zusammengefasst: In VLANs ist es genauso wie in normalen Netzwerken – wenn ein Computer einen anderen Computer außerhalb seines eigenen Netzwerks erreichen will, schickt er die Nachricht an das Default Gateway.

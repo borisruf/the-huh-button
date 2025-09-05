@@ -1,0 +1,11 @@
+Okay, lass mich das erklären.
+
+Stell dir vor, eine IP-Adresse ist wie eine Adresse für ein Haus. Wir brauchen Adressen, damit Computer miteinander reden können. Aber es gibt nicht unendlich viele Adressen, und manchmal haben wir zu viele Häuser in einer Gegend (also viele Computer in einem Netzwerk), und nicht genug Adressen, um jedem Haus eine eigene zu geben. 
+
+Um dieses Problem zu lösen, können wir die großen Adressgebiete in kleinere Gruppen aufteilen. Das nennt man "Subnetze". Jedes Subnetz hat auch eine eigene Adresse, eine sogenannte "Subnetzmaske", die zeigt, wie groß das Subnetz ist.
+
+Wenn wir die Subnetzmaske anschauen, besteht sie aus Einsen und Nullen. Die Einsen zeigen an, welcher Teil der Adresse das Netzwerk ist, und die Nullen, welcher Teil die einzelnen Häuser (also Computer) innerhalb dieses Netzwerks sind.
+
+In deinem Beispiel ist die Adresse, die wir betrachten, 192.168.10.195, und die Subnetzmaske sagt, dass wir eine kleinere Gruppe (Subnetz) mit einer Größe von 27 verwenden. Das bedeutet, dass wir die letzten 5 Nullen in der Maske haben (weil 32 total - 27 = 5), was uns sagt, dass wir 32 Adressen haben, aber nur 30 davon können für die Computer genutzt werden, weil wir die erste Adresse (die Netzwerkadresse) und die letzte Adresse (die Broadcast-Adresse) nicht verwenden können.
+
+Zusammengefasst: Wir teilen große Adressräume in kleinere Gruppen auf, damit mehr Computer miteinander kommunizieren können, ohne dass es zu viele Adressen gibt. Und wir verwenden dabei bestimmte Regeln (Subnetzmasken), um herauszufinden, wer zu welchem Netzwerk gehört.

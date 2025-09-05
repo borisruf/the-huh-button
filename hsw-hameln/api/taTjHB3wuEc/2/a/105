@@ -1,0 +1,3 @@
+In einfachen Worten sagen die Texte, dass Zeit verloren geht, wenn ein schneller Sender mit einer langsamen Empfänger reden möchte. Der Sender sendet Daten schnell, aber der Empfänger kann nicht so schnell empfangen. Es gibt eine Regel, die sagt, dass der Sender warten muss, bis der Empfänger ihm sagt, dass er die Daten erhalten hat, bevor er die nächsten Daten sendet. 
+
+Wenn der Sender immer wieder warten muss, wird die Zeit zwischen den Datenübertragungen nicht gut genutzt. Das nennt man "untere Nutzung der Übertragungsleitung". Das bedeutet, dass die Verbindung nicht voll ausgenutzt wird, weil der Sender viel Zeit wartet, anstatt ständig Daten zu senden.

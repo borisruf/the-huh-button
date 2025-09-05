@@ -1,0 +1,3 @@
+UDP ist ein Protokoll, das beim Senden von Daten viele Regeln weglässt, um schnellere Übertragungen zu ermöglichen. Es funktioniert ähnlich wie TCP, hat aber andere Ziele. Bei UDP geht es darum, die Daten so schnell wie möglich zu senden, auch wenn dabei nicht immer alles ganz sicher ist. 
+
+Manchmal ist es wichtiger, dass die Daten schnell ankommen, zum Beispiel bei Online-Spielen oder Videoanrufen. In solchen Fällen macht es Sinn, UDP zu verwenden, auch wenn es weniger sicher ist. Jetzt schauen wir uns an, welche Dienste und Anwendungen UDP nutzt.

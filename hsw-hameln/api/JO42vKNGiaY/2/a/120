@@ -1,0 +1,7 @@
+Die Aussage besagt, dass es ein Problem gibt, weil die Internetadressen (IP-Adressen) knapp werden. Im Internet gibt es verschiedene Arten von Adressen, die alle Computer benötigen, um miteinander zu kommunizieren.
+
+Aktuell benutzen wir eine alte Adresse (IP Version 4), die nicht genug Platz für alle Geräte bietet. Wir haben schon versucht, die Situation besser zu machen, aber die Adressen werden trotzdem immer weniger. Deshalb gibt es ein neues System (IP Version 6), das viel mehr Adressen bieten kann.
+
+Um das zu verdeutlichen: Mit der neuen Adresse (IP Version 6) können wir sehr, sehr viele verschiedene Adressen erstellen – mehr als wir uns vorstellen können! Sogar wenn wir jedem Computer auf der Welt 1000 Adressen geben würden, hätten wir immer noch unglaublich viele Adressen übrig – es wären immer noch eine riesige Zahl von 100.000.000.000.000.000.000.000.000.000.000.000.000 übrig. 
+
+Das zeigt, dass IP Version 6 eine große Lösung für das Adressproblem im Internet ist.

@@ -1,0 +1,1 @@
+ Nur ist natürlich die Frage, wenn wir jetzt so eine Quittierung haben, dann können wir das zum Beispiel über eine Blockprüfung feststellen.   Und hier ist ein Beispiel, wo ein Paket einfach verloren gegangen ist, bekommt also der Empfänger letztlich kein Paket und sendet dann ein Negativ-Acknowledgement, also er hat nichts bekommen.

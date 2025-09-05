@@ -1,0 +1,9 @@
+Stell dir vor, du bist auf einer Reise von einer Stadt zur anderen. Du musst wissen, welchen Weg du nehmen sollst und wo du als Nächstes hinfahren musst. Das ist ähnlich wie bei Computern, die Informationen über das Internet senden.
+
+Wenn ein Computer eine Nachricht an einen anderen Computer schicken möchte, geht diese Nachricht durch viele Zwischenstellen, die wir Router nennen. Diese Router funktionieren wie Wegweiser oder Kreuzungen auf deinem Weg. Sie helfen der Nachricht, den richtigen Weg zu finden.
+
+Jeder Router hat eine Tabelle, die ihm sagt, wo die Nachricht als Nächstes hingehen soll, so wie du auf einer Karte nachschaust, wo du als Nächstes fahren willst. Wenn die Nachricht bei einem Router ankommt, schaut der Router in seiner Tabelle nach, um zu sehen, wohin er die Nachricht senden soll. Manchmal ist der Router auch das Ziel, und er schickt die Nachricht direkt weiter.
+
+Damit alles schnell und ohne Verzögerungen funktioniert, müssen die Router gut vorbereitet sein. Deshalb wissen sie, wie viele „Hops“ (also Stationen beim Weiterleiten der Nachricht) es bis zum Ziel sind. Das hilft ihnen, den besten Weg auszuwählen und Staus zu vermeiden.
+
+Zusammengefasst: Router müssen nachsehen, wohin sie eine Nachricht als Nächstes schicken sollen, damit die Daten schnell und sicher ankommen.

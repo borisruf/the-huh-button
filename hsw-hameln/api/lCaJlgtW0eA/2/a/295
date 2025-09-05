@@ -1,0 +1,7 @@
+Die Aussage besagt, dass wir, wenn wir die Anzahl der Kollisionen in einem Netzwerk reduzieren wollen, besser geeignete Geräte verwenden müssen. Ein Beispiel für ein solches Gerät ist ein Switch.
+
+Ein einfaches Beispiel: Stell dir vor, in einem Zimmer spielen viele Kinder miteinander, und manchmal laufen sie gegeneinander, weil alle gleichzeitig sprechen und sich bewegen. Das ist wie eine große „Kollisionsdomäne“, wo es oft zu Problemen kommt.
+
+Wenn wir wollen, dass die Kinder besser miteinander spielen, können wir sie in kleinere Gruppen aufteilen. Das wäre, als würden wir die Anzahl der Kollisionen verringern. Statt alle in einem großen Raum zu haben, könnten wir jede Gruppe in einen eigenen Raum bringen, wo sie ohne Störungen spielen können. 
+
+Der Switch ist wie ein Lehrer, der die Kinder in kleinere Gruppen aufteilt, sodass sie nicht mehr durcheinanderlaufen. Der Switch hilft also, die Probleme (Kollisionen) zu lösen, indem er jedem Kind (oder in diesem Fall jedem Gerät im Netzwerk) mehr Platz gibt, um zu „spielen“ oder zu kommunizieren. So gibt es weniger Chaos und alles funktioniert besser.

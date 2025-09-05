@@ -1,0 +1,9 @@
+Das OSI-Modell hat sieben Schichten, die helfen, wie Daten im Internet von einem Ort zum anderen geschickt werden. Die Schichten 5 bis 7 kümmern sich um die Programme, die wir nutzen.
+
+1. **Sitzungsschicht (Schicht 5)**: Hier wird die Verbindung zwischen deinem Computer und einem anderen Gerät, zum Beispiel einem Mailserver, geregelt. Es wird gesagt, wie die Verbindung startet, wie sie bleibt und wie sie beendet wird.
+
+2. **Darstellungsschicht (Schicht 6)**: Diese Schicht sorgt dafür, dass die Daten richtig angezeigt werden. Wenn du eine E-Mail schreibst, könnte sie in einem bestimmten Format sein, zum Beispiel ASCII oder JPEG (für Bilder). Diese Schicht macht es möglich, dass der Empfänger die E-Mail genau so sieht, wie du sie gesendet hast.
+
+3. **Anwendungsschicht (Schicht 7)**: Dies ist die Schicht, die direkt mit dir als Benutzer spricht. Hier läuft die Kommunikation mit den Programmen, die du verwendest, wie dein E-Mail-Programm.
+
+Zusammengefasst: Diese drei Schichten helfen, dass deine Daten richtig gesendet, gut formatiert und für dich sichtbar sind.

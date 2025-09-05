@@ -1,0 +1,15 @@
+In diesem Text geht es um Netzwerke, speziell um etwas, das VLANs genannt wird. Lass uns das einfach erklären:
+
+Stell dir ein großes Gebäude mit drei Etagen vor. Jede Etage hat ihre eigenen Büros, und normalerweise könnte jede Etage ein eigenes Netzwerk haben. Das bedeutet, dass die Computer in den Büros auf einer Etage nur miteinander sprechen können, aber nicht mit den Computern in den anderen Etagen.
+
+VLANs helfen uns dabei, die Computer auf verschiedene Arten zu verbinden, ohne sich um die Etagen zu kümmern. Das heißt, auch wenn ein Computer im Erdgeschoss steht, kann er Teil eines Netzwerks sein, das in einem Büro im zweiten Stock ist. Das ist nützlich, weil wir so flexibler sind und die Computer einfach nach Bedarf in die verschiedenen Netzwerke stecken können.
+
+Es gibt zwei Möglichkeiten, diese VLANs einzurichten:
+
+1. **Statische Methode**: Hier legt ein Administrator fest, welcher Computer an welchem Anschluss des Switches hängt und zu welchem VLAN das gehört. Das wäre wie wenn man sagt: "Alle Computer in Raum 101 gehören zum Netzwerk A." Das Problem dabei ist, wenn ein Computer umgezogen wird, muss man das manuell ändern und sicherstellen, dass er zum richtigen Netzwerk gehört.
+
+2. **Dynamische Methode**: Hier wird eine spezielle Steuerung (wie ein Computer) verwendet, die auf die MAC-Adresse jedes Computers schaut. Wenn der Computer an einen Switch angeschlossen wird, schaut diese Steuerung nach, zu welchem VLAN dieser Computer gehört. Das ist viel einfacher, weil man nicht mehr manuell alles ändern muss.
+
+Wenn der Computer Daten sendet, passiert Folgendes: Er schickt ein Paket, das keine Informationen über das VLAN hat (das nennt man "Untagged-Paket"). Der Switch schaut dann entweder, an welchem Anschluss der Computer angeschlossen ist oder welche MAC-Adresse er hat, und fügt die VLAN-Information zu dem Paket hinzu. Das passiert auf einer bestimmten Ebene (Schicht 2) in der Netzwerktechnologie.
+
+Zusammengefasst: VLANs machen es einfacher, Computer zu verbinden, egal wo sie sind, und helfen, Netzwerke flexibler zu gestalten.

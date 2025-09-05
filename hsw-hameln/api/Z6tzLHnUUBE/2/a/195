@@ -1,0 +1,7 @@
+Die Aussage erklärt, warum es wichtig ist, Daten in kleinere Teile zu zerteilen, wenn sie über ein Netzwerk gesendet werden. 
+
+In einem Netzwerk gibt es verschiedene Arten von Protokollen (das sind Regeln, die bestimmen, wie Daten gesendet werden). Diese Protokolle können unterschiedliche maximale Größen für die Datenpakete haben, die sie senden können. Diese maximale Größe nennt man MTU (Maximum Transmission Unit).
+
+Wenn wir also Daten haben, die größer sind als die erlaubte Größe eines bestimmten Protokolls, muss das Internetprotokoll (IP) diese großen Daten in kleinere Stücke aufteilen (das nennt man Fragmentierung), damit sie gesendet werden können. 
+
+Das Ziel ist, dass die Daten trotzdem gut und richtig ankommen, auch wenn sie in kleinen Teilen versendet werden müssen. Wenn die Teile beim Empfänger wieder zusammengefügt werden, nennt man das Defragmentierung. So stellen wir sicher, dass alle Daten zuverlässig und in der richtigen Reihenfolge ankommen, auch wenn sie auf verschiedene Arten gesendet werden müssen.

@@ -1,0 +1,7 @@
+In diesem Text geht es darum, wie man Fehler bei der Übertragung von Daten erkennen kann. Wenn Daten über ein Netzwerk gesendet werden, können sie beschädigt oder verloren gehen. Es gibt verschiedene Möglichkeiten, solche Probleme zu bemerken.
+
+Zuerst haben wir darüber gesprochen, dass es Fehler geben kann, die dazu führen, dass die Daten falsch sind, obwohl sie vielleicht noch vollständig sind. Um solche Fehler zu erkennen, nutzen wir spezielle Techniken wie den sogenannten "zyklischen Redundanz-Check" (CRC). Dabei wird eine Art Kontrollsumme zu den gesendeten Daten hinzugefügt. Wenn die Daten ankommen, wird die Kontrollsumme überprüft. Wenn alles stimmt, sind die Daten okay. Wenn nicht, wissen wir, dass etwas schiefgelaufen ist.
+
+Außerdem gibt es auch das Problem, dass Daten ganz verloren gehen können, zum Beispiel wenn sie nicht richtig über das Netzwerk gesendet werden. Das bedeutet, dass wir vielleicht nie erfahren, dass die Daten überhaupt versucht wurden zu senden. Deshalb müssen wir auch überlegen, wie wir feststellen können, ob die Datenübertragung überhaupt stattgefunden hat.
+
+Zusammengefasst: Es ist wichtig zu wissen, ob Daten während der Übertragung beschädigt wurden oder ob sie überhaupt angekommen sind. Dafür gibt es verschiedene Methoden, die helfen, Fehler zu finden und zu beheben.

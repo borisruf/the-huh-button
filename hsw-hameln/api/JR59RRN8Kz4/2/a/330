@@ -1,0 +1,3 @@
+Die Aussage über "Voice-over-IP-VLANs" bedeutet einfach:
+
+Wenn wir spezielle Gruppen (VLANs) im Netzwerk für Telefongespräche (Voice over IP) machen, hat das viele Vorteile. Ein Vorteil ist, dass, wie auch bei normalen Daten-Gruppen, die Informationen (Broadcasts) nur innerhalb dieser speziellen Gruppe bleiben. Das heißt, wenn ein Computer in einer Gruppe eine Nachricht sendet, kommt diese Nachricht nur zu den Computern in der gleichen Gruppe und nicht zu den anderen. Dadurch bleibt das Netzwerk organisiert und klarer. So können Telefonate besser funktionieren, ohne dass es bei anderen Nachrichten stört.

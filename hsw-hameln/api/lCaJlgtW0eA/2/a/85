@@ -1,0 +1,5 @@
+Eine Bridge ist ein Gerät, das zwei Netzwerke verbindet. Man kann sich das wie eine Tür vorstellen: Wenn ein Signal (Daten) durch die Tür kommt, wird es aufgenommen und weitergeschickt. Eine Bridge hat einen Eingang für das Signal und einen Ausgang, um es weiterzugeben.
+
+Ein Switch funktioniert ähnlich, hat aber viele Eingänge (Ports). Man kann sich ein Switch wie eine große Verteilerstelle für Daten vorstellen, wo viele Türen sind. Jedes Mal, wenn ein Signal ankommt, entscheidet der Switch, durch welches Tor (Port) es rausgeschickt wird.
+
+Also: Eine Bridge hat einen Eingang und einen Ausgang, während ein Switch viele Eingänge hat, um viele Signale gleichzeitig zu verbinden und weiterzuleiten.

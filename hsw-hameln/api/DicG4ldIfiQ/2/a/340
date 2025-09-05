@@ -1,0 +1,7 @@
+Wenn wir Daten über ein Kabel oder eine andere Verbindung senden, gibt es ein bestimmtes Maß, wie viel Informationen wir gleichzeitig übertragen können. Das nennt man Bandbreite. Diese Bandbreite hat eine Grenze, und wenn wir an diese Grenze kommen, passiert etwas Interessantes mit den Informationen, die wir senden.
+
+Stellen Sie sich vor, Sie füllen einen Ballon mit Wasser. Wenn der Ballon genug Wasser hat, bleibt er fast gleich. Wenn Sie aber mehr Wasser hineingeben, fängt der Ballon an, sich zu verformen und kann manchmal sogar platzen. Ähnlich ist es mit den Daten: Wenn wir an die Grenze der Bandbreite kommen, wird das Signal, das gesendet wird, beim Empfangen verformt. 
+
+Diese Verformung sieht aus wie eine Kurve, die an die Form erinnert, die ein Kondensator (ein elektrisches Bauteil, das Energie speichert) hat, wenn er geladen oder entladen wird. Wenn man die Kurve anschaut, erkennt man, dass das Signal nicht mehr genau so aussieht wie am Anfang.
+
+Wir beschäftigen uns auch mit Störungen, die bei der Übertragung passieren können, und überlegen, wie wir die besten Bedingungen schaffen, damit die Daten ohne Probleme gesendet werden. Daher ist es wichtig, die physikalischen Eigenschaften des Kabels oder Mediums zu verstehen, um zu wissen, wie gut oder schlecht die Übertragung funktioniert.

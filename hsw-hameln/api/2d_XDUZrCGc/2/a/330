@@ -1,0 +1,9 @@
+Stell dir vor, dein Zuhause hat einen ganz speziellen Wirt, der alles verknüpft und damit das Internet nutzt. Dieser Wirt ist unser Router. Er ist wie eine Tür von deinem Haus (deinem Netzwerk) nach draußen in die große Welt (das Internet). 
+
+In deinem Haus haben viele Geräte, wie dein Handy oder Computer, ihre eigenen Nummern, die IP-Adressen genannt werden. Diese Adressen helfen den Geräten, miteinander zu reden, so wie wir Namen benutzen, um uns gegenseitig zu erkennen.
+
+Jetzt gibt es verschiedene Arten von IP-Adressen, die wir Klassen nennen. Es ist ein bisschen so, als gäbe es verschiedene Gruppen, in denen du Menschen nach ihrer Größe sortieren würdest. Eine große Gruppe könnte viele Menschen (also IP-Adressen) haben, während kleinere Gruppen weniger Menschen haben.
+
+Ein Problem ist, dass einige große Firmen in der Vergangenheit sehr viele IP-Adressen bekommen haben, die sie nie ganz genutzt haben. Das bedeutet, es sind viele IP-Adressen übrig geblieben, die niemand braucht. Deshalb gibt es heute nicht mehr so viele IP-Adressen, weil viele davon schon vergeben sind.
+
+Um das Problem zu lösen, hat man private IP-Adressen für den Gebrauch in Haushalten eingerichtet. Diese Adressen sind wie private Telefonnummern, die nur innerhalb deiner Nachbarschaft gelten. Sie können nicht im Internet benutzt werden, um Konflikte zu vermeiden. Wenn du mit dem Internet verbinden möchtest, kümmert sich der Router darum und wandelt die privaten Adressen in öffentliche Adressen um, die im Internet verwendet werden können. So kann dein Haushalt sicher und einfach das Internet nutzen!

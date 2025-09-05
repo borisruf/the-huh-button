@@ -1,0 +1,9 @@
+Die Aussage bedeutet, dass es bestimmte Bereiche gibt, in denen Informationen (Broadcasts) gesendet werden können, aber diese Informationen nicht über die Grenzen dieser Bereiche hinausgehen. 
+
+Wenn wir dazu verschiedene Netzwerke oder Netzwerkteile verbinden, gibt es spezielle Geräte, die dafür verantwortlich sind. Am Anfang haben wir einfache Geräte wie Repeater oder Hubs, die das Signal einfach übernehmen und verstärken, aber die gesamte Fläche, in der die Daten gesendet werden können, vergrößern – was auch zu mehr Störungen führen kann.
+
+Dann gibt es etwas "intelligentere" Geräte, die Switches oder Bridges. Diese Geräte können entscheiden, wohin die Informationen gesendet werden sollen, basierend auf spezifischen Adressen der Geräte im Netzwerk. Sie helfen dabei, unterschiedliche Bereiche zu verwalten und die Störungen zu verringern.
+
+Ganz oben haben wir Router, die noch cleverer sind. Sie verwenden IP-Adressen, um verschiedene Netzwerke miteinander zu verbinden. Ein Router kann also in einem Bereich sein und gleichzeitig Informationen an andere Bereiche weiterleiten, aber er schafft auch klare Grenzen, wo diese Informationen gesendet werden können – das ist die Broadcast-Domäne. 
+
+Zusammengefasst: Broadcast-Domänen sind spezielle Bereiche im Netzwerk, wo Informationen gesendet werden können, aber nicht darüber hinaus.

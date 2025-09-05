@@ -1,0 +1,5 @@
+Stell dir vor, du willst von einem Ort zu einem anderen reisen, zum Beispiel von Hameln nach Münster. Du benutzt eine App, um den besten Weg zu finden. Die App schaut, welche Straßen am besten sind und gibt dir verschiedene Routen zur Auswahl. Manchmal hörst du auch Verkehrsnachrichten, um zu entscheiden, welche Route du nimmst.
+
+In einem Netzwerk passiert etwas Ähnliches. Wenn Informationen von einem Punkt zu einem anderen gesendet werden, gibt es viele Wege, die sie nehmen können. Die Straßen in unserem Beispiel sind die Verbindungen im Netzwerk. Die Knotenpunkte, wo die Wege sich treffen, sind wie Kreuzungen, wo man entscheiden muss, welchen Weg man wählen will. 
+
+Aber in Netzwerken sind diese Knotenpunkte keine echten Kreuzungen, sie heißen Router. Die Router helfen dabei, die Informationen so schnell und effizient wie möglich von A nach B zu schicken. Sie sorgen dafür, dass die Nachrichten den besten Weg finden.

@@ -1,0 +1,7 @@
+Die Aussage beschreibt, dass durch den Einsatz eines Switches zwei separate Bereiche für Netzwerkkommunikation entstehen, die man Kollisionsdomänen nennt. Hier ist eine einfache Erklärung:
+
+Stell dir vor, das Netzwerk ist wie ein großer Raum, in dem viele Leute miteinander sprechen. Wenn alle im gleichen Raum sprechen, kann es passieren, dass sich mehrere Leute gleichzeitig unterbrechen – das nennt sich eine Kollision. 
+
+Wenn wir einen Switch benutzen, ist das so, als ob wir eine Wand in den Raum bauen. Jetzt gibt es zwei kleinere Räume: einen oben und einen unten. In jedem Raum können die Leute miteinander sprechen, ohne sich gegenseitig zu stören. 
+
+Das bedeutet: In den einzelnen Räumen können Kollisionen passieren, aber nicht zwischen den beiden Räumen. So sorgt der Switch dafür, dass die Kommunikation effizienter und ruhiger läuft, weil weniger Interferenzen auftreten.

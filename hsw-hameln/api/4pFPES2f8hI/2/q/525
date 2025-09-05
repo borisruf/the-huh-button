@@ -1,0 +1,1 @@
+ Das heißt, wir müssen pro Subnet auch wieder minus 2 rechnen, bedeutet also in diesem Fall, wenn wir eine 27er Subnets-Maske haben, dass wir rechnen müssen 2 hoch 5 minus 2 und dabei kommen wir eben auf 30 Hosts, die wir in diesem Subnet adressieren können.  Wir schauen uns das nochmal auf dieser Tabelle an.

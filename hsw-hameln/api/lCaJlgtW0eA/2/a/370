@@ -1,0 +1,3 @@
+In einfachen Worten sagt die Aussage, dass Kollisionen, also Probleme, die entstehen, wenn zwei Geräte gleichzeitig Daten senden wollen, nur in bestimmten Bereichen eines Netzwerks passieren. Wenn wir also einen Switch benutzen, können wir das Netzwerk in zwei Teile aufteilen. In jedem dieser Teile können Kollisionen auftreten, aber sie beeinflussen sich nicht gegenseitig. 
+
+Jedoch gibt es noch einen größeren Bereich, den wir als Broadcast-Domäne bezeichnen. Das bedeutet, dass bestimmte Nachrichten, die an alle Geräte im Netzwerk gesendet werden (Broadcasts), in diesem gesamten Bereich gesendet werden, und zwar unabhängig davon, dass wir die Kollisionen in kleinere Bereiche aufgeteilt haben.

@@ -1,0 +1,14 @@
+In dem Text geht es um Ethernet, ein Netzwerk-System, das vor 40 Jahren erfunden wurde. Ethernet erlaubt es vielen Geräten, miteinander zu kommunizieren, indem sie ein gemeinsames Medium nutzen, wie ein Kabel. 
+
+Wenn mehrere Geräte gleichzeitig auf dieses Medium zugreifen wollen, kann es zu Kollisionen kommen. Das bedeutet, dass zwei Geräte gleichzeitig senden wollen und ihre Nachrichten sich überlappen. Um das zu vermeiden, gibt es Regeln (Protokolle). Eine wichtige Regel heißt CSMA-CD. Sie funktioniert so:
+
+1. Die Geräte hören zuerst, ob das Medium frei ist.
+2. Wenn es frei ist, dürfen sie senden.
+3. Wenn es zu einer Kollision kommt, merken die Geräte das und hören auf.
+4. Danach müssen sie eine Wartezeit einhalten, während der sie zufällig entscheiden, wann sie erneut senden.
+
+Diese Wartezeit kann unterschiedlich lang sein, und das macht das System nicht genau, weil man nie genau weiß, wann ein Gerät wieder senden kann. 
+
+Im OSI-Modell, einem Standard für Netzwerke, wird Ethernet auf der zweiten Schicht behandelt. Diese Schicht wird in zwei Teile unterteilt: Einer kümmert sich um die logische Verbindung der Geräte, und der andere um die Kontrolle des Zugriffs auf das Medium. 
+
+Zusammengefasst: Der Text erklärt, wie Ethernet funktioniert, wie Geräte miteinander kommunizieren und was passiert, wenn sie gleichzeitig senden wollen.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wenn Rechner A eine Nachricht an Rechner B schickt, dann hat Rechner B die IP-Adresse von Rechner A. Wenn Rechner B jetzt auf die Nachricht antworten will, weiß er, wo er die Antwort hinschicken muss, weil er die IP-Adresse von Rechner A hat. 
+
+Die Antwort von Rechner B kann entweder denselben Weg zurücknehmen, den die Nachricht gekommen ist, oder einen anderen Weg wählen. Das hängt davon ab, wie das Netzwerk funktioniert. 
+
+Im Grunde genommen hilft die IP-Adresse den Computern, sich gegenseitig zu finden und zu kommunizieren, selbst wenn sie über verschiedene Routen im Netzwerk miteinander verbunden sind.

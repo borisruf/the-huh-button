@@ -1,0 +1,9 @@
+In einfachen Worten erklärt: 
+
+Multiplexing ist eine Technik, die es ermöglicht, dass mehrere Personen gleichzeitig über ein Kabel miteinander sprechen können, obwohl sie nur ein Kabel haben. Normalerweise kann immer nur eine Verbindung auf einem Kabel aktiv sein, weil das Kabel nur einen "Platz" für den Datenfluss hat. 
+
+Stell dir vor, es gibt drei Leute auf der linken Seite und drei Leute auf der rechten Seite. Ohne Multiplexing kann nur ein Paar von diesen Leuten miteinander reden, während die anderen warten müssen. Das ist nicht sehr praktisch.
+
+Hier kommt der Multiplexer ins Spiel. Er hilft dabei, die Gespräche von vielen Leuten so zu organisieren, dass sie sich den Platz auf dem Kabel teilen können. Ein Multiplexer nimmt die Gespräche und schickt sie in kleine "Pakete" über das eine Kabel. Der Demultiplexer auf der anderen Seite empfängt diese Pakete und sorgt dafür, dass sie wieder richtig an die richtigen Personen verteilt werden. 
+
+Auf diese Weise können alle miteinander kommunizieren, ohne dass sie warten müssen. Es ist wie ein geschickter Plan, der dafür sorgt, dass das Kabel effizient genutzt wird.

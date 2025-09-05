@@ -1,0 +1,13 @@
+In einfachen Worten geht es darum, wie man Netzwerke besser organisieren kann. 
+
+Stell dir ein großes Gebäude mit drei Etagen vor. Jede Etage hat ein eigenes Netzwerk. Das ist eine einfache Methode, aber manchmal passt das nicht zu dem, was die Leute brauchen. 
+
+Durch die Nutzung von VLANs (virtuellen LANs) kann man die Netzwerke viel flexibler gestalten. Anstatt für jede Etage ein Netzwerk zu haben, kann man Mitarbeiter aus verschiedenen Etagen in Gruppen zusammenfassen. Man könnte zum Beispiel alle Marketing-Mitarbeiter in ein Netzwerk bringen, egal auf welcher Etage sie sitzen.
+
+Es gibt zwei Möglichkeiten, diese VLANs einzurichten:
+
+1. **Statische Einrichtung:** Hier sagt ein Administrator, welche Verbindungen (Ports) zu welchem Netzwerk (VLAN) gehören. Das kann fehleranfällig sein, weil man sicherstellen muss, dass der richtige Computer an den richtigen Port angeschlossen wird.
+
+2. **Dynamische Einrichtung:** Bei dieser Methode gibt es eine zentrale Steuerung, die anhand der eindeutigen Adresse jedes Computers (MAC-Adresse) entscheidet, zu welchem VLAN dieser Computer gehört. Wenn man den Computer anschließt, schaut das System nach, in welches VLAN er passt.
+
+Um diese VLAN-Informationen zu übertragen, wird ein kleiner Zusatz (4 Bytes) zu den normalen Datenpaketen hinzugefügt. In diesen 4 Bytes steht drin, zu welchem VLAN das Paket gehört, damit die Daten richtig weitergeleitet werden können.

@@ -1,9 +1,7 @@
-IP-Adressen bestehen aus Zahlen und Punkten, z.B. 172.16.14.193. Diese Adresse ist wie eine Art Hausnummer für deinen Computer, damit das Internet weiß, wo es die Daten hinliefern soll. Die Adresse besteht aus 32 Stellen oder Bits und ist in vier Teile oder Oktette unterteilt. 
+Eine IP-Adresse ist wie eine Adresse für einen Computer im Internet. Sie besteht aus vier Gruppen von Zahlen, die durch Punkte getrennt sind, wie z.B. 172.16.14.193. Jede Gruppe hat acht Bits, was bedeutet, dass sie in einer speziellen Zahlensprache (der Binärsprache) dargestellt werden kann. 
 
-Zur IP-Adresse gehört auch noch eine Maske, die sogenannte Subnetzmaske. Diese hilft, eine IP-Adresse in zwei Teile zu teilen: Ein Teil nennt man Netzanteil, der andere Hostanteil. Der Netzanteil ist wie die Straße, in der du wohnst, und der Hostanteil ist wie deine eigene Hausnummer.
+Zusätzlich zu der IP-Adresse gibt es auch eine Subnetzmaske. Diese Maske hilft zu bestimmen, welchen Teil der IP-Adresse das Netzwerk identifiziert und welchen Teil für Computer innerhalb dieses Netzwerks genutzt wird. Man kann sich die Subnetzmaske also wie eine Art Filter vorstellen.
 
-Um die genauen Zahlen in der IP-Adresse besser zu verstehen, kann man sie auch in eine andere Schreibweise umwandeln, die binäre Schreibweise. Das ist dann eine Reihe von Einsen und Nullen. 
+Es gibt verschiedene Klassen von IP-Adressen (Klasse A, B, C), und jede hat eine eigene Standard-Subnetzmaske. Diese Maske zeigt an, wie groß das Netzwerk ist und wie viele Computer darin Platz finden können. Wichtig ist, dass die Anzahl der Nullen in der Subnetzmaske hilft, die Anzahl der möglichen Computeradressen im Netzwerk zu bestimmen.
 
-Es gibt verschiedene Klassen von IP-Adressen, und je nach Klasse gehört dazu eine bestimmte Standard-Subnetzmaske. Zum Beispiel gehört zur Klasse A die Maske 255.0.0.0, zu Klasse B 255.255.0.0 und zu Klasse C 255.255.255.0. 
-
-Je nachdem, wie viele Nullen in der Subnetzmaske stehen, können unterschiedlich viele Computer in einem Netzwerk sein. Mit jeder Null bekommt man mehr Platz für Computer-Adressen.
+Zusammengefasst: Eine IP-Adresse zeigt den Standort eines Computers im Internet, und die Subnetzmaske hilft zu wissen, welche Geräte zu welchem Netzwerk gehören.

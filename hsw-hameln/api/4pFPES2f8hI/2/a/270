@@ -1,0 +1,7 @@
+Okay, lass uns die Aussage einfacher erklären:
+
+Eine „Standard Klasse-C-Subnetzmaske“ ist ein bestimmter Typ von Nummern, die jedem Teil eines Netzwerks zugeordnet werden, um zu bestimmen, wie viele Computer (oder „Hosts“) in diesem Netzwerk sein können. 
+
+Wenn wir von einer Standard Klasse-C-Subnetzmaske sprechen, meinen wir in der Regel die Zahl 255.255.255.0. Das bedeutet, dass in einem Netzwerk, das diese Maske verwendet, bis zu 254 Computer miteinander verbunden werden können. 
+
+Das hört sich vielleicht kompliziert an, aber es ist einfach: Wenn man die Subnetzmaske 255.255.255.0 benutzt, kann man bis zu 254 Geräte in diesem Netzwerk haben.

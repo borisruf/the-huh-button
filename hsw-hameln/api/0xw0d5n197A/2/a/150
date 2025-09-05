@@ -1,0 +1,11 @@
+Die Aussage beschreibt, wie man sicherstellt, dass Daten in einem Netzwerk sicher sind. 
+
+Stell dir vor, du hast eine große Tür (die Firewall), die deinen Raum (dein Netzwerk) schützt. Wenn jemand etwas durch die Tür schickt (ein Datenpaket), schaut die Tür zuerst, ob die Person vertrauenswürdig ist. 
+
+Die einfache Methode ist, nur von bestimmten guten Personen etwas reinzulassen. Das nennt man Zugangskontrolle. 
+
+Bei der „Stateful Inspection“ schaut die Tür jedoch nicht nur auf jede kleine Sache, die jemand schickt, sondern erkennt, ob die Sachen zusammengehören, wie bei einem Gespräch. Wenn die „Tür“ sieht, dass das Gespräch erlaubt ist, lässt sie das gesamte Gespräch durch.
+
+Zusätzlich gibt es einen speziellen Bereich, die „Demilitarisierte Zone“ oder DMZ. Das ist ein Raum, der besonders geschützt ist, wo nur bestimmte Leute hinein dürfen und der auch sicher auf alle Seiten ist, damit keine schlechten Dinge passieren können. 
+
+So sorgt man dafür, dass das Netzwerk sicher bleibt und keine unerwünschten Daten durchkommen.

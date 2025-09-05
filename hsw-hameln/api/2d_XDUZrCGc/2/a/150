@@ -1,0 +1,16 @@
+Okay, ich erkläre das ganz einfach:
+
+IP-Adressen sind wie Hausnummern für Computer im Internet. Es gibt verschiedene Gruppen von IP-Adressen, die wir Klassen nennen.
+
+1. **Klassen A, B und C**: 
+   - Klasse A kann viele Adressen haben, bis zu 17 Millionen. 
+   - Klasse B hat weniger Adressen.
+   - Klasse C hat noch weniger.
+
+2. **Wer bekommt was?** 
+   - Große Firmen wie IBM bekommen manchmal eine ganze Klasse A. Das bedeutet, sie bekommen viele IP-Adressen, aber sie brauchen nicht so viele. Sie haben wahrscheinlich nicht 17 Millionen Computer.
+
+3. **Warum ist das wichtig?**
+   - Wenn wir die IP-Adressen in Klassen einteilen, hilft das, das Internet zu organisieren. Es stellt sicher, dass jeder Computer eine einzigartige Adresse hat, so dass sie miteinander kommunizieren können.
+
+Also, das bedeutet: Große Firmen bekommen viele IP-Adressen, auch wenn sie keine so große Anzahl von Computern haben.

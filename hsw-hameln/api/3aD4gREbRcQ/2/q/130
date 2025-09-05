@@ -1,0 +1,1 @@
+ Genau die beiden wollen wir uns jetzt mal rauspicken, als Beispiel für eine Kommunikation auf den oberen drei Schichten im OSI-Modell.  Wichtig ist, sämtliche Anwendungsprotokolle basieren entweder auf TCP oder auf UDP auf der Transportschicht.

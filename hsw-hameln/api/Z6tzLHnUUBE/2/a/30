@@ -1,0 +1,5 @@
+In dieser Aussage sprechen wir über das Internet und wie Daten zwischen Computern übertragen werden. Es gibt verschiedene "Schichten", die dabei helfen, die Daten zu organisieren. 
+
+Wir haben schon zwei wichtige Protokolle kennengelernt, die auf der vierten Schicht sind. Diese Protokolle heißen TCP und UDP. Jetzt wollen wir uns eine Schicht tiefer, also auf der dritten Schicht, umsehen. Dort finden wir ein anderes wichtiges Protokoll, das IP heißt. 
+
+IP hilft dabei, die Daten an die richtigen Orte zu schicken, so wie eine Adresse für Briefe. Sowohl IP als auch die anderen Protokolle (TCP und UDP) haben unterschiedliche Aufgaben und Ziele, damit alles im Internet gut funktioniert.

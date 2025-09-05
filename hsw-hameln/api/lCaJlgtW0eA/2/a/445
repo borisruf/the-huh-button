@@ -1,0 +1,7 @@
+Okay, ich erkläre das in einfacher Sprache:
+
+Stell dir vor, wir haben zwei Gruppen von Computern, die durch einen Switch getrennt sind. Diese Gruppen sind wie zwei separate Räume, in denen nur die Computer in einem Raum direkt miteinander reden können. Das nennt man eine "Broadcast-Domäne". Wenn ein Computer in einem Raum eine Nachricht an alle sendet, hören nur die Computer in diesem Raum zu.
+
+Wenn wir jetzt die Verbindung zwischen den beiden Switches entfernen, entstehen zwei eigene Räume. In jedem Raum können die Computer miteinander sprechen, aber sie können nicht über den Raum hinaus kommunizieren.
+
+Manchmal möchten wir aber, dass Computer in einem Raum mit Computern in einem anderen Raum reden können. Dafür brauchen wir etwas anderes, wie einen Router. Der Router kann helfen, die beiden Räume zu verbinden, sodass die Computer in verschiedenen Räumen miteinander reden können, auch wenn sie in unterschiedlichen Broadcast-Domänen sind.

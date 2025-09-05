@@ -1,0 +1,9 @@
+In der Aussage geht es darum, wie Computer über das Internet miteinander kommunizieren. Wenn du eine Webseite öffnest, fragt dein Computer einen speziellen Server (Webserver) nach dieser Webseite. Dabei gibt dein Computer seine eigene Nummer (Quellport) an.
+
+- **Webserver**: Das ist ein Computer im Internet, der Webseiten speichert und bereitstellt.
+- **Quellport**: Das ist die Nummer, die dein Computer bei der Anfrage benutzt, etwa eine Zufallszahl über 30.000.
+- **Zielport**: Das ist die Nummer, die der Webserver für Anfragen nach Webseiten benutzt, normalerweise Port 80 für Webseiten.
+
+Wenn der Webserver die Webseite zurückschickt, antwortet er an die ursprüngliche Nummer deines Computers (Quellport), und diese wird jetzt die Zielnummer für die Rückantwort. 
+
+Das Spannende ist, dass durch das Zusammenspiel von den beiden Ports (wie beim Hin- und Rückweg einer Postsendung) sich die Rolle der Ports ändert: Das, was vorher die Quellnummer war, wird nun zur Zielnummer.

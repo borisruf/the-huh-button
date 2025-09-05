@@ -1,0 +1,7 @@
+Die Aussage erklärt, was das Internetprotokoll (IP) macht. Hier sind die Hauptpunkte in sehr einfacher Sprache:
+
+1. **Adresieren von Rechnern**: Eine wichtige Aufgabe von IP ist es, jedem Computer im Internet eine eindeutige Adresse zu geben. Das hilft dabei, die Computer richtig zu finden und miteinander zu verbinden.
+
+2. **Paket-Fragmentierung**: Manchmal sind die Daten, die gesendet werden, zu groß, um sie auf einmal zu schicken. In diesem Fall hilft IP dabei, diese großen Daten in kleinere Teile, sogenannte „Pakete“, zu zerlegen. So können die Pakete leichter verschickt werden. 
+
+Zusammengefasst: IP sorgt dafür, dass Computer sich finden können und dass große Daten in kleine Teile aufgeteilt werden, um sie zu senden.

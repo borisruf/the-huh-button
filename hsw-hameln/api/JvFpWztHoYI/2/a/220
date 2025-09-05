@@ -1,0 +1,9 @@
+Der Text spricht darüber, wie man digitale Informationen (Daten) in ein Signal umwandelt, das über Kabel gesendet werden kann. Es werden verschiedene Methoden erklärt, um sicherzustellen, dass das Signal gut funktioniert und einfach zu verstehen ist.
+
+1. **Einfach erklärt:** Wenn wir nur Nullen und Einsen haben und sie in ein Signal umwandeln, kann das manchmal dazu führen, dass es viele lange Einsen oder Nullen hintereinander gibt. Das bedeutet, das Signal bleibt lange gleich und hat keinen Wechsel mehr.
+
+2. **Gleichstromanteil:** Wenn ein Signal lange gleich bleibt (wie viele Einsen hintereinander), nennt man das einen hohen Gleichstromanteil. Das ist nicht gut, weil es schwer macht, den Takt (also das Tempo, in dem die Daten gesendet werden) zu erkennen.
+
+3. **Fallende Flanken:** In dem anderen Beispiel, wo es Signalwechsel gibt (also das Signal von Eins auf Null wechselt und umgekehrt), kann man den Takt besser erkennen. Bei dieser Methode werden Einsen durch „fallende Flanken“ angezeigt. Das bedeutet, dass das Signal schnell zu einem anderen Wert wechselt, und das ist einfacher für die Technik, um es zu verstehen.
+
+4. **Zusammenfassung:** Wenn die Technik ständig die Werte ändert (also bei jeder Eins und Null wechselt), ist es einfacher, die Daten zu lesen und die Geschwindigkeit einzuhalten. So kann das Signal klarer und zuverlässiger übertragen werden.

@@ -1,0 +1,11 @@
+Die Aussage beschreibt, wie das Internetprotokoll (IP) arbeitet, insbesondere auf einer bestimmten Ebene des OSI-Modells, die Schicht 3. Hier ist die einfache Erklärung:
+
+1. **Datenübergabe**: IP hilft dabei, Daten von einer Schicht des Netzwerks zur nächsten zu senden. Das bedeutet, dass es die Verantwortung hat, die Informationen an den richtigen Ort zu bringen.
+
+2. **Routing**: IP hat die Aufgabe herauszufinden, wie die Daten ihren Weg durch das Netzwerk finden. Es nutzt spezielle Regeln (Routing-Protokolle), um den besten Pfad für die Daten zu bestimmen.
+
+3. **Fragmentierung**: Manchmal sind die Daten zu groß, um sie auf einmal zu senden. IP zerlegt diese großen Daten in kleinere Stücke (Fragmente) und schickt sie einzeln. 
+
+4. **Defragmentierung**: Am Zielort fügt IP die kleinen Stücke wieder zusammen, damit die Daten wieder komplett sind.
+
+Zusammengefasst: IP sorgt dafür, dass Daten ordnungsgemäß von einem Computer zum anderen gelangen, indem es die Daten aufteilt, Wege findet und sie dann am Ziel wieder zusammensetzt.

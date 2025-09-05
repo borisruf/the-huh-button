@@ -1,0 +1,11 @@
+In einfachen Worten bedeutet die Aussage Folgendes:
+
+Wir reden über zwei wichtige Dinge im Netzwerk: MAC-Adressen und Switch-Ports. Diese Dinge gehören zur zweiten Schicht eines Modells, das hilft, wie Netzwerke organisiert sind (das nennt man OSI-Modell). 
+
+Wenn wir mit Daten in einem Netzwerk arbeiten, wird jeder Datenblock, den wir senden, ein Stück zusätzlicher Information hinzugefügt. Diese zusätzliche Information hilft, die Daten richtig zu einem bestimmten Ziel zu bringen. 
+
+Um es einfacher zu verstehen: Stell dir vor, du schickst einen Brief. Normalerweise schreibst du nicht nur den Namen des Empfängers auf den Umschlag, sondern auch die Adresse. Die Adresse hilft dabei, dass der Brief an die richtige Stelle kommt. Im Netzwerk passiert etwas Ähnliches: Die zusätzliche Information, die den Daten hinzugefügt wird, sorgt dafür, dass sie zu den richtigen Geräten gelangen.
+
+Außerdem sprechen wir über VLANs (virtuelle LANs), die es uns ermöglichen, Netzwerke flexibler zu gestalten, zum Beispiel über verschiedene Stockwerke eines Gebäudes. Statt dass jedes Stockwerk sein eigenes Netzwerk hat, können wir die Geräte so gruppieren, wie wir es brauchen. Es gibt zwei Möglichkeiten, wie man das machen kann: entweder indem man manuell festlegt, welches Gerät zu welchem Netzwerk gehört, oder indem das Netzwerk automatisch erkennt, welches Gerät wo hineingehört. 
+
+So helfen uns die Informationen (wie MAC-Adressen) und das OSI-Modell dabei, die Netzwerke besser zu verstehen und zu betreiben.

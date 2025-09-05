@@ -1,0 +1,7 @@
+Wir schauen uns die Tabelle an, die uns zeigt, wie wir ein großes Netzwerk in kleinere Teile aufteilen können, die man Subnetze nennt. Vorher haben wir gelernt, dass es bei IP-Adressen immer weniger gibt, also müssen wir cleverer mit ihnen umgehen. 
+
+Mit Subnetzen können wir aus einem großen Netzwerk, das viele IP-Adressen hat, kleinere Netzwerke machen. Das hilft, weil wir nicht immer so viele Adressen brauchen. 
+
+In der Tabelle sehen wir, dass wir aus einem bestimmten Netzwerk, das 254 Adressen hatte, jetzt acht kleinere Netzwerke bilden können. Jedes dieser kleinen Netzwerke hat 32 Adressen. Aber wir können die erste und die letzte Adresse in jedem kleinen Netzwerk nicht benutzen, weil diese speziellen Adressen für besondere Zwecke reserviert sind. 
+
+Am Ende können wir sechs von diesen kleinen Netzwerken benutzen und in jedem davon können wir 30 Geräte ansprechen. Diese Tabelle hilft uns, alles genau zu sehen und zu verstehen, wie wir die Adressen verwenden können.

@@ -1,0 +1,5 @@
+Stell dir vor, ein Laptop ist wie ein Gerät, das auf verschiedene Arten mit dem Internet verbunden werden kann. Zum Beispiel kann er mit einem Kabel oder mit WLAN (also ohne Kabel) verbunden sein. Wenn der Laptop mit einem Kabel verbunden ist, bekommt er eine IP-Adresse, die für diese Verbindung spezifisch ist. Und wenn er gleichzeitig mit WLAN verbunden ist, bekommt er eine andere IP-Adresse. 
+
+Das ist so, weil jedes Mal, wenn ein Gerät eine Verbindung zum Internet aufbaut, eine IP-Adresse gebraucht wird, damit die Informationen an die richtige Stelle geschickt werden können. Es gibt auch viele andere Geräte, wie Smartphones oder Drucker, die das gleiche Prinzip nutzen. Manchmal haben diese Geräte also mehrere IP-Adressen, weil sie auf verschiedene Arten mit dem Internet verbunden sind.
+
+Bei Routern, die das Internet in ein Zuhause bringen, ist die Sache noch ein bisschen anders. Sie haben auch eine spezielle Art, IP-Adressen zu verwalten.

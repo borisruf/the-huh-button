@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass eine IP-Adresse in vier Teile, auch Oktette genannt, aufgeteilt ist. Jedes Oktett ist wie ein kleines Stück einer größeren Zahl. Diese Teile sind durch Punkte getrennt. 
+
+Eine IP-Adresse sieht zum Beispiel so aus: 172.16.14.193. 
+
+Jedes dieser vier Oktette enthält Informationen, die in einer Sprache für Computer, den sogenannten "Bits", geschrieben sind. Bits sind die kleinsten Teile von Informationen, die nur zwei Werte haben können: 0 oder 1. 
+
+Also, wenn wir über IP-Adressen reden, denken wir daran, dass sie aus vier Teilen bestehen und jeder Teil aus vielen kleinen Daten (Bits) besteht, die den Computern helfen, sich zu finden und miteinander zu kommunizieren.

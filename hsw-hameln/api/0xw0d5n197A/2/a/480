@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass der Administrator, also die Person, die das Netzwerk verwaltet, nicht kontrollieren kann, welcher Virenschutz auf den Geräten der Benutzer installiert ist. Diese Geräte gehören den Benutzern selbst und bringen sie ins Netzwerk. Das ist ein Problem, weil der Administrator nicht sicherstellen kann, dass diese Geräte sicher sind. Es besteht die Gefahr, dass schädliche Programme (Malware) von diesen Geräten ins Netzwerk gelangen, was das gesamte Netzwerk gefährden kann. 
+
+Im Wesentlichen zeigt das, dass es eine Herausforderung ist, die Sicherheit eines Netzwerks zu garantieren, wenn viele unterschiedliche, private Geräte verwendet werden.

@@ -1,0 +1,7 @@
+Wenn wir darüber sprechen, wie Daten in einem lokalen Netzwerk (LAN) von einem Computer zu einem anderen geschickt werden, müssen wir auch über die MAC-Adressen reden. MAC-Adressen sind spezielle Zahlen, die jedem Gerät im Netzwerk zugeordnet sind, so wie eine persönliche ID. 
+
+Damit die Computer im Netzwerk wissen, welches Gerät welche MAC-Adresse hat, verwenden sie ein speziellen Prozess namens Address Resolution Protocol (ARP). ARP hilft den Computern, die MAC-Adresse zu finden, die zu einer bestimmten IP-Adresse gehört. 
+
+Die IP-Adresse ist eine Art Adresse für Computer im Internet, während die MAC-Adresse die physische Adresse ist, die sich auf das tatsächliche Gerät bezieht. 
+
+Zusammengefasst: ARP ist wichtig, um zu wissen, wo die Daten hingehen sollen, wenn sie von einer IP-Adresse zu einer MAC-Adresse geschickt werden.

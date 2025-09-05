@@ -1,0 +1,11 @@
+In der Aussage geht es darum, wie Daten durch ein Netzwerk geschickt werden. Zuerst wird erklärt, dass es verschiedene Arten gibt, wie man Daten weiterleiten kann. Eine Art davon ist die Paketvermittlung.
+
+Hier sind die wichtigen Punkte einfach erklärt:
+
+1. **Paketvermittlung**: Das ist, wenn Daten in kleine Stücke, die wir "Pakete" nennen, aufgeteilt werden. Diese Pakete können dann auf verschiedene Wege durchs Netzwerk geschickt werden. Das ist praktisch, weil die Pakete nicht gleichzeitig reisen müssen.
+
+2. **Synchron und asynchron**: Wenn etwas synchron ist, passiert alles gleichzeitig oder zur gleichen Zeit. Bei der asynchronen Methode gibt es keine so klare Zeitregel; Dinge können zu unterschiedlichen Zeiten passieren. Die Aussage sagt, dass bei der Paketvermittlung die Daten synchron gesendet werden können. Das bedeutet, dass wir sie gezielt und gleichzeitig verschicken können, wenn nötig.
+
+3. **Frames**: Diese Pakete, von denen wir sprechen, können auch als "Frames" bezeichnet werden. Das sind die kleinen Datenstücke, die durchs Netzwerk geschickt werden.
+
+Zusammengefasst: Bei der Paketvermittlung teilen wir Daten in kleine Teile und können sie gezielt und manchmal sogar gleichzeitig durch das Netzwerk schicken, was effizienter ist.

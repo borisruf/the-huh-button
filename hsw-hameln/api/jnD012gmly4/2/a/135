@@ -1,0 +1,3 @@
+Früher, als das erste Ethernet-Protokoll entwickelt wurde, musste man die Länge der Daten in einen speziellen Bereich, den Header, schreiben. Der Header ist ein Teil der Informationen, die einem Datenpaket (Frame) beigefügt werden. Wenn die Länge im Header steht, kann es Probleme geben: Wenn diese Länge verloren geht, weiß man nicht mehr, wo das Datenpaket endet. 
+
+Heutzutage machen wir das nicht mehr so. Statt die Länge aufzuschreiben, verwenden wir andere Methoden, um sicherzustellen, dass die Daten richtig übertragen werden. So können wir Fehler besser erkennen und vermeiden, dass es zu Verwirrung kommt, wo die Daten enden.

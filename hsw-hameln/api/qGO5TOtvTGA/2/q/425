@@ -1,0 +1,1 @@
+ Das heißt, jeder Rechner in meinem Netzwerk muss wissen, wie er Rechner erreichen kann, die sich eben nicht in seinem eigenen Netzwerk befinden.  Das kann man ermitteln auf Basis der IP-Adresse und der zugehörigen Subnetzmaske.

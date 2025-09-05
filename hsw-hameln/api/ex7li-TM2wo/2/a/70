@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, dass wir sicherstellen müssen, dass keine wichtigen Daten verloren gehen oder verändert werden, ohne dass wir es merken. 
+
+Zuerst schauen wir, ob die Daten, die wir senden oder empfangen, richtig sind und nicht kaputt gegangen sind. Das machen wir mit speziellen Überprüfungen, die zeigen, ob alles in Ordnung ist. Wenn die Daten zwar die gleiche Länge haben, aber sich trotzdem verändert haben, müssen wir das herausfinden.
+
+Dann müssen wir auch prüfen, ob die Daten vielleicht überhaupt nicht angekommen sind. Das heißt, wir müssen prüfen, ob wir die Daten wirklich bekommen haben oder ob sie vielleicht unterwegs verloren gegangen sind. 
+
+In den nächsten Abschnitten werden wir uns mit diesen zwei Themen – ob die Daten falsch sind oder ob sie fehlen – genauer beschäftigen.

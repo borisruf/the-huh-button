@@ -1,0 +1,17 @@
+In dieser Erklärung geht es darum, wie man ein großes Netzwerk in kleinere Teile, sogenannte Subnetze, aufteilt. Man macht das, weil es immer weniger IP-Adressen gibt und man effizienter damit umgehen möchte.
+
+Hier ist eine einfache Erklärung der wichtigen Punkte:
+
+1. **Subnetze**: Wenn wir ein großes Netzwerk haben, teilen wir es in kleinere Netzwerke auf. Das nennt man Subnetze.
+
+2. **IP-Adressen**: Eine IP-Adresse ist wie eine Adresse für Computer im Internet. Es gibt nicht mehr genug von diesen Adressen, deswegen müssen wir klug damit umgehen.
+
+3. **Subnetzmaske**: Das ist eine Art "Werkzeug", das uns hilft, ein großes Netzwerk in kleinere Teile aufzuteilen. Es zeigt, wie viele Teile wir haben und wie viele Computer (Hosts) wir in jedem Teil haben können.
+
+4. **Wieviele Subnetze?**: Wenn wir ein großes Netzwerk in kleinere aufteilen, können wir die Anzahl der Subnetze bestimmen, indem wir die Anzahl der Bits zählen, die wir von den Hosts (den Computern) abziehen und in Netze umwandeln.
+
+5. **Nutzbare Subnetze**: Wenn wir ein Netzwerk aufteilen, sind zwei der neuen Subnetze nicht nützlich: das erste und das letzte. Das bedeutet, wenn wir zum Beispiel acht neue Subnetze machen, können wir nur sechs davon tatsächlich für Computer nutzen.
+
+6. **Hosts pro Subnet**: Auch die Anzahl der Computer, die wir in jedem Subnetz haben können, wird weniger, wenn wir die Subnetze bilden.
+
+Das Ziel dieser Schritte ist, besser mit den IP-Adressen umzugehen, damit wir mehr Platz für neue Computer schaffen und sicherer arbeiten können.

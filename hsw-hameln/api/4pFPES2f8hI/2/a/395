@@ -1,0 +1,5 @@
+In dieser Aussage geht es darum, wie man große Netzwerke in kleinere Teile, sogenannte Subnetze, aufteilen kann. Dabei gibt es zwei besondere Netzwerke, die man nicht benutzen darf: das erste Netzwerk (Subnet0) und das letzte Netzwerk. Diese Netzwerke sind speziell und enthalten wichtige Informationen, daher behalten wir sie einfach für uns.
+
+Um ein großes Netzwerk besser zu nutzen, ändern wir die Subnetzmaske. Die Subnetzmaske hilft uns, zu entscheiden, wie viele kleinere Netzwerke wir haben können und wie viele Geräte (Hosts) in jedem Netzwerk angeschlossen werden können. Wenn wir die Subnetzmaske anpassen, erhalten wir mehrere kleinere Netzwerke, aber dadurch haben wir auch weniger Platz für Geräte in jedem einzelnen Netzwerk.
+
+In der Erklärung wird auch erwähnt, dass es wichtig ist, bei der Aufteilung darauf zu achten, dass wir keine der speziellen Adressen (wie das erste und letzte Netzwerk) verwenden, wenn wir IP-Adressen an Geräte vergeben. So können wir die Netzwerke effizienter nutzen und gleichzeitig sicherer gestalten.

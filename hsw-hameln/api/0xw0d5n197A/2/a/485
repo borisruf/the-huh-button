@@ -1,0 +1,13 @@
+In einer einfachen Sprache erklärt, sagt der Text Folgendes:
+
+Wenn wir über Netzwerksicherheit reden, geht es darum, wie wir unsere Daten und Netzwerke vor Gefahren schützen können. Es gibt verschiedene Methoden, die helfen, das Netzwerk sicher zu halten. Einige sind:
+
+1. **Paketfilter**: Diese schauen sich die Daten an, die ins Netzwerk kommen, und entscheiden, ob sie sicher sind oder nicht.
+2. **Firewalls**: Diese wichtigen Geräte kontrollieren den Datenverkehr und lassen nur vertrauenswürdige Daten durch.
+3. **VPN**: Dies ist eine sichere Verbindung, die hilft, Daten über das Internet zu verschicken, damit niemand sie unterwegs abfangen kann. Es macht die Daten „unsichtbar“ für andere.
+4. **Bauliche Maßnahmen**: Auch die physischen Orte, wo Computer stehen (z.B. Serverräume), müssen gesichert werden, damit nicht jeder Zugang hat.
+5. **Sichere Passwörter und Netzwerke**: Es ist wichtig, starke Passwörter zu verwenden und sicherzustellen, dass ihr euch nicht mit unsicheren Netzwerken verbindet.
+
+Die größten Gefahren kommen oft von den Nutzern im eigenen Netzwerk, nicht von außen. Daher ist es wichtig, auch den Zugriff auf das Netzwerk zu kontrollieren und darauf zu achten, dass man selbst keine unsicheren Geräte oder Netzwerke verwendet.
+
+Zusammengefasst: Um sich zu schützen, verwendet man verschiedene Sicherheitsmaßnahmen, achtet darauf, wer Zugang hat, und verwendet starke Passwörter. Man muss auch darauf achten, dass Geräte, die von anderen mitgebracht werden, das Netzwerk nicht gefährden.

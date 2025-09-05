@@ -1,0 +1,12 @@
+In diesem Abschnitt sprechen wir über verschiedene Arten von Funknetzen, die sich nach der Entfernung unterscheiden. 
+
+1. **Kurze Entfernungen**: 
+   - Es gibt Netzwerke, die nur für kurze Distanzen funktionieren, wie zum Beispiel Bluetooth. Diese Netzwerke nennen wir **Wireless Personal Area Network** (WPAN). Sie können in der Nähe von etwa 10 Metern genutzt werden und erreichen Geschwindigkeiten von etwa 2 bis 24 Megabit pro Sekunde.
+
+2. **Mittlere Entfernungen**: 
+   - Für mittlere Entfernungen, wie zum Beispiel in Städten oder Dörfern, haben wir das **Wireless Metropolitan Area Network** (WMAN). Hier wird eine andere Technik verwendet, die in einem Standard namens IEEE 802 festgelegt ist.
+
+3. **Wi-Fi (WLAN)**:
+   - Wenn wir über drahtloses Internet sprechen, meinen wir meistens Wi-Fi, das in verschiedenen Versionen existiert. Die erste Version, 802.11, wurde schon 1997 vorgestellt. Am Anfang war die Geschwindigkeit sehr niedrig, etwa 5 bis 6 Megabit pro Sekunde. Heute gibt es moderne Versionen wie 802.11n, die theoretisch Geschwindigkeiten von bis zu 600 Megabit pro Sekunde erreichen können.
+
+Zusammengefasst: Es gibt verschiedene Funknetzwerke für verschiedene Entfernungen, und je nachdem, wie weit man ist, ändern sich die Technologien und Geschwindigkeiten.

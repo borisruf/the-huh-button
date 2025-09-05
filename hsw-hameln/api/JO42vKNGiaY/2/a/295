@@ -1,0 +1,3 @@
+Die Aussage erklärt, dass eine IP Adresse in Version 6 (IPv6) länger ist als die in Version 4 (IPv4). In einer IPv6-Adresse gibt es eine spezielle Schreibweise, die beschreibt, wie viele Bits für das Netzwerk reserviert sind. Hier wird das mit „Slash 64“ bezeichnet. Das bedeutet, dass die ersten 64 Bits der Adresse das Netzwerk darstellen. 
+
+Man kann sich das so vorstellen: Bei IPv6 haben wir eine große Adresse, und der „Slash 64“ zeigt, wie viel Platz für das Netzwerk genutzt wird. Die ersten 64 Bits sind also wie die Adresse des Hauses, während die restlichen Bits für spezifische Geräte innerhalb dieses „Hauses“ verwendet werden. Es ist wichtig für die Organisation von Netzwerken, damit alles gut funktioniert.

@@ -1,0 +1,7 @@
+Wir wollen Informationen übermitteln, aber nicht einfach so. Wir müssen die Informationen in ein Signal umwandeln, das wir physisch senden können, wie zum Beispiel eine Welle. 
+
+Um das zu machen, schauen wir uns das Signal an einem bestimmten Ort an und messen es zu bestimmten Zeiten. Diese Messungen nennen wir „zeitdiskrete Abtastung“. Dabei nehmen wir zu gleichen Zeitabständen Werte auf.
+
+Gleichzeitig messen wir auch die Höhe des Signals zu verschiedenen Zeitpunkten. Das nennen wir „wertdiskrete Abtastung“. Wenn wir beide Messungen kombinieren, bekommen wir ein digitales Signal. 
+
+Diese digitalen Signale sind das, was wir brauchen, um Informationen über große Entfernungen zu übertragen.

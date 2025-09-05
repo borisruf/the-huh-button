@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn wir eine große Gruppe von IP-Adressen in kleinere Gruppen aufteilen (Subnetze), nehmen wir einige "Platzhalter" (Nullen) und machen sie zu "Teil der Adresse" (Einsen). Wenn wir drei Nullen in Einsen umwandeln, können wir 2 hoch 3 rechnen, was gleich 8 ist. Das heißt, wir können 8 kleinere Gruppen erstellen.
+
+Aber es gibt zwei wichtige Gruppen, die wir nicht benutzen dürfen: die erste und die letzte. Die erste Gruppe enthält die Adresse, die für das gesamte Netzwerk steht, und die letzte Gruppe hat die Adresse, die für das Senden von Informationen an alle in diesem Netzwerk benutzt wird. Deshalb müssen wir diese beiden auslassen, wenn wir Adressen verteilen.

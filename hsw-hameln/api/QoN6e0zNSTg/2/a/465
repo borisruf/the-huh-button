@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass die Steuerung und Organisation von Netzwerkverbindungen nicht nur durch Software, sondern auch durch spezielle Geräte, die Netzwerkadapter genannt werden, passiert. 
+
+Ein Netzwerkadapter ist ein Bauteil, das man in Computer oder andere Geräte einbaut, damit sie sich mit anderen Geräten im Netzwerk verbinden können. Jedes dieser Bauteile hat eine besondere Adresse, die MAC-Adresse. Diese Adresse ist einmalig und wird weltweit nur einmal vergeben. Man kann sich die MAC-Adresse wie eine Art Ausweis für das Gerät vorstellen. Dadurch weiß das Netzwerk, welches Gerät es ist und wie es mit anderen Geräten kommunizieren kann.

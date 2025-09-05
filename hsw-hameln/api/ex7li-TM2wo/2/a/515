@@ -1,0 +1,5 @@
+In diesem Text geht es darum, wie man Fehler bei der Übertragung von Daten feststellen und beheben kann. Es gibt verschiedene Methoden, um sicherzustellen, dass die Daten korrekt ankommen. Eine wichtige Methode ist die Nummerierung. 
+
+Das bedeutet, dass jedes Datenpaket, das gesendet wird, eine eigene Nummer erhält. Dadurch kann der Empfänger leicht erkennen, ob er alle Pakete bekommen hat und in welcher Reihenfolge sie gesendet wurden. Falls ein Paket fehlt oder in der falschen Reihenfolge ankommt, kann der Empfänger das bemerken und dem Sender sagen, dass etwas nicht stimmt. 
+
+Zusammengefasst: Die Nummerierung hilft, die Daten gut im Blick zu behalten und sicherzustellen, dass alles richtig ankommt und nichts verloren geht.

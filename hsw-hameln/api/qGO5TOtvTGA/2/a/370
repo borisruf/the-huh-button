@@ -1,0 +1,15 @@
+Die Aussage bedeutet, dass ein Datenpaket, das durch das Netzwerk geschickt wurde, nicht rechtzeitig an seinem Ziel angekommen ist, weil es zu lange unterwegs war. 
+
+Das „Time-to-Live“ (TTL) ist eine Art Timer für das Paket. Jedes Mal, wenn das Paket durch einen Router geht, verringert sich die TTL-Zahl um eins. Wenn die TTL-Zahl 0 erreicht, wird das Paket gelöscht, weil es als "verloren" gilt. 
+
+Jetzt, was könnte passiert sein:
+
+1. **Zu viele Umwege**: Das Paket könnte einen sehr langen Weg durch das Netzwerk genommen haben, dafür sind viele Router beteiligt, was Zeit kostet.
+
+2. **Netzwerkprobleme**: Es könnte ein Problem mit einem oder mehreren Routern gegeben haben, sodass das Paket nicht richtig weitergeleitet wurde.
+
+3. **Überlastung**: Wenn das Netzwerk stark ausgelastet ist, können die Router langsamer arbeiten, und das Paket kommt nicht rechtzeitig an.
+
+4. **Fehlkonfiguration**: Wenn es bei der Einrichtung der Router Fehler gab, kann das Paket möglicherweise nicht den richtigen Weg finden.
+
+In all diesen Fällen ist die Zeit abgelaufen, und das Paket kann nicht mehr zugestellt werden.

@@ -1,1 +1,7 @@
-Wir haben uns bisher die Grundlagen von Netzwerken angeschaut und wollen uns jetzt zwei wichtige Teile genauer anschauen: TCP und IP. Diese beiden Sachen sind wie Regeln, die dafür sorgen, dass Computernetzwerke funktionieren. Die IP-Regel kümmert sich darum, dass Daten von einem Computer zu einem anderen geschickt werden. Dabei sagt sie nur, wo die Daten herkommen und wo sie hin sollen. Es ist ein bisschen so, als würde man einen Brief verschicken: Man schreibt den Empfänger und den Absender drauf und schickt ihn los.
+Die Aussage beschreibt, wie Daten in einem Netzwerk verschickt werden. In der Mitte des Netzwerkmodells gibt es zwei wichtige Regeln oder Protokolle, die wir uns genauer anschauen wollen: TCP und IP.
+
+- **IP** ist wie ein Postbote, der Briefe (Daten) an bestimmte Adressen (Ziele) bringt. Dabei kümmert sich IP nicht darum, ob die Briefe ankommen oder nicht. Es schickt die Briefe einfach los, mit einer bestimmten Adresse und von einem bestimmten Absender.
+
+- **TCP** kümmern wir uns später mehr darum, funktioniert wie eine Bestätigung. Es sorgt dafür, dass die Briefe sicher ankommen und, wenn ein Brief verloren geht, dass er nochmal geschickt wird.
+
+Die Idee dahinter ist, dass alle Arten von Geräten in einem Netzwerk miteinander kommunizieren können, egal welche Technik sie benutzen. Mit diesen Regeln (Protokollen) funktionieren Netzwerke besser und können einfacher arbeiten.

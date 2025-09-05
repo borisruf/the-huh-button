@@ -1,0 +1,9 @@
+Stell dir vor, du hast ein großes Gebäude mit drei Stockwerken: Erdgeschoss, ersten und zweiten Stock. Jedes Stockwerk hat sein eigenes Netzwerk, und die Geräte darin können miteinander kommunizieren.
+
+Jetzt wollen wir es einfacher machen, wie die Geräte miteinander sprechen, ohne sich immer nur an einem Stockwerk zu orientieren. Dafür nutzen wir etwas, das sich VLANs nennt. Das sind wie unsichtbare Gruppen, die wir über die Stockwerke ziehen können. Das bedeutet, dass Geräte aus verschiedenen Stockwerken in der gleichen Gruppe sein können, wenn sie zum Beispiel an einem bestimmten Thema oder Projekt arbeiten.
+
+Wenn ein Computer in ein Netzwerk geht, schickt er eine Nachricht, die wir "Paket" nennen, an einen Schalter (Switch). Dieses Paket hat anfangs keine Informationen darüber, zu welcher Gruppe es gehört. Der Schalter schaut dann, wo der Computer angeschlossen ist oder welche Nummer der Computer hat (das nennt man MAC-Adresse). Dann fügt der Schalter diese Gruppeninformation (VLAN) in das Paket ein.
+
+Das Paket wird dann vielleicht an einen anderen Schalter weitergeschickt. Auch dieser Schalter schaut sich die Gruppeninformation an. Schließlich, wenn das Paket beim richtigen Computer ankommt, nimmt der letzte Schalter die Gruppeninformation wieder heraus, weil der Computer sie nicht braucht. Dann schickt er das Paket weiter, damit der Computer die Informationen bekommt, die er benötigt.
+
+Zusammengefasst: VLANs helfen uns, verschiedene Geräte in Gruppen zu organisieren, egal wo sie im Gebäude sind, und die Schalter helfen, die richtige Gruppeninformation zu den Paketen hinzuzufügen oder herauszunehmen, damit alles gut funktioniert.

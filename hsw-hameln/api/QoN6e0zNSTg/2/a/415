@@ -1,0 +1,5 @@
+Die Aussage beschreibt, wie Daten in einem Netzwerk gesendet werden. Zu Beginn, bei der Übertragung von Informationen, gibt es ein spezielles Signal, das als "Start-of-Frame" bezeichnet wird. Dieses Signal besteht aus 8 Bits, also einer kleinen Gruppe von Informationen. Es ist wichtig, weil es hilft, die Übertragung zu synchronisieren. Das heißt, es sorgt dafür, dass alle Teile des Netzwerks wissen, wann die Übertragung von Daten beginnt. 
+
+Im Netzwerk sind viele Geräte miteinander verbunden, und damit sie alle gleichzeitig Daten senden können, brauchen sie Regeln. Diese Regeln helfen zu bestimmen, wann jedes Gerät senden kann, ohne dass es zu Verwirrungen oder "Kollisionen" kommt, wenn mehrere Geräte gleichzeitig versuchen, zu senden. Wenn so etwas passiert, müssen die Geräte wissen, wie sie damit umgehen sollen, um die Datenübertragung zu wiederholen.
+
+Zusammengefasst: Die ersten 8 Bits helfen, das Senden von Daten richtig zu koordinieren und sicherzustellen, dass alles funktioniert.

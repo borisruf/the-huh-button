@@ -1,0 +1,5 @@
+Die Aussage sagt, dass es beim Routing in Netzwerken nicht nur darauf ankommt, wie viele "Hops" (also Router) ein Datenpaket durchläuft. "Hops" sind wichtig, aber es gibt auch andere Dinge, die man beachten sollte, um die beste Route für die Daten zu finden. 
+
+Man kann sich das wie beim Autofahren vorstellen: Wenn man von einem Ort zum anderen will, denkt man nicht nur an die Anzahl der Straßen, die man überqueren muss. Man schaut auch auf den Verkehr, die Entfernung und ob die Straßen voll sind. Das gleiche gilt für Netzwerke. Man muss auch überlegen, wie schnell die Daten ankommen und ob es unterwegs Staus gibt.
+
+Ein Ziel beim Routing ist, dass die Daten schnell ankommen, also einen hohen Datendurchsatz haben. Das bedeutet, dass die Informationen schnell und ohne lange Wartezeiten verschickt werden sollen. Es gibt viele Faktoren, die man dabei berücksichtigen sollte, um das Routing zu verbessern.

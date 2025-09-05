@@ -1,0 +1,7 @@
+Multiplexing ist ein Verfahren, das hilft, viele Nachrichten gleichzeitig über ein einzelnes Kabel zu schicken. Stell dir vor, du hast vier Menschen, die gleichzeitig in einem Raum sprechen wollen, aber nur ein Mikrofon zur Verfügung steht. 
+
+Oben im Bild gibt es zwei Gruppen von Menschen - eine links und eine rechts. Wenn einer von ihnen spricht, können die anderen nicht gleichzeitig reden. Das ist so, weil das Mikrofon nur für eine Person Platz hat. 
+
+Um dieses Problem zu lösen, gibt es Geräte, die als Multiplexer und Demultiplexer bezeichnet werden. Diese Geräte helfen, die Nachrichten so zu sortieren, dass sie nacheinander über dasselbe Kabel geschickt werden können. So können alle trotzdem miteinander reden, auch wenn sie mehr Platz brauchen.
+
+Es gibt verschiedene Arten von Multiplex-Verfahren, und die werden wir uns gleich genauer anschauen.

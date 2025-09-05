@@ -1,0 +1,7 @@
+Wir werden uns jetzt die neue Version des Internetprotokolls, also IP Version 6, genauer ansehen. Der Grund dafür ist, dass die alten IP-Adressen (Version 4) fast alle aufgebraucht sind. Das macht es schwierig, neue Geräte mit Internetverbindung zu versehen.
+
+IP Version 6 hat viel mehr Adressen, die wir nutzen können. Statt 4 Milliarden (bei Version 4) können wir 340 Milliarden Milliarden Milliarden (das ist eine riesige Zahl!) IP-Adressen vergeben. Das reicht für alle Geräte, die wir jetzt und in der Zukunft haben könnten.
+
+Ein großes Problem bei den alten IP-Adressen war, dass viele davon verschwenderisch genutzt wurden. Außerdem gibt es jetzt viele neue Geräte wie Smartphones, Tablets und sogar Uhren, die alle eine eigene IP-Adresse brauchen. 
+
+Mit IP Version 6 gibt es eine neue Art, diese Adressen zu schreiben. Während wir bei den alten IP-Adressen einfache Zahlen verwendet haben, müssen wir jetzt eine kompliziertere Schreibweise benutzen, die aus Buchstaben und Zahlen besteht. Das macht es für Leute, die lange mit den alten IP-Adressen gearbeitet haben, etwas schwieriger, sich umzustellen. Wir werden uns das alles noch genauer anschauen.

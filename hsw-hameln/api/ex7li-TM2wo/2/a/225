@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass das Logo auf der Folie ein wichtiges Thema darstellt. In der Übung werden wir uns genauer damit beschäftigen. Momentan wollen wir einfach nur verstehen, was dieses Thema ist und was es tut. 
+
+Im vorherigen Abschnitt haben wir darüber gesprochen, wie wir Fehler in Daten erkennen können, wenn diese technisch übertragen werden. Es ist wichtig, Fehler in den Daten zu finden, damit wir sie richtig verarbeiten können. Fehler können dazu führen, dass Daten falsch oder gar nicht ankommen. Wir werden uns nun ansehen, wie wir diese Fehler erkennen und was wir dann damit machen können. 
+
+Bei manchen Dingen, wie Video- oder Audioübertragungen, können wir kleine Fehler manchmal einfach ignorieren, weil die Geschwindigkeit wichtiger ist. Bei wichtigen Sachen, wie Geldüberweisungen, müssen wir aber sicherstellen, dass alles richtig ist, weil schon kleine Fehler große Probleme machen können. 
+
+Um Fehler zu erkennen, fügen wir den Daten zusätzliche Informationen hinzu, die uns helfen zu überprüfen, ob alles in Ordnung ist. Ein Beispiel dafür ist das Verfahren, das wir gleich besprechen werden, der zyklische Redundanz-Check (CRC).

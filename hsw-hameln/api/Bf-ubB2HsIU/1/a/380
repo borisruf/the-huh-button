@@ -1,1 +1,7 @@
-Die Aussage bezieht sich darauf, wie zwei Computer im Netzwerk miteinander kommunizieren. Bevor Daten zwischen ihnen ausgetauscht werden können, müssen sie ein gemeinsames Protokoll zur Kommunikation etablieren. Dieser Prozess, oft als "Handshake" bezeichnet, beinhaltet den Austausch von Informationen wie IP-Adresse und Portnummer, um eine Verbindung herzustellen und Daten auszutauschen. So wird sichergestellt, dass die Daten korrekt übermittelt und vom richtigen Empfänger empfangen werden. Dies ist ein grundlegender Aspekt von Netzwerkprotokollen wie TCP (Transmission Control Protocol) und IP (Internet Protocol).
+In einem Netzwerk führt der "Drei-Wege-Handshake" einen Verbindungsaufbau zwischen zwei Rechnern durch, um eine zuverlässige Kommunikationsverbindung über das TCP-Protokoll sicherzustellen. Dieser Prozess besteht aus drei Schritten:
+
+1. **SYN (Synchronize)**: Der initiierende Rechner sendet ein SYN-Paket an den Zielrechner, um eine Verbindung anzufordern.
+2. **SYN-ACK (Synchronize-Acknowledge)**: Der Zielrechner empfängt das SYN-Paket und antwortet mit einem SYN-ACK-Paket, das die Empfangsbestätigung beinhaltet und gleichzeitig seine Bereitschaft zur Verbindung signalisiert.
+3. **ACK (Acknowledge)**: Der initiierende Rechner sendet ein abschließendes ACK-Paket zurück an den Zielrechner, um die Bestätigung zu erteilen.
+
+Erst nach dem Abschluss dieser drei Schritte ist die Verbindung zwischen den beiden Rechners stabil und bereit für den Datenaustausch. Dieses Verfahren gewährleistet die zuverlässige Übertragung und Synchronisation der Kommunikationsparameter.

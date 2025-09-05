@@ -1,0 +1,13 @@
+In der Aussage geht es darum, wie Anfragen im Internet, wie zum Beispiel die an Wikipedia, über verschiedene Netzwerkgeräte (Router) gesendet werden. Bei diesen Anfragen wird eine spezielle Adresse, die MAC-Adresse, verwendet. Diese Adresse ist wichtig, damit die Daten wissen, wo sie hingehen sollen.
+
+Hier ist der einfache Überblick:
+
+1. **Unicast-Anfrage**: Wenn du eine bestimmte Website wie Wikipedia aufrufst, ist das eine Unicast-Anfrage, das bedeutet, du schickst eine Nachricht an eine bestimmte Adresse – in diesem Fall die Adresse von Wikipedia.
+
+2. **Router**: Diese Anfragen müssen über Router geschickt werden. Router sind Geräte, die Daten zwischen verschiedenen Netzwerken weiterleiten. Sie helfen, deine Anfrage von deinem Computer zu Wikipedia zu bringen.
+
+3. **MAC-Adresse**: Jedes Gerät im Netzwerk hat eine MAC-Adresse. Diese Adresse ist einzigartig und hilft, Geräte zu identifizieren. Wenn du eine Anfrage sendest, wird die MAC-Adresse des Empfängers (Wikipedia) in die Adresszeile eingefügt.
+
+4. **Über Netzwerkgrenzen**: Wenn deine Anfrage durch mehrere Netzwerke geht (z. B. von deinem Heimnetzwerk über den Internet-Provider zu Wikipedia), wird die MAC-Adresse unterwegs aber verändert. Auf jedem Netzwerksegment wird die MAC-Adresse des nächsten Routers verwendet, nicht die von Wikipedia.
+
+Zusammengefasst: Wenn du eine Anfrage an Wikipedia schickst, wird sie über Router geleitet, und die MAC-Adressen helfen dabei, sicherzustellen, dass die Daten an die richtige Stelle kommen, auch wenn sie durch verschiedene Netzwerke reisen.

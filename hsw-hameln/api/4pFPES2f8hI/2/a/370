@@ -1,0 +1,9 @@
+Die Aussage bedeutet Folgendes, einfach erklärt:
+
+Wenn wir ein großes Netzwerk in kleinere Teile (Subnetze) aufteilen, gibt es bestimmte Adressen, die wir nicht verwenden dürfen. 
+
+1. **Das erste Netzwerk**: Das allererste Teilnetz heißt "Subnet0". Diese Adresse dürfen wir nicht benutzen, um Geräten eine IP-Adresse zu geben.
+
+2. **Das letzte Netzwerk**: Auch das letzte Teilnetz ist tabu. Darin befindet sich eine spezielle Adresse, die "Broadcast-Adresse" heißt. Diese Adresse wird genutzt, um Informationen an alle Geräte im Netzwerk zu senden, und wir dürfen sie nicht vergeben.
+
+Also, diese ersten und letzten Adressen sind wichtig und sollten nicht verwendet werden. Es gibt neue Geräte, die diese Regeln vielleicht umgehen können und auch damit arbeiten, aber grundsätzlich ist es besser, sie nicht zu nutzen.

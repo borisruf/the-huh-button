@@ -1,0 +1,5 @@
+Im Anfang war die Idee, dass alle Geräte über ein einziges Kabel miteinander kommunizieren. Dieses Kabel war besonders und hieß "Yellow Cable". Wenn viele Geräte gleichzeitig auf das Kabel zugreifen wollten, gab es manchmal Probleme, weil mehrere Geräte gleichzeitig sprechen wollten. Das nennt man eine "Kollision". 
+
+Außerdem konnte man in dieser Situation nicht sicherstellen, dass Informationen sofort ankämen. Das nennt man, dass kein "Echtzeitbetrieb" möglich ist. Das bedeutet, dass es nicht immer klappt, dass die Daten sofort und ohne Verzögerung ankommen. 
+
+Zusammengefasst: Alle Geräte in einem Netzwerk benutzen ein gemeinsames Kabel, aber das kann zu Problemen führen, wenn mehrere Geräte gleichzeitig kommunizieren wollen und es nicht immer schnell genug geht.

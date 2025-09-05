@@ -1,0 +1,13 @@
+In dieser Aussage geht es darum, wie man sicherstellen kann, dass die Daten, die von einem Ort zu einem anderen geschickt werden, richtig angekommen sind. 
+
+Hier ist, was passiert:
+
+1. **Daten und Prüfsumme**: Wenn wir Daten schicken, fügen wir eine spezielle Art von Zahl hinzu, die Prüfsumme heißt. Diese Prüfsumme wird mit einer bestimmten Formel (die wir Generator-Polynom nennen) aus den Daten berechnet, die wir senden wollen.
+
+2. **Übertragung**: Diese Prüfsumme wird zusammen mit den Daten gesendet. Also, wenn du eine Nachricht schickst, schickst du nicht nur die Nachricht selbst, sondern auch diese zusätzliche Zahl.
+
+3. **Überprüfung**: Die Person oder das System, das die Daten empfängt, kann diese Prüfsumme wieder berechnen. Sie schauen dann, ob die neue Prüfsumme die gleiche ist wie die, die mit den Daten geschickt wurde.
+
+4. **Fehlererkennung**: Wenn die Prüfsummen übereinstimmen, wissen wir, dass die Daten richtig angekommen sind. Wenn sie nicht übereinstimmen, bedeutet das, dass etwas schiefgelaufen ist, und die Daten möglicherweise verändert wurden oder verloren gegangen sind.
+
+Zusammengefasst: Wir benutzen eine Prüfzahle, um sicherzustellen, dass die geschickten Daten korrekt sind. Wenn es Probleme gibt, können wir das erkennen und wissen, dass wir die Daten nochmals schicken müssen.

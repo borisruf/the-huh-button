@@ -1,0 +1,7 @@
+In diesem Abschnitt geht es darum, wie man Daten in ein Signal umwandelt, das man übertragen kann. Ein Signal ist etwas, das wir physikalisch sehen können, zum Beispiel eine Welle, die sich durch die Luft bewegt.
+
+Um das Signal besser zu verstehen, schauen wir uns an, wie es aussieht, wenn es sich über die Zeit verändert. Wir nehmen das Signal an einem bestimmten Punkt auf und messen es zu bestimmten Zeiten. Das nennt man "zeitdiskrete Abtastung". Dabei nehmen wir regelmäßige Zeitintervalle, also immer die gleichen Zeitabstände.
+
+Wir können auch die Höhe des Signals zu diesen Zeiten messen, was wir "wertdiskrete Abtastung" nennen. Wenn wir beides, also die Zeiten und die Höhen, zusammentun, bekommen wir ein digitales Signal. Dieses digitale Signal können wir dann übertragen. 
+
+Um das alles zu verstehen, müssen wir uns anschauen, wie typische Wellen aussehen. In dem Text wird auch darauf hingewiesen, dass eine Schwingung hier aufgezeichnet wurde, um uns dabei zu helfen.

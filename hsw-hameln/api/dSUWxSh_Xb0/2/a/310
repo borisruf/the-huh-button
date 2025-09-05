@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wenn eine Kommunikationsperson gerade nicht viele Informationen hat, um sie zu senden, die dafür vorgesehene Zeit trotzdem vergeht, ohne dass etwas übertragen wird. 
+
+Um das einfacher zu erklären: Stell dir vor, es gibt eine Warteschlange, in der jeder nacheinander an die Reihe kommt, um etwas zu erzählen. Wenn jemand an der Reihe ist, aber nichts zu sagen hat, bleibt einfach Zeit übrig, in der nicht gesprochen wird. Das ist nicht ideal, denn diese Zeit könnte besser genutzt werden. 
+
+Beim "Asynchronen Zeit-Multiplexing" geht es darum, einen besseren Weg zu finden, damit die Zeit nicht vergeudet wird. Anstatt zu warten, wird geschaut, wer gerade etwas zu sagen hat, und nur dieser spricht dann, was die Kommunikation effizienter macht.

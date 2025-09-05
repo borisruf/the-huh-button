@@ -1,0 +1,5 @@
+Die Aussage bedeutet einfach: Wenn wir eine lange Internetadresse (IP-Adresse) haben, die in bestimmten Teilen Nullen hat, können wir diese Nullen am Anfang einfach weglassen. 
+
+Das Auffüllen mit Nullen passiert, weil die Adresse insgesamt eine bestimmte Länge haben muss. Zum Beispiel, wenn in einem Teil der Adresse nur "1" steht, dann wissen wir, dass dort vorher zwei Nullen waren, und wir können das einfach als "001" schreiben, aber man darf einfach nur "1" schreiben. 
+
+Also, die Nullen, die am Anfang eines Blocks stehen, sind nicht wichtig und machen die Adresse nur länger als nötig. Wir können sie weglassen, um es einfacher zu machen.

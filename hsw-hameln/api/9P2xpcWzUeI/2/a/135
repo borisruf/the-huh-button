@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass man eine spezielle Steuerstation im Netzwerk braucht, um festzulegen, zu welchem virtuellen Netzwerk (VLAN) jeder Computer gehört. 
+
+Stell dir vor, das Netzwerk ist wie ein großes Gebäude mit vielen Büros. Jedes Büro kann ein eigenes Team haben, und das ist wie ein VLAN. Um zu wissen, welches Team in welches Büro gehört, muss man die Computer (oder Leute) mit ihren ID-Karten (das sind die MAC-Adressen) verknüpfen. 
+
+Die Steuerstation hilft dabei, diese Zuordnung zu machen. Wenn ein Computer sich verbindet, schaut die Steuerstation auf die ID-Karte und sagt: "Ah, du gehörst zu diesem Team!" und verbindet ihn dann mit dem passenden Büro (VLAN). 
+
+Auf diese Weise können die Computer automatisch in die richtigen Gruppen sortiert werden, ohne dass jemand manuell eingreifen muss. Das macht alles einfacher und weniger fehleranfällig.

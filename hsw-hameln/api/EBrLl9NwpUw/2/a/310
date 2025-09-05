@@ -1,9 +1,3 @@
-Man kann es sich so vorstellen: Wenn wir in einem Netzwerk mehrfache Verbindungen zwischen den Geräten (Switches) haben, um sicherzustellen, dass die Daten immer ankommen, kann es passieren, dass Daten hin und her geschickt werden, ohne ein Ziel zu finden. Das kann das Netzwerk sehr belasten. 
+Die Aussage bedeutet folgendes: Wenn heute mehrere Switches im Netzwerk miteinander verbunden sind, müssen sie oft miteinander sprechen, um zu entscheiden, welcher Weg für die Datenübertragung der beste ist. Das führt dazu, dass ein gewisser Aufwand entsteht, den man „Overhead“ nennt. Manchmal dauert es dadurch länger, bis die Daten gesendet werden, weil die Switches sich erst absprechen müssen. 
 
-Um das zu verhindern, verwenden wir eine Art Regelwerk, das Spanning-Tree-Protokoll genannt wird. Dieses Protokoll sorgt dafür, dass einige Verbindungen zwischen den Switches blockiert werden, sodass die Daten nicht hin und her geschickt werden können. 
-
-Wenn das Protokoll aktiviert wird, stoppt der normale Datenaustausch zwischen den Switches erst einmal. Sie schicken aber weiterhin Informationen über das Protokoll hin und her. 
-
-Die Switches wählen dann untereinander ein Gerät aus, das die Hauptverbindung oder Root-Bridge genannt wird. Wenn diese Auswahl getroffen ist, beginnt der normale Datenaustausch zwischen den Switches wieder.
-
-Manchmal, zum Beispiel wenn eine Verbindung ausfällt, muss eine blockierte Verbindung aktiviert werden, damit die Daten weiterhin ankommen können. Dadurch kann das Netzwerk jedoch etwas langsamer werden. Man kann es so einstellen, dass diese Umschaltung schnell passiert, was aber mehr Datenverkehr zwischen den Switches erzeugt. Oder man kann es langsamer einstellen, was weniger Datenverkehr erzeugt.
+Zusammengefasst: Die Switches müssen viel kommunizieren, was Zeit kostet. Man kann es schnell machen, oder es kann etwas länger dauern.

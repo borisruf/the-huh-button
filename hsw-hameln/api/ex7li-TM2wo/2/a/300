@@ -1,0 +1,7 @@
+Okay, ich werde die Aussage einfach erklären.
+
+Die Aussage sagt, dass es einen speziellen Weg gibt, um Fehler in Daten zu finden, der CRC 32 heißt. Dieser Weg ist ein Standard und wird häufig im Ethernet verwendet. Ethernet ist eine Technologie, die dafür sorgt, dass Computer miteinander kommunizieren können.
+
+Im einfachsten Sinne: Wenn Computer Daten senden, können manchmal Fehler passieren. Der CRC 32 hilft uns dabei zu überprüfen, ob die Daten richtig angekommen sind. Wenn alles in Ordnung ist, wissen wir, dass die Daten gut sind. Wenn nicht, können wir herausfinden, dass ein Fehler passiert ist. 
+
+Also, CRC 32 ist einfach eine Methode, die uns hilft, sicherzustellen, dass die Daten, die gesendet werden, korrekt sind.

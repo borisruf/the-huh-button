@@ -1,0 +1,5 @@
+In dieser Session werden wir uns anschauen, wie Computer-Netzwerke sicherstellen, dass Daten von einem Punkt (A) zu einem anderen Punkt (B) gelangen. Dazu benutzen sie spezielle Geräte, die Router heißen. 
+
+Wenn Daten gesendet werden, müssen wir wissen, welchen Weg sie nehmen sollen, damit sie schnell und effizient ankommen. Das ist eine wichtige Frage: Wie finden die Router den besten Weg für die Daten? Woher wissen sie, welche Wege es gibt und welcher der beste ist?
+
+Um diese Fragen zu beantworten, gibt es Informationen, die Routing-Informationen oder Routing-Protokolle genannt werden. Diese Informationen helfen den Routern zu verstehen, wie sie die Daten richtig weiterleiten können. In dieser Sitzung werden wir also lernen, was genau diese Routing-Informationen sind und wie sie den Routern helfen.

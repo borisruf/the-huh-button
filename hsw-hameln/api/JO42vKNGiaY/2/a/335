@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass jede Netzwerkschnittstelle (zum Beispiel an einem Computer oder einem Router) eine spezielle Adresse hat, die wir als MAC-Adresse kennen. Diese MAC-Adresse hilft uns, jede Verbindung im Netzwerk eindeutig zu identifizieren. 
+
+Das Gute daran ist, dass man nichts extra einstellen muss, weil die MAC-Adresse schon eine klare und einzigartige Identifizierung gibt. So weiß das System immer, welches Gerät im Netzwerk gemeint ist und es gibt keine Verwirrung.
+
+Zusammengefasst: Der Schnittstellen-Identifier ist wie die MAC-Adresse und sorgt dafür, dass jedes Gerät im Netzwerk eine eigene, klare Adresse hat, ohne dass man viel tun muss.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass bei Videokonferenzen und ähnlichen Anwendungen nicht nur Informationen über das Telefon (Voice over IP) übertragen werden, sondern auch Bilder und Videos (Video über IP). 
+
+Dann wird erklärt, dass es zwei verschiedene Arten gibt, wie Daten gesendet werden können: entweder mit UDP oder mit TCP. Wenn man sich zeigt, was in beiden Methoden steht (die Header), sieht man, dass in beiden das Gleiche in blau markiert ist.
+
+Das einfache Verständnis ist: Bei Videoconferenzen und Videoanrufen werden Daten schnell versendet, auch wenn nicht jedes kleine Datenstück unbedingt ankommt. Wichtig ist, dass man die Bilder und Töne fast in Echtzeit bekommt und das funktioniert auch mit UDP. 

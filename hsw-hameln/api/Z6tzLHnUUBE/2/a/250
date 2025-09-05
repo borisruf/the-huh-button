@@ -1,0 +1,12 @@
+Die Aussage erklärt, was passiert, wenn Daten von einem Netzwerk in ein anderes geschickt werden und die Netzwerke unterschiedliche Größen für die Datenpakete erlauben.
+
+Hier ist eine einfache Erklärung:
+
+1. **Datenpakete** sind wie Kisten, die Informationen enthalten, die über das Internet gesendet werden.
+2. Jedes Netzwerk hat eine **MTU** (Maximum Transmission Unit), das ist die größte Kiste, die es verschicken kann.
+3. In einem ersten Netzwerk (wir nennen es FDDI) dürfen die Kisten bis zu 4352 Einheiten groß sein. Unsere Kiste hat nur 1400 Einheiten, also kein Problem, wir können sie einfach so senden.
+4. Wenn wir dann in ein anderes Netzwerk (wir nennen es PPP) wechseln, dürfen die Kisten aber nur 532 Einheiten groß sein. Das ist ein Problem, weil unsere Kiste viel zu groß ist.
+5. Um die Kiste kleiner zu machen, müssen wir sie **fragmentieren**. Das heißt, wir teilen die große Kiste in mehrere kleinere Kisten auf, die dann in das neue Netzwerk passen.
+6. Das macht die IP-Software für uns, damit die Daten trotzdem ankommen.
+
+Zusammengefasst: Wenn Daten zwischen Netzwerken mit verschiedenen Paketgrößen gesendet werden, muss die IP-Software die Daten in kleinere Teile zerlegen, damit sie richtig ankommen.

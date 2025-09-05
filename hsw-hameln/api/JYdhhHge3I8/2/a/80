@@ -1,0 +1,5 @@
+Es gibt verschiedene Wege, wie Daten in Netzwerken geschickt werden. Zuerst schauen wir uns an, wie der Austausch funktioniert. Manchmal brauchen wir spezielle Geräte, wie zum Beispiel einen Switch oder einen Router. Diese Geräte helfen, Daten von einem Ort zum anderen zu schicken.
+
+Stell dir vor, der Switch oder Router ist wie ein Postamt. Es hat viele Eingänge und Ausgänge. Wenn Daten ankommen (wie Briefe), gehen sie durch einen Eingang und das Postamt entscheidet, wo sie hingehen sollen. Das geschieht in der Mitte des Geräts, wo alles sortiert wird. Die Daten werden dann durch die korrekten Ausgänge weitergeschickt.
+
+Es gibt aber nicht nur eine Art, wie dieser Prozess funktioniert. Es gibt verschiedene Methoden, um Daten zu transportieren. Die erste Methode, die wir damals verwendet haben, nennt man "Leitungsvermittlung". Das bedeutet, dass für den Austausch von Daten eine feste Verbindung zwischen den zwei Punkten hergestellt wird.

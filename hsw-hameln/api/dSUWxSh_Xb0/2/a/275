@@ -1,0 +1,7 @@
+Multiplexing ist eine Technik, die es mehreren Leuten erlaubt, über dasselbe Kabel oder Medium gleichzeitig miteinander zu kommunizieren. Man kann sich das wie ein voll besetztes Gespräch in einem Restaurant vorstellen, in dem jeder seine eigene Sprache spricht.
+
+Es gibt verschiedene Arten von Multiplexing. Eine davon ist das **Zeit-Multiplexing**. Bei diesem Verfahren wird die Zeit in kleine Abschnitte unterteilt, die "Slots" genannt werden. Wenn Partner A und Partner B miteinander sprechen wollen, bekommen sie abwechselnd Zeit-Slots zugewiesen. Zum Beispiel spricht zuerst A, dann B, dann wieder A und so weiter. Während A spricht, hört B zu und umgekehrt. Das bedeutet, dass immer nur einer zur gleichen Zeit redet, aber die Zeit wird gut genutzt, weil jeder seinen Slot hat.
+
+**Synchrones Zeit-Multiplexing** bedeutet, dass die Slots immer genau nach einem festen Zeitplan vergeben werden. Die Partner wissen also genau, wann sie dran sind. Wenn A seinen Slot hat, kann B nichts sagen. Die Partner wechseln sich also immer in einem festgelegten Rhythmus ab, sodass alle ihre Chancen zum Sprechen bekommen. 
+
+Einfache Zusammenfassung: Bei synchronem Zeit-Multiplex sprechen die Partner abwechselnd, immer nach einem festen Plan. Es gibt also immer Zeiten, in denen jeder Partner sprechen kann, aber nur einer gleichzeitig redet.

@@ -1,0 +1,7 @@
+In dem letzten Video haben wir uns schon einmal etwas angeschaut. Da gab es drei Gruppen, die nennt man VLANs. Jedes VLAN hat verschiedene Computer drin, und diese Computer gehören oft zu unterschiedlichen Abteilungen in einer Firma. Das hilft, die Sachen ordentlich zu trennen. 
+
+Jetzt wollen wir über ein Beispiel reden, wie man diese VLANs im echten Leben benutzt. Es geht um Telefonate über das Internet, das nennt man Voice over IP. So kann man mit denselben Kabeln sowohl telefonieren als auch Daten schicken. Das macht das Ganze einfacher und man braucht nicht so viele Geräte.
+
+Aber, um Voice over IP zu benutzen, müssen wir sicherstellen, dass wir die richtige Technik haben. Wir brauchen zum Beispiel einen speziellen Server, der dafür sorgt, dass die Telefonate gut übertragen werden. Außerdem müssen wir dafür sorgen, dass die Qualität der Gespräche gut ist. 
+
+Wir schauen uns jetzt noch einmal das Bild mit den drei VLANs an, das wir im letzten Video gesehen haben. Die zeigen, wie man die Computer für verschiedene Bereiche in der Firma organisiert.

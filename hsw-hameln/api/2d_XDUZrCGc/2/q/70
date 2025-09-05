@@ -1,0 +1,1 @@
+ Sind die beiden höchstwertigen Bits im ersten Oktett 1 und 0, bedeutet das dezimal, wir können irgendwas zwischen 128 und 191 an dieser Stelle haben.   Wir befinden uns demnach in Klasse B.

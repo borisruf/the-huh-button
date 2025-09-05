@@ -1,0 +1,9 @@
+In diesem Text geht es darum, wie Informationen in einem Netzwerk von einem Punkt zum anderen geschickt werden können. Es gibt verschiedene Methoden, um das zu tun.
+
+1. **Leitungsvermittlung**: Hier stellt man sich vor, dass man eine spezielle Verbindung hat, die nur für ein Gespräch benutzt wird. Das ist wie bei einem alten Telefon, wo eine Person die Drähte verbindet. Wenn zwei Personen miteinander sprechen, können andere nicht mit ihnen sprechen, weil die Leitung belegt ist. Sie müssen warten, bis das Gespräch beendet ist.
+
+2. **Speichervermittlung**: Diese Methode ist anders. Hier kann man Nachrichten an bestimmten Orten speichern, wie in einer Zwischenablage, bevor sie weitergeschickt werden. Das ist wie beim Briefverkehr: Man gibt einen Brief ab, der in ein Postamt kommt, und von dort wird er dann zu seinem endgültigen Ziel geschickt. So können viele Leute gleichzeitig Briefe schicken, ohne zu warten, dass die anderen fertig sind.
+
+3. **Paketvermittlung**: Diese Methode nutzt die Speichervermittlung. Informationen werden in kleine Pakete aufgeteilt, die dann unabhängig voneinander gesendet werden können. Diese Pakete können unterschiedliche Wege nehmen, um zu ihrem Ziel zu gelangen, was bedeutet, dass sie nicht warten müssen.
+
+Zusammengefasst: Bei der Leitungsvermittlung kann man nur nacheinander sprechen, bei der Speichervermittlung kann man Nachrichten speichern und später senden, und bei der Paketvermittlung werden Informationen in kleine Teile zerlegt, die schnell und unabhängig verschickt werden können.

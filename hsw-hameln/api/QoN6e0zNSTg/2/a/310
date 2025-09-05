@@ -1,0 +1,5 @@
+Die Aussage besagt, dass man sich anschauen möchte, wie ein Ethernet-Paket organisiert ist. Ein Ethernet-Paket ist eine Art von Daten, die durch ein Netzwerk gesendet werden. Man kann es sich wie einen Brief vorstellen, der verschiedene Teile hat.
+
+Wenn man jetzt den "Protokollrahmen" (das ist die Struktur oder das Format) eines Ethernet-Pakets beschreibt, sieht man, dass dieser in verschiedene Abschnitte aufgeteilt ist, ähnlich wie ein Brief in eine Adresse, einen Inhalt und eine Unterschrift aufgeteilt ist. 
+
+Es wird gesagt, dass Ethernet wie eine gemeinsame Straße für viele Fahrzeuge ist, die alle gleichzeitig fahren wollen. Man muss Regeln (Protokolle) haben, damit alles gut funktioniert und die Fahrzeuge sich nicht gegenseitig behindern. Daher ist es wichtig, die Struktur eines Ethernet-Pakets zu verstehen, um zu wissen, wie die Daten sicher und ordentlich durch das Netzwerk fließen können.

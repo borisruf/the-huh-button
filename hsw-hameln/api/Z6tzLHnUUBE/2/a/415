@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie Computer miteinander kommunizieren, wenn sie über das Internet verbunden sind. Hier ist eine einfache Erklärung:
+
+Stell dir vor, du hast zwei Computer, Computer A und Computer B. Wenn Computer A mit Computer B sprechen möchte, nimmt er seine Adresse (die man IP-Adresse nennt) und die Adresse von Computer B. Diese Adressen helfen den Computern, sich zu erkennen.
+
+Die Kommunikation läuft über mehrere "Schritte" oder Router. Ein Router ist wie ein Postbote, der die Nachrichten von einem Computer zum anderen weiterleitet. Jedes Mal, wenn die Nachricht den Router passiert, bleibt die Adresse von Computer A gleich (das ist die Quelle), und die Adresse von Computer B bleibt auch gleich (das ist das Ziel).
+
+Zusammengefasst: Computer A möchte mit Computer B reden, und dafür brauchen sie ihre Adressen. Die Router helfen dabei, die Nachrichten von A nach B weiterzuleiten, ohne die Adressen zu ändern.

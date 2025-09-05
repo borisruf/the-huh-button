@@ -1,0 +1,9 @@
+Die Aussage besagt, dass es in einem Netzwerk verschiedene Arten gibt, wie Daten von einem Ort zum anderen geschickt werden. 
+
+1. **Leitungsvermittlung**: Das ist wie ein Telefonanruf, bei dem eine feste Verbindung hergestellt wird, damit die beiden Leute miteinander reden können. Man verbindet zwei Punkte direkt.
+
+2. **Speichervermittlung**: Hier wird das ganze Paket an Daten erst gesammelt und dann weitergeschickt. Das ist wie mit der Post: Man gibt einen Brief ab, und die Post sendet ihn an die richtige Adresse, aber das geht in mehreren Schritten.
+
+3. **Paketvermittlung**: Diese Methode kombiniert die beiden vorherigen Arten. Man schickt kleine „Pakete“ von Daten auf den schnellsten Weg durch das Netzwerk, ähnlich wie bei der Post, aber die Pakete können direkt an verschiedene Empfänger gehen, ohne eine feste Verbindung aufbauen zu müssen.
+
+Zusammengefasst: In einem Netzwerk wird zuerst entschieden, wie die Daten geschickt werden, und das „Paket“, also eine Gruppe von Daten, wird dann zum nächsten Punkt weitergeleitet, bis es seinen Zielort erreicht.

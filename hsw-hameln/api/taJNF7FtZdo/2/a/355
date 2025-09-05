@@ -1,0 +1,7 @@
+Die Aussage sagt, dass es wichtig ist, sicherzustellen, dass Daten in einem Netzwerk schnell und effizient übertragen werden. 
+
+1. **Durchsatz:** Das bedeutet, wie viel Daten wirklich durch das Netzwerk fließen. Man will die Netto-Übertragungsrate wissen, also nicht nur die Menge an Daten, die hineinkommen, sondern die, die tatsächlich ankommt.
+
+2. **Lastverteilung:** Das ist wie bei mehreren Straßen, die zu einem Ziel führen. Man möchte nicht nur einen Weg benutzen und dadurch einen Stress für einen Router (so etwas wie eine Verkehrskreuzung im Netzwerk) verursachen. Stattdessen sollte man die Daten gleichmäßig auf verschiedene Wege und Router verteilen, damit es nicht zu "Staus" kommt.
+
+Zusammengefasst: Es geht darum, den Datenverkehr im Netzwerk so zu organisieren, dass er schnell und gleichmäßig verteilt wird, damit alles gut funktioniert und es keine Unterbrechungen gibt.

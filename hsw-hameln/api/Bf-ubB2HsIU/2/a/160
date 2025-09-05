@@ -1,1 +1,7 @@
-In diesem Text geht es um die beiden Hauptkomponenten von Computernetzwerken, TCP und IP. IP schickt Daten von einem Computer zum anderen. Dabei kümmert es sich nicht darum, ob die Daten ankommen oder ob sie in der richtigen Reihenfolge sind. TCP hingegen sorgt dafür, dass alle Daten ankommen und in der richtigen Reihenfolge sind. Es gibt viele andere Teile im Netzwerk, aber diese beiden sind die Hauptteile. Einige der anderen Teile sind PING (das überprüft, ob andere Computer im Netzwerk sind), Echo (das sendet eine Nachricht an einen Computer und wartet auf eine Antwort) und ARP (das die eindeutige Identifikation jedes Computers im Netzwerk regelt). Es gibt auch Routing-Protokolle, die wie ein GPS für Daten sind und ihnen den Weg durch das Netzwerk zeigen.
+Die Aussage erklärt, dass es bestimmte Protokolle gibt, die dafür sorgen, dass Daten in einem Netzwerk richtig übertragen werden. Zum Beispiel gibt es das ECHO-Protokoll, auch bekannt als PING. Das ECHO-Protokoll hilft dabei, zu überprüfen, ob ein Computer erreichbar ist.
+
+Außerdem wird ein anderes Protokoll genannt, ARP (Address Resolution Protocol). Dieses Protokoll hilft, die MAC-Adresse (eine Art "Hausnummer" für Computer im Netzwerk) mit der IP-Adresse (eine andere Art "Adresse" im Internet) zu verbinden, sodass man genau weiß, wo die Daten hingeschickt werden müssen.
+
+Zusätzlich gibt es auch Protokolle, die dafür sorgen, dass verschiedene Router im Netzwerk wissen, wie sie die Daten am besten weiterleiten können. Diese Protokolle tauschen Informationen aus und finden den besten Weg für die Daten.
+
+Zusammengefasst: Es gibt spezielle Programme (Protokolle), die dafür sorgen, dass Daten zwischen Computern gut und fehlerfrei übertragen werden können.

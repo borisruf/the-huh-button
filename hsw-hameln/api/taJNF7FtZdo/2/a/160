@@ -1,0 +1,3 @@
+Wenn ein Datenpaket zu einem Router kommt, muss der Router entscheiden, wohin er das Paket senden soll. Wenn er das Ziel nicht ist, schaut er in eine Liste, die ihm sagt, wo das Paket als Nächstes hingehen muss. Diese Liste nennt man Routing-Tabelle. Dort findet er Informationen, die ihm helfen, die beste Richtung zu wählen, damit das Paket schnell weitergeschickt wird. 
+
+Das ist wie wenn Sie auf eine Reise gehen: Sie schauen auf eine Karte, um zu sehen, welchen Weg Sie nehmen müssen, um an Ihr Ziel zu kommen. Der Router macht das Gleiche mit den Daten und muss dann wieder einen anderen Router finden, der das Paket weiterleitet, bis es schließlich beim Ziel ankommt.

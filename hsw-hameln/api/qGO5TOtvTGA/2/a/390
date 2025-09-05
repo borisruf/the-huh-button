@@ -1,0 +1,5 @@
+Die Aussage sagt, dass es sein kann, dass ein Computer oder ein Gerät nicht richtig mit anderen kommunizieren kann, weil es einen falschen Weg (Route) eingestellt hat. Wenn dieser Weg falsch ist, erreicht die Nachricht ihr Ziel nicht.
+
+Um herauszufinden, ob das der Fall ist, kann man einfach überprüfen, wohin die Nachricht tatsächlich geht, also wie weit sie kommt. Das kann man in einem einfachen Verfahren machen, um zu sehen, wo das Problem liegt. 
+
+Im Kontext geht es darum, wie Daten in einem Netzwerk von einem Ort zu einem anderen (A nach B) geschickt werden. Dabei kommen Router ins Spiel, die dafür sorgen, dass die Daten den richtigen Weg nehmen. Man kann Routen manuell (statisch) festlegen oder Router können selbst die besten Wege (dynamisch) finden. Wenn es ein Problem gibt, kann es an einer falschen Einstellung liegen, und das sollte man nachprüfen.

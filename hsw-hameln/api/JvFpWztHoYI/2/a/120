@@ -1,0 +1,7 @@
+Die Aussage erklärt, wie man ein Problem bei der Datenübertragung lösen kann. Wenn wir Daten senden, gibt es einige Methoden, um die Daten in ein Signal umzuwandeln, das durch Kabel geschickt werden kann. Ein einfaches Verfahren ist das Return-to-Zero-Verfahren. Hierbei bedeutet eine "1" einen hohen Signalwert und eine "0" keinen Ausstoß, was bedeutet, dass das Signal auf null zurückkehrt. 
+
+Das Problem dabei ist, dass dieses Verfahren einen hohen Gleichstromanteil hat, das heißt, es hat viel konstante Spannung in einer bestimmten Richtung, und es ist schwierig, den richtigen Takt oder Rhythmus aus dem Signal zu gewinnen. 
+
+Eine bessere Methode ist das Non-Return-to-Zero-Verfahren, bei dem "0" durch einen niedrigen Signalwert dargestellt wird. Aber auch bei dieser Methode bleibt das Problem des hohen Gleichstromanteils und der Taktgewinnung.
+
+Um diese Probleme zu lösen, kann man eine einfache Technik anwenden: Man kombiniert das Non-Return-to-Zero-Verfahren mit einem Takt-Signal. Dies geschieht durch eine logische Verknüpfung, die XOR-Verknüpfung genannt wird. Diese Kombination hilft, den hohen Gleichstromanteil zu verringern und macht es leichter, den Takt aus dem Signal herauszulesen.

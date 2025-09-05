@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir uns bald von der einfachen Art, IP-Adressen zu schreiben, verabschieden müssen. Bei der alten Version, IP Version 4, haben wir die Adressen in einer einfachen Zahlenschreibweise verwendet, die leicht zu verstehen ist. 
+
+Jetzt gibt es eine neue Version, IP Version 6, wo die Adressen viel komplizierter sind. Sie sind länger und werden in einem speziellen System geschrieben, das Hexadezimalsystem heißt. Das sieht anders aus als das, was wir bisher kannten. 
+
+Wir werden lernen müssen, wie man diese neuen Adressen liest und schreibt, weil die alten Adressen, die einfach waren, bald nicht mehr genug sind. Das ist ein wichtiger Schritt, um sicherzustellen, dass wir genügend Adressen für all die neuen Geräte haben, die ins Internet kommen.

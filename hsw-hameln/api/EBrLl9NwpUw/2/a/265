@@ -1,7 +1,3 @@
-In unserem System gibt es verschiedene Anschlüsse (Ports), durch die Informationen (Daten) hin und her geschickt werden können. Manche von diesen Anschlüssen führen direkt zu einer Hauptstelle (Root-Bridge), die sehr wichtig für unser System ist. 
+Die Aussage bedeutet, dass die orangenen Ports in einem Netzwerk gerade nicht aktiv sind. Das heißt, sie sind wie abgeschaltet. Wenn die Ports orange sind, dann können keine Daten darüber geschickt werden. 
 
-Um sicher zu stellen, dass unser System gut funktioniert, müssen wir dafür sorgen, dass die Informationen immer den richtigen Weg zur Hauptstelle finden. Deshalb schalten wir einige Anschlüsse ab, damit die Informationen nicht auf die falschen Wege geraten und wir keinen Stau bei der Informationsweitergabe haben. 
-
-Wir markieren die abgeschalteten Anschlüsse orange und die, die zur Hauptstelle führen, grün. Die grünen Anschlüsse sind also wie eine Autobahn, auf der die Informationen schnell und direkt zur Hauptstelle gelangen. Die orangen Anschlüsse sind hingegen wie eine gesperrte Straße, auf die kein Auto (Information) fahren darf. 
-
-So sorgen wir dafür, dass unser System gut funktioniert und die Informationen schnell da ankommen, wo sie gebraucht werden.
+Im Netzwerk gibt es verschiedene Verbindungen, die manchmal überflüssig sind. Um zu verhindern, dass die Daten durcheinanderlaufen und immer wieder im Kreis geschickt werden (das nennt man eine Schleife), werden manche Verbindungen einfach deaktiviert. Solche deaktivierten Verbindungen sind die, die jetzt orange sind. Dadurch wird das Netzwerk stabiler, weil es dann nicht zu Problemen wie einem Datenstau kommt.

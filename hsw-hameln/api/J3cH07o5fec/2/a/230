@@ -1,0 +1,7 @@
+Das OSI-Modell hilft uns zu verstehen, wie Netzwerke funktionieren. Die oberen drei Schichten (Schichten 7 bis 5) kümmern sich darum, welche Programme oder Anwendungen im Netzwerk laufen sollen. 
+
+Wenn wir ein Netzwerk planen, müssen wir zuerst wissen, was der Auftraggeber braucht. Das heißt, wir müssen überlegen, welche Anwendungen wichtig sind und wie das Netzwerk aussehen sollte, damit diese Anwendungen gut funktionieren. 
+
+Ein Beispiel: Wenn wir Telefonate über das Internet (Voice-over-IP) machen wollen, müssen wir sicherstellen, dass es nicht zu langen Verzögerungen kommt. Das ist anders als bei normalem Datenversand, wo ein bisschen Verzögerung kein Problem ist. 
+
+Außerdem müssen wir darauf achten, wo wir das Netzwerk aufbauen. In Fabriken zum Beispiel gibt es viele Störungen, die wir vermeiden wollen. All diese Punkte sind wichtig für die Planung und den Aufbau des Netzwerks.

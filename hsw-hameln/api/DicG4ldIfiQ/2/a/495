@@ -1,0 +1,3 @@
+In einfacher Sprache sagt die Aussage Folgendes:
+
+Wenn wir mit echten Übertragungswegen arbeiten (also nicht nur in der Theorie), ist es wichtig zu wissen, dass es neben der Bandbreite auch Rauschen gibt. Das Shannon-Theorem hilft uns zu verstehen, wie viel Information wir übermitteln können. Dabei ist es wichtig, dass das Signal (das, was wir senden möchten) stärker ist als das Rauschen (die Störungen). Je besser das Verhältnis von Signal zu Rauschen ist, desto mehr Informationen können wir übertragen.

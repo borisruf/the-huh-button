@@ -1,0 +1,5 @@
+Die Aussage bedeutet: Wenn wir ein besonderes Netzwerk für Telefone (Voice-VLAN) haben, dann stören große Downloads von anderen Computern unser Telefonieren nicht. 
+
+In einfachen Worten: Wenn viele Daten gleichzeitig gesendet werden, kann das die Sprachqualität schlecht machen. Aber wenn die Sprache und die Daten in verschiedenen Netzwerken sind, bleibt die Sprachqualität gut, egal wie viele Daten heruntergeladen werden. 
+
+Das ist wichtig, weil wir beim Telefonieren möchten, dass alles klar und ohne Unterbrechungen funktioniert.

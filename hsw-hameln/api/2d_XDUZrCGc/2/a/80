@@ -1,0 +1,11 @@
+IP-Adressen sind wie eine Adresse für Computer und werden in verschiedene Gruppen eingeteilt. Diese Gruppen nennt man "Klassen". 
+
+Es gibt verschiedene Klassen und sie werden anhand von bestimmten Zahlen geschaut, die am Anfang der IP-Adresse stehen. Man schaut sich das erste Stück, auch "Oktett" genannt, an. Dieses erste Stück kann in einer speziellen Code-Sprache, der binären Sprache, geschrieben werden, wo die Zahlen 0 und 1 sind.
+
+Wenn das erste Bit (die erste Zahl von links) eine 0 ist, dann gehört die IP-Adresse zur Klasse A. In einfachen Zahlen bedeutet das, dass die Zahl zwischen 0 und 127 liegen kann.
+
+Wenn das erste Bit 1 ist und das zweite Bit 0 ist, dann gehört die IP-Adresse zur Klasse B. Das bedeutet, die Zahl kann zwischen 128 und 191 sein.
+
+Wenn die ersten drei Bits (die ersten drei Zahlen von links) 1, 1, 0 sind, gehört die IP-Adresse zur Klasse C. Das bedeutet, die Zahl kann zwischen 192 und 223 sein.
+
+Also, je nachdem, wie die Zahlen im ersten Stück der IP-Adresse aussehen, gehört die Adresse zu einer bestimmten Klasse und hat einen bestimmten Zahlenbereich.

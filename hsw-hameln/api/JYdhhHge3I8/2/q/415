@@ -1,0 +1,1 @@
+ Wir haben einen viel höheren Protokollaufwand, wenn wir nummerieren müssen, wenn wir fragmentieren müssen, wir müssen das Ganze auch wieder zusammensetzen und wir müssen bis hin zu unterschiedlichen Geschwindigkeiten eine Flusssteuerung implementieren.   Das alles sind Protokollelemente, die natürlich für den Anwender transparent sind.

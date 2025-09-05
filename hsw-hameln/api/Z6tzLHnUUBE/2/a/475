@@ -1,0 +1,12 @@
+In dieser Erklärung geht es um, wie Daten von einem Computer zu einem anderen Computer im Internet geschickt werden. 
+
+1. **IP-Adresse**: Jeder Computer hat eine besondere Adresse, die IP-Adresse. Wenn Computer A eine Nachricht zu Computer B schicken will, bleibt die IP-Adresse von A (dem Absender) und die von B (dem Empfänger) die ganze Zeit gleich.
+
+2. **MAC-Adresse**: Jeder Computer hat auch eine andere Adresse, die MAC-Adresse. Diese Adresse wird im lokalen Netzwerk verwendet, um die Computer zu finden. 
+
+3. **Router**: Wenn die Daten von einem Computer zum anderen geschickt werden, bewegen sie sich durch verschiedene Router. Router sind Geräte, die helfen, die Daten von einem Ort zum anderen zu leiten. 
+
+4. **Änderung der MAC-Adressen**: Wenn die Daten von Computer A zum ersten Router gehen, wird die MAC-Adresse des Routers im Datenpaket eingetragen. Der Router sieht, dass die IP-Adressen gleich bleiben (die von A und die von B), aber die MAC-Adresse ändert sich. 
+   - Zum Beispiel: Daten gehen von Computer A (mit der MAC-Adresse von A) zum ersten Router (mit der MAC-Adresse des Routers). Der Router schickt die Daten weiter, nun mit seiner eigenen MAC-Adresse und so weiter zu anderen Routern, bis die Daten schließlich Computer B erreichen.
+
+Zusammengefasst: Die IP-Adressen zeigen, wo die Daten hin sollen (von A nach B), aber die MAC-Adressen helfen, die Daten im lokalen Netzwerk über Router weiterzuleiten.

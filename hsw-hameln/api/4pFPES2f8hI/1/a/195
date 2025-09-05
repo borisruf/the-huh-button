@@ -1,0 +1,5 @@
+Eine Subnetzmaske ist ein wichtiges Konzept in der IP-Vernetzung, das es ermöglicht, größere Netzwerke in kleinere, überschaubare Einheiten, sogenannte Subnetze, zu unterteilen. Diese Technik ist besonders relevant für IPv4, da es aufgrund eines ursprünglich verschwenderischen Umgangs mit IP-Adressen zu einer Knappheit an verfügbaren Adressen gekommen ist. 
+
+Durch die Bildung von Subnetzen wird der Adressraum effizienter genutzt, da nicht mehr jeder Netzwerkadministrator eine übermäßige Anzahl an IP-Adressen für ein kleines Netzwerk anfordern muss. Stattdessen werden die "Host-Bits" der IP-Adresse, die normalerweise für Geräte innerhalb eines Netzwerks verwendet werden, umgewandelt in "Netzanteil-Bits", wodurch kleinere Netzwerke entstehen. 
+
+Die Anpassung der Subnetzmaske ist entscheidend, da sie den Übergang von einer großen Adresseinheit zu mehreren kleineren Einheiten ermöglicht, wodurch die Sicherheit erhöht und die Verwaltung von IP-Adressen erleichtert wird. Insgesamt führt die Subnetzbildung zu einer effizienteren Nutzung der verfügbaren Adressen und verbessert die Netzwerkorganisation.

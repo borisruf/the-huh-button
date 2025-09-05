@@ -1,0 +1,5 @@
+Wenn wir Daten von einem Computer zu einem anderen schicken, benutzen wir Pakete, die eine bestimmte Größe haben. Stell dir vor, das ist wie ein Paket, das du in die Post gibst. Die maximale Größe, die ein Paket haben kann, wird MTU genannt und ist in Ethernet zum Beispiel 1500. Das bedeutet, dass wir Daten, die kleiner oder gleich dieser Größe sind, einfach verschicken können, ohne sie zu zerschneiden.
+
+In unserem Beispiel ist das Ethernet-Paket 1400 groß, also können wir es problemlos schicken, weil es kleiner ist als 1500. Wenn das Paket allerdings viel größer wäre, müsste es in kleinere Teile zerlegt (fragmentiert) werden, damit es sicher und richtig ankommt. 
+
+Zusammengefasst: Wenn das Paket klein genug ist, können wir es einfach so senden. Wenn es zu groß ist, müssen wir es in kleinere Stücke aufteilen.

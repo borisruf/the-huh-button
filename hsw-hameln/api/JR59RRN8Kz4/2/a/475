@@ -1,0 +1,7 @@
+In diesem Text geht es darum, wie wir Telefone und Computer in einem Netzwerk gemeinsam nutzen können. Stell dir vor, du hast einen großen Tisch (das ist wie der Switch) und darauf stehen sowohl Telefone als auch Computer. Alle Geräte sind durch Kabel miteinander verbunden.
+
+Wenn das Telefon und der Computer an denselben Tisch angeschlossen sind, können sie gleichzeitig miteinander arbeiten. Man kann telefonieren und am Computer arbeiten, ohne dass ein Gerät dem anderen im Weg steht. Das ist wichtig, damit die Gespräche klar und ohne Störungen sind.
+
+Im Text wird erklärt, dass es dafür spezielle Einstellungen braucht, damit die Sprache schnell und gut übertragen wird. Wenn sich viele Computer und Telefone das gleiche Kabel teilen, kann es manchmal zu Staus kommen, genau wie im Verkehr. Um das zu vermeiden, können wir die Geräte in Gruppen (VLANs) einteilen, sodass die Telefonate und die Computerarbeit nicht durcheinandergeraten.
+
+Zusammengefasst: An einem Switch können Telefone und Computer angeschlossen werden, und es ist wichtig, alles gut zu organisieren, damit alles gut funktioniert.

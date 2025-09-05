@@ -1,1 +1,11 @@
-Jede IP-Adresse besteht aus einer Reihe von Zahlen und muss zusammen mit einer Subnetzmaske betrachtet werden. Die Subnetzmaske teilt die IP-Adresse in einen Netz- und einen Hostanteil auf und hat auch eine Reihe von Zahlen. Ein Teil dieser Zahlen sind Nullen. Für unser Beispiel verwenden wir eine IP-Adresse der Klasse B, welche standardmäßig 16 Nullen in der Subnetzmaske hat. Mit den Nullen kann berechnet werden, wie viele "Ziele", auch Hosts genannt, maximal erreicht werden können. Dafür nimmt man 2 hoch die Anzahl der Nullen, also 2 hoch 16, und erhält die maximale Anzahl von Hosts. In unserem Beispiel sind das etwas über 65 Hosts.
+Okay, lass uns das ganz einfach erklären:
+
+Wenn wir über IP-Adressen sprechen, geht es darum, wie Computer im Internet gefunden werden können. Jede IP-Adresse hat zwei Teile: einen Teil, der zeigt, zu welchem Netzwerk sie gehört (das nennen wir "Netzanteil"), und einen anderen Teil, der zeigt, welches Gerät im Netzwerk ist (das nennen wir "Host-Anteil").
+
+Es gibt eine spezielle Zahl, die "Subnetzmaske" heißt. Diese hilft uns zu verstehen, wie groß das Netzwerk ist und wie viele Geräte dort sein können. 
+
+In einem bestimmten Netzwerk, das als Klasse B bezeichnet wird, gibt es eine Standard-Subnetzmaske. Wenn wir eine solche Subnetzmaske haben, gibt es 16 Nullen in dieser Maske. Das bedeutet, wir können viele Geräte in diesem Netzwerk haben. 
+
+Um herauszufinden, wie viele Geräte wir haben können, sagen wir: "Wir nehmen die Zahl 2 und machen sie so oft wie die 16 Nullen." Das ergibt mehr als 65.000. Aber es gibt ein Problem: Zwei IP-Adressen können nicht von Geräten benutzt werden, weil sie für besondere Zwecke reserviert sind. Deswegen müssen wir von den 65.000 zwei abziehen. 
+
+Also, die einfache Botschaft ist: Wir können viele Geräte in einem Netzwerk haben, aber wir müssen immer ein paar abziehen, um sicherzustellen, dass alles richtig funktioniert.

@@ -1,9 +1,9 @@
-Stell dir vor, du schreibst einen Brief an jemanden und dabei ist es sehr wichtig, dass der Brief ankommt und genau in der Reihenfolge gelesen wird, in der du ihn geschrieben hast. Um sicherzugehen, dass der Brief korrekt angekommen ist und in der richtigen Reihenfolge gelesen wurde, bittest du die Person, dir eine Nachricht zu schicken, sobald sie den Brief bekommen und gelesen hat. 
+In der Erklärung geht es darum, wie zwei Computer in einem Netzwerk miteinander kommunizieren. Wenn ein Computer, der nennt wird „Sender“, mit einem anderen Computer, dem „Empfänger“, sprechen möchte, muss er ihnen zuerst "Hallo" sagen. 
 
-Bei Computern ist es ähnlich: Sie schicken "Briefe" (Datenpakete) hin und her und um sicherzustellen, dass die "Briefe" in der richtigen Reihenfolge und vollständig ankommen, nutzen sie ein System mit Nummern (Sequenznummern). Die Nummer X in diesem Fall steht für den Anfang einer solchen Nachrichtenfolge. 
+Das passiert durch einen speziellen Vorgang, der „Drei-Wege-Handshake“ genannt wird. 
 
-Der sendende Computer startet also mit dem Senden eines "Briefes" und kennzeichnet ihn mit der Sequenznummer X. Das wäre so, als ob du deinen Brief mit "Brief 1" kennzeichnen würdest. 
+1. Zuerst schickt der Sender ein Signal an den Empfänger, um zu zeigen, dass er eine Verbindung aufbauen möchte. Dieses Signal hat eine besondere Nummer, die nennt man „Sequenznummer X“. Es ist eine Art Identifier, damit der Empfänger weiß, dass es von diesem speziellen Sender kommt.
 
-Wenn der empfangende Computer diesen "Brief" bekommt, sendet er eine Nachricht zurück, um zu bestätigen, dass er ihn bekommen hat. Das ist so, als würde die Person, an die du den Brief geschrieben hast, dir eine Nachricht schicken, dass sie "Brief 1" bekommen hat. 
+2. Der Empfänger, wenn er das Signal erhält, sagt dann „Ich habe deinen Gruß bekommen!“ mit einem eigenen Signal zurück. Auch dieses Signal hat eine spezielle Nummer, die eine weitere Synchronisationssequenz ist.
 
-Das nennt man Synchronisation. Es ist ein Weg, wie Computer sicherstellen, dass die "Briefe" korrekt und in der richtigen Reihenfolge ankommen.
+Zusammengefasst: Der Sender sagt „Hallo“ mit einer Nummer, und der Empfänger antwortet zurück, dass er das gehört hat, auch mit einer Nummer. So wissen beide Computer, dass sie miteinander reden können.

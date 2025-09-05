@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir aus einem großen Netzwerk viele kleinere Netzwerke machen. Diese kleineren Netzwerke nennt man Subnetze. Wenn wir das tun, haben die kleineren Netzwerke weniger Computer (Hosts), die man ansprechen oder mit ihnen kommunizieren kann.
+
+Das ist wichtig, weil es hilft, unsere IP-Adressen besser zu nutzen. Früher haben viele Menschen zu viele IP-Adressen bekommen, und jetzt gibt es nicht genug für alle. Durch die Bildung von Subnetzen sparen wir Adressen und organisieren die Netzwerke besser. 
+
+Also kurz gesagt: Wir teilen ein großes Netzwerk in kleinere Teile, damit wir die Adressen besser verwalten und die Netzwerke sicherer machen können.

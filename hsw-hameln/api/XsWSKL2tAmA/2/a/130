@@ -1,7 +1,7 @@
-Die IP-Adresse eines Computers ist wie seine Hausnummer im Internet. Sie besteht aus verschiedenen Teilen, die in sogenannten "Oktetten" unterteilt sind. Jedes Oktett ist ein bestimmter Teil der IP-Adresse. Und diese Teile sind wiederum aus Bits gemacht. Bits sind die kleinsten Einheiten der Computerdaten.
+Okay, lass es uns einfach machen:
 
-Wenn du eine IP-Adresse siehst, siehst du eigentlich eine Dezimalzahl - das sind die Zahlen, die wir normalerweise benutzen. Aber im Computer wird sie als binäre Zahl gespeichert - das sind nur die Zahlen 0 und 1.
+Eine IP-Adresse ist wie eine Adresse für Computer, damit sie miteinander sprechen können. Diese Adresse besteht aus vier Teilen, die wir Oktette nennen. Wenn wir die IP-Adresse wie "172.16.14.193" sehen, gibt es diese vier Teile, die wir auch in einer anderen Sprache – der binären Sprache – ausdrücken können, die 0 und 1 verwendet.
 
-Wenn du also wissen willst, wie der Computer die IP-Adresse speichert, musst du sie in eine binäre Zahl umrechnen. Das machst du, indem du dir anschaust, was jedes Bit im Oktett wert ist. Das ist wie wenn du eine Zahl wie z.B. 321 liest - du weißt, dass die '3' eigentlich '300' bedeutet, weil sie an der Stelle der Hunderten steht. Bei der Umrechnung der IP-Adresse ist es ähnlich, nur mit Bits statt Dezimalzahlen. 
+Um von der binären Sprache zu der normalen Sprache (die wir verstehen) zu wechseln, benutzen wir die Werte, die in jedem Teil (Oktett) stecken. Jedes dieser Oktette hat einen bestimmten Wert. Wir können die binären 0en und 1en Schritt für Schritt in eine Zahl umwandeln, die wir lesen können, oder umgekehrt, also von der normalen Zahl in die binäre Sprache.
 
-Es ist wichtig, diese Umwandlung zu verstehen, weil manchmal musst du wissen, welcher Teil der IP-Adresse für das Netzwerk und welcher Teil für den Computer (den "Host") steht. Das wird durch eine andere Nummer bestimmt, die "Subnetzmaske". Die teilt die IP-Adresse sozusagen in den Netzwerk- und den Host-Teil auf.
+Das bedeutet, wenn wir eine IP-Adresse nehmen, können wir sie in eine Form umwandeln, die Computer verstehen, und wieder zurück. So funktioniert das Ganze!

@@ -1,0 +1,11 @@
+Okay, ich erkläre das in einfacher Sprache:
+
+Stell dir vor, du sitzt an deinem Computer und möchtest eine Webseite anschauen. Dein Computer hat eine spezielle Adresse, die man IP-Adresse nennt. Wenn du die Webseite besuchst, schickst du eine Anfrage an einen großen Computer, der die Webseite gespeichert hat. Dieser große Computer nennt sich Webserver.
+
+Wenn du diese Anfrage schickst, passiert Folgendes: Dein Computer hat einen sogenannten Quellport, das ist wie eine Tür, durch die die Anfrage geht. Es gibt auch einen Zielport, das ist die Tür, wo die Anfrage hin soll, also der Webserver.
+
+In diesem Fall ist dein Quellport eine Nummer, die hoch ist, meistens über 30.000, und der Zielport ist 80. Port 80 ist der Standardport fürs Anschauen von Webseiten. 
+
+Wenn der Webserver deine Anfrage empfängt, schickt er die Antwort zurück. Dabei kommt die Antwort wieder über die ursprüngliche Tür (dein Quellport) zurück, aber jetzt wird die ursprüngliche Zielportnummer (Port 80) umgekehrt. Das bedeutet, dass das, was im Internet als Port 80 angesehen wird, jetzt auf deinen Quellport zurückkommt.
+
+Zusammengefasst: Du fragst nach einer Webseite, die Anfrage geht über eine Nummer (Quellport) an den Webserver (Zielport), und die Antwort kommt dann über die gleiche Tür zurück.

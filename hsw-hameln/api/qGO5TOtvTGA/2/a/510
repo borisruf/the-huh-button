@@ -1,0 +1,7 @@
+Okay, ich versuche, die Aussage in einfacher Sprache zu erklären:
+
+Wir haben zwei Netzwerke, die VLANs heißen, und wir möchten, dass sie miteinander sprechen können. Um das zu tun, brauchen wir zwei Router. Diese Router helfen, die Daten zwischen den zwei VLANs zu senden. 
+
+Die Verbindung zwischen diesen beiden Routern, die die beiden VLANs verbindet, nennen wir "Transfersegment". Das ist einfach ein Kanal, über den die Daten von einem Netzwerk zum anderen gelangen können. 
+
+Zusammengefasst: Zwei VLANs, zwei Router, und die Verbindung zwischen ihnen ist das Transfersegment. Das hilft, dass die Informationen von einem VLAN zum anderen kommen können.

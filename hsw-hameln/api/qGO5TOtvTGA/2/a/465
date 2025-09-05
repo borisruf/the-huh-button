@@ -1,0 +1,5 @@
+Ein Router ist ein Gerät, das hilft, Daten von einem Ort zum anderen zu senden, indem er verschiedene Netzwerke verbindet. Er hat mehrere IP-Adressen, weil er in verschiedenen Netzwerken arbeitet. 
+
+Das "Default Gateway" ist wie eine Wegbeschreibung. Wenn dein Computer Daten an einen anderen Ort schicken möchte, der nicht im gleichen Netzwerk ist, fragt er das Default Gateway. Es sagt dann, wohin die Daten geschickt werden sollen. 
+
+Also, der Router hat viele IP-Adressen, weil er mit verschiedenen Netzwerken verbunden ist, und das Default Gateway ist wichtig, damit der Router weiß, wohin die Daten gehen sollen, wenn sie nicht im eigenen Netzwerk bleiben können.

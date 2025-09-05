@@ -1,0 +1,7 @@
+Die Aussage erklärt, wie IP-Adressen in verschiedene Klassen eingeteilt werden. 
+
+Stell dir vor, eine IP-Adresse ist wie eine Adresse für dein Haus, aber in einer Computersprache. Diese Adresse besteht aus vier Teilen, die "Oktette" heißen. Jedes Oktett kann Zahlen von 0 bis 255 annehmen. 
+
+Jetzt schauen wir uns das erste Oktett an, also den ersten Teil der Adresse. Wenn das erste Bit (die erste Ziffer) in diesem Teil eine 0 ist, gehört diese Adresse zur Klasse A. 
+
+Wenn wir das in eine einfache Zahl umrechnen, bedeutet das, dass die Zahlen in diesem ersten Teil (im Oktett) von 0 bis 127 gehen können. Das ist wie eine Grenze: Die Adresse kann also klein (0) oder bis zu 127 groß sein, damit sie in diese Klasse A gehört.

@@ -1,7 +1,14 @@
-Das ist eine technische Erklärung von IP-Adressen und wie sie aufgebaut sind. Eine IP-Adresse ist wie eine Hausadresse für Computer im Internet. Sie besteht aus vier Teilen, die durch Punkte getrennt sind. Aber um zu wissen, welcher Teil der Adresse zu welchem Netzwerk gehört und welcher Teil zu welchem speziellen Computer (dem "Host") gehört, brauchen wir etwas, das "Subnetzmaske" genannt wird.
+In einfachen Worten:
 
-Die Subnetzmaske sieht auch aus wie eine IP-Adresse. Sie sagt uns, welcher Teil der IP-Adresse dem Netzwerk und welcher dem Host gehört. Es ist ein wenig wie zu wissen, dass bei einer Hausadresse die Straße dem Netzwerk und das Haus dem Host entspricht.
+Eine IP-Adresse sieht aus wie eine Zahl mit vier Teilen, die durch Punkte getrennt sind, zum Beispiel 172.16.14.193. Diese Adresse hat zwei wichtige Teile: einen Netzanteil, der zeigt, in welchem Netzwerk sie sich befindet, und einen Host-Anteil, der zeigt, welches Gerät in diesem Netzwerk gemeint ist. 
 
-Zum Beispiel steht "255.0.0.0" für eine Subnetzmaske, bei der das erste Teil der IP-Adresse zum Netzwerk gehört und der Rest zum Host. Es gibt auch andere Subnetzmasken wie "255.255.0.0" und "255.255.255.0", bei denen mehr Teile der Adresse zum Netzwerk gehören.
+Um zu wissen, welcher Teil Netzanteil und welcher Teil Host-Anteil ist, braucht man eine Subnetzmaske. Die Subnetzmaske ist auch eine Zahl mit vier Teilen, zum Beispiel 255.255.255.0. 
 
-Um diese Zahlen zu ermitteln, werden mathematische Berechnungen durchgeführt, die etwas kompliziert sind, aber im Wesentlichen bedeuten sie, dass jedes "255" in einer Subnetzmaske bedeutet, dass dieser Teil der IP-Adresse zum Netzwerk gehört. Wenn es eine "0" gibt, bedeutet das, dass dieser Teil der Adresse zum Host gehört.
+Wenn man die IP-Adresse in eine andere Art von Zahlen (binär) umwandelt, sieht man besser, wie sie aufgebaut ist. 
+
+Es gibt verschiedene Kategorien von IP-Adressen, und jede Kategorie hat ihre eigene Standard-Subnetzmaske:
+- Klasse A hat die Subnetzmaske 255.0.0.0
+- Klasse B hat die Subnetzmaske 255.255.0.0
+- Klasse C hat die Subnetzmaske 255.255.255.0
+
+Diese Zahlen helfen uns zu verstehen, wie die Adressen funktionieren und wer zu wem gehört.

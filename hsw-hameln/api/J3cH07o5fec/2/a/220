@@ -1,0 +1,5 @@
+Wir wollen ein Netzwerk für kleine Firmen planen, zum Beispiel in zwei Gebäude. Um das gut zu machen, folgen wir einem bestimmten Plan. Zuerst schauen wir uns an, was wir already haben und was wir brauchen. Das nennt man „Ist-Soll-Analyse“. Danach überlegen wir, wie wir das Netzwerk aufbauen können.
+
+Wir haben auch das OSI-Modell gelernt. Das hilft uns, die Struktur des Netzwerks besser zu verstehen. Im OSI-Modell sind die obersten drei Schichten (Schichten 5 bis 7) besonders wichtig für Anwendungen, also die Programme, die im Netzwerk laufen sollen. Wir müssen wissen, welche Anwendungen der Kunde möchte, denn das beeinflusst, wie wir das Netzwerk gestalten, sowohl logisch (wie es funktioniert) als auch physikalisch (wie die Geräte verbunden sind).
+
+Nach der Planung folgt die Umsetzung, wo wir das Netzwerk tatsächlich bauen. Danach testen wir, ob alles gut funktioniert. Wenn alles klappt, zeigen wir den Nutzern, wie sie mit dem neuen System umgehen und es warten können.

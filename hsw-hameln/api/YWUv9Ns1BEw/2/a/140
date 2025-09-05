@@ -1,0 +1,13 @@
+Die Aussage beschreibt, wie sich Ethernet, eine Technologie für Netzwerke, im Laufe der Zeit entwickelt hat. 
+
+1. **Start mit Standard Ethernet**: Alles hat vor vielen Jahren mit dem ursprünglichen Ethernet begonnen. Früher war alles mit einem einzigen Kabel verbunden, das "Yellow Cable". Das bedeutete, dass alle Geräte dieses eine Kabel nutzen mussten.
+
+2. **Schnelligkeit**: Ethernet hat sich dann weiterentwickelt. Es gab schnellere Versionen wie Fast Ethernet und Gigabit Ethernet. Diese Varianten können mehr Daten in kürzerer Zeit übertragen. Zum Beispiel, 10 Gigabit pro Sekunde und 100 Gigabit pro Sekunde sind inzwischen fast Standard. Es wird sogar darüber nachgedacht, noch schnellere Verbindungen mit 1000 Gigabit pro Sekunde zu schaffen.
+
+3. **Probleme beim Teilen**: Früher, als alles über ein gemeinsames Kabel lief, gab es Probleme mit Kollisionen. Das heißt, wenn zwei Geräte gleichzeitig Daten senden wollten, gab es Streit und die Daten gingen verloren. Das war besonders bei der Nutzung von Sprache im Internet, wie bei Voice over IP, ein Problem.
+
+4. **Moderne Lösungen**: Heute benutzen die Netzwerke Switches, die es ermöglichen, dass Geräte direkt miteinander verbunden sind, ohne das Problem von Kollisionen. Dadurch kann schneller und zuverlässiger kommuniziert werden.
+
+5. **Grenzen der Technik**: Irgendwann wird die Technik an ihre Grenzen stoßen, was bedeutet, dass es nicht unbegrenzt schnellere Verbindungen geben kann, weil die physikalischen Möglichkeiten das verhindern werden.
+
+Insgesamt zeigt die Aussage, wie Ethernet technologische Fortschritte gemacht hat, um schneller und effektiver zu arbeiten, und dass es weiterhin Bestrebungen gibt, diese Technologie weiter zu verbessern.

@@ -1,0 +1,5 @@
+In ganz einfacher Sprache:
+
+Wir haben hier ein Bild. Auf der linken Seite sind drei Personen, die miteinander sprechen wollen. Auf der rechten Seite sind auch drei Personen. Aber nur immer zwei Personen dürfen gleichzeitig reden. Wenn zum Beispiel eine Person auf der linken Seite mit einer Person auf der rechten Seite spricht, können die anderen nicht reden. Sie müssen warten, bis die beiden fertig sind. Das nennt man "Sendepause" für die anderen. 
+
+Das Problem ist, dass alle diese Personen über ein einziges Kabel sprechen müssen. Wenn viele gleichzeitig reden wollen, kann es schwieriger werden, weil das Kabel nur einen Kanal hat, den die Leute benutzen können. So funktioniert Multiplexing: Es teilt einen Kanal für viele Gespräche auf, aber immer nur zwei können gleichzeitig sprechen.

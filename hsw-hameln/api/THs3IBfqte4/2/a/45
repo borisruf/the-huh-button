@@ -1,0 +1,5 @@
+Wir sprechen jetzt darüber, wie wir Informationen senden und empfangen. Es gibt zwei Hauptarten: Basisband-Übertragung und Breitband-Übertragung. 
+
+Wir schauen uns zuerst die Basisband-Übertragung an. Das ist wichtig für Ethernet und lokale Netzwerke (LAN), wo wir gerade gute Erfahrungen machen. 
+
+In einfachen Worten: Bei der Basisband-Übertragung nutzen wir alle Möglichkeiten (das ganze Frequenzspektrum), um unsere Signale zu übertragen. Das bedeutet, dass wir viele Informationen gleichzeitig auf einer Leitung schicken können.

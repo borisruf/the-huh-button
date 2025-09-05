@@ -1,3 +1,5 @@
-Stell dir vor du hast ein großes Puzzle. Jedes einzelne Puzzleteil ist wie ein Datenpaket, das im Internet verschickt wird. Auf der Rückseite von jedem Puzzleteil ist eine Nummer, die zeigt, wo es im fertigen Puzzle gehört. Wenn du das Puzzle zusammensetzt, sortierst du die Teile nach ihren Nummern, um das Gesamtbild herzustellen.
+In einfacher Sprache bedeutet die Aussage:
 
-Jetzt stell dir vor, einige Puzzleteile kommen nicht an. Das wäre, als ob im Internet einige Datenpakete verloren gehen. Du würdest eine Lücke im Puzzle sehen. Das ist das, was die Aussage mit "Abbruch" meint - einige Daten wurden nicht gesendet.
+"Wir sehen, dass einige Daten nicht ankommen. Das nennt man Abbruch. Wenn das passiert, dauert es eine gewisse Zeit (Timeout). Dann versucht das System, die fehlenden Daten erneut zu senden."
+
+Im großen Kontext geht es darum, wie Daten über Netzwerke geschickt werden. Wenn ein Computer etwas senden möchte, wird oft überprüft, ob die Daten richtig angekommen sind. Wenn nicht, wird versucht, sie noch einmal zu schicken, damit alles korrekt ist.

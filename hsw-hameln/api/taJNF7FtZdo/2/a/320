@@ -1,0 +1,11 @@
+Die Aussage beschreibt, wie Daten in einem Computernetzwerk von Ort A zu Ort B geschickt werden und was Router dabei tun. 
+
+Hier ist die Erklärung in einfacher Sprache:
+
+Wenn Daten von einem Computer zu einem anderen geschickt werden, passiert das in mehreren Schritten. Diese Schritte nennt man das OSI-Modell. Man kann sich das wie ein großes Paket vorstellen. Die Daten werden in eine Art 'Verpackung' gesteckt, damit sie sicher reisen können. 
+
+Wenn die Daten unterwegs sind, kommen sie zu Routern. Router sind wie Verkehrskreuzungen für Daten. Sie schauen, wohin die Daten gehen sollen. Dabei "packen" sie die Daten bis zu einem bestimmten Punkt aus, um die Zieladresse (die IP-Adresse) herauszufinden. Diese Adresse hilft ihnen, zu entscheiden, wo die Daten als Nächstes hingehen müssen.
+
+Wenn die Daten am Ziel angekommen sind, werden sie wieder vollständig "ausgepackt". An den Endpunkten, wo die Computer sind, müssen die Daten durch das ganze OSI-Modell gehen, bis sie richtig ankommen. 
+
+Zusammengefasst: Es geht darum, wie Daten sicher von einem Computer zum anderen geschickt werden und wie Router dabei helfen, den besten Weg zu finden.

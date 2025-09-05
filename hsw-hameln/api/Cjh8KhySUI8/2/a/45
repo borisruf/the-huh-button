@@ -1,0 +1,3 @@
+UDP ist ein Weg, wie Daten über das Internet geschickt werden. Im Gegensatz zu einem anderen Weg namens TCP ist UDP einfacher und schneller, weil es weniger Regeln hat. Das bedeutet, dass mehr Daten gleichzeitig gesendet werden können, was gut für die Geschwindigkeit ist. 
+
+Aber weil es so einfach ist, kümmert sich UDP nicht so sehr um die Sicherheit und Zuverlässigkeit der Daten. Wenn etwas verloren geht oder nicht richtig ankommt, gibt es keine besonderen Maßnahmen, um das zu reparieren. Es ist also wie ein schnelles, aber nicht so sicheres Transportmittel für Daten.

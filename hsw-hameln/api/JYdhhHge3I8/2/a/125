@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass Daten in einem Netzwerk ähnlich wie Briefe verschickt werden. Wenn man einen Brief schickt, geht er durch verschiedene Poststellen, bevor er beim Empfänger ankommt. 
+
+In einem Netzwerk gibt es Geräte wie Router oder Switches, die die Daten von einem Ort zum anderen weiterleiten. Diese Geräte nehmen die Daten, die ankommen, und schicken sie an das nächste Ziel. Dabei schicken sie immer ganze Datenpakete weiter, genau wie die Post ganze Briefe und Pakete transportiert. 
+
+Es gibt verschiedene Arten, wie diese Daten weitergeleitet werden – eine davon ist die „Leitungsvermittlung", bei der eine direkte Verbindung zwischen zwei Punkten hergestellt wird, und eine andere ist die „Speichervermittlung", bei der die Daten in einer Station gespeichert und später weitergeschickt werden, ähnlich wie beim Versand von Briefen.

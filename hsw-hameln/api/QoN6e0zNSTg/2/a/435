@@ -1,0 +1,5 @@
+Die Aussage "Das ist jetzt hier in diesem Fall eine CRC32-codierte CRC-Fehlererkennung. Und damit wird also sozusagen der Rahmen komplett." bedeutet Folgendes:
+
+Am Ende eines Datenpakets gibt es eine Art Prüfnummer namens CRC32. Diese Prüfziffer hilft zu überprüfen, ob die Daten richtig übertragen wurden oder ob es einen Fehler gab. Wenn diese Prüfnummer auch am Ende des Pakets ist, ist das Paket vollständig und bereit zur Übertragung. 
+
+Einfach gesagt: Die CRC32 ist wie eine Art Sicherheitscheck, um sicherzustellen, dass alles in Ordnung ist, bevor das Datenpaket verschickt wird.

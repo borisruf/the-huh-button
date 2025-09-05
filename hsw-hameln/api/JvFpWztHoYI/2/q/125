@@ -1,0 +1,1 @@
+ Jetzt stellt sich die Frage, wie kriegt man gerade dieses Thema der Taktrückgewinnung und Gleichstromanteile, wie kriegt man das vermieden?  Und da gibt es eine ganz einfache Möglichkeit, indem man nämlich dieses Non-Return-to-Zero-Verfahren nimmt und es einfach kombiniert mit einem Taktsignal, das heißt also eine XOR-Verknüpfung herstellt.

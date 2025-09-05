@@ -1,0 +1,5 @@
+Wenn wir Daten über das Internet senden, können Fehler passieren. Um diese Fehler zu finden, benutzen wir ein Verfahren, das einen sogenannten "Prüfzähler" oder eine "Prüfzumme" verwendet. Diese Prüfzumme wird anhand einer speziellen Formel, dem "Generator-Polynom", erstellt. 
+
+Die Aussage bedeutet, dass die Qualität dieses Verfahrens davon abhängt, welches Generator-Polynom wir wählen. Ein gutes Polynom kann helfen, mehr Fehler zu erkennen. Wenn wir die Daten empfangen, benutzen wir das gleiche Polynom, um zu überprüfen, ob die Prüfzumme noch stimmt. Wenn sie nicht stimmt oder einen Rest hat, bedeutet das, dass ein Fehler aufgetreten ist.
+
+Allerdings gibt es immer eine kleine Möglichkeit, dass wir einen Fehler übersehen, selbst wenn die Prüfzumme in Ordnung zu sein scheint. Das nennt man die "Restfehler-Rate". Diese Rate können wir berechnen, um zu verstehen, wie gut unser Fehlererkennungsverfahren ist.

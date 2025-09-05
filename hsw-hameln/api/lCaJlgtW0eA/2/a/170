@@ -1,0 +1,9 @@
+Die Aussage erklärt, dass es verschiedene Geräte gibt, die helfen, Netzwerke oder Teile von Netzwerken miteinander zu verbinden. Diese Geräte nennt man Koppelungselemente.
+
+Wir beginnen mit den einfachsten Geräten, die im OSI-Modell auf Schicht 1 sind. Das sind Repeater und Hubs. Diese Geräte sind sehr einfach und können Signale empfangen und sie danach wieder senden. Sie helfen, dass die Netzwerke weiter auseinander liegen können, aber sie können auch Probleme verursachen, weil sie alle Signale miteinander vermischen.
+
+Dann gibt es Geräte auf der nächsten Schicht (Schicht 2), wie Switches und Bridges. Diese sind etwas cleverer. Sie können entscheiden, wohin die Signale geschickt werden, indem sie eine Adresse verwenden, die wie eine Art Name für Geräte im Netzwerk ist. Sie helfen auch dabei, Netzwerkprobleme zu vermeiden, weil sie nicht alle Signale vermischen.
+
+Auf der höchsten Schicht (Schicht 3) gibt es Router. Router sind sehr intelligent, weil sie mit einer speziellen Adresse arbeiten, die IP-Adresse genannt wird. Sie verbinden ganze Netzwerke miteinander und können auch bestimmen, wo Signale hin geschickt werden sollen. Sie sorgen dafür, dass nur bestimmte Signale innerhalb eines Bereichs gesendet werden und nicht über die Grenzen hinaus.
+
+Zusammengefasst: Es gibt mehrere Arten von Geräten, die helfen, Netzwerke zu verbinden, und je höher man im OSI-Modell ist, desto schlauer sind diese Geräte.

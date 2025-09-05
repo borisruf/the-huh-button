@@ -1,0 +1,7 @@
+Die Aussage erklärt, wie das ARP-Protokoll funktioniert. Hier ist die Erklärung in einfacher Sprache:
+
+Wenn ein Computer wissen möchte, welche IP-Adresse zu einer bestimmten MAC-Adresse gehört, fragt er das ganze Netzwerk. Das nennt man „Broadcast“. Der Computer sendet eine Nachricht an alle anderen Computer im Netzwerk. Diese Nachricht fragt: „Hey, wer hat die MAC-Adresse XYZ? Bitte sag mir deine IP-Adresse.“ Der Computer, der diese MAC-Adresse hat, antwortet dann zurück und sagt seine IP-Adresse. 
+
+Das Ganze passiert mit einem Programm namens Wireshark, das zeigt, wie all diese Anfragen und Antworten im Netzwerk aussehen. 
+
+Zusammenfassend: ARP hilft Computern dabei, herauszufinden, welche IP-Adresse zu welcher MAC-Adresse gehört, damit sie miteinander kommunizieren können.

@@ -1,1 +1,7 @@
-Spanning-Tree ist eine Lösung, um Probleme in unserem Computernetzwerk zu vermeiden. Manchmal haben wir viele extra Pfade in unserem Netzwerk, damit es stets läuft und nicht ausfällt. Aber diese extra Pfade können Kreise bilden, die nicht gut für das Netzwerk sind. In diesen Kreisen können Informationen verloren gehen und die Kapazität des Netzwerks überlasten. Das passiert wegen einem sogenannten "Broadcast-Storm". Das ist wie ein Sturm von Informationen, welche das Netzwerk überfluten, weil die Weichen (Switches) nicht wissen, wo sie die Informationen hinschicken sollen. Spanning-Tree ist eine Möglichkeit, dieses Problem zu lösen. Mit Spanning-Tree können wir ein Netzwerk mit vielen extra Pfaden haben, ohne das Problem mit den Kreisen und dem Informationssturm.
+Wenn wir ein Netzwerk mit vielen Verbindungen und Geräten (Switches) haben, kann es Probleme geben. Manchmal gibt es so viele Wege, dass die Daten in eine Schleife geraten. Das heißt, sie kreisen immer wieder umher und finden keinen richtigen Weg. 
+
+Stell dir vor, du hast einen Ball und wirfst ihn zu einem Freund, aber er wirft ihn sofort zurück zu dir, und das passiert immer wieder. Das ist nicht besonders hilfreich und macht das Spiel langweilig.
+
+In einem Netzwerk, wenn die Daten in einer Schleife stecken bleiben, können sie die anderen Daten überfluten. Das nennt man einen "Broadcast-Storm". Dadurch wird das Netzwerk sehr beschäftigt und kann langsamer werden oder sogar ausfallen.
+
+Um dieses Problem zu lösen, gibt es das Spanning-Tree-Protokoll. Dieses Protokoll hilft, die besten Wege für die Daten zu finden und die überflüssigen Wege (die Schleifen) zu blockieren. So bleibt das Netzwerk ordentlich und funktioniert gut.

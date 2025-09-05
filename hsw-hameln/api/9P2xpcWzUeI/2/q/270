@@ -1,0 +1,1 @@
+ Also wir brauchen einen Router und wichtig dabei ist auch, pro VLAN erzeugen wir eine Broadcast-Domäne.  Wir können also nicht nur auf Basis von real aufgeteilten Netzwerken Broadcast-Domänen erzeugen, sondern eben auch auf Basis von VLANs.

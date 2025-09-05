@@ -1,0 +1,13 @@
+Die Aussage erklärt, wie Datenpakete in Netzwerken bearbeitet werden, besonders wenn sie durch verschiedene Netzwerkprotokolle reisen, die unterschiedliche Größenanforderungen haben.
+
+Hier ist eine einfache Erklärung:
+
+1. **Datenpakete und MTU**: Wenn Daten von einem Computer zu einem anderen gesendet werden, kommen sie in Form von Paketen. Jedes Paket hat eine bestimmte Größe. MTU steht für "Maximum Transmission Unit" und beschreibt die größte Paketgröße, die ein Netzwerkprotokoll (wie PPP oder Ethernet) verarbeiten kann. 
+
+2. **Fragmentierung**: Wenn ein Datenpaket zu groß ist, um durch ein Netzwerkprotokoll zu passen, muss es in kleinere Teile "aufgesplittet" werden. Das nennt man Fragmentierung. So wird sichergestellt, dass die Pakete die Anforderungen der verschiedenen Netzwerke erfüllen.
+
+3. **Weiterleitung durch Router**: Wenn die Pakete über einen Router in ein anderes Netzwerk gesendet werden, muss der Router sicherstellen, dass die Pakete die richtige Größe haben, um im nächsten Netzwerk (z.B. PPP) weitergesendet werden zu können. Wenn das Paket zu groß ist, wird es also kleiner gemacht.
+
+4. **Unterschied bei IPv6**: Bei der neueren Version des Internetprotokolls, IPv6, funktioniert das ein bisschen anders. Dort müssen die Router die Pakete nicht für jedes Netzwerk separat anpassen. Stattdessen wird der gesamte Weg, den die Pakete nehmen, vorher geplant, und die Fragmente werden schon bevor die Pakete gesendet werden, gesammelt. So werden die Router weniger belastet.
+
+Zusammengefasst: Wenn Daten in einem Netzwerk gesendet werden, können sie durch verschiedene Protokolle reisen, die unterschiedliche Größenlimits haben. Manchmal müssen diese Daten in kleinere Teile aufgeteilt werden, damit sie überall passen. Bei IPv6 wird dies im Voraus organisiert, was die Arbeit der Router erleichtert.

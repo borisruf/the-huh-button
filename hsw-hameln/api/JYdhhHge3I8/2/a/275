@@ -1,0 +1,5 @@
+Die Aussage beschreibt, wie Daten in einem Netzwerk geschickt werden. Zuerst werden die Daten in kleine Teile, die „Pakete“ genannt werden, zerlegt. Man kann sich das vorstellen wie ein großes Paket, das in viele kleine Boxen aufgeteilt wird. Diese kleinen Pakete können dann auf unterschiedlichen Wegen durch das Netzwerk geschickt werden, also sie müssen nicht alle denselben Weg nehmen.
+
+Stell dir vor, du willst einen großen Koffer nach einem anderen Ort schicken. Anstatt den ganzen Koffer auf einmal zu verschicken, machst du ihn auf und packst die Sachen in mehrere kleine Kisten. Jede Kiste kann dann einen eigenen Weg nehmen, um zum Ziel zu kommen. Wenn alle Kisten angekommen sind, kannst du sie zusammenfügen und hast deine Sachen wieder.
+
+So funktioniert die Paketvermittlung: Die Daten werden aufgeteilt, reisen auf verschiedenen Routen und kommen schließlich am Empfänger an.

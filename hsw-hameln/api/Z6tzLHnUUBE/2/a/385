@@ -1,0 +1,11 @@
+Die Aussage fragt, ob es nicht reicht, nur eine IP-Adresse zu haben, um einen Computer im Netzwerk zu identifizieren. Die Antwort ist: Ja, das könnte in einem kleinen, eigenen Netzwerk funktionieren. 
+
+Hier ist die Erklärung in einfacher Sprache:
+
+In einem kleinen Netzwerk, wie zum Beispiel in einem Wohnzimmer mit einem Router und ein paar Computern, kann man jedem Computer eine IP-Adresse geben. Mit dieser Adresse weiß jeder, welcher Computer gemeint ist. Das ist einfach und reicht für die Kommunikation in diesem kleinen Raum.
+
+Aber in größeren Netzwerken, wie dem Internet, gibt es Millionen von Computern. Da ist eine IP-Adresse nicht genug, um sicherzustellen, dass die Daten an den richtigen Ort gesendet werden. 
+
+Darum brauchen wir zusätzlich zur IP-Adresse auch eine MAC-Adresse. Die MAC-Adresse ist wie eine eindeutige Kennung für jedes Gerät im Netzwerk, ähnlich wie eine persönliche ID. Sie hilft, den Computer genauer zu identifizieren, besonders wenn viele Computer im Spiel sind.
+
+Zusammengefasst: In kleinen Netzwerken kann eine IP-Adresse ausreichen, aber in großen Netzwerken wie dem Internet ist es wichtig, auch MAC-Adressen zu nutzen, um Verwirrung zu vermeiden und die richtigen Geräte zu erreichen.

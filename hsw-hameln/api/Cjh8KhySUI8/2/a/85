@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es bei UDP darum geht, Daten sehr schnell zu senden. Es ist nicht so wichtig, dass wirklich alle Daten ankommen. Das unterscheidet sich von TCP, wo man sicherstellt, dass jede einzelne Datenübertragung erfolgreich ist.
+
+Bei UDP verwenden wir Ports, um verschiedene Datenströme besser zu organisieren. Aber im Gegensatz zu TCP gibt es kein System, das die Kommunikation überwacht oder sicherstellt, dass die Daten in der richtigen Reihenfolge ankommen. Es gibt auch nicht viele Maßnahmen, um Fehler zu erkennen oder zu beheben.
+
+Zusammengefasst: UDP ist schneller, aber weniger sicher, weil es nicht überprüft, ob alles richtig angekommen ist. Das kann in manchen Situationen nützlich sein.

@@ -1,0 +1,9 @@
+In dieser Erklärung geht es um verschiedene Arten, wie Daten in Netzwerken übertragen werden. Man kann das einfacher so beschreiben:
+
+1. **Leitungsvermittlung**: Stell dir vor, es ist wie ein Telefonanruf. Wenn du jemanden anrufst, wird für dich eine spezielle Verbindung hergestellt, die nur für dein Gespräch da ist. Niemand sonst kann diese Verbindung nutzen, solange du sprichst.
+
+2. **Speichervermittlung**: Das ist wie das Verschicken von Briefen. Wenn du einen Brief schickst, wird er in ein Postamt gebracht, wo er gespeichert wird, bis er an das nächste Postamt weitergeleitet wird. So kann der Brief von einem Ort zum anderen reisen, auch wenn nicht alle Orte direkt miteinander verbunden sind.
+
+3. **Paketvermittlung**: Diese Art ist eine Mischung aus den beiden anderen. Hier werden die Daten in kleine "Pakete" aufgeteilt, die dann auf verschiedenen Wegen geschickt werden können. Jedes Paket kann seinen eigenen Weg nehmen, um zum Ziel zu gelangen. Es ist flexibel und ermöglicht eine schnellere Übertragung der Informationen. Ein Beispiel dafür sind die Daten, die über das Internet (z.B. IP) verschickt werden.
+
+Im Video wird erklärt, dass diese Vermittlungsarten wichtig sind, um zu verstehen, wie Daten in Netzwerken von einem Punkt zum anderen gebracht werden. Es gibt also verschiedene Möglichkeiten, wie das funktioniert, und jede hat ihre eigenen Vorteile.

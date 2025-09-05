@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir beim Planen von Computernetzwerken darauf achten müssen, wie sicher die Daten sind. Wenn wir das Netzwerk in verschiedene Bereiche aufteilen (wie die VLANs), können wir dafür sorgen, dass bestimmte Arten von Daten nur in einem bestimmten Bereich bleiben. 
+
+Das ist wichtig für die Sicherheit der Daten. Wenn zum Beispiel nur Telefondaten in einem eigenen Bereich sind, können diese Daten weniger leicht von anderen Daten oder von böswilligen Personen gestört oder abgehört werden. So schützen wir die Informationen besser. 
+
+Zusammengefasst: Durch das Aufteilen des Netzwerks in verschiedene Bereiche können wir dafür sorgen, dass die Daten sicherer sind.

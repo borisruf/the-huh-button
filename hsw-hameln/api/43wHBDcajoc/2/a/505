@@ -1,0 +1,11 @@
+In dieser Textstelle geht es um Wireless oder Funknetzwerke. Funksignale werden oft zum Beispiel für WLAN (drahtloses Internet) verwendet. Es gibt verschiedene Arten von Funknetzwerken, die sich nach der Reichweite unterscheiden, also wie weit das Signal reicht.
+
+1. **Kurze Distanzen**: Ein Beispiel ist Bluetooth, das Geräte in der Nähe verbindet, wie dein Handy und das Auto. Damit kannst du über entfernungen von etwa 10 Metern Daten austauschen.
+
+2. **WLAN**: Das WLAN wurde schon 1997 eingeführt und wird immer schneller. Die neuen Standards ermöglichen Geschwindigkeiten bis zu 600 Megabit pro Sekunde.
+
+3. **WLAN-Sicherheit**: Wenn wir über WLAN sprechen, ist Sicherheit wichtig. "WPA2" ist ein aktueller Schutzstandard für WLAN, der dafür sorgt, dass die Daten, die über das Netzwerk geschickt werden, sicher sind. Dabei wird eine besondere Technik namens "AES" verwendet, um die Daten zu verschlüsseln. Verschlüsselung bedeutet, dass die Daten in eine geheimnisvolle Sprache verwandelt werden, die nur befugte Personen verstehen können.
+
+4. **Probleme mit Interferenzen**: Wenn viele Geräte gleichzeitig das Funknetz nutzen, kann es Probleme geben. Wenn die Frequenzen sich überlappen, gibt es Störungen, und das Internet wird langsamer. Deswegen ist es wichtig, die richtigen Kanäle für das WLAN zu wählen.
+
+Zusammenfassend: Funknetzwerke sind wichtig und weiten sich ständig aus. Sicherheit ist ein großes Thema, und da hilft der WPA2 Standard, um Informationen zu schützen.

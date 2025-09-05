@@ -1,0 +1,9 @@
+Die Aussage spricht über die Planung eines Netzwerks. Hier ist eine einfache Erklärung:
+
+Wenn man ein Netzwerk erstellen möchte, muss man zuerst überlegen, welche Programme oder Anwendungen im Netzwerk genutzt werden sollen. Um das zu tun, hilft uns das OSI-Modell, das wir vorher gelernt haben. 
+
+Das OSI-Modell hat sieben Schichten, aber für die Anwendungen sind nur die obersten drei wichtig. Diese Schichten nennt man die anwendungsorientierten Schichten. 
+
+Bevor wir unser Netzwerk bauen, müssen wir verstehen, was der Kunde braucht. Wir müssen fragen: Welche Anwendungen sollen im Netzwerk laufen? Das ist wichtig, denn wie wir unser Netzwerk aufbauen, hängt davon ab.
+
+Zusammengefasst: Bei der Planung eines Netzwerks schauen wir uns an, welche Anwendungen wichtig sind, und dafür nutzen wir das OSI-Modell. Dann richten wir unser Netzwerk danach ein.

@@ -1,0 +1,7 @@
+Wir sprechen hier über die Übertragung von Signalen, also wie Daten von einem Ort zum anderen geschickt werden. Es gibt zwei Hauptarten, das zu machen: 
+
+1. **Basisbandübertragung**: Hier nutzen wir die gesamte Bandbreite, um digitale Daten direkt zu senden. Das geht gut in lokalen Netzwerken, zum Beispiel im Internet zu Hause.
+
+2. **Breitbandübertragung**: Bei dieser Methode teilen wir die verfügbaren Frequenzen in mehrere kleinere Teile auf. Diese Teile nennt man Frequenzbänder. Jedes Frequenzband kann dann für verschiedene Daten genutzt werden. Wenn wir viele dieser Frequenzbänder zusammen verwenden, nennen wir das "Frequenz-Multiplex". 
+
+Ein Beispiel, wie man diese Frequenzbänder nutzen kann, ist die Modulation. Dabei hilft uns, analoge Signale zu übertragen. Das bedeutet, dass wir verschiedene Daten durch Veränderungen in einem Signal senden können. So können mehrere Daten gleichzeitig über die gleiche Verbindung geschickt werden.

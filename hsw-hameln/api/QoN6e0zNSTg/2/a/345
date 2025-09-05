@@ -1,0 +1,7 @@
+Wir sprechen hier von einem Netzwerk, das Ethernet heißt. Es ist ein System, das es mehreren Geräten ermöglicht, miteinander zu kommunizieren. Im Netzwerk gibt es etwas, das man als „gemeinsames Medium“ bezeichnet. Das ist wie eine Straße, auf der viele Autos (Daten) fahren wollen. 
+
+Wenn die Geräte Daten senden möchten, müssen sie zuerst schauen, ob die „Straße“ frei ist. Die MAC-Adressen sind wie die Adressen der Häuser: Eine zeigt, wo die Daten herkommen (Sender), und die andere, wo die Daten hin sollen (Empfänger).
+
+Das Gelbe, das auf dem Bild zu sehen ist, sind die Daten selbst, also das, was die Geräte miteinander austauschen.
+
+Wir müssen sicherstellen, dass alle Geräte fair miteinander umgehen, wenn sie die „Straße“ benutzen. Wenn zwei Geräte gleichzeitig Daten senden wollen und sich dabei treffen (Kollision), muss das System erkennen, dass etwas schiefgelaufen ist, und die Geräte müssen warten, bevor sie es erneut versuchen. Das ist ein bisschen wie im Straßenverkehr: Wenn zwei Autos gleichzeitig an eine Kreuzung fahren und sich treffen, müssen sie warten, bis die Kreuzung wieder frei ist.

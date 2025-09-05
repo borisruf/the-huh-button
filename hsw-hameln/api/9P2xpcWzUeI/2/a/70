@@ -1,0 +1,5 @@
+Die Aussage beschreibt, dass die Art und Weise, wie Netzwerke in einem Gebäude eingerichtet sind, manchmal zu fest und unflexibel ist. Man hat zum Beispiel ein Netzwerk für jedes Stockwerk, was bedeutet, dass alles, was im Erdgeschoss ist, nur mit dem Erdgeschoss verbunden ist, und nicht mit den anderen Stockwerken. 
+
+VLANs (virtuelle LANs) sind eine Lösung für dieses Problem. Sie erlauben es, verschiedene Teile eines Netzwerks so zu verbinden, als wären sie in einem anderen Stockwerk, ohne dass sie physisch dort sind. 
+
+Also, man kann sich das wie ein Gebäude mit drei Stockwerken vorstellen. Jedes Stockwerk hat seine eigene Verbindung, aber mit VLANs kann man diese Verbindungen flexibler gestalten und die Netzwerke besser organisieren, ohne dass man neue Kabel oder Hardware braucht. Es ist eine clevere Art, die Netzwerke zu nutzen, so dass sie besser für die echten Bedürfnisse der Menschen passen.

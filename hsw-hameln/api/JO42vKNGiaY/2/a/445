@@ -1,0 +1,11 @@
+Die Aussage bedeutet Folgendes:
+
+Eine IP-Version 6-Adresse kann manchmal mit zwei Doppelpunkten (also "::") anfangen. Wenn jedoch in einer Adresse zwei Blöcke mit nur Nullen sind, darfst du nur einen dieser Blöcke abkürzen.
+
+Hier ist ein einfaches Beispiel:
+Stell dir vor, du hast die Adresse "2001:0:0:0:0:0:0:1". 
+Du kannst sie abkürzen und schreiben als "2001::1", weil du die Blöcke mit Nullen weggelassen hast.
+
+Wenn du aber eine Adresse hast wie "2001:0:0:0:0:0:0:0", wo es zwei Gruppen von Nullen gibt, darfst du nur einmal die Nullen abkürzen. Also würdest du nur eine Abkürzung machen und könntest schreiben: "2001::". 
+
+Das bedeutet, dass du die Nullen nur so zusammenfassen kannst, dass es keinen Verwirrung gibt.

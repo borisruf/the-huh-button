@@ -1,0 +1,7 @@
+Multiplexing bedeutet, dass mehrere Daten von verschiedenen Personen gleichzeitig über das gleiche Kabel oder Medium geschickt werden können. Stellen wir uns vor, es gibt vier Personen, die miteinander sprechen wollen, aber nur ein Kabel zur Verfügung steht. Um das zu ermöglichen, müssen wir die Informationen auf eine clevere Art und Weise an das Kabel anpassen. 
+
+Es gibt verschiedene Arten von Multiplexing. Eine davon ist das Zeit-Multiplexing. Dabei gibt es zwei Hauptvarianten: synchrones und asynchrones Zeit-Multiplexing. 
+
+Beim synchronen Zeit-Multiplexing sprechen alle gleichzeitig, aber jeder hat eine feste Zeit, in der er sprechen kann. Beim asynchronen Zeit-Multiplexing kann jeder dann sprechen, wenn er möchte, ohne festen Zeitplan, aber es muss ein System geben, um die Gespräche zu verwalten, damit es nicht durcheinandergeht.
+
+So hilft Multiplexing, dass alle miteinander kommunizieren können, auch wenn nur ein Kanal oder Kabel zur Verfügung steht.

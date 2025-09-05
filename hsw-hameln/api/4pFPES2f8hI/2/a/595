@@ -1,0 +1,5 @@
+Wenn du eine IP-Adresse und die dazugehörige Subnetzmaske hast, kannst du herausfinden, in welchem Netzwerk dein Computer ist. Die IP-Adresse ist wie die Adresse deines Hauses, und die Subnetzmaske hilft dir, das richtige Viertel oder die Nachbarschaft zu erkennen, in der dein Haus steht. 
+
+Mit diesen Informationen kannst du berechnen, welche Netzwerkadresse dein Netzwerk hat. Das ist wichtig, weil es zeigt, wie viele Geräte (wie Computer oder Handys) in diesem Netzwerk miteinander verbunden sind und wie sie kommunizieren können. 
+
+Zusammengefasst: Die IP-Adresse sagt dir, wo du bist, und die Subnetzmaske hilft dir zu verstehen, in welchem Netzwerk du dich befindest.

@@ -1,0 +1,11 @@
+Die Aussage beschreibt, wie man die Subnetzmaske einer IP-Adresse verändern kann, um kleinere Netzwerke zu erstellen. Eine Subnetzmaske hilft dabei, festzustellen, welcher Teil einer IP-Adresse zum Netzwerk gehört und welcher Teil zu den Geräten (Hosts) in diesem Netzwerk.
+
+Hier ist die einfache Erklärung der Aussage:
+
+1. **Subnetzmaske**: Das ist eine Art Anweisung, wie man die IP-Adresse teilt. Sie sagt uns, welcher Teil der Adresse das Netzwerk ist und welcher Teil für die Geräte ist.
+
+2. **Slash27**: Wenn wir sagen „Slash27“, bedeutet das, dass wir 27 Einsen in der Subnetzmaske haben. Einsen und Nullen sind wie ein Geheimcode, der uns hilft zu verstehen, wo das Netzwerk endet und die Geräte beginnen.
+
+3. **Bits umwandeln**: In der ursprünglichen Subnetzmaske hatten wir Nullen für die Geräte. Wenn wir sagen, dass wir drei Nullen in Einsen umwandeln, heißt das, dass wir den Teil für die Geräte kleiner machen und mehr Platz für das Netzwerk schaffen. Diese Einsen zeigen, dass es jetzt mehr Netzwerke gibt, aber weniger Platz für Geräte in jedem Netzwerk.
+
+Zusammengefasst: Wenn wir die Nullen in Einsen umwandeln, können wir aus einem großen Netzwerk mehrere kleinere Netzwerke machen. Dadurch können wir die Adressen besser nutzen und bieten gleichzeitig mehr Sicherheit.

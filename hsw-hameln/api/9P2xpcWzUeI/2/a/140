@@ -1,0 +1,5 @@
+VLANs sind wie virtuelle Räume in einem Gebäude, die es ermöglichen, dass verschiedene Gruppen von Leuten in denselben physischen Raum arbeiten, ohne dass sie sich gegenseitig stören. 
+
+Um zu bestimmen, welche Computer in welchen Raum (VLAN) gehören, benötigt man eine spezielle Steuerstation. Diese Steuerstation sagt den Computern, basierend auf ihren MAC-Adressen (das sind spezielle Nummern, die jedem Computer einmalig zugeordnet sind), in welches VLAN sie gehören. 
+
+In einfacher Sprache: Wenn ein Computer sich in das Netzwerk einloggt, schaut die Steuerstation, wo dieser Computer hingehört, und ordnet ihn dem richtigen VLAN zu. So haben alle Computer ihre eigenen "virtuellen Räume", auch wenn sie am selben physischen Ort sind. Das macht es einfacher, das Netzwerk zu organisieren und zusammenzuarbeiten.

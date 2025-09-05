@@ -1,0 +1,7 @@
+Okay, lass es mich sehr einfach erklären:
+
+Stell dir vor, du hast eine Nachricht, die du jemandem schicken möchtest, und diese Nachricht besteht aus digitalen Daten – also Nullen und Einsen. Um diese Nachricht über ein Kabel oder eine Funkverbindung (das nennen wir "Kanal") zu schicken, wird sie in ein Signal umgewandelt. Ein Signal ist wie eine Welle, die sich durch die Luft oder durch ein Kabel bewegt.
+
+Wenn wir das Signal verschicken, kann es durch viele Dinge gestört werden – zum Beispiel durch Lärm oder andere Signale. Wenn das passiert, kommt das Signal beim Empfänger nicht mehr so an, wie es ursprünglich war, sondern es könnte verändert oder beschädigt sein.
+
+Der Empfänger muss dann das veränderte Signal wieder analysieren und versuchen, die ursprünglichen Informationen (die Nullen und Einsen) herauszufinden. Deshalb ist es wichtig, dass wir wissen, wie man das Signal aufbaut und wie man es richtig überträgt, damit die Nachricht klar und verständlich bleibt, trotz der möglichen Störungen auf dem Weg.

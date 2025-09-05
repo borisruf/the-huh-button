@@ -1,0 +1,3 @@
+Die Aussage sagt, dass es wichtig ist, wenn viele Daten gleichzeitig über ein Netzwerk gesendet werden, dass diese Übertragung zuverlässig und sicher ist. Es gibt viele Dinge, die man beachten muss, um das zu gewährleisten. Dann wird das CSMA-CD-Protokoll erwähnt, das eine Methode ist, um diesen Zugriff auf das Netzwerk zu regeln.
+
+Einfacher gesagt: Wenn viele Computer miteinander reden, müssen wir sicherstellen, dass sie sich nicht "übersprechen". Das CSMA-CD-Protokoll hilft dabei, dass alle fair und ordentlich ihre Daten senden können.

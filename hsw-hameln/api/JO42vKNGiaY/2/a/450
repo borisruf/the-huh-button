@@ -1,0 +1,5 @@
+Eine IPv6-Adresse ist eine Art von Internetadresse. Sie sieht ein bisschen anders aus als die alten IPv4-Adressen. In einer IPv6-Adresse gibt es Blöcke, die durch Doppelpunkte getrennt sind. Jeder Block kann Nullen enthalten.
+
+Wenn eine IPv6-Adresse mit vielen Nullen beginnt, dürfen wir diese Nullen weglassen. Das ist wie eine Abkürzung. Wenn aber in einer Adresse zwei Gruppen von Nullen sind, dürfen wir nur eine dieser Gruppen mit einer speziellen Abkürzung namens "doppelter Doppelpunkt" kürzen.
+
+Das bedeutet, dass wir in einer IPv6-Adresse Nullen sparen können, um sie einfacher zu machen. Aber wir müssen darauf achten, dass wir nicht zwei Gruppen von Nullen gleichzeitig abkürzen.

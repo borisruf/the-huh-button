@@ -1,0 +1,9 @@
+In der beschriebenen Situation handelt es sich um die Funktionsweise des NAT (Network Address Translation) bzw. PAT (Port Address Translation) bei der Kommunikation zwischen einem lokalen Netzwerk (LAN) und dem Internet. Wenn ein Gerät in einem lokalen Netzwerk (mit einer privaten IP-Adresse) einen Webserver (über die öffentliche IP-Adresse des Routers) anfordert, geschieht Folgendes:
+
+1. **Anfrage:** Der Client im LAN sendet eine Anfrage an den Webserver, wobei die Anfrage von einem zufällig gewählten Quellport (hohe Portnummer) an den Zielport 80 (HTTP) des Servers erfolgt.
+  
+2. **NAT/PAT Übersetzung:** Der Router, der NAT/PAT verwendet, ändert die Quelladresse der Anfrage in seine eigene öffentliche IP-Adresse und speichert die Zuordnung von Quellport und Zielport. 
+
+3. **Antwort:** Der Webserver sendet die Antwort zurück an die öffentliche IP-Adresse des Routers, die jetzt die Quellportnummer des ursprünglichen Clients als Zielport (bei NAT umgedreht) verwendet. Der Router empfängt die Antwort und leitet sie an das ursprüngliche Gerät im LAN zurück.
+
+Zusammengefasst bedeutet die Aussage, dass bei der Kommunikation zwischen dem lokalen Netzwerk und dem Internet die Ports der Anfragen und Antworten umgekehrt werden: Der ursprüngliche Quellport der Anfrage wird zum Zielport der Antwort, und der Zielport der Anfrage (80) wird zum Quellport in der Kommunikation. Dies ermöglicht die korrekte Zuordnung von Antworten an die richtigen Geräte innerhalb des LANs.

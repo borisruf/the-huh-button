@@ -1,0 +1,7 @@
+Klar! Lass uns die Aussage in einfacher Sprache erklären:
+
+Wir werden in der Übung lernen, wie wir herausfinden können, wo genau unser Datenpaket überall hin reist, bis es an seinem Ziel ankommt. Das nennt man "Trace Route". Dabei sehen wir, wie viele Stationen (Sprünge) das Paket macht. Manchmal kann es auch sein, dass die Verbindung abbricht, und dann sollten wir herausfinden, warum das passiert ist.
+
+In einer vorherigen Lektion haben wir über ein wichtiges Thema gesprochen: die Verbindung von Netzwerken. Dazu müssen wir auch wissen, was VLANs sind, also virtuelle lokale Netzwerke. 
+
+Zusammengefasst: Wir wollen lernen, wie Datenpakete reisen und was passiert, wenn sie unterwegs Probleme haben. Und wir müssen auch verstehen, wie Netzwerke miteinander verbunden sind, inklusive der VLANs.

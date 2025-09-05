@@ -1,0 +1,7 @@
+Die Aussage erklärt, wie ein Ethernet-Paket aufgebaut ist. Man kann sich das wie ein Brief vorstellen, der verschiedene Teile hat. Diese Teile sind wichtig, um die Informationen richtig zu übertragen. Im Text wird gesagt, dass es verschiedene Abschnitte gibt, die man betrachten kann. 
+
+Im Wesentlichen wird hier darüber gesprochen, wie die Daten im Netzwerk organisiert und gesendet werden. Es gibt Regeln, die festlegen, wie verschiedene Geräte auf ein gemeinsames Medium zugreifen können, ohne dass es zu Problemen kommt. So wie man im Warteschlangen steht, müssen die Geräte sicherstellen, dass jeder gleich behandelt wird. 
+
+Wenn zwei Geräte gleichzeitig versuchen, Daten zu senden, kann es zu einer "Kollision" kommen, das heißt, sie stören sich gegenseitig. Das Protokoll soll sicherstellen, dass diese Kollisionen erkannt und richtig darauf reagiert wird.
+
+Zusammengefasst geht es also darum, wie man sicher und fair Informationen in einem Netzwerk austauscht, indem man die Struktur der Daten und die Regeln für den Zugriff auf das Netzwerk beachtet.

@@ -1,0 +1,9 @@
+Die Aussage „Er bekommt die dann wirklich separat“ bedeutet, dass der Empfänger die "Stopfbits" und die echten Daten klar voneinander unterscheiden kann. 
+
+Hier ist die Erklärung in sehr einfacher Sprache:
+
+Wenn wir Daten senden, kann es passieren, dass bestimmte Zeichen, wie das „End of Text“-Zeichen, auch in den echten Daten vorkommen. Das möchte man vermeiden, weil der Empfänger denken könnte, die Nachricht ist zu Ende, obwohl noch Daten kommen.
+
+Um das zu verhindern, gibt es eine Regel: Wenn der Sender fünf Einsen hintereinander sendet, fügt er automatisch eine „0“ hinzu. Diese zusätzliche „0“ nennt man „Stopfbit“. Sie hilft, Missverständnisse zu vermeiden.
+
+Der Empfänger sieht, dass nach fünf Einsen eine Null kommt und weiß, dass diese Null nicht Teil der echten Daten ist. Der Empfänger entfernt die Stopfbits, wenn er die Daten bekommt. So kann er die echten Daten separat von den Stopfbits erkennen und verarbeiten.

@@ -1,0 +1,7 @@
+In einfachen Worten bedeutet die Aussage, dass ein Eins in einem Signal durch einen Anstieg (steigende Flanke) dargestellt wird und eine Null durch einen Abstieg (fallende Flanke). Das ist wichtig, um sicherzustellen, dass die Daten, die wir senden, richtig und in einer synchronisierten Weise übermittelt werden.
+
+Im Kontext des Textes wird erklärt, wie man bits, also Einsen und Nullen, in ein Signal umwandelt, das über Kabel geschickt werden kann. Es gibt verschiedene Methoden, um das zu tun. Eine Methode nennt sich "Return-to-Zero", wo eine Eins durch einen Ausschlag (eine hohe Spannung) gezeigt wird und eine Null durch keinen Ausschlag (eine niedrige Spannung).
+
+Es gibt ein anderes Verfahren, bei dem eine Eins und eine Null auch in einem Signal angezeigt werden, aber es hat einige Nachteile, wie zum Beispiel einen hohen Gleichstromanteil, was bedeutet, dass es im Signal nicht viele Änderungen gibt. Um das besser zu machen, kann man eine andere Technik einsetzen, die die Änderungen im Signal nutzt, um die Daten zu übertragen.
+
+Die spezielle Methode genannt "Manchester-Kodierung" zeigt, dass eine Eins durch einen Abstieg und eine Null durch einen Anstieg im Signal angezeigt wird. So können wir die Einsen und Nullen besser übertragen, ohne dass es Probleme mit der Synchronisierung gibt. Wenn wir nur auf die Änderungen im Signal achten, können wir auch Störungen besser verarbeiten.

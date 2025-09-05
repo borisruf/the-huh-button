@@ -1,0 +1,5 @@
+Die Aussage „172.16.14.193, das kann man sich gerade so in der Regel noch merken“ bedeutet, dass diese IP-Adresse einfach genug ist, dass viele Menschen sie gut im Kopf behalten können. 
+
+Im Text geht es darum, dass neue IP-Adressen (IP Version 6) benutzt werden, weil die alten (IP Version 4) nicht mehr ausreichen. Bei den alten Adressen bestehen die Zahlen aus vier Teilen (Oktetten), die mit Punkten getrennt sind, wie in der genannten Adresse. Diese vier Teile sind weniger kompliziert und einfacher zu merken, weil sie aus Zahlen von 0 bis 255 bestehen.
+
+In der neuen Version (IP Version 6) gibt es längere Adressen, die aus acht Teilen bestehen und mit Doppelpunkten getrennt sind, und diese Teile haben Buchstaben und Zahlen. Das ist komplizierter und schwieriger zu merken. Die einfache Adresse aus dem alten System ist daher ein gutes Beispiel dafür, dass diese alten Adressen leichter zu verstehen und im Kopf zu behalten sind.

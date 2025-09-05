@@ -1,9 +1,9 @@
-Wenn wir über Netzwerke und Computer sprechen, brauchen wir oft spezielle Nummern, die wir IP-Adressen nennen. Diese Adressen sind ähnlich wie die Adressen für Häuser. Sie helfen den Daten, ihren Weg im Netzwerk zu finden. Diese Adressen sind ein bisschen kompliziert, weil sie mit vielen Nullen und Einsen funktionieren. Diese Nullen und Einsen nennen wir "Bits". 
+Wenn wir über IP-Adressen sprechen, stellen wir uns vor, dass jeder Computer eine eigene Adresse braucht, um sich zu identifizieren und zu kommunizieren. Wenn wir 500 Adressen haben, können wir nicht alle davon wirklich nutzen. 
 
-Jede IP-Adresse ist geteilt in zwei Teile: einen "Netz" Teil und einen "Host" Teil. Der Netzteil ist wie der Name einer Straße und der Host-Teil ist wie eine Hausnummer. So ist es einfacher, den genauen Ort (oder den genauen Computer) in einem großen Netzwerk zu finden.
+Das liegt daran, dass zwei dieser Adressen besondere Funktionen haben und nicht für Computer verwendet werden können. 
 
-Nun, ist es so, dass je mehr nullen eine Adresse hat, desto mehr verschiedene Orte (oder "Hosts") können wir auf dieser "Straße" (Netz) haben. Es ist ähnlich wie bei einer sehr langen Straße, auf der viele verschiedene Häuser stehen können. 
+1. **Die erste Adresse** ist die Netzwerkadresse. Sie sagt, welches Netzwerk es ist. Man kann sich das wie die Adresse des Hauses vorstellen, in dem alle Computer wohnen. Diese Adresse ist jederzeit da und kann nicht verwendet werden, um einen Computer zu identifizieren.
 
-Zum Beispiel, wenn wir 16 Nullen haben, können wir eigentlich 65.536 verschiedene Orte haben. Aber es gibt zwei Ausnahmen: die erste und die letzte Adresse. Diese sind immer reserviert, man kann sie nicht für einen normalen Computer verwenden. 
+2. **Die letzte Adresse** ist die Broadcast-Adresse. Diese Adresse wird verwendet, um eine Nachricht an alle Computer im Netzwerk zu senden. Man kann sie sich wie einen Lautsprecher vorstellen, der alle im Netzwerk anspricht. Auch diese Adresse kann nicht einem normalen Computer gegeben werden.
 
-Die erste Adresse ist der Name für das ganze Netzwerk oder die ganze "Straße". Und die letzte Adresse ist eine spezielle Adresse, die alle Computer im Netzwerk gleichzeitig erreicht. Deshalb können wir tatsächlich nur 65.534 verschiedene Computer-Adressen haben, auch wenn wir 16 Nullen haben.
+Deshalb müssen wir von den 500 Adressen, die wir haben, zwei abziehen. Dann bleibt uns die Anzahl der Adressen, die wir wirklich für Computer nutzen können.

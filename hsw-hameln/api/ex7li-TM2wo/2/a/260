@@ -1,0 +1,13 @@
+In dem Text geht es darum, wie man Probleme oder Fehler bei der Übertragung von Daten erkennen und lösen kann. Hier ist die Erklärung in sehr einfacher Sprache:
+
+1. **Fehler erkennen**: Wenn Daten von einem Ort zu einem anderen gesendet werden, können Fehler passieren. Manchmal verändern sich die Daten, oder sie gehen ganz verloren. Wir müssen also herausfinden, ob die Daten auf dem Weg beschädigt wurden oder ob sie überhaupt angekommen sind.
+
+2. **Wie man damit umgeht**: Wenn wir Fehler entdecken, können wir verschiedene Dinge tun. Bei manchen Daten, wie zum Beispiel bei Videos oder Musik, können wir kleine Fehler ignorieren, weil es nicht so wichtig ist. Aber wenn es um wichtige Daten, wie Geldüberweisungen, geht, müssen wir jeden Fehler ernst nehmen, weil dies sonst große Probleme verursachen kann.
+
+3. **Fehler korrigieren**: Es gibt zwei Möglichkeiten, um mit Fehlern umzugehen. Eine Möglichkeit ist, dass das System die Daten selbst so verändert, dass sie wieder richtig sind. Das ist kompliziert. Die andere Möglichkeit ist, den Sender zu bitten, die Daten einfach nochmal zu senden.
+
+4. **Zusatzinformationen hinzufügen**: Um Fehler zu erkennen, müssen wir den Daten etwas hinzufügen, das uns hilft zu kontrollieren, ob alles in Ordnung ist. Das kann eine Art "Prüfziffer" oder "Prüfzuschlag" sein.
+
+5. **Beispiel für Fehlererkennung**: Ein spezielles Verfahren, das wir verwenden können, heißt "zyklischer Redundanz-Check" oder CRC. Es hilft uns, herauszufinden, ob bei der Übertragung etwas schiefgelaufen ist. Wir fügen eine zusätzliche Zahl (Prüfziffer) zu den gesendeten Daten hinzu und überprüfen an der anderen Seite, ob diese Zahl mit der ursprünglichen übereinstimmt. Wenn nicht, wissen wir, dass ein Fehler passiert ist.
+
+Insgesamt geht es darum, sicherzustellen, dass Daten richtig und ohne Fehler übertragen werden, besonders wenn sie wichtig sind.

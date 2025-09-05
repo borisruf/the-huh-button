@@ -1,1 +1,1 @@
- Diese grünen Ports nennen sich auch Root-Ports.  Das sind also die Ports, über die Leitungen direkt zur Root-Bridge führen, die genutzt werden für die Datenkommunikation.
+ Das sind also die Ports, über die Leitungen direkt zur Route-Bridge führen, die genutzt werden für die Datenkommunikation.  Alles, was an dieser Stelle jetzt orange ist, befindet sich in einem sogenannten, diese orangenen Ports befinden sich eben in einem Status, wo die Leitung quasi deaktiviert ist.

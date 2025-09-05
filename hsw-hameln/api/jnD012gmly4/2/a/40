@@ -1,0 +1,13 @@
+Die Aussage spricht über Datenübertragung, also wie Informationen von einem Ort zum anderen geschickt werden. Hier sind die wichtigen Punkte in einfacher Sprache:
+
+1. **Datenblöcke**: Die Informationen, die geschickt werden, sind in kleine Teile unterteilt. Diese Teile nennt man „Frames“ oder „Datenblöcke“.
+
+2. **Kritische Länge**: Es wird gesagt, dass die Größe dieser Datenblöcke wichtig ist. Wenn sie zu lang sind, können Probleme auftreten.
+
+3. **Gleichlaufschwankungen**: Das bedeutet, dass manchmal die Übertragung nicht ganz gleichmäßig läuft. Das kann zu Problemen führen.
+
+4. **Fehlerkorrektur**: Wenn wir Daten schicken, können Fehler passieren. Wenn die Datenblöcke größer sind, ist es schwieriger, diese Fehler zu finden und zu beheben.
+
+5. **Zwischenspeicherung**: Manchmal müssen die Daten kurz gespeichert werden, bevor sie weitergeschickt werden. Auch hier kann die Größe der Datenblöcke Probleme machen.
+
+Der Text erklärt, dass das alles Herausforderungen sind, und dass wir uns anschauen werden, wie wir diese Probleme lösen können.

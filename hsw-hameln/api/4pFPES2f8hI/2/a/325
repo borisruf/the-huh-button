@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn wir bei einer bestimmten Zahl von Nullen in einer Netzmaske drei davon in Einsen umwandeln, dann können wir mit diesen Einsen 8 kleinere Netzwerke (Subnetze) machen. Das kommt daher, weil 2 hoch 3 (also 2 mal 2 mal 2) gleich 8 ist. 
+
+Jedes dieser 8 Netzwerke hat dann 32 Adressen, die wir benutzen können. Das passiert, weil die Einsen in der Netzmaske sagen, wie viele Netzwerke wir haben, und die Nullen sagen, wie viele Adressen in jedem Netzwerk verfügbar sind.

@@ -1,0 +1,5 @@
+In dieser Aussage geht es darum, wie man Netzwerke miteinander verbindet. Wenn man Geräte verwendet, die Signale verstärken, wie zum Beispiel einen Repeater oder einen Hub, dann können mehr Geräte miteinander kommunizieren. Das nennt man „Reichweite vergrößern“, weil mehr Geräte in einem Netzwerk zusammengeschlossen werden.
+
+Aber wenn man die Reichweite vergrößert, gibt es auch eine andere Folge, die man beachten muss: Die „Kollisionsdomäne“ wird größer. Das bedeutet, dass mehr Geräte gleichzeitig miteinander sprechen können, und manchmal kann es passieren, dass sie sich gegenseitig stören oder „kollidieren“. Wenn wir später mehr dazu sagen, werden wir genauer erklären, was das genau bedeutet. 
+
+Zusammengefasst: Wenn man Netzwerke verbindet, kann man mehr Geräte erreichen, aber das kann auch dazu führen, dass sie sich mehr stören.

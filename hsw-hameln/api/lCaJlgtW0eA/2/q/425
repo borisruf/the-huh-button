@@ -1,0 +1,1 @@
+ Denn unter Umständen möchte ich ja auch Broadcast-Verkehr minimieren, hinsichtlich der Performance meines Netzwerks.  Nun, wenn wir nur Switches, also nur bis zur Schicht 2 Geräte einsetzen, dann haben wir eben Broadcast-Domänen.

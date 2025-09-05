@@ -1,0 +1,9 @@
+Die Aussage beschreibt, dass man die verschiedenen Teile eines Datenpakets, das über Ethernet gesendet wird, genau ansehen kann. Dabei kann man sehen:
+
+1. **Welche Protokolle verwendet werden**: Protokolle sind Regeln, die bestimmen, wie Daten gesendet und empfangen werden. Man kann sehen, welches Protokoll für die Übertragung genutzt wird.
+
+2. **Welche Adressen verwendet werden**: Jedes Gerät im Netzwerk hat eine eindeutige Adresse (die MAC-Adresse). Man kann erkennen, welche Adresse das sendende und welche das empfangende Gerät hat.
+
+3. **Welche Nutzdaten enthalten sind**: Nutzdaten sind die Informationen, die jemand senden möchte, wie z.B. eine Nachricht oder eine Datei.
+
+Zusammengefasst bedeutet es, dass man das Paket auseinandernehmen kann, um zu verstehen, was genau darin enthalten ist und wie die Kommunikation zwischen den Geräten funktioniert.

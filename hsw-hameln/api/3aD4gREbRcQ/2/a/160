@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es zwei Hauptarten von Protokollen gibt, die dafür sorgen, dass Daten im Internet übertragen werden: TCP und UDP. Diese Protokolle sind wichtig, weil sie bestimmen, wie die Daten gesendet werden.
+
+In diesem speziellen Beispiel geht es darum, wie E-Mails (also Nachrichten) verschickt werden. Hier wird das TCP-Protokoll verwendet. Es ist zuverlässig und sorgt dafür, dass die Daten korrekt und in der richtigen Reihenfolge ankommen.
+
+Für den Versand von E-Mails gibt es bestimmte „Türen“ oder „ports“, die man sich wie Eingänge vorstellen kann, über die die Daten gehen. Für das Senden von E-Mails mit dem SMTP-Protokoll nutzt man die Tür Nummer 25. Für das Empfangen von E-Mails mit dem POP3-Protokoll geht man durch die Tür Nummer 110.
+
+Also, alles zusammengefasst: Wenn man im Internet etwas sendet oder empfängt, wie zum Beispiel eine E-Mail, dann verwendet man bestimmte Protokolle (TCP oder UDP) und diese Protokolle nutzen bestimmte Internet-Türen (Ports).

@@ -1,0 +1,12 @@
+In dieser Erklärung geht es darum, wie verschiedene Daten über ein einziges Kommunikationsmedium, wie ein Kabel oder eine Funkverbindung, geschickt werden können. 
+
+Stell dir vor, dass mehrere Personen (Kommunikationsteilnehmer) miteinander sprechen wollen, aber nur ein Telefonleitung zur Verfügung steht. Wenn eine Person gerade telefoniert, können die anderen nicht gleichzeitig reden. Das ist wie in dem Bild, wo nur zwei Leute miteinander sprechen können, während die anderen warten müssen.
+
+Um das Problem zu lösen, gibt es Techniken, die das ermöglichen, und sie heißen „Multiplexing“. Damit können alle Leute gleichzeitig reden, auch wenn es nur eine Leitung gibt. 
+
+Es gibt verschiedene Arten von Multiplexing:
+1. **Frequenz-Multiplexing**: Hierbei werden verschiedene Nachrichten auf unterschiedlichen Frequenzen geschickt. Das funktioniert am besten mit Kupferkabeln.
+2. **Wellenlängen-Multiplexing**: Das geschieht mit Lichtwellenleitern, die Signale über Lichtwellen übertragen.
+3. **Code-Multiplexing**: Diese Technik wird genutzt, wenn die Daten durch die Luft oder über Funkverbindungen gesendet werden.
+
+So können alle Kommunikationspartner gleichzeitig Informationen austauschen, ohne dass sie sich gegenseitig stören.

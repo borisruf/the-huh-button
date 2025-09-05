@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir in der Welt der Datenübertragung bald sehen werden, wie Informationen transportiert werden. Es gibt verschiedene Wege, Daten zu verschicken, und einer davon ist das UDP-Protokoll. 
+
+UDP ist wie ein schneller Postbote. Er bringt die Pakete schnell zum Ziel, denkt aber nicht darüber nach, ob alles gut angekommen ist oder ob etwas verloren gegangen ist. Das ist egal, Hauptsache, es geht schnell. Also, wenn man zum Beispiel ein Video live streamt, kann es sein, dass ein paar Bilder nicht ganz so klar sind oder fehlen – das stört nicht so sehr, solange die Übertragung schnell bleibt. 
+
+Zusammengefasst: Das UDP-Protokoll kümmert sich nicht um Fehler, sondern darum, die Daten schnell zu senden.

@@ -1,0 +1,11 @@
+Die Aussage beschreibt, wie Geräte in einem Netzwerk miteinander kommunizieren, besonders in einem Ethernet-Netzwerk, das 40 Jahre alt ist. Hier ist die einfache Erklärung:
+
+1. **Gemeinsames Medium**: In einem Netzwerk gibt es einen gemeinsamen Platz, den alle Geräte nutzen, um sich miteinander zu verbinden. Du kannst es dir wie eine große Wiese vorstellen, auf der mehrere Leute stehen und reden wollen.
+
+2. **Abhorchen (Carrier Sense)**: Bevor ein Gerät (zum Beispiel Gerät 1 oder Gerät 3) anfängt zu sprechen, hört es zuerst zu, um sicherzustellen, dass kein anderes Gerät gerade spricht. Es ist wie wenn du auf die Wiese schaust, um zu sehen, ob jemand anderes gerade redet, bevor du auch anfängst zu sprechen.
+
+3. **Zugriff (Multiple Access)**: Wenn die Geräte feststellen, dass die Wiese (das Medium) frei ist, dürfen sie gleichzeitig sprechen. Also beginnen Gerät 1 und Gerät 3 zu reden, wenn sie sicher sind, dass niemand sonst gerade spricht.
+
+4. **Was passiert dann?**: Wenn beide Geräte gleichzeitig anfangen zu senden, müssen sie darauf achten, dass es nicht zu Störungen kommt. Es gibt Regeln, wie die Geräte ihre Gespräche koordinieren können, damit alle hören können, was gesagt wird, ohne dass das Gespräch durcheinander gerät.
+
+Zusammengefasst: Die Geräte hören zuerst, gehen dann gleichzeitig auf "Senden" und müssen dabei sicherstellen, dass sie sich nicht gegenseitig stören.

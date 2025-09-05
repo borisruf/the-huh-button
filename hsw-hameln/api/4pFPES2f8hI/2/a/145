@@ -1,0 +1,5 @@
+Die Subnetzmaske hilft uns, ein großes Netzwerk in kleinere Teile, die wir Subnetze nennen, zu teilen. Das ist wichtig, weil wir bei der Nutzung von IP-Adressen, die eine Art Identifikation für Geräte im Netzwerk sind, Probleme haben. Es gibt nicht genug IP-Adressen, weil früher viele Adressen vergeben wurden, ohne gut darüber nachzudenken.
+
+Wenn wir Subnetze bilden, ändern wir die Subnetzmaske. Die ursprüngliche Subnetzmaske ist so vordefiniert für bestimmte Netzwerktypen, aber wenn wir die Subnetze aufteilen, stellen wir die Subnetzmaske um. Dadurch können wir effizienter mit den IP-Adressen arbeiten und mehr Geräte in einem Netzwerk unterbringen. 
+
+Zusammengefasst: Durch das Bilden von Subnetzen verändern wir, wie wir Netzwerke einteilen, damit wir die vorhandenen IP-Adressen besser nutzen können.

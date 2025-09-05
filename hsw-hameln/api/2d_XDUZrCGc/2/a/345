@@ -1,0 +1,7 @@
+Okay, lass uns das einfach erklären.
+
+Stell dir vor, in deinem Zuhause gibt es viele Computer, Tablets und Handys. Alle diese Geräte haben ihre eigenen „Hausnummern“, die wir IP-Adressen nennen. Aber wenn diese Geräte nach draußen ins Internet gehen, brauchen sie eine große „Hausnummer“, die man öffentliche IP-Adresse nennt. 
+
+Die große „Hausnummer“ gehört deinem Internet-Router, also dem Gerät, das dir den Internetzugang ermöglicht. Der Router ist wie ein Tor, das dein Zuhause mit dem Internet verbindet. Auch wenn viele Geräte in deinem Zuhause sind, sieht das Internet nur die große „Hausnummer“ des Routers. Das bedeutet, wenn dein Computer im Internet nach etwas sucht, zeigt er dem Internet nur die große Nummer des Routers und nicht die eigene kleine Nummer. 
+
+So sieht das Internet also nur eine einzige große Nummer für alle deine Geräte, anstatt viele kleine Nummern. Das macht es einfacher und hilft, die IP-Adressen besser zu verwalten.

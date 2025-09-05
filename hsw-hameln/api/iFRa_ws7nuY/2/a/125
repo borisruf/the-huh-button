@@ -1,0 +1,5 @@
+Wir können uns ein Signal vorstellen, wie eine Welle, die sich bewegt. Um diese Welle zu benutzen, schauen wir sie uns an einem bestimmten Ort an und messen sie zu bestimmten Zeiten. Das nennt man "zeitdiskrete Abtastung", weil wir die Welle in regelmäßigen Abständen beobachten.
+
+Jetzt machen wir es so: Wir schauen nicht nur, was die Welle zu bestimmten Zeiten macht, sondern wir messen auch, wie hoch die Welle an diesem Ort ist. Das nennt man "wertdiskrete Abtastung". Das bedeutet, dass wir an einem Ort und zu einer bestimmten Zeit die Werte der Welle aufschreiben. 
+
+Zusammengefasst: Wir schauen uns ein Signal an, messen es an einem Ort und zu bestimmten Zeiten, und nehmen die Werte auf. So können wir die Informationen von der Welle nutzen.

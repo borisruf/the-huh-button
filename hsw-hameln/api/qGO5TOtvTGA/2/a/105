@@ -1,0 +1,9 @@
+In dieser Erklärung geht es darum, wie Daten in einem Netzwerk von einem Ort zu einem anderen gelangen. Um das zu ermöglichen, verwenden Computer spezielle Regeln oder "Protokolle", die helfen, den besten Weg für die Daten zu finden. 
+
+Es gibt zwei Hauptarten von Protokollen: 
+
+1. **Distance-Vector-Protokolle**: Diese sind gut für kleinere Netzwerke. Ein Beispiel dafür ist RIP (Routing-Information-Protokoll). Diese Protokolle schauen, wie viele "Hops" (Zwischenstationen) es zum Ziel gibt und wählen den Weg mit den wenigsten Hops.
+
+2. **Link-State-Protokolle**: Diese sind eine andere Art von Protokoll, das auf eine andere Weise arbeitet. Es kann nützlich sein, wenn das Netzwerk größer oder komplizierter ist.
+
+Zusammengefasst: Protokolle helfen Routern herauszufinden, wie sie Daten am besten von einem Punkt A zu einem Punkt B schicken können. Es gibt einfache und komplexere Lösungen, je nachdem, wie groß oder kompliziert das Netzwerk ist.

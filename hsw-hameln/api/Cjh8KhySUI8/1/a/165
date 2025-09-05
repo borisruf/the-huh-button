@@ -1,0 +1,5 @@
+Die Aussage „Sowas wie Flusskontrolle auch bei TCP vorhanden, bei UDP nicht“ beschreibt einen fundamentalen Unterschied zwischen den beiden Transportprotokollen TCP (Transmission Control Protocol) und UDP (User Datagram Protocol). 
+
+Flusskontrolle ist ein Mechanismus, der sicherstellt, dass der Sender Daten nur so schnell überträgt, wie der Empfänger diese verarbeiten kann. TCP implementiert Flusskontrolle, indem es die Übertragungsrate anpasst, um Überlastungen und Datenverlust zu vermeiden, was die Zuverlässigkeit der Verbindung erhöht.
+
+Im Gegensatz dazu bietet UDP keine Flusskontrolle. Es sendet Datenpakete ohne Überwachungsmechanismen, was bedeutet, dass der Sender Daten unabhängig von der Empfangsbereitschaft des Empfängers senden kann. Dies führt zu einer schnelleren Datenübertragung, eignet sich jedoch nicht für Anwendungen, bei denen die Zuverlässigkeit und korrekte Reihenfolge der Daten wichtig sind, wie zum Beispiel bei Echtzeitanwendungen.

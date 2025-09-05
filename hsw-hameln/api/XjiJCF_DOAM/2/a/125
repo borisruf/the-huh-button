@@ -1,0 +1,5 @@
+In der Welt des Internets gibt es viele Geräte, die miteinander kommunizieren, wie Computer, Smartphones oder Drucker. Jedes dieser Geräte hat eine IP-Adresse, die wie eine Hausnummer ist. So weiß das Internet, wo es die Informationen hinschicken soll.
+
+Es gibt zwei besondere Arten von Protokollen, die wir schon besprochen haben: ICMP und ARP. Diese helfen den Geräten dabei, miteinander zu reden und ihre Adressen zu finden. 
+
+Wir werden uns gleich ein Beispiel anschauen, um besser zu verstehen, wie diese Dinge funktionieren. IP-Adressen sind wichtig, damit jedes Gerät eindeutig identifiziert werden kann, und sie spielen eine Rolle in einem größeren System, das dafür sorgt, dass Daten an den richtigen Ort gelangen.

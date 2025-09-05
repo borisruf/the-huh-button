@@ -1,0 +1,5 @@
+In dieser Erklärung geht es darum, wie Daten in einem Netzwerk von einem Punkt A zu einem Punkt B geschickt werden. Man kann das mit einem großen Verkehrsnetz vergleichen. Wenn man statische Routen hat, hat man feste Straßen, die man selbst eingerichtet hat. 
+
+Das Problem ist: Manchmal sieht man die Straßen (also die Verbindungen im Netzwerk) nicht gut, weil man nicht weiß, was hinter den nächsten Kurven passiert. Vielleicht ist eine Straße blockiert oder es gibt neue Straßen, die man nicht kennt. Wenn man nicht weiß, was da passiert, kann es schwierig sein, die besten Wege für die Daten zu finden. 
+
+Das bedeutet, dass es besser ist, dynamische Routen zu verwenden. Das sind Routen, die sich automatisch anpassen und neue Informationen über die besten Wege sammeln können, anstatt nur die alten, festgelegten Wege zu benutzen.

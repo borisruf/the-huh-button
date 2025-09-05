@@ -1,0 +1,5 @@
+In der letzten Sitzung haben wir über Netzwerke gesprochen und auch über etwas, das „virtuelle LANs“ oder VLANs genannt wird. VLANs sind wie kleine, spezielle Bereiche innerhalb eines großen Netzwerks. Sie helfen dabei, den Datenverkehr zu organisieren.
+
+Die Aussage bedeutet, dass, wenn wir über VLANs sprechen, die gleichen Regeln und Konzepte wie bei echten, physikalischen Netzwerken gelten. Das heißt, egal ob es ein echtes Netzwerk ist oder ein virtuelles LAN, die Art und Weise, wie wir die Netzwerke verbinden und verwalten, bleibt gleich. 
+
+Kurz gesagt: VLANs und echte Netzwerke folgen den gleichen Prinzipien, wenn es darum geht, wie Daten von einem Punkt zum anderen gelangen.

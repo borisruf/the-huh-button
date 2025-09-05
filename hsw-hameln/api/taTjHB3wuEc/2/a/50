@@ -1,0 +1,5 @@
+Die Aussage beschreibt, wie zwei Computer oder Geräte miteinander kommunizieren. 
+
+Stell dir vor, ein Gerät (der Sender) kann ganz schnell viele Nachrichten senden. Das andere Gerät (der Empfänger) kann jedoch nicht so schnell alle Nachrichten empfangen. 
+
+Um sicherzustellen, dass der Empfänger nicht überfordert wird, gibt es eine Art "Regel" oder "Verfahren" – das nennt man Flusssteuerung. Diese Regel hilft den beiden Geräten, ihren Austausch zu koordinieren, so dass der Sender nicht zu schnell sendet und der Empfänger mitkommt. Auf diese Weise können sie gut zusammenarbeiten.

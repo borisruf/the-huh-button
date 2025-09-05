@@ -1,0 +1,1 @@
+ Der ARP-Speicher ist ein flüchtiger Speicher, der nach einer bestimmten Zeit wieder geleert wird, also es werden bestimmte Einträge nach einer bestimmten Zeit wieder entfernt, weil sich diese IP -MAC-Adress-Zuordnung natürlich auch im Laufe der Zeit ändern kann.   Wofür brauchen wir aber überhaupt zwei Adressen?

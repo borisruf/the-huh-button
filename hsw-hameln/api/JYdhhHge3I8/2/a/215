@@ -1,0 +1,7 @@
+In diesem Text geht es darum, wie Daten in Netzwerken übertragen werden. Hier wird eine Situation beschrieben, in der zwei Gruppen (A und B) gleichzeitig Daten senden möchten. Aber das Problem ist, dass die Leitungen (also die Wege für die Daten) belegt sind – das heißt, sie sind schon von jemand anderem benutzt. 
+
+So einfach erklärt: 
+
+Stell dir vor, es gibt zwei Telefonanrufe. Wenn A mit jemandem spricht, kann B nicht gleichzeitig anrufen, weil die Leitung besetzt ist. B muss also warten, bis A fertig ist, bevor er seinen Anruf tätigen kann. 
+
+Die Aussage bedeutet also: Wenn schon jemand eine Verbindung nutzt, können andere nicht auch gleichzeitig darauf zugreifen. Sie müssen warten, bis die Verbindung wieder frei ist.

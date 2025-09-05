@@ -1,1 +1,1 @@
- Wir erinnern uns, im IP-Header finden wir sowohl die Sender- als auch die Quell -IP-Adresse mit jeweils 32-Bit-Länge.  Wie aber genau setzen sich diese 32-Bit eigentlich zusammen?
+Ja, nachdem wir uns jetzt schon mit den Aufgaben von IP-Adressen und der Einteilung von IP-Adressen beschäftigt haben, schauen wir uns jetzt nochmal genauer den Aufbau von IP-Adressen an.  Wir erinnern uns, im IP-Header finden wir sowohl die Sender- als auch die Quell-IP-Adresse mit jeweils 32-Bit-Länge, wie aber genau setzen sich diese 32 -Bit eigentlich zusammen?

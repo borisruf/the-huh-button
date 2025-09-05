@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn wir ein Signal senden und das so gut wie möglich ohne Störungen machen, kann es trotzdem beim Empfänger Probleme geben. Das Signal wird auf dem Weg schwächer, also wir nennen das „gedämpft“. Außerdem kann es auch „verrauscht“ sein, was bedeutet, dass es zusätzliche unerwünschte Geräusche oder Veränderungen gibt. Dieses Rauschen ist nicht willkürlich, sondern folgt einem bestimmten Muster, das wir „statistisch“ nennen. Es ist also nicht einfach nur zufällig, sondern hat eine gewisse Verteilung.
+
+Im allgemeinen Zusammenhang geht es darum, dass beim Übertragen von Informationen viele Störungen auftreten können. Wir müssen uns mit diesen Störungen, wie Gedämpftheit des Signals und Rauschen, beschäftigen, um sicherzustellen, dass die Informationen richtig und klar ankommen.

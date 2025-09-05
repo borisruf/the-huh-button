@@ -1,3 +1,9 @@
-In diesem Text geht es um Netzwerke und wie sie funktionieren. TCP und IP sind zwei wichtige "Regeln", wie Computer miteinander sprechen. IP ist wie die Adresse eines Computers im Netzwerk. Aber IP allein sorgt nur dafür, dass die Daten verschickt werden. Um sicherzustellen, dass diese Daten auch korrekt ankommen, brauchen wir TCP. Das ist wie ein Kurier, der die Daten sicher von A nach B bringt.
+In diesem Text geht es darum, wie Computer in Netzwerken miteinander kommunizieren. Eine wichtige Sache, die erwähnt wird, sind Protokolle, die Regeln sind, wie die Daten von einem Computer zum anderen geschickt werden. 
 
-Es gibt auch noch andere wichtige "Regeln". Eine davon ist ICMP. Das ist wie ein Rettungsteam, das eingesetzt wird, wenn Probleme auftauchen. PING ist ein bekanntes Beispiel dafür. Eine andere Regel ist ARP. Die hilft uns dabei, die MAC-Adresse (die einzigartige Nummer eines Computers) einer IP-Adresse zuzuordnen. Und dann gibt es noch Regeln für das Routing. Das sind wie Wegweiser, die den Daten sagen, wo sie hinmüssen.
+Ein Beispiel für ein bekanntes Protokoll ist das ECHO-Protokoll, das oft als PING bezeichnet wird. Mit diesem Protokoll kann man testen, ob ein Computer erreichbar ist. 
+
+Hier wird auch das ARP-Protokoll erwähnt, das hilft, die Adresse eines Computers, die man MAC-Adresse nennt, mit seiner IP-Adresse zu verbinden. Die MAC-Adresse ist wie eine Hausnummer für den Computer, und die IP-Adresse ist wie die Adresse des Hauses. 
+
+Außerdem gibt es "Routing-Protokolle", die den Computern helfen herauszufinden, wie sie die Daten am besten von einem Punkt zum anderen in einem Netzwerk weiterleiten können. 
+
+Zusammengefasst: Es gibt verschiedene Regeln (Protokolle), die dafür sorgen, dass Computer miteinander kommunizieren können, und einige wichtige Protokolle helfen dabei, Adressen zu verbinden und den besten Weg für die Daten zu finden.

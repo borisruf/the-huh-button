@@ -1,0 +1,7 @@
+Die Aussage besagt Folgendes in sehr einfacher Sprache:
+
+Wenn wir ein großes Netzwerk in kleinere Teile aufteilen, schauen wir uns an, wie viele "0" (Nullen) wir in einer speziellen Zahlenreihe haben, die auch Subnetzmaske genannt wird. Diese Nullen sind wichtig, weil sie uns sagen, wie viele Computer oder Geräte wir in diesen kleinen Netzen erreichen können.
+
+In unserem Beispiel haben wir drei Nullen in Einsen verwandelt. Das bedeutet, wir haben jetzt noch fünf Nullen übrig. Um herauszufinden, wie viele Geräte wir jetzt in jedem kleinen Netz haben können, rechnen wir 2 hoch 5. Das heißt, wir nehmen die Zahl 2 und multiplizieren sie fünfmal mit sich selbst. Das Ergebnis ist 32. Das bedeutet, jedes dieser kleinen Netze kann 32 Adressen für Geräte haben. 
+
+Zusammengefasst: Die Anzahl der Nullen hilft uns zu verstehen, wie viele Geräte wir in einem kleinen Netzwerk haben können.

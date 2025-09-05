@@ -1,0 +1,5 @@
+Die Aussage besagt, dass wir ein Problem mit IP-Adressen haben. Besonders bei der Version 4 von IP werden die Adressen immer weniger. Das bedeutet, es gibt nicht genug Adressen für alle Geräte, die wir mit dem Internet verbinden wollen, wie zum Beispiel Computer und Handys.
+
+Um dieses Problem zu lösen, müssen wir neue Methoden finden, um mit der knappen Anzahl von Adressen umzugehen. Eine dieser Methoden ist die Bildung von Subnetzen. Dabei teilen wir ein großes Netzwerk in kleinere Teile, sodass wir die vorhandenen Adressen besser nutzen können.
+
+Die Subnetzmaske hilft uns dabei, diese kleinen Teile oder Subnetze zu schaffen. Mit dieser Technik können wir mehr Geräte in einem Netzwerk verbinden, ohne dass wir neue Adressen brauchen.

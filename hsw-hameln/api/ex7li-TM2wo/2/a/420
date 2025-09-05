@@ -1,0 +1,5 @@
+Die Aussage "Und das ist dann im einfachsten Fall das Stop-and-Wait-Verfahren" bedeutet Folgendes:
+
+Wenn zwei Computer Daten miteinander austauschen, ist es wichtig, dass der Empfänger dem Sender sagt, dass er die Daten erhalten hat. Im einfachsten Fall macht der Sender folgendes: Er wartet, nachdem er die Daten geschickt hat, bis der Empfänger ihm sagt, dass er die Daten bekommen hat. Erst dann schickt der Sender die nächsten Daten. 
+
+Das nennt man das Stop-and-Wait-Verfahren, weil der Sender zuerst "stoppt" und wartet, bevor er weitermacht. In dem nächsten Teil wird erklärt, wie man solche Datenübertragungen noch besser managen kann.

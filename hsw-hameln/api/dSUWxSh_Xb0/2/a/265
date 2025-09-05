@@ -1,0 +1,9 @@
+Okay, ich werde das einfacher erklären.
+
+Stell dir vor, es gibt mehrere Personen, die miteinander sprechen wollen, aber sie haben nur ein Mikrofon. Sie müssen sich abwechseln, um zu reden. Das nennt man Multiplexing – mehrere Leute benutzen einen Kanal, in diesem Fall das Mikrofon.
+
+**Synchrones Zeit-Multiplexing:** Hier ist es so, dass jeder genau weiß, wann er sprechen kann. Sie wechseln sich immer gleichmäßig ab, wie beim Spiel: "Jetzt bist du dran, jetzt bin ich dran." Zum Beispiel, Person A spricht, dann Person B, dann Person C und wieder von vorne. So weiß jeder, wann seine Zeit zum Reden ist.
+
+Das hilft, damit alle klar und deutlich miteinander sprechen können, auch wenn nur ein Mikrofon zur Verfügung steht. 
+
+So wird sichergestellt, dass alle kommunizieren können, ohne sich gegenseitig zu stören.

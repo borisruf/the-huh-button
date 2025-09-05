@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie man ein Netzwerk plant und dabei bestimmte Anwendungen und deren Anforderungen berücksichtigt. Hier ist die Erklärung in sehr einfacher Sprache:
+
+Im OSI-Modell gibt es verschiedene Schichten, die sich mit der Kommunikation in einem Netzwerk beschäftigen. Die oberen drei Schichten (5 bis 7) sind besonders wichtig, weil sie sich um die Anwendungen kümmern, also die Programme, die im Netzwerk genutzt werden sollen. Bevor wir ein Netzwerk aufbauen, müssen wir uns fragen: Was für Anwendungen braucht der Kunde? Was möchte er genau? 
+
+Wenn wir das wissen, können wir planen, wie das Netzwerk sein sollte. Es gibt zum Beispiel Anwendungen, die besonders schnell reagieren müssen, wie beim Telefonieren über das Internet (Voice-over-IP). Für solche Anwendungen dürfen wir keine großen Verzögerungen haben, weil das die Qualität beeinflussen kann. Außerdem kann es Orte geben, wie in einer Fabrik, wo viele Störungen auftreten können. Auch das müssen wir bedenken, wenn wir das Netzwerk planen.
+
+Zusammengefasst: Bevor wir ein Netzwerk aufbauen, müssen wir verstehen, welche Programme wichtig sind und welche speziellen Anforderungen sie haben. Das hilft uns, ein gut funktionierendes Netzwerk zu erstellen.

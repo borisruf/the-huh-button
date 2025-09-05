@@ -1,0 +1,5 @@
+Die Aussage bedeutet: Wenn wir Daten über das Internet senden, können diese Daten in kleine Pakete aufgeteilt werden. Manchmal sind diese Pakete für Sprache, also Telefonate. Wir können erkennen, dass ein Paket für ein Gespräch ist, und wir fügen ein besonderes Zeichen (Tag) hinzu, damit die Geräte im Netzwerk wissen, dass es sich um ein Sprachpaket handelt. Diese Geräte können dann sicherstellen, dass diese Sprachpakete schneller behandelt werden als andere Datenpakete, die vielleicht nicht so wichtig sind. 
+
+Es ist ein bisschen komplizierter, weil man mehr Dinge verwalten muss, aber es gibt auch einfachere Wege, um sicherzustellen, dass die Sprache schnell und gut ankommt. 
+
+Kurz gesagt: Wir markieren Sprachpakete, damit sie schneller durch das Netz geschickt werden, um gute Telefonate zu ermöglichen.

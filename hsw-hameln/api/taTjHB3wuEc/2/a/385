@@ -1,0 +1,11 @@
+Wenn wir darüber sprechen, wie Daten von einem Sender zu einem Empfänger geschickt werden, gibt es wichtige Punkte, die wir beachten müssen. 
+
+1. **Pakete senden und bestätigen**: Der Sender schickt Pakete mit Informationen. Der Empfänger sagt dem Sender dann, dass er die Pakete erhalten hat. Das nennt man Bestätigung. Wenn ein Paket verloren geht, kann der Sender es erneut schicken.
+
+2. **Unterschiede in der Geschwindigkeit**: Manchmal sendet der Sender die Daten schneller, als der Empfänger sie verarbeiten kann. Hier kommt die Flusssteuerung ins Spiel. Diese sorgt dafür, dass der Sender und der Empfänger gut zusammenarbeiten. Der Sender wartet, bis der Empfänger bereit ist, mehr Daten zu empfangen.
+
+3. **Fenstersteuerung**: Sender und Empfänger einigen sich darauf, wie viele Daten sie gleichzeitig schicken können, ohne eine Bestätigung zu bekommen. Das nennt man „Fenstergröße“. Wenn der Empfänger mehr Daten verarbeiten kann, kann die Fenstergröße größer sein.
+
+4. **Anpassung der Fenstergröße**: Während der Kommunikation kann es nötig sein, die Fenstergröße zu ändern. Wenn der Empfänger zum Beispiel überlastet ist, sagt er dem Sender, dass er weniger Daten gleichzeitig schicken soll.
+
+Zusammengefasst: Es ist wichtig, dass Sender und Empfänger gut miteinander kommunizieren, damit die Daten schnell und richtig ankommen. Manchmal muss der Sender auf den Empfänger warten oder bestimmte Pakete erneut senden, wenn etwas verloren geht.

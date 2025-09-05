@@ -1,0 +1,9 @@
+Diese Aussage erklärt, dass es zwei Arten von IP-Adressen gibt: private und öffentliche. IP-Adressen helfen Computern, sich im Internet zu finden. 
+
+1. **Öffentliche IP-Adressen**: Diese Adressen sind einzigartig und werden im gesamten Internet verwendet. Jeder Computer, der mit dem Internet verbunden ist, braucht eine öffentliche IP-Adresse.
+
+2. **Private IP-Adressen**: Diese Adressen sind nicht einzigartig und können von jedem frei verwendet werden. Man kann sie in einem geschlossenen Netzwerk, wie zum Beispiel zu Hause oder im Büro, nutzen. 
+
+Der Grund, warum private IP-Adressen erfunden wurden, ist folgendes: Es gibt nicht unendlich viele öffentliche IP-Adressen. Deshalb möchte man vermeiden, dass viele Adressen verschwendet werden. Private IP-Adressen helfen, die begrenzte Anzahl an öffentlichen Adressen zu sparen. So kann jeder in seinem eigenen Netzwerk private Adressen benutzen, ohne dass es zu vielen öffentlichen Adressen kommt, die nicht gebraucht werden. 
+
+Kurz gesagt: Private IP-Adressen helfen, IP-Adressen zu sparen, während öffentliche IP-Adressen dafür sorgen, dass Computer weltweit miteinander kommunizieren können.

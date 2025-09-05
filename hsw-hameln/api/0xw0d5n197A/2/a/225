@@ -1,0 +1,3 @@
+Das bedeutet, dass man alle Daten, die ins Internet gehen oder von dort kommen, genau anschauen muss. Man sucht nach bestimmten Mustern in den Daten, um zu erkennen, ob sie sicher oder gefährlich sind. Wenn man sieht, dass etwas Gefährliches dabei ist, blockiert man es.
+
+Ein Beispiel: Normalerweise erlaubt man, dass Leute mit dem Internet über eine bestimmte Regel (Port 80) arbeiten können. Aber es gibt auch Programme wie Skype, die sich verstecken und ebenfalls diese Regel benutzen können. Wenn man nicht möchte, dass Skype in seinem Netzwerk genutzt wird, muss man die Daten von den Internet-Nutzern genau überprüfen. So kann man sicherstellen, dass nur die gewünschten Seiten besucht werden und nicht unerwünschte Programme wie Skype.

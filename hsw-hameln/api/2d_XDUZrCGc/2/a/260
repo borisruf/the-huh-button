@@ -1,0 +1,5 @@
+In der Tabelle sehen wir verschiedene Gruppen von IP-Adressen. Einige dieser Adressen sind privat, das heißt, sie werden nur in kleinen Netzwerken, wie zum Beispiel in deinem Zuhause oder in einer Firma verwendet. 
+
+Wichtig ist, dass private IP-Adressen nicht im Internet verwendet werden. Das bedeutet, es gibt diese Adressen nicht im großen Internet. Sie werden nur für lokale Netzwerke genutzt, damit viele Geräte ohne Probleme miteinander kommunizieren können. 
+
+Das hilft, weil dann nicht jede Adresse im Internet einzigartig sein muss. Private Adressen können von vielen verschiedenen Netzwerken genutzt werden, aber die Router sorgen dafür, dass diese Netzwerke nicht durcheinander geraten. So kann jeder im eigenen Netzwerk verschiedene Geräte verbinden, ohne dass es Konflikte gibt.

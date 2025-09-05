@@ -1,0 +1,11 @@
+Okay, lass es mich einfach erklären:
+
+Die Aussage bedeutet, dass es einen Computer gibt, der im Netzwerk nach anderen Computern sucht. Er will wissen, wer im Netzwerk ist und welche Adresse dieser Computer hat. Es gibt zwei Arten von Adressen: die IP-Adresse, die wie eine Telefonnummer für den Computer ist, und die MAC-Adresse, die eine Art persönlicher Ausweis für den Computer ist.
+
+Im Text wird darüber gesprochen, wie verschiedene Netzwerke verbunden werden. Wenn ein Computer Hilfe braucht, um mit anderen Computern zu reden, benutzt er Geräte wie Hubs, Switches und Router. 
+
+- **Hubs** sind einfache Geräte, die Signale weiterleiten können, aber sie wissen nicht, wo die Informationen hingehen. Sie verbinden einfach alle Computer miteinander.
+- **Switches** sind ein bisschen schlauer. Sie merken sich, welcher Computer wo ist, und können die Informationen gezielt weiterleiten. Damit wird es weniger wahrscheinlich, dass sich die Informationen „stoßen“ (Kollisionen).
+- **Router** sind noch schlauer. Sie nutzen IP-Adressen, um verschiedene Netzwerke miteinander zu verbinden und helfen dabei, die Informationen an den richtigen Ort zu bringen.
+
+Wenn ein Computer einen Aufruf ins Netzwerk schickt, fragt er also: "Wer bist du, und wo ist deine Adresse?" Der Switch hilft dabei, die Informationen richtig zu senden, indem er weiß, wo jeder Computer ist.

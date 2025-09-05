@@ -1,0 +1,5 @@
+Die Aussage sagt, dass IP (Internet Protocol) und Routing-Protokolle beide auf der gleichen Ebene im Netzwerkmodell arbeiten, nämlich Schicht 3. Schicht 3 ist die Schicht, die sich mit dem Senden von Daten zwischen verschiedenen Netzwerken oder Geräten befasst.
+
+Wenn man von einem "gerouteten Protokoll" spricht, bedeutet das, dass IP für das Verteilen und Weiterleiten von Datenpaketen über Netzwerke zuständig ist, ähnlich wie die Routing-Protokolle. Diese helfen, den besten Weg zu finden, damit ein Datenpaket von einem Punkt (A) zu einem anderen Punkt (B) geschickt werden kann. 
+
+Zusammengefasst: IP hilft bei der Kommunikation zwischen Netzwerken, und die Routing-Protokolle helfen dabei, den besten Weg für diese Kommunikation zu finden. Beide arbeiten auf der gleichen "Schicht" im Netzwerk.

@@ -1,0 +1,13 @@
+Eine Subnetzmaske hilft uns, ein großes Netzwerk in kleinere Teile zu unterteilen, die man „Subnetze“ nennt. 
+
+Wenn wir eine IP-Adresse wie „192.168.10.0“ haben und die Subnetzmaske „Slash24“ (oder „255.255.255.0“) benutzen, bedeutet das Folgendes:
+
+1. **Was ist eine IP-Adresse?**: Das ist eine Art Adresse für Geräte im Netzwerk, damit sie miteinander kommunizieren können, ähnlich wie eine Hausadresse.
+
+2. **Subnetzmaske:**: Die Zahl „Slash24“ bedeutet, dass die ersten 24 Zahlen der IP-Adresse für das Netzwerk verwendet werden. Man kann sich das so vorstellen: Die ersten drei Teile (192.168.10) sind wie die Straße, auf der sich viele Häuser (Geräte) befinden. Der letzte Teil (die Zahl, die nicht gezeigt wird) hilft, jedes einzelne Haus (Gerät) zu identifizieren.
+
+3. **Die Notation „255.255.255.0“:** Diese Zahlen sind eine andere Art, die Subnetzmaske zu beschreiben. Sie sagen uns, dass es 256 mögliche Adressen im Subnetz gibt, von denen einige für spezielle Zwecke reserviert sind.
+
+4. **Warum machen wir das?**: Wir unterteilen große Netzwerke, damit es einfacher ist, sie zu verwalten. Es hilft, den Mangel an IP-Adressen zu lösen, da nicht jeder ein ganzes großes Netzwerk braucht, sondern nur einen kleinen Teil davon. 
+
+Durch das Bilden von Subnetzen können wir also die Netzwerke besser organisieren und die Adressen sinnvoller nutzen.

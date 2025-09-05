@@ -1,0 +1,7 @@
+Okay, hier ist die Erklärung in sehr einfacher Sprache:
+
+Stell dir vor, du schickst jemandem einen Brief und wartest darauf, dass er dir sagt, dass er den Brief bekommen hat. Wenn die Person dir nach einer bestimmten Zeit nicht antwortet, denkst du, dass etwas schief gelaufen ist. Vielleicht ist der Brief nicht angekommen, oder die Antwort hat die Person nicht geschickt.
+
+In der Technik ist es ähnlich. Wenn ein Computer Daten sendet, erwartet er eine Bestätigung (Quittierung), dass die Daten angekommen sind. Wenn er diese Bestätigung nicht nach einer bestimmten Zeit erhält, denkt der Computer: "Oh, etwas ist nicht richtig gelaufen." Dann schickt er die Daten einfach nochmal.
+
+Das nennt man "Timeout", weil der Computer eine bestimmte Zeit wartet und wenn nichts passiert, handelt er. So kann der Computer sicherstellen, dass die Daten irgendwie zu dem anderen Computer gelangen.

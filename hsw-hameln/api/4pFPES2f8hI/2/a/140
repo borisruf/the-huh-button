@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn wir Subnetze machen, ändern wir die Subnetzmaske. Das ist ein wichtiger Teil der Internetadresse. Die ursprüngliche Subnetzmaske ist festgelegt und gilt für bestimmte Klassen von Netzwerken, wie zum Beispiel Klasse A, B oder C. 
+
+Durch die Änderung der Subnetzmaske können wir die Adressen besser nutzen. Das hilft, weil es nicht genug Adressen für alle gibt. Wenn wir die Subnetzmaske anpassen, teilen wir ein großes Netzwerk in kleinere Teile auf. So können wir mehr Netzwerke schaffen und die wenigen Adressen besser verwenden. 
+
+Es ist also wichtig, die Subnetzmaske zu ändern, damit wir die Netzwerkressourcen effizienter nutzen können und mehr Kontrolle über die Netzwerke haben.

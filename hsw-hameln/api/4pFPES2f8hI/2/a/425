@@ -1,0 +1,19 @@
+Okay, lass uns das einfach erklären.
+
+Wir sprechen hier über Netzwerke im Internet, besonders über etwas, das "Subnetze" genannt wird. 
+
+1. **Subnetze**: Das sind kleine Teile von größeren Netzwerken. Man kann sich das wie kleine Zimmer in einem großen Haus vorstellen. Jedes Zimmer hat seine eigene Adresse, aber alle gehören zum selben Haus.
+
+2. **IP-Adressen**: Jeder Computer oder jedes Gerät im Internet hat eine einzigartige Adresse, die wir IP-Adresse nennen. Diese hilft den Geräten, sich gegenseitig zu finden.
+
+3. **Subnetzmaske**: Das ist eine spezielle Nummer, die sagt, wie viele dieser IP-Adressen zu einem bestimmten Netzwerk oder Subnetz gehören.
+
+4. **Die Idee hinter der Bildung von Subnetzen**: Es gibt immer weniger IP-Adressen, also müssen wir klüger damit umgehen. Anstatt vielen Geräten eine große Anzahl an IP-Adressen zu geben, teilen wir diese Adressen in kleinere Gruppen auf, damit mehr Leute Zugriff darauf haben.
+
+5. **Was müssen wir dafür tun?**: Um Subnetze zu bilden, nehmen wir einige der "Host-Bits" (diese sind wie die Adressen in einem bestimmten Raum, also die Nullen) und verwandeln sie in "Netz-Anteil-Bits" (diese sind die Teile, die sagen, welches Zimmer es ist, also machen wir sie zu Einsen). Das muss von der linken Seite zur rechten Seite lückenlos passieren – wie eine Reihe von Kästchen.
+
+6. **Wie viele Subnetze machen wir?**: Wenn wir mehr Bits in Netz-Anteil-Bits umwandeln, können wir mehr Subnetze erstellen. Zum Beispiel, wenn wir drei Bits umwandeln, können wir acht (2 hoch 3) neue Subnetze machen.
+
+7. **Nutzung der neuen Subnetze**: Die neuen Subnetze haben jeweils eine bestimmte Anzahl an IP-Adressen, aber wir können die erste und die letzte Adresse in jedem Subnetz nicht verwenden, weil sie spezielle Funktionen haben (wie die Adresse für das gesamte Netzwerk).
+
+Am Ende lernen wir in den Übungen, wie wir genau berechnen können, wie viele Subnetze wir haben und wie man diese bildet, indem wir die Adressen intelligent aufteilen.

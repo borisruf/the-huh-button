@@ -1,0 +1,5 @@
+In dem Text geht es um, wie wir Informationen über Netzwerke senden, besonders wenn viele Daten gleichzeitig geschickt werden müssen. Dabei gibt es verschiedene Methoden, um diese Daten zu übermitteln. 
+
+Die Aussage „Das haben wir jetzt in diesem Fall auch“ bedeutet, dass es auch hier, in diesem speziellen Beispiel, Vor- und Nachteile gibt – genau wie bei den vorher erläuterten Methoden. 
+
+Das Wichtigste, was wir als Benutzer vielleicht nicht direkt merken, sind die „Protokolle“. Protokolle sind Regeln oder Vorgaben, die festlegen, wie die Daten genau übertragen werden, damit alles richtig funktioniert. Auch wenn wir also nicht alles sehen oder verstehen, gibt es solche wichtigen Regeln, die im Hintergrund arbeiten.

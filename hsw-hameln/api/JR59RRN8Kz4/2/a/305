@@ -1,0 +1,9 @@
+In diesem Text geht es darum, wie man verschiedene Netzwerke, genannt VLANs, nutzen kann, um Telefonate über das Internet zu führen. 
+
+Stell dir vor, du hast drei Gruppen von Computern in einem Büro: eine Gruppe für den Vertrieb, eine für das Marketing und noch eine für die Chefs. Diese Gruppen sind durch VLANs getrennt, was bedeutet, dass sie in ihren eigenen Bereichen arbeiten können, ohne dass Informationen von einer Gruppe zur anderen einfach so fließen.
+
+Jetzt kommen die Telefone ins Spiel. Anstatt für die Telefone separate Leitungen zu verwenden, gibt es ein eigenes VLAN nur für diese Telefone. Das bedeutet, dass die Telefone und Computer über dasselbe Netzwerk, aber in unterschiedlichen Gruppen organisiert sind. 
+
+Das macht es einfacher, alle Geräte zu verwalten und sicherzustellen, dass die Telefonate gut klingen, weil sie in ihrer eigenen „Welt“ sind. Wenn also jemand im Büro telefoniert, wird sichergestellt, dass die Sprache schnell und ohne Unterbrechungen kommt, weil die Telefone eine eigene spezielle Gruppe haben.
+
+Zusammengefasst: Es gibt Gruppen für Computer und eine eigene Gruppe für Telefone, um alles gut zu organisieren und die Telefonate klar und störungsfrei zu halten.

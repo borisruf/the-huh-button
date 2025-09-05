@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass man bei den langen IP Version 6 Adressen mit vielen Nullen etwas einfacher arbeiten kann. Wenn in einer Adresse mehrere Blöcke Nullen hintereinander stehen, darf man diese Nullen durch ein besonderes Zeichen ersetzen, das wie zwei Doppelpunkte aussieht (::). 
+
+Das hilft, die Adresse kürzer und einfacher zu machen. Man kann das nur einmal in einer Adresse machen, damit es nicht zu Verwirrung kommt. 
+
+Das Beispiel zeigt, dass an einer Stelle in der langen Adresse viele Nullen stehen, und man all diese Nullen mit diesem speziellen Zeichen ersetzen kann. So sieht die Adresse dann viel übersichtlicher aus.

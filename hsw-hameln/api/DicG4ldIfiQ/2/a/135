@@ -1,0 +1,5 @@
+Dämpfung bedeutet, dass das Signal, das wir senden, schwächer wird, wenn es ankommt. Man kann sich das wie ein Flüstern vorstellen: Wenn du flüsterst, hört man dich nicht so laut, wie wenn du normal sprichst. 
+
+In diesem Fall wird das empfangene Signal (das, was ankommt) kleiner sein als das gesendete Signal (das, was du geschickt hast). Diese Schwächung hängt davon ab, aus welchem Material der Weg besteht, den das Signal zurücklegt. Jedes Material verhält sich anders; zum Beispiel kann ein Kupferkabel nur für kurze Strecken gut sein, während Lichtwellen in einem Glasfaser-Kabel über längere Strecken fließen können, ohne viel schwächer zu werden.
+
+Um sicherzustellen, dass wir Informationen ohne Störungen übertragen, müssen wir diese Dämpfung und andere Probleme, die im Material oder durch andere Störungen entstehen, beachten.

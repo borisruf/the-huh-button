@@ -1,3 +1,7 @@
-Ein Netzwerk hat Adressen für verschiedene Computer. Aber zwei dieser Adressen sind immer schon besetzt, sie liegen ganz am Anfang und ganz am Ende der Liste. Die erste Adresse ist die Adresse des ganzen Netzwerks und die letzte wird für Nachrichten an alle Computer im Netzwerk genutzt. Diese beiden Adressen können deshalb nicht für einzelne Computer genutzt werden. 
+Eine IP-Adresse ist wie eine Adresse für ein Haus, damit Computer wissen, wo sie hin schicken sollen. Diese Adresse hat zwei Teile: den Netzanteil, der zeigt, zu welchem Netzwerk das Haus gehört, und den Host-Anteil, der zeigt, welches spezielle Haus (oder Computer) in diesem Netzwerk ist.
 
-Eine IP-Adresse und eine Subnetzmaske gehören zusammen, sie bestimmen den Netzwerk- und den Computerteil einer Adresse. Jede Adresse gehört zu einer Klasse. Die Klasse bestimmt die Größe des Netzwerks und wie oft es vorkommen kann. Die Anzahl der frei verfügbaren Adressen wird durch die Nullen in der Subnetzmaske bestimmt.
+Die Subnetzmaske hilft uns, diese beiden Teile zu unterscheiden. Du kannst dir die Subnetzmaske wie eine Anleitung vorstellen, die sagt: „Hier beginnt der Netzanteil und hier beginnt der Host-Anteil.“ 
+
+In der Subnetzmaske gibt es Nullen und Einsen. Die Einsen zeigen den Teil an, der zum Netzwerk gehört, und die Nullen zeigen den Teil an, der zum einzelnen Computer gehört. Je mehr Nullen in der Subnetzmaske sind, desto mehr Computer können in diesem Netzwerk sein. 
+
+Also, wenn wir eine IP-Adresse und eine Subnetzmaske zusammen betrachten, zeigen die Nullen in der Subnetzmaske, wie viel Platz für Computer (Hosts) im Netzwerk ist. Das hilft uns zu wissen, wie viele Computer wir anschließen können und wo sie hin gehören.

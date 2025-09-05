@@ -1,0 +1,5 @@
+Die Aussage beschreibt, was passiert, wenn mehrere Geräte gleichzeitig versuchen, Daten über ein Netzwerk zu senden, und sie dabei aufeinanderstoßen. 
+
+Wenn zwei Geräte (zum Beispiel Computer) gleichzeitig senden, gibt es eine "Kollision". Das bedeutet, dass die Daten durcheinandergeraten. Um das zu lösen, hören die Geräte erst einmal auf und warten eine zufällige Zeit, die als "Back-off-Time" bezeichnet wird. Diese Wartezeit wird durch Zufall bestimmt, damit nicht immer die gleichen Geräte gleichzeitig wieder versuchen, zu senden. 
+
+Das ist wichtig, denn durch diese zufällige Wartezeit kann es zu Verzögerungen kommen. Das heißt, die Geräte sind nicht sofort synchron, und man weiß nicht genau, wann sie wieder senden können. Deshalb kann das Netzwerk nicht garantieren, dass die Daten immer sofort ankommen. Es ist also nicht sozusagen ein "Echtzeitsystem", wo alles sofort und genau passiert, weil diese Wartezeiten dazu führen, dass es immer etwas ungewiss ist.

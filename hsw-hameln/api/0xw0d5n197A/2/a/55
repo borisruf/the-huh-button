@@ -1,0 +1,13 @@
+Die Aussage beschreibt verschiedene Möglichkeiten, wie man Netzwerke sicher machen kann. Es gibt viele Arten von Sicherheitsmaßnahmen, und die Liste auf der Folie ist nicht vollständig. 
+
+Hier sind einige wichtige Begriffe einfach erklärt:
+
+- **Paketfilter**: Das ist wie ein Türsteher, der entscheidet, welche Informationen ins Netzwerk dürfen und welche nicht.
+- **Stateful Inspection**: Das ist eine klügere Art des Türstehers, der sich merkt, wer schon mal reingekommen ist und besser entscheiden kann, wer jetzt rein darf.
+- **VPN (Virtuelles Privates Netzwerk)**: Das ist eine sichere Verbindung, die es Benutzern ermöglicht, im Internet zu surfen, ohne dass andere sehen können, was sie machen.
+- **Anti-Viren-Maßnahmen**: Das sind Programme, die helfen, Computer vor schädlichen Programmen (Viren) zu schützen.
+- **Anti-Spam-Maßnahmen**: Diese Maßnahmen helfen, unerwünschte E-Mails (Spam) zu blockieren.
+
+Am Ende der Folie wird auch erwähnt, dass es wichtig ist, nicht nur technische Lösungen, sondern auch bauliche Maßnahmen zu haben, wie z.B. Sicherheitsräume oder Schlösser, um die Sicherheit zu erhöhen. 
+
+Insgesamt geht es darum, auf verschiedene Arten dafür zu sorgen, dass Netzwerke sicher bleiben.

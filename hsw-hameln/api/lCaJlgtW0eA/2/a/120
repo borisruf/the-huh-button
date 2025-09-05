@@ -1,0 +1,5 @@
+In einfachen Worten sagt diese Aussage, dass wir verschiedene Teile von Netzwerken miteinander verbinden können, um besser zu kommunizieren. Wenn wir das tun, verwenden wir spezielle Geräte wie Switches und Bridges. Diese Geräte sind schlauer als einfach nur Kabel; sie können Informationen darüber speichern, wo Daten hingehören.
+
+Stell dir ein Netzwerk wie ein großes Gebäude vor. Repeater und Hubs sind wie einfache Türsteher, die nur Menschen von einem Raum in einen anderen bringen, ohne zu wissen, wer das ist. Sie machen alles größer, aber das kann zu einem Durcheinander führen, weil viele Leute gleichzeitig durch die Tür gehen können.
+
+Switches und Bridges hingegen sind wie intelligente Türsteher, die wissen, wer wo hingehört. Sie schauen auf die MAC-Adresse, eine Art von Ausweis für Geräte, und entscheiden dann, wohin die Daten geschickt werden sollen. So können sie dafür sorgen, dass weniger Durcheinander entsteht und die Kommunikation schneller und effektiver läuft.

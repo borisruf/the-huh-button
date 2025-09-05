@@ -1,0 +1,3 @@
+Die Aussage sagt, dass wir in jedem kurzen Abschnitt des Signals eine Änderung haben. Wenn das Signal sich ändert, dann gibt es nicht viel stabilen Strom (Gleichstrom) – es wechselt ständig zwischen hoch und niedrig. Durch diese ständigen Änderungen im Signal können wir auch herausfinden, wann wir wieder anfangen müssen, Signale zu lesen, also wie wir den Takt zurückbekommen. Das hilft uns, die Informationen, die wir übertragen wollen, richtig zu verstehen. 
+
+Zusammengefasst: Wenn wir das Signal ständig wechseln lassen, ist es einfacher zu lesen und wir wissen, wo wir mit dem Lesen anfangen müssen.

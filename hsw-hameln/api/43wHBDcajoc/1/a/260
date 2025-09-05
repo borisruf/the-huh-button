@@ -1,0 +1,13 @@
+Es gibt verschiedene Möglichkeiten, ein WLAN (Wireless Local Area Network) aufzubauen, die sich nach den verwendeten Technologien und Standards richten. 
+
+1. **Funktechnologien**: WLANs nutzen meist den IEEE 802.11 Standard, der seit 1997 entwickelt wurde und unterschiedliche Varianten wie 802.11n umfasst, die theoretische Übertragungsraten von bis zu 600 Megabit pro Sekunde bieten. Hierbei kommen Techniken wie Frequency Hopping und Direct Sequence Spread Spectrum zum Einsatz, um die Störsicherheit zu erhöhen.
+
+2. **Entfernungsklassen**: WLANs können entsprechend ihrer Reichweite in Kategorien eingeteilt werden: 
+   - **Wireless Personal Area Network (WPAN)**, z. B. über Bluetooth, für kurze Distanzen bis zu etwa 10 Metern.
+   - **Wireless Local Area Network (WLAN)**, für lokale Netzwerke in Gebäuden oder Wohnungen.
+   - **Wireless Metropolitan Area Network (WMAN)**, wie WiMAX, für größere Entfernungen in städtischen Gebieten mit theoretischen Geschwindigkeiten von bis zu 1 Gigabit pro Sekunde.
+   - **Wireless Wide Area Network (WWAN)**, für mobile Netze mit verschiedenen Funkzellen, typischerweise basierend auf LTE-Technologie.
+
+3. **Reichweiten und Bandbreiten**: Die Reichweite und Geschwindigkeit eines WLANs hängen von der verwendeten Frequenz (z. B. 2,4 GHz oder 5 GHz) und den physikalischen Gegebenheiten wie Wanddicke und Objekten in der Nähe ab.
+
+Somit bieten sich viele Optionen für den Aufbau eines WLANs, abhängig vom spezifischen Anwendungsbedarf und der gewünschten Reichweite und Bandbreite.

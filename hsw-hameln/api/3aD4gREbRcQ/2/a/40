@@ -1,0 +1,7 @@
+In einem Netzwerk gibt es verschiedene Schichten, die dafür sorgen, dass Informationen richtig übertragen werden. Das OSI-Modell hat sieben Schichten. Die Schichten 5, 6 und 7 sind besonders wichtig für die Nutzung von Anwendungen.
+
+- Schicht 5 heißt Sitzungsschicht. Hier wird geregelt, wie eine Verbindung zwischen zwei Computern hergestellt und aufrechterhalten wird.
+- Schicht 6 heißt Darstellungsschicht. Diese Schicht kümmert sich darum, dass die Daten in einem passenden Format sind, damit die Computer sie verstehen können.
+- Schicht 7 heißt Anwendungsschicht. Das ist die Schicht, die direkt mit Programmen und Anwendungen arbeitet, die wir nutzen.
+
+Das TCP/IP-Modell hat weniger Schichten, aber die oberen Schichten (also die mit den Anwendungen) werden dort zusammen betrachtet, ähnlich wie beim OSI-Modell. Das bedeutet, dass die Sitzungs-, Darstellung- und Anwendungsschicht in beiden Modellen eine wichtige Rolle spielen.

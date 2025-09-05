@@ -1,0 +1,1 @@
+ Eine Fehlerbehebung haben wir bei UDP im Gegensatz zu TCP nicht und wir sehen auch schon, dass der Header unterschiedlich groß ist.  Das haben wir im vorherigen Schaubild gesehen.

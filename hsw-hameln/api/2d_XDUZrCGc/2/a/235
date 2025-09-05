@@ -1,0 +1,3 @@
+Die Aussage erklärt, warum es private IP-Adressen gibt. Früher haben große Firmen wie IBM viele IP-Adressen bekommen, viel mehr, als sie wirklich brauchten. Das war eine Art Verschwendung, weil man dann weniger IP-Adressen für andere Menschen hatte. Um dieses Problem zu lösen, hat man private IP-Adressen eingeführt. 
+
+Diese privaten IP-Adressen kann jeder in seinem eigenen Netzwerk, wie zum Beispiel zu Hause mit dem Router, nutzen, ohne dass man dafür extra eine spezielle Adresse beantragen muss. Es ist ein Bereich von IP-Adressen, die nur innerhalb kleiner Netzwerke verwendet werden können, um sicherzustellen, dass es genügend IP-Adressen für alle gibt.

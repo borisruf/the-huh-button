@@ -1,0 +1,7 @@
+In diesem Text geht es um Netzwerke, speziell um Ethernet, das eine wichtige Technologie ist, die schon seit 40 Jahren existiert. Ethernet erlaubt es, viele Geräte in einem Netzwerk miteinander zu verbinden, damit sie Informationen austauschen können.
+
+Die Hauptaussage, die du erklärt haben möchtest, ist folgendes: 
+
+In der Schicht 2 des ISO-OSI-Modells, die auch als Sicherungsschicht bezeichnet wird, gibt es zwei spezielle Bereiche oder untergeordnete Schichten. Das Schaubild zeigt, wie diese beiden Bereiche aussehen und wie sie zusammenarbeiten. Die Sicherungsschicht sorgt dafür, dass die Daten, die über das Netzwerk gesendet werden, richtig und zuverlässig ankommen.
+
+Das bedeutet einfach gesagt: Es gibt eine Schicht im Netzwerk, die sicherstellt, dass der Austausch von Informationen gut funktioniert. Und die Schicht ist in zwei Teile unterteilt, die jeweils ihre eigenen Aufgaben haben.

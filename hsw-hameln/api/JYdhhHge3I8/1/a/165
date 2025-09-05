@@ -1,0 +1,9 @@
+In dem gegebenen Kontext wird erklärt, dass es drei zentrale Vermittlungsarten gibt, durch die Daten in Netzwerken über Vermittlungskomponenten wie Switches oder Router übertragen werden. Diese Vermittlungsarten sind:
+
+1. **Leitungsvermittlung**: Eine direkte Punkt-zu-Punkt-Verbindung, bei der eine feste Leitung zwischen den Kommunikationspartnern hergestellt wird, ähnlich einem traditionellen Telefonanruf.
+
+2. **Speichervermittlung (Store-and-Forward)**: Hierbei werden Daten in Paketform gespeichert und in Blöcken weitergeleitet, vergleichbar mit der Post, die Pakete zwischen verschiedenen Verteilzentren transportiert.
+
+3. **Paketvermittlung**: Eine Kombination aus Leitungs- und Speichervermittlung, bei der Daten in Pakete zerlegt werden, die unterschiedliche Wege zum Ziel nehmen können. Diese Art der Vermittlung ermöglicht eine flexible und effiziente Übertragung von Informationen.
+
+Diese drei Arten bilden den Kern der Datenvermittlung in Netzwerken und werden in einem Schaubild veranschaulicht.

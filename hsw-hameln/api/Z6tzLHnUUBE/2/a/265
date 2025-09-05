@@ -1,0 +1,17 @@
+Die Aussage beschreibt, was passiert, wenn Daten über verschiedene Netzwerke geschickt werden. Es geht darum, dass die Größe der Datenpakete, die wir verschicken, manchmal kleiner gemacht werden muss, damit sie in die verschiedenen Netzwerke passen.
+
+Hier ist eine einfache Erklärung:
+
+1. **Datenpaket**: Stell dir vor, du hast ein Paket, das du versenden möchtest. Dieses Paket kann eine bestimmte Größe haben.
+
+2. **MTU**: Das ist die maximale Größe, die ein Paket in einem bestimmten Netzwerk haben darf. Verschiedene Netzwerke haben unterschiedliche Größen zugelassen.
+
+3. **Router**: Das sind Geräte, die helfen, Pakete von einem Netz in ein anderes zu bringen. Wenn dein Paket zu groß ist, bedeutet das, dass es nicht durch das nächste Netzwerk passt.
+
+4. **Fragmentierung**: Wenn dein Paket zu groß ist (wie in unserem Beispiel, wo das Paket 1400 Einheiten groß ist und das nächste Netzwerk nur 532 Einheiten zulässt), muss das Paket in kleinere Stücke zerlegt werden. Diese Stücke nennt man Fragmente. 
+
+5. **Kommando von IP**: Das Internetprotokoll (IP) ist dafür zuständig, diese Fragmente zu erstellen. Es sorgt dafür, dass alles gut aufgeteilt wird, sodass jedes kleine Stück die erlaubte Größe hat und durch das Netzwerk geschickt werden kann.
+
+6. **Senden durch verschiedene Netzwerke**: Wenn das Paket durch Netzwerke geschickt wird, die größere MTUs haben (wie 1500), kann es wieder ganz bleiben und braucht nicht mehr zerlegt zu werden.
+
+Zusammengefasst: Wenn wir Daten verschicken und diese zu groß für ein Netzwerk sind, zerlegt das Internetprotokoll die Daten in kleinere Teile, damit sie durch das nächste Netzwerk passen. Wenn sie in ein Netzwerk mit mehr Platz kommen, können sie wieder zusammengefügt werden.

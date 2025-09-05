@@ -1,0 +1,5 @@
+Eine MAC-Adresse ist eine spezielle, einzigartige Nummer, die jedem Gerät in einem Netzwerk zugewiesen wird. Sie besteht aus 6 Bytes, was 48 Bits entspricht. Man kann sie oft als eine Reihe von 12 Zahlen und Buchstaben darstellen, die in Gruppen durch Bindestriche getrennt sind. 
+
+Die ersten drei Bytes (drei Gruppen) der MAC-Adresse zeigen, wer das Gerät hergestellt hat. Es ist wie ein Namensschild für den Hersteller. Die letzten drei Bytes (die anderen drei Gruppen) geben das spezifische Gerät an. 
+
+Da jedes dieser letzten drei Bytes 256 verschiedene Werte (von 0 bis 255) annehmen kann, gibt es insgesamt 2 hoch 24 (das ist 16.777.216) mögliche Kombinationen für die Geräte. Das bedeutet, dass es viele verschiedene Geräte geben kann, die man in einem Netzwerk identifizieren kann.

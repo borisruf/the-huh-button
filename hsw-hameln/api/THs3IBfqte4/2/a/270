@@ -1,0 +1,7 @@
+In einfachen Worten gesprochen, die Aussage bedeutet:
+
+Wenn wir Signale übertragen, können wir sie auf verschiedene Arten ändern, um Informationen zu senden. Zum Beispiel können wir die Stärke (die Amplitude) der Signale anpassen. Eine starke Amplitude könnte eine „1“ darstellen, während eine schwache Amplitude eine „0“ darstellen könnte. 
+
+Außerdem können wir auch die Phase des Signals ändern. Die Phase ist wie der Startpunkt eines Schwingens. Wenn wir verschiedene Phasen nutzen, können wir auch verschiedene Informationen übertragen.
+
+Ein Beispiel dafür ist die Quadratur-Amplituden-Modulation, die bei DSL verwendet wird, um Internet über Telefonleitungen zu übertragen. Dabei werden sowohl die Höhe als auch die Phase der Signale verändert, um mehr Informationen auf einmal zu senden. So können wir mehr Daten schneller übertragen.

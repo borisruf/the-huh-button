@@ -1,0 +1,1 @@
+ Wir haben ein Routing von Datagramm durch das Netzwerk, auch Routing-Protokolle finden wir auf Schicht 3 im OSI-Modell, die verwenden dann IP für die Wegefindung und wir haben letzten Endes eine Fragmentierung und Defragmentierung von Datagramm.   Wie gesagt, da schauen wir später noch einmal detailliert drauf.

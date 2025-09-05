@@ -1,0 +1,5 @@
+Wir reden hier darüber, wie man Daten, die aus vielen Einsen und Nullen bestehen (das nennen wir einen Bitstrom), in ein Signal umwandelt, das wir senden können. Damit wir dies tun können, müssen wir zuerst eine spezielle Art von "Sprache" oder "Kodierung" verwenden. Diese Kodierung hilft uns, die Einsen und Nullen in etwas Physisches zu verwandeln, das sich über die Luft oder Kabel bewegen kann.
+
+Stell dir vor, ein Signal ist wie eine Welle im Wasser oder eine Lichtstrahlung, die sich durch den Raum bewegt. Wenn wir unser Bitstrom-Signal erstellen, schauen wir uns das Signal zu verschiedenen Zeiten an und nehmen "Abstimmungen" vor. Das bedeutet, dass wir zu bestimmten Zeitpunkten und an bestimmten Orten messen, was das Signal macht.
+
+Durch diese Messungen können wir entscheiden, wie wir die Einsen und Nullen darstellen möchten, damit andere Geräte sie verstehen können. Am Ende verwandeln wir die Wellen oder Schwingungen, die wir sehen, in ein digitales Signal, das schnell und einfach übertragen werden kann. So können wir letztlich unsere Daten erfolgreich an andere Orte senden.

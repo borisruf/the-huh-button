@@ -1,0 +1,11 @@
+Wenn wir Subnetze bilden, teilen wir ein großes Netzwerk in kleinere Teile auf. Das hat mehrere Auswirkungen:
+
+1. **Weniger Adressen verschwenden**: Früher haben viele Leute mehr IP-Adressen bekommen, als sie wirklich brauchten. Mit Subnetzen können wir die Adressen besser verteilen, sodass jeder nur so viele Adressen bekommt, wie er braucht.
+
+2. **Bessere Organisation**: Mit Subnetzen können wir die Computer und Geräte in Gruppen einteilen. Das macht es einfacher, das Netzwerk zu verwalten und zu sehen, welches Gerät wo ist.
+
+3. **Mehr Sicherheit**: Wenn wir Subnetze haben, können wir Regeln und Sicherheitseinstellungen für jede Gruppe machen. So können wir verhindern, dass unerlaubte Benutzer auf alle Geräte im Netzwerk zugreifen.
+
+4. **Einfachere Fehlerbehebung**: Wenn ein Problem in einem Subnetz auftritt, können wir es schneller finden und beheben, weil wir genau wissen, wo wir suchen müssen.
+
+Insgesamt helfen Subnetze also, das Netzwerk effizienter, sicherer und einfacher zu verwalten.

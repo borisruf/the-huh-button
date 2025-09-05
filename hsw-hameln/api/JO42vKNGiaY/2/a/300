@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie eine IP Version 6 Adresse aufgebaut ist. Dazu gehört ein Teil mit „Slash64“. Das bedeutet, dass die ersten 64 Bits der Adresse für das „Präfix“ verwendet werden. 
+
+Hier ist eine einfache Erklärung:
+
+Eine IP Adresse ist wie eine Telefonnummer für Computer. Bei der neuen IP Version 6 sind die Adressen sehr lang, viel länger als bei der alten Version 4. 
+
+Wenn wir „Slash64“ sehen, sagt uns das, dass die ersten 64 Bits dieser langen Adresse die „Netzwerkkennung“ sind. Das hilft, den Computer zu finden und zu wissen, wo er sich im Netzwerk befindet. Es ist ein bisschen wie die Adresse eines Hauses, die angibt, in welchem Stadtteil es liegt, auch wenn wir hier nicht die gleichen Regeln wie bei normalen Häusern haben. 
+
+Also, in einfachen Worten: „Slash64“ hilft uns zu wissen, welcher Teil der langen IP Adresse zu einem Netzwerk gehört.

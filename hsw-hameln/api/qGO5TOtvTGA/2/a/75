@@ -1,0 +1,7 @@
+Routing-Informationen helfen Routern, den besten Weg für Daten von einem Punkt A zu einem Punkt B zu finden. Es gibt zwei Arten von Routing: 
+
+1. **Statisch**: Hier ist der Weg festgelegt und ändert sich nicht. Man gibt den Routern genau an, welchen Weg sie nehmen sollen.
+
+2. **Dynamisch**: Die Router können selbstständig den besten Weg finden. Sie passen sich an, wenn sich etwas ändert, zum Beispiel wenn ein Weg blockiert ist.
+
+Die Router müssen wissen, wie sie die Daten zu ihrem Ziel bringen. Dafür brauchen sie diese Routing-Informationen. In dieser Erklärung geht es darum, wie Router solche Informationen bekommen und nutzen, um Daten schnell und effizient weiterzuleiten.

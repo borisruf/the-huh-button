@@ -1,0 +1,13 @@
+In dieser Erklärung geht es um das Senden von Daten über das Internet und was passiert, wenn diese Daten durch verschiedene Netzwerke reisen.
+
+Wenn Daten von einem Computer zu einem anderen gesendet werden, sind sie in Form von "Paketen". Jedes Netzwerk hat eine besondere Regel darüber, wie groß diese Pakete maximal sein dürfen. Diese Regel nennt man MTU (Maximum Transmission Unit).
+
+1. **Erster Sprung**: Die Daten haben die Größe 1400. Im ersten Netzwerk (Ethernet) ist die MTU 1500, also ist alles in Ordnung. Die Daten passen ohne Probleme.
+
+2. **Zweiter Sprung**: Jetzt kommt das Netzwerk FDDI, das eine MTU von 4352 hat. Auch hier ist alles gut, die Daten passen weiterhin.
+
+3. **Dritter Sprung**: Dann geht es zum nächsten Netzwerk, das PPP verwendet. Hier ist die MTU nur 532. Das bedeutet, die Daten sind jetzt zu groß, um so wie sie sind gesendet zu werden.
+
+Um das Problem zu lösen, muss der IP-Teil der Datenverarbeitung die großen Datenpakete in kleinere Teile zerbrechen. Dies nennt man "Fragmentierung". Diese fragmente Teile können dann die Größe, die im PPP-Netzwerk erlaubt ist, einhalten und sicher verschickt werden.
+
+Zusammengefasst: Wenn Daten durch verschiedene Netzwerke reisen, muss IP manchmal die Daten aufteilen, damit sie die Größenregeln der verschiedenen Netzwerke einhalten.

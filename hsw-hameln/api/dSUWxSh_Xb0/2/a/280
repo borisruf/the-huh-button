@@ -1,0 +1,5 @@
+Stell dir vor, du und dein Freund spielen ein Spiel, bei dem ihr abwechselnd um einen Ball spielt. In diesem Fall bist du einer der Kommunikationspartner und dein Freund der andere. Bei synchronem Zeit-Multiplex wird festgelegt, dass du zum Beispiel zuerst mit dem Ball spielen kannst und dann dein Freund. Es gibt einen festen Rhythmus, nach dem ihr beide abwechselnd spielt.
+
+Das bedeutet: Wenn es Zeit für dein Spiel ist, darfst du den Ball benutzen, und während du spielst, darf dein Freund nicht spielen. Sobald du fertig bist, ist es wieder Zeit für deinen Freund, um mit dem Ball zu spielen. So führt ihr eure Gespräche immer nacheinander, aber in regelmäßigen Abständen, damit beide gleich viel Zeit haben.
+
+Und das ist bei synchronem Zeit-Multiplex ähnlich: Es gibt eine feste Reihenfolge, in der die verschiedenen Partner (also die, die miteinander kommunizieren) Daten austauschen. Wenn einer spricht oder sendet, warten die anderen, bis sie dran sind. So können alle miteinander sprechen, auch wenn sie nur einen Weg (zum Beispiel ein Kabel) teilen.

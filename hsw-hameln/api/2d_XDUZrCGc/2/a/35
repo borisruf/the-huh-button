@@ -1,0 +1,5 @@
+IP-Adressen sind wie Adressen für Computer im Internet. Sie werden in Gruppen eingeteilt, die man "IP-Adressklassen" nennt. Das passiert, indem man sich den ersten Teil der Adresse, das erste Oktett, anschaut.
+
+Eine IP-Adresse besteht aus vier Teilen, die man Oktette nennt. Jedes Oktett kann man in eine besondere Sprache umwandeln, die man "binär" nennt. Wenn wir uns das erste Oktett anschauen, achten wir darauf, welches Bit (das sind kleine Teile in dieser binären Sprache) am wichtigsten ist. Dieses wichtigste Bit hilft uns zu entscheiden, in welche Gruppe die IP-Adresse gehört.
+
+Also, kurz gesagt: Wenn wir die Adresse aufschreiben und uns das erste Stück anschauen, können wir herausfinden, zu welcher Gruppe die Adresse gehört.

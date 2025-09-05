@@ -1,0 +1,1 @@
+  Genau, und das kann man natürlich dann auch wieder ein Stückchen weiter treiben.  Eine sogenannte Stateful Inspection würde dann eben nicht mehr jedes einzelne Datenpaket analysieren, sondern würde sich einen ganzen Datenstrom vornehmen, würde eben erkennen, okay, diese Daten gehören zu einer Kommunikation, die erlaubt ist, also lasse ich diese Daten durch.

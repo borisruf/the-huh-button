@@ -1,0 +1,7 @@
+Stell dir vor, wir sprechen darüber, wie Informationen über Kabel gesendet werden. Informationen bestehen aus vielen kleinen Teilen, die wir Bits nennen. Jedes Bit kann entweder eine Eins oder eine Null sein.
+
+Jetzt gibt es eine einfache Methode, um diese Bits in ein Signal umzuwandeln, das über das Kabel geschickt werden kann, und das nennt man "Return-to-Zero". 
+
+In dieser Methode sieht das Signal so aus: Wenn wir eine Eins senden wollen, macht das Signal einen kurzen "Hüpf"-Moment – das nennt man einen Rechteckimpuls. Wenn wir eine Null senden wollen, bleibt das Signal einfach ganz unten, also in einem Ruhezustand.
+
+Das Bild, von dem die Rede ist, zeigt genau, was passiert: Ein hochgehendes Signal für eine Eins und ein Signal, das ganz unten bleibt für eine Null. So können wir die Einsen und Nullen klar unterscheiden, während sie über das Kabel gesendet werden.

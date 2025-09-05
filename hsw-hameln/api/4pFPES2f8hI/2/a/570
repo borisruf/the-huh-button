@@ -1,0 +1,14 @@
+In der Aussage geht es um die Berechnung von IP-Adressen in einem kleineren Teil eines Netzwerks. 
+
+- **Host-Range**: Das ist der Bereich von IP-Adressen, die man in einem Netzwerk verwenden kann.
+- **Schrittweite 32**: Wenn wir sagen, dass wir eine Schrittweite von 32 haben, bedeutet das, dass es in jedem kleinen Netzwerk 32 Adressen gibt.
+- **Netz-ID**: Das ist die Adresse, die das Netzwerk selbst identifiziert. Diese kann man nicht nutzen, um einen Computer zu erreichen.
+- **Broadcast-ID**: Das ist die Adresse, die verwendet wird, um eine Nachricht an alle Computer im Netzwerk gleichzeitig zu senden. Auch diese Adresse kann man nicht vergeben.
+
+Obwohl wir 32 Adressen im Schritt haben, können wir nur 30 für Computer benutzen, weil wir die Netz-ID und die Broadcast-ID nicht verwenden können. Also, die Rechnung ist: 
+
+- 32 Adressen insgesamt
+- -2 (eine für die Netz-ID und eine für die Broadcast-ID)
+- Das macht 30 Adressen, die für Geräte im Netzwerk verwendet werden können. 
+
+Um das zusammenzufassen: Es gibt 32 mögliche Adressen, aber nur 30 davon können echten Geräten zugewiesen werden.

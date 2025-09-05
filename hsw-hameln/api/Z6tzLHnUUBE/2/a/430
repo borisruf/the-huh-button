@@ -1,0 +1,9 @@
+Die Aussage erklärt, wie Daten von einem Computer zu einem anderen Computer über das Internet geschickt werden. Wenn Computer A eine Nachricht an Computer B senden möchte, kennt er die IP-Adresse von Computer B, aber vielleicht nicht die MAC-Adresse (eine Art "physische Adresse" des Geräts). 
+
+Also macht Computer A folgendes:
+
+1. Er schickt die Nachricht an den nächsten Router (das ist ein Gerät, das Daten zwischen Netzwerken weiterleitet).
+2. In dieser Nachricht steht die MAC-Adresse von Computer A (seine eigene Adresse), damit der Router weiß, von wem die Nachricht kommt.
+3. Außerdem steht in der Nachricht die Ziel-MAC-Adresse, und das ist die Adresse des Routers (damit der Router weiß, wohin die Nachricht geschickt werden soll).
+
+Das bedeutet, dass Computer A die Nachricht zuerst an den Router schickt, weil er nicht direkt an Computer B senden kann, da ihm dessen MAC-Adresse fehlt. Der Router hilft dann dabei, die Nachricht an Computer B weiterzuleiten.

@@ -1,0 +1,13 @@
+In diesem Text geht es um Netzwerke und IP-Adressen. Hier ist die Erklärung in einfacher Sprache:
+
+Wenn wir ein großes Netzwerk teilen, nennen wir das "Subnetze". Das hilft uns, die verfügbaren IP-Adressen besser zu nutzen. Bei dieser Aufteilung gibt es bestimmte Regeln.
+
+Es gibt eine spezielle Adresse, die wir nicht benutzen dürfen. Das ist die erste Adresse in einem neuen Subnetz (Subnet0). Diese Adresse wird für das gesamte Netzwerk gebraucht, deshalb kann man sie nicht für Geräte verwenden.
+
+Außerdem gibt es noch eine letzte Adresse in jedem Subnetz, die ebenfalls nicht vergeben werden kann. Diese letzte Adresse hat eine besondere Funktion und wird "Broadcast-Adresse" genannt. Sie hilft, Nachrichten an alle Geräte im Netzwerk zu senden.
+
+Früher war es nicht so wichtig, solche Regeln zu beachten, deshalb gab es manchmal zu viele ungenutzte Adressen. Heute nutzen wir moderne Router, die vielleicht auch mit diesen speziellen Adressen umgehen können, aber es ist trotzdem gut, die alten Regeln zu kennen.
+
+Zusammengefasst: 
+- Das erste und das letzte Netzwerk in einem Subnetz dürfen nicht für Geräte genutzt werden. 
+- Diese Regeln helfen uns, IP-Adressen besser zu verwalten und das Netzwerk sicherer zu machen.

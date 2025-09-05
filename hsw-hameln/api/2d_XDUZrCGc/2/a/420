@@ -1,0 +1,9 @@
+Okay, ich erklär's dir ganz einfach:
+
+Stell dir vor, dein Zuhause hat einen Router, das ist wie ein kleiner Postbote. Dieser Router hat eine spezielle Nummer, die man "öffentliche IP-Adresse" nennt. Diese Adresse ist wie die Adresse deines Hauses und damit kann man dich im Internet finden.
+
+In deinem Haus gibt es aber viele Computer, die alle an den Router angeschlossen sind. Die Computer haben eigene, spezielle Nummern, die "private IP-Adressen" heißen. Diese Adressen sind nur innerhalb deines Hauses wichtig, weil dein Router sie nach außen sozusagen geheim hält. Wenn einer der Computer etwas ins Internet schicken möchte, macht der Router das für ihn. Alle Computer in deinem Haus zeigen nach außen immer nur mit der einen öffentlichen IP-Adresse, die der Router hat.
+
+Wenn du dann zum Beispiel eine Webseite aufrufst, sieht man das in einem Programm namens Wireshark. Dort könntest du sehen, dass dein Computer eine Verbindung aufbaut und eine Portnummer verwendet. Diese Portnummer hilft dem Router, zu wissen, mit welchem Computer aus deinem Haus er gerade spricht. Die Nummer ist meistens über 30, was bedeutet, dass sie nicht zu klein ist.
+
+Zusammengefasst: Dein Router hat eine öffentliche Adresse, die man im Internet sieht, und die Computer in deinem Haus haben private Adressen, die nur im Haus wichtig sind. Der Router hilft ihnen, mit der Außenwelt zu kommunizieren.

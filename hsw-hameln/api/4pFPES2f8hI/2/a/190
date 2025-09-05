@@ -1,0 +1,7 @@
+Die Aussage, dass eine IP-Adresse "193" und die Subnetzmaske "255.255" ist, bezieht sich darauf, wie Computer in einem Netzwerk miteinander kommunizieren.
+
+1. **IP-Adresse**: Das ist wie eine Adresse für dein Haus, damit andere wissen, wo sie dich finden können. In diesem Fall ist die IP-Adresse "193".
+
+2. **Subnetzmaske**: Das hilft zu bestimmen, wie viele Häuser (also Computer oder Geräte) in einer bestimmten Nachbarschaft (oder Netzwerk) sind. Die Subnetzmaske "255.255" gibt an, dass nur ein Teil der IP-Adressen in diesem Netzwerk verwendet werden kann. Man kann sich das vorstellen wie die Grenzen einer Nachbarschaft.
+
+Zusammengefasst: Die IP-Adresse sagt, wo ein Computer ist, und die Subnetzmaske sagt, wie groß das Netzwerk ist und wie viele Computer darin sein können. Wir verwenden diese beiden, um sicherzustellen, dass die Kommunikation im Netzwerk reibungslos funktioniert.

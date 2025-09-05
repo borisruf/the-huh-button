@@ -1,0 +1,3 @@
+Die Aussage besagt, dass man die Regeln für den Zugriff auf das Medium, also das Funknetz, festlegen muss. Das geschieht in einem bestimmten Bereich, den man "Media Access Control" nennt, und dieser Bereich wird für die WLAN-Standards (802.11) angepasst. 
+
+Um es einfach zu erklären: Wenn viele Geräte im WLAN sind, müssen sie wissen, wann sie senden dürfen, damit sie sich nicht gegenseitig stören. Deshalb gibt es Regeln, die festlegen, wie die Geräte miteinander kommunizieren.

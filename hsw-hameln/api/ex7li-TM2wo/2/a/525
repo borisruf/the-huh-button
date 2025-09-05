@@ -1,0 +1,3 @@
+Die Aussage besagt, dass es neben den anderen Methoden zur Fehlererkennung auch eine Methode gibt, bei der wir die gesendeten Datenpakete nummerieren. Das bedeutet, jedes Datenpaket bekommt eine einzigartige Zahl. 
+
+Wenn der Empfänger die Pakete bekommt, kann er anhand dieser Nummern feststellen, ob alle Pakete in der richtigen Reihenfolge angekommen sind und ob vielleicht einige Pakete fehlen. Wenn ein Paket fehlt oder nicht richtig ankommt, kann der Empfänger es erneut anfordern. So hilft die Nummerierung dabei, die Daten korrekt und vollständig zu übertragen.

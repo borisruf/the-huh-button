@@ -1,0 +1,5 @@
+In der Erklärung geht es um die Übertragung von Daten zwischen verschiedenen Geräten, die gleichzeitig eine Verbindung nutzen. 
+
+Stell dir vor, es ist wie bei einem Gespräch in einer Gruppe. Wenn nur eine Person gleichzeitig sprechen kann, müssen die anderen warten. Das kann zu Zeiten führen, in denen keiner spricht – das sind die "Zeitslots", in denen nichts übertragen wird. Das ist nicht gut, weil man die Zeit besser nutzen möchte, indem alle gleichzeitig sprechen können.
+
+Die Idee des Multiplexing ist es, so zu organisieren, dass die Daten von allen zusammen über eine einzige Verbindung geschickt werden können, ohne dass es lange Pausen gibt. Wenn z.B. einer der Teilnehmer gerade nichts zu sagen hat, könnte man diese Zeit nutzen, um jemand anderem das Wort zu geben, damit die ganze Gruppe effizienter kommunizieren kann.

@@ -1,0 +1,11 @@
+Die Aussage beschreibt, wie viel Information über ein bestimmtes Übertragungsmedium gesendet werden kann. Hier sind einige wichtige Punkte in einfacher Sprache erklärt:
+
+1. **Baudrate und Bitrate**: Die Baudrate ist eine Zahl, die angibt, wie viele Signale pro Sekunde gesendet werden. Die Bitrate zeigt, wie viele Bits (Informationseinheiten) pro Sekunde übertragen werden. Wenn wir zum Beispiel eine höhere Baudrate haben, kann mehr Information in derselben Zeit gesendet werden.
+
+2. **Höherwertiges Signal**: Das bedeutet, dass das Signal komplexer oder detaillierter ist. Wenn wir ein besseres Signal haben, können wir mehr Informationen übertragen.
+
+3. **n gleich 16**: Hier bezieht sich "n" auf die Anzahl der möglichen unterschiedlichen Werte oder Zustände, die wir haben können. Wenn n = 16 ist, bedeutet das, dass wir 16 verschiedene Signale oder Werte verwenden können.
+
+4. **24**: Das könnte bedeuten, dass wir mit diesen 16 Signalzuständen in der Lage sind, 24 Informationen oder Bits effektiv zu übertragen.
+
+Um es zusammenzufassen: Mit einer bestimmten Anzahl an Signalzuständen (16) und einer guten Übertragungstechnik können wir eine größere Menge an Information (24 Bits) in einer bestimmten Zeit senden, was eine effizientere Übertragung ermöglicht. Es geht darum, die physikalischen Grenzen der verschiedenen Übertragungsmedien zu nutzen und Störungen zu minimieren, um die übertragenen Signale klar und deutlich zu halten.

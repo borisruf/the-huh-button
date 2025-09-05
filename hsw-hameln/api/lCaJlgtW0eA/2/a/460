@@ -1,0 +1,5 @@
+Ich werde die Aussage in sehr einfacher Sprache erklären:
+
+Ein Router ist ein Gerät, das hilft, verschiedene Netzwerke miteinander zu verbinden. In einem Netzwerk gibt es Bereiche, die "Kollisionsdomänen" genannt werden. Das sind Stellen, wo mehrere Geräte miteinander sprechen und manchmal "kollidieren" können, wenn sie gleichzeitig senden. Es gibt auch "Broadcast-Domänen", wo Informationen an alle Geräte gesendet werden, aber der Router sorgt dafür, dass diese Broadcasts nicht über andere Netzwerke verteilt werden.
+
+Wenn ich also zwei verschiedene Netzwerkbereiche habe, brauche ich einen Router, um sie zu verbinden. Der Router hilft dabei, Informationen zwischen diesen Bereichen auszutauschen, ohne dass jeder im ganzen Netzwerk alles mitbekommt. So bleibt das Netzwerk effizient und funktioniert gut.

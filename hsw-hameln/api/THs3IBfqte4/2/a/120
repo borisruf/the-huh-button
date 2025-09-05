@@ -1,0 +1,5 @@
+Die Aussage erklärt, wie man Daten überträgt, indem man die Höhe von Signalen verwendet. Wenn wir Sachen über ein Kabel oder eine Funkverbindung schicken, nutzen wir elektrische Signale. 
+
+Hier ist es so, dass wir etwas wie einen Wasserstrahl vorstellen können: Wenn der Wasserstrahl stark (hoch) ist, bedeutet das, dass wir eine „1“ senden. Wenn der Wasserstrahl schwach (niedrig) ist, bedeutet das, dass wir eine „0“ senden. 
+
+Das nennt man „Amplituden-Modulation“: Wir verwenden die Höhe der Signale, um Informationen zu übermitteln. Dies hilft uns, digitale Daten (wie die Einsen und Nullen in Computer) über eine Verbindung zu schicken.

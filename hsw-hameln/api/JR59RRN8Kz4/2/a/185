@@ -1,0 +1,7 @@
+In der Aussage geht es darum, wie man ein Netzwerk in verschiedene Teile aufteilen kann, damit die verschiedenen Gruppen, wie der Vertrieb, das Marketing und der Vorstand, sicher und getrennt arbeiten können.
+
+Stell dir vor, jeder Bereich in einer Firma ist wie ein eigenes Zimmer in einem Haus. Jeder hat seine eigenen Sachen und kann in Ruhe arbeiten, ohne dass die anderen stören. Das macht die Arbeit einfacher und sicherer.
+
+In unserem Netzwerk haben wir also verschiedene "Zimmer" (das sind die VLANs) für jede Gruppe. Diese VLANs helfen uns, die Computer in diesen Gruppen voneinander zu trennen. So kann der Vertrieb seine Daten und Informationen behalten, ohne dass das Marketing oder der Vorstand darauf zugreifen kann.
+
+Das hilft nicht nur, die Zusammenarbeit innerhalb der Gruppe zu verbessern, sondern schützt auch die wichtigen Informationen vor unbefugtem Zugriff. So können alle Gruppen ihre Aufgaben besser erledigen und bleiben gleichzeitig sicher.

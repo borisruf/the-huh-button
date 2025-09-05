@@ -1,0 +1,21 @@
+In diesem Text geht es darum, wie man Fehler in Daten erkennen und damit umgehen kann. Hier ist eine einfache Erklärung:
+
+1. **Fehler erkennen**: Man muss herausfinden, ob bei Datenübertragungen Fehler passieren. Das kann zum Beispiel passieren, wenn sich Informationen ändern oder ganz verloren gehen.
+
+2. **Zwei Arten von Fehlern**: 
+   - Manchmal sind Daten nur ein bisschen falsch, aber das ist nicht so schlimm (zum Beispiel bei Videos). 
+   - Bei wichtigen Daten wie Geldüberweisungen dürfen keine Fehler passieren, sonst gibt es große Probleme.
+
+3. **Wie geht man mit Fehlern um?**:
+   - Bei kleinen Fehlern kann man manchmal einfach ignorieren, dass sie da sind.
+   - Bei wichtigen Daten muss man die Fehler unbedingt finden und beheben.
+
+4. **Fehlerkorrektur**: Es gibt zwei Methoden, um Fehler zu beheben:
+   - **Automatisch korrigieren**: Das geht durch komplizierte Berechnungen, damit alles wieder richtig wird.
+   - **Wiederholen**: Man fragt einfach nach, ob die Daten nochmal geschickt werden können, wenn man einen Fehler entdeckt hat.
+
+5. **Zusätzliche Informationen**: Um Fehler zu erkennen, muss man den originalen Daten noch etwas Zusätzliches hinzuzufügen, zum Beispiel kleine Codes. Diese helfen, festzustellen, ob sich die Daten verändert haben.
+
+6. **Zyklischer Redundanz-Check (CRC)**: Das ist ein spezielles Verfahren, das wir uns genauer anschauen werden, um herauszufinden, wie genau Fehlererkennung funktioniert.
+
+Im Großen und Ganzen dreht sich alles darum, wie wichtig es ist, Fehler in Daten zu finden und zu beheben, damit alles korrekt übertragen wird.

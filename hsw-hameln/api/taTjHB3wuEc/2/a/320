@@ -1,0 +1,13 @@
+In dieser Erklärung geht es um die Kommunikation zwischen einem Sender und einem Empfänger von Daten. Der Sender kann sehr schnell Informationen senden, aber der Empfänger kann nicht so schnell alles empfangen. Damit sie gut zusammenarbeiten können, brauchen sie eine Regel namens Flusssteuerung.
+
+Das funktioniert so:
+
+1. **Sender**: Er schickt Daten. Aber er kann nicht einfach alles auf einmal schicken, weil der Empfänger das nicht verarbeiten kann.
+  
+2. **Fenstergröße**: Sie einigen sich auf eine bestimmte Menge von Daten, die der Sender senden kann, bevor er auf eine Bestätigung vom Empfänger warten muss. Dieses vereinbarte Maß nennt man „Fenstergröße“. 
+
+3. **Bestätigung**: Der Empfänger sagt dem Sender, dass er die Daten erhalten hat und wie viele neue Daten er haben kann. Wenn der Empfänger Probleme hat, zum Beispiel weil er nicht alles aufnehmen kann, sagt er dem Sender, dass er die Fenstergröße verringern soll.
+
+4. **Beispiel**: Wenn der Empfänger sagt, dass er nur zwei Daten auf einmal empfangen kann, wird der Sender versuchen, sich daran zu halten. Wenn der Sender weiterhin mehr sendet, als der Empfänger verarbeiten kann, wird es Probleme geben.
+
+Zusammengefasst: Der Sender muss manchmal anhalten und auf eine Bestätigung warten, damit der Empfänger nicht überfordert wird. Diese Vereinbarungen helfen, dass sie gut und effizient miteinander kommunizieren können.

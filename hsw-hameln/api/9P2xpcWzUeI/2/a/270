@@ -1,0 +1,7 @@
+Stell dir vor, du bist in einem großen Gebäude mit mehreren Geschossen. In jedem Stockwerk arbeiten unterschiedliche Gruppen von Menschen, die miteinander sprechen müssen, also ihre Nachrichten ihnen zusenden. Normalerweise könnte man sagen, jeder Stock hat sein eigenes Netzwerk, und die Kommunikation findet nur innerhalb des Stocks statt, was manchmal unpraktisch ist. 
+
+Um das besser zu machen, verwenden wir VLANs, das sind wie virtuelle Stockwerke. So können verschiedene Gruppen aus verschiedenen Stockwerken miteinander kommunizieren, als wären sie im gleichen Stockwerk, ohne die physischen Wände dazwischen. 
+
+Ein Router funktioniert dabei wie ein Tor, das zwischen diesen verschiedenen „virtuellen Stockwerken“ steht. Wenn jemand aus einer Gruppe in einem VLAN eine Nachricht an jemand in einem anderen VLAN schicken möchte, muss die Nachricht durch den Router, um das andere VLAN zu erreichen.
+
+Außerdem gibt es sogenannte Broadcast-Domänen. Das ist eine Art von „Nachrichtenbereich“, in dem alle Computer miteinander kommunizieren können. Wenn wir VLANs nutzen, schaffen wir für jedes VLAN einen eigenen Bereich, wo nur die Computer in diesem VLAN Nachrichten aneinander senden können. Das bedeutet, dass wir nicht nur auf Grund von echten Netzwerken Nachrichtenbereiche schaffen, sondern auch durch diese virtuellen VLANs.

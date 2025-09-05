@@ -1,0 +1,9 @@
+Die Aussage "Ja, nun machen wir den Rahmen noch an der Stelle wieder zu. Wir sind ja gestartet mit der Präambel, mit dem Start-of-Frame-Signal." bedeutet, dass wir jetzt den letzten Teil eines Datenpakets, also den "Rahmen", schließen. 
+
+Hier ist eine einfache Erklärung:
+
+1. **Rahmen**: Das ist ein Teil, der die Daten umschließt, wie ein Umschlag für einen Brief.
+2. **Präambel**: Das ist ein spezielles Signal, das sagt, dass jetzt ein neues Datenpaket beginnt. Es ist wie ein Hinweis, dass etwas Wichtiges kommt.
+3. **Start-of-Frame-Signal**: Das ist der genaue Moment, an dem wir mit dem Senden der Daten beginnen.
+
+Zusammengefasst: Der Sprecher sagt, dass wir nun den letzten Teil des Datenpakets schließen, nachdem wir mit einem besonderen Signal begonnen haben, um zu zeigen, dass neue Informationen gesendet werden.

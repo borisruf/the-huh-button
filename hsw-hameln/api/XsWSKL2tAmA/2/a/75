@@ -1,5 +1,7 @@
-In einfachen Worten, eine IP-Adresse (eine Reihe von Zahlen, die jedem Computer oder Gerät in einem Netzwerk zugewiesen werden) aus der Version 4 besteht aus vier Teilen. Jeder dieser Teile wird als Oktett bezeichnet. Jedes Oktett besteht aus 8 "Bit", was eine Art digitale Information ist. Insgesamt haben wir also 32 Bit für die ganze IP-Adresse. 
+Eine IP-Adresse ist wie eine Adresse für ein Haus im Internet. Aber um zu wissen, wo dieses Haus steht, ist es wichtig, auch die Subnetzmaske zu betrachten. 
 
-Ein "Subnetz" ist ein Teil eines Netzwerks. Die "Subnetzmaske" hilft uns, herauszufinden, welcher Teil der IP-Adresse zum Netzwerk gehört und welcher zum Gerät im Netzwerk. Diese Subnetzmaske besteht, genau wie die IP-Adresse, aus vier Oktetten oder 32 Bit. 
+Stell dir vor, die IP-Adresse ist wie eine Adresse in einer Stadt, die sagt, welches Gebäude du suchst. Die Subnetzmaske hilft dir zu verstehen, in welchem Stadtteil or Viertel das Gebäude liegt. 
 
-Also, sowohl IP-Adressen als auch ihre Subnetzmasken bestehen aus der gleichen Menge an Informationen - vier Oktetten oder 32 Bit.
+Eine IP-Adresse hat vier Teile, die man Oktette nennt. Jedes Oktett hat 8 Bits, und zusammen ergeben sie eine 32-Bit lange Adresse. Die Subnetzmaske hat auch vier Teile, genau wie die IP-Adresse, und hilft dabei, den Teil der Adresse zu identifizieren, der zum Netzwerk gehört (Netzanteil) und den Teil, der zum einzelnen Gerät gehört (Host-Anteil).
+
+Das bedeutet: Wenn du wissen möchtest, wie ein bestimmtes Gerät im Internet funktioniert, musst du sowohl die IP-Adresse als auch die Subnetzmaske anschauen, denn zusammen zeigen sie dir genau, wo das Gerät ist und wie es mit anderen Geräten verbunden ist.

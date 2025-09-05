@@ -1,0 +1,19 @@
+Okay! Lass uns das einfach erklären.
+
+Stell dir vor, ein Gebäude hat drei Stockwerke: Erdgeschoss, erster Stock und zweiter Stock. Normalerweise wäre jeder Stock ein eigenes Netzwerk. Aber das ist nicht immer praktisch. 
+
+Mit VLANs (virtuellen Netzwerken) kannst du die Computer in diesem Gebäude besser organisieren. Du kannst zum Beispiel alle Computer, die etwas mit dem Verkauf zu tun haben, in einem Netzwerk haben, egal in welchem Stockwerk sie sind. So musst du die Stockwerke nicht mehr einzeln als Netzwerke betrachten.
+
+Um diese Netzwerke zu erstellen, gibt es zwei Möglichkeiten: 
+
+1. **Statische VLANs**: Der Verwalter (Administrator) sagt für jeden Anschluss am Switch, zu welchem VLAN es gehört. Das kann fehleranfällig sein, weil der Administrator darauf achten muss, dass der richtige Computer am richtigen Anschluss angeschlossen ist.
+
+2. **Dynamische VLANs**: Hier entscheidet ein spezieller Computer (Steuerstation) anhand der Adresse des Rechners (MAC-Adresse), zu welchem VLAN er gehört. Wenn du den Computer anschließt, schaut der Switch nach, zu welchem VLAN er gehört und passt das an.
+
+Wenn Daten von einem Computer gesendet werden, wird in diese Dateninformation hinzugefügt, in welches VLAN sie gehören. Ein Switch entschlüsselt das, wenn die Daten weitergeschickt werden. Wenn zwei verschiedene VLANs miteinander sprechen müssen, braucht man einen Router, der die Daten zwischen diesen VLANs hin- und herschickt.
+
+Zuletzt wird erwähnt, dass jedes VLAN seine eigene „Broadcast-Domäne“ hat. Das bedeutet, wenn ein Computer in einem VLAN eine Nachricht an alle anderen in seinem VLAN schickt, können die Computer in anderen VLANs das nicht hören. 
+
+Eine neue Idee hier ist der **VLAN-Trunk**. Das ist wie ein „Bündel“ von Informationen, die zwischen Switches ausgetauscht werden, um mehrere VLANs gleichzeitig über dieselbe Verbindung zu führen.
+
+Zusammengefasst: Mit VLANs kann man Computer besser organisieren und Netzwerke flexibler gestalten, auch über Stockwerke hinweg, und man braucht spezielle Geräte (wie Router und Switches), um das zu managen.

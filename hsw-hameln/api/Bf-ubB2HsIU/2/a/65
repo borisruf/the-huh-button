@@ -1,1 +1,10 @@
-Alles, was wir über Computer-Netzwerke gelernt haben, basiert auf einem bestimmten Modell. Dieses Modell heißt TCP-IP-Modell oder auch DoD-Modell. Es ist ganz wichtig für alle Netzwerke und hat auch das OSI-Modell beeinflusst, das wir heute nutzen. Wenn wir uns das TCP-IP-Modell anschauen, sehen wir, dass es aus vier Teilen besteht. Diese Teile sind sehr wichtig für das, was wir über Netzwerke wissen.
+In dieser Aussage wird gesagt, dass ein wichtiges Modell, das TCP-IP-Modell, die Grundlage für alle Netzwerke ist, die wir heute nutzen. 
+
+Hier ist eine einfache Erklärung:
+
+- Das TCP-IP-Modell ist wie eine Anleitung, die hilft, wie Computer miteinander reden.
+- Es hat vier wichtige Teile, die dafür sorgen, dass Daten richtig gesendet und empfangen werden.
+- Diese Teile helfen auch zu erklären, was das OSI-Modell ist, ein anderes Modell, das wir nutzen.
+- Alles, was wir über Netzwerke gelernt haben, basiert auf diesem TCP-IP-Modell.
+
+Kurz gesagt: Das TCP-IP-Modell ist sehr wichtig, weil es die Grundlage für das Internet und die Kommunikation zwischen Computern bildet.

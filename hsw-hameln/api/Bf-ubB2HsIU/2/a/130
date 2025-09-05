@@ -1,1 +1,7 @@
-Das ist etwas ähnlich wie bei einem Postboten, der einen Brief transportiert. Die IP-Adresse ist wie die Adresse des Empfängers auf dem Brief. Das Problem ist, dass die IP alleine nur den Brief verschickt, aber nicht immer sicherstellt, dass er wirklich ankommt. Hier kommt TCP ins Spiel. TCP ist wie ein Helfer, der sicherstellt, dass der Brief wirklich ankommt und auch überprüft, ob alle Informationen im Brief richtig sind. So arbeiten TCP und IP zusammen: IP ist für das Senden der Daten verantwortlich und TCP kümmert sich darum, dass sie auch ankommen. Es gibt auch noch andere Protokolle (das sind wie Spielregeln für das Internet), die zusammen mit IP arbeiten.
+Die Aussage beschreibt, wie zwei wichtige Protokolle, IP und TCP, zusammenarbeiten, um Daten über das Internet zu senden.
+
+- **IP** ist wie ein Briefträger. Er nimmt die Daten (wie einen Brief), gibt ihnen eine Adresse (das Ziel) und schickt sie los. IP kümmert sich aber nicht darum, ob der Brief richtig ankommt oder ob etwas damit passiert ist. Es ist eine einfache, schnelle Methode, die sich nicht um Verbindungen kümmert. 
+
+- **TCP** hingegen ist wie eine Methode, um sicherzustellen, dass der Brief richtig ankommt. Während IP die Daten schickt, sorgt TCP dafür, dass wir eine Bestätigung bekommen, wenn die Daten angekommen sind. Es überprüft auch, ob die Daten während des Transports beschädigt wurden, und stellt sicher, dass alles richtig ankommt.
+
+Zusammengefasst: IP schickt die Daten einfach weg, und TCP sorgt dafür, dass alles sicher ankommt.

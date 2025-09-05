@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass in einem bestimmten Bereich von Datenpaketen (wir reden hier von Ethernet) ein kleines Stück zusätzlichen Computersprech (ein Typfeld) verwendet wird. Dieses Typfeld hilft zu zeigen, welche Art von Daten in dem Paket steckt, zum Beispiel, ob es sich um ein IP-Paket handelt, das Informationen für das Internet transportiert. 
+
+Wenn wir Daten über ein Netzwerk senden, wird alles in kleine "Pakete" verpackt. Jedes Paket hat eine bestimmte Struktur mit verschiedenen Teilen. Eines dieser Teile sagt genau, was für Daten übermittelt werden. So können die Geräte im Netzwerk die Informationen richtig verstehen und verarbeiten.

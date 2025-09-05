@@ -1,0 +1,9 @@
+Die Aussage erklärt, wie verschiedene Teile eines Netzwerks miteinander verbunden werden. 
+
+Zuerst gibt es einfache Geräte, wie Repeaters oder Hubs. Diese Geräte nehmen ein Signal auf und schicken es wieder raus, aber sie können nicht entscheiden, wohin es gehen soll. Das bedeutet, sie können das Netzwerk nur größer machen, aber auch mehr Probleme (Kollisionen) verursachen.
+
+Dann gibt es „intelligentere“ Geräte, wie Switches und Bridges. Diese arbeiten mit speziellen Informationen, genannt MAC-Adressen. Sie verbinden verschiedene Teile des Netzwerks und können auch entscheiden, wohin ein Signal geschickt werden soll. Das ist eine bessere Verbindung, weil sie die Probleme der Kollisionen reduzieren.
+
+Oben drüber gibt es Router. Router benutzen andere Arten von Adressen, die IP-Adressen heißen. Sie verbinden ganze Netzwerke miteinander und helfen, Daten von einem Netzwerk in ein anderes zu leiten. Router sind wichtig, weil sie dafür sorgen, dass Informationen den richtigen Weg finden, wenn sie von einem Netzwerk zum anderen reisen. 
+
+Zusammengefasst: Zuerst gibt es einfache Verbindungen ohne Entscheidungen, dann bessere Verbindungen mit Entscheidungen und schließlich noch bessere Verbindungen zwischen ganzen Netzwerken.

@@ -1,0 +1,5 @@
+Die Aussage beschreibt, wie Sender und Empfänger in einem System miteinander kommunizieren. 
+
+Stell dir vor, es gibt einen schnell arbeitenden Sender, der ständig Nachrichten sehr schnell verschickt. Auf der anderen Seite gibt es einen Empfänger, der nicht so schnell ist. Wenn der Sender zu schnell sendet, könnte der Empfänger die Nachrichten nicht rechtzeitig bekommen und könnte durcheinander geraten.
+
+Damit dieses Problem nicht passiert, braucht man eine Art "Regel" oder "Kontrolle" – das nennt man Flusssteuerung. Diese Regel sorgt dafür, dass der Sender und der Empfänger gut zusammenarbeiten können. So kann der Sender langsamer senden, wenn der Empfänger nicht hinterherkommt, damit alles richtig ankommt und nichts verloren geht.

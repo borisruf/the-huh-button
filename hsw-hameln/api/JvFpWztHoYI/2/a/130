@@ -1,0 +1,5 @@
+Die Aussage beschreibt, wie man ein Signal aus einer Reihe von Einsen und Nullen machen kann, damit es gut über eine Leitung gesendet werden kann. 
+
+Man spricht hier von einem bestimmten Verfahren, das Non-Return-to-Zero (NRZ) heißt. Bei diesem Verfahren repräsentiert eine Eins ein hohes Signal und eine Null ein niedriges Signal. Das Problem dabei ist, dass es schwierig ist, einen Rhythmus (Takt) aus diesem Signal herauszulesen, wenn viele Einsen oder Nullen hintereinander kommen. Außerdem gibt es einen hohen Gleichstromanteil, was bedeutet, dass das Signal nicht gut für die Übertragung ist.
+
+Um dieses Problem zu lösen, kann man das NRZ-Verfahren mit einem Taktsignal kombinieren. Das macht man mit einer sogenannten XOR-Verknüpfung. Das sorgt dafür, dass sich das Signal in jedem Zeitabschnitt ändert. Das bedeutet, dass es keine langen Abschnitte gibt, wo das Signal ständig gleich bleibt, was die Taktrückgewinnung einfacher macht. So kann man die Informationen besser übertragen und verstehen.

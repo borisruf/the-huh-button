@@ -1,1 +1,10 @@
-IP-Adressen sind wie die Adresse eines Hauses. Sie brauchen sie damit das Internet weiß, wo sie sich befinden. Die Adressen bestehen aus vier Teilen und sie kommen immer mit etwas namens Subnetzmaske. Diese Maske teilt die Adresse in zwei Teile, eins für das Netzwerk und eins für den Host (das ist der spezielle Computer oder Gerät). Die Subnetzmaske hilft dabei zu entscheiden, wie viele Adressen in ihrem Netzwerk verfügbar sind. Aber in jedem Netzwerk sind zwei Adressen immer reserviert. Die erste Adresse ist die Netzwerkadresse und geht nicht an ein Gerät. Die letzte Adresse ist die Broadcast-Adresse und wird benutzt, um Nachrichten an alle Geräte im Netzwerk zu senden. Diese beiden Adressen sind also schon besetzt und können nicht an ein Gerät gegeben werden.
+Stell dir vor, eine IP-Adresse ist wie eine Adresse für ein Haus, und die Subnetzmaske ist wie eine Karte, die dir sagt, wie viele Häuser in einer Nachbarschaft sind und wozu sie gehören.
+
+Jede IP-Adresse hat zwei Teile:
+
+1. **Netz-Anteil**: Das ist der Teil der Adresse, der sagt, welcher Nachbarschaft das Haus angehört.
+2. **Host-Anteil**: Das ist der Teil der Adresse, der sagt, welches spezielle Haus in dieser Nachbarschaft gemeint ist.
+
+Die **Subnetzmaske** hilft uns, zu entscheiden, wo der Netz-Anteil aufhört und wo der Host-Anteil anfängt. Wenn die Subnetzmaske viele Nullen hat, bedeutet das, dass es viele spezielle Häuser in einer Nachbarschaft gibt (also viele Geräte in dem Netzwerk). Wenn es weniger Nullen gibt, gibt es weniger spezielle Häuser.
+
+Also, die Nullen in der Subnetzmaske zeigen uns, wie viele Geräte wir in einem Netzwerk haben können und wie die IP-Adresse aufgeteilt ist. So wissen wir, welcher Teil die Nachbarschaft und welcher Teil das spezielle Haus ist.

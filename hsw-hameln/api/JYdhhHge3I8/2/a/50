@@ -1,0 +1,5 @@
+In dieser Aussage geht es darum, wie Daten in einem Netzwerk weitergeleitet werden. 
+
+Stell dir vor, du hast einen großen Raum, in dem verschiedene Personen (Daten) an mehreren Türen (Eingangsports) hereinkommen. Es gibt auch mehrere andere Türen (Ausgangsports), durch die diese Personen wieder hinausgehen können.
+
+Ein Vermittlungssystem, wie ein Switch oder Router, ist wie ein Lehrer, der den Personen sagt, wo sie hin sollen. Der Lehrer empfängt die Personen an den Eingängen und entscheidet dann, durch welche Ausgänge sie gehen. So können viele Daten gleichzeitig verwaltet werden und ans Ziel gelangen.

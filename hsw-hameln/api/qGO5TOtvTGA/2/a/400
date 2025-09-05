@@ -1,0 +1,7 @@
+In der Aussage geht es darum, wie man herausfinden kann, was mit einem Datenpaket passiert, wenn es durch das Internet geschickt wird. Man kann das mit einem einfachen Verfahren überprüfen, das „Trace Route“ heißt. 
+
+Wenn du eine Nachricht oder Daten von einem Punkt A zu einem Punkt B schickst, passiert das nicht einfach direkt. Stattdessen springt das Datenpaket von einem Router zum nächsten, bis es sein Ziel erreicht. Manchmal kann es aber auch sein, dass das Paket nicht ankommt oder die Verbindung abbrechen kann.
+
+Mit „Trace Route“ kannst du sehen, welche Router das Datenpaket durchläuft und anstehen bleiben. So findest du heraus, wo es eventuell Probleme gibt. Wenn du genau nachverfolgst, wo das Paket bleibt oder wo es verloren geht, bekommst du eine Idee, wie gut die Verbindung ist und ob es einen besseren Weg gibt, die Daten zu schicken. 
+
+Das hilft zu verstehen, wie das Routing im Internet funktioniert und welche Wege es gibt, um sicherzustellen, dass Daten schnell und zuverlässig ankommen.

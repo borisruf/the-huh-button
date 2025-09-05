@@ -1,0 +1,9 @@
+Die Aussage besagt, dass wir wieder ein „Shared Media“ haben, also ein gemeinsames Medium, das von mehreren Geräten genutzt wird. Das bedeutet, dass wir uns um zwei wichtige Schichten kümmern müssen: die Bitübertragungsschicht und die Sicherungsschicht.
+
+Einfach gesagt:
+
+- „Shared Media“ heißt, viele Geräte teilen sich dasselbe Netz.
+- Die „Bitübertragungsschicht“ kümmert sich um die Übertragung von Daten in Form von Einsen und Nullen.
+- Die „Sicherungsschicht“ sorgt dafür, dass die Daten sicher von einem Gerät zum anderen kommen, ohne Fehler.
+
+Das ist wichtig, damit alle Geräte im Netzwerk gut und richtig kommunizieren können.

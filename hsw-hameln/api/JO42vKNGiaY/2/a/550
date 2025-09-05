@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass wenn wir eine bestimmte Adresse haben und sie nicht genug Zahlen hat, wir sie einfach mit Nullen vorne ergänzen können. Zum Beispiel, wenn es nur „1“ in einem Block gibt, können wir es wie „0001“ schreiben. Diese Nullen am Anfang sind nicht wichtig, und wir können sie weglassen, wenn wir die Adresse kürzer schreiben. 
+
+Das ist besonders nützlich, wenn wir mit IP-Adressen im neuen System (IPv6) arbeiten, das länger und komplizierter ist als das alte System (IPv4). Es hilft uns, die Adresse einfacher zu lesen und zu schreiben.

@@ -1,0 +1,1 @@
+  Und letzten Endes haben wir an der Stelle einfach ein Verfahren, bei dem wir eine Prüfsumme an unsere Daten, an unsere übertragenen Daten anhängen.  Diese Prüfsumme wird errechnet aus einem Generator-Polynom und eben unserer zu übertragenen Daten.

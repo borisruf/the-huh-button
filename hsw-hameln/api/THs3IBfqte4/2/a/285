@@ -1,0 +1,11 @@
+Lass uns das vereinfachen:
+
+Wenn wir Informationen, wie zum Beispiel im Internet, übertragen, nutzen wir verschiedene Methoden. Eine davon heißt "Quadratur-Amplituden-Modulation" oder einfach "QAM". Es ist ein bisschen wie ein Code, der hilft, die Daten schneller und effizienter zu senden.
+
+Stell dir vor, du hast verschiedene Lichtschalter, die ein- und ausgeschaltet werden können. Jede Beleuchtung hat eine unterschiedliche Helligkeit, und diese Helligkeit hilft uns, Informationen zu übertragen. Bei DSL, das ist eine Internetverbindung, benutzen wir häufig QAM in verschiedenen Varianten: 
+
+1. QAM-16: Hier kann man mit jedem Signal 4 verschiedene Helligkeiten haben, was bedeutet, dass wir 4 verschiedene Informationen übertragen können. Das entspricht 2 Bits pro Signal.
+2. QAM-64: Hier nutzen wir 8 Helligkeiten, um 6 Bits an einem Schritt zu senden.
+3. QAM-256: In dieser Version sind es 16 Helligkeiten, und wir können 8 Bits gleichzeitig übertragen.
+
+Im Grunde hilft uns QAM, eine große Menge an Informationen gleichzeitig zu senden, damit das Internet schneller ist.

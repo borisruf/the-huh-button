@@ -1,0 +1,5 @@
+Die Aussage beschreibt, wie man Fehler in Daten erkennt, die übertragen werden. Wenn Informationen von einem Ort zu einem anderen geschickt werden, können Fehler passieren, z. B. weil Informationen verloren gehen oder sich verändern. Um solche Fehler zu finden, fügt man zu den wichtigen Daten zusätzliche Informationen hinzu. Das nennt man „Zusatzinformation“.
+
+Ein Beispiel für diese Zusatzinformation ist der „zyklische Redundanz-Check“. Damit kann man prüfen, ob die gesendeten Daten richtig angekommen sind. Wenn Fehler erkannt werden, kann man entscheiden, was zu tun ist: Manchmal kann man kleine Fehler ignorieren, z. B. bei Videos, wo es auf Geschwindigkeit ankommt. Aber bei wichtigen Informationen, wie Bankdaten, müssen alle Fehler sofort gefunden und behoben werden. 
+
+Zusammengefasst: Um Fehler zu finden, braucht man eine Art „Überprüfung“, die Zusatzinformationen zu den normalen Daten hinzufügt.

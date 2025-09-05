@@ -1,0 +1,5 @@
+Die Aussage erklärt, dass es einen Internet-Protokoll-Typ gibt, der "UDP" heißt. UDP hilft, Daten schnell von einem Ort zu einem anderen zu senden, aber es kümmert sich nicht darum, ob alle Daten ankommen. 
+
+Wenn zum Beispiel ein Video gestreamt wird, ist es wichtiger, dass die Bilder schnell gezeigt werden, als dass jedes einzelne Bild perfekt ankommt. Manchmal wird also ein Bild nicht richtig übertragen, aber das ist nicht so schlimm, weil das Video trotzdem weiterläuft. 
+
+UDP macht also die Datenübertragung schneller, aber es ist nicht so sicher, weil es nicht überprüft, ob alles vollständig angekommen ist. Es gibt viele Anwendungen, wie Spiele oder Videos, wo Schnelligkeit wichtiger ist als Perfektion.

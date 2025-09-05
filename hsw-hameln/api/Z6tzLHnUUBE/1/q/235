@@ -1,0 +1,1 @@
+ Jetzt haben wir einen Übergang, wenn wir über den Router springen in ein Netzwerk, wo FDDI als Protokoll läuft, da haben wir eine MTU von 4352, an dieser Stelle kein Problem für uns, denn unsere Daten, unser Datenpaket hat ja nur eine Größe von 1400, das können wir also einfach so weiter senden.

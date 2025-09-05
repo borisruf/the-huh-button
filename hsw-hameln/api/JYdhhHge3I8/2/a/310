@@ -1,0 +1,9 @@
+In dieser Aussage geht es darum, wie Daten in einem Netzwerk von einem Ort zum anderen gesendet werden. Man kann sich das wie eine Reise von einem Ort zum anderen vorstellen.
+
+1. **Datenübertragung**: Wenn A etwas an B senden möchte, kann A verschiedene Wege benutzen. Das ist wie wenn man von einer Stadt in eine andere fährt – man kann verschiedene Routen wählen.
+
+2. **Unabhängigkeit der Daten**: A kann die Daten auf verschiedene Weisen und zu verschiedenen Zeiten senden. Das bedeutet, dass es nicht immer so sein muss, dass alle Daten gleichzeitig ankommen oder den gleichen Weg nehmen.
+
+3. **Ablauf betrachten**: Es wird empfohlen, sich den gesamten Prozess, von A zu B, noch einmal Schritt für Schritt anzuschauen, um besser zu verstehen, wie die Datenübertragung funktioniert.
+
+Im Grunde erklärt diese Aussage, dass Daten unterschiedlich übertragen werden können und dass es verschiedene Wege und Zeiten für diese Übertragung gibt. Das hilft uns, die Funktionsweise von Netzwerken besser zu verstehen.

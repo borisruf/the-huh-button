@@ -1,0 +1,11 @@
+In dieser Aussage geht es darum, wie Menschen mit Computern und dem Internet kommunizieren können. 
+
+Es gibt drei wichtige Schichten im OSI-Modell, das hilft zu verstehen, wie Daten über das Internet gesendet werden. Diese Schichten sind die Sitzungsschicht, die Darstellungsschicht und die Anwendungsschicht.
+
+In der Anwendungsschicht gibt es verschiedene „Anwendungsprotokolle“. Das sind wie spezielle Sprachen oder Regeln, die dafür sorgen, dass bestimmte Programme gut miteinander sprechen können. Einige Beispiele für solche Protokolle sind:
+
+- **Telnet**: Damit kann man sich auf einen anderen Computer einloggen und ihn steuern.
+- **FTP**: Das hilft, Dateien von einem Computer zu einem anderen zu übertragen.
+- **HTTP**: Das ist die Sprache, die beim Surfen im Internet verwendet wird, um Webseiten zu laden.
+
+Diese Protokolle sind wichtig, weil sie die Verbindung zwischen den Programmen und den Nutzern herstellen. Wenn du also mit einer App oder Website arbeitest, sorgen diese Protokolle dafür, dass alles richtig funktioniert und du die Informationen bekommst, die du brauchst.

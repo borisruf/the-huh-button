@@ -1,0 +1,15 @@
+Die Aussage beschreibt, wie das Internetprotokoll (IP) von Version 4 (IPv4) auf die neuere Version 6 (IPv6) umgestellt wird. 
+
+Hier sind die wichtigsten Punkte in einfacher Sprache:
+
+1. **Grund für die Umstellung**: Es gibt nicht mehr genug IP-Adressen in IPv4. Man kann nur etwa 4 Milliarden Adressen haben, das reicht nicht mehr, weil immer mehr Geräte (wie Handys oder Kühlschränke) ins Internet gehen. 
+
+2. **Was ist IPv6?**: IPv6 gibt uns viel mehr IP-Adressen, nämlich 10 hoch 38 Adressen. Das ist viel mehr, als wir in der IPv4-Version hatten. Deshalb ist es für die Zukunft wichtig.
+
+3. **Wie sehen die Adressen aus?**: IPv4-Adressen sind in vier Zahlen unterteilt (zum Beispiel 172.16.14.193). IPv6-Adressen sind komplizierter und bestehen aus acht Gruppen von vier Zahlen, die mit Doppelpunkten getrennt sind (zum Beispiel ac10:ec1:....). Diese Zahlen sind im Hexadezimalsystem geschrieben, was andere Buchstaben und Zahlen benutzt.
+
+4. **Bequemlichkeit bei IPv6**: Wenn eine Gruppe mit Nullen beginnt, kann man die führenden Nullen weglassen, um die Adresse kürzer zu machen. Außerdem kann man lange Reihen von Nullen durch einen speziellen Doppelpunkt abkürzen.
+
+5. **Umwandlung von IPv4 nach IPv6**: Man kann IPv4-Adressen in IPv6-Adressen umwandeln, damit alte Adressen weiter benutzt werden können. Dabei müssen die oberen Teile der IPv6-Adresse aus Nullen bestehen.
+
+Zusammengefasst, die Umstellung von IPv4 auf IPv6 passiert, weil wir mehr Adressen brauchen. IPv6 ist komplizierter, aber wir haben Regeln, die die Nutzung einfacher machen.

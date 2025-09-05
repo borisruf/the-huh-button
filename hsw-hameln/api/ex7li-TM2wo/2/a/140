@@ -1,0 +1,5 @@
+Die Aussage bedeutet folgendes: 
+
+Es gibt zwei Wege, wie wir mit Fehlern in Informationen umgehen können. Eine Möglichkeit ist, dass wir eine spezielle Art von Codierung benutzen, die dafür sorgt, dass die Informationen beim Empfänger automatisch wieder so werden, wie sie ursprünglich waren. Wenn also die Informationen unterwegs verändert oder beschädigt wurden, hilft diese Codierung, sie wieder richtig zu machen. 
+
+Im Grunde geht es darum, dass wir sicherstellen wollen, dass die Daten, die ankommen, die richtigen Daten sind, die auch gesendet wurden, und wenn etwas schiefgeht, hilft uns die Kodierung, das Problem zu lösen.

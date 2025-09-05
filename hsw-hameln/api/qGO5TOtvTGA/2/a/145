@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass man zwischen zwei verschiedenen Arten von Routing unterscheiden sollte: statisches Routing und dynamisches Routing. 
+
+- **Statisches Routing** ist, wenn ein Mensch (ein Administrator) die Routen auf den Routern manuell einstellt. Das sind feste Wege, die nicht ändern, es sei denn, der Administrator ändert sie.
+
+- **Dynamisches Routing** ist, wenn die Router selbstständig entscheiden, welche Wege sie nehmen sollen. Sie kommunizieren miteinander und passen die Wege an, je nachdem, ob sich etwas ändert, zum Beispiel wenn ein Weg kaputt ist oder ein neuer Weg entsteht.
+
+Wichtig ist, dass man die Begriffe „IP“ und „Routing-Protokoll“ nicht durcheinanderbringt. Bei IP geht es um das Protokoll, das die Daten weiterleitet, und bei Routing-Protokollen geht es um die Regeln, die die Router helfen, die besten Wege zu finden.

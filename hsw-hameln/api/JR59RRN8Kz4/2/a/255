@@ -1,0 +1,9 @@
+Die Aussage geht darum, wie wichtig es ist, dass bei der Telefonie über das Internet (Voice over IP) die Sprache klar und ohne Unterbrechungen ankommt. Hier sind die Hauptpunkte einfach erklärt:
+
+1. **Paketverluste**: Man möchte, dass fast keine Datenpakete verloren gehen. Wenn ein Paket verloren geht, kann ein Wort oder ein Teil des Gesprächs fehlen.
+
+2. **Jitter**: Das ist, wenn die Zeit, die Datenpakete brauchen, um anzukommen, unterschiedlich ist. Man will, dass die Pakete immer in ähnlichem Tempo ankommen, damit das Gespräch flüssig klingt.
+
+3. **Verzögerung**: Man möchte, dass es keine langen Wartezeiten gibt, wenn man spricht. Wenn es zu lange dauert, bis das Gesprochene beim anderen ankommt, kann das Gespräche stören.
+
+Um all dies zu erreichen, gibt es verschiedene Methoden und Techniken, die man nutzen kann, damit die Telefonate über das Internet gut funktionieren.

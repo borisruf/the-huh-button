@@ -1,0 +1,7 @@
+In dem Text geht es darum, wie zwei verschiedene Arten von Datenübertragung im Internet funktionieren: TCP und UDP.
+
+TCP ist wie ein sehr vorsichtiger Postbote. Er sorgt dafür, dass alle Pakete, die er bringt, ankommen und in der richtigen Reihenfolge sind. Dafür hat er viele Informationen, die ihm helfen, alles richtig zu machen. Diese Informationen machen den TCP-„Brief“ 20 Byte groß.
+
+UDP dagegen ist wie ein schneller Lieferdienst. Er liefert die Pakete viel schneller, aber ohne sicherzustellen, dass alles ankommt oder dass es in der richtigen Reihenfolge ist. Deshalb sind die Informationen, die er braucht, viel weniger, und die „Pakete“ haben nur wenige Daten.
+
+In diesem Zusammenhang sagt die Aussage, dass wir schon im vorherigen Bild gesehen haben, dass TCP 20 Byte groß ist und dass es dort mehr Informationen gibt. Das bedeutet, dass TCP sich mehr um Sicherheit und die Ordnung der Daten kümmert, während UDP schnell ist, aber nicht so viel „Überwachung“ hat.

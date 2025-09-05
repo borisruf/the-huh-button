@@ -1,0 +1,13 @@
+Die Aussage erklärt, wie Computer in einem Netzwerk miteinander kommunizieren. 
+
+1. **Carrier Sense (CS):** Das bedeutet, dass die Computer zuerst hören oder überprüfen, ob die Verbindung frei ist. Es ist wie wenn du in einen Raum kommst und erst schaust, ob jemand redet, bevor du anfängst zu sprechen.
+
+2. **Multiple Access:** Das heißt, dass mehrere Computer gleichzeitig versuchen können, auf die Verbindung zuzugreifen. In unserem Beispiel sind das Computer 1 und 3.
+
+3. **Medium:** Damit ist die Verbindung gemeint, über die die Computer ihre Informationen senden, also das "gemeinsame Medium".
+
+4. **Information übermitteln:** Wenn die Computer 1 und 3 feststellen, dass die Verbindung frei ist (niemand redet), können sie gleichzeitig ihre Informationen senden.
+
+5. **Herausforderung:** Wenn viele Computer gleichzeitig senden wollen, kann es zu Problemen kommen. Deshalb brauchen wir Regeln, um zu entscheiden, wann jeder Computer senden darf, damit nicht mehrere Computer gleichzeitig sprechen und die Informationen durcheinander geraten. Diese Regeln nennt man Protokolle.
+
+Zusammengefasst: Bevor Computer in einem Netzwerk sprechen, hören sie, ob die Verbindung frei ist. Wenn ja, können sie gleichzeitig Informationen senden, aber sie brauchen Regeln, damit alles gut funktioniert.

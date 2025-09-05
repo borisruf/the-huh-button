@@ -1,0 +1,1 @@
+ Wir haben vorher schon mal gesehen, dass es ein altes Ethernet gab, wo das Typfeld für die Länge benutzt wurde.  Hier wird es jetzt dafür genutzt, wirklich zu kennzeichnen, kommt aus der Schicht 3 ein A-Paket, kommt ein IP-Paket.

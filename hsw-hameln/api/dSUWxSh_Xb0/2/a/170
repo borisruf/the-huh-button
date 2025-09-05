@@ -1,0 +1,15 @@
+Okay, lass uns das in sehr einfacher Sprache erklären:
+
+In der Technik sprechen wir oft darüber, wie viele Informationen gleichzeitig durch ein Kabel oder eine Verbindung geschickt werden können. Multiplexing ist ein Weg, um das zu ermöglichen. 
+
+Stell dir vor, du hast vier Personen, die gleichzeitig reden wollen, aber nur ein Telefon. Normalerweise könnte nur eine Person sprechen, und die anderen müssen warten. Multiplexing hilft dabei, dass alle gleichzeitig miteinander sprechen können, indem es die Gespräche auf eine bestimmte Art organisiert.
+
+Es gibt verschiedene Methoden, um Multiplexing zu machen:
+
+1. **Frequenz-Multiplexing:** Hierbei werden die Informationen auf unterschiedlichen "Frequenzen" (das sind wie spezielle Kanäle) auf das Kabel geschickt. Das benutzt man oft bei Kupferkabeln.
+
+2. **Wellenlängen-Multiplexing:** Das ist ähnlich, aber hier verwenden wir Licht und spezielle Kabel, die für Licht gemacht sind, um Informationen zu übertragen.
+
+3. **Code-Multiplexing:** Diese Technik wird verwendet, wenn Informationen durch die Luft verschickt werden, wie bei Funkverbindungen. Dabei werden die Daten durch spezielle Codes getrennt, sodass verschiedene Informationen gleichzeitig gesendet werden können.
+
+So hilft Multiplexing, dass viele Daten gleichzeitig über ein einziges Medium geschickt werden können, ohne dass sie sich gegenseitig stören.

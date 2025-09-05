@@ -1,0 +1,13 @@
+In diesem Abschnitt geht es darum, wie wir Informationen, die aus Einsen und Nullen bestehen (das nennt man einen Bitstrom), in ein physikalisches Signal umwandeln können, das wir über Kabel oder drahtlos übertragen können.
+
+Stell dir vor, wir haben eine Welle, wie die Wellen im Meer. Diese Welle kann uns helfen, Informationen zu senden. Um die Welle zu nutzen, müssen wir zuerst herausfinden, wo sie ist und wie sie sich im Laufe der Zeit verhält. Das macht man, indem man die Welle an bestimmten Punkten und zu bestimmten Zeiten misst, was wir „Abtasten“ nennen.
+
+Wir tun dies in zwei Schritten:
+
+1. **Zeitliche Abtastung**: Wir schauen uns die Welle regelmäßig zu festen Zeiten an.
+   
+2. **Wert-Abtastung**: Wir messen die Höhe der Welle, also die Werte, wenn wir bei den festen Zeiten sind.
+
+Wenn wir beide Methoden zusammenbringen, können wir aus der ursprünglichen Welle ein digitales Signal machen, das aus Einsen und Nullen besteht. Das ist wichtig, weil wir digitale Signale übertragen wollen.
+
+Um ein Signal zu erzeugen, das wir senden können, brauchen wir eine spezielle Art der Codierung, die Leitungskodierung genannt wird. Diese hilft uns, den Bitstrom (die Einsen und Nullen) in eine Form zu bringen, die wir als Signal nutzen können.

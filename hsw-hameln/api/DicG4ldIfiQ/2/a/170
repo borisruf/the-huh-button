@@ -1,0 +1,9 @@
+Die Aussage sagt, dass es bei elektrischen Signalen nicht nur einen Widerstand gibt, den man leicht erkennen kann (den ohmschen Widerstand), sondern auch andere Widerstände, die man nicht sofort sieht. Diese anderen Widerstände nennt man Blindwiderstände. 
+
+Blindwiderstände sind die Resultate von zwei Dingen: 
+
+1. **Induktiver Widerstand**: Das passiert, wenn ein Kabel ein Magnetfeld erzeugt, wenn Strom durchfließt. Das kann die Übertragung von Signalen stören.
+
+2. **Kapazitiver Widerstand**: Das hat mit der Fähigkeit von Kabeln zu tun, Energie zu speichern und ebenfalls die Signale zu beeinflussen.
+
+Wenn Signale über Kabel gesendet werden, beeinflussen all diese Widerstände die Qualität des Signals. Es ist wichtig, diese Effekte zu verstehen, um sicherzustellen, dass die Signale ohne Störungen ankommen.

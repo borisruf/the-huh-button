@@ -1,0 +1,11 @@
+In dieser Erklärung geht es darum, wie mehrere Daten gleichzeitig über eine Leitung geschickt werden können, ohne dass sie sich stören. Stell dir vor, du hast mehrere Freunde, die gleichzeitig mit dir sprechen wollen, aber es gibt nur ein Mikrofon. Du kannst also nicht allen gleichzeitig zuhören.
+
+1. **Multiplexing ist wie ein Mikrofon:** Stellen wir uns vor, Multiplexing ist wie ein Mikrofon, das mehreren Leuten (Daten) erlaubt, nacheinander zu sprechen, ohne dass sie sich gegenseitig unterbrechen.
+
+2. **Physikalische Leitung:** In einem Kabel (der physikalischen Leitung) kann normalerweise nur eine Art von Signal gleichzeitig übertragen werden. Wenn eine Gruppe spricht, ist das Kabel für andere Gruppen „besetzt“.
+
+3. **Wir brauchen eine Lösung:** Damit alle gleichzeitig kommunizieren können, brauchen wir eine Art System, das regelt, wann wer sprechen darf. Das ist das Multiplexing.
+
+4. **Frequenz-Multiplexing:** Eine spezielle Art von Multiplexing ist das Frequenz-Multiplexing. Hier werden verschiedene Daten auf unterschiedlichen „Frequenzen“ (wie verschiedene Radiokanäle) gesendet. Wenn die Daten auf unterschiedlichen Frequenzen sind, können sie gleichzeitig über das gleiche Kabel geschickt werden, ohne dass sie sich stören.
+
+In einfacher Sprache: Frequenz-Multiplexing ermöglicht es mehreren Daten, gleichzeitig über ein Kabel zu fließen, indem jede Art von Daten auf einer eigenen „Welle“ oder Frequenz reist, so dass sie sich nicht gegenseitig stören.

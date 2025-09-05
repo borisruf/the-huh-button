@@ -1,0 +1,7 @@
+In einfachen Worten: 
+
+Wenn wir darüber sprechen, wie verschiedene Netzwerke miteinander verbunden werden, brauchen wir spezielle Geräte. Eines dieser Geräte ist der "Switch". Ein Switch hilft, mehrere Gruppen von Computern oder Geräten zu verbinden. Wenn diese Gruppen verbunden sind, nennt man das eine "Kollisionsdomäne". 
+
+Das Wort "Kollisionsdomäne" bedeutet, dass die Geräte innerhalb dieser Gruppe dieselbe Verbindung nutzen, und wenn mehrere Geräte gleichzeitig senden, kann es zu Störungen kommen (also zu "Kollisionen"). Ein Switch hilft, das besser zu organisieren, sodass weniger Kollisionen passieren müssen. 
+
+Wenn wir also mehrere Netzwerke haben, die durch Switches verbunden sind, haben wir eine größere Übersicht über, wie die Daten fließen und weniger Probleme mit Störungen zwischen den Geräten.

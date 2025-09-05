@@ -1,0 +1,3 @@
+Es gibt viele Geräte, die mit dem Internet verbunden sind, wie Smartphones, Computer, Drucker und sogar Haushaltsgeräte. Jedes dieser Geräte braucht eine eigene Adresse, die IP-Adresse. Manchmal hat ein Gerät mehrere Adressen, weil es verschiedene Möglichkeiten gibt, sich mit dem Internet zu verbinden – zum Beispiel WLAN und Kabel. 
+
+Das Problem ist, dass es nicht unbegrenzt viele IP-Adressen gibt. Immer mehr Geräte brauchen immer mehr Adressen. Deshalb wird der Platz für diese Adressen immer weniger. Im Moment sind wir an einem Punkt, wo es langsam schwierig wird, genug IP-Adressen zu finden. Wegen dieser Situation gibt es einen Wechsel von der alten Version der Adressen (IP-Version 4) zur neuen Version (IP-Version 6), die viel mehr Adressen bieten kann.

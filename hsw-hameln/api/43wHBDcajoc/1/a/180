@@ -1,0 +1,7 @@
+Die Aussage bezieht sich auf die beiden grundlegenden Verfahren, die in der Bitübertragungsschicht des IEEE 802.11 Standards für WLAN verwendet werden: Frequency Hopping Spread Spectrum (FHSS) und Direct Sequence Spread Spectrum (DSSS). Beide Verfahren ermöglichen die Übertragung von Daten über Funkfrequenzen und wurden entwickelt, um Interferenzen zu reduzieren und die Übertragungsqualität zu verbessern. 
+
+- **Frequency Hopping Spread Spectrum (FHSS)**: Bei diesem Verfahren wechselt das Signal schnell zwischen verschiedenen Frequenzen innerhalb eines festgelegten Spektrums, was hilft, Störungen zu vermeiden und die Sicherheit zu erhöhen.
+
+- **Direct Sequence Spread Spectrum (DSSS)**: Hierbei wird das ursprüngliche Datensignal mit einer höheren Frequenz gemultiplext, was ebenfalls zur Reduzierung von Interferenzen beiträgt und eine robustere Verbindung ermöglicht.
+
+In der heutigen Zeit sind beide Verfahren zwar noch relevant, jedoch auch modifiziert worden, um den steigenden Anforderungen an die WLAN-Technologie gerecht zu werden.

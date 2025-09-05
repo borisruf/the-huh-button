@@ -1,0 +1,1 @@
+  Das ist also tatsächlich variabel und kann entsprechend über den Zeitraum der Kommunikation angepasst werden.  Wichtig ist letztlich, dass bei diesem Sliding-Window-Verfahren eine zusätzliche Kommunikation zwischen Sender und Empfänger stattfindet, die eben über unsere Protokollelemente mit eingebracht werden.

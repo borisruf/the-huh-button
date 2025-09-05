@@ -1,0 +1,3 @@
+In diesem Text geht es darum, wie man Fehler in Daten erkennt und damit umgeht. Man sagt, dass es einfach ist, kleine Fehler in Dingen wie Video- oder Audiostreams zu ignorieren, weil da oft nur die Geschwindigkeit wichtig ist. Aber bei wichtigen Dingen, wie Geldüberweisungen, darf es keine Fehler geben.
+
+Wenn bei einer Geldüberweisung etwas schiefgeht, wie zum Beispiel ein falsches Vorzeichen (also wenn eine Zahl statt positiv negativ ist), kann das große Probleme verursachen. Das könnte dazu führen, dass man denkt, man hat Geld bekommen, dabei hat man es verloren oder andersherum. Deshalb ist es bei Geldtransaktionen sehr wichtig, dass die Daten richtig und fehlerfrei sind.

@@ -1,0 +1,5 @@
+Die Aussage besagt, dass bei einem bestimmten Routing-Protokoll, das RIP heißt, es wichtig ist zu wissen, wie viele andere Router (Hops) man durchqueren muss, um zu einem Ziel zu gelangen. 
+
+Stell dir vor, wenn du von deinem Zuhause zu einem Freund fährst, gibt es vielleicht mehrere Wege, die du nehmen kannst. Manchmal musst du an verschiedenen Straßen oder Kreuzungen anhalten. Bei RIP schaut man einfach, wie viele solcher Stopps (Hops) man hat. Je weniger Stopps du hast, desto besser ist der Weg, weil du schneller dort bist. 
+
+Also sagt RIP: Der beste Weg ist der mit den wenigsten Hops, also den wenigsten Zwischenstationen.

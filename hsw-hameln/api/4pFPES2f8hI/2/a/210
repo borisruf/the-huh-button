@@ -1,0 +1,17 @@
+Die Aussage "255.255.00 wären das eben 16 Einsen, die wir dort haben" bezieht sich auf eine Subnetzmaske und ist ein technischer Ausdruck in der Computer-Netzwerktechnik.
+
+Um das einfach zu erklären:
+
+1. **Was ist eine Subnetzmaske?** 
+   - Eine Subnetzmaske hilft uns, ein großes Netzwerk in kleinere Teile (Subnetze) zu teilen. 
+
+2. **Warum ist die Zahl 255 wichtig?**
+   - In der Subnetzmaske sehen wir Zahlen wie 255.255.0.0. Hier steht 255 für volle Einsen in der Binärsprache (die Sprache der Computer), und 0 bedeutet Nullen. 
+
+3. **Was bedeutet "16 Einsen"?**
+   - Wenn wir 255 in Binärform schreiben, sieht es so aus: 11111111. Das sind 8 Einsen. Wenn wir also zwei mal 255 haben (also 255.255), haben wir schon 16 Einsen (8 + 8 = 16). 
+
+4. **Zusammengefasst:**
+   - Wenn die Subnetzmaske 255.255.0.0 ist, haben wir 16 Einsen. Das hilft uns zu bestimmen, wie viele kleine Netzwerke wir aus dem großen Netzwerk machen können. 
+
+Das einfache Bild ist also: Die Zahl 255 zeigt an, wo das Netzwerk beginnt, und die "16 Einsen" zeigen, wie viele sichere Adressen wir in den Subnetzen haben.

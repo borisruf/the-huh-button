@@ -1,0 +1,1 @@
+ Wenn wir uns das Ganze mal im Wireshark anschauen, also in einer Darstellung, wie das Ganze als Datenstrom aussieht, dann sehen wir, wir haben einen Aufruf mit einem Quellport von irgendwas, was deutlich überhalb von 30. 000 liegt, also irgendeinem Port, den wir frei vergeben können, auf einen bestimmten well-known Port, auch das haben wir schon kennengelernt.

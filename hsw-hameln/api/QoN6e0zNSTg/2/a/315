@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie ein Ethernet-Paket organisiert ist. Ein Ethernet-Paket ist wie ein Brief, der Informationen von einem Computer zu einem anderen transportiert. Damit der Inhalt richtig verschickt wird, haben wir verschiedene Abschnitte, genau wie ein Brief in verschiedene Teile unterteilt ist (z.B. Absender, Empfänger, Text).
+
+Um das besser zu verstehen, schau dir die Abschnitte eines solchen Pakets an. Die Teile des Ethernet-Pakets helfen den Computern zu wissen, wohin die Informationen gehen und wie diese gesendet werden. Es ist also wichtig, dass wir wissen, wie wir diese Pakete aufteilen, damit alles gut funktioniert.
+
+Im Hintergrund gibt es Regeln, die sicherstellen, dass viele Computer gleichzeitig auf die Verbindung zugreifen können, ohne sich gegenseitig zu stören. Wenn zwei Computer gleichzeitig senden, gibt es ein Problem – das nennt man Kollision. Das Protokoll muss dann dafür sorgen, dass sie wissen, einen neuen Versuch zu starten. Das ist wie wenn zwei Leute gleichzeitig sprechen und einer wartet dann, bis der andere fertig ist, bevor er weiterredet.
+
+Zusammengefasst: Diese Aussage erklärt, wie Ethernet-Pakete aufgebaut sind und wie die Regeln dafür sorgen, dass viele Computer gleichzeitig kommunizieren können, ohne durcheinanderzukommen.

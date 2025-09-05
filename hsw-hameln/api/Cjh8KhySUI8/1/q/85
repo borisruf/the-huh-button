@@ -1,0 +1,1 @@
+  Auch dort wird ähnlich wie bei TCP auf Multiplexing mit Hilfe von Ports gesetzt, aber wir haben eben kein Verbindungsmanagement, wir haben keine Flusskontrolle und wir haben auch keine oder nur eine ganz rudimentäre Fehlerbehandlung oder Fehlerkorrektur an dieser Stelle.

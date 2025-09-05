@@ -1,1 +1,1 @@
- Wir erinnern uns, im IP-Header finden wir sowohl die Sender- als auch die Quell -IP-Adresse mit jeweils 32-Bit-Länge.  Wie aber genau setzen sich diese 32-Bit eigentlich zusammen?
+ Nun, wenn wir eine IP-Version 4 -Adresse nehmen, dann haben wir ja schon gesehen, als Beispiel die 172. 16.

@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes: 
+
+Wir sprechen hier über das UDP-Protokoll, das ein Teil der Datenübertragung ist. Wenn Daten über das Internet oder andere Netzwerke gesendet werden, gibt es verschiedene Protokolle, die regeln, wie das passiert. UDP ist eines dieser Protokolle und hat einen speziellen Fokus.
+
+Im Gegensatz zu anderen Protokollen, die sicherstellen, dass die Daten richtig und vollständig kommen (wie bei einem Paket, das sicher ankommt), kümmert sich das UDP-Protokoll nicht darum, ob die Daten fehlerhaft sind oder ob sie überhaupt ankommen. Stattdessen legt es großen Wert darauf, dass die Daten schnell gesendet werden. 
+
+Das bedeutet, wenn du während eines Videoanrufs oder beim Spielen eines Online-Spiels kleine Fehler in den Daten hast, ist es nicht so schlimm, weil es schneller ist, sie einfach zu ignorieren. UDP sorgt dafür, dass die Daten schnell ankommen, auch wenn das bedeutet, dass manchmal Daten verloren gehen oder nicht ganz korrekt sind.

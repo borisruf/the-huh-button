@@ -1,0 +1,9 @@
+In dieser Aussage geht es darum, wie man IP-Adressen in der Version 6 (IPv6) schreibt. IP-Adressen sind wichtig, damit Geräte im Internet sich erkennen und miteinander kommunizieren können. 
+
+1. **Hexadezimalzahlen**: Bei IPv6 verwendet man eine besondere Art von Zahlen, die Hexadezimalzahlen heißen. Das sind Zahlen von 0 bis 9 und dann A bis F für die Zahlen 10 bis 15.
+
+2. **Trennung durch Doppelpunkte**: Anders als bei der älteren Version (IPv4), wo die Zahlen durch Punkte getrennt sind, werden die Zahlen bei IPv6 durch Doppelpunkte getrennt.
+
+3. **Vereinfachung**: IPv6-Adressen bestehen aus 128 Bit, was ganz schön kompliziert ist. Um es einfacher zu machen, gibt es verschiedene Möglichkeiten, wie man diese Adressen kürzer und verständlicher schreiben kann. Man muss sich also nicht alles im Detail merken.
+
+Zusammengefasst: Es wird erklärt, dass IPv6-Adressen mit speziellen Zahlen und Doppelpunkten geschrieben werden und dass es Wege gibt, sie einfacher zu machen, damit man nicht alles merken muss.

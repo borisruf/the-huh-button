@@ -1,0 +1,5 @@
+Stell dir vor, du möchtest einen Brief von einem Freund in deinem Stadtteil zu einem anderen Freund in einer anderen Stadt schicken. Dein Brief muss durch verschiedene Postämter, um ans Ziel zu kommen. Diese Postämter sind wie Router, die den Brief von einem Ort zum anderen weiterleiten.
+
+Wenn dein Brief in einem Postamt ankommt und das Postamt merkt, dass dein Freund nicht in der eigenen Stadt wohnt, muss es den Brief an ein anderes Postamt weitergeben, das für die nächste Stadt zuständig ist. Das erste Postamt, das deinen Brief weitergibt, nennen wir "Default Gateway", also der erste Ort, bei dem entschieden wird, wohin der Brief als Nächstes gehen soll.
+
+Ein Router kann in verschiedenen Städten (oder Netzwerken) arbeiten und hat für jede Stadt seine eigene Adresse. Wenn du also einen Brief verschicken möchtest, der nicht in deiner Stadt bleibt, musst du immer zuerst zu diesem "Default Gateway" – dem ersten Postamt – gehen, das dir hilft, deinen Brief weiterzuleiten.

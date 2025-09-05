@@ -1,0 +1,9 @@
+Die Aussage „Diese Adresse ist in der Hardware implementiert“ bedeutet, dass die MAC-Adresse eines Netzwerkgeräts direkt auf dem Computer oder Gerät selbst gespeichert ist. Man kann sich das so vorstellen, wie eine feste Telefonnummer, die einem Gerät zugeordnet ist. Jedes Gerät, wie ein Laptop oder ein Drucker, hat eine eigene, einzigartige MAC-Adresse.
+
+Bei Ethernet, einem bekannten Computernetzwerk-System, gibt es zwei Arten, wie Geräte Adressen verwenden können:
+
+1. **Physische Adresse**: Das ist die MAC-Adresse, die in der Hardware steckt. Sie hilft dabei, das Gerät im Netzwerk zu erkennen und sicherzustellen, dass die Daten richtig ankommen.
+
+2. **Logische Adresse**: Dies ist eine Adresse, die flexibel genutzt werden kann, wie zum Beispiel die IP-Adresse. Diese kann sich ändern, je nachdem, in welchem Netzwerk sich das Gerät befindet.
+
+Zusammengefasst bedeutet das, dass jedes Netzwerkgerät eine spezielle, feste „Handynummer“ hat (die MAC-Adresse), um sich im Netzwerk zu identifizieren.

@@ -1,0 +1,5 @@
+Wenn wir Signale über Kabel oder drahtlos übertragen, gibt es viele Dinge, die das beeinträchtigen können. Es gibt zum Beispiel Störungen oder Rauschen. Um das zu verstehen, schauen wir uns zuerst an, wie stark das Signal ist, das wir senden, und wie viel Rauschen dabei ist.
+
+Das Shannon-Theorem hilft uns zu erkennen, wie viel Information wir in solchen Situationen übertragen können. Es sagt uns, dass das Verhältnis zwischen dem Signal (was wir senden wollen) und dem Rauschen (was stört) sehr wichtig ist. Wenn unser Signal stark ist und das Rauschen schwach ist, können wir viel Information gut und klar übertragen. Wenn das Rauschen stark ist und das Signal schwach, wird es schwieriger, die Information richtig zu erkennen.
+
+Also, zusammengefasst: Je besser unser Signal im Vergleich zum Rauschen ist, desto mehr und klarere Informationen können wir übertragen.

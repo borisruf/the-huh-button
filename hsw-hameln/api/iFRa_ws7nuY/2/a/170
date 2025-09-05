@@ -1,0 +1,13 @@
+Die Aussage beschreibt, wie man bestimmte Wellenformen, wie zum Beispiel eine Sinusschwingung, mathematisch beschreibt. Eine Sinusschwingung ist einfach eine Art von Welle, die in einem bestimmten Muster steigt und fällt, ähnlich wie Wellen im Wasser.
+
+Hier sind die einfachen Punkte:
+
+1. **Sinusschwingung**: Das ist eine Welle, die nach einem speziellen Muster aussieht. Man kann sie mit einer mathematischen Funktion, dem Sinus, beschreiben.
+
+2. **Kreisfrequenz**: Das ist ein Maß dafür, wie schnell die Welle schwingt. Man nennt sie Omega (Ω). Dabei steht "2π" für einen vollen Umdrehung und ist wichtig für die Welle.
+
+3. **Phasenverschiebung**: Manchmal möchte man diese Welle ein bisschen verschieben, zum Beispiel nach links oder rechts. Das nennt man ein "Phi" (Φ) einfügen. Das ist wie wenn man ein Bild ein bisschen zur Seite schiebt.
+
+4. **Schwingungen beschreiben**: Wenn man die Welle und ihre Verschiebung kennt, kann man genau aufschreiben, wie die Schwingung aussieht. 
+
+Insgesamt hilft uns das, die Signale besser zu verstehen, die wir für die Datenübertragung nutzen wollen. Dabei nehmen wir die Informationen und formen sie in eine Sinusschwingung um, die dann durch die Luft oder durch Kabel gesendet werden kann.

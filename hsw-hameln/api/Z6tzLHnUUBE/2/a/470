@@ -1,0 +1,15 @@
+In einfachen Worten:
+
+Das Internet benutzt verschiedene Adressen, um Computer und Geräte zu finden und miteinander zu verbinden. Jede Art von Adresse hat ihren eigenen Zweck. Es gibt zum Beispiel die IP-Adresse, die wie eine Postanschrift für Computer im Internet ist, und die MAC-Adresse, die wie eine persönliche ID für jedes Gerät in einem Netzwerk ist.
+
+Wenn ein Computer (wir nennen ihn Rechner A) Daten an einen anderen Computer (Rechner B) senden möchte, sieht das ganz einfach aus. Rechner A braucht die IP-Adresse von Rechner B, um zu wissen, wo die Daten hingehen. Aber Rechner A braucht auch die MAC-Adresse von Router 1, weil Router 1 innerhalb seines Netzwerks arbeitet.
+
+Die Kommunikation sieht so aus:
+
+1. Rechner A weiß, wo die Daten hingehen (Rechner B).
+2. Rechner A hat die MAC-Adresse von Router 1 und kann ihm die Daten schicken.
+3. Router 1 nimmt die Daten, sieht die IP-Adressen (von Rechner A und Rechner B) und weiß, dass er die Daten weiterleiten muss.
+4. Router 1 sucht dann die MAC-Adresse von Router 2, um die Daten weiterzuleiten.
+5. So geht es weiter von Router zu Router, bis die Daten bei Rechner B ankommen.
+
+Jeder Router schaut sich die IP-Adresse an, um die Daten an das richtige Ziel zu schicken, und benutzt die MAC-Adresse, um die Daten innerhalb seines Netzwerks zu übermitteln.

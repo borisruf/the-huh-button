@@ -1,0 +1,9 @@
+Okay, hier ist die Erklärung in sehr einfacher Sprache:
+
+Wenn wir das Netzwerk in verschiedene Bereiche teilen, zum Beispiel für Daten und für Telefonate, gibt es Vorteile. 
+
+Im Voice-VLAN (wo nur die Telefone sind) gibt es weniger Lärm und weniger stören Dinge, die in anderen Bereichen passieren. 
+
+Das bedeutet, wenn im normalen Datenbereich etwas passiert, wie zum Beispiel ein Computer, der nach einer IP-Adresse fragt (das nennt man DHCP), dann hat das keinen Einfluss auf die Telefone im Voice-VLAN. 
+
+Also, die Telefone können schneller und besser arbeiten, weil weniger Datenverkehr aus anderen Bereichen stört. Es wird also weniger belastend für die Telefone, und das verbessert die Sprachqualität.

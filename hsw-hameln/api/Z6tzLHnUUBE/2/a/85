@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass wir mit dem Internetprotokoll (IP) sogenannte "Pakete" erstellen. Das OSI-Modell ist ein System, das hilft zu verstehen, wie Daten im Internet verschickt werden. Es hat verschiedene Schichten. IP gehört zur dritten Schicht, die sich um das Versenden von Daten kümmert.
+
+Also einfach gesagt: Mit IP teilen wir Daten in kleine Stücke, die "Pakete" heißen. Diese Pakete sind wichtig, damit die Informationen richtig und sicher von einem Computer zu einem anderen gelangen können.

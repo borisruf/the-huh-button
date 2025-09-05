@@ -1,0 +1,3 @@
+Bob Metcalf hat eine wichtige Idee erfunden, die Ethernet heißt und schon 40 Jahre alt ist. Er lacht dabei ein bisschen, weil seine Idee ähnlich ist wie ein altes Konzept namens "Ether". Das "Ether" war früher die Vorstellung von einem unsichtbaren Raum, in dem sich alles bewegt. Metcalf wollte ein gemeinsames Medium schaffen, wo viele Geräte im Netzwerk miteinander verbunden sind.
+
+Das Problem dabei ist, dass viele Geräte gleichzeitig versuchen, dieses gemeinsame Medium zu benutzen. Das kann schwierig sein, weil sie sich gegenseitig stören können, wenn sie gleichzeitig senden wollen. Also ist es eine Herausforderung, dass alle gut miteinander arbeiten können, ohne sich zu behindern.

@@ -1,3 +1,7 @@
-Eine IP-Adresse hat zwei Teile - den Netzwerk-Teil und den Host-Teil. Jeder dieser Teile wird durch eine spezielle Nummer bestimmt, die wir Subnetzmaske nennen. Die Subnetzmaske sagt uns, welcher Teil der IP-Adresse der Netzwerk-Teil ist und welcher der Host-Teil ist. Sie besteht aus Einsen und Nullen. Wo eine Eins steht, gehört die Stelle zur Netzwerk-Adresse und wo eine Null steht, zur Host-Adresse. Das bedeutet, wenn man die Binärform der IP-Adresse und der Subnetzmaske anschaut und dort wo bei beiden eine Eins steht eine neue Eins setzt, bleiben nur die Stellen übrig, die zur Netzwerkadresse gehören. 
+Die Aussage bedeutet einfach:
 
-Beispielsweise nimmt man die IP-Adresse 172.16.14.193 und die Subnetzmaske 255.255.0.0. Die ersten beiden Abschnitte bei der Subnetzmaske sind 255, also haben wir in beiden ersten Abschnitten nur Einsen, die restlichen Nullen. Bei der IP-Adresse haben wir unterschiedliche Zahlen, jedoch kann durch die Subnetzmaske nur an den Stellen eine Eins bleiben wo auch in der Subnetzmaske eine Eins ist. In diesem Fall steht also die 172 und 16 für den Netzteil der IP-Adresse.
+Wenn wir zwei Zahlen vergleichen, zum Beispiel eine IP-Adresse und eine Subnetzmaske, schauen wir uns an, wo beiden Zahlen eine „1“ haben. Nur dort, wo beide eine „1“ haben, bleibt eine „1“ übrig. 
+
+In der IP-Adresse 172.16 (das sind die ersten beiden Teile) sind dort „1“ und das sehen wir auch in der Subnetzmaske. Aber die letzten beiden Teile der Subnetzmaske haben nur „0“. Das bedeutet, dass dort nichts übrig bleibt.
+
+Also, wenn wir die IP-Adresse mit der Subnetzmaske vergleichen, bleibt nur das, was in der IP-Adresse „172.16“ ist, und für die anderen Teile gibt es keine „1“, also bleibt da eine „0“.

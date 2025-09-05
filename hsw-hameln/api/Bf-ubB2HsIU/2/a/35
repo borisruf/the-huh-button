@@ -1,1 +1,5 @@
-Wir haben schon ein paar Grundlagen über Netzwerke gelernt. Jetzt wollen wir uns auf die zwei wichtigsten Regeln konzentrieren, die wir in dieser Veranstaltung lernen - TCP und IP. Du kennst vielleicht schon ein paar Beispiele, wie die IP-Adresse. Aber was ist mit TCP? Wir haben schon ein bisschen darüber geredet, aber jetzt wollen wir mehr darüber lernen.
+In diesem Kapitel wollen wir mehr über zwei wichtige Dinge sprechen, die helfen, dass Computer miteinander kommunizieren können. Diese Dinge heißen TCP und IP. 
+
+Sie wissen wahrscheinlich schon, was eine IP-Adresse ist. Sie hilft Computern, sich gegenseitig zu finden, wie eine Adresse für ein Haus.
+
+TCP ist ein anderes wichtiges Protokoll, aber wir haben noch nicht viel darüber gesprochen. Jetzt wollen wir mehr darüber lernen, was TCP genau tut und wie es funktioniert.

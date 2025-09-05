@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass beim Ansehen von Videos, zum Beispiel auf YouTube, nicht jedes kleine Stück (Paket) von Daten wichtig ist. Wenn manchmal ein paar Daten fehlen, merkt das unser Auge meistens nicht. 
+
+Das liegt daran, dass es beim Videostreaming und bei Videokonferenzen wichtiger ist, dass das Bild schnell kommt, auch wenn es nicht perfekt ist. Wenn wir telefonieren oder ein Video sehen, finden wir es besser, wenn das Bild oder der Ton schnell ankommt, auch wenn manchmal kleine Teile fehlen, als dass wir lange warten müssen, bis alles perfekt ist. 
+
+Für das schnelle und einfache Senden von Daten benutzen einige Anwendungen ein Protokoll (UDP), das weniger Regeln hat als ein anderes Protokoll (TCP). Dadurch können die Daten schneller gesendet werden, auch wenn es dabei nicht sichergestellt ist, dass alles ankommt.

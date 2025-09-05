@@ -1,0 +1,5 @@
+Okay, lass uns diese Aussage einfach erklären:
+
+Wir möchten die Hauptseite von Wikipedia aufrufen. Um das zu tun, gibt es zwei wichtige Adressen: eine Adresse, die zeigt, wo die Hauptseite ist (Empfängeradresse), und eine Adresse, die zeigt, von wo wir die Anfrage schicken (Quellenadresse).
+
+Das bedeutet, wenn du auf einen Link klickst, um Wikipedia zu sehen, wird dein Computer wissen, wo er die Daten holen muss und von welchem Computer die Anfrage kommt. Diese beiden Adressen sind wichtig, damit alles funktioniert, und es gibt noch eine andere Art, wie Computer sich gegenseitig ansprechen können.

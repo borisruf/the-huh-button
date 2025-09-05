@@ -1,0 +1,1 @@
+ Wenn ich aber Distance-Vector-Protokolle mir nochmal genauer anschaue, dann ist es so, dass jeder Router seine Informationen natürlich kennt und diese dann an die direkten Nachbarn weitergibt.   Die nehmen dann diese Informationen, fügen ihre eigenen Informationen hinzu und geben diese wiederum an die Nachbarn weiter.

@@ -1,0 +1,3 @@
+Wir haben darüber gesprochen, wie wir digitale Daten (Bits) in ein Signal umwandeln, das wir über Kabel senden können. Das nennt man Leitungskodierung. Es gibt verschiedene Methoden, um das zu machen. Eine der einfachsten Methoden heißt Return-to-Zero. 
+
+Beim Return-to-Zero-Verfahren geht es darum, dass wir für jedes Bit ein bestimmtes Signal erzeugen. Wenn wir eine „1“ senden, machen wir ein bestimmtes Signal, und wenn wir eine „0“ senden, zeigen wir ein anderes Signal. Nach dem Signal für die „1“ geht das Signal kurz auf einen neutralen Zustand zurück, was wie eine Art „Pause“ aussieht. So ist es einfach zu erkennen, ob wir gerade eine „1“ oder eine „0“ senden.

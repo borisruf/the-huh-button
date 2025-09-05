@@ -1,0 +1,15 @@
+Die Aussage bedeutet, dass es wichtig ist, Wege zu finden, um mit Fehlern in der Datenübertragung umzugehen. Wenn wir Fehler entdecken, können wir verschiedene Lösungen ausprobieren. 
+
+Eine Möglichkeit ist, dass wir kleine Fehler manchmal einfach ignorieren können, zum Beispiel bei Video- oder Audioübertragungen, wo Geschwindigkeit wichtiger ist als Perfektion. 
+
+Aber bei wichtigen Daten, wie bei Banküberweisungen, müssen wir sehr sorgfältig sein, weil jeder kleine Fehler große Probleme verursachen kann. 
+
+Um Fehler zu erkennen, können wir zusätzliche Informationen einfügen, wie eine sogenannte Prüfnummer. Wenn wir dann die Daten übertragen, können wir sicherstellen, dass alles ankommt, wie es sein sollte.
+
+Wenn ein Fehler aufgetreten ist, gibt es zwei Hauptmethoden, um damit umzugehen: 
+
+1. **Korrektur**: Die Daten werden auf eine Weise verschickt, dass sie sich selbst reparieren können, wenn sie ankommen. Dies benötigt viel Rechenaufwand, funktioniert aber gut, wenn die Datenübertragung lange dauert.
+
+2. **Wiederholung**: Wenn ein Fehler erkannt wird, wird einfach darum gebeten, die Daten erneut zu senden.
+
+Insgesamt müssen wir also darauf achten, wie wir mit Fehlern in der Datenübertragung umgehen und dabei auch die Zeit berücksichtigen, die wir dafür benötigen.

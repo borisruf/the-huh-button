@@ -1,0 +1,1 @@
+ Stehen die drei höchstwertigen Bits im ersten Oktett auf 1, 1, 0, sind wir in Klasse C und können maximal in dezimaler Schreibweise irgendwas zwischen 192 und 223 an dieser Stelle stehen haben.

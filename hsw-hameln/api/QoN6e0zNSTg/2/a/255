@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass man schon erwartet, dass Computer oder Geräte manchmal miteinander „stoßen“, also gleichzeitig Daten senden und dadurch Probleme verursachen. Das ist normal und man plant dafür. Wichtig ist, wie man darauf reagiert, wenn so eine Kollision passiert. 
+
+Im Kontext geht es darum, dass viele Geräte ein gemeinsames Netzwerk nutzen. Wenn zwei Geräte gleichzeitig senden, kann es zu Fehlern kommen. Daher muss es eine Regelung geben, wie die Geräte mit diesen Kollisionen umgehen. Man muss also sicherstellen, dass jeder nach einem Fehler wieder richtig senden kann, ohne alles durcheinanderzubringen.

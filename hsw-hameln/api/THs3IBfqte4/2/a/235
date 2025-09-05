@@ -1,0 +1,5 @@
+Die Aussage sagt aus, dass wir in einem bestimmten Zeitraum, hier einer Sekunde, 6 Bit übertragen haben. Das bedeutet, dass wir jede Sekunde 6 Informationen senden. In diesem speziellen Fall, wo wir nur zwei Möglichkeiten haben (entweder 0 oder 1), nennt man das auch 6 Baud. 
+
+Baud ist einfach eine Einheit, die angibt, wie oft sich das Signal pro Sekunde ändert. Wenn wir also 6 Bit pro Sekunde übertragen, ändern wir das Signal auch 6 Mal pro Sekunde. 
+
+Wichtig ist, dass das nur für diese spezielle Art der Übertragung gilt, wo wir nur zwischen zwei Zuständen (0 und 1) wechseln. In anderen Fällen, wie bei komplexeren Signalen, könnte die Anzahl der Signaländerungen anders sein.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass jede Netzwerkschnittstelle (wie zum Beispiel ein Computer oder ein Smartphone) eine eigene Adresse bekommt, die eindeutig ist. Man muss dafür nichts extra einstellen, weil diese Adresse automatisch über die MAC-Adresse (eine spezielle Kennung, die jedes Netzwerkgerät hat) vergeben wird. 
+
+Wenn wir uns die neuen IP-Version 6 Adressen anschauen, gibt es Regeln, die es einfacher machen, diese Adressen zu benutzen und zu verstehen. Diese Regeln helfen uns, die langen und komplizierten Adressen besser zu handhaben. 
+
+Insgesamt geht es darum, dass mit der neuen Version von IP (Version 6) jeder Geräten oder Schnittstelle eine klare und einzigartige Adresse zugewiesen wird, was die Kommunikation im Internet erleichtert.

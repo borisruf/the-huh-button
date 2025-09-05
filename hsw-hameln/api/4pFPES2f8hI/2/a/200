@@ -1,0 +1,14 @@
+In diesem Text geht es darum, wie man in Computernetzwerken kleinere Netzwerke, die sogenannten Subnetze, aus einem größeren Netzwerk bildet. 
+
+Stell dir vor, ein großes Netzwerk ist wie ein großes Zimmer mit vielen Tischen, an denen Leute sitzen. Wenn das Zimmer zu voll wird, kann es unübersichtlich werden. Um das Zimmer besser zu organisieren, könnte man Wände einziehen und kleinere Räume schaffen. Das sind die Subnetze.
+
+Der Grund für die Bildung dieser Subnetze ist, dass es nicht genug Internet-Adressen (IP-Adressen) für alle gibt. Früher haben viele Menschen viel zu viele Adressen bekommen, ohne zu wissen, dass sie das nicht brauchen. Jetzt müssen wir also smarter damit umgehen.
+
+Um Subnetze zu bilden, ändern wir die „Subnetzmaske“. Das ist wie ein Werkzeug, das uns hilft zu bestimmen, wie viele kleinere Räume wir brauchen. Dabei achten wir darauf, dass wir keine Zwischenräume lassen, also keinen Platz verschwenden. 
+
+Die Vorteile der Subnetze sind:
+- Wir haben kleinere und leichter zu verwaltende Netzwerke.
+- Wir erhöhen die Sicherheit im Netzwerk.
+- Wir können ungenutzte Adressen freigeben, weil manche großen Netzwerke viel weniger Adressen brauchen, als sie haben.
+
+Die Subnetzmaske sieht zum Beispiel so aus: 255.255.0.0. Diese Zahlen helfen den Computern zu sehen, welches Teil des Netzwerks sie sind und zu welchem anderen Computer sie sprechen können.

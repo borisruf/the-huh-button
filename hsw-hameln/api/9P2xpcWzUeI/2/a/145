@@ -1,0 +1,13 @@
+Okay, lass uns das einfach erklären:
+
+VLANs sind wie unsichtbare Wände, die verschiedene Gruppen von Computern in einem großen Gebäude voneinander trennen, damit sie nur untereinander kommunizieren können, auch wenn sie am selben Ort sind. 
+
+Stell dir vor, in einem Bürogebäude gibt es mehrere Stockwerke. Normalerweise könnte jeder Stock ein eigenes Netzwerk haben, aber das ist nicht immer praktisch. Mit VLANs ist es so, als könnte man sagen: „Wir machen ein Netzwerk für das ganze Büro auf allen Stockwerken, wenn die Leute zusammenarbeiten müssen.“
+
+Jetzt gibt es zwei Wege, um zu entscheiden, wer zu welchem Netzwerk (VLAN) gehört:
+
+1. **Statisch**: Ein Administrator (eine Person, die sich um das Netzwerk kümmert) sagt manuell, welcher Computer zu welchem VLAN gehört, je nachdem, wo er am Switch (das ist ein Gerät, das Computer verbindet) angeschlossen ist. Das kann fehleranfällig sein, weil der Administrator sicherstellen muss, dass immer der richtige Computer am richtigen Port angeschlossen ist.
+
+2. **Dynamisch**: Hier wird es einfacher. Jedes Computer hat eine eindeutige Adresse (MAC-Adresse). Wenn ein Computer an den Switch angeschlossen wird, schaut der Switch nach, zu welchem VLAN dieser Computer gehört, basierend auf seiner MAC-Adresse. So kann er automatisch die richtigen Daten zum richtigen Netzwerk leiten, ohne dass jemand manuell eingreifen muss.
+
+Zusammengefasst: VLANs helfen, Computer in verschiedenen Gruppen zu organisieren, damit sie besser zusammenarbeiten können, und es gibt verschiedene Möglichkeiten, das zu steuern, ob manuell oder automatisch.

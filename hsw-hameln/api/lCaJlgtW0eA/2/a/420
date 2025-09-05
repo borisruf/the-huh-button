@@ -1,0 +1,5 @@
+Die Aussage fragt nach einer Lösung für das Problem, dass viele Computer in einem Netzwerk einander Nachrichten senden, die dann alle anderen Computer im Netzwerk erreichen (das nennt man Broadcast). Wenn man viele solcher Nachrichten hat, kann es das Netzwerk langsam machen.
+
+Um das zu lösen, könnte man spezielle Geräte wie Router benutzen. Router können ein Netzwerk in mehrere Teile aufteilen, sodass Broadcast-Nachrichten von einem Teil nicht in die anderen Teile gelangen. So bleibt das Netzwerk schneller und effizienter. 
+
+Zusammengefasst: Wenn man weniger Broadcast-Nachrichten im gesamten Netzwerk haben möchte, kann man Router verwenden, um die Nachrichten nur in den jeweiligen Teilnetzen zu verteilen.

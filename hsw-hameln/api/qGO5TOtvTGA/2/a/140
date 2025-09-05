@@ -1,0 +1,11 @@
+In dieser Textstelle geht es darum, wie Daten von einem Ort (A) zu einem anderen Ort (B) über verschiedene Router (Geräte, die Daten weiterleiten) gelangen. Es gibt zwei Hauptarten, um das Routing zu organisieren: statisches Routing und dynamisches Routing.
+
+**Statisches Routing** bedeutet, dass jemand (ein Administrator) die Router von Hand mit festen Informationen darüber versorgt, welche Wege die Daten nehmen sollen. Das ist wie eine festgelegte Route auf einer Karte, die nicht ändert.
+
+**Dynamisches Routing** funktioniert anders. Hier nutzen die Router spezielle Programme, die ihnen helfen, die besten Wege automatisch zu finden. Diese Programme passen sich an, wenn sich etwas im Netzwerk ändert. Man kann sich das wie ein Navigationssystem vorstellen, das die besten Straßen in Echtzeit sucht.
+
+Es gibt auch verschiedene Arten von dynamischen Routing-Protokollen. Einige sind besser für kleine Netzwerke geeignet (wie RIP), andere sind gut für große Netzwerke (wie OSPF).
+
+Wichtig ist, dass IP (das Protokoll, das für das Routing verwendet wird) und die Routing-Protokolle unterschiedliche Dinge sind. Man sollte diese nicht verwechseln.
+
+Zusammengefasst: Statisches Routing ist festgelegt und unveränderlich, während dynamisches Routing flexibel ist und sich anpasst.

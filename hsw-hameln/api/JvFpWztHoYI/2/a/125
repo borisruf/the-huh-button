@@ -1,0 +1,7 @@
+Die Aussage spricht über die Übertragung von digitalen Informationen. Hier ist eine einfache Erklärung:
+
+Wenn man Informationen, die nur aus Nullen und Einsen bestehen, über ein Kabel sendet, muss man sie in ein Signal umwandeln, das man durch das Kabel schicken kann. Eine Möglichkeit, dies zu tun, ist das "Return-to-Zero-Verfahren", bei dem das Signal bei einer Eins „hoch“ geht und bei einer Null „niedrig“ bleibt, also zurückkehrt. Das Problem dabei ist, dass dieses Verfahren zu viel „gleichmäßigen" Strom erzeugt, was bedeutet, dass das Signal nicht gut zu lesen ist und man nicht herausfinden kann, wie schnell das Signal wechselt.
+
+Eine andere Methode, das "Non-Return-to-Zero-Verfahren", zeigt nur eine kleine Änderung für eine Null, aber auch hier gibt es das gleiche Problem: Es ist schwierig, den Takt zu erkennen und es gibt oft einen hohen "gleichmäßigen" Strom von vielen Einsen und Nullen hintereinander.
+
+Um diese Probleme zu lösen, schlägt die Aussage vor, das Non-Return-to-Zero-Verfahren zusammen mit einem Taktsignal zu verwenden. Man kann sich das wie ein Spiel vorstellen, wo man einen Schalter (XOR) benutzt, der die Einsen und Nullen steuert. Diese Kombination hilft, den Takt besser herauszufinden und verringert den gleichmäßigen Strom, sodass das Signal klarer und leichter zu lesen ist.

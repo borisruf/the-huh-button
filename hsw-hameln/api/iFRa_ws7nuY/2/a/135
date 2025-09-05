@@ -1,0 +1,7 @@
+Stell dir vor, du hörst Musik. Die Musik ist ein analoges Signal, das ständig und fließend ist. Um diese Musik auf deinem Computer zu speichern, müssen wir sie in eine Form bringen, die der Computer versteht. 
+
+Zuerst schauen wir uns die Musik an einem bestimmten Ort an, zum Beispiel in einem Raum. Dann nehmen wir regelmäßig Proben dieser Musik zu bestimmten Zeiten, also wir hören die Musik jedes Mal nach einer bestimmten Zeitspanne. Das nennen wir zeitdiskrete Abtastung. Man kann sich das vorstellen wie das Knipsen von Fotos in regelmäßigen Abständen, um zu sehen, was sich verändert.
+
+Zusätzlich schauen wir uns auch die Höhe der Musik an, also wie laut sie ist, und nehmen diese Werte auf. Das nennt man wertdiskrete Abtastung. 
+
+Wenn wir also sowohl die Zeit als auch die Lautstärke aufzeichnen, haben wir all die notwendigen Informationen, um die Musik digital zu machen. Das bedeutet, wir haben alles, was wir brauchen, um die Musik auf dem Computer zu speichern und später wiederzugeben. Die Kombination aus beidem - die regelmäßigen Zeiten und die Höhen der Töne - lässt uns ein voll digitales Signal erzeugen, das perfekt von Computern verarbeitet werden kann.

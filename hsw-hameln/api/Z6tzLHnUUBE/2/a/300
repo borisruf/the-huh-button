@@ -1,0 +1,9 @@
+In der Erklärung geht es darum, wie Daten im Internet oder in einem Netzwerk übertragen werden. Hier sind die wichtigen Punkte einfach erklärt:
+
+1. **IP-Version 6 (IPv6)**: Bei IPv6 funktioniert die Übertragung von Daten anders. Es erfordert nicht, dass jeder Router die Größe der Datenpakete (MTU) selbst neu berechnet. Stattdessen wird das vorher gemacht, bevor die Daten reisen, damit die Router nicht so viel Arbeit haben.
+
+2. **LAN und MAC-Adressen**: Wenn wir über die Übertragung von Daten in einem lokalen Netzwerk (LAN) sprechen, müssen wir auch die MAC-Adressen betrachten. MAC-Adressen sind eindeutige Nummern für Geräte im Netzwerk.
+
+3. **Address Resolution Protocol (ARP)**: Dieses Protokoll hilft dabei, MAC-Adressen den IP-Adressen zuzuordnen. Es sagt: „Ich habe diese IP-Adresse, welche MAC-Adresse gehört dazu?“ Dadurch wissen die Geräte, wie sie miteinander kommunizieren können.
+
+Zusammengefasst: IPv6 ist effizienter, weil es die Arbeit der Router erleichtert. Im lokalen Netzwerk sorgen MAC-Adressen dafür, dass Geräte genau wissen, wo sie ihre Daten hinschicken sollen.

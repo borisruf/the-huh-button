@@ -1,0 +1,12 @@
+Die Aussage bedeutet folgendes:
+
+Wenn wir zwei Router miteinander verbinden wollen, brauchen wir IP-Adressen, damit sie kommunizieren können. Wir nutzen eine bestimmte Methode, um herauszufinden, wie viele Adressen wir benötigen.
+
+Die Zahl "zwei hoch zwei" bedeutet, dass wir insgesamt vier Adressen haben. Das sieht so aus:
+
+1. 4 Adressen insgesamt
+2. 2 Adressen sind jedoch für das Netzwerk reserviert und können nicht verwendet werden.
+
+Das bedeutet, dass wir nur noch 2 Adressen übrig haben, die wir nutzen können. Das ist die absolute Mindestanzahl an Adressen, die wir brauchen, um die beiden Router miteinander zu verbinden.
+
+Außerdem ist es wichtig, dass die Router wissen, wie sie die Adressen nutzen und welche Informationen sie brauchen, um richtig miteinander zu kommunizieren. Sie müssen also informiert sein, damit alles gut funktioniert.

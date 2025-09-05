@@ -1,0 +1,9 @@
+Die 5-4-3-Regel hilft uns, Netzwerke besser zu verbinden, ohne dass es zu Problemen kommt. Hier ist die Regel ganz einfach erklärt:
+
+1. **Maximal 5 Segmente:** Wir können nicht mehr als 5 Teile haben, wo die Geräte miteinander sprechen. Jedes Segment ist wie ein kleiner Bereich, in dem Informationen ausgetauscht werden.
+
+2. **Maximal 4 Hubs oder Repeater:** Innerhalb dieser 5 Segmente dürfen nur 4 koppelnde Geräte wie Hubs oder Repeater sein. Diese Geräte helfen, das Signal weiterzuleiten, aber sie können auch Probleme verursachen, wenn es zu viele gibt.
+
+3. **Mindestens 3 Verbindungen:** Es muss immer mindestens eine Verbindung zu einem anderen Segment geben. Das heißt, die Segmente sollten miteinander verbunden sein, damit die Daten richtig fließen können.
+
+Wenn wir uns an diese Regel halten, funktioniert alles besser, und es gibt weniger Störungen im Netzwerk.

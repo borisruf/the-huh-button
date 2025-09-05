@@ -1,1 +1,5 @@
-Wir möchten nicht, dass wir immer auf eine Bestätigung warten müssen, bevor wir neue Informationen senden. Das ist sehr langsam und nicht effizient. Stattdessen möchten wir, dass wir viele Informationen auf einmal senden können, bevor wir auf eine Bestätigung warten. Es ist, als ob man einen Brief schreibt und immer einen Brief zurückbekommt, der sagt "ok, ich habe den Brief bekommen", bevor man einen neuen Brief senden kann. Das wäre sehr langsam und würde viel Zeit kosten. Wir möchten, dass wir viele Briefe auf einmal senden können, bevor wir auf eine Antwort warten. Das macht es schneller und effizienter.
+Die Aussage bedeutet, dass wir in der Datenübertragung nicht immer nur eine Nachricht senden und dann warten, bis wir eine Bestätigung erhalten, dass die Nachricht angekommen ist. Stattdessen möchten wir es effizienter machen. 
+
+Stell dir vor, du schickst einen Brief, wartest auf die Antwort und schickst dann den nächsten Brief. Das dauert lange. Viel besser wäre es, wenn du mehrere Briefe gleichzeitig schicken kannst, ohne bei jedem einzelnen auf eine Antwort zu warten. 
+
+So funktioniert es auch in Netzwerken. Wir möchten mehrere Datenpakete gleichzeitig senden, bevor wir auf die Bestätigung warten, dass alles gut angekommen ist. Das macht die Datenübertragung schneller und wirtschaftlicher.

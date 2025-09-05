@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, wie Daten in einem Netzwerk von einem Punkt zu einem anderen geschickt werden. Man möchte den besten Weg finden, damit die Daten schnell und effizient ankommen. Es gibt zwei Hauptarten, wie die Routen gefunden werden können:
+
+1. **Statische Routen**: Das sind feste Wege, die von einer Person (dem Administrator) auf den Routern festgelegt werden. Wenn sich etwas im Netzwerk ändert, wie ein neuer Router oder eine Verbindung, muss die Person die Routen manuell anpassen.
+
+2. **Dynamische Routen**: Hier arbeiten die Router miteinander und suchen selbst nach den besten Wegen. Sie verwenden Informationen namens "Routing-Protokolle", um zu entscheiden, welcher Weg am besten ist. Ein Beispiel für ein einfaches Routing-Protokoll ist RIP. Es zählt, wie viele Schritte (oder "Hops") die Daten machen müssen, um ihr Ziel zu erreichen. Es gibt auch komplexere Protokolle wie OSPF, die noch mehr Informationen berücksichtigen, um den besten Weg zu finden.
+
+Insgesamt wird also geschaut, wie die Router herausfinden, welcher Weg für die Daten am besten ist.

@@ -1,0 +1,13 @@
+In dieser Aussage geht es darum, wie wir Fehler in Daten erkennen können und wie wichtig das ist. 
+
+Zuerst ist es wichtig zu verstehen, dass Daten manchmal beschädigt werden können – das nennt man Datenverfälschung. Wenn zum Beispiel beim Übertragen von Daten ein Teil verloren geht oder falsch ist, möchten wir das schnell finden. 
+
+Es gibt zwei Arten von Problemen mit Daten:
+
+1. **Datenverfälschung**: Hier kann es sein, dass Daten zwar noch da sind, aber sie sind nicht mehr richtig. Das erkennt man mit speziellen Prüfungen, wie beispielsweise einer Prüfziffer, die man zu den Daten hinzufügt. Wenn man die Daten zurückbekommt, kann man prüfen, ob die Prüfziffer noch stimmt oder nicht. Wenn nicht, weiß man, dass etwas falsch ist.
+
+2. **Datenverlust**: Das bedeutet, dass Daten ganz fehlen. Man weiß nicht, ob die Daten überhaupt geschickt wurden oder ob sie verloren gegangen sind. 
+
+Die Frage, mit der wir uns hier beschäftigen, ist also: „Wie erkennen wir, ob Daten fehlen?“. Das ist wichtig, weil wir manchmal nicht sofort merken, dass Daten nicht angekommen sind. Zum Beispiel bei sehr wichtigen Informationen, wie bei Geldüberweisungen, muss alles richtig sein. 
+
+Zusammengefasst: Wir müssen herausfinden, ob Daten entweder falsch sind oder ob sie ganz fehlen. Um das zu tun, verwenden wir spezielle Methoden und Prüfungen, die uns helfen, die Daten zu überprüfen.

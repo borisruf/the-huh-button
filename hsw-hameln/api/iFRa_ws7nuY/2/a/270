@@ -1,0 +1,9 @@
+Die Aussage beschreibt, dass es bei der Übertragung von Signalen Probleme geben kann, die das Signal schwächer oder verzerrt machen. Es gibt zwei Arten von Dämpfung, die diese Probleme verursachen:
+
+1. **Ohmsche Dämpfung**: Das ist der normale Widerstand, den das Signal auf dem Weg zu seinem Ziel hat. Wenn das Signal durch Kabel läuft, verliert es etwas Energie.
+
+2. **Frequenzabhängige Dämpfung**: Hierbei handelt es sich um eine Art Widerstand, der davon abhängt, wie schnell das Signal wechselt. Manchmal kann ein Signal auf verschiedene Arten betroffen sein, je nachdem, wie oft es sich verändert.
+
+Wir müssen sicherstellen, dass wir das ursprüngliche Signal, das wir gesendet haben, beim Empfänger wieder richtig herstellen können. Um das zu tun, brauchen wir auch einen Takt, also eine Art Zeitgeber. Mit diesem Takt können wir die Empfangsdaten so sortieren, dass sie wieder richtig zusammengefügt werden.
+
+Zusammengefasst: Wenn wir Signale übertragen, gibt es zwei Hauptprobleme, die das Signal schwächen können. Um das Signal erfolgreich wiederherzustellen, müssen wir den Takt im Auge behalten und sicherstellen, dass wir die richtigen Techniken verwenden.

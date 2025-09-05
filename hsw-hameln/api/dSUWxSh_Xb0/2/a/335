@@ -1,0 +1,11 @@
+In dieser Erklärung geht es um das Teilen eines Kommunikationskanals zwischen verschiedenen Teilnehmern, damit alle miteinander sprechen können, ohne dass sie sich gegenseitig stören. 
+
+Stell dir vor, es gibt drei Leute, die sich unterhalten wollen, aber sie können nur gleichzeitig mit einer Person sprechen. Wenn also Person A mit Person B spricht, können die anderen beiden nichts sagen. 
+
+Jetzt gibt es zwei Arten, wie man diese Gespräche organisieren kann:
+
+1. **Synchrones Zeit-Multiplexing**: Hier haben alle Teilnehmer feste Zeiten, wann sie sprechen. Wenn A an der Reihe ist, muss er sprechen, auch wenn er nichts zu sagen hat. Das führt dazu, dass manchmal einfach keine Informationen gesendet werden, was nicht gut ist. 
+
+2. **Asynchrones Zeit-Multiplexing**: Hier fragt man jeden Teilnehmer, ob er etwas zu sagen hat. Wenn A nichts zu sagen hat, wird die Zeit für B genutzt, auch wenn B eigentlich nicht an der Reihe wäre. So kann B mehr Daten senden, was effizienter ist. 
+
+In der genannten Aussage heißt es also, dass B in der aktuellen Situation viel zu senden hat, während A nichts hat. Das ist normalerweise nicht erlaubt, weil es A's Zeit ist. Aber weil A nichts hat, kann B diese geschenkte Zeit nutzen, um seine Daten zu senden. So wird die Zeit besser genutzt.

@@ -1,0 +1,1 @@
+ Und dann muss er natürlich auch noch wissen, der Router, der die Entscheidung trifft, was ist eigentlich der nächste Hop, der nächste Router, an den ich das Paket weiterzuleiten habe.  Genau und das passiert eben letzten Endes auf jedem Router, dass die in ihren Routing-Tabellen nachschauen, was mache ich mit dem mir zugegangenen Datenpaket.

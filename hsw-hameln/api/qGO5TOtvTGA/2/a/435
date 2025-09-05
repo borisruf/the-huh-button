@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass man herausfinden kann, ob ein Computer (Empfänger) zu einem bestimmten Netzwerk gehört, indem man seine IP-Adresse und die dazugehörige Subnetzmaske anschaut. 
+
+Eine IP-Adresse ist wie die Adresse eines Hauses, und die Subnetzmaske hilft zu entscheiden, ob dieses Haus im gleichen Viertel (Netzwerk) ist oder nicht. Wenn man also die IP-Adresse des Empfängers kennt, kann man prüfen, ob dieser Computer in meinem Netzwerk ist oder nicht. 
+
+Wenn der Empfänger im gleichen Netzwerk ist, kann der Computer schneller und einfacher mit ihm kommunizieren. Wenn nicht, müssen die Daten über Router und andere Wege geschickt werden, was langsamer sein kann.

@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn ich mit dynamischem Routing arbeite, benutzen die Router spezielle Programme (Routing-Protokolle), um zu entscheiden, wie sie die Daten am besten von A nach B schicken. Das heißt, die Router sprechen untereinander und teilen sich Informationen darüber, welcher Weg am besten ist.
+
+Dabei haben sie verschiedene Sachen, die sie beachten, um herauszufinden, welcher Weg der schnellste oder einfachste ist. Diese verschiedenen Dinge nennt man Metriken. Metriken können zum Beispiel die Geschwindigkeit einer Verbindung oder den Aufwand, den die Router haben, um den Weg zu finden, sein.
+
+Zusammengefasst: Bei dynamischem Routing arbeiten die Router zusammen, um den besten Weg für die Daten zu finden, anstatt dass eine Person (der Administrator) das alles manuell eingeben muss.

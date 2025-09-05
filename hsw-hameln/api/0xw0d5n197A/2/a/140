@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie Netzwerksicherheit funktioniert, besonders wie man Daten, die durch ein Netzwerk gehen, sicherer macht.
+
+Stell dir vor, du hast einen großen Zaun (das ist die Firewall), der dein Haus (dein Netzwerk) schützt. Es gibt zwei Möglichkeiten, wie dieser Zaun Menschen oder Dinge (Daten) in dein Haus lässt.
+
+1. **Paketfilter**: Das ist wie ein Wächter, der jede Person einzeln überprüft, bevor sie durch das Tor darf. Der Wächter schaut sich an, wer da ist und entscheidet, ob die Person rein darf oder nicht.
+
+2. **Stateful Inspection**: Das ist ein bisschen cleverer. Anstatt jede Person einzeln zu überprüfen, schaut der Wächter sich an, ob die Person mit einer Gruppe von Freunden kommt, die er kennt und die er für vertrauenswürdig hält. Wenn ja, lässt er die Gruppe durch, ohne jeden einzelnen zu überprüfen. Das bedeutet, dass er erkennt, ob die Daten, die vorbeikommen, zu einer erlaubten und vertrauenswürdigen Unterhaltung gehören.
+
+Insgesamt geht es darum, wie man sicherstellt, dass nur richtige und vertrauenswürdige Informationen in und aus dem Netzwerk gelangen.

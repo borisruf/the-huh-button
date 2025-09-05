@@ -1,0 +1,1 @@
+ Sollte ein Rechner nicht bekannt sein, würde ein Switch das herausfinden, indem er einfach einen Broadcast ins Netz sendet und sich anschließend eben die Antwort merkt, auf welchem Port ist die eigentlich eingegangen.

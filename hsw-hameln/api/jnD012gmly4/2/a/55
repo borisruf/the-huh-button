@@ -1,0 +1,11 @@
+In dieser Aussage geht es um die Übertragung von Daten in Form von kleinen Paketen, die man Frames nennt. Es wird erklärt, dass bei dieser Übertragung einige wichtige Dinge beachtet werden müssen.
+
+1. **Datenblocks**: Die Daten werden in Teile (Frames) aufgeteilt. Es ist wichtig, wie lang diese Teile sind, also die „kritische Länge“.
+  
+2. **Gleichlaufschwankungen**: Manchmal kann es Unterschiede im Tempo geben, mit dem die Daten gesendet oder empfangen werden. Das nennt man Gleichlaufschwankungen, und das kann Probleme verursachen.
+
+3. **Fehlerkorrektur**: Wenn die Daten über lange Strecken gesendet werden, können Fehler passieren. Um sicherzustellen, dass die Daten richtig ankommen, muss eine Fehlerkorrektur durchgeführt werden. Bei längeren Datenpaketen ist das schwieriger.
+
+4. **Zwischenspeicherung**: Manchmal müssen die Daten für eine kurze Zeit gespeichert werden, bevor sie weitergeleitet werden. Auch das kann kompliziert werden, besonders bei größeren Datenpaketen.
+
+Nun wird erklärt, dass wir uns anschauen werden, wie man diese Probleme beheben kann, um die Datenübertragung einfacher und zuverlässiger zu machen.

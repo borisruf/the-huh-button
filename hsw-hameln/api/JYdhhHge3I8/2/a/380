@@ -1,0 +1,7 @@
+Die Paketvermittlung ist ein wichtiger Teil, wenn wir Daten über das Internet senden. Sie hat einige Vorteile, die sie nützlich machen.
+
+Stell dir vor, dass du eine Nachricht an einen Freund schickst. Bei der Paketvermittlung wird deine Nachricht in viele kleine Teile, die wir „Pakete“ nennen, aufgeteilt. Diese Pakete reisen dann unabhängig voneinander durch das Netzwerk, und während sie das tun, wird die Verbindung nur für die Zeit genutzt, in der die Pakete tatsächlich gesendet werden. 
+
+Das bedeutet, dass andere Leute die Verbindung auch nutzen können, wenn sie gerade keine Daten senden. So wird das gesamte Netzwerk effizienter genutzt. Wenn alle ihre Nachrichten in Pakete aufteilen, kann jeder schneller und besser kommunizieren, weil die Verbindungen nicht länger blockiert sind als nötig.
+
+Also zusammengefasst: Bei der Paketvermittlung schicken wir Daten in kleinen Teilen, die schnell und effektiv verarbeitet werden. So bleibt das Netzwerk flexibel und kann viele Nutzer unterstützen.

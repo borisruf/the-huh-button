@@ -1,0 +1,5 @@
+In einem Netzwerk gibt es viele Router, die dafür sorgen, dass Daten schnell von einem Ort zum anderen gelangen. Jeder Router hat eine "Tabelle", in der steht, wo die Daten hin müssen und welche Wege sie nehmen können. Man kann sich das wie eine Landkarte vorstellen: Wenn du von einer Stadt zur anderen fahren möchtest, schaust du auf die Karte, um den besten Weg zu finden.
+
+Wenn ein Router eine Nachricht erhält, überprüft er zuerst, ob die Nachricht für ihn bestimmt ist. Wenn nicht, schaut er in seine Tabelle, um zu sehen, an welchen nächsten Router er die Nachricht weiterleiten soll. 
+
+In unserem Beispiel haben wir zwei Netzwerke: N1 und N2. Die Router dazwischen helfen dabei, die Daten von N1 nach N2 zu senden. Jeder dieser Router hat seine eigene Tabelle mit Informationen, wie er die Daten am besten weiterleitet.

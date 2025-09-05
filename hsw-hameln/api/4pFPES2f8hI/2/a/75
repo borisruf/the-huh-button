@@ -1,0 +1,3 @@
+Die Aussage sagt, dass IP-Adressen in verschiedenen Gruppen (Klassen A, B und C) sehr viele Computer unterstützen können. Aber das führt dazu, dass wir in manchen Fällen viel Platz verschwenden. Um das Problem zu lösen und die Anzahl der IP-Adressen besser zu nutzen, kann man sogenannte Subnetze bilden. 
+
+Das Problem ist, dass es nicht genug IP-Adressen gibt und die Verwaltung dieser Adressen schwierig ist. Außerdem gibt es nicht genug Sicherheitsmaßnahmen für Netzwerke. Deshalb ist es wichtig, Adressen besser zu organisieren, damit wir sie effektiver nutzen können. In der Vergangenheit haben wir viel zu viele IP-Adressen ungenutzt gelassen, was ein Grund für die knappen Ressourcen ist.

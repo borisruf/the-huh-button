@@ -1,0 +1,7 @@
+Okay, lass uns das Schritt für Schritt einfach erklären:
+
+Wenn wir darüber sprechen, wie Daten in einem lokalen Netzwerk (LAN) gesendet werden, müssen wir auch über zwei verschiedene „Ebenen“ nachdenken. Eine dieser Ebenen ist die „Schicht 3“, die IP-Adressen verwendet. IP-Adressen helfen uns, Computer im Netzwerk zu finden. Die andere Schicht ist „Schicht 2“, die MAC-Adressen verwendet. MAC-Adressen sind wie eine echte Hausadresse für Geräte im Netzwerk.
+
+Um herauszufinden, welche MAC-Adresse zu einer IP-Adresse gehört, brauchen wir das Address Resolution Protocol, kurz ARP. ARP ist wie ein Übersetzungsbuch, das sagt: "Diese IP-Adresse gehört zu dieser MAC-Adresse." 
+
+Zusammengefasst: ARP hilft uns, die IP-Adressen (die wie digitale Adressen sind) mit den MAC-Adressen (die wie physische Adressen sind) zu verbinden, sodass Daten korrekt von einem Computer zum anderen gesendet werden können.

@@ -1,0 +1,9 @@
+In der Erklärung gibt es verschiedene Teile, die man sich einfach vorstellen kann. 
+
+Stell dir vor, dass ein Netzwerk wie ein großes Dorf ist, das aus vielen kleinen Straßen (Netzwerksegmente) besteht. Um zu wissen, wie viele Straßen es gibt und wie sie miteinander verbunden sind, brauchen wir spezielle Geräte.
+
+Zuerst gibt es die ganz einfachen Geräte, wie Repeater oder Hubs. Diese Geräte sind wie einfache Verbindungsstellen, die Signale von einer Straße zur anderen weiterleiten. Sie sind nicht sehr intelligent, sie nehmen einfach nur das Signal auf und senden es weiter. Das bedeutet, alle Fahrzeuge (Daten) auf den Straßen müssen sich die Straße teilen. Wenn viele Fahrzeuge da sind, wird es eng und langsam.
+
+Dann gibt es etwas schlauere Geräte, die Switches oder Bridges genannt werden. Diese sind wie Verkehrsampeln, die den Verkehr an bestimmten Kreuzungen regeln. Sie können entscheiden, wo das Signal hingeht, und helfen dabei, die Straßen besser zu nutzen, indem sie den Verkehr aufteilen. Wenn mehrere Kreuzungen durch einen Switch verbunden sind, spricht man von einer „Kollisionsdomäne“. Das ist ein Bereich, wo alle Fahrzeuge jederzeit auf die gleiche Straße fahren können, was manchmal zu Staus führen kann, aber eben weniger als bei den einfachen Geräten.
+
+So, die Aussage spricht über diese verschiedenen Geräte, die dabei helfen, dass Informationen zwischen den Netzwerken gut fließen können, und erklärt, dass Switches dazu beitragen, die Verbindungen besser zu organisieren und die Kollisionsdomänen zu reduzieren.

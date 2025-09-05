@@ -1,0 +1,13 @@
+Okay! Lass uns das einfach erklären:
+
+Stell dir vor, du schickst einen Brief von einem Freund (Rechner A) zu dir (Rechner B). Der Brief hat eine Absenderadresse (die IP-Adresse von Rechner A) und eine Empfängeradresse (deine IP-Adresse als Rechner B).
+
+Auf dem Weg zu dir geht der Brief durch Poststationen (Router). Jede Station hilft, den Brief weiterzuleiten. Wenn der Brief an einer Poststation ankommt, schaut der Postmitarbeiter, von wem der Brief kommt und wohin er geschickt werden soll. Die Station ersetzt dann die Adresse für den nächsten Weg, weil sie nicht deine Adresse kennen, sondern nur die von sich selbst (die MAC-Adresse des Routers).
+
+Jede Station (Router) fügt also ihre eigene Adresse hinzu, wenn sie den Brief weiterschickt. Am Ende kommt der Brief bei dir an. Du schaust dir dann den Brief an und siehst:
+
+- Wer hat den Brief geschickt (die IP-Adresse von Rechner A).
+- Wer hat den Brief dir zugeschickt (die letzte Station, Router 3).
+- Deine eigene Adresse (die MAC-Adresse von dir).
+
+So funktioniert der Austausch von Informationen zwischen Computern über das Netzwerk! Sie verwenden IP-Adressen, um zu wissen, wo die Daten herkommen und wo sie hingehen sollen, und MAC-Adressen, um sich im lokalen Netzwerk zu erkennen.

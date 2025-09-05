@@ -1,0 +1,7 @@
+Multiplexing ist eine Methode, um mehrere Daten von verschiedenen Nutzern über ein Kabel zu schicken, obwohl das Kabel nur einen Weg hat. Stell dir vor, du hast vier Personen, die miteinander reden wollen, aber nur eine Gesprächsleitung. Multiplexing hilft dabei, dass jeder trotzdem sprechen kann, ohne dass es durcheinandergeht.
+
+Es gibt verschiedene Arten von Multiplexing. Eine davon ist das zeitliche Multiplexing, das wir uns hier anschauen. Dabei wird die Zeit in kleine Abschnitte (Slots) aufgeteilt, und jeder Nutzer bekommt seinen eigenen Abschnitt, um zu sprechen.
+
+Es gibt zwei Arten von zeitlichem Multiplexing: synchrones und asynchrones. Beim synchronen Multiplexing hat jeder Nutzer einen festen Slot, um zu sprechen. Wenn jemand in seinem Slot nichts zu sagen hat, bleibt diese Zeit einfach ungenutzt - das ist wie eine leere Pause im Gespräch.
+
+Asynchrones Multiplexing ist cleverer. Hier fragt man ständig nach, wer gerade etwas zu sagen hat, anstatt feste Slots zu vergeben. So wird die Zeit besser genutzt, auch wenn nicht immer jeder etwas zu sagen hat. Man achtet also darauf, dass die Gespräche nicht unterbrochen werden, und es entstehen keine leeren Pausen.

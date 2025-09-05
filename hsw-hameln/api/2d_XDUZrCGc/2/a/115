@@ -1,0 +1,11 @@
+Die Aussage bedeutet, dass es verschiedene Klassen von IP-Adressen gibt. Jede Klasse kann eine andere Anzahl von Netzwerken haben.
+
+Stell dir vor, ein Netzwerk ist wie ein Raum, in dem viele Computer stehen. Jede Klasse von IP-Adressen hat ihre eigenen Regeln, wie viele Räume (Netzwerke) es geben kann und wie viele Computer (Rechner) in jedem Raum sein können. 
+
+In einfachen Worten:
+
+- **Klasse A** hat viele Räume und kann sehr viele Computer in jedem Raum haben.
+- **Klasse B** hat weniger Räume, aber auch noch viele Computer pro Raum.
+- **Klasse C** hat die wenigsten Räume, kann aber auch noch einige Computer in jedem Raum haben.
+
+Also, jede Klasse ist wie eine Gruppe, die unterschiedlich viele Räume und Computer hat.

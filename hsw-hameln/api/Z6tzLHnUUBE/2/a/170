@@ -1,0 +1,5 @@
+Die Aussage sagt, dass wir uns den IP-Header, der Teil des Internetprotokolls ist, später noch genauer ansehen werden. Wir werden lernen, wie er funktioniert, indem wir ihn „auseinandernehmen“, also die einzelnen Teile genau erklären. 
+
+Außerdem wollen wir uns das Thema „Fragmentierung“ und „Defragmentierung“ anschauen. Das bedeutet, dass große Daten in kleinere Teile zerlegt und später wieder zusammengefügt werden müssen. Die Frage, die sich dabei stellt, ist: Warum ist es notwendig, diese kleinen Teile zu machen?
+
+In einfacher Sprache: Wir werden lernen, was ein IP-Header ist und wie man große Daten in kleine Stücke zerlegt und wieder zusammenfügt. Und wir wollen herausfinden, warum das wichtig ist.

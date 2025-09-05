@@ -1,0 +1,13 @@
+Die Aussage beschreibt ein Protokoll, das dafür sorgt, dass verschiedene Geräte in einem Netzwerk gleichzeitig kommunizieren können, ohne sich gegenseitig zu stören. 
+
+Hier ist die Erklärung in sehr einfacher Sprache:
+
+Es gibt eine Idee, die schon lange Zeit existiert, um Computer miteinander zu verbinden. Diese Idee nennt man Ethernet. Ein Mann namens Bob Metcalf hat diese Idee erfunden. Er wollte, dass viele Geräte ein gemeinsames "Medium" benutzen, um miteinander zu reden. Das "Medium" ist wie eine Straße, auf der die Daten reisen. 
+
+Da viele Geräte gleichzeitig auf diese Straße wollen, muss es Regeln geben, damit sie nicht durcheinander kommen. Diese Regeln nennt man Protokolle. Eines dieser Protokolle heißt CSMA-CD. Das steht für "Carrier Sense Multiple Access with Collision Detection". Das klingt kompliziert, bedeutet aber Folgendes:
+
+- **Carrier Sense (CS)**: Die Geräte hören zuerst, ob die Straße frei ist, bevor sie anfangen zu reden. 
+- **Multiple Access (MA)**: Mehrere Geräte dürfen die Straße nutzen.
+- **Collision Detection (CD)**: Wenn zwei Geräte gleichzeitig reden, merken sie das und stoppen, um es später wieder zu versuchen.
+
+So sorgen die Geräte dafür, dass sie fair miteinander kommunizieren können, ohne sich gegenseitig zu stören.

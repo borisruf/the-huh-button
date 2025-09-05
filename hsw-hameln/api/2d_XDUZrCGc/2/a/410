@@ -1,0 +1,3 @@
+Die Aussage besagt, dass 16 eine private IP-Adresse oder ein Netzwerk ist, das nicht im Internet direkt sichtbar ist. Stattdessen gibt es über dem Router eine öffentliche IP-Adresse. Diese öffentliche IP-Adresse ist die einzige Adresse, die im Internet genutzt wird. Alle Computer und Geräte, die mit dem Router verbunden sind, erscheinen nach außen hin nur unter dieser einen öffentlichen IP-Adresse, obwohl sie im Netzwerk eigene private IP-Adressen haben. 
+
+Einfach gesagt: Der Router ist wie ein Tor zum Internet. Die Geräte in deinem Zuhause haben eigene Adressen, aber nach außen sieht es so aus, als ob alle über die gleiche Adresse ins Internet gehen. Das hilft, die privaten Adressen zu schützen und ermöglicht es vielen Geräten, gleichzeitig das Internet zu nutzen.

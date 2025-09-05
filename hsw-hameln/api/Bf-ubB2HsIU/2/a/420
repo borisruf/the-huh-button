@@ -1,1 +1,7 @@
-Dieser Text erklärt, was passiert, wenn sich zwei Computer in einem Netzwerk miteinander verbinden. Wenn Computer A eine Datei an Computer B senden will, dann schickt er ihm zuerst eine Art "Hallo" Botschaft, das nennt man hier eine "Sync-Zeichen". Zum Beispiel könnte Computer A sagen: "Hallo Computer B, ich bin Computer A und ich beginne nun mit dem Senden der Datei, das ist das Zeichen Nummer X". Computer B antwortet dann: "Hallo Computer A, ich habe dein 'Hallo' Zeichen Nummer X erhalten. Ich füge 1 dazu und mache daraus Zeichen X+1 und sende dir nun mein eigenes 'Hallo' Zeichen Nummer Y". So stellen die beiden Computer sicher, dass sie miteinander reden können und bereit sind, Dateien zu senden und zu empfangen.
+Die Aussage beschreibt einen Teil des Verbindungsaufbaus zwischen zwei Computern, wenn sie Daten miteinander austauschen. Hier ist eine sehr einfache Erklärung:
+
+Wenn ein Computer (der Sender) mit einem anderen Computer (dem Empfänger) kommunizieren möchte, schickt er zuerst ein Signal, um zu zeigen, dass er bereit ist. Dieses Signal hat eine Nummer, die wir „Sequenznummer X“ nennen. 
+
+Der Empfänger bekommt dieses Signal. Im besten Fall antwortet er dem Sender, dass er das Signal erhalten hat. Er macht das, indem er ein neues Signal zurückschickt. Dieses neue Signal hat eine Nummer, die eine Eins höher ist als die Nummer, die der Sender geschickt hat. Also sagt er, „Ich habe dein Signal bekommen, und jetzt ist meine Nummer Y“.
+
+Zusammengefasst: Der Sender schickt ein Signal mit einer Nummer, und der Empfänger antwortet mit einer Bestätigung, die zeigt, dass er das Signal erhalten hat, plus eine neue Nummer. So wissen beide Computer, dass sie bereit sind, Daten auszutauschen.

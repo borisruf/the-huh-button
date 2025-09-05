@@ -1,0 +1,9 @@
+Okay, ich erkläre das ganz einfach:
+
+Wenn wir Sachen von einem Ort zum anderen senden, können wir das auf verschiedene Arten machen. Eine Art nennt man „Basisbandübertragung“ – das ist wie beim Ethernet, das oft in unseren Netzwerken verwendet wird. Hier nutzen wir das ganze Spektrum, also die gesamte „Frequenz“, um Informationen digital zu übertragen.
+
+Jetzt gibt es eine Technik, die hilft, mehrere Informationen gleichzeitig zu übertragen. Diese Technik heißt „Zeit-Multiplexing“. Damit können wir verschiedene Daten nacheinander sehr schnell senden, sodass es aussieht, als würden sie gleichzeitig übertragen.
+
+Wenn wir uns eine andere Methode anschauen, die „Breitbandübertragung“ heißt, können wir außerdem mehrere „Kanäle“ nutzen. Das bedeutet, wir können verschiedene Arten von Informationen gleichzeitig über dieselbe Leitung senden. 
+
+Zusammengefasst: Wir können Daten auf verschiedene Weisen übertragen und nutzen dabei Techniken, um mehrere Signale gleichzeitig zu senden.

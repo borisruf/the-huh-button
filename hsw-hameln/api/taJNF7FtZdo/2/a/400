@@ -1,0 +1,11 @@
+In diesem Text geht es darum, wie Daten in Netzwerken von einem Ort zum anderen geschickt werden. Man kann sich das vorstellen wie bei einer Reise, bei der man den besten Weg von einem Stadt zu einer anderen finden möchte. 
+
+Stellen dir vor, du möchtest von Hameln nach Münster fahren. Du nutzt ein Programm, das dir zeigt, welche Straßen du nehmen kannst, und es gibt mehrere Optionen. Du schaust auf Verkehrsinformationen, um zu entscheiden, welcher Weg am besten ist. 
+
+So ähnlich funktioniert das auch in Netzwerken. Die "Straßen" sind die Verbindungen zwischen Computern, und die "Knotenpunkte" sind die Router, die die Daten weiterleiten. Wenn ein Router Daten empfängt, schaut er in seine Tabelle, um zu sehen, wo die Daten als Nächstes hingehen müssen. Er sucht nach dem schnellsten und besten Weg, um die Daten zum Ziel zu bringen.
+
+Aber es gibt noch mehr Dinge, die die Router beachten. Sie wollen, dass die Daten schnell und ohne Verzögerung ankommen, und sie müssen Staus (Überlastungen) vermeiden, die passieren können, wenn zu viele Daten auf einmal geschickt werden.
+
+Die Routers müssen auch wissen, welche Wege am besten für die Sicherheit der Daten sind. Manchmal möchten die Administratoren die Routing-Tabellen manuell anpassen, um sicherzustellen, dass die Daten den sichersten Weg nehmen. 
+
+Zusammenfassend kann man sagen: Router helfen dabei, Daten auf den besten, schnellsten und sichersten Weg zu ihrem Ziel zu bringen, ähnlich wie ein Navigationssystem bei einer Reise.

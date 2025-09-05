@@ -1,0 +1,3 @@
+Früher haben Computer in einem Netzwerk über ein langes Kabel verbunden, und alle Daten gingen durch dieses eine Kabel. Wenn mehrere Computer gleichzeitig Daten senden wollten, gab es oft Probleme, weil sie sich gegenseitig stören konnten. Das nennt man Kollisionen, und das macht es schwierig, mit Echtzeitanwendungen wie Telefonie übers Internet zu arbeiten.
+
+Heute benutzen wir eine neue Technik. Statt nur ein einfaches Gerät wie einen Repeater oder Hub zu nutzen, verwenden wir jetzt einen Switch. Ein Switch hilft, dass die Computer besser miteinander kommunizieren können, ohne sich gegenseitig zu stören. So können sie schneller und zuverlässiger Daten senden und empfangen, was besonders wichtig ist, wenn man Anrufe über das Internet hat.

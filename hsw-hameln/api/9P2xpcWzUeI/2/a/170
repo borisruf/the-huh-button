@@ -1,0 +1,13 @@
+Okay, ich erkläre das mal einfach:
+
+In einem Netzwerk gibt es verschiedene Ebenen oder Schichten, die wir im OSI-Modell darstellen können. Wenn wir über MAC-Adressen und Switch-Ports reden, sind wir auf der zweiten Schicht, also auf Schicht 2. Dort wird entschieden, welche zusätzlichen Informationen zu den Datenpaketen, die durch das Netzwerk geschickt werden, hinzugefügt werden. 
+
+VLANs (virtuelle LANs) helfen uns, Netzwerke flexibler zu gestalten. Stell dir ein Gebäude mit drei Stockwerken vor. Normalerweise hat jedes Stockwerk sein eigenes Netzwerk. Das ist aber manchmal unpraktisch, weil sich Arbeitsplätze ja ändern können. Mit VLANs können wir Arbeitsplätze über Stockwerke hinweg in Gruppen zusammenfassen, ohne dass es an den Stockwerken festgelegt ist.
+
+Es gibt zwei Möglichkeiten, wie man VLANs einrichten kann:
+
+1. **Statische Einrichtung**: Der Administrator entscheidet, welcher Switch-Port zu welchem VLAN gehört. Das ist wie eine feste Zuordnung, aber es kann fehleranfällig sein. Wenn ein Computer an einen Port angeschlossen wird, nimmt er diese Zugehörigkeit an, aber nur, wenn der Computer auch wirklich dazu passt.
+
+2. **Dynamische Einrichtung**: Hierbei wird eine zusätzliche Steuerstation verwendet, die schaut, welche MAC-Adresse (eine einzigartige Kennung für jedes Gerät) zu welchem VLAN gehört. Wenn du einen Computer anschließt, wird automatisch geprüft, zu welchem VLAN er gehört, basierend auf seiner MAC-Adresse.
+
+Die Informationen, die über VLANs übertragen werden, werden auf der zweiten Schicht des OSI-Modells behandelt, weil dort festgelegt wird, wie die Datenpakete aussehen, bevor sie durch das Netzwerk gesendet werden.

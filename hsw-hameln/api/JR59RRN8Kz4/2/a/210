@@ -1,0 +1,5 @@
+Quality-of-Service, kurz QoS, bedeutet, dass die Daten, die wir über das Netzwerk senden, eine bestimmte Qualität haben müssen. Wenn wir zum Beispiel telefonieren, ist es wichtig, dass die Stimmen klar und ohne Unterbrechungen zu hören sind. 
+
+Normalerweise versucht das Netzwerk einfach sein Bestes, um die Daten zu senden. Das nennt man "Best-Effort-Prinzip". Das heißt, das Netzwerk kümmert sich nicht besonders darum, ob die Daten schnell oder gut ankommen. Es gibt keine Garantie, dass alles perfekt klappt. 
+
+Aber beim Telefonieren ist das wichtig. Wenn man da nicht gut hört, ist es schwierig zu sprechen. Daher müssen wir sicherstellen, dass die Sprache in einer guten Qualität übertragen wird, damit wir uns gut verständigen können.

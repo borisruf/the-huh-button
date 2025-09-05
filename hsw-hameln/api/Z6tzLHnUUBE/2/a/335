@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie Computer im Netzwerk kommunizieren und wie sie die Adressen finden, die sie dafür brauchen.
+
+Hier ist eine einfache Erklärung:
+
+Computer haben verschiedene Arten von Adressen, um miteinander zu reden. Eine wichtige Art von Adresse ist die IP-Adresse, die wie eine Adresse in einer Stadt funktioniert und jedem Computer hilft, sich zu finden. Eine andere Art von Adresse ist die MAC-Adresse, die wie die Hausnummer ist und einem Computer sagt, wo er im Netzwerk ist.
+
+Das "ARP-Protokoll" hilft dabei, die IP-Adressen (die Adressen auf der dritten Ebene) in MAC-Adressen (die Adressen auf der zweiten Ebene) umzuwandeln. Wenn ein Computer die MAC-Adresse eines anderen Computers braucht, fragt er das ARP-Protokoll, und dieses gibt ihm die passende MAC-Adresse zurück.
+
+In einem Programm namens "Wireshark", das Netzwerke analysiert, kann man sehen, wie die Computer ARP verwenden, um Informationen über diese Adressen auszutauschen. So hilft ARP den Computern, erfolgreich miteinander zu kommunizieren.

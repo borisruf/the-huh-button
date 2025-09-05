@@ -1,0 +1,5 @@
+Stell dir vor, es gibt zwei Personen, A und B, die miteinander reden wollen, aber sie können nur abwechselnd sprechen, weil nur ein Telefon zur Verfügung steht. Das nennt man "synchrones Zeit-Multiplexing". Es bedeutet einfach, dass A zuerst für eine Weile spricht, dann ist B dran, und so weiter. Also immer abwechselnd, damit beide miteinander kommunizieren können, ohne dass sie sich gleichzeitig unterbrechen. 
+
+In dem größeren Bild, über das wir sprechen, sind A und B nicht die einzigen, die sprechen wollen. Es gibt auch noch andere Personen, aber nur einer kann zur gleichen Zeit sprechen, weil nur ein Kanal oder ein Kabel vorhanden ist. Dieses System sorgt dafür, dass alle Teilnehmer nacheinander mit dem Kommunikationspartner sprechen können, ohne dass es Chaos gibt. 
+
+Zusammengefasst: Synchrones Zeit-Multiplexing bedeutet, dass mehrere Leute nacheinander sprechen, jeder hat seine eigene Zeit zum Sprechen, damit alles reibungslos klappt.

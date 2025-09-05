@@ -1,0 +1,5 @@
+Das OSI-Modell ist eine Art Anleitung, die erklärt, wie Computer miteinander sprechen. Es hat verschiedene Schichten, wie Stockwerke in einem Gebäude. Die erste Schicht, ganz unten, hat einfache Geräte. Diese Geräte sind nicht sehr clever, sie können nur kleine Aufgaben erledigen.
+
+Ein Repeater oder Hub ist so ein Gerät. Ein Repeater hilft, das Signal von einem Netzwerk weiterzuleiten, damit es weiter reisen kann. Ein Hub verbindet verschiedene Computer oder Geräte, aber es kann nicht intelligent entscheiden, was es mit den Informationen machen soll. Es schickt einfach alles weiter.
+
+Das bedeutet, dass diese Geräte auf der ersten Schicht nicht viel denken oder entscheiden. Sie verbinden nur Netzwerke miteinander.

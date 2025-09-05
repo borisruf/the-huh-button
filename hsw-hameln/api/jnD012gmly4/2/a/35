@@ -1,0 +1,11 @@
+Wir sprechen jetzt darüber, wie man Datenpakete, die man "Frames" nennt, erstellt. Zuerst erinnern wir uns daran, dass die Länge dieser Datenpakete wichtig ist. 
+
+Es gibt einige wichtige Punkte zu beachten:
+
+1. **Gleichlaufschwankungen**: Das bedeutet, dass die Daten nicht immer gleichmäßig oder synchron übertragen werden. 
+
+2. **Fehlerkorrektur**: Manchmal können Fehler passieren, wenn die Daten gesendet werden. Wir müssen sicherstellen, dass wir diese Fehler korrigieren, besonders wenn die Datenpakete länger sind. Je länger die Pakete sind, desto schwieriger kann es sein, Fehler zu finden und zu beheben.
+
+3. **Zwischenspeicherung**: Das bedeutet, Daten vorübergehend zu speichern, bevor sie weiterverarbeitet werden. Auch hier wird es komplizierter, wenn die Datenpakete (Frames) größer sind.
+
+Zusammengefasst: Bei der Erstellung und Übertragung von Datenpaketen müssen wir auf die Länge, die Synchronisation, Fehler und das Speichern achten.

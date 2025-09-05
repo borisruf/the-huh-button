@@ -1,0 +1,7 @@
+Die Aussage bedeutet einfach, dass es verschiedene Arten von IP-Adressen gibt, die man für Netzwerke verwendet, je nachdem, wie groß das Netzwerk ist. 
+
+- Wenn ein Netzwerk sehr groß ist, nimmt man eine IP-Adresse aus „Klasse A“. Diese Klasse hat viele Adressen, also kann man sehr viele Geräte damit verbinden.
+- Für mittlere Netzwerke benutzt man „Klasse B“. Diese Klasse hat weniger Adressen als Klasse A, aber immer noch genug für viele Geräte.
+- Für kleine Netzwerke, wie die in einem privaten Zuhause oder kleineren Büros, nimmt man „Klasse C“. Diese Klasse hat die wenigsten Adressen, reicht aber für kleine Gruppen von Geräten.
+
+Die Einteilung hilft, die IP-Adressen besser zu organisieren, damit nicht zu viele Adressen ungenutzt bleiben. Das Problem ist, dass viele große Unternehmen in der Vergangenheit zu viele Adressen bekommen haben und jetzt gibt es nicht mehr genug für alle.

@@ -1,0 +1,7 @@
+In einfacher Sprache bedeutet die Aussage folgendes:
+
+Wenn wir Daten über das Netzwerk senden, müssen wir sicherstellen, dass der Empfänger genau weiß, wo die Nachricht anfängt und wo sie endet. Früher hat man die Länge der Nachricht direkt gesagt, aber das kann Probleme verursachen, wenn diese Information verloren geht.
+
+Heute verwenden wir eine neue Methode, bei der wir spezielle Zeichen benutzen, um zu zeigen, wo die Nachricht beginnt und endet. Diese Zeichen können aber auch Teil der Nachricht selbst sein. Das ist like ein Rätsel, weil der Empfänger denken könnte, die Nachricht sei zu Ende, nur weil er eines dieser speziellen Zeichen sieht.
+
+Wir müssen also einen cleveren Weg finden, um sicherzustellen, dass der Empfänger nicht fälschlicherweise denkt, die Nachricht sei vorbei, wenn es nur ein spezielles Zeichen in der Nachricht ist.

@@ -1,0 +1,9 @@
+In dem Text wird erklärt, wie Daten in Netzwerken geschickt werden. Es gibt verschiedene Methoden, wie dies geschehen kann. Hier ist die einfache Erklärung der genannten Konzepte:
+
+1. **Verschiedene Wege, Daten zu senden:** Es gibt verschiedene Arten, wie Daten über Netzwerke weitergeleitet werden können. Eine Methode ist die **Leitungsvermittlung**, bei der eine feste Verbindung zwischen Absender und Empfänger hergestellt wird. Man kann sich das wie einen Telefonanruf vorstellen, wo die Leitung für das Gespräch reserviert ist.
+
+2. **Speichervermittlung:** Eine andere Methode ist die **Speichervermittlung**. Hier werden Daten in einem Zwischenspeicher aufbewahrt, bevor sie weitergeschickt werden. Man könnte sich das wie das Versenden von Briefen vorstellen. Die Briefe werden in einem Postzentrum gesammelt und dann zum Empfänger geschickt.
+
+3. **Paketvermittlung:** Die **Paketvermittlung** ist eine spezielle Art von Speichervermittlung. Dabei werden große Datenmengen in kleinere Teile (Pakete) zerlegt. Diese Pakete werden dann unabhängig voneinander über das Netzwerk geschickt. Das ist effizient, weil sie verschiedene Wege gleichzeitig nehmen können und nicht auf eine feste Verbindung angewiesen sind. Man kann sich das so vorstellen, dass man mehrere kleine Pakete gleichzeitig mit verschiedenen Transportmitteln zu einem Ziel schickt, anstatt alles auf einmal mit einem großen Lkw.
+
+Insgesamt wird gesagt, dass die Paketvermittlung viel schneller und effizienter ist, weil sie die verfügbaren Verbindungen besser nutzt. Also, anstatt nur einen großen Datenstrom zu senden, zerlegt man die Informationen und verschickt sie in kleineren Stücken, was die Übertragung schneller macht. Diese Technik ist wichtig, um die Bandbreite (die Kapazität des Netzwerks) optimal zu nutzen.

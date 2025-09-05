@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass im IP-Header verschiedene wichtige Informationen festgelegt sind. Zum Beispiel gibt es ein Feld, das sagt, welche Version des IP-Protokolls verwendet wird. Es gibt auch andere Felder, die mehr Details über das darüberliegende Protokoll (wie TCP oder UDP) geben. Und schließlich enthält der IP-Header auch die eigentlichen Daten, die gesendet werden.
+
+In einer späteren Übung werden wir uns den IP-Header genauer anschauen und seine Teile besser verstehen.

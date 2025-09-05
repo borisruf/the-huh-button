@@ -1,7 +1,7 @@
-Computer in einem Netzwerk müssen alle eine einzigartige Adresse haben, die wir IP-Adresse nennen. Diese Adresse sieht meistens so aus: 172.16.14.193. Damit der Computer weiß, zu welchem Netzwerk er gehört und wer die anderen Computer in diesem Netzwerk sind, gibt es auch eine Subnetzmaske. Diese sieht ähnlich aus, wie eine IP-Adresse. 
+Eine IP-Adresse ist wie eine Adresse für dein Haus, damit Computer im Internet wissen, wo sie hin müssen. Sie besteht aus vier Teilen, die wir Oktette nennen. Jeder Teil ist wie ein Raum in deinem Haus und hat seine eigene Funktion. 
 
-Dieses System erlaubt es uns, viele verschiedene Geräte in einem Netzwerk miteinander sprechen zu lassen. Doch jedes Netzwerk hat auch zwei spezielle Adressen, die man nicht benutzen kann. Die erste davon ist die Netzwerkadresse. Sie sagt, zu welchem Netzwerk ein Gerät gehört. Die letzte Adresse nennt man Broadcast-Adresse. Sie benutzt man, wenn man eine Nachricht an alle Geräte im Netzwerk gleichzeitig schicken will.
+Eine Subnetzmaske ist ein Werkzeug, das uns hilft zu verstehen, wie die IP-Adresse aufgeteilt ist. Sie sagt uns, welcher Teil der IP-Adresse das "Netzwerk" ist (also die Straße, in der dein Haus steht) und welcher Teil der "Host" ist (also die Nummer deines Hauses).
 
-Das alles macht die Netzwerkkommunikation ein bisschen kompliziert. Man muss also beim Berechnen der Anzahl an Adressen, die man in einem Netzwerk verwenden kann, immer zwei weg lassen. Diese sind schon besetzt. Denn die erste und die letzte Adresse kann man nicht nutzen. 
+Die Nullen in der Subnetzmaske zeigen uns, wie viele verschiedene Häuser (Rechner) es in einem bestimmten Netzwerk geben kann. Wenn die Subnetzmaske viele Nullen hat, bedeutet das, dass es viele Häuser in diesem Netzwerk geben kann. Wenn es weniger Nullen gibt, sind es weniger Häuser.
 
-Aber wie kommen wir nun von der IP-Adresse zur Subnetzmaske? Dies ist ein bisschen komplizierter und beinhaltet das Umwandeln der IP-Adresse in eine binäre Form (also nur bestehend aus den Zahlen 0 und 1). Aber das Wichtigste ist, dass IP-Adresse und Subnetzmaske zusammengehören und uns zeigen, welche Geräte in welchem Netzwerk sind.
+Zusammenfassend: Die IP-Adresse sagt, wo ein Computer ist, und die Subnetzmaske hilft uns zu erkennen, wie diese Adresse aufgebaut ist, also was zum Netzwerk gehört und was zum einzelnen Computer.

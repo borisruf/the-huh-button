@@ -1,1 +1,1 @@
- Es werden jetzt BPDUs, sogenannte Bridge Protocol Data Units, zwischen den Switches ausgetauscht, um eben eine sogenannte Root-Bridge zu wählen.  Das machen die Switches also quasi untereinander aus.
+ An der Stelle bedeutet das also, die leiten keine normalen Daten weiter, die befinden sich im Blocking-Status.   Es werden jetzt BPDUs, sogenannte Bridge-Protokoll-Data-Units, zwischen den Switches ausgetauscht, um eben eine sogenannte Route-Bridge zu wählen.

@@ -1,0 +1,5 @@
+In dieser Erklärung geht es darum, wie Computer und Geräte miteinander verbunden sind. Früher waren alle Geräte an ein einziges Kabel angeschlossen. Man nennt das „Shared Media“. Wenn alle Geräte gleichzeitig Daten senden wollten, kam es oft zu Problemen, weil sie sich gegenseitig störten. Das nennt man Kollisionen, und das ist nicht gut, vor allem wenn man Telefonanrufe über das Internet machen möchte, wo man Echtzeitübertragung braucht.
+
+Heute benutzt man stattdessen einen „Switch“. Ein Switch ist ein Gerät, das jedem angeschlossenen Gerät eine eigene Verbindung gibt. Das bedeutet, dass die Geräte gleichzeitig Daten senden können, ohne sich gegenseitig zu stören. Das macht die Kommunikation schneller und zuverlässiger. 
+
+In einfachen Worten: Früher mussten alle an einem Kabel zusammen arbeiten, und das hat Probleme verursacht. Jetzt können sie getrennt arbeiten, was viel besser ist.

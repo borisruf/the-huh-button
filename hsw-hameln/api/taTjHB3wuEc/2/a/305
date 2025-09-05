@@ -1,0 +1,5 @@
+In einfacher Sprache bedeutet die Aussage:
+
+Der Sender schickt Daten an den Empfänger. Manchmal kann der Empfänger nicht alle Daten sofort empfangen, weil er zu beschäftigt oder sein Speicher voll ist. Der Empfänger sagt dann, dass er die Daten 5 bekommen möchte, obwohl er sie nicht erhalten hat. Er hat nur gesagt, dass er die Daten 5 als nächstes haben kann. Das hilft dem Sender zu wissen, dass er bestimmte Daten nicht verloren hat und welche er als Nächstes senden sollte. 
+
+Das ist wichtig, damit der Sender und der Empfänger gut zusammenarbeiten und die richtigen Daten zur richtigen Zeit schicken können, ohne dass etwas verloren geht.

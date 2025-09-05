@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass im Netzwerk (Lahn) einer Hochschule oder eines Unternehmens jeder die privaten IP-Adressen selbst auswählen kann. Das bedeutet, dass verschiedene Orte, wie zum Beispiel eine Hochschule und ein Unternehmen, die gleiche private IP-Adresse verwenden können, ohne Probleme zu haben. 
+
+Warum funktioniert das? Weil zwischen diesen verschiedenen Netzwerken ein Router steht, der die Daten ins Internet weiterleitet. Dieser Router sorgt dafür, dass die Daten von den verschiedenen privaten Netzwerken nicht durcheinander kommen. Die privaten IP-Adressen können sich überschneiden, aber da die Router die Daten an die richtigen Orte senden, gibt es keine Verwirrung. 
+
+Zusammengefasst: Private IP-Adressen können gleich sein, weil sie in verschiedenen Netzwerken sind und durch Router getrennt werden.

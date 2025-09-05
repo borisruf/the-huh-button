@@ -1,0 +1,9 @@
+Die Aussage spricht über die Umstellung von einer älteren Version des Internetprotokolls (IP Version 4) zu einer neuen Version (IP Version 6), weil die alten Internetadressen knapp werden. Bei IP Version 4 gab es nur 32-Bit-Adressen, was bedeutet, es gab ungefähr 4 Milliarden Adressen. Diese Adressen wurden oft verschwenderisch genutzt, sodass viele verloren gingen.
+
+Um das Problem zu lösen, hat man eine neue Version, IP Version 6, entwickelt, die 128-Bit-Adressen verwendet. Das bedeutet, es gibt unglaublich viele mehr Adressen: ungefähr 340 undecillion (das sind sehr, sehr viele, mehr als man sich vorstellen kann). So können zum Beispiel jedes Smartphone, Tablet oder sogar elektronische Geräte wie Kühlschränke eine eigene Adresse bekommen. 
+
+Die Schreibweise der neuen Adressen ist etwas komplizierter. Anstatt Zahlen mit Punkten zu trennen (wie bei IP Version 4), werden bei IP Version 6 die Adressen in Gruppen von Zahlen im Hexadezimalsystem (das sind die Zahlen 0-9 und die Buchstaben A-F) geschrieben und durch Doppelpunkte getrennt. Das macht es schwieriger, sich die Adressen zu merken.
+
+Außerdem gibt es spezielle Regeln, wie man die Adresse kürzen kann, um sie einfacher zu machen. Es gibt auch bestimmte Teile der Adresse, die angeben, zu welchem Netzwerk die Adresse gehört.
+
+Zusammengefasst: IP Version 6 ist nötig, weil wir mehr Adressen brauchen, die neuen Adressen sind komplexer, aber sie werden uns helfen, alle Geräte in der Zukunft zu verbinden.

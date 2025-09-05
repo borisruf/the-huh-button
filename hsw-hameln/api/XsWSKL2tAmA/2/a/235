@@ -1,7 +1,9 @@
-In leicht verständlicher Sprache heißt das:
+Die Aussage bedeutet Folgendes in einfachen Worten:
 
-Um zu wissen, wie viele Computer oder Geräte in einem Netzwerk sein können, spielen die Nullen bei einer bestimmten Maske (der sogenannten Subnetzmaske) eine wichtige Rolle. Man nimmt die Anzahl der Nullen und rechnet damit: Man nimmt die Zahl 2 und erhöht sie so oft zum Quadrat, wie es Nullen in der Maske gibt.
+- In einem Netzwerk gibt es bestimmte Adressen, die eine besondere Bedeutung haben.
+- Die **erste Adresse** in einem Netzwerk wird **Netzwerkadresse** genannt. Diese Adresse zeigt an, welches Netzwerk es ist, und kann nicht für einen Computer genutzt werden.
+- Die **letzte Adresse** wird **Broadcast-Adresse** genannt. Diese Adresse wird verwendet, um Nachrichten an alle Computer im Netzwerk zu senden. Auch diese Adresse kann nicht für einen Computer genutzt werden.
+- Wenn wir über IP-Adressen sprechen, müssen wir auch die **Subnetzmaske** betrachten. Die Subnetzmaske hilft zu bestimmen, welcher Teil der IP-Adresse zum Netzwerk gehört (Netzanteil) und welcher Teil zu einem einzelnen Computer (Host-Anteil).
+- Jede IP-Adresse hat eine passende Subnetzmaske, und beide zusammen geben an, wie viele Computer in einem Netzwerk möglich sind und wie das Netzwerk organisiert ist.
 
-In diesem Fall gibt es 16 Nullen. Also wird 2, sechzehnmal mit sich selbst multipliziert, was mehr als 65.500 ergibt. Doch zwei dieser Adressen sind immer schon vergeben. 
-
-Die erste, weil sie die Adresse des ganzen Netzwerks ist. Und die letzte, weil sie eine spezielle Nachricht an alle Geräte in dem Netzwerk sendet (das nennt man eine Broadcast-Nachricht). Diese beiden Adressen kann man also nicht für ein Gerät oder einen Computer im Netzwerk verwenden. Deswegen zieht man sie ab.
+Zusammengefasst: Die erste Adresse und die letzte Adresse sind besondere Adressen im Netzwerk, die nicht für Computer genutzt werden können. Die Subnetzmaske hilft uns zu verstehen, wie die IP-Adresse in Netzwerk- und Computeranteil aufgeteilt ist.

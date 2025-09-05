@@ -1,0 +1,5 @@
+In einfacher Sprache bedeutet die Aussage:
+
+Unser drittes Paket konnte nicht zugestellt werden. Der Empfänger hat ein Problem und kann das Paket gerade nicht annehmen. Vielleicht ist sein Speicher voll, sodass er keine neuen Pakete mehr bekommt. 
+
+Das passiert, wenn der Sender sehr schnell sendet, aber der Empfänger nicht so schnell Daten verarbeiten kann. Um sicherzustellen, dass der Sender und Empfänger gut zusammenarbeiten, müssen sie sich absprechen, wie viele Daten gleichzeitig geschickt werden dürfen. Wenn der Empfänger überlastet ist, kann er nicht alles annehmen, und das führt dazu, dass einige Pakete nicht ankommen.

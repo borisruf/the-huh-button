@@ -1,0 +1,1 @@
+ Das Ganze geht dann eben nach dem Switch über einen VLAN-Trunk zu unserem Vermittlungsserver und von dort eben entsprechend entweder weiter in unser internes Netzwerk oder eben in das öffentliche Telefonnetz.

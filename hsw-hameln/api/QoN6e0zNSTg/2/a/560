@@ -1,0 +1,5 @@
+Wenn wir Informationen an viele Computer gleichzeitig schicken wollen, nutzen wir einen speziellen Mechanismus, der "Broadcaster" heißt. 
+
+Stell dir vor, du hast eine Gruppe von Freunden, und du möchtest allen gleichzeitig eine Nachricht senden. Anstatt jeder Person die Nachricht einzeln zu geben, rufst du einfach laut in die Runde, und jeder, der hören kann, bekommt die Nachricht. 
+
+Im Computer-Netzwerk funktioniert das ähnlich. Wenn ich etwas von meiner Adresse (also wie meine Telefonnummer) an viele Computer senden möchte, nehme ich eine besondere Adresse, die aus vielen Buchstaben "F" besteht (so etwas wie ein Lautsprecher für die Gruppe), damit die Nachricht an alle Computer im Netzwerk geschickt wird. So können alle Computer sie hören und darauf reagieren.

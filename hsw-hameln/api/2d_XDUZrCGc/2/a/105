@@ -1,0 +1,12 @@
+In einfachen Worten:
+
+Wir haben schon gelernt, was IP-Adressen sind. Jetzt schauen wir uns an, wie man sie einteilt. Es gibt verschiedene Gruppen von IP-Adressen, die wir "Klassen" nennen. Diese Klassen basieren darauf, was im ersten Teil der IP-Adresse steht.
+
+1. Wenn das erste Stück (das nennt man "Oktett") mit einer bestimmten Zahl anfängt, gehört es zu einer bestimmten Klasse:
+   - Klasse A: Wenn der erste Teil mit 0 anfängt (Zahlen von 0 bis 127).
+   - Klasse B: Wenn der erste Teil mit 10 anfängt (Zahlen von 128 bis 191).
+   - Klasse C: Wenn der erste Teil mit 110 anfängt (Zahlen von 192 bis 223).
+
+Es gibt noch mehr Klassen, aber die interessieren uns vorerst nicht. Die ersten drei Klassen sind wichtig, weil sie für die Adressierung von Computern genutzt werden. Die anderen Klassen sind für spezielle Zwecke, wie Forschung.
+
+Jetzt schauen wir uns eine Tabelle an, die uns hilft, diese Klassen besser zu verstehen.

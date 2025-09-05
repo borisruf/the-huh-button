@@ -1,0 +1,9 @@
+Die Aussage bedeutet, dass es zwei Arten von IP-Adressen gibt: öffentliche und private. 
+
+**Private IP-Adressen** sind Adressen, die in bestimmten Bereichen liegen und man kann sie in lokalen Netzwerken, wie zu Hause oder in einer Schule, nutzen. Diese Adressen sind nicht im Internet sichtbar und man kann sie überall gleich nutzen, ohne dass es zu Problemen kommt.
+
+**Öffentliche IP-Adressen** sind alle anderen Adressen, die nicht in diesen speziellen Bereichen für private Adressen liegen. Diese Adressen sind wichtig für die Kommunikation im Internet. 
+
+Die öffentlichen IP-Adressen werden von einer speziellen Organisation, die Internet Assigned Numbers Authority heißt, verwaltet und verteilt. Diese Organisation gibt sie meistens an Internet-Anbieter, die sie dann an ihre Kunden weitergeben.
+
+Zusammengefasst: Private Adressen können überall gleich sein und sind für lokale Netzwerke. Öffentliche Adressen sind einzigartig und wichtig für das Internet.

@@ -1,0 +1,9 @@
+In dieser Aussage geht es darum, wie Daten übertragen werden, besonders wenn wir nur zwei Möglichkeiten haben, etwas darzustellen – zum Beispiel 0 und 1, was man als binär bezeichnet. 
+
+Wenn wir sagen, dass wir in einer Sekunde 6 Bit (das sind die kleinsten Datenstücke, die 0 oder 1 sein können) übertragen, bedeutet das, wir haben 6 Informationen in dieser Zeit geschickt. Das nennt man dann "6 Bit pro Sekunde". 
+
+Im binären Fall, wo wir nur 0 und 1 verwenden, ist die Geschwindigkeit der Übertragung auch gleich der Zahl der Änderungen, die wir machen. Diese Änderungen nennt man "Baud". Wenn wir also 6 Bit pro Sekunde übertragen, dann haben wir auch 6 Baud. 
+
+Aber das gilt nur, wenn wir wirklich nur mit 0 und 1 arbeiten. Bei anderen Arten der Übertragung könnte das anders sein. 
+
+Zusammengefasst: Wenn wir einfach 0 und 1 benutzen, ist die Anzahl der Bits, die wir pro Sekunde schicken, gleich der Zahl der Änderungen, die wir machen - das ist die Baudrate.

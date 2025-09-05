@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass man sein Netzwerk so einrichten kann, dass es von selbst nach Fehlern sucht. Wenn ein Fehler passiert, schickt das Netzwerk sofort eine Nachricht, damit man schnell reagieren kann. 
+
+Außerdem kann man sicherstellen, dass das Netzwerk sehr zuverlässig ist, indem man mehr als eine Möglichkeit einrichtet, um sicherzustellen, dass alles funktioniert. Das nennt man Redundanzen. Zum Beispiel, wenn man zwei Router hat. Wenn einer ausfällt, kann der andere weiterarbeiten. Dadurch wird das Netzwerk stabiler und es gibt weniger Ausfälle.

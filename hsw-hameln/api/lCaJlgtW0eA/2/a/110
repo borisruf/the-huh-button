@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie verschiedene Teile eines Netzwerks miteinander verbunden werden können. Stell dir vor, ein Netzwerk ist wie eine Stadt mit verschiedenen Straßen (oder Segmenten), und wir wollen diese Straßen sicher verbinden, damit die Fahrzeuge (Daten) gut fahren können.
+
+1. **Intelligenz ins Spiel**: Wenn wir einfache Geräte wie Hubs oder Repeater verwenden, können sie nur Signale weiterleiten, aber sie wissen nicht, wohin die Signale gehen sollen. Diese Geräte sind wie einfache Straßen, die den Verkehr aber nicht regeln. 
+
+2. **Bessere Geräte**: Wenn wir Switches oder Bridges verwenden, wird es cleverer. Diese Geräte können Entscheidungen treffen, wohin die Daten gesendet werden sollen. Sie benutzen dabei die MAC-Adresse, die wie eine Adresse für jedes Gerät im Netzwerk ist. Das ist so, als würden die Straßen einen Verkehrsleitsystem haben, das den Verkehr richtig lenkt.
+
+3. **Kollisionen vermeiden**: Wenn viele Daten an einem Ort sind, könnten sie sich „stoßen“, ähnlich wie Autos, die an einer Kreuzung gleichzeitig fahren wollen. Switches und Bridges helfen, solche Zusammenstöße zu vermeiden, indem sie die Daten in unterschiedliche Bahnen (Kollisionsdomänen) leiten. 
+
+Zusammengefasst: Switches und Bridges sind cleverer als einfache Geräte; sie helfen dabei, Daten effizienter und sicherer innerhalb eines Netzwerks zu senden.

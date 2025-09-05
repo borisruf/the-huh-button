@@ -1,0 +1,9 @@
+Die Aussage erklärt, wie Geräte in einem Netzwerk miteinander kommunizieren, besonders im Ethernet. Hier ist eine einfache Erklärung:
+
+- **CS (Carrier Sense)** bedeutet: Die Geräte hören zuerst, ob das Draht oder die Verbindung frei ist. Stell dir vor, das ist wie wenn du in einen Raum gehst und sicherstellst, dass niemand dort spricht, bevor du anfängst zu reden.
+
+- **Multiple Access** bedeutet, dass mehrere Geräte (zum Beispiel Gerät 1 und Gerät 3) gleichzeitig versuchen, die Verbindung zu nutzen. Wenn sie hören, dass die Verbindung frei ist, können sie gleichzeitig Informationen senden.
+
+- Wenn beide Geräte anfangen, gleichzeitig zu senden, kann es zu Problemen kommen - wie wenn zwei Leute gleichzeitig sprechen. Das heißt, sie müssen eine Art Regel oder Protokoll haben, um sicherzustellen, dass sie entweder warten oder sich abwechseln, damit alles gut funktioniert.
+
+Zusammengefasst: Die Geräte hören zuerst, ob sie sprechen dürfen, und wenn es frei ist, können sie gleich loslegen. Aber sie müssen vorsichtig sein, damit sie sich nicht gegenseitig stören.

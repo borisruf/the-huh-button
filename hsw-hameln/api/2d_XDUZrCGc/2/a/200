@@ -1,0 +1,6 @@
+Die Aussage besagt, dass es immer mehr Netzwerke mit verschiedenen IP-Adressklassen gibt, aber die Anzahl der Computer, die man in diesen Netzwerken ansprechen kann, immer kleiner wird. Das liegt daran, dass große Firmen früher viele IP-Adressen bekommen haben, aber sie brauchen oft nicht so viele. Deshalb sind viele von diesen Adressen nicht genutzt, und nun gibt es nicht genug Adressen für alle Computer, die wir heute verbinden wollen.
+
+Außerdem gibt es innerhalb jeder IP-Adressklasse eine weitere Unterscheidung: private IP-Adressen und öffentliche IP-Adressen. 
+
+- **Private IP-Adressen** sind für den Gebrauch in eigenen, kleinen Netzwerken, wie zum Beispiel in einem Zuhause oder Büro.
+- **Öffentliche IP-Adressen** sind für Netzwerke, die mit dem Internet verbunden sind und von vielen verschiedenen Geräten weltweit genutzt werden können.

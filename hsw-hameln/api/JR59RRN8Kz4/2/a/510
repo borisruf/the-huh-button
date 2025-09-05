@@ -1,0 +1,15 @@
+In dieser Erklärung geht es darum, wie man in einem Netzwerk Telefone und Computer getrennt, aber gleichzeitig miteinander verbunden nutzen kann.
+
+Stell dir vor, in einem Büro gibt es viele Computer und Telefone. Um sicherzustellen, dass die Computer und Telefone gut funktionieren, benutzt man zwei spezielle Gruppen, die man VLANs nennt. Ein VLAN ist wie ein eigener Bereich für Geräte, damit sie nicht miteinander durcheinander kommen.
+
+1. **Zwei Gruppen**: Eine Gruppe ist für Computer (Daten-VLAN) und die andere Gruppe ist für Telefone (Voice-VLAN). Dadurch ist es einfacher, die Geräte zu verwalten und sicherzustellen, dass sie gut arbeiten.
+
+2. **Gute Verbindung**: Die Telefone und Computer verwenden die gleiche Verbindung (Kabel), aber sie sind in verschiedenen Gruppen, um Störungen zu vermeiden. Wenn ein Computer zum Beispiel große Dateien herunterlädt, kann das Telefon trotzdem gut funktionieren, weil die Telefongespräche in ihrem eigenen Bereich sind.
+
+3. **Schnelligkeit und Qualität**: Damit die Stimmen klar und ohne Unterbrechungen übertragen werden, muss die Verbindung sehr gut sein. Man sorgt mit einer speziellen Technik dafür, dass die Sprachdaten Vorrang haben und schnell übertragen werden.
+
+4. **Weniger Kabel**: Wenn man Hardware-Telefone verwendet, haben diese oft einen eingebauten Switch. Das bedeutet, man braucht nur ein Kabel für das Telefon, das gleichzeitig auch für den Computer genutzt werden kann. So spart man Platz und Kabel.
+
+5. **Verbindung zum Telefonnetz**: Die Telefone schicken ihre Daten über einen speziellen Server, der die Gespräche ins öffentliche Telefonnetz leitet. Das alles funktioniert reibungslos, weil man die beiden Gruppen (VLANs) klug genutzt hat.
+
+Zusammengefasst sorgt die Aufteilung in zwei VLANs dafür, dass Telefone und Computer im Büro gut miteinander arbeiten und man qualitativ hochwertige Telefongespräche führen kann, ohne dass die Internetgeschwindigkeit leidet.

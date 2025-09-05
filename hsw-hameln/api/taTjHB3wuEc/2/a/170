@@ -1,0 +1,11 @@
+Stell dir vor, wir haben einen Wasserfluss. Der Sender ist wie ein starker Wasserhahn, der schnell Wasser rauslässt, und der Empfänger ist wie ein kleiner Eimer, der nicht so schnell das Wasser aufnehmen kann. Wenn der Wasserhahn zu schnell Wasser ausschüttet, wird der Eimer überlaufen, weil er nicht hinterherkommt.
+
+Damit alles gut funktioniert, müssen wir helfen, die Geschwindigkeit des Wasserhahns und des Eimers aufeinander abzustimmen. Das nennen wir Flusssteuerung. So stellen wir sicher, dass der Eimer immer genug Wasser bekommt, ohne dass etwas verschüttet wird.
+
+Außerdem kann der Eimer dem Wasserhahn sagen, wenn er voll ist und mehr Wasser haben möchte. Das nennt man Quittierungen oder Acknowledgements. Es gibt verschiedene Möglichkeiten, wie der Wasserhahn auf diese Antwort warten kann.
+
+Eine Methode ist Stop-and-Wait, dabei wartet der Wasserhahn jedes Mal auf eine Antwort, bevor er mehr Wasser rausschüttet. Das kann jedoch viel Zeit kosten, weil der Wasserhahn oft wartet, obwohl er bereit wäre, mehr Wasser zu geben.
+
+Um die Zeit besser zu nutzen, können wir Pipelining verwenden. Das heißt, der Wasserhahn schüttet mehrere kleine Mengen Wasser nacheinander aus und wartet nur auf eine einzige Antwort, nachdem eine bestimmte Menge Wasser geschüttet wurde. Das funktioniert gut, weil der Eimer dann nicht warten muss und das Wasser ständig fließen kann.
+
+Das Ziel ist, den Wasserfluss immer aktiv zu halten, damit der Eimer niemals leer ist und das Wasser immer fließt. Wir sprechen auch darüber, dass es eine Art Vereinbarung gibt, wie viel Wasser der Eimer aufnehmen kann - das nennen wir Fenster. So stellen wir sicher, dass der Wasserhahn und der Eimer gut zusammenarbeiten, auch wenn sie unterschiedlich schnell sind.

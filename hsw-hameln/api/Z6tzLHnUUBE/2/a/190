@@ -1,0 +1,7 @@
+In diesem Text geht es darum, wie Daten in einem Netzwerk verschickt werden. Manchmal sind die Daten zu groß, um sie auf einmal zu senden, weil verschiedene Netzwerktypen unterschiedliche Größenlimits haben. 
+
+Stell dir vor, du hast einen großen Ballon, aber dein Tor ist zu klein, um ihn hindurch zu bekommen. Du musst den Ballon entweder kleiner machen oder ihn in Stücke schneiden, damit er durchpasst. 
+
+Genauso funktioniert es mit Daten in Netzwerken. Die Technik, die dafür sorgt, dass große Daten in kleinere Teile zerlegt werden, nennt man "Fragmentierung". Wenn die Daten in Teile geteilt werden, nennt man das "Fragmente". Wenn die Teile dann wieder zusammengefügt werden, nennt man das "Defragmentierung".
+
+Der Grund, warum das nötig ist, ist, dass verschiedene Netzwerke (wie Ethernet, FDDI oder PPP) unterschiedliche maximale Größen haben, die sie schicken können. Um sicherzustellen, dass die Daten im Netzwerk richtig ankommen, muss das Internetprotokoll (IP) die großen Datenpakete in kleinere Teile zerlegen, damit sie entsprechend den Regeln des Netzwerks geschickt werden können.

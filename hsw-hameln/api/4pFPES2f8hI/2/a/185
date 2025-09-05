@@ -1,0 +1,9 @@
+Die Subnetzmaske hilft dabei, große Netzwerke in kleinere Teile zu teilen, die wir Subnetze nennen. Das ist wichtig, weil wir nicht genug IP-Adressen für alle Geräte haben. 
+
+Stell dir vor, ein großes Klassenzimmer (das große Netzwerk) hat viele Schüler (Geräte). Wenn wir das Klassenzimmer in kleinere Gruppen aufteilen (Subnetze), können wir besser organisieren, wer wo sitzt. 
+
+Ursprünglich haben viele Leute zu viele Plätze in dem Klassenzimmer bekommen, auch wenn sie nicht alle brauchten. Jetzt gibt es nicht genug Plätze für alle, weil wir das nicht gut geplant haben.
+
+Um das Problem zu lösen, ändern wir die Subnetzmaske, die zeigt, wie groß jedes kleine Klassenzimmer ist. Wir nehmen Plätze (Nullen in der Subnetzmaske) und machen sie in kleinere Zimmer (Netzanteile). Dabei müssen wir darauf achten, dass alle Plätze nebeneinander ohne Lücken umgewandelt werden.
+
+Das Ergebnis? Wir haben kleinere Gruppen im Klassenzimmer, was hilft, alles sicherer und einfacher zu verwalten. Und wir können auch einige Plätze (IP-Adressen) freigeben, die nicht gebraucht werden. So können wir effizienter mit den Adressen umgehen. Die Subnetzmaske zeigt uns, wie viele dieser Gruppen es gibt und wie viele Plätze in jeder Gruppe sind.

@@ -1,0 +1,7 @@
+Wenn du einen Router zu Hause hast, dann verbinden sich die Computer und Geräte in deinem Netzwerk (dein "LAN") mit diesem Router. Der Router hat eine spezielle Adresse, die man öffentliche IP-Adresse nennt, und die ist wie eine Hausnummer im Internet. 
+
+Stell dir vor, deine Wohnung hat viele Zimmer (die Computer und Geräte in deinem LAN), aber nur eine Eingangstür (der Router), die nach draußen führt. Das bedeutet, dass die ganze Wohnung von außen nur durch diese eine Tür sichtbar ist. 
+
+Wenn jemand das Internet besucht, sieht er nur diese eine Adresse (die öffentliche IP-Adresse des Routers) und nicht die einzelnen Zimmer (deine Geräte im LAN). Alle Geräte in deinem LAN können über diese eine öffentliche Adresse Internetseiten besuchen oder Daten senden und empfangen, ohne dass jeder von ihnen seine eigene Adresse braucht. So bleibt dein LAN sicher und nutzt die Adresse effizient. 
+
+Zusammengefasst: In deinem Haus (LAN) gibt es viele Geräte, die über eine einzige öffentliche Adresse (Router) ins Internet gehen, da das einfacher und sicherer ist.

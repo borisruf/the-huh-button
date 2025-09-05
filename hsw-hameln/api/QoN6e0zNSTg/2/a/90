@@ -1,0 +1,7 @@
+In diesem Text geht es darum, wie mehrere Geräte in einem Netzwerk, wie zum Beispiel Computer, gleichzeitig auf dieselbe Verbindung zugreifen können. 
+
+Wenn viele Geräte ein gemeinsames „Medium“ nutzen wollen, müssen Regeln aufgestellt werden, damit nicht alle gleichzeitig versuchen, darauf zuzugreifen. Das könnte zu Chaos führen, wenn jeder einfach macht, was er will. 
+
+Um das zu verhindern, braucht man eine „Medienzugriffssteuerung“. Das sind einfach festgelegte Regeln und Verfahren, die bestimmen, wer und wann auf das Medium zugreifen darf. Das wird in Netzwerken durch sogenannte „Protokolle“ geregelt, die sicherstellen, dass alles ordentlich läuft. 
+
+Im konkreten Beispiel geht es um das „Ethernet“, das vor vielen Jahren erfunden wurde und das heute noch in vielen Netzwerken verwendet wird. Es erlaubt den verschiedenen Geräten, miteinander zu kommunizieren, während es gleichzeitig die Nutzung des gemeinsamen Mediums regelt.

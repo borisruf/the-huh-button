@@ -1,0 +1,13 @@
+In dieser langen Erklärung geht es darum, wie man ein Netzwerk sicher und zuverlässig macht. Einfach gesagt:
+
+1. **Sicherheit:** Wir müssen darauf achten, dass nur die richtigen Leute Zugriff auf unsere Daten haben. Das bedeutet, dass wir Dinge brauchen wie:
+   - Schutz, damit nur bestimmte Personen bestimmte Aufgaben im Netzwerk erledigen können (z.B. wer einen Druckauftrag geben darf).
+   - Schutz für unsere Daten, damit niemand Unbefugtes sie abfangen kann, besonders wenn sie über WLAN gesendet werden.
+
+2. **Zuverlässigkeit:** Das bedeutet, dass unser Netzwerk immer so funktioniert, wie es soll. Wir wollen wissen:
+   - Wie lange unsere Geräte normalerweise ohne Probleme laufen (mittleres Fehlerintervall).
+   - Wie schnell sie repariert werden, wenn doch mal etwas kaputt geht (mittlere Reparaturzeit).
+
+Wenn wir möchten, dass unser Netzwerk sehr zuverlässig ist, müssen wir oft zusätzliche Geräte oder Systeme haben, die einspringen können, wenn ein Hauptgerät ausfällt. Das nennt man Redundanz. Zum Beispiel, wenn ein Router benutzt wird, können wir einen zweiten Router haben, der sofort einspringt, wenn der erste versagt.
+
+Außerdem können wir unser Netzwerk so überwachen, dass wir sofort Bescheid bekommen, wenn irgendwo ein Fehler auftritt. Dadurch können wir schnell reagieren und Probleme lösen, bevor sie größer werden.

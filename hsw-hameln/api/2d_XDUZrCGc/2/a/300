@@ -1,0 +1,5 @@
+Okay, ich erkläre die Aussage in einfacher Sprache:
+
+Es gibt spezielle Nummern für Computer im Internet, die heißen IP-Adressen. Wenn jemand eine IP-Adresse braucht, dann wird sie von einer Organisation vergeben, die Internet Assigned Numbers Authority (IANA) heißt. Diese Organisation gibt die Adressen meistens an Internet-Anbieter (Provider), und die vergeben sie dann weiter an ihre Kunden.
+
+Es ist wichtig, dass die IP-Adressen, die im Internet verwendet werden, nicht mit den IP-Adressen in privaten Netzwerken (wie in deinem Zuhause) vermischt werden. Wenn man eine öffentliche IP-Adresse, die für das Internet gedacht ist, in einem privaten Netzwerk benutzt, kann es Probleme geben, wenn man versucht, ins Internet zu gehen. Das liegt daran, dass die gleichen Adressen im Internet schon genutzt werden und es dann "Kollisionen" gibt, weil zwei Geräte versuchen, die gleiche Adresse zu verwenden.

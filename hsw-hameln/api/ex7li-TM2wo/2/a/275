@@ -1,0 +1,7 @@
+In dem Text geht es darum, wie wir Probleme mit Daten, die wir senden oder empfangen, erkennen und damit umgehen können. Hier ist die Aussage einfach erklärt:
+
+Wenn wir Daten schicken oder empfangen, können manchmal Fehler passieren. Zum Beispiel können sich Zahlen ändern oder Daten können ganz verschwinden. Es ist wichtig, diese Fehler zu finden. Manchmal können wir kleine Fehler einfach ignorieren, wie bei einer Videoübertragung, wo es wichtiger ist, schnell zu sein. Aber bei wichtigen Dingen wie Geldüberweisungen können Fehler große Probleme machen, deshalb müssen wir sie finden und reparieren.
+
+Es gibt verschiedene Methoden, um Fehler zu erkennen und zu beheben. Eine Methode ist, eine Art „Prüfziffer“ oder „Prüfzähler“ zu den Daten hinzuzufügen. Damit können wir nachprüfen, ob die Daten richtig sind, wenn sie ankommen. Ein Beispiel für so eine Methode ist der „zyklische Redundanz-Check“ (CRC).
+
+Jetzt werden wir uns Beispiele von solchen Methoden anschauen und sehen, wie sie in der Praxis funktionieren.

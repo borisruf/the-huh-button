@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass wir beim Bestimmen der Klasse einer IP-Adresse uns das erste Teilstück der Adresse anschauen, das in einer speziellen Art und Weise (binär) geschrieben ist. Dabei fokusieren wir uns auf das erste Bit, das das wichtigstes ist. Wenn dieses höchste Bit (das ganz links steht) den Wert 0 hat, dann gehört die IP-Adresse zur Gruppe A. 
+
+Zusammengefasst: Wir schauen uns das erste Teilstück der IP-Adresse an. Wenn das erste Zeichen 0 ist, ist es Klasse A.

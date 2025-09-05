@@ -1,0 +1,5 @@
+In der einfachen Sprache bedeutet die Aussage:
+
+Wenn ein Netzwerkadministrator feste, feste Routen (statische Routen) auf Routern einrichtet, dann können Probleme auftreten. Zum Beispiel, wenn ein Router oder eine Verbindung kaputt geht oder wenn neue Router dazukommen. Dann sind die festen Routen nicht mehr nützlich und es wird schwierig, die Daten richtig zu leiten.
+
+Aber wenn man stattdessen dynamisches Routing verwendet, also wenn die Router selbstständig entscheiden, wie sie die Daten durch das Netzwerk leiten, dann arbeiten sie zusammen und finden die besten Wege, ohne dass der Administrator alles selbst einstellen muss. Die Router können sich schnell an Veränderungen im Netzwerk anpassen.

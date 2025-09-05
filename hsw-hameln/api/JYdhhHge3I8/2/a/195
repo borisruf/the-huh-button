@@ -1,0 +1,9 @@
+In dem Text geht es darum, wie Daten von einem Ort zu einem anderen in einem Netzwerk geschickt werden. Man kann sich das wie verschiedene Arten von Telefonleitungen vorstellen.
+
+1. **Leitungsvermittlung**: Das ist wie in alten Filmen, wo jemand eine Telefonverbindung erstellt, indem sie die Leitungen direkt miteinander verbindet. Wenn du anrufst, hast du eine festgelegte Verbindung, die nur für dein Gespräch genutzt wird.
+
+2. **Speichervermittlung**: Das ist wie die Post, wo Briefe in Paketen von einem Ort zum anderen gesendet werden. Jedes Paket wird ganz an einen anderen Ort gebracht, bevor es an den Empfänger weitergeleitet wird.
+
+3. **Paketvermittlung**: Das ist eine Kombination aus den beiden vorherigen Arten. Daten werden in kleine Pakete aufgeteilt, die dann auf verschiedenen Wegen zu ihrem Ziel geschickt werden. Diese Pakete können unterschiedliche Routen nehmen, um ans Ziel zu kommen.
+
+Der Text erklärt, dass wir uns diese Methoden in der Praxis anschauen wollen, besonders die Leitungsvermittlung, wo eine spezielle Verbindung für das Senden von Daten genutzt wird, ganz so wie ein dediziertes Telefon für ein Gespräch.

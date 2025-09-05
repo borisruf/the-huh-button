@@ -1,0 +1,11 @@
+In der Erklärung geht es darum, wie man große Computer-Netze in kleinere Netze, sogenannte Subnetze, aufteilt. 
+
+Stell dir vor, du hast ein großes Gelände mit vielen Häusern (das große Netz) und willst es in kleinere Grundstücke unterteilen, wo jeweils ein oder zwei Häuser stehen (Subnetze). 
+
+1. **Subnetze**: Wenn man das große Netz unterteilt, erhält man mehrere kleine Netzwerke. In dem Beispiel werden aus einem großen Netzwerk 8 kleinere gemacht.
+
+2. **Nutzen der Subnetze**: Von den 8 kleinen Grundstücken kann man nur 6 benutzen, weil das erste und das letzte Grundstück besondere Adressen sind, die man nicht für die normalen Häuser verwenden kann. 
+
+3. **Anzahl der Hosts**: USB-Ziffern in der Erklärung sagen, dass für jedes kleine Grundstück eine bestimmte Anzahl von Häusern (Hosts) vorhanden ist, die man adressieren kann. In diesem Fall muss man also auch darauf achten, wie viele Häuser (Hosts) man auf jedem kleinen Grundstück unterbringen kann.
+
+Zusammengefasst: Durch die Unterteilung in Subnetze kann man die IP-Adressen besser nutzen, sicherer arbeiten und verwalten. Von den gebauten kleinen Grundstücken (Subnetzen) kann man nicht alle benutzen, nur die, die für normale Häuser (Hosts) gedacht sind.

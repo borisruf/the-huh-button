@@ -1,0 +1,7 @@
+In einfachen Worten:
+
+Bei IP Version 6 gibt es eine lange Adresse, die aus vielen Zahlen und Buchstaben besteht. Diese Adresse ist viel größer als die alte Version, IP Version 4. Um sie leichter zu lesen, können wir einige Teile der Adresse kürzen. 
+
+Ein Beispiel: Wenn wir in einem Block anstatt „00AB“ einfach „AB“ schreiben, ist das in Ordnung, weil die Nullen am Anfang nicht wichtig sind. Das macht die Adresse kürzer und einfacher. 
+
+In der schriftlichen Darstellung sehen wir eine lange Adresse oben und darunter eine kürzere Version, wo einige Nullen weggelassen wurden. Das hilft uns zu verstehen, dass wir die Adresse trotzdem richtig lesen können, auch wenn sie gekürzt ist.

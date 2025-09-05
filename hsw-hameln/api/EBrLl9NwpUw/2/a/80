@@ -1,7 +1,5 @@
-Okay, also stell dir vor, du hast ein Netzwerk von Computern, die durch Switche miteinander verbunden sind. Manchmal haben wir mehrere Verbindungswege zwischen den Computern, um sicherzustellen, dass wenn ein Weg ausfällt, die Informationen immer noch weitergegeben werden können. Aber wenn wir das nicht richtig machen, können wir eine Schleife erzeugen. Das ist wie ein Kreisverkehr, wo ein Auto einfach immer weiter fahren kann, ohne einen Ausgang zu finden.
+Stell dir vor, du hast in deinem Klassenzimmer mehrere Tische (Switches) und jeder Tisch kann Nachrichten (Pakete) an die anderen Tische schicken. Wenn du eine Nachricht an einen Tisch schickst, aber nicht genau weißt, zu welchem Tisch sie gehört, dann bleibt die Nachricht vielleicht immer wieder am gleichen Tisch hängen und wird ständig hin und her geschoben.
 
-Jetzt passiert es manchmal, dass ein Paket - also eine Information oder eine Datei, die von einem Computer zu einem anderen geschickt wird - an die falsche Adresse geschickt wird. Wenn das Paket in so einer Schleife landet, kann es sein, dass es immer wieder im Kreis geschickt wird, weil niemand weiß, wohin es gehen soll.
+Das ist ein Problem, weil die Tische nicht wissen, wo die Nachricht hin soll. Sie fangen an, die Nachricht immer wieder an andere Tische zu schicken, und dadurch gibt es ganz viele Kopien davon. So wird das Klassenzimmer (Netzwerk) von diesen Nachrichten überflutet, und alle Tische haben viel zu tun, um mit den vielen Nachrichten umzugehen. Das nennt man einen "Broadcast-Storm", und es kann das ganze Klassenzimmer überlasten und fast lahmlegen. 
 
-Das kann zu einem Problem führen, das wir Broadcast-Storm nennen. Das ist, als ob alle Switche gleichzeitig schreien würden "Hey, wer weiß, wo dieses Paket hingehen soll?" Das kann das Netzwerk überlasten und es sehr langsam machen.
-
-Das wäre also schlecht und wir müssen sicherstellen, dass wir solche Schleifen vermeiden oder dass wir eine Möglichkeit haben, dieses Problem zu erkennen und zu lösen, wenn es passiert.
+Deshalb ist es wichtig, darauf zu achten, dass die Nachrichten gut adressiert sind, damit sie nicht in solchen endlosen Schleifen stecken bleiben.

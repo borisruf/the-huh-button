@@ -1,0 +1,7 @@
+In diesem Kapitel haben wir viel über IP gelernt, das ist wichtig für die Kommunikation im Internet. Jetzt wollen wir zum Schluss noch schnell über drei andere Schichten schauen, die das Programmieren und die Nutzung der Daten betreffen. Diese Schichten heißen: 
+
+1. Sitzungsschicht (Schicht 5) – sie hilft, die Verbindung zwischen zwei Computern zu organisieren. 
+2. Darstellungsschicht (Schicht 6) – sie sorgt dafür, dass die Daten so angezeigt werden, dass wir sie verstehen können.
+3. Anwendungsschicht (Schicht 7) – hier laufen die Programme, die wir benutzen, wie zum Beispiel Webseiten oder Apps.
+
+Diese Schichten sind wichtig, weil sie sicherstellen, dass alles gut funktioniert, wenn wir das Internet nutzen.

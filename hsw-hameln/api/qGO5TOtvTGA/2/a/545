@@ -1,0 +1,9 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn wir zwei Router miteinander verbinden wollen, benötigen wir IP-Adressen, damit sie miteinander sprechen können. Um das einfach zu erklären: 
+
+- "Zwei hoch zwei" bedeutet: Wenn wir 2 multiplizieren, erhalten wir 4. Das sind die möglichen IP-Adressen, die wir für unser kleines Netzwerksegment haben.
+- Von diesen 4 Adressen können wir jedoch 2 nicht verwenden. Eine Adresse wird für den einen Router benötigt und die andere für den anderen Router. 
+- Das bedeutet, dass uns nur 2 Adressen bleiben, die wir wirklich nutzen können. Diese 2 Adressen sind das Minimum, das wir benötigen, um die Router korrekt zu verbinden und sicherzustellen, dass sie miteinander kommunizieren können.
+
+Zusammenfassend: Um zwei Router zu verbinden, brauchen wir mindestens zwei IP-Adressen, weil die Router auch die richtigen Informationen benötigen, um zu wissen, wie sie miteinander arbeiten.

@@ -1,0 +1,13 @@
+Okay, hier ist die Erklärung in sehr einfacher Sprache:
+
+Es gibt verschiedene Klassen von IP-Adressen, die helfen, Computer und Netzwerke zu organisieren. 
+
+1. **Klasse A**: Diese wird für sehr große Netzwerke verwendet, weil sie mehr als 17 Millionen IP-Adressen hat. Das ist viel! Aber große Firmen brauchen oft nicht so viele Adressen, also gibt es viele ungenutzte Adressen.
+
+2. **Klasse B**: Diese Klasse ist für mittelgroße Netzwerke. Sie hat weniger Adressen als Klasse A, aber immer noch genug für viele Computer.
+
+3. **Klasse C**: Diese ist für kleine Netzwerke gedacht, wie zum Beispiel in Familien oder kleinen Büros. Sie hat nur eine kleine Anzahl von Adressen, genug für vielleicht ein paar Dutzend Computer.
+
+Also, wenn man ein großes Netzwerk hat, nimmt man Klasse A. Für mittlere Netzwerke ist es Klasse B und für kleine Netzwerke ist es Klasse C. 
+
+Das Problem ist, dass die großen Netzwerke viele IP-Adressen haben, die sie gar nicht nutzen. Das führt dazu, dass es immer weniger IP-Adressen für neue Netzwerke gibt. Je größer die IP-Netzwerke sind, desto weniger Computer können in diesen Netzwerken verbunden werden.

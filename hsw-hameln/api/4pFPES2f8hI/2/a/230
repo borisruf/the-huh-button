@@ -1,0 +1,11 @@
+In diesem Text geht es um Subnetzmasken und wie man Subnetze bildet, um das Problem von zu wenigen IP-Adressen zu lösen. 
+
+Eine Subnetzmaske hilft uns, ein großes Netzwerk in kleinere Teile, die Subnetze, aufzuteilen. So können wir IP-Adressen besser verwalten und mehr Sicherheit schaffen. Früher haben viele Leute zu viele IP-Adressen angefordert, und jetzt sind sie knapp. 
+
+Die Subnetzmaske gibt an, wie das Netzwerk aufgeteilt wird. Man kann dabei bestimmte Teile der Adresse (sogenannte „Host-Bits“) in Netzwerkanteile umwandeln. Man muss darauf achten, dass dabei keine „Lücken“ in der Umwandlung entstehen.
+
+Das Ergebnis dieser Aufteilung sind kleinere Netzwerke, die weniger IP-Adressen verwenden. Wenn wir zum Beispiel ein großes Netzwerk haben, in dem viele Adressen übrig sind, können wir diese freisetzen, indem wir das Netzwerk in Subnetze aufteilen. 
+
+Eine Subnetzmaske sieht zum Beispiel so aus: 255.255.0.0 oder in einer neueren Form mit einem „/“ am Ende, wie 172.16.14.193/16. Dies zeigt, wie viele Einsen (1) in der Subnetzmaske sind, was wichtig für die Aufteilung ist.
+
+Zusammengefasst: Subnetze helfen uns, IP-Adressen besser zu nutzen und die Netzwerke sicherer zu machen.

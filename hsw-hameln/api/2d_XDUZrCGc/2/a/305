@@ -1,0 +1,9 @@
+Okay, lass es uns einfach erklären:
+
+IP-Adressen sind wie Adressen für Computer, damit sie sich im Internet finden können. Es gibt zwei Arten von IP-Adressen: öffentliche und private.
+
+Öffentliche IP-Adressen sind wie die Adresse deines Hauses. Damit kann jeder im Internet dich finden und dir Nachrichten schicken. Private IP-Adressen sind wie die Adressen in einem Wohnhaus – sie helfen nur, die Computer in einem bestimmten Netzwerk (wie einem WLAN) zu erkennen, aber niemand außerhalb kann sie sehen.
+
+Nun ist es wichtig, dass in privaten Netzwerken keine öffentlichen IP-Adressen verwendet werden. Wenn das passiert, könnte es Probleme geben, wenn die Computer versuchen, im Internet zu kommunizieren. Das wäre so, als ob zwei Häuser die gleiche Adresse hätten – dann wüsste man nicht, wohin die Briefe geschickt werden sollen!
+
+Das Gute ist, auch wenn wir private IP-Adressen in unserem Netzwerk haben, können wir immer noch ins Internet. Das geschieht mit einem speziellen Gerät, das Router heißt. Der Router sorgt dafür, dass die Informationen von unserem privaten Netzwerk in das öffentliche Internet geschickt werden und umgekehrt. So können wir Webseiten aufrufen oder Daten verwenden, die im Internet gespeichert sind.

@@ -1,0 +1,5 @@
+Die Subnetzmaske hilft uns, große Netzwerke in kleinere Teile, sogenannte Subnetze, zu unterteilen. Das ist wichtig, weil die Internet-Adressen langsam knapp werden. Früher haben viele viel zu viele Adressen bekommen, obwohl sie das nicht gebraucht haben. Jetzt wollen wir die Adressen besser nutzen. 
+
+Wenn wir ein Subnetz erstellen, ändern wir die Subnetzmaske. Eine Subnetzmaske zeigt, wie viele Adressen in einem Netzwerk sind. Dabei gibt es Nullen und Einsen. Wenn wir Nullen in Einsen umwandeln, können wir mehr kleine Netzwerke schaffen, wodurch wir Adressen sparen und die Sicherheit verbessern.
+
+Ein Beispiel für eine IP-Adresse könnte 192.168.10.1 sein. Diese Adresse gehört zu einem kleineren Netzwerk, das einfach genutzt werden kann, wie in einem Heimnetzwerk. So können wir die Internet-Adressen besser verwalten und verwenden.

@@ -1,0 +1,5 @@
+Manchmal können Fehler passieren, wenn Daten übertragen werden. Auch wenn wir Systeme haben, um Fehler zu erkennen, gibt es immer noch die Möglichkeit, dass wir einen Fehler nicht bemerken. Das nennt man "Restfehlerwahrscheinlichkeit". Das bedeutet, dass selbst wenn alles gut aussieht, es trotzdem sein kann, dass etwas falsch ist. 
+
+Im Text geht es darum, wie wir Fehler bei der Datenübertragung finden und damit umgehen. Wenn ein kleiner Fehler passiert, wie zum Beispiel bei einem Videoanruf oder beim Musikhören, kann das manchmal egal sein. In anderen Situationen, wie bei Geldtransaktionen, ist es sehr wichtig, dass alles richtig ist. Wenn ein Fehler auftritt, können wir entweder das ursprüngliche Datum reparieren oder einfach darum bitten, die Daten noch einmal zu schicken. Um zu überprüfen, ob die Daten richtig sind, fügen wir eine spezielle Information hinzu, die wir "Prüfziffer" nennen. Wenn diese Prüfziffer nicht stimmt, wissen wir, dass ein Fehler passiert ist. 
+
+Zusammenfassend: Auch wenn wir viele Methoden haben, um Fehler zu finden, kann es immer sein, dass wir einen Fehler nicht entdecken.

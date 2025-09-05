@@ -1,0 +1,5 @@
+Stell dir vor, du hast ein großes Postamt. An diesem Postamt kommen viele Briefe an (das sind die Eingangsports). Diese Briefe müssen an verschiedene Adressen weitergeleitet werden (das sind die Ausgangsports). 
+
+Im Postamt selber gibt es Mitarbeiter (das ist die Vermittlungseinheit), die die Briefe sortieren und entscheiden, wohin jeder Brief geschickt werden soll. Damit sorgt das Postamt dafür, dass jeder Brief am richtigen Ort ankommt. 
+
+Das ist auch, wie Daten in einem Netzwerk weitergeleitet werden. Die Daten kommen an einem Punkt an, werden sortiert und dann an das richtige Ziel geschickt.

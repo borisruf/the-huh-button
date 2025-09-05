@@ -1,0 +1,5 @@
+Im OSI-Modell gibt es verschiedene Schichten, die erklären, wie Computer und Netzwerke miteinander kommunizieren. Wenn wir eine Schicht höher gehen, kommen wir zu Geräten wie Switches und Bridges. Diese Geräte helfen dabei, verschiedene Netzwerke zu verbinden, also miteinander zu koppeln.
+
+Switches und Bridges machen mehr als nur Signale weiterleiten, wie es einfache Geräte auf der untersten Schicht tun. Sie sortieren die Daten und sorgen dafür, dass sie an den richtigen Ort in einem Netzwerk geschickt werden. Man kann Switches und Bridges als eher intelligente Geräte ansehen, weil sie helfen, das Netzwerk besser zu organisieren.
+
+Zusammengefasst: Wenn wir Netzwerke verbinden möchten, nutzen wir Switches und Bridges, die auf einer höheren Schicht im OSI-Modell arbeiten. Sie haben wichtige Aufgaben, um die Kommunikation zwischen den Netzwerken zu verbessern.

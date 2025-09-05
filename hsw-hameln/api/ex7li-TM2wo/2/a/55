@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, wie man überprüfen kann, ob Daten richtig sind oder ob sich etwas verändert hat. 
+
+Stell dir vor, du hast eine große Kiste mit vielen bunten Bausteinen. Wenn du die Kiste schüttelst, könnten einige Bausteine verrutschen oder kaputtgehen, aber die Kiste bleibt gleich groß. Du willst sicherstellen, dass alle Bausteine an ihrem Platz sind.
+
+Um das zu tun, benutzt du eine „Prüfziffer“ oder „Prüfzähler“. Das ist wie eine geheime Zahl, die dir sagt, wie viele Bausteine in der Kiste sein sollten. Wenn die Kiste schüttelt und die Zahl nicht mehr stimmt, weißt du, dass etwas nicht stimmt und dass einige Bausteine nicht mehr an ihrem Platz sind.
+
+Ein spezielles Verfahren, das man dafür nutzen kann, heißt „zyklische Redundanzprüfung“. Das wird gleich genauer erklärt. Es hilft dabei, Fehler zu finden, also herauszufinden, ob die Bausteine durcheinander geraten sind oder nicht.

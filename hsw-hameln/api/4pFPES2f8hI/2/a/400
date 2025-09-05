@@ -1,0 +1,13 @@
+Klar, ich erkläre das in einfacher Sprache:
+
+Wir haben gelernt, dass es große Netzwerke gibt, die in kleinere Netzwerke aufgeteilt werden können. Diese Aufteilung heißt "Subnetting". Das hilft uns, die vielen IP-Adressen, die wir haben, besser zu nutzen, weil wir gerade nicht genug Adressen für alle Geräte haben.
+
+Jede IP-Adresse hat eine "Subnetzmaske". Diese Maske zeigt, wie viele Adressen in einem Netzwerk sind und wie man die Adressen aufteilt. Wir werden uns das genauer anschauen und lernen, wie man aus einem großen Netzwerk mehrere kleinere Netzwerke macht.
+
+Es gab ein Problem mit IP-Adressen: Früher dachten wir, dass wir viele Adressen brauchen, aber jetzt merken wir, dass viele davon nicht gebraucht werden. Mit Subnetting können wir aus einem großen Netzwerk (zum Beispiel mit Millionen von Adressen) mehrere kleine machen, die dann weniger Adressen benötigen.
+
+Wir gucken uns an, wie die Subnetzmaske aussieht und wie man damit arbeitet. Zum Beispiel kann man aus einem Netzwerk mit 254 Adressen (wie 192.168.10.0) kleinere Netzwerke machen, indem man die "Nullen" in der Maske in "Einsen" umwandelt. 
+
+Wenn wir das machen, bekommen wir neue kleine Netzwerke, und wir müssen dabei darauf achten, dass wir bestimmte Adressen nicht verwenden dürfen, die für spezielle Dinge wie Broadcast genutzt werden.
+
+Das Thema wird in den weiteren Übungen noch genauer erklärt, und wir lernen, wie man die Verteilung der Adressen richtig berechnet.

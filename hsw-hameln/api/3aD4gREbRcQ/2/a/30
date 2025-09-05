@@ -1,0 +1,7 @@
+In diesem Kapitel haben wir viel über IP gelernt, was wichtig für das Internet ist. Zum Schluss schauen wir uns noch drei andere wichtige Schichten an, die beim Kommunizieren im Internet helfen. Diese Schichten sind 5, 6 und 7 im OSI-Modell. 
+
+- Schicht 5 nennt man Sitzungsschicht. Sie hilft dabei, eine Verbindung zwischen zwei Computern herzustellen und die Kommunikation zu steuern.
+- Schicht 6 heißt Darstellungsschicht. Sie sorgt dafür, dass die Informationen in einem verständlichen Format dargestellt werden, damit die Computer sie richtig lesen können.
+- Schicht 7 ist die Anwendungsschicht. Sie ist die Schicht, die am nächsten zu den Programmen und Anwendungen ist, die wir benutzen, wie E-Mail oder Webbrowser.
+
+Zusammen helfen diese Schichten, dass die Computer miteinander sprechen und die Informationen richtig verstehen.

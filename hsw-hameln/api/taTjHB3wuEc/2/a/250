@@ -1,0 +1,9 @@
+Okay, lass uns das einfach erklären:
+
+Stell dir vor, es gibt einen Sender, der Nachrichten geschickt hat, und einen Empfänger, der die Nachrichten empfängt. Wenn der Sender nur eine Nachricht auf einmal senden kann und dann warten muss, bis der Empfänger sagt: "Ja, ich habe die Nachricht bekommen", nennt man das das "Stop-and-Wait-Verfahren". Es funktioniert so: Der Sender schickt eine Nachricht, wartet, bis er die Bestätigung vom Empfänger hat, und schickt dann die nächste Nachricht. 
+
+Das Problem damit ist, dass es viel Zeit verlieren kann, weil der Sender nicht einfach weitermachen kann, während er wartet. 
+
+Es gibt auch eine bessere Methode, bei der der Sender mehrere Nachrichten gleichzeitig schicken kann, ohne auf jede Bestätigung zu warten. Dabei einigen sich Sender und Empfänger auf eine bestimmte Anzahl von Nachrichten, die sie gleichzeitig senden können. Das nennt man "Fenstergröße". So können sie die Kommunikation schneller und effizienter gestalten, weil die Leitung immer beschäftigt ist und weniger Zeit verloren geht.
+
+Zusammengefasst: Stop-and-Wait heißt, dass der Sender lange warten muss, und mit einer Fenstergröße können beide schneller und besser kommunizieren.

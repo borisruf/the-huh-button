@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es eine bestimmte Stelle in einem Netzwerk-Modell gibt, die wir OSI-Modell nennen. Dieses Modell hilft uns zu verstehen, wie Daten in einem Netzwerk übertragen werden. 
+
+In diesem Modell gibt es Schichten, und "Schicht 3" ist die Schicht, die sich mit dem Routing von Daten beschäftigt. Routing bedeutet, dass wir sicherstellen, dass Informationen von einem Punkt (A) zu einem anderen Punkt (B) geschickt werden, zum Beispiel von einem Computer zu einem anderen. 
+
+Innerhalb dieser Schicht 3 gibt es verschiedene Arten von Systemen, die helfen, den besten Weg für die Daten zu finden. Eine dieser Arten sind die "Distance-Vector-Protokolle". Das sind spezielle Regeln oder Methoden, die Router benutzen, um herauszufinden, wie weit sie von anderen Routern entfernt sind und wie sie am besten miteinander kommunizieren können. 
+
+Zusammengefasst: Schicht 3 im OSI-Modell kümmert sich um den Transport von Daten; dabei gibt es besondere Systeme, die helfen, den besten Weg für diese Daten zu finden.

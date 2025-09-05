@@ -1,0 +1,7 @@
+In diesem Text sprechen wir über bestimmte Schichten in einem Modell, das beschreibt, wie Computer miteinander kommunizieren. Es gibt insgesamt sieben Schichten in diesem Modell, aber wir konzentrieren uns jetzt auf die oberen drei Schichten: Schicht 5, 6 und 7.
+
+- Schicht 5 heißt Sitzungsschicht. Sie sorgt dafür, dass die Verbindung zwischen zwei Computern gut funktioniert. 
+- Schicht 6 ist die Darstellungsschicht. Sie hilft, Informationen so darzustellen, dass beide Computer sie verstehen können.
+- Schicht 7 ist die Anwendungsschicht. Hier findet die eigentliche Anwendung statt, wie zum Beispiel das Surfen im Internet oder das Senden einer E-Mail.
+
+Die drei Schichten werden zusammen betrachtet, weil sie eng miteinander arbeiten. Wir wollen jetzt genauer herausfinden, was jede dieser Schichten macht und warum sie wichtig ist, und wir werden ein einfaches Beispiel dazu anschauen.

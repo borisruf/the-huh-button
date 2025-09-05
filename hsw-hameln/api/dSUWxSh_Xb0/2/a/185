@@ -1,0 +1,7 @@
+Die Aussage spricht darüber, wie man viele Daten gleichzeitig über ein Kabel senden kann. Stell dir vor, du hast viele Leute, die in einem Raum miteinander reden möchten. Aber es kann immer nur einer sprechen, während die anderen zuhören. Um zu verhindern, dass alle durcheinander reden, gibt es Möglichkeiten, den Austausch zu organisieren.
+
+Beim Frequenz-Multiplexing wird das Signal in verschiedene Frequenzen aufgeteilt. Man kann sich Frequenz wie verschiedene Radiofrequenzen vorstellen. Jeder Teilnehmer redet auf einer anderen „Frequenz“, also können viele Leute zur gleichen Zeit sprechen, ohne sich gegenseitig zu stören. 
+
+In dem Beispiel gibt es auch spezielle Geräte: einen Multiplexer, der die verschiedenen Datenströme zusammenführt, und einen Demultiplexer, der sie wieder aufteilt, damit die anderen Teilnehmer die Informationen empfangen können.
+
+Vor allem konzentriert sich der Text auf die Technik von Kupferleitungen, bei denen Frequenz-Multiplexing besonders nützlich ist, um effizient Daten zu senden.

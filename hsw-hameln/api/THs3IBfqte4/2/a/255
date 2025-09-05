@@ -1,0 +1,7 @@
+Wir können die Dinge noch komplizierter machen. Statt nur die Stärke (Amplitude) eines Signals zu ändern, können wir auch den Zeitpunkt eines Signals (Phase) verändern. 
+
+Um das besser zu verstehen: Wenn wir Daten übermitteln, wie zum Beispiel im Internet, nutzen wir verschiedene Techniken. Bei einer einfachen Methode, der Basisbandübertragung, nutzen wir alle Frequenzen, die wir haben, um die Daten zu senden. Eine andere Methode, die wir Breitbandübertragung nennen, teilt die Frequenzen in kleinere Teile auf, um verschiedene Datenkanäle zu schaffen.
+
+Eine Möglichkeit, Daten zu übertragen, ist Modulation. Das bedeutet, wir verändern ein Signal (z.B. die Amplitude oder die Frequenz), um Informationen zu senden. Beispielsweise könnte ein starkes Signal „1“ bedeuten, und ein schwaches Signal „0“. 
+
+Zusätzlich können wir auch die Phase ändern, was bedeutet, dass wir den „Startpunkt“ eines Signals verschieben, um ebenfalls „1“ oder „0“ zu zeigen. Damit können wir in der gleichen Zeit mehr Informationen senden, als wenn wir nur eine Methode verwenden würden. Das ist das, was wir mit „aufwendiger treiben“ meinen.

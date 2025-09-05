@@ -1,0 +1,13 @@
+In diesem Abschnitt geht es um Funknetzwerke, also wie Geräte drahtlos miteinander kommunizieren. Es werden verschiedene Arten von Funknetzen vorgestellt, die je nach Entfernung funktionieren. 
+
+Für sehr kurze Distanzen, wie bei Bluetooth, gibt es ein spezielles Netzwerk. Dieses kann bis zu 10 Meter weit funktionieren und Übertragungsraten von bis zu 24 Megabit pro Sekunde erreichen. Für größere Entfernungen, wie in Städten, gibt es WLAN, das schnellere Datenraten bietet, bis zu 600 Megabit pro Sekunde. 
+
+Im Vergleich dazu gibt es auch Netzwerke wie WiMAX, für noch größere Entfernungen, die theoretisch 1 Gigabit pro Sekunde schaffen können. Für mobile Funknetze, wie LTE, können Geschwindigkeiten bis zu 225 Megabit pro Sekunde erreicht werden.
+
+Jetzt kommt ein wichtiger Teil, der die Technik beschreibt, die genutzt wird, um Daten drahtlos zu senden. In der Bitübertragungsschicht des WLAN-Standards 802.11 gibt es zwei Hauptmethoden, um die Signale zu senden: 
+
+1. **Frequency Hopping Spread Spectrum (FHSS)**: Hier springt das Signal schnell zwischen verschiedenen Frequenzen, um Störungen zu vermeiden.
+   
+2. **Direct Sequence Spread Spectrum (DSSS)**: Bei dieser Methode wird das Signal über eine breitere Frequenz gleichzeitig gesendet, um die Übertragung stabiler zu machen.
+
+Beide Methoden helfen dabei, die Kommunikation über WLAN sicherer und zuverlässiger zu gestalten. Diese Methoden wurden im Laufe der Zeit verbessert, um die Leistung zu optimieren.

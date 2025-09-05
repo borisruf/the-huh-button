@@ -1,0 +1,13 @@
+Die Aussage bedeutet, dass man mit bestimmten Zahlen herausfinden kann, zu welchem Netzwerk ein Gerät gehört. 
+
+Hier ist, wie das funktioniert:
+
+1. **IP-Adresse**: Das ist wie eine Adresse für ein Gerät im Internet, zum Beispiel 192.168.10.195.
+2. **Subnetzmaske**: Das hilft zu bestimmen, welches Netzwerk diese IP-Adresse hat. In diesem Fall ist es die Zahl 27.
+
+Wenn man diese beiden Dinge (IP-Adresse und Subnetzmaske) hat, kann man rechnen, um herauszufinden, welches Netzwerk es ist. Das geht so:
+
+- Die ersten Teile der IP-Adresse zeigen das Netzwerk an, in diesem Fall die ersten drei Zahlen (192.168.10).
+- Die letzte Zahl (195) ist die spezifische Adresse des Gerätes im Netzwerk.
+
+Insgesamt bedeutet das, dass man durch die IP-Adresse und die Subnetzmaske die Netzwerkadresse ausrechnen kann, also herausfinden kann, zu welchem Netzwerk das Gerät gehört.

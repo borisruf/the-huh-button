@@ -1,0 +1,9 @@
+In einfachen Worten sagt die Aussage, dass die oberen Schichten des OSI-Modells, also die Schichten 5, 6 und 7, wichtig sind, weil dort viele Anwendungen laufen. Diese Anwendungen sind Programme, die wir benutzen, um mit dem Internet und anderen Computern zu kommunizieren. 
+
+Zum Beispiel gibt es spezielle "Sprache" oder Protokolle, die diese Programme nutzen, damit sie richtig miteinander reden können. Ein paar dieser Protokolle sind:
+
+- **Telnet**: Damit kann man sich auf einen anderen Computer einloggen.
+- **FTP**: Damit kann man Dateien von einem Computer auf einen anderen übertragen.
+- **HTTP**: Damit kann man Webseiten im Internet anschauen.
+
+Diese Protokolle helfen den Anwendungen, ihre Aufgaben zu erfüllen und Informationen auszutauschen. Das ist also sehr wichtig für die Nutzung des Internets und die Kommunikation zwischen Computern.

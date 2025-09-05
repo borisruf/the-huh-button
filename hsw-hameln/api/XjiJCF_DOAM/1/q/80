@@ -1,0 +1,1 @@
+ Ein Router braucht logischerweise mehrere IP-Adressen auf seinen Schnittstellen, damit er eben seine Routing-Funktionalität ausüben kann, da er eben mit diesen unterschiedlichen Schnittstellen auch in verschiedenen Netzwerken sich befindet.

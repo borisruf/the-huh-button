@@ -1,0 +1,13 @@
+In dieser Aussage geht es darum, wie man WLAN (kabelloses Internet) in einem Gebäude so gut wie möglich einrichtet. 
+
+1. **WLAN-Controller**: Man verwendet spezielle Geräte, die WLAN kontrollieren. Diese Geräte helfen, ein gutes Signal überall im Gebäude zu bekommen.
+
+2. **Frequenzen**: WLAN funktioniert mit bestimmten Frequenzen (also "Radio-Wellen"). Man muss darauf achten, dass diese Frequenzen sich nicht überlappen, sonst gibt es Probleme. Wenn sie sich überlappen, stören sie sich gegenseitig und das Internet wird langsamer.
+
+3. **Dämpfung**: In Gebäuden kann das Signal durch Wände und andere Materialien schwächer werden. Das nennt man Dämpfung. 
+
+4. **Zahl der Access Points**: Auf dem Plan einer Etage der Hochschule sind sieben Access Points eingezeichnet. Access Points sind Geräte, die das WLAN-Signal verbreiten. Um die Access Points herum ist die Dämpfung gering, das bedeutet, das Signal kann dort gut übertragen werden.
+
+5. **Farben**: Das grüne, gelbe und orange Spektrum beschreibt wahrscheinlich, wie stark das WLAN-Signal in verschiedenen Bereichen ist. Grün bedeutet stark, gelb ist mittel und orange ist schwach.
+
+Insgesamt sagt die Aussage, dass es wichtig ist, das WLAN gut zu planen, um ein schnelles und stabiles Internet zu haben.

@@ -1,0 +1,1 @@
+ Diese Back-off-Time ist letztlich wirklich durch einen Zufallsgenerator gesteuert und insofern ist ISA-Net so wie es ursprünglich gedacht war auch kein Echtzeitsystem, sondern letztlich immer unbestimmt durch genau diese Back-off-Time, die durch die unterschiedlichen Kollisionen zustande kommen.

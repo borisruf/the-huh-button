@@ -1,0 +1,9 @@
+In dieser Aussage wird erklärt, wie schnell Daten über Ethernet-Verbindungen übertragen werden können. Es wird gesagt, dass man eine bestimmte Geschwindigkeit von „X Megabit pro Sekunde“ sieht. Das bedeutet einfach, wie schnell Informationen von einem Ort zum anderen reisen.
+
+Dann wird erwähnt, dass es verschiedene Arten gibt, wie diese Daten übertragen werden können, zum Beispiel durch spezielle Kabel (Twisted Pair) oder Glasfaserkabel (LWL). Diese zwei Arten sind die modernen Standards, die heute in der Praxis verwendet werden.
+
+Der Text spricht auch darüber, wie sich die Technologie verändert hat. Früher hatten viele Geräte eine gemeinsame Verbindung, was oft zu Problemen führte, wenn mehrere Geräte gleichzeitig Daten senden wollten. Diese Probleme, die man Kollisionen nennt, sind nicht gut, besonders wenn man beispielsweise telefonieren möchte (Voice over IP). 
+
+Heute benutzen wir besseres Gerät, wie einen Switch, der hilft, die Datenströme zu steuern. Er sorgt dafür, dass jedes Gerät seine eigene Verbindung hat, sodass es keine Kollisionen mehr gibt. 
+
+Insgesamt geht es darum, wie die Datenübertragung über Ethernet schneller und zuverlässiger geworden ist, indem neue Technologien und Verbindungsmethoden verwendet werden.

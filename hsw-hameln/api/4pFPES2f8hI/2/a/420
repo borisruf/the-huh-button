@@ -1,0 +1,13 @@
+In dieser Erklärung geht es darum, wie wir Netzwerke in kleinere Teile, die sogenannten Subnetze, aufteilen können. Das ist wichtig, weil es nicht genügend IP-Adressen gibt, um alle Geräte zu verbinden, die wir haben wollen.
+
+Stell dir vor, du hast einen großen Raum mit 254 Tischen (das sind die Hosts) und viele Leute wollen dort Platz nehmen (das sind die Geräte, die eine IP-Adresse brauchen). Aber der Platz ist nicht genug, weil wir zu viele Leute haben und nicht alle einen Tisch bekommen können. 
+
+Um dieses Problem zu lösen, teilen wir den großen Raum in mehrere kleine Räume auf. Jeder kleine Raum hat nur eine bestimmte Anzahl von Tischen. Das nennt man Subnetze. 
+
+Um Subnetze zu erstellen, nutzen wir etwas, das „Subnetzmaske“ heißt. Das ist wie eine Anleitung, wie wir die Tische aufteilen. Wenn wir einige Tische (Bits) von dem großen Raum nehmen und sie in den kleinen Räumen verwenden, können wir die Anzahl der Räume (Subnetze) berechnen. 
+
+Die Anzahl der neuen kleinen Räume hängt von der Anzahl der Tische (Bits), die wir für die Aufteilung verwenden. Wenn wir mehr Bits nehmen, bekommen wir mehr Subnetze. Das ist, weil wir mehr Bits verwenden, um die großen Tische in viele kleine Tische zu verwandeln. 
+
+Am Ende sehen wir, dass wir durch das Erstellen von Subnetzen mehr Ordnung und Sicherheit haben. Darüber hinaus können wir auch IP-Adressen, die wir nicht benötigen, wieder freigeben, um das Problem der Knappheit zu lösen. 
+
+Im nächsten Schritt werden wir genau berechnen, wie viele Subnetze wir mit den verfügbaren Tischen (Bits) erstellen können.

@@ -1,0 +1,7 @@
+Die Aussage beschreibt ein Problem beim Austausch von Informationen über Netzwerkverbindungen. Hier ist die Erklärung in einfacher Sprache:
+
+Wenn Router in einem Netzwerk Informationen darüber haben, wie sie Daten von einem Punkt zum anderen schicken können, gibt es sogenannte "Routing-Tabellen". Diese Tabellen zeigen, wie teuer der Weg ist, zum Beispiel wie viele "Hops" (Sprünge) zu machen sind, um ans Ziel zu kommen.
+
+Wenn ein Router seine Informationen nur an die Router in seiner Nähe weitergibt und das Netzwerk groß wird, kann es lange dauern, bis alle Router die richtigen Informationen haben. Das nennt man "Konvergenz". Wenn die Router sich nicht schnell genug informieren, könnte es sein, dass einige von ihnen weiterhin Informationen über einen Weg haben, der gar nicht mehr funktioniert. 
+
+Das bedeutet, dass man im Netzwerk manchmal von alten oder falschen Wegen hört, die nicht mehr existieren, was zu Problemen führen kann.

@@ -1,0 +1,7 @@
+In diesem Text geht es um VLANs, also virtuelle Netzwerke. Man kann sich VLANs wie verschiedene Räume in einem Gebäude vorstellen. Jeder Raum hat seine eigenen Geräte, und die Geräte in einem Raum können nur miteinander sprechen, nicht mit Geräten in anderen Räumen.
+
+Jetzt planen wir, in einem Praktikum ein Netzwerk mit verschiedenen VLANs zu erstellen. Wir werden dafür zwei spezielle Räume machen: einen für das Telefonieren (Voice-VLAN) und einen für Daten (Daten-VLAN). Der Grund dafür ist, dass wir beim Telefonieren eine gute Verbindung brauchen, damit die Stimmen klar und ohne Störungen ankommen. 
+
+Wenn wir beide Arten von Daten in einem VLAN hätten, könnte es passieren, dass das Telefonieren schlecht wird, wenn jemand gleichzeitig viel Daten herunterlädt. Wenn wir sie jedoch in zwei unterschiedliche VLANs aufteilen, können wir sicherstellen, dass das Telefonieren immer gut funktioniert, auch wenn andere Geräte im Netzwerk busy sind.
+
+In unserem Praktikum werden wir also lernen, wie man solche Netzwerke aufbaut und schaut, wie man sicherstellt, dass die Telefonate klar und deutlich sind.

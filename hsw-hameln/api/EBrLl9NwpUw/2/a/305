@@ -1,5 +1,3 @@
-Okay, das ist ein bisschen kompliziert, aber ich versuche es so einfach wie möglich zu erklären. 
+Die Aussage bedeutet, dass es möglich ist, die Netzwerkeinstellungen schnell zu ändern. Wenn das gemacht wird, müssen die Switches, also die Geräte, die die Daten im Netzwerk leiten, viel miteinander reden. Wenn sie viel miteinander kommunizieren, braucht das zusätzliche Zeit und Ressourcen, was man "Overhead" nennt. 
 
-Manchmal verwenden Netzwerke mehrere Geräte (Switches genannt), um Daten zu senden. Das hilft, falls ein Gerät kaputt geht - dann kann ein anderes Gerät die Arbeit übernehmen. Aber das kann auch dazu führen, dass Daten im Kreis geschickt werden und das Netzwerk überlasten, weil die Geräte nicht wissen, wohin die Daten gehen sollen. 
-
-Um das zu verhindern, verwenden Netzwerke ein System namens "Spanning-Tree". Dieses System blockiert bestimmte Verbindungen zwischen den Geräten, so dass die Daten nicht im Kreis geschickt werden. Aber das bedeutet auch, dass die Geräte viel miteinander kommunizieren müssen, um herauszufinden, welche Verbindungen blockiert werden sollen. Und diese zusätzliche Kommunikation kann das Netzwerk zusätzlich belasten. Das ist das, was mit "Overhead" gemeint ist.
+Zusammengefasst: Schnelles Einstellen bedeutet, dass die Switches gemeinsam arbeiten müssen, was zusätzliche Belastung für das Netzwerk verursacht.

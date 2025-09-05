@@ -1,0 +1,3 @@
+Das UDP-Protokoll ist wie ein schneller Postbote, der Briefe ausliefert. Es bringt die Briefe schnell an ihr Ziel, ohne sich darum zu kümmern, ob alle Briefe genau richtig sind oder ob vielleicht ein paar verloren gehen. Wenn du zum Beispiel ein Video live anschaust oder telefonierst, ist es wichtiger, dass die Informationen schnell kommen, auch wenn nicht alles perfekt ist. Wenn ein paar Stücke fehlen oder kaputt sind, kannst du oft trotzdem noch gut verstehen, was passiert. 
+
+Kurz gesagt: UDP kümmert sich nicht um Fehler, aber es sorgt dafür, dass alles ganz schnell ankommt.

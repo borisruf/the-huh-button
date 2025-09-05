@@ -1,0 +1,9 @@
+Die Aussage bedeutet einfach: 
+
+Bei der neuen Version des Internetprotokolls, also IP Version 6, nutzen wir Adressen, die viel länger sind als die alten Adressen von IP Version 4. 
+
+Die alten Adressen sind 32 Stellen lang (das nennt man 32-Bit), aber die neuen Adressen sind 128 Stellen lang (das nennt man 128-Bit). 
+
+Weil die neuen Adressen viel länger sind, können wir viel mehr davon erstellen – insgesamt gibt es 10 hoch 38 (das ist eine sehr, sehr große Zahl) verschiedene neue Adressen.
+
+Zusammengefasst: Die neuen Adressen sind viel länger, und dadurch gibt es viel mehr Möglichkeiten für Adressen im Internet.

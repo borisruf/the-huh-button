@@ -1,0 +1,9 @@
+Stell dir vor, du hast einen großen Karton mit vielen kleinen Geschenken darin. Wenn du diesen Karton zu einem Freund bringen willst, darf er nicht zu groß sein, damit er durch die Tür passt. 
+
+In der Computerwelt gibt es ebenfalls „Kartongrößen“, die wir MTU nennen (Maximum Transmission Unit). Das ist die größte Größe von Datenpaketen, die wir übertragen können.
+
+In unserem Beispiel ist die MTU für Ethernet, eine Art von Netzwerk, die 1500 beträgt. Das bedeutet, du kannst deine Geschenke (Daten) einfach so schicken, weil dein Karton (Datenpaket) mit 1400 viel kleiner ist. Also, kein Problem!
+
+Jetzt stell dir vor, du gehst über einen „Router“, also durch eine Tür, zu einem anderen Raum, in dem die MTU größer ist, sagen wir 4352. Die Größe deines Kartons (1400) passt immer noch gut durch die Tür, also kannst du auch hier problemlos weiter senden.
+
+Wenn wir an das Internetprotokoll (IP) denken, funktioniert es ähnlich. Manchmal müssen Daten in kleinere Stücke (Fragmente) zerlegt werden, damit sie durch verschiedene Netzwerke passen. Aber in diesem Fall geht alles gut, weil dein größtes Datenpaket (1400) niemals die maximale Größe der anderen Netzwerke (wie FDDI) überschreitet.

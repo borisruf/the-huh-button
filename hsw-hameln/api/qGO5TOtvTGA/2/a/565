@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass Router wissen müssen, wie man Informationen von einem Ort (Router 1) zu einem anderen Ort (Router 2) schickt. 
+
+Das ist wichtig, weil die Informationen nicht nur in eine Richtung gesendet werden. Wenn du etwas sendest, möchtest du ja oft auch eine Antwort zurück erhalten. Dafür muss der Router, der die Antwort schickt, auch wissen, wie er zurück zu dir (Router 1) kommt. 
+
+Kurz gesagt: Router müssen sowohl den Weg zum Ziel als auch den Weg zurück kennen, damit die Kommunikation zwischen den beiden Orten gut funktioniert.

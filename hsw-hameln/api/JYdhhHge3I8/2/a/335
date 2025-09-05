@@ -1,0 +1,11 @@
+In diesem Text geht es darum, wie Daten in einem Netzwerk von einem Ort zum anderen geschickt werden. Man kann sich das wie eine Post vorstellen, die Briefe oder Pakete zustellt. Es gibt verschiedene Methoden, wie die Daten über das Netzwerk transportiert werden können.
+
+1. **Nachrichtenvermittlung**: Hierbei werden die ganzen Daten direkt von einem Platz zum anderen geschickt, so wie wenn ein Brief von einem Haus zum nächsten geliefert wird. Alle Informationen müssen an jeden einzelnen Ort gehen, bevor das Paket ankommt.
+
+2. **Leitungsvermittlung**: Man kann sich das wie in alten Filmen vorstellen, wo jemand die Telefongespräche verbindet. Es gibt immer nur eine Leitung für ein Gespräch, und wenn diese belegt ist, müssen andere warten, bis sie dran sind.
+
+3. **Speichervermittlung**: Hier werden die Daten auf dem Weg gespeichert, wie wenn man einen Brief in ein Postlager legt, bevor er weitergeschickt wird. So kann man mehrere Nachrichten nacheinander versenden, ohne dass sie sich gegenseitig im Weg stehen.
+
+4. **Paketvermittlung**: Diese Methode kombiniert beide vorherigen Arten. Die Daten werden in kleine Pakete aufgeteilt. Jedes Paket kann dann auf einem anderen Weg zum Ziel geschickt werden. Sie werden auf ihrer Reise nicht alle gleichzeitig gesendet, und wenn sie ankommen, werden sie in der richtigen Reihenfolge zusammengesetzt.
+
+Zusammengefasst: Es gibt verschiedene Wege, wie Daten in einem Netzwerk zu den Empfängern gelangen, und jede Methode hat ihre eigenen Vor- und Nachteile. Die Paketvermittlung ist dabei besonders wichtig, weil sie schnelle und flexible Übertragungen ermöglicht.

@@ -1,0 +1,1 @@
+ Offensichtlich hat unser Empfänger an der Stelle ein Problem und kann dieses Paket nicht entgegennehmen, vielleicht weil der Puffer voll ist.  Er sendet jetzt also eine Bestätigung, sagt okay, Acknowledgement 3, ich erwarte als nächstes das Paket 3 und übermittelt dem Sender an der Stelle auch noch direkt, ich möchte bitte unsere Windows-Size reduzieren auf 2.

@@ -1,0 +1,9 @@
+In einfachen Worten bedeutet die Aussage, dass es Möglichkeiten gibt, Informationen (wie Daten) über Kabel zu senden, sodass sie gut angekommen und verstanden werden. Es ist wichtig, dass die Sendeart so ist, dass die Geräte wissen, wann sie etwas senden oder empfangen sollen. 
+
+Der Text spricht auch darüber, dass manchmal mehrere Dinge gleichzeitig über dasselbe Kabel geschickt werden müssen, was "Multiplexing" heißt. Die Frage ist, wie das funktioniert. 
+
+Der Text erzählt auch von verschiedenen Methoden, um die Daten zu kodieren und zu übertragen. Eine einfache Art ist das "Return-to-Zero-Verfahren", wo eine Eins durch einen hohen Signalwert und eine Null durch das Fehlen dieses Wertes dargestellt wird. Das kann aber Probleme haben, weil es schwierig wird zu erkennen, wann genau man die Daten senden sollte.
+
+Um das besser zu machen, gibt es eine Methode namens "Manchester-Kodierung", bei der immer ein Wechsel im Signal ist. Das hilft, die Informationen klar und ohne viele Störungen zu übertragen. So kann man sicherstellen, dass das Gerät die Daten richtig liest, egal wie sie gesendet werden. 
+
+Zusammengefasst: Es geht darum, wie man Daten erfolgreich überträgt und wie man mehrere Informationen gleichzeitig senden kann, ohne dass sie sich stören.

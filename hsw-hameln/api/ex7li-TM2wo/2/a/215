@@ -1,0 +1,17 @@
+In diesem Text geht es darum, wie wir Fehler in Daten, die über Computer oder Netzwerke übertragen werden, erkennen und damit umgehen können. Das CRC-Verfahren, also der zyklische Redundanz-Check, ist eine Methode, um zu prüfen, ob die gesendeten Daten korrekt sind.
+
+Hier sind die wichtigen Punkte in einfacher Sprache:
+
+1. **Fehler erkennen**: Manchmal passieren Fehler, wenn Daten gesendet werden. Das kann dazu führen, dass die Informationen nicht mehr stimmen.
+
+2. **Prüfziffer**: Um festzustellen, ob ein Fehler passiert ist, fügen wir eine zusätzliche Information, wie eine Prüfziffer, zu den echten Daten hinzu. So können wir prüfen, ob die Daten beim Empfangen korrekt sind.
+
+3. **Methoden zur Fehlerkorrektur**: Wenn wir Fehler finden, können wir verschiedene Dinge tun:
+   - Manchmal, z.B. bei Videos oder Musik, ist es nicht so schlimm, wenn kleine Fehler auftreten. Da konzentrieren wir uns eher darauf, dass die Übertragung schnell ist.
+   - Bei wichtigen Daten, wie bei Geldüberweisungen, darf es keine Fehler geben. Hier müssen wir sicherstellen, dass alles richtig übertragen wird.
+
+4. **Zwei Möglichkeiten zur Fehlerbehebung**:
+   - **Selbstkorrektur**: Es gibt komplizierte Methoden, die die Daten automatisch korrigieren können. 
+   - **Wiederhole das Senden**: Wenn ein Fehler gefunden wird, kann der Empfänger einfach sagen: "Schick mir die Daten nochmal."
+
+Das CRC-Verfahren hilft also, Fehler zu erkennen, damit wir wissen, ob die Daten richtig sind oder nicht. In der Übung werden wir uns näher mit dieser Methode beschäftigen.

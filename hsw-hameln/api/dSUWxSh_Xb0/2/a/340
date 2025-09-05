@@ -1,0 +1,7 @@
+Okay, lass uns das in einfacher Sprache erklären.
+
+Stell dir vor, es gibt zwei Freunde, A und B, die sich über ein Gespräch austauschen wollen. Wenn beide gleichzeitig reden, versteht keiner was. Deshalb müssen sie abwechselnd sprechen. Normalerweise haben sie festgelegte Zeiten, wann jeder reden darf. Das nennt man „synchrones Zeit-Multiplexing“. Aber manchmal hat A nichts zu sagen, wenn es an der Reihe von A ist. In dieser Zeit passiert nichts, und das ist Zeitverschwendung. 
+
+Jetzt gibt es eine schlauere Art, das zu machen, die heißt „asynchrones Zeit-Multiplexing“. Hier fragt man immer, wer gerade etwas zu sagen hat. Wenn A nichts zu sagen hat, kann B die Zeit nutzen, um mehr zu reden. So wird die Zeit besser genutzt: B kann alles sagen, was er möchte, während A eine Pause macht.
+
+Das bedeutet, sie verteilen die Zeit flexibler. Wenn A nicht spricht, wird die Zeit frei und B kann seine Sachen erledigen. Dadurch können sie die vorhandene Zeit viel besser nutzen.

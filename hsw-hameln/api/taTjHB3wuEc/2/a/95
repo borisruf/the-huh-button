@@ -1,0 +1,11 @@
+Die Aussage beschreibt eine einfache Methode, wie Daten von einem Sender zu einem Empfänger geschickt werden. 
+
+Das "Stop-and-Wait"-Verfahren funktioniert so:
+
+1. Der Sender schickt ein Datenpaket.
+2. Dann wartet der Sender, bis er eine Rückmeldung (Bestätigung) vom Empfänger bekommt.
+3. Erst wenn er die Bestätigung hat, schickt er das nächste Paket.
+
+Diese Methode hat den Nachteil, dass es länger dauert, weil der Sender immer warten muss, bevor er mehr Daten senden kann. Wenn wir an eine Verbindung über den Ozean denken, dauert es sogar noch länger, weil die Daten weit reisen müssen.
+
+Dieses Verfahren hilft, wenn der Sender schnell ist und der Empfänger langsamer, damit beide gut miteinander kommunizieren können. Es stellt sicher, dass der Empfänger die Daten auch wirklich bekommen hat, bevor mehr gesendet wird.

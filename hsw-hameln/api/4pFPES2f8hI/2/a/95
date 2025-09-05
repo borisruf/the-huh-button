@@ -1,0 +1,3 @@
+Die Aussage erklärt, dass es ein Problem mit IP-Adressen gibt. Es gibt nicht genug IP-Adressen für alle Geräte, die sie brauchen. Früher hat man viele Adressen verteilt, ohne genau zu wissen, wie viele man wirklich braucht. Das führt jetzt dazu, dass wir nicht genug Adressen haben. 
+
+Die Lösung für dieses Problem ist die Bildung von Subnetzen. Subnetze helfen uns, die wenigen verfügbaren IP-Adressen besser zu nutzen, indem wir große Gruppen von IP-Adressen in kleinere Gruppen aufteilen. Diese Subnetze machen es einfacher, die Adressen zu verwalten und sorgen für mehr Sicherheit im Netzwerk.

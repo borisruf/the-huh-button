@@ -1,0 +1,9 @@
+Die Aussage erklärt, wie Daten in einem Netzwerk von einem Ort zum anderen geschickt werden. Man kann sich das wie die Post vorstellen, die Briefe und Pakete von einem Ort zu einem anderen bringt.
+
+Es gibt zwei Hauptarten, wie Daten geschickt werden können:
+
+1. **Leitungsvermittlung**: Das ist wie ein Telefonanruf. Wenn du anrufst, wird eine direkte Verbindung zwischen dir und der anderen Person hergestellt. Nur ihr beide nutzt diese Verbindung für die Dauer des Anrufs.
+
+2. **Speichervermittlung**: Das ist wie beim Versand von Briefen. Wenn du einen Brief schickst, wird er zuerst im Postamt gespeichert, dann weitergeleitet und schließlich an das Ziel zugestellt. Dabei wird der Brief nicht sofort angekommen, sondern geht durch verschiedene Stationen.
+
+Wenn man diese beiden Methoden kombiniert, entsteht die sogenannte **Paketvermittlung**. Das bedeutet, dass Daten in kleine "Pakete" aufgeteilt werden, die wie Briefe durch das Netzwerk geschickt werden. Jedes Paket kann auf verschiedenen Wegen reisen und wird am Zielort wieder zusammengesetzt. Das macht die Übertragung schneller und effizienter.

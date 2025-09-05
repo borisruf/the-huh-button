@@ -1,0 +1,3 @@
+Die Aussage erklärt, dass es ein Problem mit IP-Adressen gibt. Es gibt nicht genügend IP-Adressen für alle Computer und Geräte, die sie brauchen. Früher wurde zu viel mit diesen Adressen „verschwendet“, weil man dachte, dass es genug gibt. Nun ist das ein großes Problem, weil viele Leute und Geräte IP-Adressen benötigen und nicht genug davon da sind.
+
+Die Lösung für dieses Problem ist die Bildung von „Subnetzen“. Das bedeutet, dass man große Gruppen von IP-Adressen in kleinere Gruppen unterteilt. Dadurch kann man die Adressen besser nutzen und die Sicherheit in Netzwerken verbessern. Man wird flexibler im Umgang mit den Adressen und kann sie besser verwalten. Die Subnetzmaske hilft dabei, diese Gruppen zu erstellen und zu verstehen, wie die Adressen aufgeteilt werden.

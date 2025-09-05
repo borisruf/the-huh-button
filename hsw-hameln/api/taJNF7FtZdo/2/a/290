@@ -1,0 +1,5 @@
+Router sind wie Verkehrsschilder auf einer Straße, die den Weg für Daten zeigen. Wenn ein Datenpaket, das wie ein Brief ist, zu einem Router kommt, schaut der Router zuerst auf die Adresse des Pakets. Diese Adresse sagt ihm, wohin das Paket geschickt werden soll.
+
+Der Router hat eine Tabelle, in der steht, wo er das Paket hinschicken kann. Das ist, als hätte man eine Karte, die zeigt, welche Straßen zu welchem Ziel führen. Manche Routen sind besser als andere, weil es weniger Staus oder Unterbrechungen gibt. Wenn der Router sieht, dass er nicht der Zielort für das Paket ist, schaut er in seine Tabelle, um zu sehen, wohin das Paket als Nächstes gehen soll.
+
+So helfen Router dabei, dass die Daten schnell und effizient von einem Ort (wie einem Computer) zu einem anderen (wie einem Server) gelangen. Sie schauen sich die Adresse an, entscheiden den besten Weg und leiten das Paket dann weiter.

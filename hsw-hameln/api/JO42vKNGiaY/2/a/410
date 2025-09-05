@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie man eine bestimmte IP-Adresse in IPv6 schreibt. Bei der IP-Adresse gibt es eine spezielle Regel für Nullen. 
+
+Wenn man eine IPv6-Adresse hat, kann man Nullen, die am Anfang eines Blocks stehen, einfach weglassen. Zum Beispiel: Wenn ein Block so aussieht "0042", kann man ihn einfach als "42" schreiben. 
+
+Außerdem kann man lange Nullenfolgen in der Adresse kürzen. Wenn in der Adresse zum Beispiel eine große Gruppe mit Nullen ist, kann man diese Gruppe mit zwei Doppelpunkt (:) abkürzen. 
+
+Die spezifische Adresse, die erwähnt wird, hat die Form: "FE80" (das ist eine Art von Adresse) und danach kommt eine lange Reihe von Nullen, und am Ende steht "57". 
+
+Zusammengefasst: Man kann Nullen weglassen und lange Nullenfolgen durch Symbole abkürzen, um die Adresse einfacher zu machen.

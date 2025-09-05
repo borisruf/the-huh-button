@@ -1,0 +1,5 @@
+In einfachen Worten sagt die Aussage Folgendes:
+
+Wenn Informationen verschickt werden, müssen wir sicherstellen, dass bestimmte Zeichen (in diesem Fall 5 Einsen hintereinander) nicht fälschlicherweise als das Ende der Nachricht angesehen werden. Um das zu verhindern, fügt der Sender automatisch ein zusätzliches Zeichen ein, wenn er fünf Einsen hintereinander sieht. Dieses zusätzliche Zeichen ist eine 0. 
+
+Das hilft dem Empfänger, sicher zu erkennen, wo die echte Nachricht endet und vermeidet Verwirrung.

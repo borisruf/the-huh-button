@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie das ursprüngliche Ethernet-System funktionierte. Hier sind die wichtigsten Punkte einfach erklärt:
+
+1. **Ursprüngliche Idee**: Am Anfang war Ethernet so gedacht, dass alle Geräte (Computer, Drucker usw.) über ein gemeinsames Kabel miteinander verbunden sind. Man nennt das „Shared Media“, weil alle Geräte sich das Kabel teilen.
+
+2. **Kollisionen**: Wenn mehrere Geräte gleichzeitig Daten senden wollen, können die Signale sich „kollidieren“, also durcheinander geraten. Das führt dazu, dass die Daten nicht richtig ankommen.
+
+3. **Kein Echtzeitbetrieb**: Dies bedeutet, dass man keine sehr schnellen und kontinuierlichen Datenübertragungen machen kann, wie zum Beispiel beim Video-Streaming oder Online-Gaming. Wegen der Kollisionen kann nicht immer sofort reagiert werden.
+
+Zusammengefasst: Die ursprüngliche Ethernet-Technologie hatte Probleme, weil alle Geräte sich ein Kabel teilen. Das führte zu Störungen und machte schnelle, sofortige Datenübertragungen schwierig.

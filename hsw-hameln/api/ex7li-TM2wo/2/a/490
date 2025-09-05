@@ -1,0 +1,12 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn ich eine Nachricht sende, kann es sein, dass die Nachricht nicht ankommt oder dass die Bestätigung, dass die Nachricht angekommen ist, nicht bei mir ankommt. Wenn ich eine Zeit lang warte und keine Rückmeldung bekomme, denke ich, dass etwas schiefgelaufen ist. Dann sende ich die Nachricht einfach noch einmal, um sicherzustellen, dass sie ankommt.
+
+Im Zusammenhang mit Fehlern und Nachrichtenübertragung:
+
+1. Wenn Daten gesendet werden, können sie verloren gehen oder sich ändern.
+2. Manchmal merkt man nicht einmal, wenn Daten verloren gehen.
+3. Um Fehler zu erkennen, fügt man zusätzliche Informationen zu den Daten hinzu, wie eine Prüfziffer.
+4. Wenn ein Fehler erkannt wird, kann man entweder die Daten automatisch korrigieren oder einfach den Sender bitten, die Daten erneut zu schicken.
+
+Wenn ich keine Antwort auf die gesendeten Daten bekomme, kann ich einfach die Nachricht erneut senden, um sicherzugehen, dass alles richtig angekommen ist.

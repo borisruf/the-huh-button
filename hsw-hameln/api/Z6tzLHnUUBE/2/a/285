@@ -1,0 +1,15 @@
+Die Aussage erklärt, wie Daten im Internet in kleine Stücke (Fragmente) geteilt werden, wenn sie von einem Ort zum anderen reisen, besonders wenn verschiedene Netzwerke unterschiedliche Größen für die maximalen Datenpakete haben.
+
+Hier ist die einfachere Erklärung:
+
+1. **Datenpakete**: Wenn Computer miteinander kommunizieren, schicken sie Informationen in Form von Paketen. Diese Pakete haben eine bestimmte Größe.
+
+2. **MTU**: Die MTU (Maximum Transmission Unit) ist die größte Größe, die ein Datenpaket in einem bestimmten Netzwerk haben darf. Verschiedene Netzwerke haben unterschiedliche MTU-Größen.
+
+3. **Fragmentierung**: Wenn ein Paket zu groß ist, um durch ein Netzwerk mit geringerer MTU zu passen, muss es in kleinere Stücke zerlegt werden. Das nennt man Fragmentierung.
+
+4. **Router**: Router sind Geräte, die Datenpakete von einem Netzwerk zum anderen weiterleiten. Wenn ein Paket zu groß ist, wird es beim Router aufgeteilt, damit es die Größe der MTU im nächsten Netzwerk nicht überschreitet.
+
+5. **IP Version 6**: Bei einer neueren Version von IP (IPv6) wird das Aufteilen der Pakete anders gehandhabt. Hier wird schon vorher berechnet, wie die Pakete aufgeteilt werden müssen, bevor sie die Router erreichen. So müssen die Router nicht mehr für jedes Paket die Größe überprüfen und eventuell aufteilen.
+
+Zusammengefasst: Wenn Computer Daten senden, müssen sie manchmal die Datenpakete in kleinere Stücke schneiden, damit sie durch verschiedene Netzwerke passen. Neue Technologien machen diesen Prozess einfacher, indem sie die Arbeit der Router erleichtern.

@@ -1,0 +1,5 @@
+Die Aussage beschreibt, wie man Computer-Netzwerke sicherer machen kann, besonders gegen Angriffe. Es gibt spezielle Systeme, die helfen, solche Angriffe zu erkennen und zu stoppen. Diese Systeme nennt man "Intrusion Detection" (Intrusion Detection Systeme – IDS) und "Intrusion Protection" (Intrusion Protection Systeme – IPS). 
+
+Das ist nicht immer ganz leicht, weil man genau prüfen muss, welche Art von Daten (Paketen) ins Netzwerk kommen darf und welche nicht. Man schaut sich an, woher die Daten kommen (IP-Adresse) und wohin sie gehen (Port). Wenn die Daten von einem Freund (vertrauenswürdig) kommen, dürfen sie durch, aber wenn sie von jemandem kommen, dem man nicht vertraut, werden sie blockiert.
+
+Zusammengefasst: Es gibt Technik, die uns hilft, unsere Computer-Netzwerke zu schützen, indem sie automatisch Anschläge erkennt und abwehrt. Aber das ist eine schwierige Aufgabe, weil es viel Voraussicht und Kontrolle braucht, um sicherzustellen, dass nur die richtigen Daten durchkommen.

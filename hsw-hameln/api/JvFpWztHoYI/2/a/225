@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn wir über Bits (also Einsen und Nullen) sprechen, nutzen wir ein spezielles Signal, um diese Bits zu übertragen. Bei diesem Prozess werden Einsen durch einen bestimmten "Abfall" im Signal dargestellt – das nennt man eine fallende Flanke. Das bedeutet, wenn das Signal schnell von hoch auf niedrig geht, steht das für eine Eins.
+
+Bei der Übertragung gibt es eine Regel für die Einsen und Nullen. Wenn wir viele Einsen hintereinander haben (zum Beispiel IIII), wird die Darstellung (also wie wir die Informationen codieren) umgekehrt. Das heißt, die Art und Weise, wie wir die Einsen und Nullen im Signal anordnen, wurde so verändert, dass wir die Infos anders organisieren.
+
+Zusammengefasst: Wenn viele Einsen kommen, wird die Darstellung so angepasst, dass wir sie leichter erkennen können, und dabei verzichten wir auf einen konstanten Stromanteil, den wir nicht brauchen.

@@ -1,0 +1,11 @@
+Okay, ich erkläre das in einfachen Worten:
+
+In Computernetzwerken gibt es etwas, das nennt sich Subnetze. Ein Subnetz ist wie ein kleines Netzwerk innerhalb eines größeren Netzwerks. Früher hat man viele IP-Adressen ausgegeben, ohne richtig zu zählen, wie viele man braucht. Jetzt sind die IP-Adressen knapp.
+
+Um das Problem zu lösen, kann man große Netzwerke in kleinere Subnetze aufteilen. Das hilft, die IP-Adressen besser zu nutzen und macht das Netzwerk sicherer.
+
+Wenn man ein neues Subnetz macht, verändert man die Subnetzmaske. Die Subnetzmaske sagt, wie viele Adressen in einem Subnetz sind. Wenn man zum Beispiel aus einem großen Netz mit vielen Adressen (wie 254) kleine Subnetze (zum Beispiel mit 32 Adressen) macht, kann man mehrere kleine Netzwerke erstellen.
+
+Es gibt aber zwei spezielle Adressen, die man nicht für Computer nutzen darf: das erste Subnetz (also die Netzwerkadresse) und das letzte Subnetz (also die Broadcast-Adresse). Diese Adressen sind wichtig für die Verwaltung des Netzwerks, und das ist das, was gemeint ist, wenn gesagt wird, dass wir diese nicht für die Adressvergabe nutzen.
+
+In neueren Routern kann man manchmal auch mit dem ersten und dem letzten Subnetz arbeiten, aber in dieser Erklärung konzentrieren wir uns darauf, diese Adressen nicht zu verwenden, wenn wir IPs verteilen.

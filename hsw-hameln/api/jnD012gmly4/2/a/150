@@ -1,0 +1,5 @@
+Früher, bei dem ersten Ethernet-Protokoll, war es so, dass in den Informationen, die an jedem Datenpaket (Frame) angehängt wurden, die Länge des gesamten Pakets angegeben war. Das heißt, es war im Header, also am Anfang des Pakets, eine Zahl, die sagte, wie lang das Paket ist.
+
+Das Problem dabei war, dass wenn diese Zahl verloren ging – zum Beispiel, wenn es einen Fehler gab – dann konnte man nicht mehr herausfinden, wo das Paket endet. Das ist nicht gut, denn dann wüsste man nicht, welche Informationen noch zum Paket gehören.
+
+Deshalb machen die neuen Protokolle das nicht mehr. Statt die Länge im Header anzugeben, verwenden sie andere Methoden. So wissen sie auch ohne diese Zahl, wo das Paket endet.

@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes:
+
+Ein Administrator, also jemand, der sich um das Netzwerk kümmert, hat die Aufgabe, festzulegen, zu welchem Netzwerk (VLAN) jeder Anschluss (Port) an einem Gerät namens Switch gehört. Man kann sich den Switch wie eine Art Verteiler vorstellen, an dem verschiedene Geräte angeschlossen werden.
+
+Wenn der Administrator sagt, dass ein bestimmter Port zu VLAN „sowieso“ gehört, bedeutet das, dass Geräte, die an diesen Port angeschlossen sind, zu diesem speziellen Netzwerk gehören. Wenn er einen anderen Port einem anderen VLAN zuordnet, gehört das Gerät, das dort angeschlossen ist, zu einem anderen Netzwerk. 
+
+So kann der Administrator dafür sorgen, dass die Geräte je nach Bedarf in verschiedene Netzwerke aufgeteilt sind, selbst wenn sie am gleichen Switch angeschlossen sind. Das hilft dabei, die Kommunikation zwischen den Geräten zu organisieren und besser zu steuern.

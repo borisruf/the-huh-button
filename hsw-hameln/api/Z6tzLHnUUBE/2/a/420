@@ -1,0 +1,9 @@
+Wir haben hier ein Beispiel, wie Computer miteinander kommunizieren. Angenommen, Computer A möchte mit Computer B sprechen. Dazu nutzt Computer A seine eigene IP-Adresse (eine Art Adresse für Computer im Internet) und die IP-Adresse von Computer B (die Adresse, zu der er sprechen möchte).
+
+Wenn Computer A eine Nachricht an Computer B schickt, geht die Nachricht über drei verschiedene Router. Ein Router ist wie ein Verkehrsschild, das entscheidet, wohin die Nachricht gehen soll. 
+
+Die IP-Adresse von Computer A bleibt immer gleich, wenn er die Nachricht sendet, und die IP-Adresse von Computer B bleibt auch gleich, weil Computer A immer zu diesem Computer senden möchte. Diese beiden Adressen helfen den Routern zu verstehen, woher die Nachricht kommt und wohin sie gehen soll.
+
+Im Internet gibt es spezielle Regeln und Protokolle, die dafür sorgen, dass diese Kommunikation funktioniert. Dazu gehört das Internetprotokoll (IP), das dafür sorgt, dass Nachrichten richtig ankommen. Manchmal muss das Protokoll die Nachrichten in kleinere Stücke zerlegen, damit sie über verschiedene Netzwerke mit unterschiedlichen Größenanforderungen geschickt werden können. 
+
+Zusammengefasst: Computer A möchte mit Computer B reden, er benutzt dafür ihre IP-Adressen, und die Nachrichten müssen manchmal aufgeteilt werden, damit sie über das Internet reisen können.

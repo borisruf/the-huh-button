@@ -1,0 +1,8 @@
+Die Aussage besagt, dass bei TCP (einem Protokoll für die Datenübertragung) eine vollständige Kontrolle über die Daten vorhanden ist, während dies bei UDP (einem anderen Protokoll) nicht der Fall ist. 
+
+Einfach gesagt: 
+
+- TCP kümmert sich darum, dass alle gesendeten Daten ankommen und in der richtigen Reihenfolge. Es hat viele Sicherheitsmechanismen, um Fehler zu erkennen und zu beheben.
+- UDP hingegen ist einfacher und schneller, aber es garantiert nicht, dass alle Daten ankommen. Wenn ein paar Daten fehlen, wird das nicht immer bemerkt. 
+
+Das bedeutet, dass man mit UDP z.B. für Telefonate oder Videos schneller Daten schicken kann, selbst wenn nicht jede einzelne Datei perfekt ankommt.

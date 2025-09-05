@@ -1,0 +1,9 @@
+Die Aussage spricht darüber, wie wir Informationen über Signale übertragen. Um es einfach zu erklären:
+
+1. **Signalgruppen und Phasen**: Wenn wir Informationen senden, teilen wir sie in Gruppen ein. Für das Signal, das "0" bedeutet, ändern wir die Phase um 180 Grad. Das hilft uns zu unterscheiden, ob wir eine "1" oder eine "0" senden.
+
+2. **Modulation**: Das ist eine Technik, um die Signale zu übertragen. Es gibt verschiedene Arten der Modulation, wobei der Hauptpunkt ist, dass wir die Dinge unterschiedlich markieren können, um Informationen zu senden.
+
+3. **Schrittgeschwindigkeit**: Das bedeutet einfach, wie oft sich das Signal ändert. Je mehr Änderungen es gibt, desto schneller können wir die Informationen senden.
+
+Zusammengefasst: Wenn wir Informationen senden, benutzen wir spezielle Techniken, um diese Informationen in Signalen darzustellen, sodass der Empfänger sie verstehen kann.

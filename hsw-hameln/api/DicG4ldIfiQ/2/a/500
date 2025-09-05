@@ -1,0 +1,3 @@
+Die Aussage sagt, dass wenn wir mit echten Medien (wie Kabel und Funk) arbeiten, die Dinge komplizierter werden. Neben der Bandbreite, die wir zur Verfügung haben, müssen wir auch bedenken, wie stark unser Signal im Vergleich zum Rauschen ist. 
+
+Rauschen ist wie störende Geräusche, die uns beim Hören eines Songs ablenken. Wenn das Signal (der gute Teil) viel stärker ist als das Rauschen (die störenden Teile), wird die Verbindung klarer und besser. Das Shannon-Theorem hilft uns dabei zu verstehen, wie viel Information wir durch das Medium senden können, abhängig davon, wie gut unser Signal im Vergleich zum Rauschen ist. Wenn also unser Signal schwach und das Rauschen stark ist, wird es schwieriger, die Informationen klar zu empfangen.

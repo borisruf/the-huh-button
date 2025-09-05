@@ -1,0 +1,17 @@
+NAT und PAT sind Technologien, die helfen, private IP-Adressen in öffentliche IP-Adressen umzuwandeln, damit Geräte in einem lokalen Netzwerk (wie in deinem Zuhause oder in einem Büro) mit dem Internet kommunizieren können.
+
+### Einfach erklärt:
+
+1. **Was sind IP-Adressen?**  
+   Eine IP-Adresse ist wie eine Adresse für ein Computer oder ein Gerät im Internet. Es gibt zwei Arten: **öffentlich** und **privat**.  
+   - **Öffentliche IP-Adressen**: Diese sind einzigartig im Internet und werden von einer zentralen Organisation verteilt. 
+   - **Private IP-Adressen**: Diese sind nur innerhalb eines kleinen Netzwerks (wie bei dir zu Hause) wichtig und werden nicht im Internet verwendet.
+
+2. **Warum brauchen wir NAT und PAT?**  
+   Wenn viele Geräte in einem privaten Netzwerk (z.B. Computer, Smartphones, Tablets) dieselbe private IP-Adresse haben, können sie nicht direkt mit dem Internet kommunizieren. Deshalb nutzen wir NAT und PAT. 
+
+3. **Was machen NAT und PAT?**  
+   - **NAT (Network Address Translation)**: Das ist wie ein Übersetzer für Adressen. Es nimmt die private IP-Adresse eines Geräts und verändert sie in eine öffentliche IP-Adresse, wenn das Gerät Informationen ins Internet sendet.  
+   - **PAT (Port Address Translation)**: Das ist eine spezielle Art von NAT, die auch beachtet, von welchem Gerät die Anfrage kommt, indem sie unterschiedliche „Türen“ (Ports) nutzt. So kann mehrere Geräten im Netzwerk trotzdem nur eine öffentliche IP-Adresse nutzen.
+
+Zusammengefasst: Mit NAT und PAT können viele Geräte in einem kleinen Netzwerk mit nur einer öffentlichen IP-Adresse ins Internet gehen, ohne dass sie eigene öffentliche Adressen brauchen.

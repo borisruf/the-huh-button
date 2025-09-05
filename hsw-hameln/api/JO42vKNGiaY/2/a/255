@@ -1,0 +1,10 @@
+Die Aussage beschreibt, wie die neuen Internet-Adressen in IP Version 6 aufgebaut sind. Ähnlich wie bei den alten IP Version 4-Adressen, die aus vier Zahlen bestehen, haben die neuen Adressen auch eine bestimmte Struktur.
+
+Hier ist eine einfache Erklärung:
+
+1. Die alten IP-Adressen (Version 4) bestehen aus 4 Zahlen, die durch Punkte getrennt sind (zum Beispiel 172.16.14.193).
+2. Die neuen IP-Adressen (Version 6) sind viel länger. Sie bestehen aus 8 Gruppen von Zahlen und Buchstaben, die durch Doppelpunkte getrennt sind (zum Beispiel 2001:0db8:85a3:0000:0000:8a2e:0370:7334).
+3. Jede dieser Gruppen ist wie eine kleine Zahl im Hexadezimalsystem (das ist ein Zahlensystem, das Zahlen und Buchstaben verwendet).
+4. Dies macht die neuen Adressen komplexer und schwieriger zu merken als die alten.
+
+Zusammenfassend: IP Version 6 hat eine spezielle Struktur, die aus mehr Teilen besteht und mehr Möglichkeiten bietet, als die alten IP Version 4-Adressen.

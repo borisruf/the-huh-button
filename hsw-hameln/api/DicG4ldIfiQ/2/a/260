@@ -1,0 +1,13 @@
+Okay, ich werde die Aussage einfach erklären:
+
+Wenn wir etwas senden, wie zum Beispiel ein Signal, kann es schwächer werden oder stärker werden, bevor es ankommt. Das nennt man Dämpfung oder Verstärkung.
+
+- **Dämpfung** heißt, das Signal wird schwächer, wenn es durch ein Kabel oder Material geht. Das passiert, wenn das Kabel nicht so gut ist oder wenn es einfach zu lang ist. Wenn das Signal ankommt, ist es kleiner als das, was wir gesendet haben.
+
+- **Verstärkung** heißt, das Signal wird stärker, als es war, wenn es ankommt. Das passiert zum Beispiel, wenn wir einen Verstärker benutzen, der das schwache Signal aufnimmt und es stärker macht.
+
+Wir schauen dabei immer, wie stark das Signal ist, das wir gesendet haben, und wie stark es ankommt. Wenn das Signal ankommt und es stärker ist, sprechen wir von Verstärkung. Ist es schwächer, spricht man von Dämpfung.
+
+Es gibt auch den Unterschied zwischen Spannungen (wie viel Energie in dem Signal steckt) und Strömen (wie viel elektrischer Fluss durch das Kabel geht). Beide können gedämpft werden oder verstärkt werden. 
+
+Wichtig ist, dass wir verstehen, wie sich das Signal ändert, wenn es hin und her geschickt wird, damit wir die besten Möglichkeiten finden, um sicherzustellen, dass die Informationen genauso ankommen, wie wir sie gesendet haben.

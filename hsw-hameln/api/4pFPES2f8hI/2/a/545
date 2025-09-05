@@ -1,0 +1,7 @@
+Wir schauen uns jetzt eine Tabelle an, um zu sehen, wie wir aus einer großen IP-Adresse acht kleinere Netze gemacht haben. Wir hatten vorhin schon darüber gesprochen, und in der Tabelle kannst du sehen, welche acht Subnetze entstanden sind.
+
+Wir haben gelernt, dass es bei IP-Adressen zu wenig Platz gibt und deshalb müssen wir clever überlegen, wie wir die Adressen aufteilen. Das nennt man Subnetze bilden. 
+
+Um Subnetze zu machen, ändern wir einen Teil der Adresse, die normalerweise gebraucht wird, um Computer in einem Netzwerk zu identifizieren. So können wir mehrere kleinere Netzwerke erstellen, anstatt ein großes zu haben. Jedes dieser kleineren Netzwerke hat seine eigenen IP-Adressen, aber wir müssen auch darauf achten, dass wir die erste und die letzte Adresse in jedem Netz nicht verwenden, weil sie spezielle Aufgaben haben.
+
+Letztlich hilft uns das dabei, die vorhandenen IP-Adressen besser zu nutzen und mehr Kontrolle über unsere Netzwerke zu bekommen. In der Tabelle sehen wir, wie die neuen, kleineren Subnetze aussehen.

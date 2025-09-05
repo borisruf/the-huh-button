@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass der Router die Daten, die er erhält, bis zur dritten Schicht des OSI-Modells (der Netzwerkschicht) untersucht. Dort findet er wichtige Informationen, die ihm helfen zu entscheiden, wohin er die Daten als Nächstes senden soll. 
+
+An der dritten Schicht sieht er zum Beispiel die IP-Adresse des Absenders (also von dem, der die Daten geschickt hat) und die IP-Adresse des Empfängers (also von dem, der die Daten bekommen soll). Diese Informationen nutzt der Router, um zu entscheiden, über welchen Weg er die Daten weiterleiten kann, damit sie ihr Ziel erreichen. 
+
+Zusammengefasst: Der Router schaut sich die IP-Adressen an, um herauszufinden, wohin er die Daten schickt.

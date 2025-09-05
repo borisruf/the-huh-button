@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es schwierig sein kann, genau zu kontrollieren, welche Daten in ein Netzwerk kommen. Eine Firewall ist wie eine Art Schutzwall, der entscheidet, welche Daten erlaubt sind und welche nicht. 
+
+Es gibt spezielle Regeln, die festlegen, welche Daten von bestimmten Orten (IP-Adressen) und über bestimmte Wege (Ports) hinein dürfen. Wenn die Firewall so eingestellt ist, dass bestimmte Ports - wie zum Beispiel der Port für den Internet-Browser (Port 80) - offen sind, dann können viele verschiedene Daten von beliebten Internet-Seiten (wie Google oder Facebook) durch diesen Port in das Netzwerk gelangen.
+
+Das Problem dabei ist, dass, wenn man einen Port offenlässt, auch andere Daten, die eventuell nicht sicher sind, über diesen Port hereinkommen können. Das macht es komplizierter, die Sicherheit des Netzwerks zu gewährleisten. Man muss also sorgfältig überlegen, welche Ports man öffnet, um nicht versehentlich unsichere Daten zuzulassen.

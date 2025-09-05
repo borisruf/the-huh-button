@@ -1,0 +1,5 @@
+Wir schauen uns jetzt genauer an, was mit dem neuen Internetprotokoll IP Version 6 passiert. IP Version 4, das wir bisher verwendet haben, hat nicht genug Adressen, weil viele davon verloren gegangen sind. Deshalb müssen wir auf IP Version 6 wechseln, das viel mehr Adressen bietet. 
+
+Der große Unterschied ist, dass IP Version 6 lange Adressen hat (128-Bit), im Vergleich zu den kurzen Adressen von IP Version 4 (32-Bit). Das bedeutet, dass wir mit IP Version 6 viele, viele mehr Adressen haben können, sogar genug für alle Geräte auf der Welt, auch wenn jedes Gerättausende von Adressen bekommen würde.
+
+Ein Problem ist, dass wir die Art und Weise, wie wir die Adressen schreiben, ändern müssen. Bei IP Version 4 haben wir eine einfache Art (mit Zahlen) verwendet. Bei IP Version 6 müssen wir eine neue Methode lernen, die etwas komplizierter ist (mit Buchstaben und Zahlen mixed). Das kann für Leute, die schon lange mit IP Version 4 arbeiten, schwierig sein, weil sie sich umstellen müssen.

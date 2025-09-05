@@ -1,5 +1,3 @@
-Stell dir vor, das Internet ist wie eine große Stadt. Um in dieser Stadt ein Paket von einem Ort zum anderen zu senden, benötigst du eine Adresse und einen Fahrplan. Die IP-Adresse ist wie die Adresse auf dem Paket. Sie zeigt, wohin das Paket gehen soll. 
+Die Aussage sagt, dass es verschiedene Protokolle gibt, die mit dem Internet-Protokoll (IP) zusammenarbeiten. Ein wichtiges Protokoll ist ICMP (Internet-Control-Message-Protokoll). Dieses Protokoll wird verwendet, um Probleme im Netzwerk zu melden. Wenn zum Beispiel eine Verbindung nicht funktioniert, hilft ICMP dabei, herauszufinden, was falsch ist. 
 
-Ein Protokoll wie das TCP (Transport Control Protocol) ist wie der Fahrplan. Es zeigt den genauen Weg, um das Paket zu seinem Zielort zu bringen. Außerdem stellt es sicher, dass das Paket sicher und ohne Fehler ankommt.
-
-Das ICMP (Internet-Control-Message-Protokoll) ist wie der Kundendienst. Wenn Probleme auf dem Weg auftreten, zum Beispiel Stau oder ein gebrochenes Rad, wird das ICMP benutzt. Es hilft, das Problem zu identifizieren und zu lösen. Der PING ist ein bekanntes Beispiel für solch ein Kundendienst-Protokoll. Es überprüft, ob der Zielort des Pakets erreichbar ist.
+Ein bekanntes Beispiel für ICMP ist der Befehl "PING". Mit PING kann man testen, ob ein Computer im Internet erreichbar ist. Wenn man PING verwendet, schickt man ein Signal zu einem anderen Computer und wartet auf eine Antwort. Wenn der Computer antwortet, weiß man, dass alles in Ordnung ist.

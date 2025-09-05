@@ -1,0 +1,7 @@
+In dem Text geht es um das Internetprotokoll (IP), das dafür sorgt, dass Daten von einem Computer zu einem anderen geschickt werden. Dabei müssen wir manchmal die Daten in kleinere Stücke, also Fragmente, zerlegen und später wieder zusammenfügen. 
+
+Jetzt fragen wir uns, warum das nötig ist. 
+
+Stell dir vor, du möchtest eine große Pizza an jemanden schicken, aber der Karton ist zu groß für die Tür. Also schneidest du die Pizza in kleinere Stücke. Das ist wie die Fragmentierung von Daten. Wenn die Stücke (Fragmente) beim Empfänger ankommen, muss er sie wieder zusammenlegen, um die ganze Pizza (die Daten) zu bekommen. Das nennt man Defragmentierung.
+
+Der Text sagt, dass wir uns später noch genauer anschauen werden, wie das mit den Fragmente und dem Zusammenlegen funktioniert. Aber zuerst klären wir die Grundlagen von IP, einschließlich der Adressen, die wichtig sind, damit die Daten den richtigen Computer erreichen.

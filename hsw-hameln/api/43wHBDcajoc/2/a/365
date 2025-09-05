@@ -1,0 +1,7 @@
+In der Welt der Funknetze gibt es viele Dinge, die man beachten muss, besonders wenn es um WLAN geht. Stellen wir uns vor, wir haben eine große Straße, auf der Autos fahren. Die Straßen stehen für die Funkkanäle.
+
+1. **Funkkanäle**: Es gibt 14 verschiedene Fahrstreifen (Kanäle), die man benutzen kann, aber nur drei davon können direkt nebeneinander liegen, ohne sich in die Quere zu kommen. Das ist wie bei Autos: Wenn die Autos auf einer Straße zu eng beieinander fahren, gibt es Staus oder Unfälle. So ist es auch mit den Funkverbindungen. Wenn Kanäle sich überlappen, stören sie sich gegenseitig. Das nennt man Interferenzen.
+
+2. **Technische Herausforderung**: Um vieles einfacher zu machen, bräuchten wir Platz auf der Straße, damit die Autos (in diesem Fall die Daten) ohne Probleme fahren können. Wenn zu viele Autos gleichzeitig auf der Straße sind oder wenn sie falsch geparkt sind, kommt es zu Problemen. Genauso muss man bei WLAN darauf achten, dass nicht zu viele Geräte denselben Kanal gleichzeitig benutzen, sonst gibt es Störungen.
+
+Zusammengefasst: Wenn wir WLAN nutzen, müssen wir darauf achten, wie wir die Funkkanäle einteilen, damit alles reibungslos funktioniert und es zu keinen Störungen kommt.

@@ -1,0 +1,7 @@
+Die Aussage "Welcher Rechner gehört eigentlich in welches VLAN?" betrifft die Zuordnung von Endgeräten zu virtuellen LANs (VLANs) innerhalb eines Netzwerks. VLANs ermöglichen eine flexible Netzwerkaufteilung, die über physische Standorte hinweggeht. Es gibt zwei Hauptmethoden zur Zuweisung von Geräten: 
+
+1. **Statische Zuordnung**: Der Netzwerkadministrator konfiguriert manuell die Ports eines Switches, sodass jeder Port einem bestimmten VLAN zugeordnet wird. Der Rechner, der an diesen Port angeschlossen wird, gehört somit automatisch zu dem zugewiesenen VLAN. Dies erfordert jedoch sorgfältige Planung, um sicherzustellen, dass die richtigen Geräte an den richtigen Ports angeschlossen werden.
+
+2. **Dynamische Zuordnung**: Hierbei wird eine Steuerstation eingesetzt, die auf Basis der MAC-Adressen der verbundenen Geräte festlegt, zu welchem VLAN sie gehören. Diese Methode bietet mehr Flexibilität, da sie Änderungen in der Netzwerkstruktur besser verarbeiten kann, ohne physische Kabelverbindungen anpassen zu müssen. 
+
+In beiden Fällen ist es wichtig, die Risiken einer unsachgemäßen Zuordnung zu berücksichtigen, die Sicherheits- und Leistungsprobleme im Netzwerk verursachen kann.

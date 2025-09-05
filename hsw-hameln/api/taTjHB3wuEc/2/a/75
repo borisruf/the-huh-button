@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie Sender und Empfänger von Daten zusammenarbeiten, damit alles gut funktioniert. 
+
+Stell dir vor, du bist ein Gespräch zwischen zwei Personen. Eine Person spricht sehr schnell, aber die andere kann nicht so schnell hören und antworten. Damit das Gespräch nicht durcheinander gerät, müssen sie sich darauf einigen, wie schnell sie reden.
+
+Die Flusssteuerung hilft dabei, dass der schnelle Sender langsamer wird, damit der langsame Empfänger alles verstehen kann. Wenn der Empfänger die Informationen erhalten hat, sagt er dem Sender Bescheid, dass er bereit für mehr ist. Das nennt man "Quittierung" oder "Acknowledgement". Es gibt verschiedene Möglichkeiten, wie die beiden sagen können, dass sie bereit sind. 
+
+Im Großen und Ganzen sorgt die Flusssteuerung dafür, dass Sender und Empfänger gut miteinander kommunizieren können, ohne dass etwas verloren geht oder schiefgeht.

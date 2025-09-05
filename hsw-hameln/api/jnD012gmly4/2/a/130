@@ -1,0 +1,7 @@
+Die Aussage spricht darüber, wie Daten in sogenannten „Frames“ verarbeitet werden. 
+
+Stell dir vor, ein Frame ist wie ein Briefumschlag, der Informationen enthält. Wenn wir einen Brief schreiben, müssen wir sicherstellen, dass der Empfänger den ganzen Brief lesen kann, ohne dass Teile verwirrt oder verloren gehen.
+
+Jetzt gibt es ein Problem: Wenn wir nicht wissen, wie lang unser Brief (der Frame) ist, können wir nicht sagen, wo der Brief endet. Wenn also die Information darüber, wie lang der Frame ist, verloren geht, dann wissen wir nicht mehr, wo der Frame aufhört. Das wäre nicht gut, besonders wenn wir viele Informationen schicken. 
+
+Um dieses Problem zu lösen, hatten die ersten Ethernet-Protokolle (das ist eine Art von Technik zum Verschicken von Informationen) die Idee, die Länge des Frames gleich am Anfang (im „Header“) einzuschreiben. So weiß jeder, wie lange der Frame ist und wo er endet. Das hilft, die Informationen sicher und richtig zu übermitteln.

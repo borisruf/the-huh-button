@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass alle Arten von Daten, die über ein Netzwerk geschickt werden, gleich behandelt werden. Das heißt, ob es sich um einen Anruf, ein E-Mail oder ein Video handelt, alle Daten haben die gleiche Priorität beim Versenden.
+
+Bei Voice-over-IP (VoIP), also Telefonieren über das Internet, kann das gut funktionieren, weil es im selben Netzwerk wie andere Daten läuft. Aber es muss nicht immer so sein, dass die Qualität der Anrufe gut bleibt, wenn alle Daten gleich behandelt werden. Es könnte sein, dass wichtige Sprachdaten langsamer oder schlechter ankommen, wenn das Netzwerk auch viele andere Daten überträgt. Deshalb braucht man spezielle Einstellungen (Quality-of-Service), um sicherzustellen, dass Anrufe eine gute Qualität haben.

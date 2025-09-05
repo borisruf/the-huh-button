@@ -1,0 +1,11 @@
+In dem Text geht es darum, wie man Fehler bei der Übertragung von Daten erkennt und damit umgeht. Wenn Daten verschickt werden, können sie manchmal falsch oder gar nicht ankommen. 
+
+Zuerst spricht man darüber, dass es wichtig ist, Fehler zu erkennen. Man kann prüfen, ob die Daten sich verändert haben, indem man eine spezielle Art von Zahl (Prüfziffer) zu den Daten hinzufügt. Wenn die empfangenen Daten mit der Prüfziffer nicht übereinstimmen, weiß man, dass ein Fehler passiert ist. 
+
+Es gibt verschiedene Möglichkeiten, mit diesen Fehlern umzugehen. Manchmal kann man kleine Fehler ignorieren, zum Beispiel bei einem Videoanruf. Aber bei wichtigen Daten, wie bei Geldtransfers, muss man die Fehler unbedingt korrigieren. 
+
+Das kann man auf zwei Arten tun: Entweder sucht man nach dem Fehler und berechnet die richtigen Daten neu, oder man fragt einfach den Sender, die Daten noch einmal zu schicken. 
+
+Außerdem wird erklärt, dass man zusätzliche Informationen zu den Daten hinzufügen muss, um festzustellen, ob etwas schiefgelaufen ist. Ein Beispiel dafür ist das CRC-Verfahren, das hilft zu überprüfen, ob die Daten korrekt übertragen wurden. 
+
+Zusammengefasst: Es ist wichtig, Fehler bei der Datenübertragung zu erkennen und zu korrigieren, vor allem wenn es um wichtige Informationen geht. Und es gibt dafür verschiedene Techniken, die man anwenden kann.

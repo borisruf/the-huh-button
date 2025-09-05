@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes: 
+
+Wir schauen uns die erste Gruppe von Zahlen (das erste Oktett) in einer IP-Adresse an, wenn wir sie in einer speziellen Art und Weise (binär) schreiben. In dieser speziellen Schreibweise gibt es Bits, die wie kleine Schalter funktionieren. Der wichtigste Schalter ist das „höchstwertige Bit“. Wenn dieser Schalter auf 0 steht, gehört die IP-Adresse zur Klasse A. 
+
+Also, kurz gesagt: Wenn das erste Bit einer IP-Adresse, die in binärer Form ist, eine 0 ist, gehört sie zur Klasse A.

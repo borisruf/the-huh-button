@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass beim Übertragen von Daten in einem Netzwerk alle Datenpakete normalerweise gleich behandelt werden. Es wird nichtunterschieden, welches Paket wichtiger ist. Man versucht einfach, alle Pakete gut zu verschicken, aber es gibt keine Garantie, dass sie immer in der besten Reihenfolge oder ohne Verzögerungen ankommen.
+
+Beim Telefonieren über das Internet (Voice over IP) ist das anders. Hier ist es wichtig, dass die Gesprächsdaten schnell und ohne Unterbrechungen ankommen, damit das Telefonat gut klingt. Damit das klappt, müssen wir sicherstellen, dass die Sprache die beste Behandlung im Netzwerk bekommt und nicht mit anderen Daten, wie z.B. E-Mails, gleich behandelt wird. Das nennt man Quality of Service (QoS).

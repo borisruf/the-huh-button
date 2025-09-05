@@ -1,0 +1,5 @@
+In der Aussage geht es darum, wie Daten übertragen werden. Oft reden wir darüber, wie schnell Daten geschickt werden, und messen das in "Bit pro Sekunde". Das sagt uns, wie viele kleine Informationen in einer Sekunde weitergegeben werden.
+
+Es gibt eine besondere Methode, die "binäre Übertragung" heißt. Bei dieser Methode ist die Anzahl der Bits, die wir pro Sekunde übertragen, gleich der Geschwindigkeit, die wir messen. Das bedeutet, dass wir einfach die Daten in zwei Zuständen darstellen: 0 und 1. In diesem speziellen Fall sind Übertragungsgeschwindigkeit und die Menge der übertragenen Bits also genau gleich.
+
+Um es einfach zu sagen: Manchmal können wir die Geschwindigkeit der Übertragung und die Anzahl der übertragenen Informationen direkt vergleichen, aber das gilt nur für diese spezielle Art der Übertragung, wo Daten nur als 0 oder 1 gesendet werden.

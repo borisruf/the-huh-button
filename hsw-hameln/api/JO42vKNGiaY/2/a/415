@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes: 
+
+In einer bestimmten IP-Adresse gibt es einen Teil, der mit "FE80" beginnt, dann kommt eine Reihe von Nullen und am Ende steht eine "57". Wenn in einer IP-Adresse eine lange Folge von Nullen vorkommt, dann kann man diese Nullen einmal ganz weglassen, um die Adresse kürzer und einfacher zu machen. 
+
+Das hilft, die Adresse leichter zu lesen und zu verstehen.

@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, wie Sender und Empfänger von Daten miteinander kommunizieren. 
+
+Stell dir vor, ein Sender schickt Briefe (das sind die Daten) an einen Empfänger. Der Empfänger muss dem Sender sagen: „Ich habe deinen Brief bekommen, schick mir den nächsten.“ Das nennt man "Bestätigung" oder "Quittierung". 
+
+Es gibt verschiedene Möglichkeiten, wie der Sender und Empfänger das handhaben können. Eine einfache Methode ist das „Stop-and-Wait“-Verfahren. Das bedeutet, der Sender schickt einen Brief und wartet, bis der Empfänger ihm sagt, dass er ihn bekommen hat. Erst dann schickt er den nächsten Brief. 
+
+Das hilft, damit der Empfänger nicht überfordert wird, wenn der Sender zu schnell viele Briefe schickt. Es sorgt dafür, dass beide gut zusammenarbeiten, auch wenn sie unterschiedlich schnell sind.

@@ -1,0 +1,7 @@
+Der Text beschreibt, wie verschiedene Geräte in einem Computer-Netzwerk miteinander kommunizieren und sich verbinden. 
+
+Hier ist die einfache Erklärung für die Aussage:
+
+Ein Computer (Rechner) will wissen, welche anderen Computer im Netzwerk sind und welche speziellen Nummern (IP-Adresse und MAC-Adresse) sie haben. Dazu schickt dieser Computer eine Nachricht an alle anderen Computer im Netzwerk. Diese Nachricht nennt man "Broadcast". Auch wenn der Computer durch mehrere Geräte (Switches) im Netzwerk verbunden ist, wird die Nachricht an alle Computer weitergeleitet. So erfahren alle Computer, wer sie sind und welche Nummern sie haben. 
+
+Das Ziel ist, dass die Computer miteinander kommunizieren können, auch wenn es mehrere Netzwerke oder Teilnetze gibt. 

@@ -1,0 +1,7 @@
+Diese Aussage bedeutet Folgendes:
+
+Wenn wir Daten von einem Gerät zu einem anderen über ein Ethernet-Netzwerk schicken, gibt es eine bestimmte maximale Größe für die Datenpakete, die wir verschicken können. Diese maximale Größe nennt man MTU (Maximum Transmission Unit). Für Ethernet ist diese MTU 1500. 
+
+In unserem Beispiel ist die Größe des Datenpakets, das wir senden wollen, 1400. Das ist kleiner als die MTU von 1500. Das bedeutet, dass wir das Paket einfach so verschicken können, ohne es in kleinere Teile zerlegen (fragmentieren) zu müssen. 
+
+Zusammengefasst: Wir haben ein Datenpaket von 1400, und da das kleiner ist als die erlaubte Größe (1500), können wir es ohne Probleme verschicken.

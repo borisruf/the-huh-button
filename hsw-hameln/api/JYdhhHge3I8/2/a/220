@@ -1,0 +1,5 @@
+In diesem Text geht es darum, wie Daten in Netzwerken gesendet werden. Dabei gibt es verschiedene Arten, wie Daten über mehrere Geräte (wie Router und Switches) weitergeleitet werden können.
+
+Die Aussage, die du erklärt haben möchtest, beschreibt eine Situation, in der zwei Gruppen von Personen (A und B) versuchen, gleichzeitig Informationen zu senden. Wenn A Informationen über eine Leitung schickt, nutzen sie diese Leitung, und B kann diese Leitung nicht nutzen, weil sie schon belegt ist. Das bedeutet, B muss warten, bis A seine Nachricht fertig geschickt hat, bevor sie selbst senden können.
+
+Also einfach gesagt: Wenn jemand spricht (A), können andere nicht gleichzeitig reden (B). B muss warten, bis A fertig ist, bevor sie selbst sprechen können.

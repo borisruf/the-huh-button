@@ -1,1 +1,7 @@
-Wir haben eine bestimmte Art von IP-Adresse; spezieller eine B-Typ-Adresse. Jede IP-Adresse hat etwas, das man Subnetzmaske nennt. In dieser Maske stehen jede Menge Nullen und die Anzahl dieser Nullen zeigt uns, wie viele verschiedene Geräte (oder "Hosts") wir maximal haben können. Um diese Anzahl zu errechnen, nutzen wir eine einfache Rechnung: wir nehmen 2 und machen das 16 Mal (da wir 16 Nullen haben). Wenn wir das ausrechnen, kriegen wir irgendwas über 65.000 - das ist die maximale Anzahl von Geräten, die wir haben können.
+Die Aussage bedeutet Folgendes:
+
+Wenn man eine bestimmte Art von Internetadressen (IP-Adressen) hat, kann man damit viele Geräte, wie Computer oder Handys, mit dem Internet verbinden. In einem bestimmten Teil dieser Adressen (also im Netzwerk) kann man mehr als 65.500 Geräte ansprechen. 
+
+Aber es gibt einen kleinen Haken: Man muss von dieser Zahl zwei Abziehen. Das liegt daran, dass immer zwei Adressen im Netzwerk für spezielle Zwecke reserviert sind. Eine Adresse ist für das Netzwerk selbst und die andere für die Kommunikation mit dem Netzwerk. 
+
+Also, um es einfach zu sagen: Man kann viele Geräte anschließen, aber man muss zwei Plätze für andere Dinge frei lassen.

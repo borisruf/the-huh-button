@@ -1,0 +1,1 @@
+ Und da gibt es eine ganz einfache Möglichkeit, indem man nämlich dieses Non-Return-to-Zero-Verfahren nimmt und es einfach kombiniert mit einem Taktsignal, das heißt also eine XOR-Verknüpfung herstellt.  Und das bedeutet, wir haben also in jedem Signalintervall einen Wechsel, einen Signalwechsel.

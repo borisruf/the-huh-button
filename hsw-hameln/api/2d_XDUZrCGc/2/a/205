@@ -1,0 +1,15 @@
+Okay, ich erkläre das in einfacher Sprache:
+
+IP-Adressen helfen Computern, sich im Internet zu finden. Es gibt verschiedene Gruppen von IP-Adressen, die nennen wir "Klassen". Diese Gruppen schauen sich die ersten Zahlen der IP-Adressen an, um zu wissen, zu welcher Klasse sie gehören. 
+
+- Wenn die erste Zahl zwischen 0 und 127 ist, sagen wir, es ist Klasse A.
+- Wenn sie zwischen 128 und 191 ist, ist es Klasse B.
+- Wenn sie zwischen 192 und 223 ist, ist es Klasse C.
+
+Jede Klasse hat eine andere Anzahl von möglichen Netzwerken und Computern, die man damit erreichen kann. 
+
+Früher haben große Firmen, wie zum Beispiel IBM, sehr viele IP-Adressen in einer Klasse bekommen. Manchmal so viele, dass sie nicht einmal alle benutzen konnten. Das nennt man "Verschwendung". Deshalb gibt es jetzt nicht mehr genug IP-Adressen für alle.
+
+Es gibt auch private und öffentliche IP-Adressen. Private Adressen sind für Netzwerke, die nicht mit dem Internet verbunden sind, während öffentliche Adressen überall im Internet genutzt werden können. 
+
+Zusammengefasst: Es gibt verschiedene Klassen von IP-Adressen, die unterschiedlich viele Netzwerke und Computer unterstützen, und es gibt private und öffentliche IP-Adressen, die verschiedene Zwecke haben.

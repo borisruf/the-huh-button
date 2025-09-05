@@ -1,0 +1,3 @@
+Die Aussage erklärt, dass wir in unseren privaten Netzwerken (Lahns) IP-Adressen nutzen, die nicht im Internet sichtbar sind. Deshalb gibt es eine Frage: Wie können wir trotzdem auf Webseiten oder Dienste im Internet zugreifen? 
+
+Die Antwort auf diese Frage ist eine Technik namens NAT (Network Address Translation) oder PAT (Port Address Translation). Diese Technik hilft, dass unsere private IP-Adresse in eine öffentliche IP-Adresse umgewandelt wird, die im Internet verwendet werden kann. So können wir trotzdem mit dem Internet kommunizieren, obwohl unsere privaten Adressen nicht direkt im Internet funktionieren.

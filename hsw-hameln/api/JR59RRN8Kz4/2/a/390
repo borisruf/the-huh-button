@@ -1,0 +1,9 @@
+Die Aussage bedeutet Folgendes: 
+
+Stell dir vor, in einem großen Haus gibt es viele Räume. In diesen Räumen wohnen verschiedene Leute, die alle das gleiche Wasserrohr benutzen. Wenn jemand in einem Raum viel Wasser verbraucht, haben die anderen weniger Wasser zur Verfügung. 
+
+Jetzt sagen wir, wir haben eine bestimmte Menge Wasser, die für das ganze Haus verfügbar ist. Wenn wir die Wasserzufuhr für einzelne Räume kontrollieren, können wir sicherstellen, dass jeder genug Wasser hat, auch wenn jemand viel nutzt. 
+
+Ähnlich funktioniert das mit dem Internet in Netzwerken. Wenn ein Computer viel Daten herunterlädt, kann das die anderen Computer stören, die ebenfalls internet nutzen möchten, zum Beispiel für Telefonate (Voice over IP). 
+
+Deshalb können wir festlegen, wie viel Bandbreite (das ist die Datenmenge, die übertragen werden kann) jeder Teil des Netzes benutzen darf. So stellen wir sicher, dass alle genug Internetgeschwindigkeit bekommen, auch wenn jemand gerade viel lädt oder streamt.

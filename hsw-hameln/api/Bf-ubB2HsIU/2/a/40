@@ -1,1 +1,7 @@
-Wir haben schon ein paar Dinge über Netzwerke gelernt. Jetzt wollen wir uns mit den zwei wichtigsten Regelsystemen (Protokolle genannt) für Netzwerke befassen: TCP und IP. Du kennst vielleicht schon ein Beispiel für IP, nämlich die IP-Adresse. Aber was macht eigentlich TCP? Wir haben schon ein kleines bisschen darüber gesprochen. Jetzt wollen wir das näher anschauen.
+In diesem Kapitel werden wir mehr über zwei wichtige Dinge reden, die in Computernetzwerken wichtig sind: TCP und IP. 
+
+Wenn wir von IP sprechen, denken viele an die IP-Adresse, die jeder Computer hat, damit er im Internet gefunden werden kann. 
+
+TCP ist ein bisschen komplizierter, und wir haben schon ein bisschen darüber gehört, aber jetzt wollen wir genauer verstehen, wie es funktioniert und was es macht. 
+
+Es ist wichtig, dass wir diese beiden Dinge gut verstehen, weil sie helfen, dass Computer miteinander kommunizieren können.

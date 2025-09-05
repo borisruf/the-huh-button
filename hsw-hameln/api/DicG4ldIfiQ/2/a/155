@@ -1,0 +1,7 @@
+Wenn wir Daten über ein Kabel senden, können Probleme auftreten, die das Signal schwächen. Dämpfung ist ein Wort dafür, dass das Signal weniger stark ankommt als es gesendet wurde. 
+
+Bei der Dämpfung müssen wir nicht nur auf den Widerstand schauen, der den Stromfluss bremst (das nennt man ohmschen Widerstand). Es gibt auch andere Widerstände, die ähnlich wirken, aber nicht direkt den Stromfluss bremsen und diese nennt man Blindwiderstände. 
+
+Wenn wir beide Arten von Widerständen (ohmschen und Blindwiderstände) zusammen betrachten, bekommen wir den gesamten Widerstand, den das Signal auf dem Weg zu seinem Ziel „fühlt“. Das nennen wir Scheinwiderstand, weil er aus beiden Teilen besteht und zeigt, wie stark das Signal tatsächlich gebremst wird. 
+
+Zusammengefasst bedeutet das, um zu verstehen, wie gut unser Signal übertragen wird, müssen wir die verschiedenen Widerstände im Kabel berücksichtigen.

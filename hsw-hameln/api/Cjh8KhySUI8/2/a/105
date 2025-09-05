@@ -1,0 +1,3 @@
+Echtzeitanwendungen sind Programme, die sofort reagieren müssen, damit sie gut funktionieren. Ein Beispiel dafür ist IP-Telefonie, also Telefonieren über das Internet. Wenn du jemanden anrufst, musst du die Stimme des anderen sofort hören, ohne Verzögerung. 
+
+Bei diesen Anwendungen ist es wichtiger, dass die Daten schnell ankommen, auch wenn manchmal ein paar Daten fehlen. Es ist nicht schlimm, wenn ganz wenig Informationen verloren gehen, solange die Kommunikation schnell bleibt. Das ist der Grund, warum diese Anwendungen oft ein bestimmtes Protokoll verwenden, das weniger Sicherheit bietet, aber dafür schneller ist.

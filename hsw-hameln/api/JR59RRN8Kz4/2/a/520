@@ -1,0 +1,5 @@
+In dieser Aussage geht es um die Art und Weise, wie Telefonate über das Internet (Voice over IP) und Netzwerke organisiert werden. Hier ist eine einfache Erklärung:
+
+Die Telefone sind mit einem speziellen Kasten, dem Switch, verbunden, der die Daten verwaltet. Wenn wir telefonieren, gehen die Daten durch diesen Switch, der die Informationen an einen anderen Computer, den Vermittlungsserver, weiterleitet. Von dort aus werden die Telefonate entweder ins interne Netzwerk oder zum öffentlichen Telefonnetz geschickt.
+
+Ein Problem dabei ist, dass die Stärke, also die Geschwindigkeit, mit der die Daten gesendet werden können, von dem Switch im Telefon abhängt. Wenn der Switch nicht sehr stark ist, kann es sein, dass das Telefon nicht genug Platz hat, um gleichzeitig Daten für Telefonate und für unseren Computer zu verwenden. Das kann die Qualität der Anrufe beeinträchtigen, wenn zum Beispiel jemand am Computer viel Daten herunterlädt. Es gibt also eine Grenze, wie schnell die beiden Geräte Daten senden können, und das hängt von dem Teil im Telefon ab, das für die Verbindung sorgt.

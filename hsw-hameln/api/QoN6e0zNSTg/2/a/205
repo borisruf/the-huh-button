@@ -1,0 +1,7 @@
+Stell dir vor, du und ein Freund wollt gleichzeitig einen Ball werfen. Ihr seid in einem Raum und könnt euch sehen. Bevor ihr werft, schaut ihr, ob der Platz frei ist. Wenn beide gleichzeitig sehen, dass der Platz frei ist, werft ihr den Ball. Manchmal passiert es, dass beide den Ball gleichzeitig werfen und sie dabei zusammenstoßen – das nennt man eine "Kollision".
+
+In einem Netzwerk, wie zum Beispiel bei Ethernet, passiert etwas Ähnliches. Es gibt ein "Medium" (das ist wie der Raum), durch das Informationen (wie die Bälle) gesendet werden. Mehrere Geräte (wie du und dein Freund) wollen gleichzeitig Informationen senden. Sie schauen zuerst, ob das Medium frei ist. Wenn ja, senden sie gleichzeitig ihre Informationen.
+
+Aber weil sie gleichzeitig senden, kann es dazu kommen, dass die Informationen zusammenstoßen. Das ist ein Problem, das erkannt werden muss. In diesem Fall gibt es eine besondere Regel (das Protokoll) namens CSMA-CD. Die Geräte merken, wenn etwas schiefgeht, und sie versuchen es später noch einmal, aber diesmal auf eine zufällige Art, damit sie nicht wieder gleichzeitig senden. 
+
+Zusammengefasst: Wenn mehrere Geräte Informationen senden wollen, müssen sie sicherstellen, dass sie nicht gleichzeitig senden, um Fehler zu vermeiden.

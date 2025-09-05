@@ -1,0 +1,1 @@
+ Und das ist zum Beispiel beim aktuellen Ethernet-Protokoll so.   Und natürlich müssen wir uns jetzt überlegen, welches Verfahren entwickeln wir, um zu verhindern, dass sozusagen der Empfänger annimmt, er hätte in diesem Datenteil natürlich ein End of Text -Zeichen und die Nachricht wäre zu Ende.

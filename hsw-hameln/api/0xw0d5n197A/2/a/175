@@ -1,0 +1,13 @@
+Die Aussage spricht über Systeme, die helfen, ein Netzwerk zu schützen. Es geht darum, dass diese Systeme erkennen, wenn jemand versucht, ohne Erlaubnis in ein Netzwerk einzubrechen. Das nennt man „Intrusion Detection“ oder „Intrusion Protection System“.
+
+Hier sind die wichtigen Punkte in einfacher Sprache:
+
+1. **Netzwerkschutz ist wichtig**: Wenn Menschen ein Netzwerk nutzen, müssen wir sicherstellen, dass es sicher ist, damit keine bösen Leute reinkommen.
+
+2. **Einbrüche erkennen**: Es gibt spezielle Systeme, die automatisch feststellen können, wenn jemand versucht, in ein Netzwerk einzubrechen.
+
+3. **Das ist nicht einfach**: Es ist manchmal schwierig, diese Einbrüche zu erkennen und zu verhindern. 
+
+4. **Paketfilter**: Manchmal schauen solche Systeme, ob die Datenpakete, die ins Netzwerk kommen, von den richtigen Adressen und Orten kommen. Wenn sie das sind, dürfen sie rein; wenn nicht, bleiben sie draußen.
+
+Zusammengefasst: Es gibt Systeme, die unser Netzwerk schützen, indem sie versuchen, Eindringlinge zu erkennen. Aber das ist eine komplexe Aufgabe, und es ist nicht immer leicht, zu entscheiden, welche Daten sicher sind und welche nicht.

@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie Daten in einem Computer-Netzwerk gesendet werden. Hier ist eine einfache Erklärung:
+
+Wenn Computer Informationen senden, nutzen sie eine spezielle Methode, um den Anfang und das Ende der gesendeten Daten zu kennzeichnen. Diese Kennzeichnungen heißen "Start of Text" und "End of Text". 
+
+In dem beschriebenen Fall gab es ein Beispiel, bei dem das Zeichen für das Ende eines Textes (0, gefolgt von sechs Einsen und Nullen) in den gesendeten Daten erschienen ist. Das ist ein spezifisches Zeichen, das sagt: "Hier endet der Text". 
+
+Damit der Computer, der die Daten empfängt, nicht denkt, dass der Text zu Ende ist, wenn er dieses Zeichen sieht, gibt es bestimmte Regeln. Eine Regel besagt, dass dieses spezielle Zeichen im Hauptteil der gesendeten Daten nicht vorkommen darf. Das nennen sie die "Bitstopf-Methode". So wissen die Computer immer, dass die eingesendeten Daten noch weitergehen und nicht durch das Zeichen beendet werden.
+
+Zusammengefasst: Es gibt Regeln, die helfen, Missverständnisse zu vermeiden, wenn Computer Daten senden und empfangen, indem sie besondere Zeichen benutzen, um den Text richtig zu kennzeichnen.

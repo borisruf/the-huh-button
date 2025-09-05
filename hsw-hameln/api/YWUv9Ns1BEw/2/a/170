@@ -1,0 +1,7 @@
+Ethernet ist wie ein System, das Computer und andere Geräte in einem Netzwerk verbindet, damit sie miteinander kommunizieren können. Ursprünglich gab es ein großes Kabel, an das alles angeschlossen war, und die Daten mussten sich den Platz am Kabel teilen. Das kann Probleme verursachen, wenn mehrere Geräte gleichzeitig senden möchten (das nennt man Kollisionen).
+
+Um das zu verbessern, wurden neue Technologien entwickelt. Statt eines einfachen Kabels verwenden wir jetzt etwas, das Switch heißt. Ein Switch sorgt dafür, dass Geräte direkt miteinander verbunden werden, ohne dass sie um den Platz am Kabel kämpfen müssen. 
+
+Die Geschwindigkeit von Ethernet ist im Laufe der Zeit immer schneller geworden, von 10 Megabit pro Sekunde bis hin zu 100 Gigabit pro Sekunde und mehr. 
+
+Die Regeln und Standards für Ethernet werden von einer Gruppe namens IEEE festgelegt. Diese Gruppe hat eine bestimmte Nummer, 802.3, die zu Ethernet gehört. Innerhalb dieser Gruppe werden viele verschiedene Regeln erstellt, damit alles gut funktioniert.

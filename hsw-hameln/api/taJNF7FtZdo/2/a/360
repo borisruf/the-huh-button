@@ -1,0 +1,7 @@
+Also, in einfachen Worten geht es hier darum, wie Computer miteinander sprechen und Informationen austauschen. Wenn Daten von einem Ort zum anderen geschickt werden, ist es wichtig, dass sie schnell und ohne Störungen ankommen.
+
+1. **Durchsatz**: Das bedeutet, wie viele Daten wirklich erfolgreich von einem Punkt zum anderen gelangen. Es geht nicht nur darum, wie viel insgesamt geschickt wird, sondern was tatsächlich ankommt und wie schnell das passiert.
+
+2. **Gleichmäßige Lastverteilung**: Das bedeutet, dass man darauf achten sollte, die Daten nicht nur über einen einzigen Weg oder einen bestimmten Router zu schicken. Wenn man einen Router mit zu vielen Daten überlastet, kann das zu Staus führen. Deshalb sollten die Daten auf mehrere Wege verteilt werden, damit alle Router gleichmäßig beschäftigt sind und die Informationen schneller ankommen.
+
+Das ist so ähnlich, wie wenn viele Autos auf einer Straße fahren. Wenn alle Autos auf einmal auf einer Straße sind, gibt es Staus. Wenn die Autos aber auf verschiedene Straßen verteilt sind, kommen sie schneller ans Ziel. So funktioniert das auch im Netzwerk!

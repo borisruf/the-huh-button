@@ -1,0 +1,5 @@
+Die Aussage besagt, dass wir in unseren Gesprächen über die Geschwindigkeit, mit der Daten übertragen werden, immer über Bit pro Sekunde gesprochen haben. Das sind einfach Zahlen, die zeigen, wie schnell Informationen weitergegeben werden.
+
+Jetzt gibt es aber einen besonderen Fall, wo die Geschwindigkeit in Bit pro Sekunde und die Anzahl der Signaländerungen gleich sind. Das passiert, wenn wir nur einfache digitale Informationen senden. Da spricht man von "binärer Übertragung", was bedeutet, dass die Daten nur aus den beiden Möglichkeiten 0 und 1 bestehen.
+
+Um es einfacher auszudrücken: Wenn wir Sachen über das Internet oder andere Netzwerke senden, sagen wir oft, wie schnell das geht, in „Bit pro Sekunde“. Aber wenn die Daten sehr einfach sind, das heißt nur aus 0 und 1 bestehen, können wir die Geschwindigkeit und die Art der Signaländerungen als das Gleiche betrachten.

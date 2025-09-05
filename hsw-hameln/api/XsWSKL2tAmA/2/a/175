@@ -1,1 +1,9 @@
-In Computernetzwerken gibt es verschiedene Bereiche, genannt Adressklassen. Diese Klassen unterscheiden sich darin, wie viele verschiedene Netzwerke sie bilden können, wie groß diese Netzwerke sein können und wie viele Computer in jedem Netzwerk sein können. Eine sogenannte "Subnetzmaske" ist ein Code, der für jedes dieser Netzwerke festlegt, wie es organisiert ist. Es ist so, als ob du eine Art Bauplan hättest, der dir sagt, wie viele Zimmer dein Haus haben kann und wo diese Zimmer platziert werden sollten.
+Okay! Lass uns das einfach erklären:
+
+Eine IP-Adresse ist wie die Adresse deines Hauses, damit andere Leute wissen, wo sie dich finden können. Jede IP-Adresse hat zwei Teile: einen Netzteil und einen Hostteil. Der Netzteil sagt, zu welchem Netzwerk du gehörst, und der Hostteil sagt, welcher Computer in diesem Netzwerk das ist.
+
+Die Subnetzmaske hilft uns zu verstehen, welcher Teil der IP-Adresse der Netzteil und welcher Teil der Hostteil ist. Man kann sie sich wie eine spezielle Brille vorstellen, die dir zeigt, wo die Grenze zwischen dem Netzwerk und dem Computer ist.
+
+Es gibt verschiedene Klassen von IP-Adressen (A, B und C), und jede Klasse hat ihre eigene Standard-Subnetzmaske. Zum Beispiel ist die Subnetzmaske für Klasse A "255.0.0.0". Das bedeutet, dass für diese Klasse viele große Netzwerke mit vielen Computern möglich sind. Bei Klasse B, die Subnetzmaske ist "255.255.0.0", ist die Anzahl der Netzwerke und Computer weniger als bei Klasse A, aber immer noch viel. Bei Klasse C, mit der Subnetzmaske "255.255.255.0", gibt es die kleinsten Netzwerke mit weniger Computern.
+
+Zusammengefasst: Die Subnetzmaske zeigt uns, wie groß ein Netzwerk ist und wie viele Computer darin sein können. 

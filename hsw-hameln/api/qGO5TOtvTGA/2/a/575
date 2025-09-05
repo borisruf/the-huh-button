@@ -1,0 +1,7 @@
+Die Aussage besagt, dass es verschiedene Wege gibt, um von Punkt A nach Punkt B zu gelangen. Dabei gibt es zwei Hauptmethoden, die wir gelernt haben:
+
+1. **Statische Routen**: Hierbei legt ein Mensch (Administrator) die genauen Wege fest. Er sagt dem Router, wie er die Daten schicken soll. Das ist wie eine festgelegte Straße, die immer gleich bleibt, aber wenn sich etwas ändert (zum Beispiel wenn die Straße gesperrt ist), muss der Mensch die Route wieder manuell ändern.
+
+2. **Dynamische Routen**: Hierbei arbeiten die Router zusammen, um selbst herauszufinden, welcher Weg am besten ist. Sie tauschen Informationen aus, um zu wissen, welche Straßen aktuell gut befahrbar sind und welche nicht. Das ist wie ein Verkehrsinformationssystem, das in Echtzeit den besten Weg findet.
+
+Im Grunde geht es also darum, wie man sicherstellt, dass Informationen (Datenpakete) von einem Ort (A) zu einem anderen Ort (B) geschickt werden, und dafür gibt es unterschiedliche Ansätze.

@@ -1,0 +1,5 @@
+In einfachen Worten geht es hier um Funknetzwerke, wie zum Beispiel WLAN. Wir haben viele Kanäle, die wir nutzen können, aber sie müssen auf eine bestimmte Weise benutzt werden. In einem speziellen Bereich, dem ISM-Band, stehen 14 Kanäle zur Verfügung, aber nur drei davon können nebeneinander verwendet werden. 
+
+Das ist wichtig, weil sich die Kanäle nicht überlappen dürfen. Wenn sie es tun, stören sie sich gegenseitig und es gibt Interferenzen. Das bedeutet, dass die Verbindung langsamer wird und die Datenübertragung nicht gut funktioniert.
+
+Man kann sich das wie zwei Leute vorstellen, die gleichzeitig sehr laut reden. Wenn sie sich überlappen, versteht man keinen von beiden gut. Aber wenn sie nacheinander sprechen, kann man alles klar hören. Daher ist es wichtig, dass die Funkkanäle richtig angeordnet sind, um Störungen zu vermeiden und eine gute Verbindung zu haben.

@@ -1,5 +1,9 @@
-Hier geht es darum, wie Computer miteinander kommunizieren, um Daten auszutauschen. Es gibt bestimmte Regeln und Verfahren, um sicherzustellen, dass die Daten korrekt und vollständig von einem Computer zum anderen gelangen. Dazu gehören zum Beispiel Bestätigungen, dass Daten angekommen sind, und spezielle Nummern, die jeder Dateneinheit gegeben werden, um sie in der richtigen Reihenfolge wieder zusammenzufügen. Es gibt auch ein besonderes Verfahren, das "Sliding-Window-Verfahren", das dabei hilft, den Datenaustausch zu organisieren.
+In dieser Passage geht es darum, wie Computer miteinander sprechen und Daten austauschen, besonders mit den Protokollen TCP und IP. 
 
-Da alles nach bestimmten Standards abläuft, können viele verschiedene Arten von Daten gleichzeitig über das Netzwerk geschickt werden. Jede Art von Daten hat ihren eigenen "Port", das ist so etwas wie ein spezieller Briefkasten auf dem Computer, der nur für diese Art von Daten ist. So kann der Computer die verschiedenen Arten von Daten auseinanderhalten und an die richtige Stelle weiterleiten.
+Hier ist die Aussage, die du erklärt haben möchtest, in sehr einfacher Sprache:
 
-Wenn zwei Computer zum ersten Mal miteinander Daten austauschen, führen sie zuerst eine Art "Handschlag" durch, um sich gegenseitig zu erkennen und sich auf die Kommunikation einzustellen. Dann können sie mit dem Datenaustausch beginnen.
+Wenn zwei Computer miteinander kommunizieren, passiert viel. Sie schicken sich durch ganz spezielle Nachrichten Informationen. Zum Beispiel bestätigen sie sich gegenseitig, dass sie Daten erhalten haben. Auch nummerieren sie die Daten in einer bestimmten Reihenfolge, damit klar ist, welche Nachricht zuerst kam. Das hilft, alles richtig zuordnen und verstehen.
+
+Außerdem gibt es ein Verfahren, das nennt sich "Sliding-Window". Dabei wird dafür gesorgt, dass nicht zu viele Daten auf einmal geschickt werden, damit alles reibungslos funktioniert. Man könnte sich das wie ein Fenster vorstellen, das sich öffnet und schließt, um eine bestimmte Menge an Daten zu verarbeiten.
+
+In einfachen Worten: Die Computer haben Regeln (Protokolle), um sicherzustellen, dass sie einander gut verstehen und die Informationen richtig senden und empfangen.

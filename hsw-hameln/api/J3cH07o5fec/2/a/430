@@ -1,0 +1,10 @@
+Die Aussage beschreibt, dass man zuerst schauen muss, wo und wie man Kabel in einem Gebäude verlegen kann. Man muss wissen, was bereits vorhanden ist (also die Ist-Analyse) und was man erreichen will (das Soll-Konzept). 
+
+Es geht um folgende Punkte:
+
+1. **Kabelverlegung**: Wo sind die Kabel und wie kann ich neue Kabel legen? Wo könnten Störungen auftreten?
+2. **Planung**: Ich muss planen, welche Geräte ich anschließen möchte. Dazu gehört die IP-Adressierung, also die Vergabe von Adressen für Computer, damit sie sich im Netzwerk finden können.
+3. **Netzwerkaufbau**: Ich muss auch überlegen, wie die verschiedenen Bereiche des Netzwerks verbunden werden, zum Beispiel wie man zwischen kleinen Netzwerken oder über große Entfernungen verbindet.
+4. **Prüfung**: Nach der Planung wird getestet, ob alles gut funktioniert. Wenn es Probleme gibt, kann man Änderungen vornehmen.
+
+Alles in allem: Bevor ich ein Netzwerk aufbaue, muss ich mir gut überlegen, was ich brauche und wie ich das umsetze.

@@ -1,0 +1,7 @@
+IP-Adressen sind wie die Hausnummern im Internet. Jedes Gerät, wie ein Computer, Smartphone oder Drucker, braucht eine eigene IP-Adresse, damit es im Netzwerk gefunden werden kann. Ein Gerät kann sogar mehrere IP-Adressen haben, wenn es verschiedene Möglichkeiten gibt, sich mit dem Internet zu verbinden, wie mit Kabel oder WLAN.
+
+Router sind spezielle Geräte, die viele IP-Adressen nutzen, weil sie helfen, Daten zwischen verschiedenen Netzwerken zu senden. Man kann sich das wie einen Postboten vorstellen, der verschiedene Adressen hat, um Briefe an verschiedene Orte zu liefern.
+
+Das OSI-Modell ist ein technisches Modell, das erklärt, wie verschiedene Teile eines Netzwerkes zusammenarbeiten. IP-Adressen gehören zu einer bestimmten Ebene, die Schicht 3 genannt wird. Diese Schicht kümmert sich um das Versenden von Daten zwischen Geräten.
+
+Es ist wichtig, zwischen verschiedenen Arten von IP-Adressen zu unterscheiden, weil sie unterschiedliche Funktionen in einem Netzwerk haben.

@@ -1,0 +1,1 @@
+ Das heißt, Rechner A möchte mit Rechner B kommunizieren, die IP-Adresse ist dabei die Konstante.   Wenn ich das jetzt aber verschicken möchte, dann kenne ich ja unter Umständen gar nicht die MAC-Adresse von meinem Rechner B, also schicke ich das Ganze erstmal an den nächsten Router und zwar ist dann die Quell-MAC-Adresse logischerweise meine.

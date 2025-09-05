@@ -1,0 +1,11 @@
+Die Aussage bedeutet Folgendes:
+
+Es gibt verschiedene Arten von IP-Adressen, die man für Computer-Netzwerke verwendet. Diese IP-Adressen werden in Klassen eingeteilt, je nachdem, wie sie aussehen. 
+
+Jede Klasse hat besondere Merkmale. In diesen Klassen unterscheidet man zwischen „ privaten IP-Adressen“ und „öffentlichen IP-Adressen“. 
+
+Öffentliche IP-Adressen sind einzigartig im Internet. Sie werden für Computer verwendet, die direkt im Internet erreichbar sind. 
+
+Private IP-Adressen sind für Netzwerke gedacht, die nicht im Internet sind, wie zum Beispiel dein Zuhause oder ein Büro. Diese privaten Adressen kann jeder frei benutzen, ohne sich um eine besondere Genehmigung kümmern zu müssen. 
+
+Die Idee, private IP-Adressen zu schaffen, kam auf, weil wir nicht genug öffentliche IP-Adressen für alle Computer im Internet haben. So können viele Geräte in einem privaten Netzwerk mit denselben privaten IP-Adressen arbeiten, ohne dass es zu einer „Verschwendung“ von öffentlichen IP-Adressen kommt.

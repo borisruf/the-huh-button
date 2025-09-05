@@ -1,1 +1,9 @@
-Ein Computer hat eine Adresse, das nennt man IP-Adresse. Damit wissen andere Computer, wo sie Daten hinschicken sollen. Aber ein Computer hat viele verschiedene Programme, und die alle sollen verschiedene Daten bekommen. Damit das klappt, gibt es zusätzlich zu IP-Adressen noch Portnummern. Jedes Programm bekommt seine eigene Portnummer. Wenn jetzt Daten an den Computer geschickt werden, dann sagen die IP-Adresse und die Portnummer zusammen (man nennt das auch Socket), wohin genau die Daten sollen: nämlich zu dem richtigen Programm auf dem richtigen Computer.
+Okay, lass es uns einfach erklären:
+
+Wenn Daten über das Internet gesendet werden, haben sie eine Adresse, die IP-Adresse. Das ist wie die Adresse von einem Haus, wo die Daten hingehen. Aber manchmal brauchen wir noch mehr Informationen, damit die Daten wissen, wohin sie genau sollen, zum Beispiel, zu welchem Raum in dem Haus.
+
+Hier kommen die Portnummern ins Spiel. Man kann sich die Portnummern wie verschiedene Türen oder Räume in einem Haus vorstellen. Jede Anwendung auf einem Computer (wie ein Webbrowser oder ein Spiel) hat ihre eigene Tür, also ihre eigene Portnummer. Wenn Daten an die IP-Adresse eines Computers gesendet werden, helfen die Portnummern dabei, die Daten an die richtige Anwendung auf diesem Computer zu schicken. 
+
+Wenn man die IP-Adresse und die Portnummer zusammen nimmt, nennt man das ein "Socket". Ein Socket hilft, die Daten zu ordnen und dafür zu sorgen, dass sie beim richtigen Programm ankommen. 
+
+Also, um es einfach zu sagen: Die IP-Adresse sagt, wo der Computer ist, und die Portnummer sagt, zu welchem Programm auf diesem Computer die Daten gehen sollen.

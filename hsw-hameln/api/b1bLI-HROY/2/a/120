@@ -1,0 +1,13 @@
+Die Aussage beschreibt, wie Kabel für das Internet oder das Netzwerk in einem Gebäude verlegt sind. 
+
+1. **Tertiär-Verkabelung**: Das bedeutet, dass die Kabel von einer Wanddose, also einem Anschluss, bis zu einem Gerät wie einem Computer führen.
+
+2. **Kabelverteilung**: Hinter der Wanddose sind die Kabel miteinander verbunden und gehen zu einer Verteilungsstelle.
+
+3. **Patchfeld**: Dort werden orangene Kabel auf ein spezielles Feld gelegt. Das ist wie eine Art Platz, wo man die Kabel ordentlich anordnen kann. 
+
+4. **Einzelne Adern**: In den Kabeln sind viele kleine Drähte (Adern) drin. Diese werden auf dem Patchfeld getrennt und sortiert.
+
+5. **Cat7-Kabel**: Auf der Vorderseite des Patchfeldes kann man dann andere Kabel, die für das Netzwerk genutzt werden (hier Cat7-Kabel genannt), einfach anschließen.
+
+Zusammengefasst zeigt diese Szene, wie man Kabel sorgfältig anordnet, damit alles gut funktioniert und ordentlich aussieht. Es ist wichtig, das ganze System regelmäßig zu überprüfen, damit es nicht durcheinander gerät.

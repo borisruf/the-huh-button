@@ -1,0 +1,5 @@
+In dieser Aussage geht es darum, wie man Informationen von einem Computer (Bits) in ein Signal umwandelt, das über Kabel gesendet werden kann. Es wird erklärt, dass bei bestimmten Methoden, wie dem Return-to-Zero-Verfahren, es schwierig ist, den Takt zu erkennen, weil das Signal immer wieder auf einen bestimmten Wert zurückkehrt, was viel Gleichstrom bedeutet. 
+
+Wenn das Signal aber oft wechselt, können wir den Takt besser erkennen. Das bedeutet, wir wissen besser, wann etwas passieren soll. Das Non-Return-to-Zero-Verfahren macht das einfacher, da es auch bei Nullen einen kleinen Wert hat, aber immer noch nicht perfekt ist, weil es immer noch gleichbleibende Werte geben kann.
+
+Die Lösung ist, dass man Signalwechsel einführt, sodass das Signal regelmäßig wechselt, was uns hilft, sowohl den Takt zu erkennen als auch die Probleme mit dem Gleichstrom zu vermeiden. Wichtig ist, dass wir uns nur noch darauf konzentrieren müssen, wenn sich das Signal ändert, nicht auf die genauen Werte.

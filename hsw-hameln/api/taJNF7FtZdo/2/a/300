@@ -1,0 +1,11 @@
+Die Aussage beschreibt, wie Daten in einem Netzwerk von einem Ort zu einem anderen geschickt werden. 
+
+Stell dir vor, du schickst einen Brief. Du musst wissen, wohin der Brief gehen soll. Wenn er bei einem Postamt ankommt, schaut der Postbeamte, ob er direkt zum Ziel schicken kann. Wenn nicht, schaut er in ein Buch, um zu sehen, wo er den Brief als Nächstes hinschicken soll.
+
+In einem Computer-Netzwerk passiert etwas Ähnliches. Wenn Daten (wie ein Paket) zu einem Router kommen, schaut der Router zuerst, ob er das Ziel ist. Wenn ja, gibt er die Daten an das Ziel weiter. Wenn nicht, schaut er in seine "Routing-Tabelle". In dieser Tabelle steht, wohin das Datenpaket als Nächstes geschickt werden muss, also an welchen anderen Router. 
+
+Die Router arbeiten wie Kreuzungen auf einer Straße, und sie helfen dabei, die Daten den schnellsten und besten Weg zu finden. Manchmal sind bestimmte Wege überlastet, und die Router müssen entscheiden, ob sie eine andere Route wählen, damit die Daten schnell ankommen. 
+
+Die wichtigen Informationen, die die Router brauchen, sind die Zieladresse (wie die IP-Adresse), die Entfernung zum Ziel (ausgedrückt in "Hops", das ist, wie oft die Daten durch einen Router geleitet werden) und welcher Router der nächste Schritt ist. 
+
+So helfen die Router, die Daten effizient und schnell von einem Ort zum anderen zu transportieren.

@@ -1,0 +1,7 @@
+Die Aussage erklärt, dass wir bei der Unterteilung eines großen Netzwerks in kleinere Teile, die wir "Subnetze" nennen, darauf achten müssen, dass wir bestimmte Adressen nicht verwenden dürfen.
+
+Jedes Netzwerk hat eine spezielle Adresse, die wir "Netzwerkadresse" nennen. Diese Adresse wird genutzt, um das gesamte Netzwerk zu identifizieren. Außerdem gibt es eine letzte Adresse, die "Broadcast-Adresse" genannt wird. Diese wird gebraucht, um eine Nachricht an alle Geräte im Netzwerk zu senden.
+
+Die ersten und letzten Adressen in einem Subnetz sind also wichtig und dürfen nicht für Geräte verwendet werden. Das heißt, wenn wir aus einem großen Netzwerk kleinere Netzwerke machen, müssen wir zwei Adressen abziehen, eine für die Netzwerkadresse und eine für die Broadcast-Adresse. Dadurch haben wir weniger Adressen, die wir den einzelnen Geräten im Netzwerk zuweisen können.
+
+Zusammengefasst: Wenn wir ein Netzwerk teilen, können wir die erste und die letzte Adresse in der Gruppe nicht verwenden, weil sie spezielle Funktionen haben. Deshalb müssen wir zwei Adressen abziehen, um zu wissen, wie viele Geräte wir wirklich anschließen können.

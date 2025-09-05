@@ -1,0 +1,9 @@
+In dieser Aussage geht es um verschiedene Arten von Funknetzen, die sich nach der Entfernung richten, über die sie Daten übertragen können. 
+
+1. **Kleine Bereiche (z.B. Zuhause)**: Dies nennt man Wireless Personal Area Network (PAN). Ein Beispiel ist Bluetooth, das funktioniert gut in einer Entfernung von etwa 10 Metern. Es kann Daten mit Geschwindigkeiten von 2,1 bis 24 Megabit pro Sekunde übertragen.
+
+2. **Größere Bereiche (z.B. in einem Gebäude)**: Hier haben wir WLAN (Wireless Local Area Network). Das hat sich im Laufe der Jahre verbessert. Früher war die Geschwindigkeit nur 5 bis 6 Megabit pro Sekunde, aber jetzt kann es bis zu 600 Megabit pro Sekunde erreichen.
+
+3. **Noch größere Bereiche (z.B. ganze Städte)**: Hier kommt das Wireless Metropolitan Area Network (WMAN) ins Spiel. Ein Beispiel dafür ist WiMAX. Es kann theoretisch bis zu 1 Gigabit pro Sekunde übertragen. Solche Netzwerke sind nützlich in Städten, wo man eine schnellere Verbindung braucht.
+
+Zusammengefasst bedeutet die Aussage, dass es verschiedene Funknetze gibt, die für unterschiedliche Entfernungen und Anwendungsbereiche gedacht sind, und dass WiMAX besonders schnell ist, aber hauptsächlich in städtischen Gebieten eingesetzt wird.

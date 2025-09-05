@@ -1,0 +1,9 @@
+Okay, lass mich das einfach erklären.
+
+Es gibt zwei Arten von IP-Adressen: private und öffentliche. 
+
+**Private IP-Adressen** sind die Adressen, die du in deinem Zuhause oder in einer Firma nutzen kannst. Zum Beispiel, wenn du einen Router hast, vergibt er diesen Geräten in deinem Netzwerk private IP-Adressen. Diese privaten Adressen sind für das Internet nicht sichtbar und können von anderen überall genutzt werden, ohne dass es einen Konflikt gibt. Das bedeutet, dass dein Nachbar die gleiche private Adresse haben kann wie du, und das ist okay, weil sie nicht im Internet gesehen werden.
+
+**Öffentliche IP-Adressen** sind die Adressen, die im Internet sichtbar sind. Wenn du ins Internet gehst, nutzt dein Anbieter (zum Beispiel dein Internetanbieter) eine öffentliche IP-Adresse, die von einer speziellen Organisation, der Internet Assigned Numbers Authority (IANA), vergeben wird. Diese Adressen werden zentral verwaltet, und die Anbieter geben sie an ihre Kunden weiter.
+
+Zusammenfassend: Private IP-Adressen benutzt man innerhalb eines Netzwerks, und sie sind nicht im Internet sichtbar. Öffentliche IP-Adressen sind wichtig für die Verbindung mit dem Internet und werden von einer festgelegten Organisation vergeben.

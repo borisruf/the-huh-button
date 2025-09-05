@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es sehr wichtig ist, dass jeder, der an einem Projekt arbeitet, Aufzeichnungen darüber macht, was er tut. Diese Aufzeichnungen helfen später, wenn es Probleme gibt. Wenn es zum Beispiel Tests gibt, um zu prüfen, ob das Netzwerk gut funktioniert, müssen die Ergebnisse dieser Tests aufgeschrieben werden.
+
+Wenn wir das Netzwerk unter Belastung testen, bedeutet das, dass wir absichtlich viel Nachfrage erzeugen, um zu sehen, ob das Netzwerk trotzdem gut arbeitet. Wir wollen sicherstellen, dass es auch dann noch alles richtig macht, wenn viele Leute oder Geräte gleichzeitig darauf zugreifen.
+
+Zusammengefasst: Jeder muss alles gut dokumentieren, damit man später nachvollziehen kann, was gemacht wurde und wie die Ergebnisse ausgefallen sind. Das hilft besonders, wenn es später Fragen oder Probleme gibt.

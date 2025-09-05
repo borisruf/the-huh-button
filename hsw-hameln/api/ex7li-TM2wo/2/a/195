@@ -1,0 +1,7 @@
+Wenn wir sicherstellen wollen, dass unsere Daten richtig sind, müssen wir zusätzliche Informationen hinzufügen. Diese zusätzlichen Informationen helfen uns, Fehler zu entdecken, die entstehen können, wenn die Daten übertragen werden. Wir können das so sehen:
+
+Stell dir vor, du hast eine Tüte mit bunten Murmeln. Du zählst sie und weißt, dass du 10 Murmeln hast. Um sicherzugehen, dass alle Murmeln in der Tüte sind, kannst du etwas dazu tun. Zum Beispiel, bevor du die Tüte schließt, schreibst du auf ein Blatt Papier "10 Murmeln". Dieses Blatt ist deine zusätzliche Information.
+
+Wenn du die Tüte später wieder öffnest und nachzählst, siehst du, dass nur 8 Murmeln drin sind. Du weißt, dass etwas nicht stimmt. Die Zahl auf dem Blatt (10) hilft dir herauszufinden, dass es einen Fehler gegeben hat.
+
+In der Welt der Daten ist das ähnlich. Wir fügen den Daten, die wir senden oder speichern, Prüf-Informationen hinzu. Diese Informationen nennen wir Prüfsequenzen oder Prüf-Bits. Sie helfen uns zu erkennen, ob sich etwas an den ursprünglichen Daten verändert hat. Wenn wir diese Prüf-Informationen nicht haben, wissen wir nicht, ob die Daten korrekt sind oder nicht.

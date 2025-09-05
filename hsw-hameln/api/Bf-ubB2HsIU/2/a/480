@@ -1,9 +1,5 @@
-Wir betrachten Verfahren für Netzwerke, besonders das sogenannte TCP und IP Protokoll. Wir wollen unabhängig sein von der Netzwerktechnik und den Hosts und wir wollen eine möglichst gute Verbindung erreichen. 
+In diesem Text geht es darum, wie Computer über Netzwerke miteinander kommunizieren. Normalerweise, wenn ein Computer etwas sendet, wartet er darauf, dass der andere Computer bestätigt, dass er die Nachricht erhalten hat. Das nennt man "Stop-and-Wait". Es ist so, als würde man immer wieder nachfragen, ob die Nachricht angekommen ist, bevor man die nächste schickt. 
 
-Das TCP Protokoll sorgt dafür, dass Daten sicher von einem Punkt zu einem anderen gesendet werden. Dabei guckt man, ob die Daten angekommen sind und ob sie korrekt sind.
+Aber es gibt ein effizienteres Verfahren, das "Sliding-Window-Verfahren". Hierbei kann der sendende Computer mehrere Nachrichten gleichzeitig senden, ohne immer auf die Bestätigung einer einzelnen Nachricht warten zu müssen. So wird der Datenaustausch schneller und effizienter, weil nicht ständig gewartet werden muss.
 
-Es gibt auch sogenannte Portnummern. Die sind dafür da, dass Daten zu dem richtigen Computer und dem richtigen Programm geschickt werden. Man kann sich das wie Adressen vorstellen: Die IP-Adresse ist wie die Adresse vom Haus und die Portnummer ist wie die Wohnung.
-
-Um Daten zwischen zwei Computern zu senden, braucht es erstmal eine Verbindung. Diese Verbindung wird mit einem "Handshake" hergestellt. Der eine Computer schickt ein Signal, der andere bestätigt es und schickt auch ein Signal. Dann bestätigt der erste Computer wieder und dann ist die Verbindung da.
-
-Nach Möglichkeit wollen wir aber nicht immer nur ein Stück Daten senden und dann warten, bis sie angekommen sind. Das ist nicht sehr effizient. Besser wäre es, wenn wir viele Datenstücke auf einmal senden könnten und dann später bestätigen, ob sie angekommen sind. Das nennt man das Sliding-Window-Verfahren.
+Zusammengefasst: Statt bei jeder Nachricht zu warten, sendet man mehrere Nachrichten gleichzeitig, damit die Kommunikation schneller und besser funktioniert.

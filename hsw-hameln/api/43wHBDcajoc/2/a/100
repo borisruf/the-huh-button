@@ -1,0 +1,9 @@
+In diesem Abschnitt geht es um verschiedene Arten von Funknetzwerken, die je nach Entfernung funktionieren. 
+
+1. **Kurze Entfernung (Personal Area Network - PAN)**: Hier sprechen wir über Netzwerke wie Bluetooth, die zum Beispiel innerhalb eines Raumes oder einer kurzen Distanz von etwa 10 Metern genutzt werden können. Bei Bluetooth kann man Daten mit Geschwindigkeiten von 2,1 bis 24 Megabit pro Sekunde übertragen.
+
+2. **Mittlere Entfernung (Wireless Local Area Network - WLAN)**: Das WLAN, bekannt seit 1997, hat sich weiterentwickelt. Anfangs konnte es nur 5 bis 6 Megabit pro Sekunde übertragen, jetzt kann es, mindestens theoretisch, bis zu 600 Megabit pro Sekunde erreichen.
+
+3. **Größere Entfernung (Wireless Metropolitan Area Network - WMAN)**: Wenn man über größere Entfernungen in Städten spricht, kommt das WMAN ins Spiel. Hier werden andere Standards genutzt, die in der IEEE 802 Reihe festgelegt sind.
+
+Zusammengefasst: Wir haben Netzwerke für kurze Entfernungen (wie Bluetooth), für mittlere Entfernungen (wie WLAN), und für größere Entfernungen in Städten (wie WMAN).

@@ -1,0 +1,7 @@
+Die Aussage handelt von der Sicherheit in Computernetzwerken. Stell dir vor, das Netzwerk ist ein großes Haus und die Firewall ist die Tür. 
+
+Wenn die Tür, also die Firewall, offen ist für bestimmte Dinge, zum Beispiel für Webseiten wie Google oder Facebook, dann können damit auch viele Daten rein. Diese Daten kommen über einen speziellen Eingang, den wir Port 80 nennen.
+
+Jetzt ist es wichtig, dass wir genau schauen, was da durch die Tür kommt. Wir müssen herausfinden, ob die Daten in Ordnung sind oder ob es böse Sachen gibt, die wir nicht wollen, wie Viren oder schädliche Programme. Manchmal gibt es spezielle Muster in den Daten, die zeigen, dass etwas kaputt oder gefährlich sein könnte. 
+
+Wenn wir diese gefährlichen Muster erkennen, können wir sie stoppen, damit sie nicht ins Haus (also ins Netzwerk) kommen. Das ist wichtig, um sicherzustellen, dass nur gute Daten in unser Netzwerk gelangen.

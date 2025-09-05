@@ -1,0 +1,10 @@
+Okay, ich werde die Aussage und die Erklärung einfach machen.
+
+Wenn ein Computer in einem Netzwerk eine Nachricht an alle anderen Computer schicken möchte, nennt man das einen "Broadcast". Das Problem dabei ist, dass diese Nachricht sich durch das gesamte Netzwerk verbreitet – über alle Verbindungselemente wie Switches hinweg. Das kann viel Verkehr im Netzwerk verursachen und es wird vielleicht schwierig, wichtige Nachrichten zu finden, weil alle durcheinander sprechen.
+
+Um dieses Problem zu lösen, brauchen wir andere Geräte, die helfen, das Netzwerk in kleinere Teile zu teilen. Diese Teile nennt man "Broadcast-Domänen". Ein Router zum Beispiel kann diese Teile schaffen. Wenn ein Computer etwas senden möchte, kann der Router entscheiden, ob die Nachricht nur in einem Teil des Netzwerks bleibt oder auch in andere Teile geschickt wird. So wird verhindert, dass zu viele Broadcasts im gesamten Netzwerk passieren, was das Netzwerk schneller und effizienter macht.
+
+Zusammengefasst:
+- Ein Broadcast schickt Nachrichten an alle im Netzwerk.
+- Das kann zu viel Verkehr im Netzwerk führen.
+- Um das Problem zu lösen, benutzen wir Router, die das Netzwerk in kleinere Teile aufteilen.

@@ -1,0 +1,9 @@
+Die Aussage sagt, dass es wichtig ist, nicht nur über die Kabel zu denken, wenn man ein Netzwerk aufbaut, sondern auch über die Teile, die die Kabel verbinden (wie Stecker und Verteiler). Man muss sich also Gedanken über die gesamte Struktur machen. 
+
+Es gibt drei verschiedene Ebenen, wenn man das Netzwerk anschaut: 
+
+1. **Primär (Gebäude zu Gebäude)**: Hier sind die Entfernungen größer, oft mehrere hundert Meter. 
+2. **Sekundär (in einem Gebäude)**: Diese Verbindungen sind meist bis zu 500 Meter lang, also zwischen den Etagen. 
+3. **Tertiär (von der Wanddose zum Endgerät)**: Diese sind am kürzesten, etwa 100 Meter.
+
+Bei diesen verschiedenen Ebenen sind auch verschiedene Arten von Kabeln wichtig, und man muss sicherstellen, dass alles gut zusammenpasst, damit die Verbindung schnell und stabil ist.

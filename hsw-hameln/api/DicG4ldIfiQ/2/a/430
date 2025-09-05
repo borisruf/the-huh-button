@@ -1,0 +1,7 @@
+Die Aussage bespricht, dass bei der Übertragung von Signalen, wie zum Beispiel in Kabeln, wichtige Probleme auftreten können. Damit die empfangene Nachricht genau wie die gesendete Nachricht bleibt, ist es wichtig, bestimmte Teile des Signals gut zu verstehen und richtig zu verarbeiten.
+
+Es gibt dafür eine Formel, die erklärt, wie groß die Bandbreite (also der Bereich, in dem Informationen übertragen werden können) und die Übertragungsrate (wie schnell Informationen gesendet werden) zusammenhängen.
+
+Im Kontext geht es darum, dass verschiedene Störungen auftreten können, wie Signalverluste oder Geräusche. Zum Beispiel, wenn ein Signal über ein Kupferkabel geschickt wird, wird es schwächer (das nennt man Dämpfung) und es kann zusätzlich Rauschen geben, das das Signal stört.
+
+Wenn das Signal zu stark reduziert wird, kann es schwierig sein, das ursprüngliche Signal beim Empfang wiederherzustellen. Es ist wichtig, die physikalischen Eigenschaften der Materialien zu verstehen, um diese Probleme zu lösen. Die Formel hilft dabei zu bestimmen, wie viel Bandbreite benötigt wird, um eine bestimmte Datenrate zu erreichen, und ist somit ein Schlüssel, um die Qualität der Signalübertragung zu gewährleisten.

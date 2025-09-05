@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass das Voice-VLAN mehr "Platz" für Sprachdaten bekommt als das Daten-VLAN. Man kann sich das vorstellen wie zwei Straßen: Die eine Straße ist für Autos (Voice-VLAN, also die Telefongespräche) und die andere für Lastwagen (Daten-VLAN, also Daten wie Webseiten). 
+
+Wenn es auf der Straße für die Autos mehr Platz gibt, können die Autos schnell fahren und Staus vermeiden. Wenn man die beiden Straßen getrennt hält, kann der Verkehr für Autos nicht durch die Lastwagen langsamer werden.
+
+Zusätzlich kann man in jedem VLAN unterschiedliche "Hausnummern" (IP-Adressen) verwenden, sodass man nicht durcheinanderkommt, wenn man die Telefone und Computer verwaltet. So sorgt man dafür, dass die Sprachkommunikation gut funktioniert und nicht von anderen Daten gestört wird.

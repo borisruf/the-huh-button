@@ -1,0 +1,9 @@
+Die Aussage erklärt, wie man Informationen über ein Signal überträgt. 
+
+Stell dir vor, wir haben einen Fluss von Informationen, der aus Einsen und Nullen besteht. Um diese Informationen über ein Kabel zu senden, müssen wir sie in ein Signal umwandeln, das die Einsen und Nullen darstellt.
+
+In einem bestimmten Verfahren (dem "Manchester-Verfahren") wird die Eins durch einen bestimmten Signalwechsel dargestellt (eine fallende Flanke), und die Null durch einen anderen Wechsel (eine steigende Flanke). Das bedeutet, wenn das Signal von hoch nach niedrig springt, zeigt es eine Eins, und wenn es von niedrig nach hoch springt, zeigt es eine Null.
+
+Das Besondere daran ist, dass wir durch diese Wechsel im Signal „sehen“ können, was die Einsen und Nullen sind, auch wenn es Störungen im Signal gibt. Es kommt nicht darauf an, wie stark das Signal ist, sondern nur darauf, wann es wechselt. 
+
+Am Ende ist das auch eine umgekehrte Art der Darstellung: Wenn wir die Einsen und Nullen vertauschen, bleibt die Grundidee die gleiche - eine Eins könnte auch als steigender Wechsel und eine Null als fallender Wechsel angezeigt werden. Das hilft, die Informationen klar über das Kabel zu senden.

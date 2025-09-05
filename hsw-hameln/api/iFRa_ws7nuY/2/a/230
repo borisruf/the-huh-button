@@ -1,0 +1,9 @@
+In sehr einfacher Sprache gesagt:
+
+Wir haben Informationen, die wir übertragen möchten, wie zum Beispiel digitale Daten. Um diese Informationen zu senden, verwandeln wir sie in ein Signal. Ein Signal ist wie eine Welle, die wir über einen Ort und eine Zeit senden. Es gibt verschiedene Einflüsse, die auf diese Welle wirken können, während sie auf dem Weg zum Empfänger ist. 
+
+Wenn die Welle ankommt, sieht sie vielleicht anders aus als die, die wir geschickt haben. Das ist in Ordnung, denn wir müssen nur herausfinden, was die ursprünglichen Informationen waren. Um das zu machen, schauen wir uns die Welle an und versuchen, sie zurück in die ursprünglichen Daten zu verwandeln.
+
+Um unser Signal zu erstellen, nehmen wir die Daten und messen sie an bestimmten Punkten in der Zeit. Wir machen das immer mit dem gleichen Abstand – das nennt man gleichmäßige Abstände. Damit können wir die Informationen digitalisieren. Wir können auch die Höhe oder Stärke der Welle messen. Wenn wir sowohl die Zeit als auch die Höhe messen, bekommen wir ein ganz digitales Signal, das wir dann übertragen können.
+
+So funktioniert die Übertragung: Wir machen aus unseren Daten ein Signal, und das senden wir über einen Kanal. Auf diesem Kanal kann es Störungen geben, die das Signal verändern. Wenn das Signal beim Empfänger ankommt, sieht es vielleicht anders aus, und wir müssen herausfinden, was die ursprüngliche Nachricht war.

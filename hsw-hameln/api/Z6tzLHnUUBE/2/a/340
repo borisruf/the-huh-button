@@ -1,0 +1,15 @@
+In diesem Text geht es darum, wie Computer im Netzwerk miteinander kommunizieren. Dafür gibt es verschiedene Adressen und Protokolle, die helfen, Daten zu senden. 
+
+1. **IP-Adressen und MAC-Adressen**: IP-Adressen sind Nummern, die Computern helfen, sich im Internet zu finden. Jede IP-Adresse gehört zu einer physikalischen Adresse, die MAC-Adresse genannt wird. Diese MAC-Adresse ist wie eine eindeutige Kennung für jedes Gerät im Netzwerk.
+
+2. **ARP-Protokoll**: Um herauszufinden, welche MAC-Adresse zu einer IP-Adresse gehört, verwenden die Computer das ARP-Protokoll. Das ist ein System, das fragt: „Welche MAC-Adresse gehört zu dieser IP-Adresse?“ und Antworten darauf gibt.
+
+3. **Datenpakete**: Wenn Daten von einem Computer zum anderen geschickt werden, werden sie in "Pakete" aufgeteilt. Jedes Paket hat darin Informationen, woher es kommt und wohin es geht, ähnlich wie bei einem Brief.
+
+4. **Fragmentierung**: Manchmal sind die Pakete zu groß, um über bestimmte Netzwerke geschickt zu werden. In solchen Fällen werden sie in kleinere Stücke aufgeteilt – das nennt man Fragmentierung. Diese Stücke sind dann leicht und passen durch das Netzwerk.
+
+5. **Verschiedene Netzwerke, verschiedene Größen**: Jedes Netzwerk hat eine unterschiedliche maximale Größe von Daten, die es auf einmal versenden kann (MTU). Manchmal muss das ursprüngliche Paket verkleinert werden, um durch verschiedene Netzwerke zu passen.
+
+6. **Wireshark**: Dies ist ein Programm, mit dem man sehen kann, was in einem Netzwerk passiert. Hier kann man beobachten, wie ARP-Protokolle in Form von Paketen arbeiten.
+
+Insgesamt erklärt der Text, wie Computer über das Internet kommunizieren, indem sie Adressen zuordnen und Datenpakete versenden und empfangen.

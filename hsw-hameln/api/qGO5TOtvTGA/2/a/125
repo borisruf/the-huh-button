@@ -1,0 +1,5 @@
+Die Aussage sagt, dass man etwas unterscheiden muss. IP (das steht für Internet-Protokoll) gehört zu einer bestimmten Ebene im Netzwerkmodell, genau wie die Routing-Protokolle. 
+
+Das bedeutet, dass sowohl IP als auch die Regeln, die Router benutzen, um Daten von einem Ort zum anderen zu schicken, auf der gleichen Ebene arbeiten. Diese Ebene ist wichtig, weil sie bestimmt, wie die Kommunikation zwischen verschiedenen Netzwerken funktioniert.
+
+Zusammengefasst: IP und die Routing-Protokolle sind beide wichtig für das Senden von Daten und arbeiten auf der gleichen Ebene im Netzwerk.

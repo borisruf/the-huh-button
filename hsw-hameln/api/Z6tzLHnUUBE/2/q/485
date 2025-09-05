@@ -1,0 +1,1 @@
+ Das heißt, meine Quell-IP und Ziel-IP bleiben nach wie vor gleich, aber die Router ersetzen bei der Übertragung jeweils ihre MAC-Adressen durch ihre eigenen Informationen.  Und irgendwann kommt das Ganze dann natürlich bei Rechner B an.

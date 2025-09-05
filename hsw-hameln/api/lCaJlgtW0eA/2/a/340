@@ -1,0 +1,7 @@
+In dem Text geht es darum, wie verschiedene Geräte in einem Netzwerk miteinander verbunden werden und wie sie Informationen austauschen. 
+
+Stell dir vor, du hast zwei Computer, A und B, und du möchtest, dass sie miteinander reden. Es gibt einen „Switch“ – das ist ein Gerät, das hilft, die Informationen zwischen den Computern zu leiten. 
+
+Wenn Computer A etwas an Computer B schicken möchte, sendet er die Nachricht zuerst an den Switch. Der Switch hat eine Liste mit Informationen, die zeigt, wo jeder Computer angeschlossen ist – das nennt man eine „MAC-Adresstabelle“. Der Switch guckt also in seiner Liste nach und findet heraus, über welchen Anschluss (Port) er Computer B erreichen kann.
+
+Wenn der Switch weiß, wo sich Computer B befindet, kann er die Nachricht dorthin weiterleiten. Aber das ist nicht alles; der Switch muss auch wissen, wie die Antwort von Computer B wieder zu Computer A kommt. Dafür braucht er auch die Informationen, wo Computer A angeschlossen ist. So sorgt der Switch dafür, dass die Kommunikation zwischen A und B klappt, egal in welche Richtung die Informationen fließen.

@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, wie Computer in einem Netzwerk miteinander kommunizieren. 
+
+1. **Router und IP-Adressen**: Zwei Router müssen miteinander reden, um Daten zwischen zwei Netzwerken zu senden. Jeder Router braucht eine eigene Adresse (IP-Adresse), damit die Daten wissen, wohin sie gehen sollen.
+
+2. **Subnetz und IP-Adressen sparen**: Wenn man viele IP-Adressen hat, können einige davon ungenutzt bleiben. Deshalb ist es besser, so wenig Adressen wie möglich zu verwenden, damit wir nichts verschwenden. Eine „Subnetz-Maske“ mit „Slash 30“ hilft dabei, genau zwei IP-Adressen zu bekommen – genug für die beiden Router, um sich miteinander zu verbinden, ohne zu viele Adressen zu verschwenden. 
+
+Zusammengefasst: Wenn zwei Router sich verbinden, brauchen sie jeweils eine IP-Adresse, und man versucht, nur die nötigen Adressen zu verwenden, um Platz für andere Geräte im Netzwerk zu sparen.

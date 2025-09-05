@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass die Verbindung, die zum Senden von Informationen genutzt wird, nicht voll ausgelastet ist. Das heißt, man könnte sie viel besser nutzen. 
+
+Wenn ein Sender immer nur ein kleines Stück Information (ein Paket) sendet und dann wartet, bis er eine Bestätigung (eine "Acknowledge") erhält, geht viel Zeit verloren. Das ist besonders schlimm, wenn die Verbindung sehr lange Strecken überwinden muss, wie z.B. über den Atlantik. 
+
+Um die Verbindung besser auszunutzen, kann man eine Methode namens "Pipelining" verwenden. Dabei sendet man mehrere kleine Pakete hintereinander, ohne auf die Bestätigung für jedes einzelne Paket zu warten. Stattdessen wartet man auf eine Bestätigung für eine Gruppe von Paketen. So bleibt die Verbindung aktiver und die Zeit wird besser genutzt.

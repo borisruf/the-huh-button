@@ -1,1 +1,5 @@
-Es geht darum, wie zwei Computer Daten übers Internet senden können. TCP und IP sind wichtig dafür, weil sie die Adressen und Absender/ Empfänger der Daten festlegen und dafür sorgen, dass die Daten richtig und vollständig ankommen. In dem Beispiel fängt der Computer, der die Daten verschickt, an indem er ein Signal (das Sync-Zeichen) an den empfangenden Computer schickt. Dies ist der erste Teil eines "Handshakes", einer Reihe von Schritten, die sie machen, um eine Verbindung aufzubauen und Daten zu senden.
+Okay, ich erkläre das in sehr einfacher Sprache:
+
+Wenn zwei Computer miteinander sprechen wollen, müssen sie sich zuerst "unterhalten", um herauszufinden, wie sie die Verbindung herstellen können. Dabei gibt es ein wichtiges erstes Zeichen, das sie senden. Dieses Zeichen nennt man "Sync-Zeichen".
+
+Das ist wie eine Art Hallo, das der Computer, der die Verbindung starten möchte, zuerst an den anderen Computer schickt. Es ist der erste Schritt, um sicherzustellen, dass sie beide bereit sind, Informationen auszutauschen. Wenn der andere Computer das Sync-Zeichen bekommt, kann er antworten und sagen, dass er auch bereit ist. Danach kann die Kommunikation richtig beginnen.

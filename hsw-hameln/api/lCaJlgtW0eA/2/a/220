@@ -1,0 +1,9 @@
+Die 5-4-3-Regel ist eine einfache Regel für Netzwerke. Sie hilft sicherzustellen, dass das Netzwerk gut funktioniert, ohne dass es zu viele Probleme gibt. 
+
+Hier ist die Regel ganz einfach erklärt:
+
+1. **5** bedeutet, dass es in einem Netzwerk höchstens 5 Segmente geben sollte. Ein Segment ist ein Teil des Netzwerks, wo Geräte miteinander verbunden sind.
+2. **4** bedeutet, dass es in diesen 5 Segmenten höchstens 4 Hubs oder Repeater geben darf. Diese Geräte helfen, das Signal weiterzuleiten.
+3. **3** bedeutet, dass aus diesen 5 Segmenten höchstens 3 Segmente direkt miteinander verbunden sein dürfen. Dies verhindert, dass sich die Daten zu sehr stauen und die Verbindung langsam wird.
+
+Warum ist diese Regel wichtig? Wenn zu viele Geräte oder Verbindungen da sind, kann das Netzwerk langsamer werden oder sogar zusammenbrechen. Die 5-4-3-Regel hilft, ein ausgewogenes und schnelles Netzwerk zu schaffen.

@@ -1,0 +1,1 @@
+0 Slash27.   Wir haben jetzt also 27 Bits in unserer Subnetzmaske und daran sehen wir schon, wir haben von den ursprünglichen Nullen, die wir im Hostanteil der Subnetzmaske hatten, uns jetzt drei von diesen Nullen entliehen und machen daraus Einsen, wandeln die also in den Netzanteil um.

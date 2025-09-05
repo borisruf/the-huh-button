@@ -1,0 +1,12 @@
+In diesem Text geht es darum, wie Daten in Netzwerken übertragen werden. Es gibt verschiedene Arten, wie das gemacht wird. Hier sind die wichtigsten Punkte einfach erklärt:
+
+1. **Datenübertragung**: Wenn wir Informationen senden, müssen sie über verschiedene Punkte (wie Computer oder Router) geschickt werden.
+
+2. **Vermittlungsarten**: Es gibt verschiedene Methoden, um diese Daten zu übertragen:
+   - **Leitungsvermittlung**: Das ist wie bei einem alten Telefon, wo man eine feste Verbindung zwischen zwei Punkten herstellt. Man kann sich das vorstellen wie bei einem Telefonat, bei dem man direkt zu einer bestimmten Person spricht.
+   - **Speichervermittlung**: Hier werden die Daten in sogenannten "Paketen" gespeichert und später weitergeschickt. Man kann das mit einem Paketdienst vergleichen, der Pakete von einem Ort zu einem anderen bringt. 
+   - **Paketvermittlung**: Das ist eine spezielle Art der Speichervermittlung. Daten werden in kleine Pakete aufgeteilt und können unterschiedliche Wege nehmen, um zum Ziel zu gelangen. Diese Pakete kommen nicht immer gleichzeitig an und werden dann wieder zusammengesetzt.
+
+3. **Praxisbezug**: Der Text sagt auch, dass wir uns anschauen werden, wie das Ganze in der Praxis funktioniert, also wie diese verschiedenen Arten der Datenübertragung wirklich ablaufen.
+
+Zusammengefasst: Daten können auf verschiedene Arten über Netzwerke gesendet werden, und eine der interessantesten Arten für uns sind kleine Pakete, die auf verschiedenen Wegen zu ihrem Ziel reisen können.

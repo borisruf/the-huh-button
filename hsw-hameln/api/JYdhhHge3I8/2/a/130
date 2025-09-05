@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass große Datenmengen, die wir senden möchten, in „Pakete“ verpackt werden und diese Pakete werden dann von einem Ort zum anderen geschickt. Jedes Mal, wenn ein Paket an einem neuen Ort ankommt, wird es dort wieder an den nächsten Ort weitergegeben, bis es schließlich beim Empfänger ankommt.
+
+Ein einfaches Beispiel, das du kennst, ist die Briefpost. Wenn du einen Brief sendest, geht er zuerst zu einem Postzentrum, wo viele Briefe sortiert werden. Dann wird dein Brief zu einem anderen Postzentrum gebracht und von dort zu dem Haus, wo die Person wohnt, die den Brief bekommen soll. 
+
+In der Technik passiert etwas Ähnliches: Die Daten werden an verschiedenen „Stopps“ in einem Netzwerk bearbeitet und weitergeleitet, bis sie ihr Ziel erreichen.

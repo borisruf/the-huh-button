@@ -1,0 +1,1 @@
+ Dabei ist es so, dass eben die übrig gebliebenen Nullen in unserer Subnets-Maske entscheidend sind, also die werden gezählt und die Anzahl dieser Nullen, die ist eben entscheidend für die Anzahl der Hosts, die wir dort adressieren können.

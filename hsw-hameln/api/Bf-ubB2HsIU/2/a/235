@@ -1,1 +1,9 @@
-Das ist wie ein Brief, der verschickt wird. Auf dem Brief steht die Adresse von dem, der den Brief bekommt (Empfänger-Port) und die Adresse von dem, der den Brief geschickt hat (Quell-Port). Diese Adressen sind wichtig, damit der Brief an der richtigen Stelle ankommt. Außerdem muss der Brief in den Briefkasten passen. Dafür sind die Nummern auf den Adressen wichtig. Am Ende des Briefes sind dann die Infos, die der Empfänger bekommen soll (Nutzdaten). Das ist wie bei unserem Computer, der Infos verschickt und bekommt.
+Okay! Lass uns die Aussage einfach erklären:
+
+TCP ist ein Protokoll, das hilft, Daten sicher zwischen zwei Computern zu senden. In den Daten, die TCP verwendet, gibt es einen speziellen Abschnitt, den wir "Header" nennen. In diesem Header stehen wichtige Informationen.
+
+Ganz oben im Header sind zwei Portnummern. Der "Empfängerport" ist die Nummer, die sagt, wo die Daten hinkommen sollen. Der "Quellport" ist die Nummer, die sagt, von wo die Daten kommen. Diese Portnummern sind wichtig, damit der Computer, der die Daten empfängt, weiß, welche Anwendung die Daten benutzt. 
+
+Ganz unten im Header sind die "Nutzdaten". Das sind die echten Informationen, die gesendet werden, wie zum Beispiel eine Nachricht oder eine Datei.
+
+Also, TCP sorgt dafür, dass die Daten gut von einem Computer zum anderen kommen, und die Portnummern helfen, die Daten an die richtige Stelle zu bringen.

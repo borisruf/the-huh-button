@@ -1,0 +1,15 @@
+Routing-Protokolle helfen, Informationen im Internet oder in großen Netzwerken zu finden. Stell dir vor, du sollst von einem Ort (A) zu einem anderen Ort (B) reisen. Es gibt viele Wege, aber du möchtest den besten oder kürzesten Weg nehmen.
+
+1. **Routing**: Das ist der Prozess, wie Datenpakete von A nach B geschickt werden, ähnlich wie eine Reise von einer Stadt zur anderen.
+
+2. **Router**: Das sind die Geräte, die dafür sorgen, dass die Daten den richtigen Weg finden. Man kann sie sich wie Ampeln oder Wegweiser auf einer Straße vorstellen.
+
+3. **Routing-Informationen**: Das sind die Informationen, die Router benötigen, um zu wissen, welcher Weg der beste ist. Diese Informationen helfen ihnen bei der Entscheidung, wie sie die Daten schicken.
+
+4. **Statische und dynamische Routen**:
+   - **Statisch**: Ein Administrator kann feste Routen manuell einrichten. Das ist wie wenn jemand einen festen Weg auf einer Karte einzeichnet.
+   - **Dynamisch**: Mit dynamischen Protokollen, wie Open Shortest Path First (OSPF), lernen Router selbstständig, welche Wege gut sind. Das ist wie wenn sie sich im Laufe der Zeit die besten Routen merken.
+
+5. **Link-State-Protokolle**: OSPF gehört zu dieser Gruppe und ist für große Netzwerke wie das Internet geeignet. Diese Protokolle helfen Routern, schnell die besten und kürzesten Wege zu finden, damit die Daten effizient ankommen.
+
+Zusammengefasst: Routing-Protokolle und Router helfen, Daten schnell und effektiv von einem Ort zum anderen zu bewegen, besonders in großen Netzwerken wie dem Internet.

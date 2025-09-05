@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie Geräte in einem Netzwerk miteinander kommunizieren, indem sie ein gemeinsames Medium nutzen. Stell dir vor, es gibt eine Straße, auf der Autos fahren können. Wenn mehrere Autos (die Geräte) gleichzeitig auf die Straße (das Medium) wollen, müssen sie zuerst gucken, ob die Straße frei ist.
+
+1. **Carrier Sense (CS)**: Die Geräte hören zu, um herauszufinden, ob gerade jemand anderes die Straße belegt. So wie Autofahrer gucken, ob der Weg frei ist, bevor sie losfahren.
+
+2. **Multiple Access (MA)**: Wenn die Geräte feststellen, dass die Straße frei ist, können sie gleichzeitig darauf fahren. Das bedeutet, dass Geräte 1 und 3, sobald sie sicher sind, dass niemand sonst die Verbindung benutzt, ihre Daten schicken können.
+
+3. Wenn beide Geräte gleichzeitig starten, kann das zu Problemen führen – wie viele Autos, die gleichzeitig durch eine Einfahrt fahren wollen. Deshalb ist es wichtig, eine Regelung zu haben, damit alle fair die Straße nutzen können.
+
+Insgesamt beschreibt die Aussage also, wie Geräte in einem Netzwerk abwechselnd Daten senden können, indem sie zuerst prüfen, ob die Verbindung frei ist, und dann gleichzeitig kommunizieren, sofern es möglich ist.

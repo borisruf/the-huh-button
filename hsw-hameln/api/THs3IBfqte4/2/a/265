@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir bei der Übertragung von Informationen nicht nur die Höhe (Amplitude) von Signalen verändern können, sondern auch den Zeitpunkt (Phase), wann das Signal ankommt. Das ist wie eine Sprache, bei der wir verschiedene Wörter (Amplitude) und Akzente (Phase) nutzen können, um mehr Informationen zu vermitteln.
+
+Ein Beispiel ist die Quadratur-Amplituden-Modulation. Hierbei kombinieren wir verschiedene Höhen und Zeitpunkte, um mehr Daten gleichzeitig zu übertragen. Das wird zum Beispiel bei DSL-Verbindungen im Internet verwendet. 
+
+Mit dieser Technik können wir also mehr Informationen in einem Signal verstecken, weil wir später nicht nur "Ja" oder "Nein" sagen (digital 1 oder 0), sondern auch verschiedene Variationen benutzen, die mehr Informationen enthalten.

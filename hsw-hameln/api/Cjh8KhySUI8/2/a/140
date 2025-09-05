@@ -1,0 +1,7 @@
+Der Text sagt, dass es zwei Arten von Protokollen gibt, die Daten im Internet übermitteln: TCP und UDP. 
+
+TCP ist sehr vorsichtig. Es sorgt dafür, dass alle Daten sicher ankommen, indem es Dinge wie eine Sequenznummer und Bestätigungen (genannt Acknowledgements) verwendet. Das bedeutet, dass TCP überprüft, ob alles angekommen ist und in der richtigen Reihenfolge eintrifft.
+
+UDP dagegen ist schneller, aber weniger sicher. Es schickt die Daten einfach los, ohne zu überprüfen, ob sie angekommen sind oder in welcher Reihenfolge. Das bedeutet, dass einige Daten fehlen können, aber das ist in manchen Situationen okay, zum Beispiel bei Videokonferenzen oder beim Streaming von Videos, wo es wichtiger ist, dass die Übertragung schnell ist, als dass alles perfekt ankommt.
+
+Der wichtige Unterschied ist also, dass UDP keine Sequenznummern und Bestätigungen hat, was es schneller, aber auch unsicherer macht als TCP.

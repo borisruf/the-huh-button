@@ -1,0 +1,10 @@
+Die Aussage bedeutet, dass wir beim Übertragen von Daten, also von einem Bitstrom, einige wichtige Regeln und Eigenschaften beachten müssen. Diese Regeln helfen uns sicherzustellen, dass die Daten richtig und effizient übermittelt werden.
+
+Um es einfach zu erklären: 
+
+1. **Datenübertragung**: Wir nehmen eine Menge von Daten (Bits) und wollen sie in einer Form verschicken, die wir "Signal" nennen.
+2. **Signal**: Ein Signal ist etwas, das wir mithilfe von Wellen oder anderen physikalischen Veränderungen darstellen können, sodass es über bestimmte Medien wie Kabel oder Luft geschickt werden kann.
+3. **Abtastung**: Damit wir das digitale Signal erstellen können, schauen wir uns das Signal zu festen Zeitpunkten an und messen auch die Werte. So haben wir eine digitale Version des Signals.
+4. **Anforderungen**: Um sicherzustellen, dass die Übertragung gut funktioniert, müssen wir bestimmte Eigenschaften des Signals beachten. Diese Eigenschaften sind wichtig, damit die Daten am Ende korrekt ankommen und nicht durch Störungen, die während der Übertragung auftreten können, verändert werden.
+
+Zusammengefasst: Wir müssen bestimmte Regeln bei der Umwandlung von Daten in Signale befolgen, damit die Übertragung reibungslos und genau klappt.

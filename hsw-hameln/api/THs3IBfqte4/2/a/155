@@ -1,0 +1,18 @@
+Okay, lass uns das ganz einfach erklären:
+
+Wenn wir Daten über das Internet oder andere Netzwerke senden, müssen wir sie in Signale umwandeln. Es gibt verschiedene Möglichkeiten, wie wir diese Signale gestalten können.
+
+In der Regel gibt es zwei Hauptarten, wie wir Daten senden: 
+
+1. **Basisbandübertragung**: Hierbei wird das gesamte Frequenzspektrum für die digitale Übertragung genutzt.
+2. **Breitbandübertragung**: Hier werden die Frequenzen in kleinere Bereiche unterteilt, damit mehrere Nachrichten gleichzeitig gesendet werden können.
+
+Wenn wir Signale senden, können wir sie mit verschiedenen Techniken "verpacken". Eine Möglichkeit ist die **Modulation**. Das bedeutet einfach, dass wir unser ursprüngliches Signal (wie Sprache oder Daten) auf etwas anderes aufbringen. 
+
+Ein Beispiel ist die **Amplitudenmodulation**: Hier benutzen wir die Stärke eines Signals. Wenn das Signal stark ist (hohe Amplitude), bedeutet das eine "1". Wenn es schwach ist (niedrige Amplitude), bedeutet das eine "0".
+
+Eine andere Möglichkeit ist, die **Frequenzmodulation**: Das bedeutet, wir ändern, wie schnell das Signal schwingt. Eine hohe Frequenz steht dann für eine "1" und eine niedrige Frequenz für eine "0".
+
+Zusätzlich gibt es noch die **Phasenmodulation**, die eine weitere Technik ist, um Daten zu übertragen. Dabei wird die Phase des Signals verändert, um Informationen zu senden.
+
+Insgesamt geht es also darum, wie wir Daten in Signale umwandeln und wie wir diese Signale so gestalten, dass sie verstanden werden können.

@@ -1,0 +1,13 @@
+In diesem Abschnitt wird erklärt, wie wir Fehler in Datenübertragungen erkennen und damit umgehen können. Es gibt verschiedene Möglichkeiten, Fehler zu erkennen. 
+
+Wenn die Technik einen Fehler findet, müssen wir ihn richtig behandeln. Manchmal kann man kleine Fehler ignorieren, zum Beispiel bei Videos oder Anrufen, wo die Geschwindigkeit wichtiger ist. Aber bei wichtigen Daten, wie Geldüberweisungen, können wir das nicht erlauben, weil Fehler große Probleme verursachen können.
+
+Es gibt zwei Hauptwege, um Fehler zu beheben: 
+1. Wir können die Daten so abspeichern, dass der Empfänger sie selbst wieder in die richtige Form bringt. Das ist ein komplizierter Prozess.
+2. Oder der Empfänger sagt: „Sende die Daten bitte nochmal“, wenn ein Fehler aufgetreten ist.
+
+Um Fehler zu erkennen, müssen wir zusätzliche Informationen zu den gesendeten Daten hinzufügen, wie eine Prüfnummer. Das hilft uns festzustellen, ob die Daten während der Übertragung verändert wurden.
+
+Ein gängiges Verfahren dafür heißt zyklischer Redundanz-Check (CRC). Dabei wird eine Art Prüfzähler zu den Daten hinzugefügt. Der Empfänger überprüft dann, ob die Daten korrekt angekommen sind. Wenn nicht, wird ein Fehler festgestellt.
+
+Zusammengefasst bedeutet die Aussage "Wir werden uns in dem Abschnitt mit den Vermittlungstechniken noch damit beschäftigen. Also das ist das Mindeste, was passieren kann", dass wir im nächsten Schritt diese Techniken genauer untersuchen werden. Es ist wichtig, dass wir verstehen, wie wir in solchen Situationen Fehler erkennen und darauf reagieren können.

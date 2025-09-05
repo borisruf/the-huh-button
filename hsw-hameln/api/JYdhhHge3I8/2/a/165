@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass wir jetzt anschauen werden, wie die Paketvermittlung funktioniert. Dabei gibt es drei wichtige Arten, wie Daten in Netzwerken weitergeleitet werden. 
+
+In dem Video geht es darum, wie Daten von einem Ort zum anderen geschickt werden. Ein Gerät wie ein Switch oder Router hilft dabei. Es hat viele Anschlüsse, an die die Daten ankommen und von denen sie wieder herausgeschickt werden. In der Mitte gibt es ein Teil, das entscheidet, wo die Daten hingehören.
+
+Es gibt verschiedene Arten, wie diese Daten weitergeleitet werden können. Eine alte Methode ist die Leitungsvermittlung, wo es eine direkte Verbindung gibt, ähnlich wie in alten Filmen, wo jemand Kabel zusammensteckt. Eine andere Methode ist die Speichervermittlung, wo ganze Datenpakete von einem Ort zum anderen geschickt werden, wie bei Briefen, die durch verschiedene Poststellen reisen.
+
+Die Paketvermittlung kombiniert diese beiden Methoden. Daten werden in kleine Pakete aufgeteilt und dann geschickt. Diese Pakete können unterschiedliche Wege nehmen, um ihr Ziel zu erreichen. Wir werden gleich mehr darüber lernen, wie die Paketvermittlung funktioniert und die drei wichtigen Vermittlungsarten zeigen.

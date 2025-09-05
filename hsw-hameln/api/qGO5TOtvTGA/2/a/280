@@ -1,0 +1,7 @@
+Die Aussage erklärt, wie Distance-Vector-Routing-Protokolle funktionieren. Hier ist eine einfache Erklärung:
+
+Stell dir vor, jeder Router ist wie ein Stadtplan für seine Nachbarn. Jeder Router weiß, wie er selbst zu anderen Routern gelangt, und diese Informationen teilt er mit den Routern, die direkt neben ihm sind. 
+
+Die direkten Nachbarn hören zu, bringen ihre eigenen Informationen ein und erzählen dann weiter, was sie wissen. So wird die Information immer weitergegeben und alle Router lernen, wie sie am besten von einem Ort zum anderen kommen. 
+
+Also, jeder Router kennt seinen eigenen Weg und sorgt dafür, dass die anderen auch wissen, wie sie dorthin gelangen können.

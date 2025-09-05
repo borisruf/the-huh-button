@@ -1,0 +1,11 @@
+In dieser Erklärung geht es darum, wie wir Internet- und Datennetzwerke in Gebäuden planen und aufbauen. Es gibt drei wichtige Bereiche:
+
+1. **Der erste Bereich** ist die Verbindung zwischen verschiedenen Gebäuden, die sehr lang sein kann, oft mehrere hundert bis tausend Meter.
+
+2. **Der zweite Bereich** ist die Verkabelung innerhalb eines Gebäudes, die auch recht lang ist, typischerweise bis zu 500 Meter, und von Etage zu Etage geht.
+
+3. **Der dritte Bereich** nennt sich Tertiärbereich. Hier geht es darum, die Verbindungen zu den Geräten wie Computern oder Druckern herzustellen. Diese Verbindungen sind meist nicht länger als 100 Meter.
+
+Um Netzwerke gut zu planen, müssen wir nicht nur die Kabel auswählen, sondern auch darüber nachdenken, wie alles zusammenpasst, zum Beispiel mit speziellen Teilen, die man "Kopplungselemente" nennt. Das wird später noch genauer erklärt. 
+
+Insgesamt ist es wichtig, dass alles ordentlich aufgebaut ist, damit es gut funktioniert. Man muss darauf achten, dass die Verkabelung nicht durcheinander gerät und alles gut dokumentiert ist, nach bestimmten Regeln.

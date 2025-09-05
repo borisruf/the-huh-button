@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass eine Firewall, die ein Netzwerk schützt, so eingestellt sein kann, dass sie Informationen von bestimmten Webseiten oder Diensten erlaubt, wie zum Beispiel Google oder Facebook. Diese Informationen kommen über einen speziellen Kanal, den wir "Port 80" nennen.
+
+Wenn die Firewall geöffnet ist und Daten durchlässt, müssen diese Daten genau untersucht werden, um sicherzustellen, dass sie sicher sind. Es ist wie bei einer Sicherheitskontrolle, wo man schaut, ob etwas Gefährliches dabei ist. Bestimmte Muster innerhalb der Daten müssen erkannt werden. Wenn die Firewall eine Bedrohung oder einen Virus entdeckt, der schädlich sein könnte, blockiert sie diese Daten, um das Netzwerk zu schützen. 
+
+Zusammengefasst: Eine Firewall lässt gewisse Daten durch, aber sie muss die Daten vorher überprüfen, um sicher zu sein, dass sie sicher sind. Wenn nicht, blockiert sie sie.

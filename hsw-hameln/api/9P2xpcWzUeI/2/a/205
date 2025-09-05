@@ -1,0 +1,13 @@
+In der Erklärung geht es um Netzwerke, vor allem um virtuelle Netzwerke, die VLANs genannt werden. Hier ist die Aussage in einfacher Sprache:
+
+Stell dir vor, wir haben ein großes Gebäude mit drei Etagen. Jede Etage kann ein eigenes Netzwerk haben. Normalerweise sind die Netzwerke in einem Gebäude fest und man könnte sagen: "Erdgeschoss ist Netzwerk 1, erster Stock ist Netzwerk 2, und so weiter." Das ist nicht sehr flexibel.
+
+Mit VLANs können wir das ändern. Wir können Netzwerke erstellen, die sich über die Etagen verteilen. Das bedeutet, dass nicht mehr jede Etage ein eigenes Netzwerk ist, sondern wir können Arbeiter aus verschiedenen Etagen in das gleiche Netzwerk stecken, wenn es nötig ist.
+
+Es gibt zwei Möglichkeiten, wie das funktioniert. Die erste ist, dass ein Computer an einen bestimmten Platz (Port) am Switch angeschlossen wird, und der Chef (Administrator) stellt ein, zu welchem Netzwerk dieser Platz gehört. Man muss aber darauf achten, dass der richtige Computer an den richtigen Platz kommt, sonst kann es Probleme geben.
+
+Die zweite Möglichkeit ist, dass das Netzwerk automatisch erkennt, zu welchem VLAN der Computer gehört, wenn er angeschlossen wird. Das geht, weil der Computer eine besondere Nummer hat (MAC-Adresse). Es gibt eine spezielle Station im Netzwerk, die weiß, welche Computer in welches Netzwerk gehören.
+
+Wenn also ein Computer etwas an das Netzwerk senden will, schickt er ein "Paket" (wie ein Geschenk mit Informationen) an den Switch. Der Switch schaut dann, ob der Computer zu einem bestimmten Netzwerk gehört. Dabei fügt der Switch Informationen in das Paket ein, damit alle wissen, zu welchem Netzwerk das Paket gehört.
+
+Zusammengefasst: VLANs machen die Netzwerke flexibler, so dass Computersysteme aus verschiedenen Etagen zusammenarbeiten können, und dafür gibt es System, die genau festlegen, wer wo hin gehört.

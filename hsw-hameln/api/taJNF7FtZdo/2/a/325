@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass, wenn Daten von einem Computer (Endsystem) zu einem anderen geschickt werden, sie durch verschiedene Schichten eines Modells (OSI-Modell) gehen. Jede Schicht hat ihre eigenen Aufgaben. 
+
+Wenn die Daten bei einem Router ankommen, schaut der Router zunächst, ob er das Ziel ist. Wenn nicht, schaut er in seine "Routing-Tabelle", um zu sehen, wohin die Daten als Nächstes geschickt werden sollen. Dabei zählt man, wie viele "Hops" (Stationen) die Daten machen müssen, bis sie ihr Ziel erreichen. 
+
+Allerdings sind diese Hops nicht die einzigen wichtigen Dinge, die man beachten sollte. Es gibt noch andere Faktoren, die man berücksichtigen kann, um den besten Weg für die Daten zu finden, wie zum Beispiel, ob die Verbindung gerade stark genutzt wird oder nicht. So kann der Router entscheiden, dass es einen besseren Weg für die Daten gibt, als nur zu zählen, wie viele Hops es sind.

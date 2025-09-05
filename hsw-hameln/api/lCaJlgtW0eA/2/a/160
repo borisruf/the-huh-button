@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es in einem Netzwerk Bereiche gibt, in denen Informationen, die an alle (Broadcast) gesendet werden, übertragen werden können. Aber sobald man die Grenze zu einem anderen Bereich erreicht, werden diese Informationen nicht mehr weiter gesendet. 
+
+Um es einfacher zu sagen: 
+
+Stell dir vor, du hast mehrere Zimmer in einem Haus. In jedem Zimmer kannst du laut rufen und alle, die in dem gleichen Zimmer sind, hören dich. Aber wenn du in einem Zimmer bist und rufst, dann hören die Leute in anderen Zimmern dich nicht. So ist es auch in einem Netzwerk: Innerhalb eines bestimmten Bereichs können Informationen an alle gesendet werden, aber an der Grenze zu einem anderen Bereich hören sie nicht mehr. 
+
+Die verschiedenen Geräte, die wir in Netzwerken verwenden, helfen uns, diese Bereiche zu verbinden oder zu trennen. Einige Geräte sind sehr einfach und verschicken nur Informationen weiter. Andere Geräte sind smarter und können Entscheidungen darüber treffen, wohin die Informationen geschickt werden sollen. Routern helfen dabei, ganze Netzwerk-Bereiche miteinander zu verbinden.

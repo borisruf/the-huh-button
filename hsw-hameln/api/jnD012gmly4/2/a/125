@@ -1,0 +1,7 @@
+In einfachen Worten erklärt die Aussage Folgendes:
+
+Wenn wir Datenpakete, die man Frames nennt, verschicken, fügen wir immer mehr Informationen hinzu, damit die Daten richtig übermittelt werden können. Es gibt zwei Hauptarten, wie wir diese Informationen organisieren.
+
+Eine Art ist, dass wir in einem speziellen Teil des Frames angeben, wie lang der gesamte Rahmen ist. Das ist wichtig, weil wir sonst nicht wissen, wo der Frame endet. Wenn diese Länge verloren geht, wissen wir nicht mehr, wo wir aufhören sollen, die Daten zu lesen, und das ist ein Problem.
+
+Zusammengefasst: Die Informationen helfen uns, die Frames richtig zu senden. Wenn wir die Länge des Frames vergessen, wissen wir nicht, wann wir mit dem Lesen aufhören sollen. Das funktioniert langfristig nicht gut.

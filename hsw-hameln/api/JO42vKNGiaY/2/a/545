@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass bei der neuen IP Version 6 Adresse, wenn wir Nullen haben, die ganz zu Beginn eines Blocks stehen, wir diese einfach weglassen können. Wenn wir von einer IP Adresse sprechen, haben wir Blöcke mit Zahlen und Buchstaben. Wenn in einem Block zum Beispiel „0001“ steht, können wir das einfach als „1“ schreiben. 
+
+Wenn wir nun eine alte IP Adresse (Version 4) in die neue IP Adresse (Version 6) umwandeln, dann haben wir in der neuen Adresse oft viele Nullen vorne. Um die Adresse kürzer und einfacher zu machen, können wir diese Nullen einfach weglassen. Das macht es leichter, die Adresse zu lesen und sich zu merken. 
+
+Insgesamt hilft das, die Adressen weniger kompliziert zu machen, besonders bei der langen neuen Schreibweise.

@@ -1,0 +1,5 @@
+Der Rechner, der unten steht, will herausfinden, welche anderen Rechner im Netzwerk sind. Er fragt also nach Informationen. Diese Informationen sind zwei Dinge: die IP-Adresse und die MAC-Adresse. 
+
+Die IP-Adresse ist wie eine Adresse, die man braucht, um den Rechner zu finden, und die MAC-Adresse ist eine spezielle Kennung, die jeder Rechner hat, damit er im Netzwerk erkannt werden kann.
+
+Dieser Prozess passiert im Netzwerk, wo viele Computer miteinander verbunden sind. Wenn der Rechner seine Anfrage (den Up-Request) schickt, will er wissen, wer da ist und wie die anderen Rechner heißen. 

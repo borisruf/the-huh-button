@@ -1,9 +1,9 @@
-In diesem Text geht es um Netzwerke und bestimmte Regeln, die bei der Kommunikation im Netzwerk helfen. TCP und IP sind sehr wichtige dieser Regeln. Sie werden Protokolle genannt.
+In einfacheren Worten bedeutet diese Aussage, dass es spezielle Regeln und Werkzeuge (Protokolle) gibt, die dafür sorgen, dass Computer in Netzwerken gut miteinander kommunizieren können. 
 
-Die IP-Adresse ist wie die Hausadresse im Internet. Jedes Gerät hat eine und so weiß man, wohin Informationen geschickt werden sollen. TCP ist wie ein Postbote: Es sorgt dafür, dass die Information komplett und ohne Fehler ankommt. 
+Zum Beispiel gibt es Protokolle wie PING und ECHO. Diese helfen Computern herauszufinden, ob andere Computer erreichbar sind und wie lange es dauert, Informationen hin und her zu schicken.
 
-Außerdem gibt es noch andere Regeln. Zum Beispiel ICMP, das ins Spiel kommt, wenn es Probleme gibt. Oder PING und Echo, die manche vielleicht kennen. 
+Ein weiteres wichtiges Protokoll ist ARP. Dieses Protokoll hilft, die eindeutige Identität von Geräten (MAC-Adressen) mit ihren Adressen im Netzwerk (IP-Adressen) zu verbinden. 
 
-Dann gibt es auch ARP. Das ist wie ein Adressbuch, das die IP-Adresse eines Geräts in seine MAC-Adresse übersetzt. MAC-Adressen sind einzigartige Kennzeichnungen, die jedes Gerät hat. 
+Außerdem gibt es Routing-Protokolle, die den Weg von Informationen zwischen verschiedenen Routern im Netzwerk bestimmen. Sie tauschen Informationen aus, um zu wissen, wo die Daten am besten hingeschickt werden. 
 
-Und es gibt Routing-Protokolle. Die sind so etwas wie Wegweiser im Internet. Sie sagen, welchen Weg Informationen nehmen sollen, um von einem zum anderen Gerät zu kommen.
+Insgesamt helfen all diese Protokolle dabei, dass alles im Netzwerk richtig funktioniert und die Daten schnell und korrekt ankommen.

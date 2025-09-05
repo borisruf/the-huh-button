@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass bestimmte Geräte, wie Repeater oder Hubs, einfache Aufgaben haben. Sie nehmen ein Signal (eine Art Nachricht) auf, machen es stärker (auffrischen), und geben es dann wieder weiter. 
+
+Das hilft, das Signal weiter zu senden, was gut ist, weil man dann eine größere Entfernung überbrücken kann. Aber es hat auch eine negative Seite: Wenn mehr Geräte miteinander verbunden sind, können sie sich gegenseitig stören, weil sie gleichzeitig Daten senden wollen. Das nennt man "Kollisionsdomäne" – es bedeutet, dass mehr Störungen passieren können, wenn viele Geräte zusammenarbeiten. 
+
+Zusammengefasst: Diese Geräte verlängern das Netzwerk, machen es größer, aber gleichzeitig gibt es auch mehr Chancen für Probleme, wenn viele Geräte gleichzeitig Daten senden.

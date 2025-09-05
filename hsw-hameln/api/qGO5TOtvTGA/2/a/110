@@ -1,0 +1,11 @@
+In einfachen Worten bedeutet die Aussage:
+
+Um Daten von einem Ort zum anderen zu schicken, müssen Router wissen, welchen Weg sie nehmen sollen. Dafür nutzen sie spezielle Regeln, die man „Protokolle“ nennt. 
+
+Es gibt verschiedene Arten von diesen Protokollen:
+
+1. **Distance-Vector-Protokolle**: Das sind einfache Regeln, die gut für kleine Netzwerke sind. Ein Beispiel dafür ist RIP (Routing-Information-Protokoll). 
+   
+2. **Link-State-Protokolle**: Das sind andere Regeln, die komplexere Informationen nutzen, um den besten Weg zu finden.
+
+Diese Protokolle helfen den Routern, zu entscheiden, wie sie die Daten am besten von einem Punkt A zu einem Punkt B senden.

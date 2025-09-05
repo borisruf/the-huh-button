@@ -1,0 +1,5 @@
+In der genannten Aussage geht es um eine Tabelle, die zeigt, wie subnetzwerke gebildet werden können. Es gibt 8 Netze, die in dieser Tabelle aufgelistet sind. Wenn wir zählen, beginnen wir mit 0, also das erste Netz wird als 0 gezählt. 
+
+Die erste und die letzte Zeile der Tabelle sind rot markiert, was bedeutet, dass sie etwas Besonderes sind. Wir müssen mehr über diese Netze und die Bedeutung der roten Markierung verstehen, weil das hilft, die Informationen besser zu erkennen und zu nutzen. 
+
+Zusammengefasst: Die Tabelle zeigt, wie viele kleinere Netze wir aus einem großen Netzwerk machen können, wobei wir bei 0 anfangen zu zählen und bestimmte Zeilen hervorgehoben sind.

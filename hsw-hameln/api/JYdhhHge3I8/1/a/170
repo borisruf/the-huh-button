@@ -1,0 +1,9 @@
+Die Aussage verweist auf drei wesentliche Arten der Datenvermittlung in Netzwerken: die Leitungsvermittlung, die Speichervermittlung und die Paketvermittlung. 
+
+1. **Leitungsvermittlung**: Diese Methode stellt eine direkte Verbindung zwischen Sender und Empfänger her, ähnlich wie bei einem Telefonanruf, wo eine Kommunikationsleitung exklusiv für die Dauer des Gesprächs genutzt wird.
+
+2. **Speichervermittlung (Store-and-Forward)**: Hierbei werden Daten in ihrer Gesamtheit gespeichert und dann nacheinander an den Empfänger weitergeleitet, vergleichbar mit der Zustellung von Briefen über verschiedene Postzentren.
+
+3. **Paketvermittlung**: Diese Kombination aus Leitungs- und Speichervermittlung teilt Daten in kleine Pakete auf, die unabhängig voneinander unterschiedliche Wege zum Ziel finden können. 
+
+Diese drei Arten sind entscheidend für die Funktionsweise moderner Netzwerke und ihre Darstellung in einem Schaubild hilft, die Unterschiede und Funktionsweisen visuell zu verdeutlichen.

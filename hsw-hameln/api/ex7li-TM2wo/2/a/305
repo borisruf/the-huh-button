@@ -1,0 +1,9 @@
+In dem Text geht es darum, wie man Fehler bei der Übertragung von Daten feststellen kann. Hier ist eine einfache Erklärung der Aussage und des Kontexts:
+
+Der Autor spricht über Fehler in Daten, die während der Übertragung auftreten können. Manchmal können Daten falsch sein, weil sich Bits verändert haben. Um zu überprüfen, ob die Daten richtig sind, werden spezielle Methoden verwendet, wie der zyklische Redundanz-Check (CRC). 
+
+Der CRC ist eine Art "Prüfziffer", die zu den Daten hinzugefügt wird. Wenn die Daten und die Prüfziffer am Empfangsort ankommen, kann man prüfen, ob alles richtig ist. Wenn etwas nicht stimmt, weiß man, dass ein Fehler passiert ist.
+
+Der Autor erwähnt, dass das CRC32 ein bestimmter Standard ist, der in Ethernet-Netzwerken verwendet wird. Ethernet ist eine Technologie, die häufig für Internetverbindungen genutzt wird. 
+
+Kurz gesagt, der Text beschreibt, wie man Datenübertragungsfehler erkennen kann und nennt das CRC-Verfahren, das in vielen Computer-Netzwerken verwendet wird.

@@ -1,0 +1,7 @@
+Routing-Tabellen sind wie eine Art Landkarte für Router, die ihnen helfen, die besten Wege für Daten auszuwählen. Es gibt zwei Methoden, wie diese Tabellen erstellt werden können:
+
+1. **Dynamisch**: Das bedeutet, dass die Router selbst lernen, wo die besten Wege sind, indem sie Informationen von anderen Routern sammeln. Sie passen ihre Tabellen automatisch an, je nachdem, wie sich die Netzwerksituation verändert – zum Beispiel, wenn eine Verbindung überlastet ist.
+
+2. **Manuell**: Hierbei wird die Tabelle von Menschen erstellt oder geändert. Ein Techniker kann zum Beispiel die besten Wege für die Datenübertragungen per Hand eintragen.
+
+Beide Methoden helfen sicherzustellen, dass die Daten schnell und effizient von einem Punkt zum anderen gelangen.

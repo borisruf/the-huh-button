@@ -1,0 +1,5 @@
+Die Aussage erklärt, dass es verschiedene Arten gibt, wie Daten in einem Netzwerk geschickt werden. Eine davon heißt "Speichervermittlung" oder "Store-and-Forward-Verbindung".
+
+Stell dir vor, du schickst einen Brief. Manchmal gibt es einen Postboten, der den Brief an einen Ort bringt, wo er dann ein bisschen wartet, bevor er weiter zum Ziel gebracht wird. Das ist ein bisschen so wie die Speichervermittlung. Die Daten kommen an einem Punkt an (wie der Brief am Postamt), werden dort kurz gespeichert und dann weitergeleitet.
+
+In vielen Netzwerken gibt es Geräte, die helfen, diese Daten von einem Ort zum anderen zu bringen, wie zum Beispiel Router oder Switches. Diese Geräte können die Daten nicht sofort weitergeben, sondern speichern sie erst und entscheiden dann, wohin sie gehen sollen – das nennt man Speichervermittlung. Es ist also eine Art von sicherer Übergabe von Daten, bevor sie ihr Ziel erreichen.

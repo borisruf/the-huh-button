@@ -1,0 +1,3 @@
+Die Aussage beschreibt, dass es in einer Tabelle eine Übersicht über 8 Netzwerke gibt. Man zählt die Netzwerke immer von 0 bis 7, das heißt, das erste Netzwerk ist 0, das zweite ist 1 und so weiter bis zum achten Netzwerk, das die Nummer 7 hat. Die ersten (0) und letzten Netzwerke (7) sind in der Tabelle rot markiert, damit man sie leichter erkennen kann.
+
+Im größeren Zusammenhang geht es darum, wie man große Netzwerke in kleinere Unternetzwerke (Subnetze) aufteilt. Das hilft, das Problem der begrenzten IP-Adressen zu lösen und sorgt für mehr Sicherheit und einfachere Verwaltung der Netzwerke.

@@ -1,0 +1,9 @@
+Die Aussage bedeutet folgendes, viel einfacher erklärt:
+
+Wenn wir zwei verschiedene Netzwerke miteinander verbinden wollen, brauchen wir zwei Router. Diese Router sind wie Brücken, die helfen, dass Informationen von einem Netzwerk ins andere kommen. 
+
+Zwischen den beiden Routern gibt es eine Verbindung, die wir "Transfersegment" nennen. Das ist der Weg, auf dem die Daten reisen. Damit die Router wissen, wo sie ihre Daten hinschicken sollen, benötigen sie IP-Adressen. 
+
+Jeder Router hat einen Teil dieser Verbindung, also eine IP-Adresse, die ihm sagt, wo er ist. Der andere Router hat seine eigene IP-Adresse, damit auch er weiß, wo er sich im Netzwerk befindet. 
+
+Zusammengefasst: Um zwei Netzwerke zu verbinden, braucht man zwei Router, eine Verbindung (das Transfersegment) und zwei IP-Adressen, eine für jeden Router.

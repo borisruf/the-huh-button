@@ -1,1 +1,1 @@
-500 bei raus und ich sehe aber auch schon auf der Folie, ich muss immer 2 wieder abziehen, denn 2 Adressen sind pro Netzwerk immer fest reserviert, das ist einmal die erste Adresse, das ist ja auch die Netzwerkadresse, die ist also immer fest vergeben und die letzte Adresse, das ist die Broadcast-Adresse, die darf ich auch nicht verwenden für einen Rechner, auch die ist immer fest vergeben.
+ Wie kommen jetzt aber eigentlich IP-Adresse und Subnetzmaske zueinander?

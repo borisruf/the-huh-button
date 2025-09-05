@@ -1,0 +1,7 @@
+Ein Router ist wie ein Verkehrspolizist für Daten. Wenn ein Datenpaket ankommt, schaut der Router in seine "Routing-Tabelle", um zu entscheiden, wo das Paket als Nächstes hingehen soll. Man kann sich das wie eine Straßenkarte vorstellen. 
+
+Wenn du von einem Ort zum anderen fährst, schaust du auf deine Karte oder in ein Navigation-Programm, um den besten Weg zu finden. Der Router macht das Gleiche – er sucht nach dem besten Weg, um die Daten von ihrem Startpunkt zu ihrem Ziel zu schicken. 
+
+In der Routing-Tabelle stehen wichtige Informationen, wie die Adresse des Zielortes (also wo die Daten hin sollen) und wie viele "Hops" (Stationen, also Router) die Daten durchlaufen müssen. Wenn der Router sieht, dass er nicht das Ziel ist, entscheidet er, an welchen nächsten Router er die Daten weiterleitet.
+
+Das ist ein bisschen so, als wenn du an einer Kreuzung entscheidest, in welche Richtung du weiterfahren musst, um dein Ziel zu erreichen. So arbeiten die Router zusammen, um sicherzustellen, dass die Daten schnell und ohne Staus zu ihrem Ziel kommen.

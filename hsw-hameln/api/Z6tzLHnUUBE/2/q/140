@@ -1,0 +1,1 @@
+  Wie gesagt, da schauen wir später noch einmal detailliert drauf.  Wenn wir uns jetzt erst mal den IP-Header anschauen, dann sehen wir letzten Endes wieder verschiedene Felder, die fest definiert sind, die wir auch schon von TCP in anderer Form kennen und ganz oben für uns wichtig natürlich sind die IP-Adressenquelle und Empfänger.

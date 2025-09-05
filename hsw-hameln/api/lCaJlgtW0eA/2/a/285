@@ -1,0 +1,5 @@
+Wenn wir Netzwerke miteinander verbinden, nutzen wir Geräte, um dies zu ermöglichen. Eines dieser einfachen Geräte ist ein Hub. Hubs helfen uns, Signale von einem Ort zum anderen zu senden. Aber dabei gibt es ein Problem: Wenn viele Geräte über einen Hub miteinander verbunden sind, können sie sich gegenseitig stören. Das nennt man Kollisionen. 
+
+Kollisionen passieren, wenn mehrere Geräte gleichzeitig versuchen, Daten zu senden. Das ist nicht ideal, und es ist schwierig, sie ganz zu verhindern. Wenn viele Geräte über einen Hub verbunden sind, nennt man den Bereich, in dem das passiert, eine "Kollisionsdomäne". Je mehr Geräte verbunden sind, desto größer ist die Kollisionsdomäne und desto mehr Kollisionen können auftreten.
+
+Wenn wir also Hubs benutzen, müssen wir uns bewusst sein, dass wir mit Kollisionen rechnen müssen, auch wenn wir versuchen, sie zu minimieren.

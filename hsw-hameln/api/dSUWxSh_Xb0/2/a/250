@@ -1,0 +1,5 @@
+Multiplexing ist ein Prozess, bei dem mehrere Daten gleichzeitig über eine einzige Verbindung gesendet werden. Stell dir vor, es gibt ein Wasserrohr, das mehrere Ströme führen kann. Diese Ströme müssen gut organisiert werden, damit sie nicht durcheinandergeraten.
+
+In dem Text geht es speziell um "Zeit-Multiplexing". Das bedeutet, dass verschiedene Teilnehmer abwechselnd ihre Daten senden, anstatt sie gleichzeitig zu senden. Wenn der erste Teilnehmer spricht, hören die anderen zu. Dann darf der zweite Teilnehmer sprechen, und so weiter. So kann jeder klar kommunizieren, und alle bekommen die volle "Wassermenge" oder Bandbreite, wann immer sie dran sind.
+
+Das hat den Vorteil, dass man die Verbindung effizient nutzen kann. Aber man muss gut timen, damit jeder genug Zeit hat, seine Informationen zu schicken.

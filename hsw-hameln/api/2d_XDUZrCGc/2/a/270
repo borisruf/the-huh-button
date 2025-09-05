@@ -1,0 +1,9 @@
+Okay! Hier ist die Erklärung in einfacher Sprache:
+
+Es gibt zwei Arten von IP-Adressen: private und öffentliche. 
+
+**Private IP-Adressen** sind wie private Telefonnummern. Sie werden in kleinen Netzwerken, wie zum Beispiel in einem Zuhause oder einem kleinen Büro, verwendet. Diese Adressen sind nur dort gültig und niemand außerhalb dieses Netzwerks kann sie erreichen. Man kann sie sich so vorstellen, als ob sie im Internet unsichtbar sind. Das bedeutet, wenn jemand im Internet nach diesen privaten Adressen sucht, wird er sie nicht finden. 
+
+**Öffentliche IP-Adressen** sind wie Telefonnummern, die jeder anrufen kann. Sie sind im Internet sichtbar und ermöglichen es, Geräte von überall auf der Welt zu erreichen. Das sind alle anderen IP-Adressen, die nicht zu den privaten Adressen gehören.
+
+Einfach gesagt: Private IP-Adressen sind lokal und unsichtbar im Internet, während öffentliche IP-Adressen im Internet sichtbar und erreichbar sind.

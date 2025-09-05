@@ -1,0 +1,7 @@
+Okay, lass uns die Aussage einfacher erklären.
+
+Wir haben gerade über das Internetprotokoll (IP) gesprochen. Das ist eine wichtige Technik, die dafür sorgt, dass Daten zwischen Computern übertragen werden können. Im IP-Header, der einen Teil dieser Technik darstellt, gibt es verschiedene Informationen. Eine der wichtigsten Informationen sind die IP-Adressen. 
+
+Die IP-Adresse der Quelle zeigt, von welchem Computer die Daten kommen, und die IP-Adresse des Empfängers zeigt, wohin die Daten gehen. Es gibt noch andere Dinge im Header, die festgelegt sind und die wir auch von anderen Protokollen (wie TCP) kennen. 
+
+Wir werden später noch mehr darüber lernen, was der IP-Header alles bedeutet, aber jetzt konzentrieren wir uns erstmal auf die wichtigsten Sachen: die Adressen, die zeigen, woher die Daten kommen und wohin sie gehen.

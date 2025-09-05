@@ -1,0 +1,11 @@
+In diesem Text geht es um drahtlose Netzwerke, also um Internetverbindungen ohne Kabel. Es werden verschiedene Arten von drahtlosen Netzwerken erklärt, je nachdem, wie weit sie funktionieren. 
+
+1. **Bluetooth**: Das ist ein sehr kurzes Netzwerk, das bis zu 10 Meter funktioniert. Es wird oft für kleine Geräte wie Kopfhörer verwendet. 
+
+2. **WLAN (WiFi)**: Das ist ein Netzwerk, das in Häusern oder Büros benutzt wird. Es kann viel schneller sein, von langsamen 5-6 Megabit pro Sekunde bis hin zu sehr schnellen 600 Megabit pro Sekunde.
+
+3. **WiMAX**: Das ist ein Netzwerk für ganze Städte. Es kann theoretisch Geschwindigkeiten von bis zu 1 Gigabit pro Sekunde erreichen.
+
+4. **LTE**: Das ist ein Netzwerk für mobile Telefone und funktioniert über große Entfernungen. Damit kann man theoretisch bis zu 225 Megabit pro Sekunde erreichen.
+
+Der Autor möchte sich auf WLAN konzentrieren und darüber sprechen, was man für die Planung eines solchen Netzwerks braucht. Dabei erwähnt er, dass es wie ein geteilter Raum ist, wo viele Geräte gleichzeitig das gleiche Signal nutzen, und man deshalb auf verschiedene technische Schichten achten muss, um alles gut zum Laufen zu bringen.

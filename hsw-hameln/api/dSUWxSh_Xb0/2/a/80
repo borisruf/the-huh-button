@@ -1,0 +1,3 @@
+In dem Schaubild gibt es insgesamt sechs Personen, drei auf der linken Seite und drei auf der rechten Seite. Diese Personen wollen miteinander sprechen. Aber nur zwei von ihnen können gleichzeitig reden. Wenn diese beiden sprechen, ist die Verbindung, die sie benutzen, nur für sie da. Das bedeutet, die anderen vier Personen können in dieser Zeit nicht sprechen oder etwas senden; sie müssen warten, bis die beiden fertig sind. 
+
+Das nennt man Multiplexing: Mehrere Personen wollen kommunizieren, aber zu einem bestimmten Zeitpunkt kann nur eine Gruppe von zwei sprechen. Das ist wichtig, weil es nur einen "Weg" für die Kommunikation gibt, und wenn dieser Weg belegt ist, müssen die anderen warten.

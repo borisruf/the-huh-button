@@ -1,0 +1,9 @@
+Die Aussage sagt, dass wir uns anschauen müssen, wie Daten in einem Netzwerk fließen und welche Anforderungen verschiedene Teile des Unternehmens haben. 
+
+Einfach gesagt:
+
+1. **Leistung:** Manche Abteilungen oder Anwendungen brauchen schnellere Datenübertragung. Das nennt man gute „Performance“.
+2. **Verzögerung:** Wenn eine Abteilung schnell reagieren muss, darf die Datenübertragung nicht lange dauern. Wir nennen das geringe „Verzögerung“.
+3. **Bandbreite:** Das ist die Menge an Daten, die gleichzeitig übertragen werden kann. 
+
+Wir müssen also verstehen, welche Abteilungen mehr Leistung und weniger Verzögerung brauchen, um das Netzwerk gut zu planen.

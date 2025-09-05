@@ -1,0 +1,9 @@
+In einfachen Worten betrifft die Aussage, wie Daten über das Internet geschickt werden. 
+
+1. **MTU**: Das ist eine Zahl, die sagt, wie groß Datenpakete sein dürfen, wenn sie über ein Netzwerk gesendet werden. 
+
+2. **Ethernet**: In einem Netzwerk, das Ethernet verwendet, ist die maximale Größe für diese Pakete 1500. Das bedeutet, wenn wir unsere Daten (mit einer Größe von 1400) senden, passt das gut, und wir können sie einfach so verschicken.
+
+3. **Router und FDDI**: Wenn unsere Daten über einen Router in ein anderes Netzwerk mit dem FDDI-Protokoll geschickt werden, hat dieses Netzwerk eine größere maximale Packetgröße (4352). Das ist ebenfalls kein Problem, weil unsere Daten wieder kleiner sind als die erlaubte Größe (1400). 
+
+Also, egal ob wir in ein Ethernet- oder FDDI-Netzwerk schicken, unsere Daten sind klein genug, um problemlos unterwegs zu sein.

@@ -1,0 +1,11 @@
+Die Aussage handelt von einer wichtigen Veränderung im Internet, die sich auf die Adressen auswirkt, die Geräte verwenden, um miteinander zu kommunizieren. Es gibt zwei Versionen von Internet-Adressen: IP Version 4 (IPv4) und die neue IP Version 6 (IPv6).
+
+Hier ist eine einfache Erklärung:
+
+- **IPv4**: Das ist die alte Art, Internet-Adressen zu vergeben. Diese Adressen sind 32 Zeichen lang. Es gibt nicht genügend IPv4-Adressen für alle Geräte auf der Welt, weil viele davon schon vergeben oder verschwenderisch genutzt wurden.
+
+- **IPv6**: Das ist die neue Art von Internet-Adressen. Diese Adressen sind viel länger (128 Zeichen)! Das bedeutet, dass es viele, viele mehr Adressen gibt – genug für alle Geräte, die wir jetzt und in Zukunft haben, sogar für sehr viele Dinge wie Kühlschränke und Uhren.
+
+- **Schreibweise**: IPv4-Adressen sehen aus wie Zahlen, die durch Punkte getrennt sind (z.B. 172.16.14.1). IPv6-Adressen sind komplizierter und sehen anders aus. Sie sind in Blöcke unterteilt, die durch Doppelpunkte getrennt sind, und benutzen Buchstaben und Zahlen (z.B. 2001:0db8:85a3:0000:0000:8a2e:0370:7334).
+
+Zusammenfassend schützt IPv6 uns vor dem Mangel an Adressen, den wir mit IPv4 haben. Es sorgt dafür, dass es genug Adressen für alle Geräte in der Zukunft gibt.

@@ -1,0 +1,7 @@
+Wir brauchen zwei Adressen – die IP-Adresse und die MAC-Adresse – weil sie unterschiedliche Aufgaben haben. 
+
+Die IP-Adresse ist wie die Hausnummer eines Computers im Internet. Sie zeigt, wo ein Computer ist, damit andere Computer ihm Daten senden können.
+
+Die MAC-Adresse ist wie die genaue Adresse in einem bestimmten Gebäude. Sie sagt, welches Gerät im Netzwerk mit einer bestimmten IP-Adresse gemeint ist. Jedes Gerät, das mit dem Internet verbunden ist, hat eine eigene MAC-Adresse.
+
+Wenn nur eine IP-Adresse da wäre, wäre es schwer zu wissen, welches spezielle Gerät gemeint ist, besonders wenn viele Geräte die gleiche IP-Adresse benutzen. Mit der MAC-Adresse können wir sicherstellen, dass die Daten das richtige Gerät erreichen. Daher brauchen wir beide Adressen, um das Internet richtig zu nutzen.

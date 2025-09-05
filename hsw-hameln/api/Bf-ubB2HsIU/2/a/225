@@ -1,5 +1,5 @@
-Diese Aussage erklärt, dass bei einer Ende-zu-Ende-Kontrolle überprüft wird, ob die Daten, die wir verschicken, auch wirklich bei dem Empfänger ankommen und ob sie dabei noch genauso sind wie wir sie verschickt haben. Also ob bei der Übertragung keine Fehler passiert sind. 
+Diese Aussage bedeutet, dass wir mit einem bestimmten System dafür sorgen, dass die Informationen, die wir senden, sicher und vollständig ankommen. 
 
-TCP ist eine Art Regelwerk, das uns dabei hilft, dass unsere Daten richtig übertragen werden. In diesem Regelwerk steht drin, wie Daten verschickt und empfangen werden sollen und wie man überprüfen kann, ob alles richtig gelaufen ist. 
+Stell dir vor, du schickst einen Brief. Du möchtest sicher sein, dass der Brief an die richtige Person geht und dass der Inhalt nicht kaputt oder durcheinandergeraten ist. Genau das macht unser Protokoll: Es prüft, ob die Daten richtig angekommen sind und ob sie während des Transports nicht beschädigt wurden.
 
-Wenn wir uns die Regeln von TCP genau anschauen, sehen wir zum Beispiel, dass jede Nachricht, die wir verschicken, eine Art Briefkopf hat (den "TCP-Header"). In diesem Briefkopf stehen viele nützliche Infos drin, die uns dabei helfen, die Nachricht richtig zu verschicken und zu empfangen.
+Das System arbeitet so, dass es immer ein "Gespräch" zwischen dem Sender und dem Empfänger gibt. Wenn der Empfänger den Brief (die Daten) erhält, schickt er eine Bestätigung zurück, dass alles in Ordnung ist. Wenn etwas schiefgeht, kann der Sender die Informationen erneut schicken. So funktioniert es: Sicherheit und Zuverlässigkeit für die Daten, die wir senden.

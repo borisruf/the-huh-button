@@ -1,0 +1,7 @@
+In einfachen Worten erklärt: 
+
+Die IP-Adressen, die wir benutzen, sind in verschiedene Klassen eingeteilt: A, B und C. Manche dieser Klassen sind sehr groß und haben viel Platz für viele Computer. Das klingt gut, aber manchmal brauchen wir nicht so viele Adressen. Deswegen wurde die Idee entwickelt, Subnetze zu schaffen. 
+
+Das bedeutet, dass wir die großen Gruppen von Adressen in kleinere Gruppen aufteilen können, die wir besser verwalten können. Früher haben wir die IP-Adressen nicht sehr sparsam genutzt, und das führt jetzt dazu, dass wir nicht mehr genug Adressen haben. 
+
+Mit Subnetzen können wir die Adressen besser nutzen, indem wir sie aufteilen und planen, wie wir die vielen Computer in einem Netzwerk ansprechen. Das hilft uns auch, die Sicherheit und Verwaltung der Netzwerke zu verbessern.

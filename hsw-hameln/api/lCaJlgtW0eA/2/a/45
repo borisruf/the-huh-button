@@ -1,0 +1,3 @@
+Die Aussage beschreibt, dass es im OSI-Modell eine niedrigste Ebene gibt, die Schicht 1. Auf dieser Schicht gibt es einfache Geräte, wie einen Repeater oder einen Hub. Diese Geräte sind nicht sehr intelligent, weil sie nur dafür da sind, Daten von einem Ort zum anderen zu senden, ohne viel darüber nachzudenken. 
+
+Das Ziel ist, dass verschiedene Netzwerke miteinander verbunden werden. Zum Beispiel kann ein Repeater ein Signal verstärken, damit es weiter reisen kann, und ein Hub verbindet mehrere Geräte in einem Netzwerk. Diese Geräte sind wichtig für die Verbindung, arbeiten aber nicht mit komplexen Informationen – darum nennt man sie "relativ dumme" Geräte. Sie tun ihren Job, ohne die Daten zu verstehen.

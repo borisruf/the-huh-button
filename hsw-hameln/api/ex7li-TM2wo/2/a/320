@@ -1,0 +1,5 @@
+Die Aussage bedeutet folgendes in einfacher Sprache:
+
+Das CRC 32 ist wie eine Art Sicherheitscheck, den wir im Ethernet verwenden. Wenn Daten als ein Paket über das Netzwerk gesendet werden, wird eine spezielle Zahl, die aus 32 Einsen und Nullen besteht, dazugefügt. Diese Zahl nennt man Prüfziffer oder Prüfsumme.
+
+Der Zweck dieser Prüfziffer ist es, zu überprüfen, ob die Daten während der Übertragung beschädigt wurden. Wenn die Daten beim Empfänger ankommen, kann dieser mit der Prüfziffer feststellen, ob alles in Ordnung ist. Wenn die Prüfziffer nicht mit den erhaltenen Daten übereinstimmt, weiß der Empfänger, dass ein Fehler passiert ist. So hilft das CRC 32, sicherzustellen, dass die Informationen korrekt übertragen wurden.

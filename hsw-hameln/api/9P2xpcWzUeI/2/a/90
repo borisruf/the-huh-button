@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es zwei Wege gibt, damit Netzwerke (VLANs) organisiert werden. Der erste Weg ist, die VLANs fest einzurichten. Das heißt, man entscheidet vorher genau, welche Computer zu welchem Netzwerk gehören, und ändert das nicht mehr. 
+
+In der Erklärung wird erzählt, dass man sich ein Gebäude mit mehreren Stockwerken vorstellen kann. Normalerweise hat jedes Stockwerk sein eigenes Netzwerk. Mit VLANs kann man jedoch flexibler sein und Computer von verschiedenen Stockwerken in ein gemeinsames Netzwerk bringen. So kann man die Netzwerke besser an die Bedürfnisse der Leute anpassen. 
+
+Die "statische Einrichtung von VLANs" bedeutet also, dass man von Anfang an genau festlegt, wo jeder Computer hingehört, ohne dass sich das später ändert.

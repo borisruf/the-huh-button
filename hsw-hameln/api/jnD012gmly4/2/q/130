@@ -1,0 +1,1 @@
+ Und da haben wir natürlich unter Umständen das Problem, dass wenn diese Information verloren geht, wir nicht mehr wissen, wo ist das eigentliche Frame Ende und das bewährt sich natürlich auf Dauer nicht.  Es war also beim ersten Ethernet-Protokoll so, dass man dort die Länge mit in den Header reingepackt hat.

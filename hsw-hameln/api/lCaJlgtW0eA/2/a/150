@@ -1,0 +1,5 @@
+Router sorgen dafür, dass verschiedene Netzwerke miteinander sprechen können. Wenn ein Netzwerk Informationen an alle Geräte im selben Netzwerk senden will, nennt man das einen „Broadcast“. 
+
+Die Aussage über „Broadcast-Domänen“ bedeutet Folgendes: Ein Router teilt netzwerktechnisch das große Netzwerk in kleinere Bereiche auf. In einem dieser Bereiche können Geräte Informationen an alle anderen Geräte senden. Wenn das Signal jedoch die Grenze zu einem anderen Bereich erreicht, stoppt es dort. 
+
+Das ist wichtig, weil so die Informationen gezielt und nicht unnötig an Geräte in anderen Bereichen gesendet werden, die diese Informationen nicht brauchen. So bleibt das Netzwerk effizienter.

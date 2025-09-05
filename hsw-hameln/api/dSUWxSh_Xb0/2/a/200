@@ -1,0 +1,5 @@
+Frequenz-Multiplexing ist eine Technik, die in Kupferleitungen verwendet wird, um mehrere Gespräche oder Daten gleichzeitig über das gleiche Kabel zu senden. 
+
+Stell dir das wie eine große Straße vor, auf der viele Autos fahren. Die Autos müssen in verschiedenen Spuren fahren, damit sie nicht kollidieren. So funktioniert es auch beim Frequenz-Multiplexing: Statt dass alle Daten zur gleichen Zeit auf der gleichen „Spur“ reisen und sich behindern, werden sie in verschiedene „Frequenzspuren“ aufgeteilt. 
+
+Das bedeutet, dass jede Nachricht eine eigene Frequenz „benutzt“ und so gleichzeitig gesendet werden kann, ohne dass sich die Nachrichten stören. Also, durch das Teilen eines breiten „Frequenzbandes“ in kleinere Teile können viele Informationen gleichzeitig durch das gleiche Kabel geschickt werden.

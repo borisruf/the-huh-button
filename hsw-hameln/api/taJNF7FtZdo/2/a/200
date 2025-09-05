@@ -1,0 +1,9 @@
+In dieser Erklärung geht es darum, wie Daten in einem Netzwerk von einem Ort zum anderen geschickt werden, ähnlich wie bei einer Reise von einer Stadt zur anderen. 
+
+1. **Hop**: Ein "Hop" ist einfach ein Schritt, wenn Daten durch einen Router geschickt werden. Man kann sich das wie eine Haltestelle in einer Stadt vorstellen. Wenn du mit dem Bus fährst, ist jede Haltestelle, an der du ankommst, ein "Hop".
+
+2. **Router**: Ein Router ist wie ein Verkehrsschild oder ein guter Freund, der dir sagt, wo du als Nächstes hingehen sollst. Wenn deine Daten (wie eine Nachricht) bei einem Router ankommen, muss der Router entscheiden, wo die Nachricht als Nächstes hingehen soll.
+
+3. **Routing-Tabelle**: Der Router hat eine Liste (die Routing-Tabelle), in der steht, wo die Daten als Nächstes hingeschickt werden sollen. Es ist so, als ob der Router einen Plan hat, um sicherzustellen, dass die Nachricht schnell und auf dem besten Weg zum Ziel kommt.
+
+Zusammengefasst: Wenn Daten von einem Ort zum anderen reisen, gibt es viele Schritte (Hops), und jeder Router hilft dabei, die beste Route zu finden, sodass die Daten möglichst schnell ankommen.

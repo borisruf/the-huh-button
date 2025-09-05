@@ -1,0 +1,3 @@
+Die Aussage bedeutet Folgendes: In einem Netzwerk gibt es am Telefon einen kleinen Schalter (Switch), der dafür sorgt, dass sowohl die Anrufe (Telefongespräche) als auch die Daten (wie Internet) über dasselbe Kabel laufen können. Dadurch kann man gleichzeitig telefonieren und am Computer arbeiten, ohne dass man zwei separate Kabel braucht.
+
+Es gibt zwei verschiedene Gruppen (VLANs): eine Gruppe für die Computer und eine Gruppe für die Telefone. Diese Trennung hilft, die Gespräche und Daten ordentlich zu halten, damit sie sich nicht gegenseitig stören. Das ist wichtig, damit die Telefonate gut und ohne Unterbrechungen funktionieren.

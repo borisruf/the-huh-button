@@ -1,0 +1,3 @@
+Wenn ein Computer wissen möchte, welche IP-Adresse zu einer bestimmten MAC-Adresse gehört, fragt er alle anderen Computer im Netzwerk. Das nennt man eine Broadcast-Anfrage. Alle Computer hören zu und der Computer, der die MAC-Adresse hat, antwortet mit seiner IP-Adresse. Man kann das auch auf einem Windows-Computer anschauen, um zu sehen, welche Informationen dabei gesammelt werden. 
+
+Das hilft, dass Computer im Netzwerk verstehen, wo die Daten hingehen sollen, indem sie die IP-Adresse finden, die zur MAC-Adresse gehört.

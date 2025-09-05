@@ -1,0 +1,9 @@
+Die Aussage erklärt, wie man Daten sicher von einem Ort zum anderen über das Internet senden kann. 
+
+Wenn du Daten sendest, zum Beispiel von einem Geschäft (Laden A) zu einem anderen Geschäft (Laden B), kann das Internet unsicher sein. Das bedeutet, dass jemand die Daten abfangen und lesen könnte. Um das zu verhindern, benutzt man etwas, das nennt sich VPN.
+
+Ein VPN, oder Virtual Private Network, ist wie ein geschützter Tunnel für deine Daten. Wenn deine Daten durch diesen Tunnel gehen, werden sie "verschlüsselt". Das heißt, die Informationen werden in eine geheime Sprache umgewandelt, die niemand sonst verstehen kann. 
+
+Um sicherzustellen, dass die Daten sicher sind, gibt es ein spezielles Stück Technik, das nennt sich VPN-Gateway. Es hilft dabei, die Daten zu verschlüsseln, bevor sie durch das unsichere Internet reisen. Wenn der Verschlüsselungsprozess gut funktioniert, kannst du sicher sein, dass deine Daten unversehrt von Laden A zu Laden B gelangen. 
+
+Zusammengefasst: Ein VPN schützt deine Daten, wenn sie über das Internet geschickt werden, damit niemand sie lesen kann.

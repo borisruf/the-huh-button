@@ -1,0 +1,7 @@
+In diesem Text geht es darum, wie Computer und Netzwerke miteinander verbunden werden. Wenn ein Computer (Rechner A) mit einem anderen Computer (Rechner B) sprechen möchte, sendet er seine Nachricht an ein Gerät namens Switch. 
+
+Der Switch ist wie ein Postbote, der die Nachricht an den richtigen Ort bringt. Zuerst schaut der Switch, wo sich Rechner B befindet. Er hat eine Liste (MAC-Adresstabelle), in der steht, wo jeder Computer angeschlossen ist. Wenn der Switch weiß, dass Rechner B an einem bestimmten Port (Anschluss) angeschlossen ist, schickt er die Nachricht dorthin.
+
+Wenn Rechner B dann antworten möchte, schaut der Switch wieder nach, wo Rechner A ist, und schickt die Antwort zurück.
+
+Der Switch muss also immer nachsehen, wo die Computer sind, damit die Nachrichten richtig ankommen, ob von A nach B oder umgekehrt.

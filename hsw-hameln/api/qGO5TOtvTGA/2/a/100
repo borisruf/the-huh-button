@@ -1,0 +1,5 @@
+Die Aussage beschreibt, dass es spezielle Programme gibt, die helfen, Daten in kleinen Netzwerken zu leiten. Diese Programme heißen Protokolle. 
+
+Ein Beispiel für so ein Protokoll ist RIP, was für "Routing-Information-Protokoll" steht. Diese Protokolle sind besonders nützlich, wenn die Netzwerke nicht sehr groß sind. Sie helfen dabei, den besten Weg zu finden, damit Daten von einem Punkt A zu einem Punkt B gelangen. 
+
+Die Protokolle sind wie Wegweiser, die den Routern sagen, wie sie die Daten am besten weiterleiten sollen. In größeren Netzwerken gibt es andere, komplexere Protokolle, aber für kleine Netzwerke sind diese einfacheren Protokolle perfekt.

@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie Daten in Netzwerken von einem Ort zu einem anderen geschickt werden, zum Beispiel von Punkt A nach Punkt B. Dafür nutzen wir Router, die wie Verkehrsleiter in einem Netzwerk sind. 
+
+Es gibt zwei Arten von Informationen, die Router nutzen: 
+
+1. **Statische Routing-Informationen**: Das sind feste Anweisungen, die nicht verändert werden. Man legt genau fest, welcher Weg benutzt wird.
+
+2. **Dynamische Routing-Protokolle**: Das sind intelligente Systeme, die sich anpassen können. Router können selbst herausfinden, welcher Weg gerade am besten ist, je nachdem, wo zum Beispiel Staus oder Probleme auftreten.
+
+Im Grunde geht es darum, dass Router die besten Wege finden, um Daten schnell und effizient zu senden, und diese Informationen kommen entweder von festen Regeln oder sie lernen ständig dazu.

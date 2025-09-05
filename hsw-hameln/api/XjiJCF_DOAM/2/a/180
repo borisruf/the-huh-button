@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es zwei Versionen von IP-Adressen gibt: 
+
+1. **IP-Version 4 (IPv4)**: Diese Art von Adresse hat 32 Bit. Das bedeutet, dass sie aus 32 Einsen und Nullen besteht. Diese 32 Bit bieten eine begrenzte Anzahl an möglichen Adressen. Deshalb sind mittlerweile nicht mehr genug IP-Adressen für alle Geräte da.
+
+2. **IP-Version 6 (IPv6)**: Diese neuere Version hat 128 Bit. Das sind viel mehr Einsen und Nullen und deswegen gibt es viel, viel mehr mögliche Adressen. Damit kann man sicherstellen, dass es genügend IP-Adressen für alle Geräte gibt, die mit dem Internet verbunden sind.
+
+Zusammengefasst: IPv4 hat 32 Bit, was die Anzahl der verfügbaren Adressen begrenzt, während IPv6 mit 128 Bit viel mehr Adressen ermöglicht.

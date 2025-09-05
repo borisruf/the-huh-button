@@ -1,0 +1,5 @@
+Dynamische Routen sind wie eine Gruppe von Freunden, die ständig miteinander reden, um den besten Weg zu einem Ziel zu finden. Wenn du von Punkt A nach Punkt B musst, schicken die Router, das sind die Freunde, sich gegenseitig Nachrichten. Diese Nachrichten helfen ihnen, herauszufinden, welcher Weg am schnellsten oder am besten ist.
+
+Im Gegensatz dazu ist statisches Routing wie ein fester Weg, den du allein bestimmt hast. Du schreibst ihn auf und hoffst, dass er immer funktioniert. Aber wenn sich etwas ändert, wie ein gesperrter Weg oder ein neuer Weg, dann musst du alles manuell anpassen.
+
+Mit dynamischen Routen passiert das automatisch. Die Router lernen, wie die Wege sind und passen sie an, wenn sich etwas ändert. So finden sie immer die beste Route, ohne dass jemand extra nachhelfen muss.

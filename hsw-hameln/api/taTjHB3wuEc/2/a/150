@@ -1,0 +1,15 @@
+Die Aussage beschreibt, wie man sicherstellt, dass Daten schnell und effizient von einem Sender zu einem Empfänger geschickt werden. Hier ist eine einfache Erklärung:
+
+1. **Sender und Empfänger**: Stell dir vor, jemand schickt dir Pakete mit Informationen, und du bist dafür zuständig, sie zu empfangen. Manchmal ist der Sender schneller als du. 
+
+2. **Bestätigung**: Der Sender möchte wissen, ob die Pakete angekommen sind. Dazu schickst du eine Bestätigung (Acknowledge), wenn du ein Paket erhalten hast.
+
+3. **Stop-and-Wait**: Ein einfaches Verfahren ist, dass der Sender wartet, bis er eine Bestätigung von dir bekommt, bevor er das nächste Paket schickt. Aber das dauert lange, weil der Sender viel Zeit verliert, während er wartet.
+
+4. **Pipelining**: Um die Zeit besser zu nutzen, kann der Sender mehrere Pakete gleichzeitig verschicken, ohne auf jede Bestätigung zu warten. 
+
+5. **Kumulative Bestätigung**: Anstatt für jedes Paket eine Bestätigung zu schicken, kannst du dem Sender sagen, dass du mehrere Pakete erhalten hast. Das nennt man "kumulative Bestätigung".
+
+6. **Fenstergröße**: Die Menge an Paketen, die der Sender gleichzeitig schicken kann, hängt von einem "Fenster" ab, das die Verbindung und die Zeit berücksichtigt.
+
+Im Grunde geht es darum, die Leitung immer voll zu nutzen, sodass Daten schnell und effizient übertragen werden, ohne viel Zeit zu verschwenden.

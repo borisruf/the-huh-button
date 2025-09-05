@@ -1,0 +1,7 @@
+Die Aussage mit den "führenden Nullen" bedeutet, dass man die Nullen, die am Anfang eines Blocks von Zahlen in einer IP-Adresse stehen, einfach weglassen kann, um die Adresse kürzer und einfacher zu machen.
+
+Stell dir vor, bei IP-Adressen in der neuen Version (IP Version 6) gibt es Blöcke mit vier Buchstaben oder Zahlen, die durch Doppelpunkte getrennt sind. Wenn in einem dieser Blöcke zum Beispiel „0042“ steht, kann man die Nullen am Anfang weglassen. Stattdessen kann man einfach „42“ schreiben. 
+
+Das hilft, die Adresse weniger kompliziert zu machen. Wenn eine Adresse zum Beispiel eine lange Folge von Nullen hat, kann man auch diese ganz weglassen, indem man zwei Doppelpunkte benutzt. 
+
+Es ist wichtig, dass man beim Kürzen vorsichtig ist, damit alle Adressen immer noch einzigartig sind und man genau weiß, wo die Nullen waren. So wird das Lesen und Verwenden von IP-Adressen einfacher.

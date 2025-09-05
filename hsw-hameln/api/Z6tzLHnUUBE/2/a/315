@@ -1,0 +1,5 @@
+Wenn wir darüber sprechen, wie Daten in einem lokalen Netzwerk (LAN) weitergeleitet werden, müssen wir auch die MAC-Adressen beachten. Jede Netzwerkkarte hat eine eigene MAC-Adresse, die wie eine spezielle Hausnummer für Geräte im Netzwerk ist. Um herauszufinden, welche MAC-Adresse zu welcher IP-Adresse gehört, verwenden wir ein Protokoll namens ARP (Address Resolution Protocol).
+
+Das Ziel von ARP ist es, die IP-Adressen (die auf einer höheren Ebene sind) den MAC-Adressen (die auf einer niedrigeren Ebene sind) zuzuordnen. Das hilft den Geräten im Netzwerk, einander zu finden und sich zu kommunizieren.
+
+Zusammengefasst: ARP hilft uns, die Adresse eines Geräts im Netzwerk herauszufinden, damit wir sicherstellen können, dass die Daten an das richtige Ziel gelangen.

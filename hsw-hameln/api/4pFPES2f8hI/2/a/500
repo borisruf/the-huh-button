@@ -1,0 +1,9 @@
+Die Aussage bedeutet Folgendes in einfacher Sprache:
+
+Wenn wir ein großes Netzwerk in kleinere Netzwerke (Subnetze) aufteilen, schauen wir uns die sogenannte Subnetzmaske an. Diese Maske hilft uns zu verstehen, welche Teile der Adresse für die Netzwerke selbst und welche für die einzelnen Geräte (Hosts) verwendet werden.
+
+In der Subnetzmaske gibt es Nullen und Einsen. Die Nullen zeigen uns, wie viele Geräte (Hosts) wir in einem Subnetz haben können. Wenn wir von unseren Nullen einige in Einsen umwandeln, bleibt eine bestimmte Anzahl von Nullen übrig. Diese übrig gebliebenen Nullen zählen wir.
+
+In unserem Beispiel haben wir gesagt, dass wir drei Nullen zu Einsen gemacht haben. Das bedeutet, von den ursprünglich vielen Nullen sind jetzt noch fünf Nullen übrig. Um herauszufinden, wie viele Geräte wir in einem Subnetz anschließen können, rechnen wir „2 hoch die Anzahl der übrig gebliebenen Nullen“. In diesem Fall rechnen wir „2 hoch 5“, was 32 ergibt. Also können wir 32 Adressen für Geräte in diesem kleinen Netzwerk vergeben.
+
+Zusammengefasst: Die übrig gebliebenen Nullen in der Subnetzmaske zeigen uns, wie viele Geräte wir in einem Subnetz haben können, und wir können diese Anzahl mit einer einfachen Rechnung herausfinden.

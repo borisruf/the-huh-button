@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass es sehr wichtig ist, dass bei der Übertragung von Sprache über das Internet (Voice over IP) genug Platz (Kapazität) für die Sprachdaten bleibt. Wenn jemand auf einem Computer große Daten herunterlädt, braucht das viel Internetgeschwindigkeit (Bandbreite) und es könnte weniger Platz für die Sprachübertragung geben. Das kann dazu führen, dass die Sprache schlecht oder gar nicht kommt. 
+
+Wenn wir die Sprachdaten und die Daten von Computern in separate Gruppen (VLANs) aufteilen, kann das helfen. So stören sich die großen Downloads und die Sprachübertragungen nicht gegenseitig. Außerdem wird es einfacher, die Netzwerke zu verwalten, weil man die Sprachdaten und die normalen Daten getrennt hält.

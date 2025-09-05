@@ -1,0 +1,15 @@
+In dieser Aussage wird erklärt, wie Computer miteinander kommunizieren, besonders wenn es um das Versenden von E-Mails geht.
+
+1. **Anwendungsprotokolle**: Das sind Regeln, die bestimmen, wie Programme miteinander reden. Es gibt zwei Hauptarten von Protokollen: TCP und UDP.
+
+2. **TCP und UDP**: 
+   - **TCP** (Transmission Control Protocol) ist wie ein ordentliches Gespräch, bei dem beide Seiten sicherstellen, dass alles klar und richtig verstanden wird.
+   - **UDP** (User Datagram Protocol) ist schneller, aber oft ungenauer. Es wird verwendet, wenn Geschwindigkeit wichtiger ist als Genauigkeit.
+
+3. **E-Mail-Versand**: Wenn du eine E-Mail sendest, nutzt das Programm TCP, um sicherzustellen, dass die Nachricht richtig ankommt.
+
+4. **Ports**: Das sind spezielle Türen, über die die Daten ankommen oder abgesendet werden:
+   - Für das Versenden von E-Mails (SMTP) wird Port 25 verwendet.
+   - Um E-Mails abzuholen (POP3) wird Port 110 verwendet.
+
+Die Aussage erklärt also, dass alle Programme, die E-Mails senden oder empfangen, auf diese Art der Kommunikation (TCP) basieren und bestimmte „Türen“ (Ports) benutzen, um ihre Daten zu senden.

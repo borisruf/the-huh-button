@@ -1,1 +1,7 @@
-In sehr einfacher Sprache bedeutet das: Wir haben eine Art Adresse, die wir Klasse B-Adresse nennen. Mit dieser Klasse B-Adresse arbeiten wir mit etwas, das wir Standard-Subnetzmaske nennen. In dieser Maske sind Stellen, die mit Nullen gefüllt sind. Wir haben hier 16 Nullen. Wenn wir wissen möchten, wie viele Computer oder "Hosts" maximal an diese Adresse angeschlossen werden können, nehmen wir diese 16 Nullen und machen eine Rechnung. Wir rechnen 2 hoch die Anzahl der Nullen, also 2 hoch 16. Das Ergebnis verrät uns, dass wir mehr als 65 Hosts anschließen können.
+Die Aussage bedeutet Folgendes in einfacher Sprache:
+
+Wenn wir die Anzahl der Computer (Hosts) berechnen wollen, die in einem Netzwerk mit einer bestimmten IP-Adresse leben können, schauen wir uns eine Zahl an. Diese Zahl zeigt uns, wie viele „Nullen“ in einer bestimmten Maske (Subnetzmaske) sind. Zum Beispiel, wenn wir eine Subnetzmaske für eine Klasse B-IP-Adresse nutzen, haben wir 16 Nullen. 
+
+Jetzt wird gerechnet: Wir nehmen 2 hoch 16, was bedeutet, dass wir 2 sechzehnmal multiplizieren. Dadurch bekommen wir die Zahl 65.536. Das klingt gut, aber wir müssen zwei Adressen abziehen. Das liegt daran, dass in jedem Netzwerk immer zwei spezielle Adressen reserviert sind: eine für das Netzwerk selbst und eine für die Broadcast-Adresse, die für die Kommunikation mit allen Geräten genutzt wird. 
+
+Deshalb haben wir am Ende etwa 65.534 Adressen, die wir wirklich nutzen können.

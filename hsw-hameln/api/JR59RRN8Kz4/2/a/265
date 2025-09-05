@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass wir den Datenverkehr im Netzwerk so steuern, dass bestimmte wichtige Daten zuerst behandelt werden. Wenn wir Sprachdaten, wie beim Telefonieren über das Internet, übertragen, ist es wichtig, dass diese Daten schnell und ohne Probleme ankommen. 
+
+Um das zu erreichen, schauen wir uns an, welche Art von Datenpaketen wir haben. Wenn wir die Sprachdaten erkennen, geben wir denen Vorrang, also behandeln wir sie schneller als andere Daten, die weniger wichtig sind. Das hilft, dass die Gespräche klar und störungsfrei sind.

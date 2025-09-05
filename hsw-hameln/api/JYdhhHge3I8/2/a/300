@@ -1,0 +1,5 @@
+Um das Ganze einfacher zu erklären: Wenn wir Daten über ein Netzwerk senden, müssen wir sicherstellen, dass sie in der richtigen Reihenfolge ankommen. Das ist wie beim Puzzlestück: Wenn die Teile nicht nummeriert sind, wird es schwierig, sie richtig zusammenzusetzen. 
+
+In einem Netzwerk können Daten auf verschiedene Arten gesendet werden. Manchmal nehmen sie unterschiedliche Wege (also verschiedene "Routen"), und sie können auch zu verschiedenen Zeiten ankommen. Damit die Daten trotzdem richtig zusammengefügt werden können, brauchen wir eine Art Nummerierung für jedes Stück. So wissen wir, in welcher Reihenfolge alles wieder zusammengesetzt werden muss, wenn die Daten beim Empfänger ankommen. 
+
+Das hilft, wenn die Daten in kleine Pakete aufgeteilt und durch verschiedene „Vermittler“ geschickt werden, wie etwa Router oder Switches. Diese sorgen dafür, dass die Daten am richtigen Ort ankommen, egal wie sie unterwegs waren.

@@ -1,5 +1,7 @@
-IP und TCP sind zwei wichtige Regeln, die uns helfen, im Internet zu arbeiten. IP ist wie eine Postanschrift. Es bestimmt, wohin Daten geschickt werden sollen, genau wie eine Briefmarke auf einem Brief. Aber es überprüft nicht, ob der Brief tatsächlich ankommt, es verschickt die Daten einfach nur.
+Die Aussage bedeutet, dass es zwei wichtige Protokolle gibt, die beim Senden von Daten im Internet zusammenarbeiten: IP und TCP.
 
-Hier kommt TCP ins Spiel. TCP ist wie der Postbote. Es kümmert sich darum, dass die Daten tatsächlich beim richtigen Empfänger ankommen. Und nicht nur das - TCP überprüft auch, ob die Daten richtig und vollständig sind. Wenn ein Teil der Daten verloren geht oder Fehler hat, fragt TCP nach, bis alles richtig und vollständig ist. 
+- **IP** ist wie ein Postbote. Er sorgt dafür, dass die Daten an die richtige Adresse (das Ziel) geschickt werden. Er kümmert sich nicht darum, ob die Daten sicher und ohne Fehler ankommen; sein Job ist nur, die Daten auszuliefern.
 
-Mit der Kombination aus IP und TCP können wir sicherstellen, dass unsere Daten immer richtig und sicher an ihr Ziel kommen.
+- **TCP** ist wie ein Empfangsbestätigungssystem. Er stellt sicher, dass die Daten wirklich ankommen und dass alles korrekt ist. Wenn etwas fehlt oder fehlerhaft ist, kann TCP dafür sorgen, dass die fehlenden Teile erneut gesendet werden.
+
+Zusammen arbeiten IP und TCP so, dass die Daten nicht nur gesendet werden, sondern auch sicher und richtig ankommen.

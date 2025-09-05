@@ -1,0 +1,1 @@
+ Da ist ein Beispiel dieser zyklische Redundanz -Check, den wir uns dann gleich als nächstes auch noch ansehen werden.   Grundsätzlich bedeutet das, wenn wir Fehler erkennen wollen, müssen wir zu den eigentlichen Nutzdaten noch eine Zusatzinformation hinzufügen.

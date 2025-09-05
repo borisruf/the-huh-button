@@ -1,0 +1,5 @@
+Die Aussage beschreibt, wie Informationen in Computernetzwerken verarbeitet und übertragen werden, insbesondere in Bezug auf das OSI-Modell. Hier ist eine einfache Erklärung:
+
+In einer bestimmten Schicht des OSI-Modells, der "Darstellungsschicht" (Schicht 6), geht es darum, wie die Daten aufbereitet werden, bevor sie an den Empfänger gesendet werden. Wenn ich eine E-Mail schreibe und sie im ASCII-Format absende, wird diese E-Mail an der anderen Stelle wieder in diesem ASCII-Format angezeigt. Das bedeutet, dass die Daten korrekt umgewandelt werden, damit der Empfänger sie verstehen kann.
+
+Zusammengefasst: Die Darstellungsschicht sorgt dafür, dass die gesendeten Informationen richtig codiert und lesbar gemacht werden, sodass der Empfänger sie auch richtig sieht.

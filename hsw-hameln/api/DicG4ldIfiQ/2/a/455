@@ -1,0 +1,5 @@
+Das, was Nyquist gesagt hat, ist wichtig für das Verstehen, wie Informationen über Kabel oder anderes übertragen werden. Er hat ein Prinzip aufgestellt, das besagt: Wenn man ein perfektes Medium hat, in dem es kein Rauschen gibt, dann können wir trotzdem nur eine bestimmte Menge an Informationen übermitteln. 
+
+Stell dir ein Wasserrohr vor. Egal wie stark das Wasser fließt, die Größe des Rohrs (das ist wie die Bandbreite) bestimmt, wie viel Wasser insgesamt hindurchpassen kann. Auch wenn das Wasser (die Informationen) klar ist und es keine Hindernisse gibt, kann das Rohr nur eine bestimmte Menge Wasser auf einmal transportieren.
+
+In echten Situationen, also in der echten Welt, gibt es immer Rauschen (Störungen), die die Übertragung komplizierter machen. Aber das Grundprinzip bleibt: Die Menge an Informationen, die wir senden können, hängt von der Bandbreite ab.

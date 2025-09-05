@@ -1,0 +1,13 @@
+Es gibt verschiedene Arten von Netzwerken, in denen Computer miteinander kommunizieren können. Manchmal sind diese Netzwerke durch physische Dinge wie Wände oder Stockwerke getrennt. Ein gutes Beispiel ist ein Gebäude mit mehreren Stockwerken, in dem jeder Stock ein eigenes Netzwerk haben könnte. 
+
+Jetzt kommt die Idee der „VLANs“ (Virtuelle LANs) ins Spiel. Das sind wie unsichtbare Netzwerke, die über die Stockwerke hinweg bestehen. Dadurch können Computer, die auf verschiedenen Stockwerken sind, in dasselbe Netzwerk gehören, wenn es nötig ist.
+
+Es gibt zwei Möglichkeiten, wie man diese VLANs festlegt. Die erste nennt man statisch. Das bedeutet, dass der Netzwerktechniker auf jedem Anschluss eines Geräts sagen muss, zu welchem VLAN es gehört. Das kann schwierig sein, weil der Techniker immer darauf achten muss, dass der richtige Computer am richtigen Anschluss ist.
+
+Die zweite Möglichkeit ist dynamisch. Hierbei gibt es eine zentrale Stelle, die entscheidet, welchem VLAN ein Computer angehört, basierend auf einer einzigartigen Nummer, die jeder Computer hat (seiner MAC-Adresse).
+
+Wenn Informationen zwischen diesen VLANs geschickt werden, wird im Hintergrund ein kleiner „Sticker“ hinzugefügt, der sagt, zu welchem VLAN die Daten gehören. Wenn die Daten ankommen, wird dieser „Sticker“ entfernt, damit der Computer damit arbeiten kann.
+
+Wenn ein Computer in einem VLAN mit einem Computer in einem anderen VLAN sprechen möchte, braucht er einen speziellen „Router“ als Helfer, um weiterzukommen.
+
+Jedes VLAN bildet eine eigene Gruppe für Informationen. So haben wir verschiedene Gruppen, die sich nicht gegenseitig stören, auch wenn sie im gleichen Gebäude sind. Ein neuer Begriff, den wir hier auch benutzen, ist „VLAN-Trunk“. Das ist wie ein Bündel von Kabeln, die viele dieser VLANs zusammenhalten können.

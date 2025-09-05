@@ -1,0 +1,5 @@
+Die Aussage "Weil ja eine Zwischenspeicherung stattfindet. Genau, das Asynchrone ist dort das Entscheidende." kann man einfach erklären:
+
+In einem Computer-Netzwerk können viele Leute gleichzeitig miteinander sprechen, aber nicht immer gleichzeitig. Damit die Gespräche nicht durcheinandergehen, gibt es spezielle Geräte wie Router oder Switches. Wenn ein Gerät eine Nachricht an ein anderes sendet, kann es happen, dass der Empfänger gerade beschäftigt ist. Dann wird die Nachricht nicht einfach verloren, sondern sie wird für einen Moment gespeichert, bis der Empfänger bereit ist.
+
+Das nennt man "Zwischenspeicherung". Das Wort "asynchron" bedeutet, dass die Dinge nicht gleichzeitig passieren müssen. Bei der Zwischenspeicherung kann die Nachricht also ein bisschen warten, bis der Empfänger sie abholen kann. Dadurch können viele verschiedene Nachrichten in einem Netzwerk geschickt werden, ohne dass es zu Verzögerungen oder Störungen kommt.

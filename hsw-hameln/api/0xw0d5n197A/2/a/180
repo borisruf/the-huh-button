@@ -1,0 +1,9 @@
+Bei Netzwerken ist es wichtig, sicherzustellen, dass niemand unerlaubt Zugang hat oder Schaden anrichten kann. Um das zu schützen, gibt es verschiedene Wege.
+
+Eine Möglichkeit ist die Nutzung von so genannten "Firewalls", die wie ein Sicherheitstor für das Netzwerk arbeiten. Diese Firewalls überprüfen, ob die Daten, die ins Netzwerk kommen, von vertrauenswürdigen Quellen stammen. Wenn die Daten nicht vertrauenswürdig sind, lässt die Firewall sie nicht rein.
+
+Zusätzlich gibt es Systeme, die automatisch Einbrüche in ein Netzwerk erkennen. Man nennt das "Intrusion Detection" oder "Intrusion Prevention". Diese Systeme sind wichtig, weil sie helfen, Gefahren zu erkennen und zu bekämpfen, bevor sie schädlich werden.
+
+Das Problem dabei ist, dass es nicht immer einfach ist, herauszufinden, welche Daten gut oder schlecht sind. In der Vergangenheit haben wir zum Beispiel gelernt, dass man oft nur nach bestimmten Adressen (IP-Adressen) und Ports schaut, um zu entscheiden, ob Daten gut sind. Doch manchmal sind die Gefahren auch von den eigenen Nutzern im Netzwerk, und nicht immer von außen.
+
+Zusammengefasst: Netzwerksicherheit ist wichtig, und es gibt Werkzeuge wie Firewalls und spezielle Systeme, um Einbrüche zu erkennen und zu verhindern. Aber es ist eine Herausforderung, die richtigen Entscheidungen zu treffen, um das Netzwerk sicher zu halten.

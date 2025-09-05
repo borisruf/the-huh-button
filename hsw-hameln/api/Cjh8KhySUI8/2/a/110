@@ -1,0 +1,5 @@
+UDP ist ein Protokoll, das hilft, Daten schnell zu übertragen. Es wird oft für Sachen genutzt, bei denen Geschwindigkeit wichtiger ist als Sicherheit, zum Beispiel bei Telefonanrufen über das Internet (IP-Telefonie) oder beim Anschauen von Videos auf YouTube.
+
+Bei diesen Anwendungen ist es nicht so schlimm, wenn manchmal ein kleines Stück der Daten fehlt. Das menschliche Auge oder das Ohr bemerkt das oft nicht, und es stört den Nutzer nicht. Deshalb macht man es so, dass die Daten einfach schnell gesendet werden, ohne zu überprüfen, ob alles angekommen ist. 
+
+UDP hat also weniger Regeln und Kontrollen als andere Protokolle wie TCP, wo sichergestellt wird, dass alle Daten sicher ankommen. Bei UDP geht es einfach darum, die Daten schnell von einem Ort zum anderen zu bringen, auch wenn dabei ein paar Teile verloren gehen können.

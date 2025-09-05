@@ -1,0 +1,10 @@
+In dieser Aussage geht es darum, wie drei Kommunikationspartner (also Leute oder Geräte, die miteinander sprechen wollen) sich abwechseln, um Informationen über ein Kabel zu senden. 
+
+Stell dir vor, jeder Partner hat eine bestimmte Zeit, um zu sprechen. Wir sehen das wie eine Art Zeitplan:
+
+- Auf der linken Seite sehen wir die Zeit, die von links nach rechts verläuft.
+- Oben und unten im Bild sehen wir die Bandbreite, also die Möglichkeit, wie viel gleichzeitig übertragen werden kann.
+
+Die Partner wechseln sich ab, genau wie bei einer Runde in einem Spiel, wo jeder abwechselnd dran kommt. Das sieht dann so aus: Zuerst spricht Partner 1, danach Partner 2, dann Partner 3 und dann wieder Partner 1, Partner 2, Partner 3 und so weiter.
+
+So können alle Partner miteinander kommunizieren, auch wenn sie nur ein Kabel benutzen. Man nennt das Zeit-Multiplexing, weil die Zeit aufgeteilt wird, damit jeder Partner zur richtigen Zeit senden kann.

@@ -1,0 +1,5 @@
+In einer IP-Adresse gibt es verschiedene Klassen, die helfen, sie zu ordnen. Eine IP-Adresse besteht aus vier Teilen, die man Oktette nennt. Jedes Oktett kann man in binärer Form (also in 0 und 1) schreiben.
+
+Wenn das erste Bit (die erste Zahl) im ersten Oktett eine 0 ist, gehört die IP-Adresse zur Klasse A. Das bedeutet, dass die Zahlen im ersten Oktett zwischen 0 und 127 liegen können. 
+
+Das zeigt uns also, dass Klasse A die Werte von 0 bis 127 im ersten Teil der IP-Adresse erlaubt.

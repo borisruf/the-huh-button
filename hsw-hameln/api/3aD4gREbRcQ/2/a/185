@@ -1,0 +1,13 @@
+Die Aussage beschreibt, was in den oberen Schichten eines Modells passiert, das zeigt, wie Computer über Netzwerke miteinander kommunizieren. Hier ist eine einfache Erklärung:
+
+1. **Schicht 5 - Sitzungsschicht**:
+   - Diese Schicht kümmert sich um die Verbindung zwischen zwei Computern. 
+   - Sie sorgt dafür, dass eine Verbindung aufgebaut wird, z.B. wenn du eine E-Mail senden möchtest und dein Computer mit dem Mailserver spricht.
+   - Die Sitzungsschicht sorgt auch dafür, dass die Verbindung stabil bleibt, während die Daten gesendet werden.
+   - Wenn die Kommunikation vorbei ist, sorgt diese Schicht dafür, dass sich die Computer wieder abmelden.
+
+2. **Schicht 6 - Darstellungsschicht**:
+   - Diese Schicht sorgt dafür, dass die Daten in einer für die Computer verständlichen Form dargestellt werden.
+   - Hier wird dafür gesorgt, dass die Informationen richtig kodiert sind, damit der Computer sie lesen kann.
+
+Zusammengefasst: Die Sitzungsschicht hilft beim Herstellen und Beenden von Verbindungen, während die Darstellungsschicht dafür sorgt, dass die Daten korrekt angezeigt werden.

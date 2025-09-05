@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie man IP-Adressen in verschiedene Gruppen einteilt, basierend auf einem bestimmten Teil der Adresse, dem ersten Oktett. Hier ist die Erklärung in einfacher Sprache:
+
+Wenn wir uns die IP-Adresse anschauen, besteht sie aus vier Teilen, die Oktette genannt werden. Jedes Oktett kann als eine Zahl von 0 bis 255 dargestellt werden. 
+
+Die ersten zwei Ziffern in diesem ersten Teil, dem ersten Oktett, sind wichtig, um zu bestimmen, zu welcher Klasse die IP-Adresse gehört. Wenn die ersten zwei Ziffern "10" sind (also die ersten zwei Bits), bedeutet das, dass die Zahl in diesem Teil zwischen 128 und 191 liegt. 
+
+Das bedeutet also, dass diese IP-Adresse zur Klasse B gehört. Kurz gesagt: Wenn die ersten zwei Bits "10" sind, ist die Adresse in einer bestimmten Gruppe, die man Klasse B nennt.

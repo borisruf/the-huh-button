@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass jeder Router in einem Netzwerk Informationen über die besten Wege zu anderen Routern hat. Wenn ein Router Informationen über einen Weg hat, teilt er diese mit den Routern, die direkt neben ihm sind. 
+
+Die Nachbarn nehmen dann diese Informationen und kombinieren sie mit ihren eigenen. So wissen sie besser, wie sie Daten zu anderen Routern schicken können. 
+
+Die Informationen, die die Router sammeln, sind in etwas gespeichert, das man Routing-Tabelle nennt. In dieser Tabelle stehen Details zu den Wegen, wie viele Schritte (Hop-Count) es braucht, um von einem Router zu einem anderen zu gelangen. 
+
+Um es einfach zu sagen: Router teilen ihre Weginfos und helfen sich gegenseitig, den besten Weg für Daten zu finden.

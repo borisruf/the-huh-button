@@ -1,0 +1,5 @@
+Hier ist die Aussage in sehr einfacher Sprache erklärt:
+
+Wenn wir ein Netzwerk planen, müssen wir zuerst verstehen, welche Art von Anwendungen verwendet werden. Zum Beispiel, wenn wir Telefongespräche über das Internet machen wollen (das nennt man Voice-over-IP), müssen wir darauf achten, dass es dabei zu Verzögerungen kommen kann. Das ist anders als bei normalen Datenübertragungen. Auch ist es wichtig zu wissen, in welcher Umgebung das Netzwerk arbeitet. In manchen Umgebungen gibt es viele Störungen, die Probleme verursachen können.
+
+Dann schauen wir uns den nächsten Schritt an, der sich mit den Bereichen beschäftigt, die für den Transport der Daten wichtig sind. Hier müssen wir herausfinden, ob es bereits eine Infrastruktur gibt, die wir nutzen können. Die Frage ist auch, ob wir alles einheitlich gestalten wollen oder ob wir verschiedene Systeme miteinander verbinden müssen, die nicht gleich sind.

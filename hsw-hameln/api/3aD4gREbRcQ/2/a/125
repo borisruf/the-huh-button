@@ -1,0 +1,8 @@
+In dieser Erklärung geht es darum, wie Computer miteinander sprechen und Informationen austauschen. Das macht man über verschiedene Schichten, die man sich wie Etagen in einem Gebäude vorstellen kann. Die wichtigsten Etagen für Anwendungen, wie sie im OSI-Modell heißen, sind die obersten drei.
+
+Auf diesen obersten Etagen gibt es spezielle Regeln, die Protokolle genannt werden. Diese Protokolle helfen dabei, Informationen so zu senden, dass alle Computer verstehen, was gesagt wird. Zwei Beispiele für solche Protokolle sind:
+
+1. **SMTP** (Simple Mail Transfer Protocol): Das ist das Protokoll, das verwendet wird, um E-Mails zu senden.
+2. **POP3** (Post Office Protocol Version 3): Dieses Protokoll hilft dabei, E-Mails abzuholen, die auf einem Server gespeichert sind.
+
+Wenn wir uns diese beiden Protokolle anschauen, sehen wir, wie Computer Informationen austauschen und damit praktisch arbeiten, zum Beispiel beim E-Mail-Versand. Wir wollen also diese Protokolle nutzen, um zu zeigen, wie die Kommunikation auf den oberen Schichten des OSI-Modells funktioniert.

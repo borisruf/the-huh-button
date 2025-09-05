@@ -1,0 +1,11 @@
+Die Aussage „255.255.255.0“ beschreibt eine Subnetzmaske, die in Netzwerken verwendet wird, um zu zeigen, welcher Teil einer IP-Adresse für das Netzwerk selbst verwendet wird und welcher Teil für die einzelnen Geräte im Netzwerk. 
+
+Hier ist eine einfache Erklärung:
+
+1. **Subnetzmaske**: Das ist wie eine Adresse, die hilft, ein großes Netzwerk in kleinere Teile zu teilen. Diese kleineren Teile nennt man Subnetze.
+  
+2. **255.255.255.0**: Bei dieser speziellen Subnetzmaske sagt die „255“ aus, dass die ersten drei Teile (also Dreiergruppen von Zahlen) der IP-Adresse zum Netzwerk gehören, und das letzte „0“ sagt, dass der letzte Teil für die Geräte im Netzwerk gedacht ist. 
+
+3. **Was macht das?**: Mit dieser Maske kann man verstehen, wie viele Geräte man in diesem Subnetz haben kann. In diesem Fall können bis zu 256 Geräte (von 0 bis 255) eine eigene IP-Adresse im gleichen Subnetz haben.
+
+Zusammengefasst hilft die Subnetzmaske also, große Netzwerke zu organisieren, damit jedes Gerät seine eigene Adresse hat und man die Netzwerke besser verwalten kann.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir dafür sorgen sollten, dass die Daten immer aktiv über die Verbindung gesendet werden. Wir wollen, dass die Leitung, also die "Röhre", in die die Daten geschickt werden, immer voll ist. Das heißt, es sollen ständig Daten hin und her geschickt werden, ohne dass es lange Pausen gibt.
+
+Manchmal sind der Sender, der die Daten schickt, und der Empfänger, der die Daten empfängt, unterschiedlich schnell. Der Sender kann vielleicht ganz schnell senden, aber der Empfänger braucht mehr Zeit, um die Daten zu verarbeiten. Deshalb müssen sie eine Vereinbarung treffen, damit sie besser zusammenarbeiten können. Diese Vereinbarung nennt man „Fenster“. Sie hilft dabei, dass der Sender weiß, wie viele Daten er gleichzeitig schicken kann, ohne den Empfänger zu überlasten.
+
+Zusammengefasst ist das Ziel, die Verbindung immer aktiv zu halten und dafür zu sorgen, dass die Daten so effizient wie möglich zwischen Sender und Empfänger fließen, ohne dass es zu viele Pausen gibt.

@@ -1,1 +1,1 @@
- Also jeweils 8-Bit pro Oktett, jeweils 32 -Bit pro Subnetzmaske.  Auch die werden durch Punkte voneinander getrennt und auch die werden letzten Endes in dezimaler Schreibweise für das bessere Verständnis dargestellt.
+ Also jede IP -Adresse muss eigentlich immer im Zusammenhang gesehen werden mit der ihr zugewiesenen Subnetzmaske.   Und ähnlich wie eine IP-Version 4-Adresse besteht auch eine Subnetzmaske für IP-Version 4 aus vier Oktetten, also jeweils 8-Bit pro Oktett, jeweils 32-Bit pro Subnetzmaske.

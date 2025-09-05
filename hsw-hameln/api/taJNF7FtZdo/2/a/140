@@ -1,0 +1,5 @@
+Stell dir vor, ein Router ist wie ein Verkehrsposten an einer Kreuzung. Wenn ein Datenpaket, das von einem Computer kommt, beim Router ankommt, schaut der Router zuerst, ob er der letzte Halt ist, bevor das Datenpaket sein Ziel erreicht.
+
+Wenn der Router sieht, dass er fast beim Ziel ist, leitet er das Datenpaket direkt weiter zum Ziel, ohne es an einen anderen Router zu schicken. So kann das Paket schnell ankommen, genau wie ein Auto, das schnell zu seinem Ziel fahren möchte. 
+
+Der Router hilft also dabei, den besten und schnellsten Weg für die Daten zu finden, damit sie schnell und ohne Stau ankommen.

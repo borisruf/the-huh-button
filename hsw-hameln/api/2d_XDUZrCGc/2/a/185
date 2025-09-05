@@ -1,0 +1,3 @@
+Die Aussage bedeutet einfach: Wenn man viele Computer in einem Netzwerk verbinden möchte, braucht man eine große Anzahl von IP-Adressen. Dafür benutzt man die Klasse A, weil sie viele Adressen hat. Wenn man weniger Computer hat, benutzt man die Klasse B, die weniger Adressen hat. Und für kleine Netzwerke, zum Beispiel Zuhause oder im Büro, benutzt man die Klasse C, die die wenigsten Adressen hat. 
+
+Also, man wählt die Klasse je nach Bedarf, je nachdem, wie viele IP-Adressen man braucht.

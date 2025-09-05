@@ -1,0 +1,10 @@
+Okay! Lass uns die Aussage einfach erklären.
+
+In dem Text reden wir über das Internetprotokoll (IP). IP hilft dabei, Daten über das Internet zu verschicken. Wenn wir uns die IP-Daten anschauen, finden wir viele verschiedene Informationen. Ein ganz wichtiger Teil davon sind die Adressen: 
+
+- Die **IP-Adresse des Senders** (wo die Daten herkommen)
+- Die **IP-Adresse des Empfängers** (wo die Daten hingeschickt werden)
+
+Diese Adressen sind wichtig, damit die Daten richtig ankommen. 
+
+Im Text wird gesagt, dass wir später noch genauer anschauen werden, wie all diese Punkte funktionieren. Aber jetzt schauen wir uns erstmal den IP-Header an, der verschiedene klare Informationen enthält, ähnlich wie bei anderen Protokollen, die wir bereits gelernt haben.

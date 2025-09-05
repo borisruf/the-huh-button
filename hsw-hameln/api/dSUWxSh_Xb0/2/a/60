@@ -1,0 +1,11 @@
+Die Aussage beschreibt, dass wir mehrere Datenströme (wie Gespräche oder Informationen) durch ein einziges Medium (zum Beispiel ein Kabel) senden können. Man kann sich das so vorstellen: Wenn man viel Geschirr hat, kann man alles in einen großen Korb packen, anstatt für jede Sache einen eigenen Korb zu nehmen. 
+
+Hier sind die Hauptpunkte einfach erklärt:
+
+1. **Multiplexing**: Dabei werden mehrere Daten von verschiedenen Quellen in einem einzigen Kanal (z.B. Kabel) zusammengefasst.
+
+2. **Sparen von Ressourcen**: Indem wir vier Kanäle auf einen Kanal zusammenfassen, nutzen wir weniger "Platz" – von vier separaten Wegen zu einem gemeinsamen.
+
+3. **Probleme bei der Kommunikation**: Wenn mehrere Daten über einen Kanal geschickt werden, kann es zu Schwierigkeiten kommen. Man muss sicherstellen, dass die Daten nicht durcheinander geraten, so wie wenn viele Leute gleichzeitig reden könnten und man nichts versteht. 
+
+Insgesamt geht es darum, wie man viele Informationen effizient über eine einzige Verbindung senden kann und dabei darauf achten muss, dass alles gut klappt.

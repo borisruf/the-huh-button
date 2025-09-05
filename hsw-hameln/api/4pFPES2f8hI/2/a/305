@@ -1,0 +1,9 @@
+Die Aussage erklärt, wie die Subnetzmaske funktioniert, besonders wenn man von einem großen Netzwerk kleinere Netzwerke (Subnetze) erstellt.
+
+Stell dir vor, du hast eine große Kiste mit Spielzeug (das große Netzwerk) und du möchtest die Kiste in kleinere Fächer (Subnetze) aufteilen, damit mehr Ordnung herrscht. Die Subnetzmaske hilft dabei.
+
+In einer Subnetzmaske gibt es zwei Teile: den Netzanteil und den Hostanteil. Der Netzanteil sagt uns, zu welchem Netzwerk das Spielzeug gehört, und der Hostanteil sagt uns, welches einzelne Spielzeug in diesem Netzwerk ist.
+
+In der ursprünglichen Subnetzmaske (zum Beispiel bei „Slash24“) sind die ersten 24 Bits (das sind die ersten 24 Stellen) Einsen. Das bedeutet, dass 8 Stellen (also die letzten 8 Nullen) Platz für verschiedene Spielzeuge (Hosts) lassen. Wenn wir jetzt das Netzwerk kleiner machen wollen und von den 8 Nullen 3 Nullen in Einsen umwandeln (wie in „Slash27“), bedeutet das, dass wir weniger Platz für Spielzeuge, aber mehr Fächer haben. Das hilft uns, das große Netzwerk in kleinere, besser organisierte Netzwerke aufzuteilen.
+
+Zusammengefasst: Wenn wir von großen Netzen in kleinere Netze aufteilen, sehen wir, wie viele Bits wir für das Netzwerk und wie viele für die Hosts verwenden. Indem wir Nullen in Einsen umwandeln, schaffen wir neue Netzwerke.

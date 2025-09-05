@@ -1,0 +1,9 @@
+Die Aussage bedeutet Folgendes:
+
+Ich möchte, dass die Leute in meinem Netzwerk auf Internetseiten zugreifen können. Das mache ich, indem ich einen speziellen "Weg" (wir nennen ihn Port 80) öffne. Aber ich muss aufpassen, denn über diesen Weg können nicht nur Webseiten, sondern auch Programme wie Skype laufen, die ich vielleicht nicht in meinem Netzwerk haben will.
+
+Deshalb muss ich die Daten, die über diesen Weg geschickt werden, genau ansehen. So kann ich feststellen, ob da ein Skype-Gespräch dabei ist, das ich blockieren möchte. 
+
+Außerdem gibt es eine Technik namens Virtual Private Network (VPN), die wichtig ist, wenn ich zwei Netzwerke miteinander verbinden will. 
+
+Zusammengefasst: Ich möchte, dass die Leute das Internet nutzen können, aber ich muss sicherstellen, dass sie nicht alles machen dürfen, was sie wollen.

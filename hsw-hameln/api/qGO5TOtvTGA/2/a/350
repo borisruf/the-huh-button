@@ -1,0 +1,15 @@
+In diesem Text geht es darum, wie Computer in einem Netzwerk miteinander kommunizieren, vor allem über Router. Ein Router ist ein Gerät, das Daten von einem Ort zu einem anderen sendet. 
+
+Es gibt zwei Arten, wie Router sich die besten Wege merken können:
+
+1. **Statisches Routing**: Hier legt eine Person fest, wie die Daten gesendet werden sollen. Das kann problematisch sein, weil die Verbindungen kaputtgehen oder neue Geräte hinzukommen können, und dann muss alles manuell geändert werden.
+
+2. **Dynamisches Routing**: Hier arbeiten die Router selbstständig und finden die besten Wege heraus. Sie nutzen dafür besondere Informationen, die sich ändern können.
+
+Jetzt gibt es zwei wichtige Arten von dynamischem Routing:
+
+- **Distance-Vector-Protokolle**: Diese sind für kleinere Netzwerke geeignet. Die Router sprechen mit ihren Nachbarn und sagen ihnen, wie sie Daten weiterleiten sollen. Das kann jedoch lange dauern, bis alle Informationen im gesamten Netzwerk angekommen sind.
+
+- **Link-State-Protokolle**: Diese sind für größere Netzwerke besser. Jeder Router hat ein Bild des gesamten Netzwerks und weiß genau, wo die anderen Router sind. Sie senden kleine Nachrichten, die die aktuelle Netzwerk-Informationen enthalten, an alle anderen Router. So wird alles schnell und effizient aktualisiert.
+
+Zusammengefasst: Dynamische Routing-Protokolle helfen Routern, die besten Wege auf intelligente Weise zu finden, ohne dass eine Person ständig alles ändern muss.

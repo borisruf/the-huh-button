@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass in der Routing-Tabelle eines Routers mindestens drei wichtige Informationen stehen müssen. Die erste dieser Informationen ist die Adresse des Ziels, zu dem die Daten geschickt werden sollen. Diese Adresse nennt man IP-Adresse. 
+
+Um das einfach zu erklären: Stell dir vor, du willst einen Freund besuchen. Du brauchst die Adresse deines Freundes, um dorthin zu gelangen. Genauso benötigt der Router die IP-Adresse des Zielsystems, um die Daten an den richtigen Ort zu schicken.

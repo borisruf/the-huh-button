@@ -1,0 +1,3 @@
+Die Aussage bedeutet: Wenn man feste Routen in einem Netzwerk nutzt, die man selbst einmal eingerichtet hat, kann es schwierig werden, damit zu arbeiten. Das liegt daran, dass Verbindungen kaputtgehen oder neue Router hinzukommen können, und man dann nicht mehr weiß, wie die beste Route ist. 
+
+Wenn man hingegen dynamisches Routing verwendet, nutzen die Router spezielle Programme, um selbst zu entscheiden, welcher Weg am besten ist. Sie sprechen miteinander und finden gemeinsam die besten Routen, ohne dass man alles manuell einstellen muss.

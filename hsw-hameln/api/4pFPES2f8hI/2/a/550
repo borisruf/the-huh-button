@@ -1,0 +1,9 @@
+In dem Text geht es darum, wie man große Netzwerke in kleinere Teile, sogenannte Subnetze, aufteilen kann. Da IP-Adressen langsam knapp werden, ist es wichtig, clever damit umzugehen.
+
+Hier ist eine einfache Erklärung der Aussage:
+
+Wir schauen uns eine Tabelle an, die zeigt, wie wir ein großes Netzwerk in acht kleinere Netzwerke aufteilen. In der Tabelle sehen wir auch eine Spalte, die beschreibt, wie viele Computer (Hosts) wir in jedem kleinen Netzwerk anschließen können.
+
+Jedes kleine Netzwerk hat 32 IP-Adressen, aber wir können nicht alle benutzen. Es gibt immer eine Adresse, die den Namen des Netzwerks trägt (Netz-ID) und eine Adresse, die für spezielle Nachrichten verwendet wird (Broadcast-ID). Deshalb können wir nur 30 von den 32 Adressen für Computer verwenden.
+
+Zusammengefasst: Aus 32 Adressen in jedem kleinen Netzwerk können wir nur 30 nutzen, weil wir die ersten und die letzten Adressen nicht verwenden können.

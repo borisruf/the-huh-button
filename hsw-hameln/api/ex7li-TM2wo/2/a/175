@@ -1,0 +1,13 @@
+In dieser Erklärung geht es darum, wie wir Fehler bei der Übertragung von Daten erkennen und damit umgehen können.
+
+1. **Fehler erkennen**: Wenn Daten über das Internet oder ein Netzwerk geschickt werden, können manchmal Fehler auftreten. Das bedeutet, dass die Daten sich ändern oder verloren gehen können. Wir müssen herausfinden, ob das passiert ist.
+
+2. **Zwei Arten von Fehlern**:
+   - **Datenverfälschung**: Manchmal sind die Daten zwar angekommen, aber sie sind nicht mehr richtig. Zum Beispiel kann ein Bit (die kleinste Einheit von Daten) umkippen. Dafür nutzen wir eine Methode namens "Prüfziffer" oder "zyklischer Redundanz-Check". Das hilft uns, schnell zu erkennen, ob die Daten verändert wurden.
+   - **Datenverlust**: Manchmal sind die Daten einfach gar nicht angekommen. Das müssen wir auch herausfinden.
+
+3. **Umgang mit Fehlern**: Wenn wir einen Fehler entdecken, haben wir zwei Möglichkeiten, damit umzugehen:
+   - **Korrektur (automatisch)**: Einige Systeme können die Daten automatisch reparieren, wenn sie einen Fehler finden. Dazu werden komplizierte Berechnungen verwendet, die zum Beispiel bei der Anmeldung von sehr weit herkommenden Signalen nützlich sind.
+   - **Wiederholung (manuell)**: Bei anderen Situationen, besonders wenn die Daten sehr wichtig sind, bitten wir einfach den Sender, die Daten nochmal zu schicken. Das nennt man "Sende-Wiederholung".
+
+Der zyklische Redundanz-Check ist eine Methode, die uns hilft, die erste Art von Fehlern zu finden. Im nächsten Schritt werden wir uns diese Methode genauer anschauen.

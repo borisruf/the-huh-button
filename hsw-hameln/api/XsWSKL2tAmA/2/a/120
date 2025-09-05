@@ -1,1 +1,9 @@
-IP-Adressen sind spezielle Nummern, die jedes Gerät im Internet hat. Sie sehen oft so aus: 172.16.14.193. Sie sind in vier Teile, genannt Oktette, unterteilt. Jedes Oktett kann bis zu 255 sein. Aber IP-Adressen haben auch eine Art 'Versteckte' Schreibweise, die binäre Schreibweise. In dieser Schreibweise sind sie eine Sammlung von Einsen und Nullen statt Zahlen. Damit können wir sie besser verstehen und Sachen wie den 'Netzanteil' und den 'Hostanteil' ausfindig machen. Diese Teile geben uns Infos, zum Beispiel, von welchem Netzwerk die IP-Adresse kommt und welche spezifische Maschine in diesem Netzwerk die IP ist.
+Um die Aussage in sehr einfacher Sprache zu erklären, schauen wir uns zuerst an, was passieren muss, um eine IP-Adresse zu verstehen.
+
+Die IP-Adresse ist wie eine Adresse, die in Zahlen geschrieben ist. Sie sieht normalerweise so aus: 172.16.14.193. Diese Adresse besteht aus vier Teilen, die man Oktette nennt. Jeder dieser Teile hat Zahlen von 0 bis 255.
+
+Jetzt wollen wir wissen, wie diese Adresse in eine andere Form geschrieben wird, nämlich in binärer Form. Binär bedeutet, dass wir nur die Zahlen 0 und 1 verwenden. Um die IP-Adresse in binär zu schreiben, teilt man sie in ihre vier Teile auf und wandelt jeden Teil in eine Reihe von 0 und 1 um.
+
+Um von binär zurück zu dezimal (also zu den normalen Zahlen) zu kommen, schauen wir uns an, welche Position die 1 oder 0 hat. Jede Position hat einen bestimmten Wert. Wir addieren diese Werte zusammen, um die ursprüngliche Zahl zu bekommen.
+
+Zusammengefasst: Um zu verstehen, was mit einer IP-Adresse passiert, schauen wir sie zuerst im binären Format an. Dann rechnen wir, um von binär wieder zu normalen Zahlen zu kommen.

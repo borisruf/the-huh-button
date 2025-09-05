@@ -1,0 +1,5 @@
+Die Aussage besagt, dass beim Versenden von Datenpaketen in einem Netzwerk manchmal Probleme auftreten können, die dazu führen, dass ein Paket verloren geht. Besonders kann das passieren, wenn das Datenpaket zu viele "Hops" oder Sprünge von einem Router zum nächsten macht. 
+
+Jeder Sprung hat einen Zähler, der heißt Hop-Count. Wenn dieser Zähler einen bestimmten Wert überschreitet, passiert Folgendes: Das Paket wird nicht mehr weitergeleitet und gilt als verloren. Das nennt man, dass die "Time-to-Live" (TTL) des Pakets abgelaufen ist. 
+
+Das bedeutet einfach, wenn das Paket zu lange unterwegs ist und zu viele Routen oder Router passiert, wird es aus dem Netzwerk entfernt, damit es nicht ewig herumschwirrt und das Netzwerk überlastet.

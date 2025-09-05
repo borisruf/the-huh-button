@@ -1,0 +1,5 @@
+Die Aussage sagt, dass wir in einer neuen Art von Internet-Adresse, der IP Version 6, eine Gruppe von Nullen ganz einfach weglassen dürfen. Wenn wir eine Adresse haben und diese Nullen nacheinander kommen, können wir sie mit zwei Doppelpunkt-Zeichen (:) ersetzen. Das macht die Adresse kürzer und einfacher. 
+
+Das Wichtige ist, dass wir diese Abkürzung nur einmal in einer Adresse nutzen dürfen. Das bedeutet, immer wenn wir eine lange Reihe von Nullen sehen, können wir sie durch die beiden Doppelpunkte ersetzen, aber nur an einer Stelle in der gesamten Adresse.
+
+Das hilft, die Adresse einfacher zu lesen, besonders weil die neuen IP-Adressen viel länger sind als die alten.

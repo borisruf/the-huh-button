@@ -1,7 +1,5 @@
-Hier geht es darum, wie Computer miteinander im Internet kommunizieren. Wenn ein Computer Information an einen anderen senden will, dann muss er wissen, wo diese Information hin soll - also nicht nur an welchen Computer, sondern auch an welche spezielle Anwendung auf diesem Computer. 
+Die Aussage bedeutet, dass zwei Dinge – eine IP-Adresse und eine Portnummer – immer zusammen genutzt werden. Zusammen helfen sie, Daten an den richtigen Computer und die richtige Anwendung zu senden.
 
-Man kann sich das vorstellen wie ein großes Haus mit vielen Räumen und noch mehr Personen. Wenn jemand einen Brief an eine bestimmte Person in einem bestimmten Raum senden will, braucht er die genaue Adresse des Hauses (das wäre die IP-Adresse des Computers) und auch den genauen Raum und die Person, die den Brief erhalten soll (das wäre die Portnummer und die Anwendung).
+Wenn du dir das so vorstellst: Jedes Mal, wenn Informationen von einem Ort zu einem anderen geschickt werden, braucht man eine Adresse, wo die Informationen hin sollen (das ist die IP-Adresse), und eine spezielle Tür (das ist die Portnummer), durch die die Informationen in den Computer gelangen, um zu wissen, welche Anwendung die Daten nutzen wird. 
 
-Portnummern helfen also dabei, Informationen genau dorthin zu leiten, wo sie hingehören. Es gibt bestimmte Standard-Portnummern für verschiedene Dienste, wie zum Beispiel Internetseiten (HTTP), E-Mails (SMTP) oder das Hoch- und Herunterladen von Dateien (FTP).
-
-In diesem Text wird auch erklärt, dass die Kombination aus IP-Adresse und Portnummer ein "Socket" genannt wird. Das ist sozusagen wie die vollständige Adresse: das Haus und der genaue Raum. Diese Sockets werden gebraucht, um die Daten sicher und genau dorthin zu schicken, wo sie hin sollen.
+Die Beispiele wie FTP, Telnet, SMTP und HTTP sind wie spezielle Türnummern für verschiedene Anwendungen, die auf einem Computer laufen. So weiß der Computer sofort, wo die Daten hin müssen, und das funktioniert alles reibungslos.

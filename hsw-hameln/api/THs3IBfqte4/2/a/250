@@ -1,0 +1,9 @@
+Stell dir vor, du möchtest Nachrichten über das Internet senden. Eine Möglichkeit, dies zu tun, ist durch das Senden von elektrischen Signalen. Es gibt verschiedene Arten, wie man diese Signale benutzen kann, um Informationen zu übertragen.
+
+Wenn wir ein einfaches System verwenden, bei dem wir nur zwei Arten von Signalen haben – zum Beispiel ein Signal, das Hoch ist (1) und eins, das Niedrig ist (0) – können wir nur ein bisschen Information auf einmal senden. Das nennt man binär.
+
+Aber es gibt auch eine bessere Methode! Wenn wir die Stärke (Amplitude) des Signals verändern können, können wir mehr Informationen gleichzeitig senden. Zum Beispiel, wenn wir vier verschiedene Stärken (Amplituden) verwenden, können wir in einem einzigen Schritt nicht nur 1, sondern 2 Bits Informationen senden. Das bedeutet, wir sind schneller und bringen mehr Informationen auf einmal durch.
+
+Das wird auch als Modulation bezeichnet, weil wir das Signal anpassen, um mehr Informationen zu übertragen. Und wenn wir noch komplexer werden, können wir noch mehr Informationen in einem einzigen Schritt schicken. 
+
+Um es einfach zu sagen: Durch das Variieren der Amplitude (oder anderer Eigenschaften des Signals) können wir mehr Daten schneller und effizienter übertragen.

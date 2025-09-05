@@ -1,0 +1,7 @@
+Die Aussage sagt, dass es zwei Möglichkeiten gibt, wie Router Informationen bekommen, um Daten von einem Punkt (A) zu einem anderen Punkt (B) zu schicken. 
+
+1. **Statisch**: Das bedeutet, dass ein Mensch, der für die Computer verantwortlich ist (Administrator), den Routern genau sagt, welchen Weg sie benutzen sollen. Er schreibt also feste Regeln auf, die die Router immer befolgen müssen.
+
+2. **Dynamisch**: Das heißt, die Router können selbst herausfinden, welche Wege gut sind. Sie kommunizieren untereinander und passen ihre Informationen ständig an, je nachdem, wie sich die Situation ändert.
+
+Zusammengefasst: Statisch bedeutet, feste Anweisungen, die ein Mensch gibt. Dynamisch bedeutet, dass die Router selbst lernen, welche Wege am besten sind.

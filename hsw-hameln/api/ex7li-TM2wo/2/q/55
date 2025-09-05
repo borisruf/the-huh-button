@@ -1,0 +1,1 @@
+ Also dann geht es darum, wirklich mit einer Prüfsumme festzustellen, ob zum Beispiel irgendwelche Bits gekippt sind oder sich irgendwelche Daten verändert haben, obwohl die Länge als solches gleich geblieben ist.   Das macht man zum Beispiel in einem block-orientierten Verfahren mit dem zyklischen Redundanz-Check, da kommen wir dann gleich noch drauf.

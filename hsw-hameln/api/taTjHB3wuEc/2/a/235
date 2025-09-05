@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass der Sender und der Empfänger sich darauf einigen, wie viele Daten sie gleichzeitig senden und empfangen können. Man kann sich das wie ein Fenster vorstellen, durch das die Daten geschickt werden. 
+
+Falls der Sender sehr schnell Daten versendet, während der Empfänger langsamer ist, brauchen sie eine Regel, die beschreibt, wie viele Daten der Sender schicken darf, bevor er eine Rückmeldung bekommt, ob alles angekommen ist. 
+
+Diese Regel nennt man "Fenstersteuerung". Wenn sie gut zusammenarbeiten, kann der Sender viele Daten in einem Rutsch senden und der Empfänger nach einer Weile mehrere Bestätigungen zurückschicken, die sagen, dass die Daten angekommen sind. Das hilft beiden, die Verbindung besser zu nutzen und schneller zu kommunizieren. 
+
+Im Zeitdiagramm kann man genau sehen, wie die Daten hin- und hergeschickt werden und wann die Bestätigungen kommen.

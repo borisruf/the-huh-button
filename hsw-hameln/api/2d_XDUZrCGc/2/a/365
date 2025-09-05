@@ -1,0 +1,7 @@
+In einfacher Sprache bedeutet die Aussage Folgendes:
+
+Ich habe nur eine einzige öffentliche IP-Adresse für mein ganzes Netzwerk, aber ich möchte verschiedene Dienste, wie zum Beispiel einen Web-Server oder einen Mail-Service, nutzen. Das bedeutet, dass mehrere Geräte oder Programme in meinem Netzwerk gleichzeitig ins Internet gehen wollen. 
+
+Um das zu ermöglichen, sorgt mein Internet-Router dafür, dass alle Geräte in meinem Netzwerk, auch wenn sie private IP-Adressen haben, über diese eine öffentliche IP-Adresse ins Internet gelangen können. Der Router "übersetzt" die Adressen, sodass die verschiedenen Geräte miteinander und mit dem Internet kommunizieren können. 
+
+So können viele Dienste und Geräte mein Internet gemeinsam nutzen, obwohl ich nur eine einzige öffentliche IP-Adresse habe.

@@ -1,0 +1,11 @@
+Die Aussage bedeutet folgendes:
+
+Wenn ein Computer Daten an einen anderen Computer senden möchte, muss er zuerst wissen, wo die Daten herkommen und wohin sie gehen. 
+
+Der Computer, der die Daten sendet, hat eine bestimmte Adresse, die nennt man IP-Adresse. Das ist wie eine Hausnummer im Internet.
+
+Aber um die Daten zu senden, benutzt der Computer auch eine andere Adresse, die heißt MAC-Adresse. Diese Adresse ist wie die Adresse eines bestimmten Geräts in einem Netzwerk. Jedes Gerät hat eine eigene MAC-Adresse.
+
+Wenn der Computer seine Daten an einen anderen Computer senden möchte, kann er nicht direkt zu dem anderen Computer schicken. Stattdessen schickt er die Daten an den nächsten Router. 
+
+In diesem Fall bedeutet die Aussage, dass der Computer die MAC-Adresse des Routers verwenden muss, um die Daten an ihn zu senden, nicht die des Zielcomputers. Die Daten reisen also erst einmal an Router 1, bevor sie zu dem gewünschten Computer weitergeleitet werden.

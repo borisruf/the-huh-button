@@ -1,0 +1,5 @@
+In einfachen Worten bedeutet die Aussage, dass es zwei verschiedene Arten von Internet-Adressen gibt: die alte Version (IP Version 4) und die neue Version (IP Version 6). Bei IP Version 4 sind die Adressen 32 Zahlen lang, was bedeutet, dass wir nicht mehr viele Adressen haben, weil sie fast alle vergeben sind. 
+
+Die neue Version, IP Version 6, hat viel längere Adressen, die 128 Zahlen lang sind. Das ist viel mehr Platz für Adressen! Deshalb können wir mit IP Version 6 eine riesige Menge an einzigartigen Adressen vergeben – das sind 10 hoch 38 Adressen. Das bedeutet, dass es sehr, sehr viele von ihnen gibt, viel mehr als bei der alten Version. 
+
+Zusammengefasst: IP Version 6 gibt uns viel mehr Internet-Adressen, damit wir genug für alle Geräte haben, die eine Verbindung zum Internet brauchen.

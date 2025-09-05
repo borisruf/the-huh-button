@@ -1,0 +1,5 @@
+In kurzen und einfachen Worten:
+
+Wenn wir Informationen von einem Ort zu einem anderen senden, müssen wir sicherstellen, dass der Empfänger richtig versteht, wo die Informationen anfangen und wo sie enden. Wenn der Empfänger ein bestimmtes Zeichen sieht, das "Ende der Nachricht" bedeutet, könnte er denken, dass die Nachricht zu Ende ist, auch wenn tatsächlich noch mehr Informationen kommen.
+
+Um das zu verhindern, haben wir eine spezielle Methode, die Bitstopf-Methode. Diese Methode sagt, dass wir das Zeichen, das "Ende der Nachricht" bedeutet, nicht in den Datenteil einfügen dürfen. Dadurch kann der Empfänger sicher sein, dass er alle Informationen richtig erhält und nichts versehentlich überspringt.

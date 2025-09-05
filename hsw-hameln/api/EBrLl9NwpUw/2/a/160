@@ -1,7 +1,7 @@
-Manchmal wollen wir ein Netzwerk sicher machen, indem wir mehrere Verbindungen und Wege haben, falls einer ausfällt. Das ist wie ein Straßennetz mit vielen Wegen, damit man immer noch ans Ziel kommt, wenn eine Straße gesperrt ist. Aber wenn wir viele Switches (die sind wie Verkehrskreisel) haben, kann das dazu führen, dass einige Datenpakete (das sind wie Autos) immer im Kreis fahren und nicht ans Ziel kommen. Das nennt man eine Schleife.
+Die Aussage bedeutet Folgendes:
 
-Das ist schlecht, weil es viele Ressourcen verbraucht, wie wenn viele Autos ständig im Kreisverkehr fahren und Staus verursachen. Um das zu verhindern, gibt es ein System namens Spanning-Tree. 
+Wenn wir viele Switches in einem Netzwerk haben, kann das zu Problemen führen, weil die Daten sich in Schleifen bewegen können. Das ist nicht gut, denn die Switches wissen dann nicht, wohin die Daten sollen, und die Daten drehen sich im Kreis. Das nennt man eine Schleife, und das kann unser Netzwerk überlasten, was „Broadcast-Storm“ heißt.
 
-Wenn man Spanning-Tree benutzt, passiert zuerst, dass alle Verbindungen zwischen den Switches blockiert werden - das wäre wie wenn man alle Straßen sperrt. Dann sprechen die Switches nur noch über das Spanning-Tree-System miteinander.
+Um dieses Problem zu lösen, nutzen wir etwas, das Spanning-Tree-Protokoll heißt. Wenn wir es aktivieren, passiert Folgendes: Alle normalen Datenübertragungen zwischen den Switches werden zuerst gestoppt. Die Switches hören nur noch aufeinander und tauschen Informationen über das Protokoll aus. 
 
-Wenn das abgeschlossen ist, geht der normale Verkehr wieder los. Aber nicht mehr alle Wege sind offen, nur die, die das System ausgewählt hat. Auf diese Weise werden Schleifen verhindert und das Netzwerk läuft weiterhin reibungslos.
+Das heißt, alle Ports – also die Übergänge, durch die die Daten normalerweise fließen – sind blockiert. Nach einer Weile, wenn das Netzwerk herausgefunden hat, welcher Weg am besten ist, dürfen die Daten wieder normal fließen. Das ist der Prozess, den wir uns dann genauer anschauen werden.

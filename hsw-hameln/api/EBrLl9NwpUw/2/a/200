@@ -1,3 +1,7 @@
-In einfachen Worten, das obige Zitat spricht darüber, wie Administratoren die Kontrolle über Netzwerke haben und wie sie Dinge verändern können. Wenn man eine verbesserte Verfügbarkeit und weniger Ausfallzeiten in Netzwerken erreichen will, ist es eine gängige Methode, Backup-Systeme oder doppelte Funktionen zu erstellen. Das Problem dabei ist, dass diese Verdoppelung auch zu Schleifen im Netzwerk führen kann – wenn Datenpakete keinen Empfänger finden, können sie im Netzwerk verloren gehen und Ressourcen überlasten.
+Die Aussage bedeutet Folgendes:
 
-Glücklicherweise gibt es eine Methode, um dieses Problem zu lösen, das Spanning-Tree-Protokoll. Im Grunde genommen hilft es, Backup-Wege im Netzwerk zu blockieren und einen Hauptweg für Daten zu bestimmen. Dies verhindert, dass Datenpakete im Netzwerk zirkulieren und Ressourcen überlasten. Als Administrator kann man sogar eingreifen und bestimmen, welcher Schalter oder welche Komponente im Netzwerk den Hauptpfad für Daten bereitstellt.
+Wenn man ein Netzwerk mit vielen Switches hat, kann es manchmal Probleme geben, weil die Switches die Datenpakete nicht richtig senden können. Diese Probleme nennt man Schleifen. Damit die Schleifen nicht passieren, gibt es ein Protokoll namens Spanning-Tree. Dieses Protokoll hilft dabei, einen "Leiter" (Route-Bridge) auszuwählen, der die Daten richtig leitet.
+
+Jetzt kommt der Administrator ins Spiel. Der Administrator kann bewusst Einstellungen an den Switches ändern, um zu entscheiden, welcher Switch dieser "Leiter" werden soll. Das bedeutet, der Administrator hat die Kontrolle darüber, wie die Switches miteinander arbeiten und welcher Switch die wichtigste Rolle spielt, um die Daten im Netzwerk zu verteilen. 
+
+Also einfach gesagt: Der Administrator kann beeinflussen, welcher Switch die Hauptleitung für die Daten übernimmt, um das Netzwerk besser und stabiler zu machen.

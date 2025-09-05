@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass die Verbindung, die Daten überträgt, nicht richtig genutzt wird. Wenn der Sender sehr schnell Daten schickt, aber der Empfänger nicht so schnell mitkommt, muss man eine Regelung finden, damit beide gut zusammenarbeiten. 
+
+Eine einfache Methode wäre, dass der Sender ein Paket schickt, dann wartet, bis der Empfänger sagt „Ja, ich habe das Paket bekommen“, bevor er das nächste Paket schickt. Das nennt man "Stop-and-Wait". Aber diese Methode ist langsam, besonders wenn die Verbindung lang ist, zum Beispiel über den Ozean. Dabei geht viel Zeit verloren, weil der Sender immer warten muss.
+
+Um die Verbindung besser zu nutzen, kann man eine Technik namens "Pipelining" anwenden. Damit schickt der Sender mehrere kleine Pakete gleichzeitig und wartet dann auf eine Bestätigung für mehrere Pakete zusammen. So wird die Verbindung viel besser ausgelastet, und man verliert weniger Zeit beim Warten.

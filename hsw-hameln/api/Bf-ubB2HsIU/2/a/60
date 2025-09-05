@@ -1,1 +1,3 @@
-Alles, was wir über Netzwerke wissen, steht auf einer Grundlage. Diese Basis ist nicht das OSI-Modell, sondern das TCP-IP-Modell. Das ist sozusagen der Bauplan für alle Netzwerke. Es ist auch der Bauplan für das OSI-Modell. Dieses TCP-IP-Modell besteht aus vier Teilen. Die vier Teile dieses Modells zeigen uns, was wir in den Netzwerken lernen müssen.
+Die Aussage bedeutet, dass es ein ganz wichtiges Modell gibt, das die Grundlage für alle Arten von Netzwerken ist. Dieses Modell heißt TCP-IP-Modell. Es hilft uns zu verstehen, wie Computer miteinander kommunizieren. Es gibt vier einfache Schichten in diesem Modell, und jede Schicht hat eine bestimmte Aufgabe. Obwohl es nur vier Schichten sind, zeigen sie uns schon alles, was wir über Netzwerke wissen müssen. 
+
+Das OSI-Modell, ein anderes wichtiges Modell, basiert auch auf diesem TCP-IP-Modell. Also, ohne das TCP-IP-Modell gäbe es viele Dinge in der Computerkommunikation nicht.

@@ -1,5 +1,9 @@
-Mit "Ende-zu-Ende-Kontrolle" meinen wir, dass wir sicherstellen wollen, dass alle Daten, die wir senden, auch wirklich ankommen und keine Fehler haben. Das ist besonders wichtig, wenn wir im Internet unterwegs sind oder Daten zwischen Computern austauschen.
+In einfachen Worten bedeutet die Aussage, dass wir mit diesem speziellen Protokoll (TCP) sicherstellen, dass Informationen, die über das Internet gesendet werden, zuverlässig ankommen. 
 
-"TCP" ist so ein Art Weganweisung für Daten. Es sorgt dafür, dass die Daten, die wir senden, auch richtig ankommen. In einem "TCP-Header", der wie eine Art Verpackung für die Daten ist, steht alles drin, was für den Transport der Daten wichtig ist. Wenn wir uns so einen "TCP-Header" genau anschauen, können wir sehen, wie die Daten auf ihre Reise geschickt werden.
+Das Protokoll arbeitet so:
 
-Ein Teil von dem, was wir bei Computernetzwerken lernen, ist das sogenannte "TCP-IP-Modell". Das gibt uns Regeln vor, wie Daten zwischen Computern hin und her geschickt werden. Dazu gehört auch, dass wir die Daten kontrollieren, ob sie richtig ankommen und keine Fehler haben. Auch sollen die Daten unabhängig von der Technik, die wir benutzen, und von der Art des Computers, der die Daten empfängt, transportiert werden können. All das und noch mehr packen wir in den "TCP-Header" hinein.
+1. **Verbindungsorientiert**: Zuerst wird eine Verbindung zwischen den beiden Parteien (zum Beispiel zwei Computern) aufgebaut, bevor sie Daten austauschen. Man kann sich das wie ein Telefongespräch vorstellen, bei dem man zuerst anruft und die Verbindung herstellt, bevor man spricht.
+
+2. **Ende-zu-Ende-Kontrolle**: Das Protokoll überprüft, ob die Daten, die gesendet werden, tatsächlich ankommen. Es sendet eine Art Bestätigung zurück, dass die Daten erfolgreich empfangen wurden. Wenn etwas gestohlen oder beschädigt wird, weiß es sofort Bescheid und kann die Daten erneut senden.
+
+Zusammengefasst sorgt es dafür, dass das, was gesendet wird, nicht nur ankommt, sondern auch ohne Fehler ankommt.

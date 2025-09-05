@@ -1,0 +1,1 @@
+ Diese Prüfsumme wird errechnet aus einem Generator-Polynom und eben unserer zu übertragenen Daten.  Und das Ganze wird dann eben mit übertragen und auf der Gegenseite dann auch entsprechend wieder rückberechnet und dann kann ich eben erkennen, ist bei der Übertragung vielleicht was schief gelaufen.

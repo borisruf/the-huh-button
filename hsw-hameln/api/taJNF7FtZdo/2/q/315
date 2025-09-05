@@ -1,0 +1,1 @@
+  Wir haben das schon im OSI-Modell gesehen, es gibt dort eine Endkapselung, eine Kapselung wieder, wo also die Datenpakete auf den Routern bis zur dritten Schicht jeweils ausgepackt werden, also bis zur IP-Adresse quasi.  Auf den beiden Endsystemen dann eben entsprechend komplett durch das gesamte OSI-Modell hindurch.

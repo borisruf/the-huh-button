@@ -1,7 +1,5 @@
-IP-Adressen und Subnetzmasken sind ein bisschen wie Hausadressen und Postleitzahlen. Sie sagen einem Computer, wo er sich im "Internet-Netzwerk" befindet und wo er Daten hin- und herschicken kann. 
+In einfacher Sprache bedeutet die Aussage Folgendes:
 
-Eine IP-Adresse besteht aus vier Teilen, genannt "Oktette", die durch Punkte getrennt sind. Jeder dieser Teile hat acht Bits (ein Bit kann entweder eine 0 oder eine 1 sein). Zum Beispiel sieht eine typische IP-Adresse so aus: 172.16.14.193
+Wenn man eine IP-Adresse und eine Subnetzmaske vergleicht, sieht man, wo sie übereinstimmen. Wenn zum Beispiel in der Subnetzmaske bei den ersten beiden Teilen (Oktetten) die Zahlen 255 und 255 stehen, dann weiß ich, dass diese Teile komplett zur Netzwerkadresse gehören. In der IP-Adresse stehen in diesen ersten beiden Teilen auch Zahlen. Wenn dort eine 1 steht, bleibt sie 1. 
 
-Eine Subnetzmaske ist ähnlich aufgebaut und hilft dem Computer, den Unterschied zwischen seinem "Heimnetzwerk" und anderen "Internet-Netzwerken" zu verstehen. Wenn man die IP-Adresse und die Subnetzmaske vergleicht, kann man herausfinden, zu welchem "Netzwerk-Teil" eine bestimmte IP-Adresse gehört. 
-
-Im Text wurde ein Beispiel gegeben, bei dem die ersten beiden Oktette der IP-Adresse und der Subnetzmaske gleich sind. Dies bedeutet, dass sie zur gleichen Netzwerkgruppe gehören. Aber in den letzten beiden Oktetten der Subnetzmaske gibt es nur Nullen. Das bedeutet, dass in diesen Teilen der IP-Adresse keine Einsen stehen können.
+In den letzten zwei Teilen der Subnetzmaske stehen nur Nullen. Das bedeutet, dass diese Teile nicht zur Netzwerkadresse gehören und immer 0 bleiben. Man schaut also überall nach, wo die Zahlen übereinstimmen: Wenn ich eine 1 habe und die Subnetzmaske auch eine 1 hat, bleibt es 1. Wenn die Subnetzmaske eine 0 hat, wird das Ergebnis 0, egal was in der IP-Adresse steht. So kann ich also herausfinden, was zum Netzwerk gehört und was zu den Geräten (Hosts), die in diesem Netzwerk sind.

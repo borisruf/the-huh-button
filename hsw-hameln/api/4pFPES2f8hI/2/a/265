@@ -1,0 +1,15 @@
+Die Aussage "255.255.255.0 Standard Klasse-C-Subnetzmaske" beschreibt eine spezielle Zahlengruppe, die Internetadressen in kleinere Gruppen unterteilt. 
+
+Hier ist eine einfache Erklärung:
+
+1. **Was ist eine IP-Adresse?**: Eine IP-Adresse ist wie eine Postanschrift für Geräte im Internet. Sie hilft, Computer oder Handys zu finden.
+
+2. **Was ist eine Subnetzmaske?**: Die Subnetzmaske sagt, welcher Teil der Adresse für das Netzwerk und welcher Teil für die Geräte darin verwendet wird.
+
+3. **Klasse C**: Dies ist eine Art von IP-Adresse, die mit einer bestimmten Anzahl von Geräten arbeiten kann. Klasse C kann bis zu 256 Geräte haben.
+
+4. **255.255.255.0**: Diese Zahl zeigt, wie die Adresse aufgeteilt wird. Der erste Teil (255.255.255) sagt, dass es sich um das Netzwerk handelt, und der letzte Teil (0) sagt, dass alle Geräte in diesem Netzwerk sind.
+
+5. **Zusammengefasst**: "255.255.255.0" hilft, das große Netzwerk (Klasse C) in kleinere Teile zu trennen, sodass wir ordentlich mit den Adressen umgehen können und nicht zu viele auf einmal verwenden.
+
+Diese Subnetzmaske ist sehr wichtig, um sicherzustellen, dass jedes Gerät im Netzwerk eine eindeutige Adresse hat und sie einfach verwaltet werden können.

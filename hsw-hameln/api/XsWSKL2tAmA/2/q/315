@@ -1,1 +1,1 @@
- In diesem Fall ist also 172, 16 die ersten beiden Oktette und da ich in meiner Subnetzmaske in den beiden letzten Oktetten jeweils nur 0 entstehen habe, kann da auch nur 0 rauskommen.  Das bedeutet eben, dass ich in diesem Fall durch den logischen Endvergleich herausgefunden habe, dass eben meine Netzwerkadresse 172, 16, 00 ist.
+  Das bedeutet eben, dass ich in diesem Fall durch den logischen Endvergleich herausgefunden habe, dass eben meine Netzwerkadresse 172,16. 00 ist.

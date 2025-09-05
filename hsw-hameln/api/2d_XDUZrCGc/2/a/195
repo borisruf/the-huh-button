@@ -1,0 +1,9 @@
+Die Aussage erklärt, wie IP-Adressen in verschiedene Klassen unterteilt werden, je nachdem, wie groß das Netzwerk ist, das man benötigt.
+
+- Wenn man ein sehr großes Netzwerk braucht, verwendet man **Klasse A**. Diese Klasse kann viele IP-Adressen vergeben, etwa 17 Millionen. Das ist viel Platz für viele Computer.
+  
+- Wenn das Netzwerk mittelgroß ist, nimmt man **Klasse B**. Diese Klasse hat weniger IP-Adressen als Klasse A, aber immer noch eine große Anzahl.
+
+- Wenn man ein kleines Netzwerk braucht, zum Beispiel für ein privates Zuhause oder ein kleines Unternehmen, verwendet man **Klasse C**. Diese hat die wenigsten IP-Adressen.
+
+Die Aussage sagt, dass, obwohl man mit diesen Klassen immer mehr Netzwerke erstellen kann, die Anzahl der Computer, die man in diesen Netzwerken unterbringen kann, mit jeder Klasse kleiner wird. Das bedeutet, dass man bei großen Netzwerken viel Platz für Computer hat, aber viele der IP-Adressen nicht genutzt werden. Das führt dazu, dass es irgendwann nicht mehr genug IP-Adressen gibt, und das ist ein Problem für das Internet.

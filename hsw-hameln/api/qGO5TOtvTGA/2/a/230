@@ -1,0 +1,7 @@
+In diesem Text geht es darum, wie Daten von einem Punkt (A) zu einem anderen Punkt (B) über das Internet geschickt werden. Um das zu erledigen, benutzen wir Geräte, die Router genannt werden. Diese Router müssen entscheiden, welcher Weg für die Daten am besten ist.
+
+Wenn jemand die Routen von Hand festlegt, nennt man das statisches Routing. Es ist so, als würde man einen festen Plan für einen Weg machen. Wenn sich etwas ändert, wie z. B. ein Router kaputt geht, muss man den Plan manuell anpassen. 
+
+Im Gegensatz dazu gibt es dynamisches Routing, wo die Router selbstständig herausfinden, wie sie am besten miteinander kommunizieren. Sie nutzen dafür Informationen über die Verbindungen und Wege. Dabei schauen sie zum Beispiel, wie lange es dauert oder wie viele Router man durchlaufen muss, um ans Ziel zu kommen.
+
+Die Aussage „Da werden zum Beispiel auch die Zustände meiner Verbindungen ins Kalkül gezogen“ bedeutet, dass die Router nicht nur gucken, wie viele Hops (Sprünge zu anderen Routern) nötig sind, sondern auch, ob die Verbindungen gut oder schlecht funktionieren. Dies hilft ihnen, den besten und schnellsten Weg für die Daten zu finden.

@@ -1,0 +1,11 @@
+In dieser Aussage geht es darum, dass es zwei verschiedene Gruppen von Computern und Telefonen gibt, die über so genannte VLANs miteinander verbunden sind. Ein VLAN ist wie ein eigener Bereich in einem großen Netzwerk, sodass verschiede Geräte getrennt arbeiten können.
+
+1. **Zwei Gruppen**: Es gibt ein VLAN für die Computer (Rechner) und ein anderes VLAN für die Telefone. Das hilft, die Daten, die zwischen diesen Geräten ausgetauscht werden, besser zu organisieren.
+
+2. **Switch**: Die Geräte sind mit einem speziellen Gerät verbunden, das man Switch nennt. Der Switch sorgt dafür, dass die Informationen schnell und sicher zwischen den Geräten weitergeleitet werden.
+
+3. **VLAN-Trunk**: Das bedeutet, dass mehrere VLANs über eine Verbindung (wir nennen das Trunk) miteinander kommunizieren können. So können die Telefone und Computer miteinander und mit anderen Netzwerken verbunden werden.
+
+4. **Vermittlungsserver**: Von diesem Switch gehen die Daten zu einem Vermittlungsserver. Dieser Server hilft dabei, die Kommunikation der Telefone mit dem großen Telefonnetz oder dem inneren Netzwerk der Firma zu regeln.
+
+5. **Netzwerk**: Zum Schluss erzählt die Aussage, dass diese ganze Verbindung sicherstellt, dass alles funktioniert, egal ob man telefoniert oder mit dem Computer Arbeit macht. Es gibt also getrennte Bereiche für Telefone und Computer, damit alles reibungslos abläuft.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes in einfacher Sprache:
+
+Jetzt benutzen wir ein neues System, um IP-Adressen zu organisieren. Früher hatten wir feste Gruppen, die man Subnetze nennt. Jetzt verwenden wir stattdessen eine Art Kürzel, das Präfix genannt wird. Dieses Präfix zeigt an, welcher Teil der IP-Adresse zu einem Netzwerk gehört.
+
+Nehmen wir die IP-Version 6 als Beispiel: Hier sehen wir eine Adresse mit einem "/" und der Zahl 64 (Slash64). Das bedeutet, dass die ersten 64 Bits dieser Adresse zeigen, zu welchem Netzwerk es gehört. Früher war das anders, jetzt ist es flexibler. So können wir bei IP-Version 6 mehr Adressen besser verwalten und nutzen.

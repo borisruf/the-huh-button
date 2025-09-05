@@ -1,0 +1,1 @@
+ Wenn wir jetzt schon sehen, in der obersten Schicht haben wir eben unsere verschiedenen Anwendungsprotokolle, unter anderem so etwas wie SMTP, das Simple Mail Transfer Protokoll, oder auch POP3, das Post Office Protokoll in Version 3.  Genau die beiden wollen wir uns jetzt mal rauspicken, als Beispiel für eine Kommunikation auf den oberen drei Schichten im OSI-Modell.

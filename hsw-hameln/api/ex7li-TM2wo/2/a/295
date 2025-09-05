@@ -1,0 +1,7 @@
+In der Aussage wird erklärt, dass es bekannte Regeln und Methoden gibt, um Fehler in Datenübertragungen zu erkennen. Wenn Informationen von einem Ort zu einem anderen gesendet werden, können sie manchmal kaputtgehen oder verändert werden. Um zu prüfen, ob alles richtig angekommen ist, benutzt man einen speziellen Code, der Prüfziffer oder Prüfzahlen genannt wird. Diese Methode ist wichtig, um sicherzustellen, dass die Daten nicht falsch sind.
+
+Der Zusammenhang mit der ganzen vorherigen Erklärung ist, dass es zwei Arten von Fehlern gibt: solche, die die Daten ändern (aber die Größe der Daten gleich bleibt), und solche, bei denen die Daten ganz verloren gehen. Manchmal kann man kleine Fehler ignorieren (wie bei Videos), aber bei wichtigen Dingen (wie beim Geldtransfer) muss man sicher sein, dass alles richtig ist. Dafür gibt es verschiedene Methoden, um Fehler zu erkennen und zu beheben.
+
+Das CRC-Verfahren ist eines von diesen Methoden, bei dem man eine zusätzliche Zahl zu den gesendeten Daten hinzufügt. Wenn die Daten ankommen, wird diese Zahl überprüft. Wenn alles stimmt, ist alles in Ordnung. Wenn nicht, bedeutet das, dass ein Fehler passiert ist.
+
+Zusammengefasst: Die Aussage spricht darüber, dass es Standards gibt, um sicherzustellen, dass die gesendeten Daten korrekt sind, und dass das CRC-Verfahren eine Möglichkeit ist, dies zu überprüfen.

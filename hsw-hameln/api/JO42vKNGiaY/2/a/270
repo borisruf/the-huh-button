@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie neue Internet-Adressen, die man IP Version 6 nennt, aufgebaut sind. Früher hatten wir IP Version 4 Adressen, die einfacher waren. Diese alten Adressen waren in vier Nummern unterteilt, die durch Punkte getrennt waren (z.B. 172.16.14.193).
+
+Jetzt haben wir IP Version 6 Adressen, und das ist komplizierter. Diese neuen Adressen sind aus acht Gruppen von Zahlen und Buchstaben aufgebaut, die durch Doppelpunkte getrennt sind. Jede Gruppe hat eine bestimmte Länge und kann auch Buchstaben enthalten. Daher sieht eine IP Version 6 Adresse ganz anders aus und ist schwieriger zu merken.
+
+Anstelle der alten Methode, Netzwerke durch bestimmte Zuweisungen zu organisieren, benutzen wir jetzt etwas, das "Präfix" heißt. Dieses Präfix hilft uns, den Bereich des Netzwerks in der neuen Adresse zu erkennen. 
+
+Das bedeutet, wir haben ein neues System, um die Technik des Internets zu verbessern, weil es viele mehr Adressen braucht, als die alten Systeme bieten konnten.

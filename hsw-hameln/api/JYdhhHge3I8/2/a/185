@@ -1,0 +1,9 @@
+Die Aussage beschreibt drei verschiedene Arten, wie Daten in einem Netzwerk weitergeleitet werden. 
+
+1. **Leitungsvermittlung**: Man kann sich das wie ein Telefon vorstellen. Zwei Telefone werden direkt miteinander verbunden, sodass sie in einer eigenen "Leitung" kommunizieren. Diese Methode ist wie das alte Telefonieren, wo eine Operatorin die Leitungen verbindet.
+
+2. **Speichervermittlung**: Hier werden Daten in großen "Paketen" gesammelt und dann von einem Ort zum anderen geschickt. Man kann sich das wie Briefe in einem Postamt vorstellen. Die gesamte Sendung wird aufbewahrt, bis sie weitergeschickt wird. 
+
+3. **Paketvermittlung**: Diese Methode kombiniert die beiden vorherigen. Daten werden in kleine Pakete aufgeteilt, die dann über verschiedene Wege zur Zieladresse geschickt werden können. Diese Pakete können unterschiedliche Routen nehmen, was effizienter ist.
+
+Insgesamt wird erklärt, wie Daten auf verschiedene Arten in Netzwerken übertragen werden, wobei die Paketvermittlung für moderne Netzwerke, wie das Internet, besonders wichtig ist. Es ist ein Blick darauf, wie diese Prozesse praktisch funktionieren.

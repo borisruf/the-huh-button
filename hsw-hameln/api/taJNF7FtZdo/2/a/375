@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass heute Sicherheit in Netzwerken sehr wichtig ist. Wenn Daten von einem Computer zum anderen gesendet werden, müssen wir sicherstellen, dass niemand die Daten abfangen oder verändern kann. Um dies zu erreichen, müssen die Router (die Geräte, die die Daten weiterleiten) wissen, wie sie die Daten am besten senden, damit sie sicher ankommen.
+
+Um das zu schaffen, haben die Router sogenannte "Routing-Tabellen". In diesen Tabellen steht, wohin die Daten gehen sollen, welcher Weg am besten ist und ob dieser Weg sicher ist. 
+
+Die Sicherheit spielt also eine große Rolle dabei, wie die Router ihre Entscheidungen treffen, wenn sie Daten weiterleiten.

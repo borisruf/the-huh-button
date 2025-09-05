@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie IP-Version 6 (IPv6) Adressen funktioniert. 
+
+In einfachen Worten:
+
+- Bei IPv6 gibt es 128-Bit-Adressen, die viel mehr Möglichkeiten bieten als die 32-Bit-Adressen von IPv4. 
+- Die ersten 64 Bit einer IPv6-Adresse zeigen, zu welchem Netzwerk die Adresse gehört. Obwohl man sie "Subnetzpräfix" nennt, handelt es sich um eine Kennung für das gesamte Netzwerk. 
+- Außerdem hat jeder Computer oder jedes Gerät im Netzwerk eine spezielle Adresse, die "Link-Local-Adresse" genannt wird. Diese Adresse ist für jede Verbindung oder Schnittstelle am Gerät einzigartig. 
+
+Das bedeutet, dass jedes Gerät seine eigene Adresse hat, und die ersten 64 Bit helfen uns, das Netzwerk, zu dem das Gerät gehört, zu identifizieren.

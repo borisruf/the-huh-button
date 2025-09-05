@@ -1,0 +1,7 @@
+Die Aussage erklärt eine Methode, die dafür sorgt, dass es nicht zu Verwirrungen bei der Übertragung von Daten kommt. Wenn wir Daten senden, gibt es spezielle Zeichen, die sagen, wann die Nachricht beginnt und wann sie endet. Diese Zeichen heißen "Start of Text" und "End of Text".
+
+Das Problem ist, dass diese speziellen Zeichen auch in den Daten selbst auftauchen können. Wenn der Empfänger dann ein "End of Text"-Zeichen in den Daten sieht, denkt er, die Nachricht ist zu Ende, obwohl es noch weitere wichtige Informationen gibt.
+
+Um das zu verhindern, wurde die "Bitstopf-Methode" erfunden. Diese Methode sorgt dafür, dass diese speziellen Zeichen in den Daten nicht vorkommen dürfen. Wenn sie doch vorkommen, wird etwas getan, sodass der Empfänger diese Zeichen nicht fälschlicherweise als das Ende der Nachricht interpretiert. 
+
+Ein Beispiel: Wenn in den gesendeten Daten genau das Zeichen für "End of Text" erscheint, wird das anders behandelt. Die Methode legt also fest, dass wir diese besonderen Zeichen nicht im Datenteil haben dürfen, um Missverständnisse zu vermeiden.

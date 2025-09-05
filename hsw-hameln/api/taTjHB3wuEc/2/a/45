@@ -1,0 +1,5 @@
+Die Aussage erklärt ein wichtiges Konzept in der Datenübertragung, das "Flusssteuerung" genannt wird. Hier ist eine einfache Erklärung:
+
+Stell dir vor, es gibt einen Mitarbeiter (den Sender), der sehr schnell arbeitet und ständig neue Nachrichten verschickt. Auf der anderen Seite gibt es einen anderen Mitarbeiter (den Empfänger), der nicht so schnell lesen oder antworten kann. Wenn der schnelle Mitarbeiter zu viele Nachrichten auf einmal sendet, könnte der langsame Mitarbeiter überfordert werden und einige Informationen verlieren.
+
+Um das zu verhindern, muss es eine Regel oder einen Plan geben, der beiden hilft, miteinander zu kommunizieren. Das bedeutet, dass der schnelle Mitarbeiter nur so viele Nachrichten sendet, wie der langsame Mitarbeiter verarbeiten kann. So können sie beide gut zusammenarbeiten, ohne dass einer von ihnen überfordert ist.

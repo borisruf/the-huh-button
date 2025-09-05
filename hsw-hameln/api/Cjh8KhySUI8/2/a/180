@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass UDP anders funktioniert als TCP. Bei UDP gibt es keine Möglichkeit, Fehler, die während der Datenübertragung passieren können, zu reparieren. Wenn also Daten nicht ankommen oder beschädigt sind, wird nichts unternommen, um das zu korrigieren. 
+
+Außerdem ist der Header, das sind die Informationen, die am Anfang jedes Datenpakets stehen, kleiner bei UDP als bei TCP. Der Header enthält wichtige Infos, die für die Übertragung nötig sind. Das haben wir auch zuvor in einem anderen Bild gesehen. 
+
+Zusammengefasst: UDP ist schneller, weil es weniger Kontrolle und Überprüfung hat, aber das bedeutet auch, dass wir nicht sicher sein können, dass alles richtig ankommt.

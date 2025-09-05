@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes:
+
+Es gibt ein Zeichen, das sagt, dass der Text oder die Nachricht zu Ende ist. Dieses Zeichen besteht aus einer bestimmten Folge von Zahlen, in diesem Fall, es sieht so aus: 0 gefolgt von 6 Einsen und 0. Diese spezielle Reihe von Zahlen ist im Abkommen (Protokoll) festgelegt, damit alle wissen, dass das das Ende der Nachricht ist. 
+
+Zusätzlich gibt es auch ein anderes Zeichen, das fast ähnlich ist, weil es auch viele Einsen hat – genau 5 Einsen. 
+
+In einfacher Sprache: Wenn wir Nachrichten senden, müssen wir ein Zeichen verwenden, das sagt: "Hier endet die Nachricht!" Damit jeder, der die Nachricht bekommt, weiß, wo sie endet. Wenn die Nachricht das Zeichen hat, kann es einige Verwirrung geben, wenn das Zeichen auch in der Nachricht selbst vorkommt, darum haben wir Regeln, um sicherzustellen, dass es nicht so ist.

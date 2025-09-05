@@ -1,0 +1,7 @@
+In einem Netzwerk gibt es viele Dinge, die wir tun können, um es sicher zu machen. Eine wichtige Sache ist die Firewall, die wie eine Art Schutzmauer für das Netzwerk funktioniert.
+
+Die Firewall schaut sich Datenpakete an, die ins Netzwerk kommen, und entscheidet, ob sie erlaubt sind oder nicht. Manchmal sagt die Firewall, dass sie nur Daten von bestimmten vertrauenswürdigen Quellen durchlassen soll.
+
+Ein Beispiel wäre, wenn die Firewall erlaubt, dass Daten von Google, Facebook oder Twitter ins Netzwerk dürfen. Diese Daten kommen über einen speziellen "Port" (das ist wie eine Tür, durch die die Daten hereinkommen). Wenn also die Firewall diese speziellen Türen öffnet, können viele Daten durchkommen.
+
+Das Problem ist, dass manchmal auch nicht vertrauenswürdige Daten durch diese offenen Türen kommen können, wenn wir nicht gut aufpassen. Es ist ein bisschen kompliziert, weil man genau wählen muss, welche Daten man durchlässt und welche nicht, um das Netzwerk sicher zu halten.

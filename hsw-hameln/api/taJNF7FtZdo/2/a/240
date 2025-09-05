@@ -1,0 +1,5 @@
+Stell dir vor, du willst von Hameln nach Münster fahren. Es gibt viele Straßen, die du nehmen kannst. Manchmal kann eine Straße die beste sein, weil der Verkehr gut ist. Aber es gibt auch andere Straßen, die du wählen kannst.
+
+In unserem Netzwerk ist es ähnlich. Die Daten, die wir senden wollen, sind wie Autos, die fahren. Die Router sind wie Kreuzungen, an denen die Daten entscheiden müssen, wo sie langfahren. Wenn ein Datenpaket an einem Router ankommt, denkt der Router nach: „Bin ich der letzte Halt für dieses Paket? Wenn ja, schicke ich es direkt zum Ziel. Wenn nicht, schaue ich in meine Tabelle und finde heraus, wo das Paket als Nächstes hin muss.“
+
+Der Weg von N1 nach N2 könnte über verschiedene Router führen, zum Beispiel über A, D und C. Das ist nur eine von vielen möglichen Routen. Diese Route könnte zu einem bestimmten Zeitpunkt die beste sein, aber es gibt auch andere Wege, die man nehmen könnte.

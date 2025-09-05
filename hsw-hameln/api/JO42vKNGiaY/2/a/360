@@ -1,0 +1,5 @@
+Die Aussage bedeutet einfach, dass in den Blöcken von IP-Adresse in IPv6 die Nullen, die am Anfang stehen, weggelassen werden können. 
+
+Stell dir vor, du hast eine Blockadresse, die sieht vielleicht so aus: 0123.0456.0789.0001. Hier sind viele Nullen am Anfang. Wenn wir schreiben wollen, machen wir es einfacher und schreiben einfach 123.456.789.1. Es ist immer noch die gleiche Adresse, aber sieht einfacher aus, weil die Nullen nicht mehr da sind. 
+
+In IPv6 haben wir Blöcke mit Zahlen und Buchstaben, die in einer speziellen Weise angeordnet sind. In jedem Block gibt es Platz für vier Zeichen. Wenn also ein Block mit Nullen anfängt, brauchen wir nicht alle Nullen zu schreiben. Das macht die Adresse kürzer und leichter zu lesen.

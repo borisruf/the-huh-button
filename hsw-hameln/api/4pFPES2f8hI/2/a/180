@@ -1,0 +1,5 @@
+Die Aussage erklärt, dass wenn man Subnetze bildet, man größere Netzwerke in kleinere aufteilt. Diese kleineren Netzwerke nutzen IP-Adressen besser, weil man nicht alle Adressen braucht, die man eigentlich hat. 
+
+Wenn jemand ein großes Netzwerk hat, wie zum Beispiel eines der Klasse A mit 16 Millionen Adressen, braucht er oft nur einen kleinen Teil davon. Mit Subnetzen kann man also die unbenutzten Adressen "freisetzen", also für andere nutzen.
+
+Außerdem wird gesagt, dass durch das Bilden von Subnetzen auch die Sicherheit besser wird und man einfacher mit den Netzwerken umgehen kann. Also, man macht das Netzwerk übersichtlicher und spart Adressen, die man nicht braucht.

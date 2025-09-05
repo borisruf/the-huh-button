@@ -1,0 +1,7 @@
+Die Aussage beschreibt, was das Internetprotokoll (IP) macht. Es gibt zwei wichtige Aufgaben von IP:
+
+1. **IP-Adressen vergeben**: IP sorgt dafür, dass jeder Computer und jedes Gerät im Internet eine einzigartige Adresse bekommt. Das ist wie eine Hausnummer, damit die Geräte wissen, wo sie hin senden oder empfangen müssen.
+
+2. **Datenübertragung**: IP hilft auch dabei, Daten von einer Schicht im Netzwerk (Transportebene) zur nächsten Schicht (Netzwerkschicht) zu bewegen. Das bedeutet, dass IP dafür sorgt, dass die Informationen dort ankommen, wo sie hingeschickt werden sollen.
+
+Zusammengefasst sorgt IP also dafür, dass die Geräte im Internet verbunden sind und dass die Daten richtig von einem Ort zum anderen geschickt werden.

@@ -1,0 +1,11 @@
+Stell dir vor, wir haben eine Linie, die die Zeit zeigt. Auf dieser Linie gibt es Punkte, die unsere Daten darstellen – das sind unsere Einsen und Nullen. 
+
+Jetzt wollen wir wissen, wann wir eine Eins oder eine Null senden sollen. Dazu benutzen wir ein Taktsignal, das ist wie ein Rhythmus oder ein Schlag, der uns sagt, wann wir etwas tun müssen. 
+
+Eine Methode, um diese Einsen und Nullen über eine Leitung zu schicken, heißt "Return-to-Zero". Bei diesem Verfahren wird ein Signal wie ein Rechteck erzeugt: Wenn wir eine Eins senden, geht das Signal nach oben, und wenn wir eine Null senden, kommt das Signal wieder nach unten. 
+
+Das Problem dabei ist, dass wir damit nicht gut sehen können, wie schnell wir senden, weil viel „Ruhe“ zwischen den Einsen und Nullen ist. Deshalb gibt es eine andere Methode namens "Non-Return-to-Zero", bei der eine Null durch ein niedriges Signal dargestellt wird. Aber auch hier haben wir das gleiche Problem mit der Geschwindigkeit.
+
+Um dieses Problem zu lösen, können wir die Non-Return-to-Zero-Methode mit einem Taktsignal kombinieren. Das bedeutet, dass wir in regelmäßigen Abständen unsere Einsen und Nullen ändern, was hilft, das Signal besser zu verstehen und zu steuern. So sehen wir die Wechsel von Einsen zu Nullen klarer, und es wird einfacher, die Informationen auch bei Störungen zu erkennen.
+
+Das einfach gesagt bedeutet: Wir haben eine Zeitlinie mit unseren Daten, und darüber legen wir ein Taktsignal, das uns hilft, alles besser zu verstehen und zu kontrollieren.

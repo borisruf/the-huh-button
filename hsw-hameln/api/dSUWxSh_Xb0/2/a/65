@@ -1,0 +1,5 @@
+In dieser Aussage wird erklärt, wie wir mehrere Informationsquellen (Kanäle) über ein einziges Medium (z.B. ein Kabel) verbinden können. Stellen wir uns vor, es gibt vier verschiedene Gespräche, die alle gleichzeitig stattfinden wollen. Statt vier separate Drähte zu benutzen, nehmen wir ein einziges Kabel, um diese vier Gespräche zusammenzuführen. 
+
+Das nennt man Multiplexing. Es heißt, wir machen etwas, das ursprünglich vier Teile hat, kleiner und packen alles in einen einzigen Teil. Das funktioniert, weil wir geschickt mit den Informationen umgehen können. 
+
+Das Problem ist jedoch, dass, wenn viele Daten über ein Kabel laufen, es manchmal zu Störungen oder Problemen kommen kann. Manchmal kann es also eng werden, wenn zu viele Informationen gleichzeitig durch das gleiche Kabel wollen.

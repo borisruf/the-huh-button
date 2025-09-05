@@ -1,0 +1,11 @@
+Die Aussage beschreibt zwei wichtige Dinge für ein Netzwerk: Sicherheit und Zuverlässigkeit.
+
+1. **Sicherheit**: Hier geht es darum, dass unsere Daten in einem Netzwerk gut geschützt sind. Das bedeutet:
+   - Wir müssen sicherstellen, dass jeder nur das sehen oder benutzen darf, was für ihn gedacht ist. Das nennt man Berechtigungsschutz.
+   - Unsere Daten dürfen nicht von Fremden abgehört werden, besonders in WLANs, wo die Daten einfach durch die Luft gesendet werden.
+
+2. **Zuverlässigkeit**: Das bedeutet, dass das Netzwerk gut funktioniert. Wir müssen wissen:
+   - Wie lange funktioniert alles ohne Fehler? Das nennt man mittleres Fehlerintervall.
+   - Wenn etwas kaputtgeht, wie lange dauert es, bis es wieder funktioniert? Das nennt man mittlere Reparaturzeit.
+
+Die Aussage sagt auch, dass wir diese Zuverlässigkeit messen können, und das werden wir uns gleich genauer anschauen.

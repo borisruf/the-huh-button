@@ -1,0 +1,12 @@
+Die Aussage erklärt, wie viele Computer oder Geräte (Hosts) in einem kleinen Netzwerk (Subnetz) verwendet werden können, basierend auf einer besonderen Zahlenreihe, die wir "Subnetzmaske" nennen. 
+
+Wenn wir ein großes Netzwerk aufteilen, schauen wir uns die "Nullen" in der Subnetzmaske an. Diese Nullen zeigen, wie viele Hosts wir haben können. Je mehr Nullen es gibt, desto mehr Hosts passen in das Subnetz. 
+
+Um herauszufinden, wie viele Hosts wir tatsächlich nutzen können, zählen wir die Nullen in der Subnetzmaske. Wenn es zum Beispiel 3 Nullen gibt, können wir eine bestimmte Anzahl von Hosts adressieren, die sich aus der Formel „2 hoch die Anzahl der Nullen“ ergibt. 
+
+Das bedeutet: 
+
+- Wenn es 3 Nullen gibt, ist die Rechnung 2 hoch 3, was 8 ergibt. 
+- Aber wir müssen zwei davon abziehen, weil eine die Adresse des Netzwerks selbst ist und die andere die "Broadcast-Adresse" ist, die für Nachrichten an alle Geräte verwendet wird. 
+
+Also am Ende können wir mit 3 Nullen nur 6 Hosts wirklich benutzen. Das hilft uns, die IP-Adressen besser zu nutzen.

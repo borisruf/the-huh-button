@@ -1,0 +1,5 @@
+In einfachen Worten bedeutet die Aussage:
+
+Wenn viele Geräte gleichzeitig versuchen, Informationen über dasselbe Kabel zu senden, kann es passieren, dass sie sich in die Quere kommen – das nennt man eine Kollision. Das System ist so gestaltet, dass es diese Kollisionen erkennt. Wenn das passiert, müssen die Geräte warten, bevor sie es erneut versuchen. Diese Wartezeit wird durch einen Zufallszahlengenerator bestimmt, was bedeutet, dass es nicht genau vorhersehbar ist, wann jedes Gerät wieder sendet. 
+
+Das bedeutet, dass das System nicht immer sofort reagieren kann, weil die Wartezeiten variieren. Daher kann man sagen, dass es kein Echtzeitsystem ist. Es muss Kollisionen akzeptieren, weil es nur so erkennen kann, wann etwas schiefgeht.

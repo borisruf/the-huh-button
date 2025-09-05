@@ -1,0 +1,23 @@
+In diesem Text geht es darum, dass Fehler in Daten auftreten können, wenn sie übertragen werden, und wie man diese Fehler erkennt und damit umgeht.
+
+Einfach erklärt:
+
+1. **Fehler können passieren**: Manchmal gehen Daten verloren oder sie verändern sich, wenn sie von einem Ort zum anderen geschickt werden.
+
+2. **Zwei Arten von Fehlern**: 
+   - **Daten ändern sich**: Manchmal stimmt etwas mit den Informationen nicht, aber die Menge der Daten bleibt gleich.
+   - **Daten gehen ganz verloren**: Manchmal werden Daten überhaupt nicht empfangen.
+
+3. **Wie man mit Fehlern umgeht**:
+   - Bei manchen Übertragungen (wie zum Beispiel Videos) kann man kleine Fehler einfach ignorieren.
+   - Bei wichtigen Dingen (wie Geldüberweisungen) muss man sicherstellen, dass alles richtig ist.
+
+4. **Fehler erkennen und korrigieren**: 
+   - Man kann zusätzliche Informationen zu den Daten hinzufügen, um Fehler zu entdecken. 
+   - Wenn ein Fehler erkannt wird, kann man die Daten erneut anfragen.
+
+5. **Beispiel eines Verfahrens**: Ein Verfahren, das man verwenden kann, heißt „zyklischer Redundanz-Check“ (CRC). Dabei wird eine Prüfzahl zu den Daten hinzugefügt. Wenn die Daten ankommen, wird die Prüfzahlen überprüft, um sicherzustellen, dass nichts falsch ist.
+
+6. **Wichtig**: Die Qualität der Fehlererkennung hängt davon ab, wie gut das Verfahren ist, das man benutzt.
+
+Zusammengefasst: Es ist wichtig, Fehler in Daten zu erkennen und zu beheben, besonders bei wichtigen Informationen, und dazu gibt es Methoden wie den zyklischen Redundanz-Check.

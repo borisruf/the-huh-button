@@ -1,0 +1,13 @@
+In diesem Text geht es um das Routing von Daten, also wie Daten von einem Ort (A) zu einem anderen Ort (B) im Internet gelangen. Router sind dabei die Geräte, die helfen, die Daten auf dem richtigen Weg zu leiten.
+
+Es gibt zwei Hauptarten, wie Router Informationen über den besten Weg bekommen können:
+
+1. **Statische Routen**: Hier entscheidet ein Mensch (Administrator), welchen Weg die Daten nehmen sollen. Das ist wie wenn du dir einen bestimmten Weg zu einem Freund aussuchst und diesen immer nimmst.
+
+2. **Dynamische Routen**: In diesem Fall nutzen Router spezielle Protokolle, um automatisch zu lernen, welcher Weg der beste ist. Das heißt, sie passen ihren Weg an, je nachdem, wie die Situation im Netzwerk ist. Diese Protokolle helfen, die Informationen über den besten Weg zu finden, ohne dass jemand das manuell eingeben muss.
+
+Es gibt zwei Untergruppen von dynamischen Routen:
+- **Distance-Vector-Protokolle**: Gut für kleinere Netzwerke. Sie verwenden einfache Methoden, um den besten Weg zu bestimmen.
+- **Link-State-Protokolle**: Besser für große Netzwerke, wie das Internet. Sie haben komplexere Methoden, um schnell und effizient den besten Weg zu finden.
+
+Die Aussage „Beispiel wäre an der Stelle das Internet. Wichtig ist an dieser Stelle nochmal eine Unterscheidung vorzunehmen“ bedeutet, dass das Internet ein großes Beispiel für ein Netzwerk ist und es wichtig ist, die verschiedenen Arten von Routing zu verstehen, um die beste Leistung zu erzielen.

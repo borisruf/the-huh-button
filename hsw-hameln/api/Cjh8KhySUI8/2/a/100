@@ -1,0 +1,5 @@
+Echtzeitanwendungen sind Programme, die Daten sehr schnell übertragen müssen, damit alles flüssig und ohne Verzögerungen funktioniert. Ein gutes Beispiel dafür ist IP-Telefonie, also das Telefonieren über das Internet. 
+
+Bei solchen Anwendungen ist es wichtiger, dass die Daten schnell ankommen, als dass jedes kleine Stück der Daten sicher ankommt. Das heißt, wenn manchmal einige Daten fehlen oder kaputt gehen, ist das nicht so schlimm, solange das Gespräch trotzdem weiterläuft und nicht stockt. 
+
+Im Gegensatz dazu gibt es andere Arten von Datenübertragungen, wie zum Beispiel beim Surfen im Internet, wo es wichtig ist, dass alle Daten genau und vollständig ankommen. Echtzeitanwendungen, wie IP-Telefonie, nutzen daher ein spezielles Protokoll (UDP), das dafür sorgt, dass die Kommunikation schnell und effizient ist, auch wenn dabei nicht jede Information perfekt übertragen wird.

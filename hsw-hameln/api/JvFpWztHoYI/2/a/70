@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass das Return-to-Zero-Verfahren bei der Übertragung von Daten ein Problem hat. Bei diesem Verfahren zeigt ein Signal an, dass eine Eins gesendet wird, indem es nach oben springt und dann zurückgeht. Wenn eine Null gesendet wird, bleibt das Signal unten. 
+
+Das Problem ist, dass in dem Signal viel gleichbleibender Strom (Gleichstromanteil) vorhanden ist, was es schwierig macht, den Takt (also den Rhythmus) des Signals zu erkennen. Das heißt, es ist nicht einfach, zu sagen, wann die Einsen und Nullen kommen, weil das Signal oft gleich bleibt.
+
+Es gibt aber auch andere Methoden, die besser geeignet sind, um den Takt aus dem Signal herauszulesen. Diese Methoden machen es leichter, die Daten zu verstehen und zu verarbeiten.

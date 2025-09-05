@@ -1,0 +1,11 @@
+Okay, ich erkläre das mal ganz einfach:
+
+Wenn Daten von einem Computer zu einem anderen Computer geschickt werden, benutzen diese Computer bestimmte Adressen. Diese Adressen helfen, die Daten richtig zu schicken.
+
+1. **IP-Adresse:** Das ist eine Art Adresse für den Computer im Internet. Diese Adresse bleibt gleich, egal wie die Daten reisen. Wenn Computer A Daten an Computer B sendet, ist die IP-Adresse von Computer A immer die gleiche, und auch die IP-Adresse von Computer B bleibt gleich, bis sie ankommen.
+
+2. **MAC-Adresse:** Das ist eine andere Art von Adresse, die für Geräte in einem Netzwerk wichtig ist. Wenn die Daten von Computer A zu Computer B gehen, passiert das oft über verschiedene Zwischenstationen, die wir Router nennen. Bei jedem Router wird die MAC-Adresse geändert, weil der Router die Daten weiterleitet. 
+
+Das bedeutet: Wenn die Daten von Computer A über Router 1 zu Router 2 und dann zu Computer B gehen, bleibt die IP-Adresse von Computer A und Computer B gleich, aber die MAC-Adressen der Router ändern sich.
+
+Zusammengefasst: Die IP-Adressen sind wie feste Adressen für die Computer, die gleich bleiben. Die MAC-Adressen wechseln aber, wenn die Daten durch verschiedene Router gehen.

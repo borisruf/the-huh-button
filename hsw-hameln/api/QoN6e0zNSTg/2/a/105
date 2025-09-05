@@ -1,0 +1,7 @@
+Die Aussage fragt, wie man sicherstellt, dass alle Geräte in einem Netzwerk gerecht das gleiche Recht haben, auf das gemeinsame Medium zuzugreifen. 
+
+Stell dir vor, das Netzwerk ist wie ein großer Tisch, an dem viele Kinder sitzen und miteinander spielen. Alle Kinder wollen gleichzeitig mit dem gleichen Spielzeug spielen. Um Streit zu vermeiden, müssen sie sich irgendwie absprechen, wer zuerst spielen darf und wie lange jeder an dem Spielzeug spielen kann.
+
+In einem Netzwerk ist das Medium (zum Beispiel Kabel oder WLAN) wie der große Tisch. Die Geräte (wie Computer oder Drucker) sind die Kinder. Damit alle Geräte fair an das Medium zugreifen können, gibt es Regeln, die man Protokolle nennt. Diese Regeln helfen dabei, dass jeder ein bisschen Zeit bekommt und niemand zu kurz kommt. 
+
+Die Frage „Wie realisiert man das letzten Endes?“ möchte wissen, wie genau diese Regeln in der Praxis umgesetzt werden, damit alle gleich behandelt werden.

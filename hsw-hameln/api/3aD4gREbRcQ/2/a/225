@@ -1,0 +1,3 @@
+Die siebte Schicht im OSI-Modell ist wie die Oberfläche eines Programms, das wir benutzen. Wenn wir zum Beispiel eine E-Mail schreiben, machen wir das in einem speziellen Programm, das uns hilft, die Nachricht zu schreiben und zu senden. Diese Schicht ist wichtig, weil sie uns direkt mit dem Computer verbindet, auf dem wir arbeiten. 
+
+Das bedeutet, wenn wir etwas eingeben oder eine E-Mail schicken, passiert das über diese Schicht. Die anderen Schichten kümmern sich um den Rest – wie die Verbindung zum Internet und die Umwandlung der Daten, damit sie richtig ankommen. Aber die siebte Schicht ist die, die wir sehen und benutzen, also die, die mit uns als Benutzer direkt kommuniziert.

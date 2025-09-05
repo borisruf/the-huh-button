@@ -1,0 +1,3 @@
+Die Aussage sagt aus, dass verschiedene Daten gleichzeitig über ein Kabel gesendet werden können. Diese Daten nutzen dafür unterschiedliche Frequenzen. Das bedeutet, dass jeder Datenkanal einen kleinen Teil der gesamten Kapazität des Kabels hat. So können sie alle gleichzeitig, also parallel, übertragen werden. 
+
+In einem anderen Verfahren, dem Zeit-Multiplexing, können die Daten nacheinander, aber sehr schnell hintereinander übertragen werden, auch wenn sie sich den gleichen Kanal teilen. Hier ist also nicht alles gleichzeitig, sondern in kurzen Zeitabschnitten, die sehr schnell wechseln.

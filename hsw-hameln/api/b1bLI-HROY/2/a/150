@@ -1,0 +1,3 @@
+Die Aussage erklärt, wie Internetverbindungen in einem Gebäude organisiert werden. Wenn man Internet auf verschiedenen Etagen haben möchte, sollte man dafür Glasfaserkabel verwenden. Diese Kabel werden an ein Gerät angeschlossen, das die Signale umwandelt (Medienwandler). Von dort geht es weiter mit einem normalen Kupferkabel zu einem anderen Gerät (Switch oder Patchfeld). Von diesem Gerät werden die Verbindungen dann auf die verschiedenen Etagen des Gebäudes verteilt. 
+
+Das Ziel ist es, alles ordentlich und klar strukturiert zu halten, damit man immer weiß, wo die Kabel sind und wie alles miteinander verbunden ist. Das erleichtert es, Probleme zu finden und zu lösen.

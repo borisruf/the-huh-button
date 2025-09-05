@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes: Eine IP-Adresse ist wie eine Adresse für Computer, damit sie sich im Internet finden können. Diese Adresse besteht aus vier Teilen, die durch Punkte getrennt sind, zum Beispiel 172.16.14.193. 
+
+In diesen vier Teilen sind kleine Zahlen gespeichert, die man "Bits" nennt. Bits sind die kleinsten Teile von Daten und können nur 0 oder 1 sein – das ist das binäre System. 
+
+Für Menschen ist es aber einfacher, mit normalen Zahlen zu arbeiten (wie 1, 2, 3 bis 9), die wir "Dezimalzahlen" nennen. Deshalb zeigen wir die IP-Adressen in diesen normalen Zahlen und nicht in den kleinen Bits, damit sie leichter zu merken sind.

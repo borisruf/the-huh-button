@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es wichtig ist, zwei Dinge zu betrachten, wenn man ein Netzwerk plant: 
+
+1. **Datenflüsse**: Man muss schauen, wie die Daten durch das Netzwerk fließen. Einige Anwendungen brauchen schnellere Datenübertragung, während andere langsamer sein können.
+
+2. **Echtzeit-Anwendungen vs. normale Anwendungen**: Echtzeitanwendungen, wie z.B. Telefonanrufe über das Internet, müssen sehr schnell sein. Andere Anwendungen, wie das Versenden von E-Mails, können mehr Zeit brauchen.
+
+Am Ende sollte man herausfinden, was genau man erreichen möchte (Soll-Analyse oder Soll-Konzept), um das Netzwerk richtig zu planen.

@@ -1,0 +1,7 @@
+In einfachen Worten erklärt bedeutet die Aussage Folgendes:
+
+Wenn wir eine E-Mail mit einem Bild senden, passiert dies in mehreren Schritten. Das Bild, das wir schicken, hat ein bestimmtes Format, zum Beispiel JPEG. Auf einer bestimmten "Schicht" im OSI-Modell, das nennt man Schicht 6 oder Darstellungsschicht, wird dieses Bild genau so behandelt, wie es ist. Es bleibt im JPEG-Format, damit der Empfänger es richtig sehen kann.
+
+Die letzte Schicht, Schicht 7, ist die, mit der der Benutzer direkt arbeitet. Hier findet die Kommunikation statt, also wie der Benutzer mit der E-Mail und dem Bild interagiert. 
+
+Zusammengefasst: Wenn die E-Mail gesendet wird, sorgt das OSI-Modell dafür, dass das Bild in der richtigen Form bleibt und dass der Benutzer alles sehen und verwenden kann.

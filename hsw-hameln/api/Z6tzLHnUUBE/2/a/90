@@ -1,0 +1,7 @@
+Das OSI-Modell ist wie ein großes Bild, das zeigt, wie Computer miteinander sprechen. In diesem Bild gibt es verschiedene Ebenen, die "Schichten" heißen. 
+
+Auf der dritten Schicht, also Schicht 3, werden "Pakete" erstellt. Man kann sich Pakete wie kleine Kisten vorstellen, in denen Daten von einem Computer zum anderen gesendet werden. 
+
+Ein wichtiger Teil dieser Schicht ist die "Adressierung". Das bedeutet, dass jedem Computer eine spezielle Adresse gegeben wird, die "IP-Adresse" genannt wird. Diese Adresse hilft den Computern, einander zu finden und zu wissen, wohin sie ihre Pakete schicken sollen.
+
+Zusammengefasst: In Schicht 3 des OSI-Modells werden Daten in Paketen verpackt und den Computern werden Adressen gegeben, damit der Datenverkehr funktioniert.

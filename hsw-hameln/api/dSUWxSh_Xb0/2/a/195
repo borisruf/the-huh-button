@@ -1,0 +1,7 @@
+Multiplexing bedeutet, dass mehrere Daten gleichzeitig über ein einziges Kabel übertragen werden können. Stell dir vor, du hast vier Leute, die gleichzeitig sprechen wollen, aber nur ein Telefon. Mit Multiplexing können sie trotzdem miteinander reden, indem jeder für einen kurzen Moment spricht, ohne dass die anderen stören.
+
+In diesem speziellen Fall, den wir hier ansehen, reden wir über Frequenz-Multiplexing, das auf Kupferleitungen funktioniert. Das bedeutet, dass die verschiedenen Gespräche verschiedene "Frequenzen" oder "Tonhöhen" benutzen, ähnlich wie verschiedene Radiosender, die auf unterschiedlichen Frequenzen senden. So kann jeder seine Daten über das gleiche Kabel schicken, ohne dass es zu Verwirrungen kommt.
+
+Das Bild zeigt, dass wir auf der einen Seite drei Leute haben, die miteinander kommunizieren wollen und auf der anderen Seite auch drei Leute. Normalerweise kann aber nur ein Paar gleichzeitig reden, während die anderen warten müssen. Um das zu lösen, gibt es spezielle Geräte, wie einen Multiplexer, der die Daten in verschiedene Frequenzen aufteilt, sodass alle zur gleichen Zeit über das Kabel senden können. 
+
+Es gibt auch andere Arten von Multiplexing, wie das Wellenlängen-Multiplexing, das mit Licht funktioniert, und das Code-Multiplexing, das über Funkverbindungen geht. Zuerst konzentrieren wir uns aber auf das Frequenz-Multiplexing, wie es bei Kupferleitungen verwendet wird.

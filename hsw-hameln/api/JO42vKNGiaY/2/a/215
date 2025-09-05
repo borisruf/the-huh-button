@@ -1,0 +1,9 @@
+Die Aussage beschreibt, dass die neue Art, IP-Adressen zu schreiben, für viele Menschen, die an die alte Art gewöhnt sind, schwieriger ist. 
+
+Früher haben wir IP-Adressen in einer einfachen Form geschrieben, die aus vier Zahlen bestand, die durch Punkte getrennt waren (zum Beispiel 192.168.1.1). Diese Art gehört zur IP-Version 4. 
+
+Jetzt gibt es IP-Version 6. Dort schreiben wir die Adressen anders: Es sind acht Gruppen von Zahlen, die durch Doppelpunkte getrennt sind (zum Beispiel 2001:0db8:85a3:0000:0000:8a2e:0370:7334). Jede Gruppe hat vier Zeichen und kann Zahlen sowie Buchstaben enthalten, die gleichwertig behandelt werden (ob groß oder klein, spielt keine Rolle).
+
+Jede Gruppe repräsentiert 16 Bit, und da wir acht Gruppen haben, ergibt das insgesamt 128 Bit. Das bedeutet, dass wir viel mehr IP-Adressen haben können, als es bei der alten Version der Fall war. 
+
+Insgesamt wird gesagt, dass die Umstellung für Leute, die lange mit der alten Schreibweise gearbeitet haben, etwas verwirrend sein kann, weil sie sich an etwas Neues gewöhnen müssen.

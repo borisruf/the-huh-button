@@ -1,0 +1,1 @@
+ Und der Empfänger auf der anderen Seite braucht natürlich auch ein entsprechendes Window.  Wir sehen das hier, das ist also das Receive-Window-Size, die wir dort festlegen und die sollte nach Möglichkeit genauso groß sein wie die beim Sender.

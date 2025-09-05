@@ -1,0 +1,12 @@
+IP ist wie die Adresse eines Hauses im Internet. Wenn du jemandem einen Brief schickst, musst du wissen, wohin du ihn schickst – genau das macht IP mit Computeradressen. 
+
+Außerdem sorgt IP dafür, dass die Daten, die du schickst, richtig zu ihrem Ziel kommen. Denk daran, wenn du etwas kochst, musst du manchmal die Zutaten klein schneiden, damit sie in den Kochtopf passen. Das nennt man "Fragmentierung". IP hilft dabei, große Daten in kleinere Teile zu schneiden, sodass sie leichter versendet werden können. 
+
+Wenn die Daten dann ankommen, kann es sein, dass sie wieder zusammengefügt werden müssen. Das nennt man "Defragmentierung". 
+
+IP allein sorgt dafür, dass alles an den richtigen Ort kommt, aber es ist nicht immer perfekt – manchmal gehen Dinge verloren. Deshalb gibt es andere Protokolle wie TCP, die sicherstellen, dass die Daten richtig ankommen. 
+
+Zusammengefasst:
+- IP gibt Computern Adressen, damit sie sich finden.
+- IP schickt Daten in kleinen Teilen, wenn nötig.
+- IP sorgt dafür, dass Daten ankommen, auch wenn es nicht immer zuverlässig ist.

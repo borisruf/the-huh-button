@@ -1,0 +1,10 @@
+Die Aussage handelt von einem Computer, der Daten sendet und empfängt. Wenn die Nachricht sehr schnell gesendet wird, kann der Empfänger damit nicht immer mithalten. Deshalb müssen die beiden sich absprechen, wie viele Daten der Sender gleichzeitig schicken darf, bis er eine Bestätigung vom Empfänger erhält, dass die Daten angekommen sind.
+
+In der einfachen Sprache:
+
+1. Der Sender schickt Daten.
+2. Der Empfänger sagt dem Sender, dass er die Daten bekommen hat und sagt ihm, dass er nur eine bestimmte Anzahl an Daten auf einmal empfangen kann, hier nennt man das "Fenstergröße".
+3. Wenn der Empfänger Probleme hat und nicht alle Daten aufnehmen kann, sagt er dem Sender, dass die Fenstergröße kleiner werden soll.
+4. Der Sender muss dann warten, bis er den neuen Hinweis vom Empfänger anpasst, bevor er neue Daten schickt.
+
+Das hilft beiden, im richtigen Tempo zu arbeiten, damit der Empfänger nicht überfordert wird und alles gut ankommt.

@@ -1,0 +1,7 @@
+In einfacher Sprache erklärt, sagt die Aussage folgendes:
+
+Die siebte Schicht im OSI-Modell ist die, auf der wir als Nutzer mit Programmen arbeiten. Hier findet die direkte Kommunikation zwischen dem Nutzer und dem Computerprogramm statt. 
+
+Stell dir vor, du öffnest ein E-Mail-Programm. Dort kannst du eine E-Mail schreiben und sie verschicken. Diese Schicht ist dafür verantwortlich, dass du deine Nachricht einfach eingeben und senden kannst. 
+
+Die Daten, die du sendest, werden durch dieses Programm an den Empfänger weitergeleitet. Diese Schicht sorgt also dafür, dass du mit dem Programm arbeiten kannst und die Daten richtig verarbeitet werden.

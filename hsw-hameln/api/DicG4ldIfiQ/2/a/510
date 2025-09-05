@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, wie gut wir Informationen über eine Verbindung, wie z.B. eine Telefonleitung, übertragen können. 
+
+Das Shannon-Theorem hilft uns zu verstehen, dass die Qualität des Signals, das wir senden (also das, was wir wirklich hören oder sehen wollen), im Vergleich zum Rauschen (das sind störende Geräusche oder Informationen, die uns nicht interessieren) wichtig ist. Manchmal gibt es viel Rauschen, und dann wird es schwer, das Signal zu erkennen.
+
+Wenn wir uns eine Telefonleitung anschauen, bei der das Signal um das 1000-fache stärker ist als das Rauschen (das ist ein Wert von 30 dB), können wir dennoch nur bis zu 30 Kilobit pro Sekunde an Informationen übertragen. Das zeigt, dass es trotz eines guten Signals immer eine Grenze gibt, wie viel wir übertragen können. 
+
+Zusammengefasst: Je besser das Signal im Vergleich zum Rauschen ist, desto mehr Informationen können wir übertragen, aber es gibt immer eine Grenze, wie viel das sein kann.

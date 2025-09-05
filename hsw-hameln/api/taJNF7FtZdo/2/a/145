@@ -1,0 +1,3 @@
+Die Aussage bedeutet einfach: Wenn ein Router ein Datenpaket empfängt, überprüft er zuerst, ob er der letzte Punkt ist, bevor das Paket sein Ziel erreicht. Wenn das so ist, schickt er das Paket direkt weiter an das Zielgerät. 
+
+In einfachen Worten: Der Router schaut, ob er schon fast am Ziel ist. Wenn ja, hilft er dabei, die Nachricht direkt zum Ziel zu bringen.

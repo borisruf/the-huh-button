@@ -1,0 +1,3 @@
+In unserer Tabelle gibt es oben und unten zwei Zeilen, die rot markiert sind. Diese beiden Zeilen darf man nicht benutzen. Warum? Weil in der ersten Zeile die "Netzadresse" steht und in der letzten Zeile die "Broadcast-Adresse" des gesamten Netzwerks. Die Netzadresse ist wie eine Adresse für das ganze Netzwerk, und die Broadcast-Adresse wird benutzt, um eine Nachricht an alle Geräte im Netzwerk zu schicken.
+
+Das bedeutet, wenn wir die verfügbaren Adressen zählen, müssen wir zwei Adressen abziehen: die oben und die unten. So ist es auch, wenn wir Menschen in einem Raum zählen: Wir können den ersten und den letzten Platz nicht benutzen, weil sie besondere Plätze sind. Das ist wichtig zu beachten, wenn wir mit diesen Adressen arbeiten.

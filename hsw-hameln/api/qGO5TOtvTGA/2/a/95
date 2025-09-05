@@ -1,0 +1,5 @@
+In einem Netzwerk müssen Daten von einem Ort zum anderen geschickt werden. Um das zu tun, benutzen wir Geräte, die Router heißen. Es gibt verschiedene Wege, wie Router herausfinden können, welcher Weg der beste ist, um die Daten zu senden. 
+
+Eine Möglichkeit ist, die Routen (Wegen) festzulegen. Das nennt man "statisch". Dabei entscheidet eine Person, wie die Daten geschickt werden. Es gibt aber auch eine andere Methode, die "dynamisch" ist. Hier arbeiten die Router miteinander, um die besten Wege zu finden, und das ist oft einfacher.
+
+Innerhalb der dynamischen Methode gibt es verschiedene Arten von Protokollen. Ein Beispiel dafür sind die "Distance-Vector-Protokolle". Diese speziellen Protokolle sind gut für kleinere Netzwerke, weil sie einfach zu handhaben sind und nicht viel Aufwand benötigen.

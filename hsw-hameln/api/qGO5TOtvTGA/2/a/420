@@ -1,0 +1,7 @@
+Stell dir vor, in deinem Zuhause sind verschiedene Zimmer. In jedem Zimmer gibt es einen Computer. Die Computer in einem Zimmer können einfach miteinander sprechen, weil sie im gleichen Raum sind. 
+
+Aber was ist, wenn der Computer im Wohnzimmer mit dem Computer im Schlafzimmer reden will? Um das zu tun, muss der Computer im Wohnzimmer wissen, wie er zum Schlafzimmer-Computer kommen kann. 
+
+In deinem Netzwerk ist das ähnlich. Jeder Computer (oder Router) muss wissen, wie er andere Computer erreichen kann, die nicht direkt neben ihm sind. Wenn der Computer im Wohnzimmer nicht weiß, wie er zum Computer im Schlafzimmer kommt, kann er nicht mit ihm kommunizieren. 
+
+Das bedeutet: Ob in echten Netzwerken oder in unserem kleinen Beispiel mit den Zimmern, jeder Computer muss Informationen haben, um andere Computer zu finden und erreichen zu können, die weiter weg sind.

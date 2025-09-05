@@ -1,0 +1,7 @@
+Multiplexing ist eine Technik, die es ermöglicht, viele Gespräche oder Informationen gleichzeitig über ein einzelnes Kabel zu senden. Stell dir vor, das Kabel ist wie eine Straße, und es gibt viele Autos (Gespräche), die gleichzeitig fahren wollen. Aber die Straße kann nur begrenzt Autos aufnehmen. 
+
+Um das Problem zu lösen, nutzen wir etwas, das „Frequenz-Multiplexing“ heißt. Das bedeutet, dass wir verschiedene „Frequenzen“ verwenden, ähnlich wie verschiedene Spuren auf der Straße. Jede Frequenz kann ein anderes Gespräch transportieren, sodass viele Gespräche gleichzeitig über ein Kabel laufen können. 
+
+In diesem Beispiel gibt es mehrere Teilnehmer, die miteinander sprechen wollen. Wenn nur zwei von ihnen gerade mit einander reden, können die anderen nicht sprechen. Um sicherzustellen, dass jeder reden kann, nutzen wir spezielle Geräte, die „Multiplexer“ und „Demultiplexer“ genannt werden. Diese Geräte helfen, die verschiedenen Gespräche zu organisieren und sicherzustellen, dass alle Informationen richtig ankommen.
+
+Es gibt auch andere Arten von Multiplexing, die andere Medien nutzen, wie Lichtkabel oder Funkverbindungen. Aber jetzt konzentrieren wir uns erstmal auf das Frequenz-Multiplexing für Kupferleitungen.

@@ -1,0 +1,9 @@
+In dieser Aussage geht es um eine Technik namens Wellenlängen-Multiplexing, die in der Telekommunikation verwendet wird. Hier ist eine vereinfachte Erklärung:
+
+Wir haben mehrere Teilnehmer, die miteinander kommunizieren möchten. Normalerweise können sie nicht gleichzeitig sprechen, weil nur eine Verbindung (ein Kabel) da ist. Das ist wie wenn in einem Raum mehrere Leute reden wollen, aber nur einer gleichzeitig sprechen kann.
+
+Um das Problem zu lösen, verwenden wir etwas, das „Multiplexing“ heißt. Dadurch können mehrere Kommunikationsströme (wie Gespräche) über dasselbe Kabel geschickt werden, ohne dass sie sich gegenseitig stören.
+
+Eine spezielle Art von Multiplexing, die genannt wird, ist das „Wellenlängen-Multiplexing“. Dabei nutzen wir Licht, das durch spezielle Kabel, die Lichtwellenleiter genannt werden, geschickt wird. Jede Nachricht wird auf einer anderen „Wellenlänge“ (also einer anderen Art von Licht) gesendet. Dadurch können viele Gespräche gleichzeitig durch das gleiche Kabel fließen, ähnlich wie verschiedene Farben von Licht, die gleichzeitig durch ein Glas gesendet werden.
+
+Das alles hilft, dass alle Teilnehmer gleichzeitig miteinander sprechen können, ohne dass es zu Unterbrechungen kommt.

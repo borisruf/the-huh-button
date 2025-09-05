@@ -1,0 +1,5 @@
+In der Aussage geht es darum, dass die Daten, die in ein Netzwerk gesendet werden, nicht nur die "Nutzdaten" sind, also die wichtigen Informationen, die man überträgt. Stattdessen sind sie in einem größeren Paket, das aus einer anderen Schicht des Netzwerkmodells kommt. Dieses Paket kann zum Beispiel ein IP-Paket sein, was eine Art von Daten ist, die im Internet verwendet wird.
+
+Um zu zeigen, um welche Art von Paket es sich handelt, gibt es ein spezielles Feld, das "Typfeld" genannt wird. Dieses Feld sagt dem Netzwerk, was für eine Art von Daten im Paket steckt. 
+
+Zusammengefasst: Die Aussage sagt aus, dass die gesendeten Daten in einem größeren Paket verpackt sind und es ein Feld gibt, das zeigt, welche Art von Paket es ist.

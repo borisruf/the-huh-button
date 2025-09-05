@@ -1,0 +1,9 @@
+Die Aussage erklärt, dass wir uns jetzt auf das Internetprotokoll, kurz IP, konzentrieren wollen. IP ist wichtig, weil es dafür sorgt, dass Informationen in Form von Paketen über das Internet geschickt werden. 
+
+Zuerst sorgt IP dafür, dass jeder Computer oder jedes Gerät eine spezielle Adresse bekommt. Diese Adresse hilft dabei, die Geräte zu finden, so wie man eine Adresse braucht, um einen Brief zu schicken.
+
+Eine weitere Aufgabe von IP ist, dass es große Datenmengen in kleinere Teile aufteilt, die man Pakete nennt. Diese Aufteilung nennt man Fragmentierung. Wenn die Pakete ihr Ziel erreicht haben, werden sie wieder zusammengesetzt. Das nennt man Defragmentierung.
+
+IP selbst ist nicht immer zuverlässig; das bedeutet, dass manchmal Pakete verloren gehen können. Um sicherzustellen, dass die Informationen richtig ankommen, braucht man zusätzlich das Protokoll TCP. 
+
+Jetzt werden wir also genauer darüber sprechen, was IP macht, und wie es Pakete definiert.

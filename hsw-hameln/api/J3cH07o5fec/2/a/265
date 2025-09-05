@@ -1,0 +1,13 @@
+Okay, lass uns das einfacher erklären:
+
+Wenn wir ein Netzwerk planen, müssen wir viele Dinge beachten. Es geht nicht nur darum, wie schnell die Daten übertragen werden (das nennt man Verzögerung), sondern auch darum, wie viel Daten gleichzeitig geschickt werden können (das nennt man Bandbreite). Außerdem sollten wir überlegen, welche Geräte wir verbinden wollen. All diese Dinge sind wichtig, wenn es darum geht, das Netzwerk richtig zu machen.
+
+Wenn wir ein Netzwerk für kleine Firmen in zwei Gebäuden planen, müssen wir zuerst herausfinden, wie die aktuelle Situation ist und was wir erreichen möchten. Dann machen wir einen Plan, wie wir das erreichen können. Bei der Planung ist es wichtig, auch die Wünsche der Person, die das Netzwerk will, zu verstehen.
+
+Es gibt verschiedene Phasen bei der Planung: Zuerst analysieren wir die Situation, dann planen wir, wie es weitergeht. Manchmal müssen wir während des Projekts Entscheidungen treffen und Änderungen vornehmen. Nach der Planung kommt die Umsetzung, in der das Netzwerk installiert wird. Danach testen wir, ob alles gut funktioniert und ob die Anforderungen erfüllt sind.
+
+Am Ende zeigen wir den Leuten, die das Netzwerk nutzen, wie es funktioniert und wie sie es pflegen können. 
+
+Das OSI-Modell hilft uns, verschiedene Teile des Netzwerks zu verstehen und zu planen. Wir müssen uns fragen, welche Anwendungen im Netzwerk laufen sollen. Wenn wir zum Beispiel Telefonanrufe über das Internet (Voice-over-IP) machen wollen, müssen wir auf Verzögerungen achten, weil das anders ist als beim normalen Datenaustausch.
+
+Insgesamt müssen wir überlegen, welche Struktur das Netzwerk haben soll: Soll es ein einheitliches System sein oder unterschiedliche Systeme miteinander verbinden? Wir schauen also, wie leistungsfähig das Netzwerk sein muss, was wir technisch verwenden können und welche Geräte angeschlossen werden sollen. All diese Dinge sind wichtig für das Netzwerk, das wir planen.

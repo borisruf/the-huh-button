@@ -1,1 +1,7 @@
-Eine IP-Adresse ist wie eine Hausnummer im Internet. Es gibt verschiedene Arten von IP-Adressen, die uns verraten, zu welchem "Netzwerk-Nachbarschaft" und zu welchem speziellen "Haus" (das ist ein Gerät wie dein Computer) sie gehören. In diesem Fall steht die die "Netzwerk-Nachbarschaft" 172, 16 und das "Haus" ist 00. Wir finden das heraus, indem wir sie mit etwas vergleichen, das eine Subnetzmaske genannt wird - es ist wie ein Schlüssel, der uns sagt, welcher Teil der IP-Adresse die "Nachbarschaft" ist und welcher Teil das "Haus" ist. In diesem Fall sagt uns die Subnetzmaske, dass die ersten beiden Nummern die "Nachbarschaft" sind und die letzten beiden Zahlen das "Haus" sind. Und weil die letzen beiden Nummern auf null gesetzt sind (im technischen Jargon nennen wir es '0 entstehen haben'), können wir sie nicht ändern - sie sind immer 00.
+Die Aussage bedeutet, dass ich herausgefunden habe, dass meine Netzwerkadresse 172.16.0 ist. 
+
+Um das einfach zu erklären: Eine IP-Adresse besteht aus vier Teilen, die wir Oktette nennen. In diesem Fall sind die ersten beiden Teile der IP-Adresse 172 und 16. Die letzten beiden Teile sind 0 und 0. Wenn ich die Netzwerkadresse finde, schaue ich, welche Teile wichtig sind. 
+
+Ich habe einen Vergleich gemacht, um zu sehen, welche Teile meiner IP-Adresse mit der Subnetzmaske übereinstimmen. Wie in diesem Beispiel: Wenn ich die 1en und 0en der IP-Adresse mit der 1en und 0en der Subnetzmaske vergleiche, bleibt nur 172 und 16 übrig. Es bleibt nichts anderes übrig als 0 für die letzten Teile, also ist meine Netzwerkadresse 172.16.0. 
+
+Zusammengefasst: Die Netzwerkadresse hilft mir zu wissen, zu welchem Netzwerk ich gehöre, und in diesem Fall ist die Adresse 172.16.0.

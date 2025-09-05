@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes: 
+
+Wenn wir ein Signal mit der Methode "Return-to-Zero" (RTZ) anschauen, gibt es einige Probleme. Bei RTZ werden Einsen als kurze Ausschläge dargestellt, während Nullen kein Ausschlag sind. Dadurch gibt es viele Stellen, wo das Signal einfach auf dem gleichen Niveau bleibt (das nennt man Gleichstromanteil). 
+
+Das Problem dabei ist, dass wir aus diesem Signal nicht erkennen können, wann genau die Einsen und Nullen kommen, weil es keine klaren Taktzeichen gibt. Das nennt man "keine Taktrückgewinnung". Es gibt jedoch andere Methoden, bei denen man diese Taktzeichen besser erkennen kann. 
+
+Zusammengefasst: RTZ kann einfach sein, hat aber Nachteile, weil es schwer ist, den Rhythmus der Daten zu erkennen. Es gibt auch bessere Wege.

@@ -1,0 +1,5 @@
+Die Aussage besagt, dass wir herausfinden können, wie wahrscheinlich es ist, dass Teile eines Systems (wie Computer oder Router) kaputtgehen. Wenn wir für jedes Teil wissen, wie oft es ausfällt, können wir diese Wahrscheinlichkeiten zusammenrechnen. 
+
+Das funktioniert allerdings nur, wenn es keine anderen Wege oder Optionen gibt, die das Problem lösen könnten. Zum Beispiel: Wenn ein Router ausfällt und es keinen zweiten Router gibt, der die Arbeit übernehmen kann, dann addieren sich die Wahrscheinlichkeiten für Ausfälle. Das heißt, je mehr Teile ohne Ersatz da sind, desto höher ist das Risiko, dass das gesamte System ausfällt. 
+
+Zusammengefasst: Wenn man einen Plan hat, wie man mit Ausfällen umgeht (zum Beispiel Ersatzteile oder alternative Wege), kann man die Wahrscheinlichkeit eines Ausfalls verringern. Wenn es keine Alternativen gibt, wird die Wahrscheinlichkeit, dass etwas schiefgeht, größer.

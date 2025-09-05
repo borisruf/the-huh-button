@@ -1,0 +1,9 @@
+Okay, lass uns das einfach erklären.
+
+Wenn wir Daten von einem Computer zu einem anderen senden, passieren manchmal Probleme. Manchmal geht ein Paket (das sind kleine Datenstücke) verloren. Um sicherzustellen, dass alles richtig ankommt, können wir das verlorene Paket einfach nochmal senden. 
+
+Ein wichtiger Teil dabei ist die Flusssteuerung. Das bedeutet, dass wir darauf achten müssen, wie schnell der Sender (der, der die Daten schickt) ist und wie schnell der Empfänger (der, der die Daten bekommt) ist. Wenn der Sender ganz schnell sendet, der Empfänger aber nicht so schnell alles verarbeiten kann, gibt es ein Problem. 
+
+Deshalb müssen Sender und Empfänger sich absprechen, wie viele Daten sie gleichzeitig schicken oder empfangen können. Das nennen wir das „Fenster“. Wenn das Fenster zu klein ist, könnte der Empfänger überfordert sein. Wenn es zu groß ist, könnte der Sender zu schnell senden und Fehler verursachen. 
+
+Es ist also wichtig, dass sie sich gegenseitig sagen, wie viel sie senden können und ob alles gut angekommen ist. Wenn etwas nicht ankommt, sagt der Empfänger dem Sender, dass er das Paket nochmal schicken soll. So sorgen sie dafür, dass die Daten in der richtigen Reihenfolge ankommen und nichts verloren geht.

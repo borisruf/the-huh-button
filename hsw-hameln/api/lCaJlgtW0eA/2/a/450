@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass manchmal Computer in verschiedenen Netzwerken miteinander sprechen müssen. Um das zu tun, brauchen wir ein spezielles Gerät, das Router heißt. Router helfen dabei, Computer in unterschiedlichen Netzwerken zu verbinden. 
+
+Stell dir vor, du hast zwei Gruppen von Freunden, die in unterschiedlichen Räumen sind. Wenn du mit beiden Gruppen gleichzeitig reden möchtest, brauchst du jemanden (in diesem Fall den Router), der zwischen den Räumen hin- und herläuft, um die Nachrichten weiterzugeben. 
+
+Im Zusammenhang mit dem OSI-Modell, das eine Art Anleitung ist, wie Netzwerke funktionieren, ist der Router wichtig, weil er auf einer bestimmten Ebene arbeitet (der dritten Schicht). Er kann Informationen von einem Netzwerk nehmen und sie ins andere Netzwerk bringen. Das ist besonders wichtig, wenn es viele Computer gibt und sie in verschiedenen "Broadcast-Domänen" sind – das sind Bereiche, in denen Nachrichten gesendet werden, aber nicht außerhalb dieser Bereiche. Wenn du über diese Grenzen hinweg kommunizieren möchtest, brauchst du einen Router.

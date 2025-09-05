@@ -1,0 +1,1 @@
+  Das beginnt immer mit einer festen Zeichenfolge, nämlich immer mit fe80, Doppelpunkt, und das beinhaltet immer auch den Schnittstellen-Identifier.  Dieser Schnittstellen-Identifier ist letzten Endes nichts anderes als das, was wir schon kennengelernt haben als MAC-Adresse.

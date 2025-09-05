@@ -1,0 +1,9 @@
+Okay, lass mich das einfach erklären.
+
+Wenn wir über IP Version 6 sprechen, reden wir über etwas, das dem Computer hilft, sich im Internet zu finden, wie eine Adresse für ein Haus. IP Version 4 war das alte System, aber jetzt gibt es nicht genug Adressen, deshalb nutzen wir IP Version 6.
+
+In IP Version 6 sind die Adressen viel länger und komplizierter. Sie bestehen aus acht Gruppen, die durch Doppelpunkte getrennt sind. Jede Gruppe hat Zahlen und Buchstaben. 
+
+Die Aussage, die du genannt hast, bedeutet: Jede IP Version 6 Adresse beginnt immer mit einer speziellen Zeichenfolge, die so aussieht: "fe80:". Danach kommt ein Teil, der "Schnittstellen-Identifier" heißt. Dieser Teil ist ähnlich wie eine MAC-Adresse, die auch eine Art von Adresse für Geräte im Netzwerk ist. 
+
+Zusammengefasst: IP Version 6 Adressen helfen Geräten im Internet, sich zu finden, und sie sind länger und komplizierter als die alten Adressen. Jede Adresse hat am Anfang "fe80:" und dann einen speziellen Teil, der einem Gerät zugeordnet ist.

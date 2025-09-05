@@ -1,0 +1,3 @@
+Die Aussage sagt, dass wir bald den IP-Header genauer ansehen werden, um zu verstehen, wie er funktioniert und was darin steht. Außerdem wollen wir uns mit etwas beschäftigen, das "Fragmentierung" und "Defragmentierung" heißt. Fragmentierung bedeutet, dass große Daten in kleinere Stücke (Fragmente) geteilt werden, damit sie einfacher durchs Netzwerk gesendet werden können. Defragmentierung bedeutet, dass diese kleinen Stücke am Ziel wieder zusammengefügt werden.
+
+Bevor wir das genauer betrachten, fragt der Text, warum wir diese beiden Schritte (Fragmentierung und Defragmentierung) überhaupt machen müssen. Es ist wichtig, das zu wissen, denn es hilft uns zu verstehen, wie das Internet funktioniert und wie Daten von einem Computer zu einem anderen gelangen.

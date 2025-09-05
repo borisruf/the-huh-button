@@ -1,7 +1,7 @@
-Wir sorgen dafür, dass in unserem Computersystem verschiedene Aufgaben zur gleichen Zeit ausführt werden können. Dabei kann sowohl gesendet als auch empfangen werden. Das ist wie bei einem Gespräch, wo beide Menschen gleichzeitig sprechen und hören können. Das nennen wir "Multiplexing" und das funktioniert im "Full-Duplex-Verfahren". 
+In einfachen Worten sagt die Aussage Folgendes:
 
-Wir benutzen bestimmte Anleitungen (genannt Protokolle), um sicherzustellen, dass Daten sicher von einem Ort zum anderen gebracht werden. Eines dieser Protokolle heißt TCP. Wie bei einem Telefonanruf sorgt es dafür, dass es eine feste Verbindung gibt, um Informationen auszutauschen. Das nennt man verbindungsorientiert. Gleichzeitig hat das Protokoll auch Mechanismen, um sicherzustellen, dass die Daten auch unbeschädigt ankommen. Zum Beispiel kann der Empfänger bestätigen, dass er die Daten erhalten hat - das ist wie eine Quittung beim Einkaufen.
+Wir sorgen dafür, dass viele Daten gleichzeitig über eine Verbindung geschickt werden können. Das nennt man "Multiplexing". Bei "Full-Duplex" können wir gleichzeitig in beide Richtungen kommunizieren, also Daten senden und empfangen gleichzeitig.
 
-Dann gibt es auch ein Protokoll namens IP, welches dafür sorgt, dass die Daten an die richtige Adresse geschickt werden, so wie ein Brief, der an die richtige Adresse geschickt wird. Aber im Gegensatz zu TCP wird hier nicht bestätigt, ob die Daten angekommen sind.
+Das Protokoll, über das wir sprechen, sorgt dafür, dass die Daten sicher und zuverlässig ankommen. Dabei wird eine Verbindung aufgebaut, die es ermöglicht, dass die Daten in der richtigen Reihenfolge und ohne Fehler ankommen. 
 
-Aber beide Protokolle zusammen - TCP und IP - sorgen dafür, dass Daten problemlos von einem Computer zu einem anderen geschickt werden können. Und das ist, was wir in unserer Arbeit mit Netzwerken lernen.
+Zusammenfassend: Wir schicken viele Daten gleichzeitig hin und her, und das Protokoll hilft uns, dass alles sicher und richtig ankommt.

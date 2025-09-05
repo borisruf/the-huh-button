@@ -1,0 +1,1 @@
+  Wenn also ein Rechner herausfinden möchte, welche IP-Adresse hat denn jetzt eigentlich ein bestimmter Rechner mit der und der MAC-Adresse, dann stellt er eine solche Anfrage per Broadcast ins Netzwerk und kriegt dann entsprechend die Antworten zurück von demjenigen, die er angefragt hat.

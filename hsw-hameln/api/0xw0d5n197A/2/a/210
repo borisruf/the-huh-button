@@ -1,0 +1,7 @@
+Stell dir vor, dein Computer ist wie ein kleines Haus, und eine Firewall ist die Tür, die entscheidet, wer rein darf und wer nicht. 
+
+Wenn du die Tür (die Firewall) so einstellst, dass sie besondere "Löcher" (Ports) öffnet, dürfen bestimmte Dinge, wie zum Beispiel Informationen von Google oder Facebook, ins Haus kommen. Diese Informationen kommen über einen speziellen Weg (Port 80) in dein Haus.
+
+Jetzt ist es wichtig, dass du prüfst, was durch die Tür kommt. Manche Daten sind gut und sicher, aber andere könnten böse oder schädlich sein. Die Firewall schaut sich daher die Daten sehr genau an. Sie sucht nach bestimmten Mustern in den Daten, um herauszufinden, ob sie gut oder schlecht sind. Wenn sie etwas Schlechtes entdeckt, schließt sie die Tür, um dein Haus zu schützen.
+
+Zusammengefasst: Die Firewall ist wie ein Wächter, der aufpasst, dass nur sichere Sachen in dein Haus (dein Netzwerk) kommen. Sie muss gut aufpassen, denn manchmal kommen die größten Gefahren von den Menschen, die schon drin sind, nicht von außen.

@@ -1,0 +1,11 @@
+Okay! Lass uns das einfach machen:
+
+Stell dir vor, du hast eine große Kiste mit 32 Adressen für Computer. Aber du willst die Kiste in kleinere Fächer aufteilen. 
+
+Du hast zuerst 8 Plätze in dieser Kiste, die du für die Adressen benutzen darfst. Aber die erste und die letzte Adresse kannst du nicht benutzen, weil die besondere Aufgaben haben. 
+
+Jetzt nehmen wir 3 von diesen Plätzen und machen sie zu besonderen, neuen Plätzen. Das bedeutet, wir haben noch 5 Plätze übrig, die wir für Computer verwenden können. 
+
+Wenn wir das rechnen: 2 hoch 5 = 32. Das heißt, du kannst 32 verschiedene Adressen in einem Fach haben. Aber denk daran, die erste und die letzte Adresse in diesem Fach dürfen wir nicht benutzen. 
+
+Das ist also die Idee: Wir machen aus einer großen Liste von Adressen viele kleine Listen, damit wir sie besser verwalten können!

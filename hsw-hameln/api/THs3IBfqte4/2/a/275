@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wir bei der Übertragung von Signalen nicht nur die Stärke (Amplitude) der Signale variieren können, sondern auch den Zeitpunkt, wenn sie gesendet werden (Phase). 
+
+Stellen wir uns vor, wir haben ein Signal, das wir senden möchten. Wenn wir die Amplitude ändern, können wir zum Beispiel lauter oder leiser senden. Wenn wir die Phase ändern, können wir verschiedene Varianten des Signals erstellen. 
+
+Ein Beispiel für diese Technik, wo wir beides, Amplitude und Phase, nutzen, ist die Quadratur-Amplituden-Modulation. Diese wird bei Technologien wie DSL verwendet, um Daten über das Internet zu übertragen. Das erlaubt uns, mehr Informationen in einer gleichen Zeitspanne zu senden, weil wir unterschiedliche Dinge gleichzeitig (Amplitude und Phase) verwenden, um die Signale zu unterscheiden.

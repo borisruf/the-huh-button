@@ -1,0 +1,18 @@
+In dieser Erklärung geht es um IP-Adressen und wie sie in verschiedene Gruppen eingeteilt werden. Jede Gruppe hat bestimmte Merkmale. 
+
+1. **Was sind IP-Adressen?**: IP-Adressen sind wie Hausnummern für Computer im Internet. Sie helfen dabei, Computer zu finden und miteinander zu sprechen.
+
+2. **Gruppierung**: IP-Adressen sind in Klassen eingeteilt. Die wichtigsten Klassen sind A, B und C. Je nach Klasse haben die Adressen unterschiedliche Werte, die das erste Stück der Adresse bestimmen.
+
+3. **Klasse A, B und C**:
+   - Klasse A hat Adressen von 0 bis 127. Diese Klasse kann viele Computer, fast 17 Millionen, in einem Netzwerk haben.
+   - Klasse B hat Adressen von 128 bis 191 und kann weniger Computer haben als Klasse A.
+   - Klasse C hat Adressen von 192 bis 223 und kann nur eine kleine Anzahl von Computern haben.
+
+4. **Private und öffentliche IP-Adressen**: 
+   - Es gibt private IP-Adressen, die in einem kleinen Netzwerk wie zu Hause verwendet werden können. Man kann diese Adressen frei wählen und sie können in vielen Netzwerken gleich sein.
+   - Öffentliche IP-Adressen sind die, die im Internet sichtbar sind. Private Adressen sind im Internet nicht sichtbar und werden nicht "geroutet". Das bedeutet, dass diese privaten Adressen nicht im Internet benutzt werden können und nur innerhalb von lokalen Netzwerken funktionieren.
+
+5. **Wichtigkeit der Einteilung**: Diese Einteilung hilft, die verfügbaren IP-Adressen besser zu verwalten, damit nicht viele verloren gehen, und erlaubt es, in großen und kleinen Netzwerken zu arbeiten.
+
+Zusammengefasst: Wir haben verschiedene Klassen für IP-Adressen, und in diesen Klassen gibt es private Adressen, die im Internet nicht existieren und nur für lokale Netzwerke verwendet werden.

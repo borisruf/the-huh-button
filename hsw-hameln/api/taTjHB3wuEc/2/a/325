@@ -1,0 +1,7 @@
+Die Aussage handelt von einer Methode, wie Computer miteinander kommunizieren, besonders wenn einer der Computer (der Sender) Daten schneller senden kann als der andere (der Empfänger) sie empfangen kann. 
+
+Stell dir vor, du hast einen Boten, der Nachrichten von einem Ort zum anderen bringt. Wenn der Bote sehr schnell ist, aber die Person, die die Nachrichten bekommt, braucht Zeit, um jede Nachricht zu lesen, dann kann der Bote nicht einfach immer weiter rennen, ohne anzuhalten. Das wäre ineffizient und könnte zu Problemen führen.
+
+In dieser Kommunikation gibt es eine „Fenstergröße“, die bestimmt, wie viele Nachrichten der Bote senden kann, bevor er auf ein Zeichen (eine Bestätigung) warten muss, dass die Person die letzten Nachrichten erhalten hat. Wenn die Person sagt: „Ich kann nur zwei Nachrichten auf einmal lesen“, dann muss der Bote sein Tempo anpassen und darf nur zwei Nachrichten gleichzeitig senden, bis er eine Bestätigung bekommt. 
+
+Die Aussage erklärt also, dass der Sender seine „Fenstergröße“ reduziert, um langsamer zu senden und die Kommunikation reibungsloser zu gestalten. So wird sichergestellt, dass der Empfänger die Nachrichten rechtzeitig erhält und der Bote nicht zu schnell ist. Im Laufe der Kommunikation kann diese „Fenstergröße“ angepasst werden, je nachdem, wie gut die Nachrichtentechnik funktioniert.

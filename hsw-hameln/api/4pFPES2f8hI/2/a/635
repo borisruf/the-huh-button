@@ -1,0 +1,9 @@
+In der Erklärung geht es um etwas, was Computer und Netzwerke miteinander verbindet. Dabei wird über „Subnetting“ gesprochen. Subnetting hilft, große Netzwerke in kleinere Teile zu unterteilen, damit man besser mit den Adressen umgehen kann. 
+
+Hier ist die einfache Erklärung zu dem wichtigen Punkt:
+
+Wenn wir Subnetting machen, ändern wir, wie wir die Adressen in Netzwerken verwenden. Normalerweise gibt es eine Adresse für das gesamte Netzwerk und Adressen für die Computer (Hosts) darin. Wenn wir am Ende 192.168.10.192 bekommen, ist das jetzt eine Adresse für das Netzwerk selbst. Das ist wichtig, weil wir vorher vielleicht 192.168.10.195 als Adresse für einen Computer hatten.
+
+Also, wenn wir eine Adresse wie 192.168.10.192 sehen, wissen wir: „Das ist nicht für einen Computer, das ist die Adresse für das Netzwerk.“ Bei der Arbeit mit Subnetzen muss man genau aufpassen, wo man eine Adresse verwendet, weil das Netzwerk und die Geräte unterschiedliche Adressen haben.
+
+Zusammengefasst: Beim Subnetting kann eine Adresse für das gesamte Netzwerk oder für einen Computer sein. Es ist wichtig, den Unterschied zu verstehen.

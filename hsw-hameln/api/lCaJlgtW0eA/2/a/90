@@ -1,0 +1,7 @@
+Ein Switch ist ein Gerät mit vielen Anschlüssen (Ports), das hilft, verschiedene Netzwerke oder Teile eines Netzwerks miteinander zu verbinden. Man kann sich das wie eine Art Verteiler vorstellen, der Daten zwischen verschiedenen Geräten sendet.
+
+Wenn wir über das OSI-Modell sprechen, das ist ein Modell, das beschreibt, wie Daten in einem Netzwerk übertragen werden, befindet sich der Switch auf der zweiten Ebene, die "Schicht 2" genannt wird. Auf dieser Schicht wird nicht nur entschieden, wohin die Daten gesendet werden, sondern auch, wie sie zwischen den Geräten weitergeleitet werden.
+
+Im Gegensatz zu einfacheren Geräten wie einem Repeater oder Hub, die nur Daten weiterleiten können, hat ein Switch ein bisschen mehr „Verstand“ und kann die Daten gezielt an die richtigen Geräte schicken. 
+
+Kurz gesagt: Ein Switch hat viele Ports und arbeitet auf Schicht 2 des OSI-Modells, um Netzwerke zu verbinden und Daten effizienter zu verteilen.

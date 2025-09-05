@@ -1,0 +1,1 @@
+ Also wenn wir wieder ein Ausgangssignal erzeugt haben, was möglichst rauschfrei ist, dann gehen wir über die Übertragungsstrecke und stellen am Ende fest, dass das empfangene Signal nicht nur gedämpft ist, sondern gleichzeitig auch noch verrauscht.   Und das ist also sozusagen ein statistisches, ein verteiltes Rauschen.
