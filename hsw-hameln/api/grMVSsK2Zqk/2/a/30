@@ -1,0 +1,7 @@
+Jeder Computer und jedes Gerät in einem Netzwerk braucht eine IP-Adresse, damit sie miteinander kommunizieren können. Es gibt zwei Hauptarten, wie diese IP-Adressen vergeben werden:
+
+1. **Dynamisch**: Das bedeutet, dass die Geräte ihre IP-Adresse automatisch bekommen. Wenn du zum Beispiel deinen Laptop einschaltest und mit dem Internet verbindest, fragt er einen speziellen Server (ein Gerät, das die Adressen verwaltet), nach einer IP-Adresse. Der Server gibt dann eine verfügbare Adresse, die sich manchmal ändern kann, wenn du das Gerät neu startest oder es für eine Weile nicht benutzt wird.
+
+2. **Statisch oder manuell**: In diesem Fall wird die IP-Adresse einem Gerät von jemandem fest zugewiesen. Das heißt, die Adresse bleibt immer gleich und ändert sich nicht, egal wie oft das Gerät eingeschaltet wird. Dies wird oft für Server oder Drucker verwendet, die immer die gleiche Adresse brauchen, damit die anderen Geräte sie leicht finden können.
+
+Zusammengefasst: Geräte bekommen IP-Adressen entweder automatisch (dynamisch) oder sie werden von einer Person festgelegt (statisch).

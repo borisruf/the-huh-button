@@ -1,0 +1,7 @@
+Die Aussage erklärt, wie Geräte in einem Netzwerk ihre IP-Adressen bekommen. Es gibt zwei Hauptmethoden: 
+
+1. **Dynamisch**: Hier werden die IP-Adressen automatisch zugewiesen. Es gibt einen speziellen Computer, den DHCP-Server, der die Adressen verwaltet. Alle Geräte, die sich mit dem Netzwerk verbinden, bekommen aus einem bestimmten Bereich von IP-Adressen eine Adresse zugeteilt. Das funktioniert schnell und einfach, weil die Geräte nicht selbst eine Adresse auswählen müssen.
+
+2. **Statisch**: Hierbei muss jemand, der Administrator, die IP-Adressen manuell jedem Gerät zuweisen. Das bedeutet, dass er jedes Gerät einzeln ansprechen und ihm eine spezifische IP-Adresse geben muss. Das ist viel aufwendiger und dauert länger.
+
+Zusammengefasst: Der DHCP-Server macht die Adressvergabe einfacher und schneller, weil er das automatisch für alle neuen Geräte im Netzwerk erledigt.

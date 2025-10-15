@@ -1,0 +1,5 @@
+Die Aussage erklärt, wie ein Computer oder ein Gerät im Netzwerk eine IP-Adresse bekommt. 
+
+Wenn ein Gerät in ein Netzwerk kommt, fragt es mit einer speziellen Nachricht (Broadcast) nach, ob es einen sogenannten DHCP-Server gibt. Der DHCP-Server ist dafür da, IP-Adressen zu vergeben. Wenn der Server da ist, antwortet er dem Gerät mit einem Angebot (DHCP-Offer), in dem sagt, welche IP-Adresse es bekommen kann. 
+
+Das ganze bedeutet, dass der Computer nicht selbst eine IP-Adresse einstellen muss, sondern das erledigt der Server automatisch. So bekommt jedes Gerät eine eigene Adresse, und das macht die Verwaltung einfacher.

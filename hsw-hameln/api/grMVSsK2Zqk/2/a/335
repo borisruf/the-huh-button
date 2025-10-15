@@ -1,0 +1,3 @@
+Die Aussage sagt, dass ein Gerät, das eine IP-Adresse braucht, zuerst eine Frage ins Netzwerk sendet, um einen DHCP-Server zu finden. Diese Frage wird als "Broadcast" bezeichnet, was bedeutet, dass die Nachricht an alle im Netzwerk geschickt wird. Wenn ein oder mehrere DHCP-Server da sind, antworten sie mit einem Angebot für eine IP-Adresse, das nennt sich "DHCP-Offer". 
+
+Das Wichtigste ist, dass das Gerät nicht direkt einen Server anspricht, sondern einfach eine Nachricht in die Luft sendet, um zufällig einen Server zu finden, der ihm helfen kann.

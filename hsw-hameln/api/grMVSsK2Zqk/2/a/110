@@ -1,0 +1,9 @@
+Lass uns die Aussage einfach erklären:
+
+Wenn Geräte wie Computer oder Router eine IP-Adresse brauchen, gibt es zwei Möglichkeiten, wie sie diese bekommen können: entweder automatisch (wir nennen das dynamisch) oder manuell (wir nennen das statisch).
+
+Bei der automatischen Methode benutzen wir einen speziellen Server, der "DHCP-Server" heißt. Dieser Server hat eine Gruppe von IP-Adressen, aus der er Adressen auswählt und sie den Geräten gibt, die neu ins Netzwerk kommen. Das passiert ganz automatisch und macht es einfach, weil man nicht für jedes Gerät selbst eine Adresse einstellen muss.
+
+Wenn wir die manuelle Methode nutzen, muss jemand, der „Administrator“ heißt, jedem Gerät eine IP-Adresse einzeln geben. Das kann viel Zeit und Mühe kosten, weil man alles selbst einstellen muss.
+
+Also, die Aussage bedeutet: Wenn wir die DHCP-Methode verwenden, bekommen unsere Geräte automatisch IP-Adressen aus einem bestimmten Bereich, was die Arbeit viel einfacher macht.

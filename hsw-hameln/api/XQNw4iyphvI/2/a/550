@@ -1,0 +1,15 @@
+Okay, ich erkläre das in einfacher Sprache!
+
+Wenn wir über das Übertragen von Informationen reden, gibt es unterschiedliche Wege, wie das passiert. Man kann die Informationen durch Kabel schicken (das sind die leitungsgebundenen Medien) oder über die Luft (das sind die drahtlosen Medien).
+
+Es gibt spezielle Kabel, die man "Kupferkabel" nennt, und sie haben unterschiedliche Arten. Ein gängiges Kabel ist das "Twisted-Pair"-Kabel. Das sind viele Drähte, die miteinander verwunden sind, damit sie nicht durcheinander kommen oder Störungen von anderen Kabeln abbekommen.
+
+Es gibt auch andere Kabel, wie die "Lichtwellenleiter", die aus Glas bestehen. Diese Kabel können Informationen viel schneller und über längere Strecken übertragen, ohne dass die Qualität der Information leidet. 
+
+Jetzt kommt der Teil mit den "Monomod" und "Multimod". Wenn man Informationen durch Lichtwellenleiter schickt, gibt es zwei große Arten: 
+
+1. **Monomod**: Bei diesem Typ geht das Licht nur auf einem Weg durch das Kabel. Wenn man ein klar formulierter Lichtimpuls (wie ein Rechteck) einschickt, kommt er am anderen Ende immer noch klar und schmal heraus, auch nach langer Entfernung. Das ist gut, wenn man sehr weit weg überträgt.
+
+2. **Multimod**: Bei dieser Art kann das Licht verschiedene Wege im Kabel nehmen. Wenn man den gleichen klaren Lichtimpuls einschickt, sieht der Puls am Ende viel breiter und verworrener aus. Das passiert, weil das Licht nicht nur auf einem Weg, sondern auf vielen Wegen gleichzeitig geht. Das kann dazu führen, dass die Informationen nicht mehr so gut ankommen, besonders wenn die Entfernung groß ist.
+
+Zusammenfassend: Monomod bedeutet, dass Licht einen klaren Weg hat und lange Strecken gut funktioniert. Multimod bedeutet, dass das Licht mehrere Wege geht, aber es kann die Information verwirren, wenn die Strecke lang ist.

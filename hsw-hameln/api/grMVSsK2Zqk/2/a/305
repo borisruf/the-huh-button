@@ -1,0 +1,9 @@
+Stell dir vor, ein Rechner will ins Internet. Aber damit das klappt, braucht er eine Adresse, die wir IP-Adresse nennen. Diese Adresse hilft, den Rechner im Netzwerk zu finden.
+
+Wenn der Rechner starten möchte, fragt er einen speziellen Computer, den DHCP-Server. Der Server hat viele Adressen, die er verteilen kann. Also fragt der Rechner den Server: „Kann ich eine IP-Adresse bekommen?“
+
+Der Server schaut in sein „Adressbuch“ und gibt dem Rechner eine Adresse aus seiner Liste. Wenn der Rechner die Adresse hat, kann er im Internet surfen. Das ist ein bisschen wie wenn du zu einer Party gehst und der Gastgeber dir einen Platz am Tisch gibt, damit du dabeisitzen kannst.
+
+Ein wichtiger Punkt ist, dass die ad hoc vergebenen Adressen nach einer Zeit ablaufen können. Wenn der Rechner eine Weile nicht benutzt wird, gibt der Server die Adresse zurück in seinen „Pool“, damit ein anderer Rechner sie benutzen kann. So bleibt immer genug Platz für neue Geräte im Netzwerk.
+
+Das Gute daran ist, dass es einfach und schnell ist. Jedes Mal, wenn ein neuer Rechner kommt, bekommt er automatisch eine Adresse. Aber der Server muss auch gut gewartet werden, damit alles klappt.

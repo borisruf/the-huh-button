@@ -1,0 +1,1 @@
+  Das heißt, wenn ein Rechner eine bestimmte MAC-Adresse hat und bei einem DHCP -Server eine IP-Adresse anfragt, dann bekommt der eben die dort definierte, für diese MAC-Adresse definierte IP-Adresse zugewiesen.  Diese IP-Adressen, die dynamisch zugewiesen werden, haben noch eine weitere Besonderheit und zwar können die nach einer bestimmten Zeit verfallen.

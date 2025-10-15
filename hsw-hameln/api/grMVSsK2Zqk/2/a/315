@@ -1,0 +1,9 @@
+Stell dir vor, du hast viele Computer und Geräte in einem Raum, und jeder braucht eine spezielle Nummer, die IP-Adresse heißt, damit sie miteinander sprechen können. Damit ein Computer eine IP-Adresse bekommt, gibt es einen Helfer, den wir DHCP-Server nennen.
+
+Wenn ein neuer Computer in den Raum kommt, fragt er einfach alle um sich herum: "Hey, kann mir jemand eine IP-Adresse geben?" Diese Frage ist das, was wir „DHCP-Discover“ nennen. Der Computer ruft also ganz laut und hofft, dass der Server hört und antwortet.
+
+Der DHCP-Server hat viele IP-Adressen, die er verteilen kann. Wenn er die Anfrage hört, pickt er sich eine Nummer aus seiner Liste und sagt: "Hier hast du deine IP-Adresse!" 
+
+Das ist einfach, weil der Server dafür sorgt, dass keine zwei Geräte die gleiche Nummer bekommen. Wenn ein Gerät die IP-Adresse nicht mehr braucht, vergisst der Server das nach einer bestimmten Zeit, damit die Adresse wieder frei wird und ein anderes Gerät die gleiche Nummer bekommen kann.
+
+Durch dieses System ist es viel einfacher, neuen Geräten eine IP-Adresse zu geben, ohne dass jeder Computer einzeln konfiguriert werden muss. Es ist schnell und macht das Leben einfacher, weil man nicht ständig nach jeder Nummer gucken muss.

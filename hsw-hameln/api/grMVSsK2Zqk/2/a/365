@@ -1,0 +1,11 @@
+Gerne! Hier ist die Erklärung in sehr einfacher Sprache:
+
+Wenn wir einen neuen Computer oder ein anderes Gerät mit ins Netzwerk bringen, braucht es eine IP-Adresse, damit es sich mit anderen Geräten verbinden kann. Das funktioniert oft durch etwas, das DHCP heißt. 
+
+Stell dir vor, dass es einen speziellen Computer—wir nennen ihn den DHCP-Server—gibt, der dafür verantwortlich ist, IP-Adressen zu vergeben. Wenn dein Gerät ins Netzwerk kommt, fragt es nach einer IP-Adresse. Das nennt man "DHCP-Discover". Es sendet eine Nachricht in die Runde und sucht nach einem DHCP-Server.
+
+Der DHCP-Server antwortet dann mit einem Angebot, das wir "DHCP-Offer" nennen. In diesem Angebot sagt der Server, welche IP-Adresse er für das Gerät hat. Wenn dein Gerät mehrere Antworten von verschiedenen DHCP-Servern bekommt, kann es sich einen Server aussuchen, mit dem es arbeiten möchte.
+
+Danach sagt dein Gerät dem ausgewählten Server: "Ja, ich möchte diese IP-Adresse!" Das nennt man "DHCP-Request".
+
+So bekommt dein Gerät automatisch eine IP-Adresse, ohne dass du viel tun musst. Das macht das Ganze einfach, weil du nicht jeden Computer einzeln einstellen musst.

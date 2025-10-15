@@ -1,0 +1,1 @@
+ Das macht auch durchaus Sinn, denn wenn eine IP-Adresse eventuell nicht mehr benötigt wird, weil es den Rechner vielleicht gar nicht mehr gibt, sie aber trotzdem dauerhaft belegt bleibt, dann habe ich natürlich irgendwann keine IP-Adressen in meinem definierten Bereich, in meinem DHCP-Pool mehr zur Verfügung.  Deswegen gibt es die sogenannte Lease-Time.

@@ -1,0 +1,12 @@
+Wenn wir darüber sprechen, wie Geräte in einem Netzwerk IP-Adressen erhalten, gibt es zwei Möglichkeiten: manuell (statisch) und automatisch (dynamisch).
+
+**Manuelle (statische) Vergabe:**
+- Hier entscheidet eine Person (Administrator), welchem Gerät welche IP-Adresse zugewiesen wird.
+- Der Administrator hat die volle Kontrolle und weiß genau, welches Gerät welche Adresse hat, weil er es selbst eingestellt hat.
+
+**Automatische (dynamische) Vergabe:**
+- Diese erfolgt meistens über einen speziellen Computer, den DHCP-Server. Der verteilt die IP-Adressen automatisch.
+- Wenn ein neues Gerät ins Netzwerk kommt, fragt es den DHCP-Server nach einer IP-Adresse. Der Server wählt dann eine Adresse aus einem festgelegten Bereich aus und gibt sie dem Gerät.
+- Das ist viel einfacher, weil der Administrator nicht jedes Gerät selbst einstellen muss. 
+
+Zusammengefasst: Bei der manuellen Vergabe hat man volle Kontrolle und sieht genau, welches Gerät welche IP-Adresse hat. Bei der automatischen Vergabe geschieht alles von selbst, was die Arbeit erleichtert, aber man hat nicht immer einen Überblick, welche Adresse gerade wo ist.

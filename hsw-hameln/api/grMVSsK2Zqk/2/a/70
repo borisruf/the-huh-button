@@ -1,0 +1,3 @@
+Stell dir vor, IP-Adressen sind wie Telefonnummern für Computer. Wenn ein Computer eine Telefonnummer braucht, fragt er einen speziellen Computer im Netzwerk, der dafür zuständig ist, die Nummern zu vergeben. Dieser spezielle Computer nennt sich Server.
+
+Es gibt viele mögliche Telefonnummern (IP-Adressen), aber nicht alle sind für jeden Computer verfügbar. Der Server hat eine bestimmte Liste von Telefonnummern, aus der er eine auswählt, wenn ein neuer Computer eine Nummer haben möchte. Diese Auswahl passiert automatisch, damit jeder Computer schnell und einfach eine Nummer bekommt, ohne dass jemand manuell eingreifen muss. Das bedeutet, dass die Vergabe dieser IP-Adressen immer in einem bestimmten, sicheren Rahmen erfolgt.

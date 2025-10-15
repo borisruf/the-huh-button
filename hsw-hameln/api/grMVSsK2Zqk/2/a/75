@@ -1,0 +1,9 @@
+Die Aussage bedeutet Folgendes: 
+
+In einem Netzwerk gibt es viele Geräte, wie Computer und Router, die eine spezielle Zahlenadresse brauchen, um miteinander zu sprechen. Diese Adresse nennt man IP-Adresse. 
+
+Um diesen Geräten eine IP-Adresse zu geben, nutzen wir einen speziellen Computer, den DHCP-Server. Dieser Server hat eine bestimmte Liste von IP-Adressen, die er verwenden kann. 
+
+Wenn ein Gerät eine IP-Adresse möchte, schaut der Server in seiner Liste und wählt eine Adresse aus. Das kann zufällig geschehen, oder der Server kann auch nach bestimmten Regeln vorgehen, die sich nach einer anderen Adresse, der MAC-Adresse, richten. 
+
+Zusammengefasst: Der DHCP-Server gibt den Geräten IP-Adressen entweder nach Zufall oder nach festgelegten Regeln.

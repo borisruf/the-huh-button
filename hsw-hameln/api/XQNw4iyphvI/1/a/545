@@ -1,0 +1,7 @@
+Die Begriffe "Monomod" und "Multimod" beziehen sich auf verschiedene Typen von Lichtwellenleitern, die sich hinsichtlich ihrer Lichtübertragungseigenschaften unterscheiden. 
+
+**Monomode (Monomod)**: Bei Monomode-Fasern wird das Licht in nur einem Modus, also einer einzigen Lichtbahn, übertragen. Diese Faser hat einen kleinen Kerndurchmesser (typischerweise etwa 8-10 Mikrometer) und ermöglicht eine sehr präzise Lichtübertragung. Dadurch werden geringere Pulsverzerrungen und höhere Bandbreiten erzielt, was sie ideal für lange Distanzen in Kommunikationsnetzwerken macht.
+
+**Multimode (Multimod)**: Multimode-Fasern hingegen haben einen größeren Kerndurchmesser (typischerweise 50 oder 62,5 Mikrometer) und ermöglichen die Übertragung von Licht in mehreren Modi oder Lichtbahnen gleichzeitig. Dies führt zu einer größeren Pulsverzerrung und Begrenzung der Übertragungsdistanz, eignet sich jedoch gut für kürzere Strecken, wie beispielsweise in lokalen Netzwerken oder Gebäuden.
+
+Zusammengefasst beschreibt der Unterschied zwischen Monomod und Multimod die Anzahl der Lichtmoden, die in der Faser übertragen werden können, was Auswirkungen auf Bandbreite, Übertragungsdistanz und Signalqualität hat.

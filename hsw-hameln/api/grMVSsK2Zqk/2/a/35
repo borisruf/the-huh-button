@@ -1,0 +1,7 @@
+Die Aussage erklärt, wie Geräte wie Computer und Router ihre IP-Adressen bekommen. Es gibt zwei Arten, wie das passiert:
+
+1. **Dynamisch**: Hier bekommt das Gerät seine IP-Adresse automatisch. Das passiert oft, wenn das Gerät sich mit einem Netzwerk verbindet, wie zum Beispiel bei WLAN. Der Router vergibt dann eine IP-Adresse für eine bestimmte Zeit.
+
+2. **Statisch oder manuell**: In diesem Fall wird die IP-Adresse für das Gerät festgelegt und ändert sich nicht. Das bedeutet, dass jemand die Adresse selbst eingibt und sie immer gleich bleibt.
+
+Das ist wichtig, damit die Geräte im Netzwerk miteinander reden können.

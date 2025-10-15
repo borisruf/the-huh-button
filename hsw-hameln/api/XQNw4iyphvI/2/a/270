@@ -1,0 +1,15 @@
+In dieser Erklärung geht es darum, wie Kabel für die Datenübertragung aussehen und geschützt sind. 
+
+Stell dir vor, ein Kabel besteht aus vielen kleinen Drähten, die miteinander gewickelt sind, damit sie besser funktionieren. Diese Drähte heißen „Twisted-Pair“ und werden oft in Telefonen und Computern verwendet.
+
+Es gibt verschiedene Arten von Kabeln, die mehr oder weniger Schutz haben. 
+
+1. **Unshielded Twisted-Pair (UTP)**: Das ist ein einfaches Kabel, wo die Drähte nur in einer Kunststoffummantelung sind. Es hat keinen speziellen Schutz.
+
+2. **Shielded Twisted-Pair (S-UTP)**: Hier gibt es zusätzlich eine Schutzschicht, die das Kabel umgibt. Diese Schicht hilft, Störungen zu reduzieren.
+
+3. **Kabel mit innerer Abschirmung**: Bei dieser Art gibt es zusätzlich eine Folie oder ein Metallgeflecht um die Drähte, um sie noch besser zu schützen.
+
+Der Grund, warum die Drähte so gedreht sind, ist, damit sie sich nicht gegenseitig stören. Das nennt man Übersprechen. Durch das Verdrillen der Drähte wird diese Störung verringert.
+
+Insgesamt gibt es verschiedene Schutzarten, weil Kabel manchmal unterschiedliche Aufgaben haben, und je mehr Schutz sie haben, desto besser können sie ihre Daten übertragen, besonders über längere Strecken.

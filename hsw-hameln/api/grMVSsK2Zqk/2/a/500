@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es bei der Vergabe von IP-Adressen sowohl Vorteile als auch Nachteile gibt, egal ob man die Adressen manuell (statisch) oder automatisch (dynamisch) vergibt. 
+
+Wenn man IP-Adressen automatisch vergibt, kann man sicherstellen, dass bestimmte Geräte immer die gleiche IP-Adresse bekommen, indem man ihre MAC-Adressen nutzt. Das ist ein Vorteil der statischen Vergabe, den man auch bei der dynamischen Vergabe nutzen kann. 
+
+Das heißt, man kann die Leichtigkeit und Flexibilität der automatischen Vergabe haben, aber trotzdem sicherstellen, dass wichtige Geräte immer dieselbe IP-Adresse verwenden. So werden die Nachteile beider Methoden durch diese zusätzlichen Möglichkeiten ausgeglichen.

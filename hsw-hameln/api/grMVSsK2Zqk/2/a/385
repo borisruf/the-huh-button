@@ -1,0 +1,21 @@
+In dem Text geht es darum, wie Geräte in einem Netzwerk ihre IP-Adressen bekommen. Es gibt zwei Hauptwege, wie das passiert: dynamisch oder statisch.
+
+1. **Dynamische Adressen (automatisch)**: 
+   - Hier benutzen die Geräte einen speziellen Server (DHCP-Server), der ihnen automatisch eine IP-Adresse zuweist. 
+   - Der Server hat einen bestimmten Bereich von IP-Adressen, aus dem er eine Adresse auswählt. Dadurch müssen wir nicht für jedes Gerät selbst eine Adresse einstellen. Das spart viel Zeit und Arbeit.
+
+2. **Statische Adressen (manuell)**:
+   - Hier muss ein Mensch (der Administrator) jedem Gerät einzeln eine IP-Adresse geben. Das ist sehr viel Arbeit, besonders in großen Netzwerken.
+
+**Vorteile der dynamischen Adressen**:
+- Weniger Arbeit für den Administrator, weil alles automatisch passiert.
+- Sicherheit, weil der Server dafür sorgt, dass keine doppelten Adressen vergeben werden.
+- Neue Geräte bekommen automatisch eine Adresse, wenn sie ins Netzwerk kommen.
+
+**Nachteile der dynamischen Adressen**:
+- Manchmal braucht der Server Wartung.
+- Es gibt etwas mehr Kommunikation im Netzwerk aufgrund des DHCP-Systems.
+
+Der Text beschreibt dann, wie ein Gerät eine IP-Adresse von einem DHCP-Server anfordert. Es sendet eine Anfrage im Netzwerk, der Server antwortet und vergibt eine Adresse. 
+
+Insgesamt zeigt der Text, dass die Verwendung von dynamischen IP-Adressen in den meisten Fällen einfacher und effizienter ist, als jedes Gerät manuell zu konfigurieren.

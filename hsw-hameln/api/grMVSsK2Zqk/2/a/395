@@ -1,0 +1,5 @@
+Die Aussage erklärt, dass wir in Windows die IP-Adresse und die Subnetzmaske sehen können. Eine IP-Adresse ist wie die Adresse eines Hauses im Internet – sie hilft, Geräte zu finden und miteinander zu kommunizieren. Die Subnetzmaske hilft, die IP-Adresse in zwei Teile zu teilen: einen Teil für das Netzwerk und einen Teil für die einzelnen Geräte. 
+
+Im weiteren Text wird erklärt, wie Geräte ihre IP-Adressen bekommen. Es gibt zwei Hauptwege: entweder automatisch (dynamisch) durch einen DHCP-Server, der jede IP-Adresse vergibt, oder manuell, wo der Administrator jedem Gerät selbst eine Adresse zuweist. Der automatische Weg ist einfacher, weil es weniger Arbeit für den Administrator bedeutet, während der manuelle Weg mehr Aufwand erfordert. 
+
+Zusammengefasst, die IP-Adresse und die Subnetzmaske helfen, Geräte in einem Netzwerk zu identifizieren und zu organisieren, und es gibt verschiedene Möglichkeiten, wie diese Adressen zugewiesen werden.

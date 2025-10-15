@@ -1,0 +1,7 @@
+Die Aussage erklärt zwei Arten, wie Computer und andere Geräte eine IP-Adresse bekommen: 
+
+1. **Dynamisch**: Das bedeutet, die IP-Adresse wird automatisch vergeben. Wenn ein Gerät sich mit dem Netzwerk verbindet, bekommt es eine Adresse von einem speziellen Programm, das DHCP heißt. Dieses Programm kümmert sich um die Vergabe der Adressen und sorgt dafür, dass jedes Gerät seine eigene Adresse hat.
+
+2. **Statisch oder manuell**: In diesem Fall gibt es keine automatische Vergabe. Hier wird die IP-Adresse von einer Person festgelegt und bleibt immer gleich. Das bedeutet, dass die Adresse nicht einfach wechselt, sondern so bleibt, wie sie eingerichtet wurde.
+
+Der wichtigste Unterschied zwischen den beiden Arten ist also, dass die dynamische IP-Adresse automatisch vergeben wird, während die statische IP-Adresse von jemandem manuell eingerichtet wird.

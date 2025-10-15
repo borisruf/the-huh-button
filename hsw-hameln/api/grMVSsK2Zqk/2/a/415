@@ -1,0 +1,9 @@
+In diesem Text geht es darum, wie Geräte in einem Netzwerk IP-Adressen bekommen. Es gibt zwei Arten der Vergabe: 
+
+1. **Dynamisch**: Das passiert automatisch mit Hilfe eines Servers namens DHCP. Dieser Server gibt jedem Gerät im Netzwerk eine IP-Adresse aus einem bestimmten Bereich. Das ist einfach, weil man sich nicht um jede IP-Adresse einzeln kümmern muss. Wenn ein Gerät eine IP-Adresse braucht, fragt es den DHCP-Server. Der Server sagt dann, welche IP-Adresse das Gerät bekommen kann. Wenn ein Gerät nicht mehr da ist, kann die IP-Adresse wieder verwendet werden.
+
+2. **Statisch**: Hier gibt der Administrator jedem Gerät manuell eine IP-Adresse. Das ist aufwendiger, weil man viel mehr Arbeit hat, um alles einzustellen.
+
+Der Text erwähnt auch das **Standard-Gateway**, das der Weg ist, wie Geräte nach draußen kommunizieren können, also in andere Netzwerke. Es ist wichtig, weil es hilft, Daten ins Internet zu senden oder von dort zu empfangen. 
+
+So kann man sich das vorstellen: Das Standard-Gateway ist wie eine Tür, die man öffnen muss, um nach draußen zu gehen. Die DHCP-Vergabe sorgt dafür, dass jeder das passende "Ticket" (die IP-Adresse) bekommt, um durch diese Tür zu gehen.

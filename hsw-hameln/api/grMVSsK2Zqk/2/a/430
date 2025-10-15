@@ -1,0 +1,9 @@
+In dem Text geht es darum, wie Geräte wie Computer und Router im Netzwerk ihre IP-Adressen erhalten. Es gibt zwei Arten, wie das passieren kann: 
+
+1. **Dynamisch**: Die Geräte bekommen ihre IP-Adressen automatisch von einem DHCP-Server. Der DHCP-Server wählt aus einem bestimmten Bereich von IP-Adressen eine Adresse aus und gibt sie dem Gerät. Das passiert schnell und einfach, ohne dass der Mensch viel tun muss. Wenn ein Gerät ins Netzwerk kommt, fragt es nach einer IP-Adresse, und der Server gibt ihm eine.
+
+2. **Statisch**: Hier muss ein Mensch, der Administrator, jedem Gerät selbst eine IP-Adresse zuweisen. Das ist viel aufwendiger, weil er jedes Gerät einzeln einstellen muss.
+
+Der Text erklärt auch, dass der DHCP-Server nicht nur dafür sorgt, dass jedes Gerät eine eindeutige IP-Adresse bekommt, sondern auch andere wichtige Informationen wie DNS-Server weitergeben kann. DNS-Server helfen dabei, Internetadressen in IP-Adressen umzuwandeln. Diese Informationen können auch automatisch durch den DHCP-Server bereitgestellt werden, wodurch alles einfacher und schneller wird. 
+
+Zusammengefasst: Der DHCP-Server macht es einfach, IP-Adressen an Geräte zu verteilen, ohne dass der Mensch viel tun muss, und er kann auch andere wichtige Informationen zur Verfügung stellen.

@@ -1,0 +1,11 @@
+Stell dir vor, du hast viele Geräte, wie Computer und Smartphones, die in ein Netzwerk wollen. Damit diese Geräte miteinander kommunizieren können, brauchen sie eine spezielle Nummer, die IP-Adresse heißt. Es gibt zwei Arten, um diesen Geräten IP-Adressen zu geben: 
+
+1. **Statisch**: Das bedeutet, dass ein Mensch (der Administrator) jedem Gerät manuell eine IP-Adresse gibt. Das ist aufwendig, weil man jedes Gerät einzeln einstellen muss.
+  
+2. **Dynamisch**: Hier kommt ein hilfsbereiter Computer namens DHCP-Server ins Spiel. Dieser Server vergibt die IP-Adressen automatisch, wenn ein neues Gerät ins Netzwerk kommt. 
+
+Das funktioniert so: Wenn ein neues Gerät eine IP-Adresse braucht, fragt es den DHCP-Server. Der Server hat eine Liste von IP-Adressen und gibt dem Gerät eine, die noch frei ist. So muss sich der Administrator nicht um jedes einzelne Gerät kümmern.
+
+Ein weiterer Vorteil: Die vergebenen IP-Adressen sind nicht für immer. Nach einer bestimmten Zeit, wenn das Gerät nicht mehr im Netzwerk ist, kann die Adresse wieder frei gegeben werden, damit sie ein anderes Gerät nutzen kann. 
+
+Die DHCP-Methode macht es also viel einfacher, neue Geräte hinzuzufügen und den Überblick über die IP-Adressen zu behalten, ohne dass viel Arbeit nötig ist.

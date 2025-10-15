@@ -1,0 +1,7 @@
+Das bedeutet folgendes in einfachen Worten:
+
+Jedes Gerät, wie ein Computer oder ein Handy, hat eine spezielle Nummer, die man MAC-Adresse nennt. Wenn dieses Gerät eine IP-Adresse braucht, fragt es einen speziellen Computer, den DHCP-Server. 
+
+Der DHCP-Server hat eine Liste von IP-Adressen und entscheidet, welche Adresse er dem Gerät gibt. Normalerweise gibt er einfach eine Adresse aus dieser Liste. Aber man kann ihm auch sagen: "Wenn ein Gerät mit dieser bestimmten MAC-Adresse nach einer IP-Adresse fragt, gib ihm immer die gleiche Adresse."
+
+So bekommen Geräte mit einer bestimmten MAC-Adresse immer die gleiche IP-Adresse, wenn sie nach einer fragen. Das hilft, den Überblick zu behalten und Verwirrung zu vermeiden.

@@ -1,0 +1,9 @@
+Die Aussage besagt, dass es gut ist, wenn man bestimmten Geräten (mit ihren speziellen MAC-Adressen) feste IP-Adressen zuteilt. Das bedeutet, wenn ein Gerät in das Netzwerk kommt, bekommt es immer die gleiche IP-Adresse, die man vorher festgelegt hat. Dadurch kann man besser kontrollieren, welches Gerät welche IP-Adresse hat.
+
+Das hat zwei Seiten: 
+
+1. **Sicherheit**: Man weiß genau, welches Gerät welche IP-Adresse hat. So kann man verhindern, dass sich Unbekannte in das Netzwerk einloggen.
+
+2. **Arbeit**: Wenn man viele Geräte hat, muss man jede MAC-Adresse aufschreiben und die passenden IP-Adressen festlegen. Das kann viel Arbeit machen, also ist es aufwendiger. 
+
+Man kann also wählen zwischen weniger Sicherheit und weniger Arbeit (dynamische Verteilung – das Netzwerk vergibt IP-Adressen automatisch) oder mehr Sicherheit, aber dafür mehr Arbeit (statische Zuweisung – man vergibt IP-Adressen von Hand).

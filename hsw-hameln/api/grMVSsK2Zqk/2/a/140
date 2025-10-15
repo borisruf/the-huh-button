@@ -1,0 +1,5 @@
+Wenn viele Geräte in einem Netzwerk eine IP-Adresse brauchen, gibt es zwei Wege, um ihnen diese Adressen zu geben: automatisch oder manuell.
+
+Der automatische Weg heißt DHCP. Dabei gibt es einen speziellen Server, der alle Adressen verwaltet. Der Server hat einen bestimmten Bereich von IP-Adressen, aus dem er für jedes Gerät eine Adresse auswählt. Das bringt viele Vorteile.
+
+Ein großer Vorteil ist, dass jede IP-Adresse nur einmal vergeben wird. Der DHCP-Server sorgt dafür. Das heißt, ich kann nicht aus Versehen zwei gleiche Adressen vergeben, was passieren könnte, wenn ich das alles selbst machen würde. Wenn ich das manuell mache, müsste ich für jedes Gerät eine Adresse auswählen und dabei könnte ich Fehler machen. Mit DHCP passiert das nicht, und alles funktioniert viel einfacher und schneller. Das ist besonders wichtig, wenn viele Geräte ins Netzwerk kommen.

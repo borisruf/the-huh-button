@@ -1,0 +1,9 @@
+Stell dir vor, du bist in einem großen Raum mit vielen Tischen (das ist das Netzwerk) und jeder Tisch braucht eine Nummer, damit du weißt, wo du sitzt (das sind die IP-Adressen). Wenn jemand neu in den Raum kommt, sucht er einen Tisch, der noch frei ist.
+
+In diesem Raum gibt es einen Helfer, der dafür sorgt, dass jeder Tisch eine Nummer hat. Dieser Helfer ist der DHCP-Server. Wenn du ankommst, fragst du den Helfer: "Welchen Tisch kann ich benutzen?" Das ist wie eine Frage, die du stellst, genannt "DHCP-Discover".
+
+Der Helfer antwortet dir und sagt: "Hier ist ein Tisch mit der Nummer 5!" Das nennt man "DHCP-Offer". Manchmal gibt es mehrere Helfer, und du kannst dir aussuchen, von welchem Helfer du die Nummer haben möchtest.
+
+Sobald du einen Helfer ausgewählt hast, sagst du ihm: "Ich möchte diesen Tisch mit der Nummer 5 benutzen." Das ist der "DHCP-Request". Jetzt weiß der Helfer, dass du diesen Tisch brauchst, und er sagt: "Natürlich, du kannst ihn benutzen!"
+
+So bekommst du automatisch eine Nummer für deinen Tisch, ohne dass du selbst suchen oder entscheiden musst, wie die Nummer aussehen soll. Es ist einfach und bequem, und der Helfer kümmert sich um alles!

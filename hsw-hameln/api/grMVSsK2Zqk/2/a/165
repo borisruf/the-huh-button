@@ -1,0 +1,11 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn ein Computer eine spezielle Nummer hat, die MAC-Adresse genannt wird, und er eine IP-Adresse von einem DHCP-Server anfragt, dann bekommt er eine bestimmte IP-Adresse, die für seine MAC-Adresse festgelegt wurde. 
+
+Es gibt zwei Arten von IP-Adressen: 
+1. **Dynamische IP-Adressen** – Diese Adresse wird automatisch und für eine bestimmte Zeit vergeben. Nach einer gewissen Zeit kann diese Adresse wieder frei werden, sodass ein anderer Computer sie benutzen kann.
+2. **Statische IP-Adressen** – Diese wird manuell festgelegt und bleibt immer gleich für ein Gerät.
+
+Der DHCP-Server hilft dabei, die dynamischen IP-Adressen zu vergeben, damit es keinen Aufwand gibt, jede Adresse von Hand einzugeben. Der Server sorgt auch dafür, dass jede Adresse nur einmal vergeben wird, sodass es keine doppelten Adressen gibt. 
+
+Zusammengefasst: Der Server gibt Computern automatisch IP-Adressen, basierend auf deren MAC-Adressen, und diese Adressen können nach einer bestimmten Zeit wieder zur Verfügung stehen.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass ich einen speziellen Computer (Server) im Netzwerk brauche, der dafür sorgt, dass andere Geräte (wie Computer oder Router) eine IP-Adresse bekommen. 
+
+Es gibt einen bestimmten Bereich von IP-Adressen, den ich vorher festgelegt habe. Wenn ein Gerät eine IP-Adresse haben möchte, sucht der Server aus diesem Bereich eine passende Adresse aus und gibt sie dem Gerät. 
+
+Das ist wichtig, damit alle Geräte im Netzwerk eine eindeutige Adresse haben und miteinander kommunizieren können.

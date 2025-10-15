@@ -1,0 +1,5 @@
+Die Aussage "Das heißt, ich suche mir erstmal einen DHCP-Server. Gibt es einen DHCP-Server?" bedeutet folgendes in einfacher Sprache:
+
+Wenn ein Computer (oder ein anderes Gerät) mit einem Netzwerk verbunden wird und eine IP-Adresse braucht, fragt es zuerst: "Wo kann ich eine IP-Adresse bekommen?" Dafür sucht es nach einem DHCP-Server. Der DHCP-Server ist wie ein Helfer, der dafür sorgt, dass jedes Gerät im Netzwerk eine eigene IP-Adresse bekommt, damit es mit anderen Geräten kommunizieren kann. 
+
+Also, der Computer möchte wissen, ob irgendwo im Netzwerk so ein Helfer (DHCP-Server) existiert. Wenn ja, kann er ihm eine IP-Adresse anfragen und erhalten.

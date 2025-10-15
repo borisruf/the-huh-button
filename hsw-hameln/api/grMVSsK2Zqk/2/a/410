@@ -1,0 +1,5 @@
+In der Aussage geht es darum, wie Geräte in einem Netzwerk mit der Außenwelt kommunizieren. Ein "Standard-Gateway" ist wie ein Türöffner, der den Geräten ermöglicht, ins Internet oder ein anderes Netzwerk zu gehen. Wenn wir zum Beispiel im Internet surfen, nutzen wir dieses Gateway, um Daten zu senden und zu empfangen.
+
+Zusätzlich wird auf "Network Address Translation" (NAT) hingewiesen. Das ist ein Prozess, der hilft, die Adressen von Geräten in einem lokalen Netzwerk zu einer einzigen Adresse zu ändern, die im Internet verwendet wird. So können viele Geräte im Netzwerk über das gleiche Gateway ins Internet kommunizieren.
+
+Zusammenfassend sagen wir: Das Standard-Gateway hilft den Geräten, über die Netzgrenzen hinaus zu kommunizieren, und NAT sorgt dafür, dass viele Geräte ihre eigenen Adressen haben, aber trotzdem über eine gemeinsame Adresse ins Internet gehen können.

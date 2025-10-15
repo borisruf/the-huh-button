@@ -1,0 +1,5 @@
+Die Aussage bedeutet folgendes in einfacher Sprache:
+
+In einem Netzwerk gibt es einen bestimmten Bereich, aus dem Adressen für Geräte vergeben werden. Wenn ein neues Gerät eine Adresse braucht, wählt der Server eine Adresse aus diesem Bereich aus. Manchmal wird die Adresse einfach zufällig ausgewählt. Der Vorteil davon ist, dass jede Adresse nur einmal an ein Gerät vergeben wird, sodass es keine doppelten Adressen gibt. 
+
+Zusammengefasst: Es gibt viele Adressen im Netzwerk, und der Server gibt jeder neuen Maschine eine Adresse, die es noch nicht hat.

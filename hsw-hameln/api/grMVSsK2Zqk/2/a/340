@@ -1,0 +1,5 @@
+Die Aussage sagt, dass ein Computer oder Gerät, das eine IP-Adresse möchte, eine Art Rundruf in das Netzwerk sendet. Dieser Rundruf heißt „Broadcast“. 
+
+Das Ziel ist, einen DHCP-Server zu finden. Ein DHCP-Server ist ein Computer, der IP-Adressen verwaltet und an Geräte vergibt, die danach fragen. Wenn der Server den Rundruf hört, schickt er ein Angebot zurück, das nennt man “DHCP-Offer”. Dieses Angebot enthält die IP-Adresse, die das Gerät nutzen kann.
+
+Im einfachen Sinne: Ein Gerät fragt in der Runde, ob jemand eine Adresse hat. Wenn ein DHCP-Server da ist, sagt dieser „Hier ist deine Adresse!“

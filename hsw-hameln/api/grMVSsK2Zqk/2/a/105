@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass ein Administrator, eine Person, die dafür verantwortlich ist, die Computer und Netzwerke zu verwalten, viel Arbeit hat, wenn er die IP-Adresse für jedes Gerät manuell einstellen muss. 
+
+Wenn neue Geräte, wie Computer oder Drucker, in das Netzwerk kommen, bekommt jedes Gerät eine IP-Adresse. Wenn der Administrator das manuell macht, muss er jedes Gerät einzeln ansteuern und darauf achten, die richtige IP-Adresse und andere wichtige Informationen für jedes einzelne Gerät einzugeben. Das kostet viel Zeit und Mühe.
+
+Es gibt eine einfachere Methode, die heißt DHCP. Das ist ein System, das automatisch IP-Adressen an die Geräte verteilt. Das bedeutet, dass der Administrator weniger Aufwand hat, weil die Geräte selbstständig eine IP-Adresse bekommen, ohne dass er jedes Gerät einzeln einstellen muss. 
+
+Insgesamt ist die manuelle Vorgehensweise viel aufwendiger und schwieriger für den Administrator, während automatisches Zuweisen viel einfacher und schneller ist.

@@ -1,0 +1,11 @@
+Okay, lass uns das einfacher erklären!
+
+Es gibt zwei Hauptarten, wie Computer und andere Geräte ihre IP-Adressen bekommen: **statisch** und **dynamisch**.
+
+1. **Statische Adressen**: Das bedeutet, dass die IP-Adresse manuell festgelegt wird. Jemand gibt die Adresse einmal ein, und sie bleibt immer gleich. So weiß jeder, welche Adresse das Gerät hat.
+
+2. **Dynamische Adressen**: Hier bekommt das Gerät seine IP-Adresse automatisch, und das passiert mit Hilfe eines speziellen Programms, das DHCP heißt. Das steht für „Dynamic Host Configuration Protocol“. 
+
+Um das zu machen, braucht man einen speziellen Computer im Netzwerk, den wir Server nennen. Dieser Server sorgt dafür, dass die Geräte ihre Adressen automatisch bekommen, ohne dass jemand dafür etwas tun muss.
+
+Zusammengefasst: Bei statischen Adressen bleibt alles gleich, und bei dynamischen Adressen hilft ein Server dabei, die Adressen automatisch zu vergeben. 

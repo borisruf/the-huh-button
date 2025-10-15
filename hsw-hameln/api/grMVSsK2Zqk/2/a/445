@@ -1,0 +1,3 @@
+Wenn ich IP-Adressen manuell verteile, muss ich alles selbst eintragen. Das heißt, ich gehe auf einen Computer und gebe die Adresse und andere Sachen ein, wie zum Beispiel das Standard-Gateway. Das kann leicht schiefgehen. Wenn ich einen Zahlendreher mache oder eine Adresse doppelt eingebe, funktioniert es nicht richtig. 
+
+Das ist viel Arbeit, weil ich jeden Computer einzeln bearbeiten muss. Wenn ich 10 oder mehr Computer habe, kann ich viel Zeit damit verbringen. Vielleicht vergesse ich auch etwas oder mache einen Fehler. Im Gegensatz dazu sorgt ein DHCP-Server dafür, dass alles automatisch und richtig gemacht wird. Dann passiert das nicht und alles läuft einfacher.

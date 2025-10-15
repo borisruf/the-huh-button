@@ -1,0 +1,14 @@
+In diesem Text geht es um verschiedene Medien, die für die Übertragung von Daten verwendet werden. Es gibt zwei Hauptarten: 
+1. **Leitungsgebunden**: Hier wird alles über Kabel übertragen.
+2. **Drahtlos**: Hier wird die Verbindung ohne Kabel hergestellt, zum Beispiel durch Funk.
+
+Innerhalb der leitungsgebundenen Medien gibt es zwei Untergruppen:
+- **Stromleiter**: Dazu gehört zum Beispiel das verdrillte Kupferkabel, das häufig in vielen Netzwerkverbindungen verwendet wird.
+- **Wellenleiter**: Hierzu zählt die optische Faser, die für sehr hohe Frequenzen genutzt wird und auch in Netzwerken wichtig ist.
+
+Das elektromagnetische Spektrum, das im Text erwähnt wird, zeigt verschiedene Arten von Übertragungsmedien von links nach rechts:
+- **Linke Seite**: Verdrillte Ader (Kupferkabel)
+- **Mitte**: Koaxialkabel und Hohlleiter
+- **Rechte Seite**: Lichtwellenleiter (optische Faser)
+
+Jedes dieser Medien hat unterschiedliche Eigenschaften und wird für verschiedene Zwecke eingesetzt. Eine wichtige Eigenschaft, die erwähnt wird, ist die **Bandbreite**, die beschreibt, wie viel Daten ein Medium gleichzeitig übertragen kann.

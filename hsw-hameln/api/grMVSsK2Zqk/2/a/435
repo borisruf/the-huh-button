@@ -1,0 +1,3 @@
+In einfachen Worten:
+
+Die Aussage sagt, dass man die Informationen, die Geräte brauchen, um im Netzwerk zu funktionieren, ganz einfach automatisch verteilen kann. Das passiert mit etwas, das DHCP heißt. Wenn ich es manuell mache, also von Hand, muss ich viele Dinge einzeln eintragen. Das kann leicht schiefgehen, weil ich vielleicht einen Fehler mache. Wenn ich alles mit DHCP mache, sorgt ein Computer, der DHCP-Server heißt, dafür, dass alles richtig und ohne Fehler verteilt wird. So bekommen neue Geräte automatisch die richtigen Informationen, ohne dass ich viel tun muss.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass wenn ich einem Gerät in meinem Netzwerk eine feste IP-Adresse gebe (statische Konfiguration), dann weiß ich genau, dass dieses Gerät immer unter dieser Adresse erreichbar ist. Das ist wichtig für Dinge wie Server, die immer die gleiche Adresse brauchen.
+
+Aber es gibt auch Nachteile: Es ist aufwändiger, weil ich die IP-Adresse für jedes Gerät selbst eingeben muss. Dabei kann es leicht passieren, dass ich zwei Geräten aus Versehen dieselbe IP-Adresse gebe. Das nennt man einen IP-Adress-Konflikt, und das kann Probleme im Netzwerk verursachen. 
+
+Zusammengefasst: Feste Adressen sorgen für Sicherheit, sind aber arbeitsaufwändiger und können Fehler verursachen.

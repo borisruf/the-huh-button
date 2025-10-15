@@ -1,0 +1,7 @@
+In einem Netzwerk brauchen alle Geräte eine IP-Adresse, damit sie miteinander kommunizieren können. Es gibt zwei Wege, wie Geräte ihre IP-Adressen bekommen: manuell (statisch) oder automatisch (dynamisch). 
+
+Wenn manuell bedeutet, dass der Mensch (der Administrator) jedem Gerät eine Adresse geben muss. Das ist viel Arbeit, besonders wenn viele Geräte im Netzwerk sind. 
+
+Automatisch bedeutet, dass ein spezieller Computer, der DHCP-Server heißt, die Adressen vergibt. Der DHCP-Server hat einen bestimmten Bereich von IP-Adressen, die er nutzen kann. Wenn ein neues Gerät ins Netzwerk kommt, gibt der Server ihm automatisch eine IP-Adresse aus diesem Bereich. 
+
+Das Gute am DHCP-Server ist, dass er dafür sorgt, dass jede IP-Adresse nur einmal vergeben wird. So passiert es nicht, dass zwei Geräte die gleiche IP-Adresse bekommen, was zu Problemen führen könnte. Wenn nötig, kann der Administrator auch bestimmten Geräten bestimmte IP-Adressen basierend auf ihrer MAC-Adresse geben, was wie eine feste Adresse für dieses Gerät ist. Das macht das Ganze einfacher und sicherer.

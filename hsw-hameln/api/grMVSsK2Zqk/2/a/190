@@ -1,0 +1,5 @@
+Die Aussage besagt, dass die "Lease-Time" eine bestimmte Zeit ist, in der ein Gerät eine IP-Adresse nutzt. Wenn diese Zeit abläuft, überprüft der Server, ob das Gerät noch aktiv ist oder nicht.
+
+Wenn das Gerät noch aktiv ist und die IP-Adresse weiterhin braucht, bekommt es diese Adresse für eine neue Zeitspanne. Das bedeutet, die Zeit fängt dann wieder von vorne an. 
+
+Wenn das Gerät nicht mehr vorhanden ist, gibt der Server die IP-Adresse frei. Das heißt, die Adresse kann wieder anderen Geräten zur Verfügung gestellt werden. So stellt der Server sicher, dass nicht alle IP-Adressen immer belegt sind, und es genug Adressen für neue Geräte gibt.

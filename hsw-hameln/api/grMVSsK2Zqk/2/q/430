@@ -1,0 +1,1 @@
+ Und wir sehen dort auch noch zwei DHCP-Server, zwei DNS-Server, die letzten Endes dafür verantwortlich sind, dass eben meine Anfragen in IP-Adressen wieder übersetzt werden.   Und genau diese Informationen kann ich eben auch über DHCP automatisch verteilen.

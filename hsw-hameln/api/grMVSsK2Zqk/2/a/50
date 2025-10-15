@@ -1,0 +1,7 @@
+In einem Netzwerk können Geräte wie Computer oder Router IP-Adressen bekommen, die ihnen helfen, miteinander zu kommunizieren. Es gibt zwei Hauptarten, wie das passiert:
+
+1. **Dynamisch**: Das bedeutet, dass die IP-Adresse automatisch vergeben wird. Es gibt ein spezielles System namens DHCP (Dynamic Host Configuration Protocol), das dafür sorgt, dass jedes Gerät eine IP-Adresse bekommt, ohne dass manuell etwas eingestellt werden muss.
+
+2. **Statisch (oder manuell)**: Hierbei vergibt man die IP-Adresse von Hand. Das bedeutet, dass jemand (z.B. ein Techniker) jeder Maschine eine feste Adresse zuweist, die sich nicht ändert.
+
+Der Hauptunterschied ist also, ob man die Adresse automatisch (dynamisch) oder von Hand (statisch) einstellt.

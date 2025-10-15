@@ -1,0 +1,15 @@
+In einem Netzwerk brauchen Geräte wie Computer und Router IP-Adressen, damit sie miteinander kommunizieren können. Es gibt zwei Hauptwege, wie Geräte IP-Adressen bekommen: automatisch (dynamisch) oder manuell (statisch).
+
+Wenn die IP-Adressen automatisch vergeben werden, passiert das mit Hilfe von einem speziellen Programm namens DHCP (Dynamic Host Configuration Protocol). Dabei gibt es einen Server im Netzwerk, der dafür sorgt, dass jedes Gerät, das eine IP-Adresse möchte, auch eine bekommt.
+
+Hier ist, wie der Prozess funktioniert:
+
+1. **Gerät fragt nach Adresse:** Wenn ein neues Gerät ins Netzwerk kommt, sendet es eine Nachricht, um nach einem DHCP-Server zu fragen. Dies nennt man einen "DHCP-Discover".
+
+2. **DHCP-Server antwortet:** Der DHCP-Server, der die Anfrage sieht, schickt eine Antwort zurück. Das nennt man ein "DHCP-Offer". In dieser Antwort bietet der Server dem Gerät eine IP-Adresse an.
+
+3. **Gerät wählt Server aus:** Wenn mehrere DHCP-Server im Netzwerk sind, kann das Gerät entscheiden, mit welchem Server es arbeiten möchte. Dann sendet es eine Anfrage, um die gewählte IP-Adresse zu bekommen. Diese Anfrage nennt man "DHCP-Request".
+
+4. **Bestätigung:** Schließlich bestätigt der DHCP-Server die Anfrage und teilt dem Gerät die IP-Adresse und andere wichtige Informationen mit. Das nennt man "DHCP-Acknowledgement" oder einfach "DHCP-Ack".
+
+Der Vorteil dieses automatischen Systems ist, dass es für den Nutzer einfach ist; das Gerät bekommt automatisch eine IP-Adresse, ohne dass jemand manuell eingreifen muss. Allerdings muss der Server gewartet werden, und es können zusätzliche Datenübertragungen im Netzwerk entstehen.

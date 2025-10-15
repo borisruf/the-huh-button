@@ -1,0 +1,7 @@
+In dieser Aussage geht es um zwei Arten, wie Geräte in einem Netzwerk ihre IP-Adressen bekommen: dynamisch und statisch.
+
+1. **Dynamische Vergabe**: Hier gibt es einen speziellen Server (DHCP-Server), der automatisch IP-Adressen an Geräte verteilt, die ins Netzwerk kommen. Das ist einfach, weil man nichts manuell einstellen muss. Aber es kann Probleme geben, zum Beispiel, wenn der Server nicht richtig funktioniert oder wenn es viele Geräte gibt, die gleichzeitig eine Adresse brauchen.
+
+2. **Statische Vergabe**: Bei der statischen Vergabe legt ein Mensch (der Administrator) jede IP-Adresse von Hand fest. Das gibt ihm die Kontrolle, weil er genau weiß, welches Gerät welche Adresse hat. Allerdings ist es viel mehr Arbeit, besonders wenn viele Geräte im Netzwerk sind. Außerdem besteht die Gefahr, dass man versehentlich die gleiche IP-Adresse für zwei Geräte vergibt. 
+
+Der Text sagt, dass beide Methoden Vor- und Nachteile haben: Die automatische (dynamische) Vergabe ist einfacher, kann aber auch Fehler verursachen; die manuelle (statische) Vergabe bietet Kontrolle, ist aber sehr aufwendig.

@@ -1,0 +1,7 @@
+In einem Netzwerk haben alle Geräte, wie Computer und Handys, eine spezielle Adresse, die man IP-Adresse nennt. Damit jedes Gerät diese Adresse bekommt, gibt es zwei Möglichkeiten: eine feste Adresse, die man manuell einstellt (das nennt man statisch), und eine Adresse, die automatisch vergeben wird (das nennt man dynamisch).
+
+Für die automatische Vergabe gibt es ein Programm namens DHCP. Dieses Programm läuft auf einem speziellen Computer im Netzwerk, der dafür sorgt, dass jedes neue Gerät eine IP-Adresse erhält. 
+
+Das funktioniert so: Der DHCP-Server hat eine bestimmte Auswahl von IP-Adressen. Wenn ein neues Gerät ins Netzwerk kommt, sucht der Server eine freie Adresse aus dieser Auswahl. Die Auswahl kann entweder zufällig geschehen oder nach bestimmten Regeln, die auf der MAC-Adresse des Geräts basieren. 
+
+Das Gute daran ist, dass man nicht viel Aufwand hat, weil jedes neue Gerät automatisch eine IP-Adresse zugewiesen bekommt, ohne dass man manuell eingreifen muss.

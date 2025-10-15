@@ -1,0 +1,14 @@
+Die Aussage "Der Ausgangspuls wird relativ verbreitet" bedeutet, dass das Signal, das wir an einem Ende eines Lichtwellenleiters einspeisen, am anderen Ende nicht mehr so klar und schmal ankommt, sondern breiter und unschärfer wird. Das passiert besonders bei einer sogenannten Multimodfaser.
+
+Um das einfach zu erklären:
+
+- Wenn wir ein Lichtsignal (sozusagen einen Lichtpuls) in die Faser schicken, ist es am Anfang ganz klar und schmal.
+- Bei einer Monomodfaser bleibt dieses Signal auch auf langen Strecken klar und schmal, weil das Licht nur einen bestimmten Weg in der Faser nimmt.
+- Bei einer Multimodfaser hingegen kann das Licht auf verschiedenen Wegen reisen, und dadurch wird das Signal am anderen Ende viel breiter. Es sieht mehr „verwaschen“ aus. 
+
+Monomod und Multimod beziehen sich also darauf, wie das Licht in den Kabeln verläuft:
+
+- **Monomod**: Ein Lichtweg, sehr schmal und klar, gut für lange Strecken.
+- **Multimod**: Mehrere Lichtwege, Signal kann breiter und weniger klar werden, was bei längeren Strecken zu Problemen führen kann.
+
+Zusammengefasst: Der Unterschied zwischen Monomod und Multimod liegt darin, wie das Licht in den Glasfasern reist, und das beeinflusst, wie klar das Signal ankommt.

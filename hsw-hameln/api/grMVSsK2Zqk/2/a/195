@@ -1,0 +1,13 @@
+Okay, lass uns das einfach erklären:
+
+Wenn ein Computer oder ein Gerät mit dem Internet verbunden wird, braucht es eine Nummer, die man IP-Adresse nennt. Diese Nummer hilft, das Gerät zu finden. Es gibt zwei Arten, wie Geräte ihre IP-Adresse bekommen können: 
+
+1. **Statisch (manuel)**: Der Mensch gibt jeder IP-Adresse selbst eine Nummer. Das ist viel Arbeit, weil man alles selbst einstellen muss.
+
+2. **Dynamisch (automatisch)**: Ein spezieller Computer, der DHCP-Server heißt, vergibt die IP-Adressen automatisch. Das macht es einfacher, weil man nicht alles selbst machen muss.
+
+Jetzt gibt es eine wichtige Sache bei der automatischen Vergabe: die **Lease-Time**. Das ist die Zeit, in der ein Gerät seine IP-Adresse nutzen darf. 
+
+Wenn die Lease-Time abläuft, fragt der DHCP-Server: „Braucht dieses Gerät die IP-Adresse noch?“ Wenn das Gerät noch da ist und die Adresse braucht, bekommt es die gleiche Adresse erneut. Die Lease-Time fängt dann wieder neu an. 
+
+Wenn das Gerät nicht mehr da ist, gibt der Server die IP-Adresse wieder frei, damit ein anderes Gerät sie bekommen kann. So sorgt der Server dafür, dass IP-Adressen immer dann genutzt werden, wenn sie benötigt werden, und niemand mehr als eine Adresse hat.

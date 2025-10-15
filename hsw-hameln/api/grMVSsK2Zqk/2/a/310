@@ -1,0 +1,9 @@
+Stell dir vor, du hast eine große Gruppe von Freunden, die alle ihre eigenen Plätze an einem Tisch brauchen, aber die Plätze werden nicht immer gleich genutzt. Manchmal kommen neue Freunde dazu, und manchmal gehen welche weg. 
+
+Jetzt gibt es eine Person – nennen wir sie den „Platzverwalter“ – die dafür sorgt, dass immer genug Plätze zur Verfügung stehen. Dieser Platzverwalter hat eine Liste von freien Plätzen. Wenn ein Freund einen Platz haben möchte, fragt er den Platzverwalter. Der Platzverwalter guckt in seiner Liste und sagt: „Hier, du bekommst Platz Nummer 5!“ So bekommt jeder Freund einen einzigartigen Platz, ohne dass zwei Freunde den gleichen Platz bekommen.
+
+Das ist wie bei Computern, die IP-Adressen brauchen, um miteinander zu sprechen. Der Platzverwalter ist unser DHCP-Server. Wenn ein Computer (der Freund) eine IP-Adresse (den Platz) haben möchte, fragt er den DHCP-Server. Der Server gibt ihm dann eine IP-Adresse aus einem festgelegten Bereich, damit der Computer ins Netzwerk kann.
+
+Der Vorteil dabei ist, dass es wenig Aufwand macht. Wenn ein neuer Computer kommt, bekommt er automatisch eine IP-Adresse, ohne dass jemand alles manuell eingeben muss. Wenn der Computer die Adresse nicht mehr braucht, kann der Server diese Adresse wieder frei geben, damit sie ein anderer Computer nutzen kann. 
+
+Aber es gibt auch ein bisschen Arbeit für den Platzverwalter, denn er muss den Überblick über die Plätze behalten und manchmal die Liste aktualisieren.

@@ -1,0 +1,15 @@
+Okay! Lass uns das einfacher erklären.
+
+Stell dir vor, jeder Computer und jedes Gerät im Internet hat eine besondere "Hausnummer", die wir IP-Adresse nennen. Diese Hausnummer hilft den Geräten, miteinander zu sprechen.
+
+Es gibt zwei Arten, wie Geräte eine IP-Adresse bekommen können:
+
+1. **Statisch (manuell)**: Ein Mensch (Administrator) gibt jedem Gerät selbst eine Hausnummer. Das ist wie wenn du jedem deiner Freunde eine bestimmte Adresse schreibst, die sie nicht ändern können.
+
+2. **Dynamisch (automatisch)**: Hier gibt es einen Helfer, den wir DHCP-Server nennen. Dieser Helfer hat viele Hausnummern gespeichert und verteilt sie automatisch. Wenn ein neues Gerät ins Netzwerk kommt und eine Hausnummer will, fragt es diesen Helfer. Der Helfer schaut nach und gibt diesem Gerät eine spezielle Hausnummer.
+
+Jetzt zu der speziellen Regel: Jedes Gerät hat eine eigene ID, die nennt man MAC-Adresse. Wenn ein Gerät mit der MAC-Adresse beim Helfer fragt, bekommt es immer die gleiche Hausnummer, die der Helfer für diese ID gespeichert hat.
+
+Aber Achtung! Die Hausnummer, die das Gerät bekommt, kann nach einer bestimmten Zeit wieder weg sein (verfallen). Das ist wie wenn du eine Mietwohnung hast, die dir nach einem Jahr gekündigt wird und du dann eine neue Hausnummer bekommen musst.
+
+Zusammengefasst: Geräte können automatisch oder manuell IP-Adressen bekommen, und manchmal können diese Adressen nach einer Zeit wieder vergeben werden.

@@ -1,0 +1,5 @@
+Das bedeutet:
+
+Wenn ich die IP-Adresse für einen Computer manuell festlege, weiß ich genau, dass dieser Computer immer die gleiche Adresse hat. Das ist wichtig, damit andere Geräte ihn immer erreichen können. Zum Beispiel ist das gut für Server, die man ständig braucht.
+
+Aber es hat auch Nachteile: Es kostet viel Zeit, weil ich jeden Computer selbst einstellen muss. Außerdem kann es passieren, dass zwei Computer versehentlich die gleiche IP-Adresse bekommen, was Probleme verursachen kann. Das nennt man IP-Adress-Konflikt.

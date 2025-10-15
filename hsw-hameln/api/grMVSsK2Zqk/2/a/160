@@ -1,0 +1,5 @@
+Stell dir vor, jedes Gerät in einem Netzwerk, wie ein Computer oder ein Drucker, hat eine spezielle Kennung, die MAC-Adresse heißt. Das ist wie ein Ausweis, der das Gerät eindeutig identifiziert. Wenn ein Gerät eine IP-Adresse braucht, fragt es einen speziellen Computer im Netzwerk, den DHCP-Server.
+
+Der DHCP-Server hat eine Liste von IP-Adressen, die er vergeben kann. Normalerweise gibt er einfach irgendeine freie IP-Adresse aus dieser Liste. Das nennt man dynamische Vergabe. 
+
+Aber der Server kann auch so eingerichtet werden, dass er bestimmte IP-Adressen immer für bestimmte Geräte reserviert. Das bedeutet, wenn ein Gerät mit einer bestimmten MAC-Adresse nach einer IP-Adresse fragt, gibt der Server ihm immer die gleiche, festgelegte IP-Adresse. So weiß man immer, welches Gerät welche IP-Adresse hat. Das ist besonders nützlich, wenn man sicherstellen möchte, dass das Gerät immer die gleiche Adresse nutzt.

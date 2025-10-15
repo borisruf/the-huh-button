@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es wichtig ist, dass ein Server immer die gleiche IP-Adresse hat, damit man ihn leicht finden kann. Wenn der Server ständig seine IP-Adresse ändert, wird es schwierig, ihn zu erreichen. 
+
+In vielen Netzwerken bekommt man IP-Adressen automatisch, was praktisch ist, aber für einen Server ist es besser, eine feste IP-Adresse zu haben. So wissen alle, die mit dem Server arbeiten, immer, welche Adresse sie benutzen müssen, um ihn zu erreichen. 
+
+Also, um es einfach zu sagen: Ein Server braucht eine feste Adresse, damit alle ihn immer finden können.

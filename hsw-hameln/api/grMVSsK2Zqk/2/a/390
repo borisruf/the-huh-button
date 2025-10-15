@@ -1,0 +1,7 @@
+In dieser Aussage geht es darum, wie Computer in einem Netzwerk ihre IP-Adressen bekommen. Es gibt zwei Hauptwege: 
+
+1. **Dynamisch**: Das passiert automatisch durch einen speziellen Server namens DHCP. Dieser Server sorgt dafür, dass jedem neuen Gerät, das ins Netzwerk kommt, eine IP-Adresse zugeteilt wird. Das geht schnell und einfach, weil es nichts ist, was man manuell machen muss. Der Server hat einen bestimmten Bereich von IP-Adressen, aus dem er auswählt. Wenn ein Gerät eine IP-Adresse anfordert, sucht der Server eine freie Adresse aus und gibt sie dem Gerät.
+
+2. **Statisch oder manuell**: Hier muss der Administrator selbst jede IP-Adresse für jedes Gerät festlegen. Das ist mehr Arbeit, weil man jede einzelne Maschine anpassen muss. 
+
+In der nächsten Erklärung schaut man sich nun die manuelle Konfiguration genauer an, um zu verstehen, welche Informationen man dabei braucht und wie das funktioniert. In einem Beispiel von Windows sieht man, wie das aussieht, wenn man eine IP-Adresse manuell einstellen möchte.

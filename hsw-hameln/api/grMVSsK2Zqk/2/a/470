@@ -1,0 +1,5 @@
+Ein Server ist wie ein Computer, der anderen Computern hilft. Damit andere Computer den Server finden können, braucht er eine IP-Adresse, das ist wie eine Adresse für den Server im Internet. 
+
+Wenn die IP-Adresse des Servers immer gleich bleibt, ist es viel leichter für andere Computer, ihn zu finden. Das nennt man "statische IP-Adresse". Wenn ich die IP-Adresse manuell einstelle, weiß ich sicher, dass sie immer die gleiche ist und dass der Server immer erreichbar ist.
+
+Es gibt auch die Möglichkeit, dass die IP-Adresse sich ändern kann. Das nennt man "dynamische IP-Adresse". Das ist gut für viele Geräte, die im Netzwerk kommen und gehen, aber bei einem Server ist es besser, wenn die Adresse immer gleich bleibt. So wissen alle anderen Computer immer, wo sie den Server finden können.

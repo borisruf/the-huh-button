@@ -1,0 +1,3 @@
+In einfachen Worten sagt die Aussage, dass wir bereits zwei wichtige Dinge kennen: die IP-Adresse und die Subnetzmaske. Diese haben wir schon vorher besprochen. Es gibt aber auch andere wichtige Informationen, die man braucht, zum Beispiel das Standard-Gateway. Das Standard-Gateway hilft den Geräten, den Weg ins Internet oder zu anderen Netzwerken zu finden. 
+
+Um es einfacher zu machen: Die IP-Adresse ist wie die Hausnummer deines Computers, die Subnetzmaske hilft dabei zu bestimmen, zu welchem Viertel dein Haus gehört, und das Standard-Gateway ist die Tür, durch die du nach draußen gehen kannst, also zu anderen Netzwerken oder ins Internet.

@@ -1,0 +1,8 @@
+Der klassische DHCP-Ablauf beschreibt den Prozess, wie ein Computer (oder ein anderes Netzwerkgerät) eine IP-Adresse über das Dynamic Host Configuration Protocol (DHCP) erhält. Dieser Ablauf ist in mehrere Schritte unterteilt:
+
+1. **DHCP Discover**: Der Client sendet eine Broadcast-Nachricht ins Netzwerk, um einen DHCP-Server zu finden.
+2. **DHCP Offer**: Der DHCP-Server empfängt die Anfrage und antwortet mit einem Angebot, das eine verfügbare IP-Adresse und weitere Netzwerkinformationen enthält.
+3. **DHCP Request**: Der Client wählt eines der Angebote aus und sendet eine Anforderung zurück an den Server, um die angebotene IP-Adresse zu reservieren.
+4. **DHCP Acknowledge**: Der Server bestätigt die Zuweisung der IP-Adresse, wodurch der Client diese nutzen kann.
+
+Dieser automatisierte Prozess ermöglicht es Geräten, sich einfach und schnell in ein Netzwerk einzugliedern, ohne dass der Administrator jede IP-Adresse manuell zuweisen muss. Verfügbar bleibt eine Vielzahl an IP-Adressen aus einem definierten Pool, was den Verwaltungsaufwand deutlich reduziert.

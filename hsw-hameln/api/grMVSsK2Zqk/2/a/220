@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass man die IP-Adressen für Computer nicht mehr einzeln von Hand einstellen muss. Stattdessen gibt es eine einfache Methode, bei der man alles nur einmal einrichtet, und danach stellt der Computer automatisch seine IP-Adresse selbst ein. 
+
+Das hat auch einen Vorteil für die Sicherheit: Derjenige, der das Netzwerk betreut, kann festlegen, welchen Computer (also welche MAC-Adresse) welche IP-Adresse bekommt. So weiß man, dass bestimmte Computer immer die gleichen IP-Adressen haben und man kann sicherstellen, dass es nicht zu Verwirrungen kommt, die passieren könnten, wenn zwei Computer die gleiche IP-Adresse haben. 
+
+Insgesamt spart man viel Zeit und Aufwand, weil alles automatisch läuft und es einfacher ist, das Netzwerk zu verwalten.

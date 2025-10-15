@@ -1,0 +1,7 @@
+In einem Netzwerk gibt es Geräte wie Computer und Router, die eine IP-Adresse brauchen, um miteinander zu kommunizieren. Diese IP-Adressen können auf zwei Arten vergeben werden: entweder manuell, was viel Aufwand bedeutet, weil man jede Adresse selbst einstellen muss, oder automatisch, was einfacher ist.
+
+Automatisch geschieht dies durch einen speziellen Server, der DHCP-Server heißt. Der DHCP-Server hat eine Liste von verfügbaren IP-Adressen. Wenn ein neues Gerät ins Netzwerk kommt, sendet es eine Anfrage, um nach einem DHCP-Server zu suchen. Wenn der Server gefunden wird, antwortet er mit einem Angebot, einer IP-Adresse, die das Gerät nutzen kann. Das ist der sogenannte DHCP-Offer.
+
+Falls es mehrere DHCP-Server gibt, kann sich das Gerät aussuchen, mit welchem Server es arbeiten möchte. Anschließend fragt es den gewählten Server, ob es die angebotene IP-Adresse bekommen kann, und dies nennt man einen DHCP-Request.
+
+So sorgt der DHCP-Server dafür, dass Geräte einfach und automatisch eine IP-Adresse erhalten, ohne dass der Administrator jedes Mal alles von Hand einstellen muss. Dadurch wird die Verwaltung des Netzwerks einfacher und schneller.

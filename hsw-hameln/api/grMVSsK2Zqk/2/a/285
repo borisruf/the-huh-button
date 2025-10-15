@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass es viel einfacher ist, die IP-Adressen automatisch mit einem speziellen Protokoll (DHCP) zu vergeben, anstatt alles von Hand für jedes einzelne Gerät einzustellen. Wenn man alles selbst machen müsste, wäre das sehr viel Arbeit.
+
+Doch durch das Hinzufügen von DHCP gibt es auch einen Nachteil: Es gibt zusätzliches "Gespräch" im Netzwerk, weil die Geräte miteinander kommunizieren, um die IP-Adressen zu bekommen. Das nennt man Overhead. Also, es ist einfacher, aber es bringt ein bisschen mehr Arbeit für das Netzwerk selbst mit sich.

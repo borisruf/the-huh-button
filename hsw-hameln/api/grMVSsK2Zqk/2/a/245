@@ -1,0 +1,7 @@
+In einfachen Worten bedeutet die Aussage Folgendes:
+
+Wenn ich meine Computer und Geräte so einstelle, dass sie automatisch eine Internetadresse (IP-Adresse) bekommen, kann ich sicherstellen, dass nur bestimmte Geräte mit speziellen Nummern, die MAC-Adressen heißen, Zugang zu meinem Netzwerk haben. 
+
+Das mache ich, indem ich sage: "Wenn ein Gerät mit dieser bestimmten MAC-Adresse kommt, gib ihm die und die IP-Adresse." So kann ich kontrollieren, welche Geräte in meinem Netzwerk sind. 
+
+Wenn ich dann mit meinem Gerät in das Netzwerk gehe, bekomme ich ganz einfach sofort eine IP-Adresse, ohne dass ich etwas dafür tun muss. Das ist sehr praktisch, weil ich nicht für jedes Gerät manuell alles einstellen muss.

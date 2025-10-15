@@ -1,0 +1,1 @@
+  Ein Server sollte oder muss eigentlich immer unter einem und derselben IP-Adresse erreichbar sein.  Und wenn ich die dort statisch konfiguriere, dann bin ich mir eben sicher, dass die dort immer auch tatsächlich verfügbar ist.

@@ -1,0 +1,7 @@
+Stell dir vor, du hast ein neues Handy und willst ins Internet, aber dafür brauchst du eine Adresse, die IP-Adresse. Damit du nicht selbst eine Adresse suchen musst, gibt es im Netzwerk einen speziellen Helfer, den DHCP-Server. 
+
+Wenn dein Handy ins Netzwerk kommt, fragt es einfach, ob es einen DHCP-Server gibt. Das nennt man einen DHCP-Discover, also eine Suche nach dem DHCP-Server. Wenn der Server da ist, sagt er: "Hier ist eine Adresse, die du benutzen kannst!" Das nennt man ein DHCP-Offer. 
+
+Wenn dein Handy mehrere Server findet, wählt es den aus, mit dem es arbeiten möchte. Danach fragt das Handy diesen Server: "Darf ich diese Adresse benutzen?" Das nennt man einen DHCP-Request. 
+
+So bekommt dein Handy automatisch eine IP-Adresse, ohne dass du irgendetwas machen musst. Das macht es einfach, neue Geräte ins Netzwerk zu bringen!

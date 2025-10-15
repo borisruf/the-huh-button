@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass es einfacher ist, IP-Adressen für Computer zu vergeben, weil eine spezielle Technik namens DHCP verwendet wird. Anstatt dass jemand jeden Computer einzeln einstellen muss, sorgt der DHCP-Server dafür, dass jedem neuen Computer automatisch eine IP-Adresse gegeben wird. 
+
+Das muss einmal eingerichtet werden, und dann läuft alles fast von selbst. Das spart viel Zeit und Mühe, weil man nicht alles manuell machen muss. Wenn ein neuer Computer ins Netzwerk kommt, bekommt er einfach eine Adresse, ohne dass jemand viel Arbeit damit hat.

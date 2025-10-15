@@ -1,0 +1,9 @@
+Die Aussage beschreibt, wie ein Computer-Netzwerk IP-Adressen vergibt. Es gibt zwei Hauptarten, wie das passiert: automatisch (dynamisch) und manuell (statisch).
+
+1. **Automatische Vergabe (DHCP-Server)**: Ein spezieller Computer, der DHCP-Server heißt, kümmert sich darum, dass jeder Computer im Netzwerk eine IP-Adresse bekommt. Er hat einen festen Bereich von IP-Adressen, aus dem er eine Adresse für jedes neue Gerät auswählt. Das macht er so, dass keine Adresse doppelt vergeben wird. Das ist wichtig, weil zwei Geräte mit der gleichen IP-Adresse Probleme verursachen können. Der Server weiß genau, welche Adressen vergeben sind und sorgt dafür, dass jede Adresse nur einmal vergeben wird.
+
+2. **Manuelle Vergabe**: Wenn ein Administrator die IP-Adressen selbst vergibt, muss er darauf achten, dass er nicht versehentlich zwei Geräte die gleiche Adresse gibt. Das ist viel aufwendiger, weil er jedes Gerät einzeln einstellen muss.
+
+Außerdem kann der Administrator bestimmten Geräten immer die gleiche IP-Adresse geben, basierend auf der einzigartigen MAC-Adresse des Geräts. Auf diese Weise kann er sicherstellen, dass wichtige Geräte immer die gleiche Adresse behalten, auch wenn sie neu starten oder vom Netzwerk getrennt werden.
+
+Zusammengefasst: Der DHCP-Server macht die Vergabe von IP-Adressen einfach und verhindert Fehler, während der manuelle Weg mehr Arbeit macht und mehr Aufmerksamkeit braucht.

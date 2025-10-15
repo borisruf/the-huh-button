@@ -1,0 +1,5 @@
+Ein DHCP-Server ist wie ein Helfer in einem Netzwerk, der dafür sorgt, dass jedes Gerät, das sich mit dem Netzwerk verbindet, eine IP-Adresse bekommt. 
+
+Wenn ein neuer Computer oder ein anderes Gerät ins Netzwerk kommt, fragt es: „Hey, gibt es hier einen DHCP-Server?“ Das geschieht durch einen speziellen Anruf, den man „Broadcast“ nennt. 
+
+Wenn der DHCP-Server diese Frage hört, antwortet er mit einer IP-Adresse, die das Gerät benutzen kann. Dadurch muss man nicht jedes Gerät selbst mit einer IP-Adresse einrichten, was viel einfacher und schneller ist. So kann jedes neue Gerät automatisch eine Adresse bekommen, die es braucht, um im Internet oder im Netzwerk zu kommunizieren.

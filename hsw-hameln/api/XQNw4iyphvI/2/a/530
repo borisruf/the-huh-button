@@ -1,0 +1,11 @@
+In dieser Erklärung geht es darum, wie Signale durch verschiedene Arten von Kabeln übertragen werden, speziell durch Kupferkabel und Lichtwellenleiter.
+
+1. **Kupferkabel**: Das Kupferkabel besteht aus Drähten, die miteinander verdreht sind. Diese Verdrehung hilft, Störungen zu vermeiden, damit man nicht andere Gespräche hören kann, während man telefoniert. Es kann verschiedene schwache Einflüsse von außen geben, die die Signalqualität beeinträchtigen.
+
+2. **Lichtwellenleiter (Glasfaserkabel)**: Diese Kabel bestehen aus sehr dünnen Glasfäden und können Daten durch Licht übertragen. Das Licht wird in das Kabel geschickt und reflektiert sich dabei an den Wänden des Kabels. Es funktioniert fast verlustfrei, solange die Lichtstrahlen in einem bestimmten Winkel bleiben. 
+
+Jetzt zur speziellen Aussage: 
+- Wenn ein Lichtimpuls in das Kabel geschickt wird (der Eingangspuls), ist dieser Impuls am Anfang schmal und gut geformt. 
+- Am Ende kommt der Puls wieder heraus, sieht aber nicht mehr so gut aus; er ist breiter geworden. Das bedeutet, dass das Signal bei der Übertragung "verbreitet" wird, was zu einer Verschlechterung der Signalqualität führen kann.
+
+Das ist wichtig zu beachten, vor allem wenn man große Entfernungen überqueren möchte, denn bei der Übertragung kann das Signal verwässert oder unscharf werden.

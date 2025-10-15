@@ -1,0 +1,7 @@
+Wenn ein neues Gerät in ein Netzwerk kommt, braucht es eine IP-Adresse, um mit anderen Geräten sprechen zu können. Es gibt zwei Wege, wie ein Gerät diese Adresse bekommt: automatisch oder manuell.
+
+1. **Automatische Vergabe (dynamisch)**: Hier gibt es einen speziellen Computer im Netzwerk, der automatisch IP-Adressen verteilt. Das nennt man DHCP. Wenn ein neues Gerät kommt, fragt es nach einer IP-Adresse und der DHCP-Server gibt ihm eine. Das passiert ganz schnell und einfach, ohne dass jemand viel tun muss. Dadurch muss der Administrator sich nicht viel um die IP-Adressen kümmern.
+
+2. **Manuelle Vergabe (statisch)**: Wenn es manuell gemacht wird, muss eine Person (der Administrator) jede IP-Adresse selbst vergeben. Das ist viel mehr Arbeit, weil der Administrator für jedes Gerät überlegen muss, welche IP-Adresse es bekommt.
+
+Zusammengefasst: Dynamisch bedeutet, das geht schnell und automatisch, während statisch viel mehr Aufwand für den Administrator bedeutet.

@@ -1,0 +1,5 @@
+In der Aussage geht es um das, was wir über IP-Adressen gelernt haben. Eine IP-Adresse ist wie eine Hausnummer, die einem Gerät im Netzwerk sagt, wo es ist. Die Subnet-Maske hilft zu bestimmen, welche anderen Geräte im selben Netzwerk sind. 
+
+Zusätzlich gibt es das Standard-Gateway. Das ist wie die Tür zum Außenbereich. Wenn dein Gerät ins Internet will, geht es zuerst zum Standard-Gateway. 
+
+Zusammengefasst: Wir haben gelernt, was IP-Adressen und die Subnet-Maske sind. Jetzt lernen wir, woher die Geräte ihre IP-Adressen bekommen – entweder automatisch durch einen Server (das nennt man DHCP) oder manuell, wenn ein Administrator die Adresse selbst eingibt.

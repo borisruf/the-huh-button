@@ -1,0 +1,3 @@
+In einfachen Worten bedeutet die Aussage, dass IP-Adressen für Geräte in einem Netzwerk wichtig sind, aber manchmal nicht mehr gebraucht werden. Zum Beispiel, wenn ein Computer kaputt geht oder nicht mehr existiert, ist die IP-Adresse, die er benutzt hat, immer noch belegt. Wenn viele Geräte IP-Adressen brauchen, könnte es passieren, dass keine IP-Adressen mehr verfügbar sind.
+
+Um dieses Problem zu lösen, gibt es etwas, das man „Lease-Time“ nennt. Lease-Time ist eine festgelegte Zeit, in der eine IP-Adresse einem Gerät gehört. Nach dieser Zeit wird die IP-Adresse wieder frei, damit sie einem anderen Gerät gegeben werden kann, falls das erste Gerät nicht mehr da ist. So sorgt man dafür, dass immer genug IP-Adressen verfügbar sind, um neuen Geräten zu helfen.

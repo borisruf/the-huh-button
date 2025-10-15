@@ -1,0 +1,1 @@
+ Wenn man sich die einzelnen Schritte nochmal genauer anschaut, dann ist es eben so, dass zunächst mal ein Rechner in ein Netzwerk kommt und dabei dann eine Suchanfrage per Broadcast in unser Netzwerk sendet, einen sogenannten DHCP-Discover.

@@ -1,0 +1,9 @@
+In diesem Text geht es darum, wie Computer in einem Netzwerk ihre IP-Adressen bekommen. Es gibt zwei große Möglichkeiten dafür: 
+
+1. **Statische oder manuelle Vergabe**: Bei dieser Methode muss jemand (der Administrator) jedem Gerät im Netzwerk die IP-Adresse von Hand geben. Das ist sehr viel Arbeit, besonders wenn es viele Geräte gibt.
+
+2. **Dynamische Vergabe**: Hier übernimmt ein spezieller Computer, der "DHCP-Server" heißt, die Vergabe der IP-Adressen. Das passiert automatisch, und der Administrator hat viel weniger zu tun. Der Server wählt aus einem bestimmten Bereich von IP-Adressen immer eine neue aus und gibt sie dem Gerät, das sich anmeldet.
+
+Die Aussage in einfacher Sprache bedeutet, dass es viel einfacher und weniger Zeit braucht, wenn der DHCP-Server die IP-Adressen automatisch vergibt, statt dass der Administrator alles selbst machen muss. 
+
+Es gibt jedoch auch ein paar Nachteile: Der DHCP-Server muss gewartet werden, und es gibt zusätzlichen Aufwand (man nennt das "Overhead"), weil der Server ständig mit den Geräten kommunizieren muss, um die Adressen zu vergeben.

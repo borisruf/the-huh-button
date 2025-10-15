@@ -1,0 +1,1 @@
+ Das heißt, sie bieten quasi ihren Dienst für diesen Rechner an und wenn ich nun mehrere habe, dann sucht sich mein Rechner eben entsprechend den DHCP-Server aus, den er gerne haben möchte oder mit dem er gerne arbeiten möchte und stellt an diesen dann eben die Anfrage, eine DHCP-Adresse zu bekommen, also einen sogenannten DHCP-Request.

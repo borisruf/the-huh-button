@@ -1,0 +1,11 @@
+Stell dir vor, du hast eine große Schule und viele Schüler. Jeder Schüler braucht eine Schülernummer, damit man sie erkennen kann. 
+
+Es gibt zwei Möglichkeiten, wie die Schüler ihre Nummern bekommen können:
+
+1. **Automatisch (dynamisch)**: Du hast einen Computer, der das für dich macht. Dieser Computer (der Server) gibt den Schülern automatisch eine Nummer, wenn sie in die Schule kommen. Das ist einfach, weil du dich nicht um jeden einzelnen Schüler kümmern musst. Wenn ein neuer Schüler kommt, bekommt er einfach eine neue Nummer. Und wenn ein Schüler die Schule verlässt, wird die Nummer wieder frei für jemand anderen. Das nennt sich „DHCP“.
+
+2. **Manuell (statisch)**: Du gibst jedem Schüler selbst eine Nummer, wenn sie neu sind. Das heißt, du musst zu jedem Schüler gehen und ihm die Nummer geben. Das ist viel mehr Arbeit. Wenn es viele Schüler sind, wird es schnell ganz schön viel, weil du das für jeden Einzelnen machen musst.
+
+Der Vorteil der automatischen Methode ist, dass du viel weniger Arbeit hast. Du musst den Computer nur einmal einrichten, und der kümmert sich dann um alles. Du musst nur darauf achten, dass der Computer (der Server) in Ordnung ist und die Nummern richtig vergibt.
+
+Zusammenfassend gesagt: Wenn du die Nummern automatisch vergibst, ist es einfacher zu verwalten als wenn du alles selbst machen musst.

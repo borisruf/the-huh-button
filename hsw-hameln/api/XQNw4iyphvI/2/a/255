@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie man verschiedene Arten von Twisted-Pair-Kabeln unterscheidet. Hier ist es in einfacher Sprache erklärt:
+
+1. **Twisted-Pair-Kabel (UTP)**: Das ist ein Kabel, das aus mehreren verdrillten Drähten besteht. Diese Drähte sind nur mit einer einfachen plastikartigen Hülle geschützt. Man nennt es "unshielded" oder "UTP", weil es keine zusätzliche Schutzschicht hat.
+
+2. **Geschirmtes Twisted-Pair-Kabel (S/UTP)**: Wenn man das UTP-Kabel weiter schützt und zusätzlich eine Art Mantel außen herum macht, dann nennt man es S/UTP. "Geschirmt" bedeutet, dass es mehr Schutz hat, um Störungen von außen zu verhindern.
+
+Zusammengefasst: Es gibt einfache Twisted-Pair-Kabel mit wenig Schutz (UTP) und solche, die besser geschützt sind (S/UTP).

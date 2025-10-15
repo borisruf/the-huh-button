@@ -1,0 +1,7 @@
+Die Aussage fragt, wie Computer und andere Geräte ihre IP-Adressen bekommen. Es gibt zwei Hauptwege, wie das passiert: 
+
+1. **Dynamisch**: Hierbei bekommt das Gerät seine IP-Adresse automatisch, ohne dass man etwas ändern muss. Zum Beispiel, wenn du deinen Computer mit dem Internet verbindest, gibt dir der Router eine IP-Adresse für die Zeit, die du mit dem Internet verbunden bist. Diese Adresse kann sich ändern.
+
+2. **Statisch oder manuell**: Bei dieser Methode gibt man dem Gerät eine feste IP-Adresse. Das bleibt gleich, egal wie oft das Gerät angeschaltet wird oder sich mit dem Internet verbindet. Manchmal wird das von einem Fachmann gemacht.
+
+Zusammengefasst: Geräte bekommen IP-Adressen entweder automatisch (dynamisch) oder fest (statisch).

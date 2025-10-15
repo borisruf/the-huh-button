@@ -1,0 +1,5 @@
+Die Aussage beschreibt, dass beim Einsatz von DHCP (Dynamic Host Configuration Protocol) in einem Netzwerk ein zusätzlicher Kommunikationsaufwand entsteht. Das bedeutet, dass mehr Informationen ausgetauscht werden müssen, damit Geräte eine IP-Adresse erhalten. 
+
+Wenn ein Computer oder ein Gerät eine IP-Adresse braucht, fragt es den DHCP-Server. Der Server sucht dann eine freie IP-Adresse aus einem bestimmten Bereich aus und gibt sie dem Gerät. Dieser Vorgang braucht Zeit und Ressourcen, und das nennt man "Overhead". 
+
+Zusammengefasst bedeutet das: Wenn wir DHCP benutzen, müssen wir mehr Kommunikation im Netzwerk beachten, um sicherzustellen, dass alle Geräte die IP-Adressen korrekt erhalten.

@@ -1,0 +1,7 @@
+In einem Netzwerk brauchen Geräte IP-Adressen, damit sie miteinander sprechen können. Es gibt zwei Hauptarten, wie diese IP-Adressen vergeben werden: 
+
+1. **Statisch**: Hier bekommt jedes Gerät eine feste IP-Adresse, die sich nicht ändert. Man hat das also manuell eingestellt.
+
+2. **Dynamisch**: Bei dieser Methode gibt es einen speziellen Server, der die Adressen automatisch zuteilt. Dieser Server benutzt ein Protokoll, das heißt, es gibt feste Regeln, wie die Adressen vergeben werden. Das Protokoll dafür nennt sich DHCP (Dynamic Host Configuration Protocol).
+
+Einfach gesagt: Wenn ein Gerät im Netzwerk nach einer IP-Adresse fragt, kümmert sich der DHCP-Server darum und sagt dem Gerät, welche IP-Adresse es benutzen soll.

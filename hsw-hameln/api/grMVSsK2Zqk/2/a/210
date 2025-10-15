@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es einfach ist, IP-Adressen für Computer und andere Geräte im Netzwerk zu bekommen, wenn man ein bestimmtes System namens DHCP benutzt. 
+
+Wenn man DHCP hat, muss man nicht für jeden Computer oder jedes Gerät selbst eine IP-Adresse einstellen. Stattdessen macht das ein Server im Netzwerk. Man stellt den Server einmal richtig ein, und dann gibt er die IP-Adressen automatisch an die neuen Geräte weiter, die sich verbinden. 
+
+Das spart viel Zeit und Mühe, weil man nicht für jedes einzelne Gerät etwas tun muss. Es läuft alles fast von alleine, nachdem man den Server einmal eingerichtet hat.

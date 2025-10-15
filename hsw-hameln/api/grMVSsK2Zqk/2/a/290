@@ -1,0 +1,3 @@
+Diese Aussage bedeutet, dass es viel einfacher ist, Geräte in einem Netzwerk automatisch mit IP-Adressen zu versorgen, als wenn man alle Geräte einzeln und von Hand anpassen muss. Wenn der DHCP-Server die IP-Adressen verteilt, braucht der Administrator weniger Zeit und Mühe, weil er nicht jedes Gerät selbst einstellen muss.
+
+Aber es gibt auch einen Nachteil: Wenn der DHCP-Server im Netzwerk ist, bringt er ein bisschen zusätzlichen Aufwand mit sich. Das heißt, es gibt mehr Kommunikation und Arbeit, die durch die Verwendung des DHCP-Protokolls entsteht. Diese Extra-Arbeit ist zwar kleiner im Vergleich zu dem Aufwand, jedes Gerät manuell zu konfigurieren, aber sie ist trotzdem da.

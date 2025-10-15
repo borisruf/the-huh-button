@@ -1,0 +1,7 @@
+Die Begriffe "Monomod" und "Multimod" beziehen sich auf die Art der Lichtwellenleiter und deren Fähigkeit, Lichtsignale zu übertragen. 
+
+- **Monomod (Single-Mode)**: Diese Lichtwellenleiter haben einen sehr kleinen Durchmesser (typischerweise etwa 8-10 Mikrometer) und übertragen Licht über einen einzigen Modus oder Pfad. Sie sind besonders geeignet für Langstreckenübertragungen, da sie eine geringere Dispersion aufweisen, was bedeutet, dass die Lichtimpulse über lange Distanzen hinweg erhalten bleiben und nicht auseinanderlaufen. Dies führt zu einer höheren Bandbreite und besseren Signalqualität.
+
+- **Multimod (Multi-Mode)**: Diese Lichtwellenleiter haben einen größeren Durchmesser (ungefähr 50-62,5 Mikrometer) und können mehrere Lichtmoden oder Pfade übertragen. Multimod-Fasern sind optimal für kürzere Distanzen, da die verschiedenen Lichtwege (Moden) zu einer stärkeren Dispersion führen und somit das Signal über längere Strecken an Qualität verlieren kann. Für lokale Netzwerke oder kurze Verbindungen sind sie jedoch häufig ausreichend.
+
+Insgesamt unterscheiden sich Monomod- und Multimod-Fasern hinsichtlich ihrer Struktur und dem typischen Anwendungsbereich, wobei Monomod-Fasern für lange Distanzen und höhere Bandbreiten ausgelegt sind, während Multimod-Fasern für kürzere Distanzen verwendbar sind.

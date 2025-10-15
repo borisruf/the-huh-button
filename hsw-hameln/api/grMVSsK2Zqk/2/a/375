@@ -1,0 +1,12 @@
+Okay, ich erkläre die Aussage in sehr einfacher Sprache:
+
+Wenn du einen Computer oder ein Gerät in ein Netzwerk bringst, sucht es nach einem speziellen Computer, der heißt DHCP-Server. Dieser Server hilft dabei, eine IP-Adresse für dein Gerät zu finden. 
+
+Hier ist, was passiert:
+
+1. **Suchen**: Dein Gerät fragt in der ganzen Netzwerk-Umgebung, ob es einen DHCP-Server gibt. Das nennt man "DHCP-Discover". 
+2. **Anbieten**: Wenn der DHCP-Server da ist, antwortet er mit einem Angebot (DHCP-Offer). Das Angebot ist eine IP-Adresse und sagt deinem Gerät, dass es diese Adresse benutzen kann.
+3. **Anfragen**: Dein Gerät wählt einen Server aus, fragt dann um die IP-Adresse, die es bekommen möchte. Das nennt man "DHCP-Request".
+4. **Bestätigen**: Der DHCP-Server sagt dann "Ja, du kannst die Adresse haben!" Das nennt man "DHCP-Acknowledgement" oder kurz "DHCP-Ack". Jetzt hat dein Gerät eine IP-Adresse und kann im Netzwerk arbeiten.
+
+So funktioniert es, dass dein Gerät seine IP-Adresse bekommt, damit es mit anderen Geräten kommunizieren kann, ohne dass du alles manuell einstellen musst.

@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes:
+
+Wenn ich ein Netzwerk einrichte, kann ich jedem meiner Geräte eine spezielle Nummer geben, die MAC-Adresse. Diese Nummer ist wie ein Ausweis für jedes Gerät. Ich kann dann eine Liste von MAC-Adressen machen und für jede Adresse eine bestimmte IP-Adresse festlegen. 
+
+Das ist zwar mehr Arbeit für mich (mehr administrative Aufgaben), weil ich alle Geräte einzeln auflisten muss, aber es hat auch einen Vorteil: So kann ich sicher sein, dass nur die Geräte mit diesen speziellen MAC-Adressen eine IP-Adresse in meinem Netzwerk bekommen. Das schützt mein Netzwerk, weil nur die erlaubten Geräte Zugang haben.

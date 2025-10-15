@@ -1,0 +1,5 @@
+Die Aussage bedeutet Folgendes in einfacher Sprache:
+
+Ich kann für jedes Gerät in meinem Netzwerk festlegen, welche IP-Adresse es bekommt. Dazu schaue ich mir die MAC-Adresse jedes Gerätes an. Wenn ich alle MAC-Adressen, also die "Bildkarten" der Geräte, speichere, weiß ich genau, welches Gerät welche IP-Adresse erhalten darf. Das macht die Verwaltung etwas komplizierter, weil ich mehr Dinge aufschreiben und kontrollieren muss.
+
+Aber der Vorteil ist, dass ich sicherstellen kann, dass nur die Geräte mit den MAC-Adressen, die ich aufgeschrieben habe, auch wirklich eine IP-Adresse bekommen. So kann ich das Netzwerk besser schützen und verhindern, dass fremde Geräte sich einfach eine IP-Adresse schnappen.

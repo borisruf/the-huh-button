@@ -1,0 +1,17 @@
+Die Aussage spricht über verschiedene Arten von Kabeln, die für die Datenübertragung verwendet werden, besonders in Netzwerken. Es gibt Kabel mit und ohne Schutz (Abschirmung). 
+
+Hier ist eine einfache Erklärung:
+
+1. **Kabeltypen**: Es gibt zwei Hauptarten von Kabeln: Kabel mit Draht (wie Kupferkabel) und kabellose Verbindungen (wie WLAN).
+
+2. **Drahtkabel**: Innerhalb der Drahtkabel gibt es verschiedene Typen. Ein wichtiger Typ ist das "Twisted-Pair-Kabel", was aus zwei Drähten besteht, die miteinander verdreht sind. 
+
+3. **Abschirmung**: Manche Kabel haben eine Schutzschicht, die hilft, störende Signale von außen fernzuhalten. Es gibt verschiedene Stufen dieser Abschirmung:
+   - **Unshielded Twisted-Pair (UTP)**: Kein Schutz.
+   - **S-UTP**: Einfacher Schutz drumherum.
+   - **Shielded Twisted-Pair**: Besseren Schutz mit Folie oder Metall.
+   - **Vollständig abgeschirmt**: Sowohl innen als auch außen geschützt.
+
+4. **Warum braucht man Abschirmung?**: Abschirmung ist wichtig, um sicherzustellen, dass die Signale im Kabel klar bleiben und nicht durch andere elektrische Signale gestört werden. Dadurch wird die Verbindung zuverlässiger und schneller.
+
+Zusammengefasst: Es gibt verschiedene Kabeltypen für die Datenübertragung, und manchmal ist es wichtig, sie zu schützen, damit die Verbindung gut funktioniert.

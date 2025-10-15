@@ -1,0 +1,7 @@
+Monomod und Multimod sind Begriffe, die man bei Lichtwellenleitern nutzt. 
+
+- **Monomod**: In einer Monomod-Faser ist der Querschnitt sehr klein. Das bedeutet, dass das Licht nur auf einem einzigen Weg reisen kann. Dadurch ist das Lichtsignal sehr klar und verändert sich nicht viel auf dem Weg. Man kann diese Faser für lange Strecken verwenden, ohne dass das Signal schwächer wird oder sich verzerrt.
+
+- **Multimod**: In einer Multimod-Faser ist der Querschnitt größer. Hier kann das Licht auf mehreren Wegen reisen. Das bedeutet, verschiedene Lichtstrahlen erreichen das Ende der Faser zu unterschiedlichen Zeiten. Deshalb wird das Signal am Ende breiter und kann unschärfer werden. Diese Faser ist eher für kürzere Strecken geeignet.
+
+Zusammengefasst: Monomod ist für lange Strecken und hat ein klares Signal, während Multimod mehrere Lichtwege hat und besser für kurze Distanzen ist.

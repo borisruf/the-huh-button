@@ -1,0 +1,11 @@
+Okay, lass uns das einfach erklären:
+
+Wenn ein Computer oder ein anderes Gerät eine IP-Adresse von einem DHCP-Server bekommt, hat diese Adresse eine bestimmte Zeit lang Gültigkeit. Diese Zeit nennen wir "Lease-Time".
+
+Stell dir vor, die IP-Adresse ist wie ein Zimmer in einem Hotel. Das Hotel (der DHCP-Server) hat viele Zimmer (IP-Adressen), und jedes Zimmer kann nur für eine bestimmte Zeit an einen Gast (ein Gerät) vermietet werden.
+
+Wenn die Zeit abläuft, schaut das Hotel, ob der Gast noch da ist oder ob er schon ausgecheckt hat. Wenn der Gast noch da ist und das Zimmer noch braucht, bekommt er das Zimmer (die IP-Adresse) wieder neu. Die Zeit beginnt dann wieder von vorne – wie wenn der Gast sein Zimmer für eine neue Woche mietet.
+
+Falls der Gast aber nicht mehr da ist, kann das Hotel das Zimmer (die IP-Adresse) einem neuen Gast geben. So sorgt das Hotel dafür, dass immer genügend Zimmer für neue Gäste zur Verfügung stehen. 
+
+Zusammengefasst: Die Lease-Time gibt an, wie lange ein Gerät eine IP-Adresse nutzen kann, bevor man überprüft, ob es sie noch braucht. Wenn ja, wird die Zeit neu gestartet.

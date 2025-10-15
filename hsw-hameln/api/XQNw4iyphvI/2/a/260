@@ -1,0 +1,7 @@
+Die Aussage beschreibt, wie verschiedene Arten von Kabeln (Twisted-Pair-Kabel) aufgebaut sind. Hier ist die Erklärung in einfacher Sprache:
+
+1. **Twisted-Pair-Kabel**: Das sind Kabel, die aus zwei Drähten bestehen, die miteinander verdreht sind. Sie sind in einer Kunststoffhülle, die sie schützt. Wenn sie nur so sind, nennt man sie "unshielded Twisted-Pair" (UTP). 
+
+2. **Abschirmung**: Um die Kabel besser zu schützen, kann man sie zusätzlich mit einem dünnen Mantel umgeben. Wenn man das macht, nennt man es "S-UTP" oder "screened Twisted-Pair". Das hilft, Störungen von außen zu reduzieren, damit die Signale klarer sind.
+
+Zusammengefasst: Wir haben einfache Kabel (UTP) und besser geschützte Kabel (S-UTP), die beide für die Übertragung von Daten genutzt werden.

@@ -1,0 +1,583 @@
+1
+00:00:09,060 --> 00:00:14,020
+Ja, wir wollen uns jetzt beschäftigen mit verschiedenen Übertragungsmedien und
+
+2
+00:00:14,020 --> 00:00:18,580
+bei den Übertragungsmedien wird zunächst einmal unterschieden zwischen leitungsgebundenen
+
+3
+00:00:18,580 --> 00:00:22,760
+und nicht leitungsgebundenen, also sprich drahtlosen. Bei den
+
+4
+00:00:22,760 --> 00:00:27,740
+leitungsgebundenen müssen wir noch zwei Dinge unterscheiden, nämlich zum einen den eigentlichen Stromleiter
+
+5
+00:00:27,740 --> 00:00:32,240
+und den Wellenleiter. Für den Stromleiter haben wir typischerweise zum Beispiel die verdrillte
+
+6
+00:00:32,240 --> 00:00:36,760
+Kupfer-Doppelader, mit der werden wir uns auch im Folgenden weiter viel
+
+7
+00:00:36,760 --> 00:00:41,300
+befassen.  Twisted-Pair ist eigentlich das Medium, was im Großteil der Verkabelungen
+
+8
+00:00:41,300 --> 00:00:46,680
+eingesetzt wird. Darüber hinaus, und da hängt es so ein bisschen mit den Distanzen zusammen, das werden wir sehen, werden
+
+9
+00:00:46,680 --> 00:00:51,660
+wir aber auch einen Wellenleiter kennenlernen, nämlich den Lichtwellenleiter. Der spielt letztlich auch
+
+10
+00:00:51,660 --> 00:00:56,460
+noch eine wichtige Rolle im Zusammenhang mit Netzwerken.  Ja, und durch
+
+11
+00:00:56,460 --> 00:01:01,420
+dieses Thema der Mobilität, mobile Endgeräte und so weiter, kommt natürlich auch das
+
+12
+00:01:01,420 --> 00:01:06,140
+Thema der drahtlosen Netze immer mehr in den Fokus und
+
+13
+00:01:06,140 --> 00:01:11,760
+dabei werden wir uns also auch über Funktechnologien unterhalten. Ja,
+
+14
+00:01:11,800 --> 00:01:16,760
+wir können uns jetzt nach dieser kurzen Klassifikation auch einfach mal ansehen, wenn wir
+
+15
+00:01:16,760 --> 00:01:22,360
+einsteigen in die Eigenschaften verschiedener Medien, dann werden wir feststellen, dass
+
+16
+00:01:22,360 --> 00:01:27,620
+verdrillte Adern andere Eigenschaften haben als zum Beispiel Lichtwellenleiter.
+
+17
+00:01:28,660 --> 00:01:33,660
+Wir sehen also hier mal ein solches elektromagnetisches Spektrum und Sie sehen auf der linken Seite
+
+18
+00:01:33,660 --> 00:01:38,460
+eben die verdrillte Ader, die Kupferader, dazwischen das Koaxialkabel, dann kommt ein
+
+19
+00:01:38,460 --> 00:01:42,520
+Hohlleiter und ganz rechts bei den ganz hohen Frequenzen
+
+20
+00:01:42,520 --> 00:01:47,440
+sehen Sie die optische Faser, den Lichtwellenleiter.  Und das beschreibt auch schon
+
+21
+00:01:47,440 --> 00:01:51,540
+ein ganz klein wenig verschiedene Einsatzbereiche und darüber hinaus auch
+
+22
+00:01:51,540 --> 00:01:56,440
+eine wichtige Eigenschaft, nämlich die Eigenschaft der Bandbreite. Wir haben ja im
+
+23
+00:01:56,440 --> 00:02:01,360
+ersten Absatz schon im ersten Teil schon über dieses Thema Bandbreite gesprochen und hier sehen wir also die optische
+
+24
+00:02:01,360 --> 00:02:06,080
+Faser, sprich der Lichtwellenleiter, wird also mit der höchsten Bandbreite dort
+
+25
+00:02:06,080 --> 00:02:10,700
+eingesetzt. Ja, wie ist nun unsere Kupfer-Doppelader, die wir
+
+26
+00:02:10,700 --> 00:02:15,660
+ja vor allem in Lahns sehr sehr häufig antreffen, eigentlich aufgebaut? Wir haben das hier mal
+
+27
+00:02:15,660 --> 00:02:21,100
+so beispielhaft dargestellt, das ist also ein Adernpaar, was eben so verdrillt ist.  Darum
+
+28
+00:02:21,100 --> 00:02:25,580
+würde jetzt normalerweise noch ein Mantel sein und bei unseren heute eingesetzten
+
+29
+00:02:25,580 --> 00:02:30,380
+Twisted-Pair-Kabeln hätten wir eben auch noch mehr von diesen Doppeladern, nämlich
+
+30
+00:02:30,380 --> 00:02:35,360
+insgesamt vier, also acht Adern in unserem Kabel. Nun, jetzt haben
+
+31
+00:02:35,360 --> 00:02:39,660
+die natürlich verschiedene Eigenschaften, wir sehen das dort schon, die werden eingesetzt sowohl in Telefonen als auch in
+
+32
+00:02:39,660 --> 00:02:44,580
+Datennetzwerken. Der Leiterdurchmesser ist so irgendwo knapp unterhalb von einem Millimeter
+
+33
+00:02:44,580 --> 00:02:48,860
+und die Bandbreite bewegt sich so zwischen 100 Kilohertz bis circa 600
+
+34
+00:02:48,860 --> 00:02:53,660
+Megahertz.  Die Fachbezeichnung dafür, da kommt so ein bisschen das
+
+35
+00:02:53,660 --> 00:02:58,480
+Englische ins Spiel, also verdrillte Adern, Twisted-Pair und in diesem Fall sind die einfach
+
+36
+00:02:58,480 --> 00:03:03,480
+so in einem recht dünnen Plastik-Kunststoffmantel, also nicht weiter
+
+37
+00:03:03,480 --> 00:03:08,320
+abgeschirmt, also unshieldet Twisted-Pair in diesem Fall. Und es gibt da
+
+38
+00:03:08,320 --> 00:03:13,280
+verschiedene Kategorisierungen, das hat so ein bisschen was mit der Qualität auch zu tun, mit der Abschirmung zu tun, da kommen
+
+39
+00:03:13,280 --> 00:03:17,940
+wir aber später nochmal im Detail drauf. Die grundsätzliche Frage, die sich natürlich stellt, ist, warum sind diese Adern
+
+40
+00:03:17,940 --> 00:03:22,860
+eigentlich miteinander verdrillt? Und die Antwort darauf kann man auch so ein
+
+41
+00:03:22,860 --> 00:03:27,740
+bisschen aus der Historie noch ableiten, man kennt das vielleicht von früher aus dem Telefonnetz, dass man teilweise auch
+
+42
+00:03:27,740 --> 00:03:32,400
+andere Stimmen, die gar nicht zum eigentlichen Gespräch gehört haben, noch auf der Leitung hatte, das sogenannte
+
+43
+00:03:32,400 --> 00:03:37,220
+Übersprechen.  Und genau dem will man eben entgegenwirken durch diese Verdrillung, dass man eben
+
+44
+00:03:37,220 --> 00:03:42,580
+die elektrische Induktion innerhalb von unserem Kabel ganz einfach kompensiert. Ja,
+
+45
+00:03:42,800 --> 00:03:47,740
+und Kabel ist ein wichtiges Stichwort, natürlich werden diese Adern nicht lose verlegt, sondern im Endeffekt
+
+46
+00:03:47,740 --> 00:03:52,480
+in Kabeln und da gibt es verschiedene Bauformen. Hier gibt es auch wieder insgesamt
+
+47
+00:03:52,480 --> 00:03:56,840
+vier Kategorien, die wir zu unterscheiden haben.  Die einfachste hat der Kollege gerade schon
+
+48
+00:03:56,840 --> 00:04:01,820
+erwähnt, unshieldet Twisted-Pair, das heißt also, wenn wir einfach die Kabel so in
+
+49
+00:04:01,820 --> 00:04:06,740
+ihrer Kunststoffisolierung mit einem weiteren Mantel versehen, dann wäre das ein UTP-Kabel. Wenn wir
+
+50
+00:04:06,740 --> 00:04:11,720
+sukzessive das Ganze abschirmen, also zunächst einmal den Kabelmantel, dann
+
+51
+00:04:11,720 --> 00:04:16,660
+hätten wir ein S-UTP-Kabel, screened, anschildert Twisted-Pair.
+
+52
+00:04:17,100 --> 00:04:21,040
+Dann die zweite Kategorie wäre ein Twisted-Pair mit
+
+53
+00:04:21,040 --> 00:04:26,040
+einer inneren Abschirmung, beispielsweise über eine Metallfolie oder
+
+54
+00:04:26,040 --> 00:04:31,000
+über ein Metallgeflecht.  Die dritte wäre eben, wenn wir sozusagen, die vierte wäre
+
+55
+00:04:31,000 --> 00:04:35,940
+eben, wenn wir sozusagen alles innen und außen abschirmen. Nun stellt sich natürlich auch hier
+
+56
+00:04:35,940 --> 00:04:40,660
+die Frage, warum eigentlich Abschirmung? Gut, man kann sagen, die mechanische
+
+57
+00:04:40,660 --> 00:04:45,580
+Festigkeit nimmt zu, das ist das eine, ganz klar, aber zum anderen, und das ist ganz wichtig, haben
+
+58
+00:04:45,580 --> 00:04:50,500
+wir natürlich auch von außen elektromagnetische Störeinflüsse, also elektromagnetische Impulse oder ähnliche Dinge und
+
+59
+00:04:50,500 --> 00:04:55,460
+die werden dadurch eben auch außen gehalten beziehungsweise auch abgeleitet.
+
+60
+00:04:56,120 --> 00:05:01,240
+Und wir können es auf dem nächsten Bild mal ein solches typisches CAT7, Screened
+
+61
+00:05:01,240 --> 00:05:06,000
+-Foiled-Twisted-Pair, so ist die Abkürzung, dort anschauen.  Wir sehen, dass diese vier
+
+62
+00:05:06,000 --> 00:05:10,240
+Adernpaare sind eben einzelne Adernpaare mit einem Metallschirm
+
+63
+00:05:10,240 --> 00:05:14,280
+abgeschirmt und das gesamte Kabel nochmal mit einem
+
+64
+00:05:14,280 --> 00:05:19,040
+Metallgeflecht. Ja, das waren also mal ein kurzer Blick auf die
+
+65
+00:05:19,040 --> 00:05:23,980
+Kupferkabel. Gehen wir mal jetzt zu einem Wellenleiter über, nämlich zu unserem
+
+66
+00:05:23,980 --> 00:05:28,120
+Lichtwellenleiter.  Dieser Lichtwellenleiter besteht ja typischerweise aus dünnem
+
+67
+00:05:28,120 --> 00:05:33,100
+Quarzglas, Fiebern oder Fasern und Kabel
+
+68
+00:05:33,100 --> 00:05:37,900
+können dann ziemlich umfangreich werden, die können bis zu 2000 solcher Fasern haben und typischerweise übertragen wir
+
+69
+00:05:37,900 --> 00:05:42,760
+dort in einem Lichtbereich, das ist nicht sichtbares
+
+70
+00:05:42,760 --> 00:05:47,780
+Licht, nämlich im Infrarotbereich, 850 Nanometer, 1300,
+
+71
+00:05:48,120 --> 00:05:52,920
+1500 Nanometer und der riesen Vorteil, wir haben das vorhin schon gesehen, ist einmal die hohe
+
+72
+00:05:52,920 --> 00:05:57,740
+Bandbreite in dem Spektrum, was aber noch dazukommt und das hängt
+
+73
+00:05:57,740 --> 00:06:02,140
+eben mit einer wichtigen Eigenschaft dieser Fahler zusammen, ist die große
+
+74
+00:06:02,140 --> 00:06:06,880
+Reichweite. Hier ist mal ein Repeater-Abstand angegeben von 10 bis 100
+
+75
+00:06:06,880 --> 00:06:12,540
+Kilometer, also es hat schon was damit zu tun, dass die Verluste dort relativ gering sind. Ja,
+
+76
+00:06:12,600 --> 00:06:17,660
+wenn wir uns jetzt mal anschauen, wie eigentlich das Licht über unsere Lichtwellenleiter eigentlich so übertragen wird, wenn
+
+77
+00:06:17,660 --> 00:06:22,300
+wir es vergleichen mit einem Kupfermedium, da wird einfach ein Signal auf unsere Kupferader
+
+78
+00:06:22,300 --> 00:06:27,180
+aufgelegt, wenn wir jetzt einen Lichtimpuls senden in ein Kabel, dann hängt das natürlich auch so ein bisschen von der
+
+79
+00:06:27,180 --> 00:06:31,720
+Art des Kabels ab, das Licht kann unterschiedliche Wege nehmen und zwar wird es dann immer am
+
+80
+00:06:31,720 --> 00:06:36,520
+jeweiligen Rand, also an der Ummantelung des Kabels entsprechend reflektiert, das ist
+
+81
+00:06:36,520 --> 00:06:41,320
+jedenfalls die grundsätzliche Idee, dass wir also eine komplette Reflexion von
+
+82
+00:06:41,320 --> 00:06:46,200
+unserem Lichtimpuls haben, damit dieser dann eben, wie in diesem Fall dargestellt, so eine Art
+
+83
+00:06:46,200 --> 00:06:50,540
+Zick-Zack-Weg durch unser Medium nimmt.  Also an der Stelle wäre das
+
+84
+00:06:50,540 --> 00:06:55,480
+immer in Abhängigkeit auch der physikalischen Dämpfung so gut wie verlustfrei. Genau, das
+
+85
+00:06:55,480 --> 00:06:59,380
+heißt also, wenn wir an der Grenzfläche wirklich innerhalb eines bestimmten Winkels sind, das ist der
+
+86
+00:06:59,380 --> 00:07:04,380
+Akzeptanzwinkel, dann ist es verlustfrei. Wenn wir unter einem steileren Winkel einkoppeln
+
+87
+00:07:04,380 --> 00:07:09,300
+würden, dann haben wir automatisch Brechung.  Nun hängt das nicht ausschließlich von
+
+88
+00:07:09,300 --> 00:07:14,240
+dem Einkoppeln ab, sondern es hängt natürlich auch davon ab, wie das Kabel nachher verlegt ist
+
+89
+00:07:14,240 --> 00:07:19,160
+und wenn halt der Biegeradius, sagen wir mal, zu eng gezogen wird, dann habe ich natürlich an der
+
+90
+00:07:19,160 --> 00:07:24,300
+Stelle eben genau dieses Thema der Brechung und würde dann eben entsprechende Verluste haben. Das
+
+91
+00:07:24,300 --> 00:07:28,500
+heißt, verlustfreie Übertragung habe ich immer nur, wenn der
+
+92
+00:07:28,500 --> 00:07:32,920
+Strahlengang innerhalb des Lichtwellenleiters tatsächlich innerhalb dieses
+
+93
+00:07:32,920 --> 00:07:38,020
+Akzeptanzwinkels bleibt. Und deshalb spielt also das Einkoppeln eine wichtige Rolle, aber
+
+94
+00:07:38,020 --> 00:07:42,740
+auch beim Verlegen müssen wir darauf achten, dass wir eben keine zu starken Biegeradien haben.  Genau, ein
+
+95
+00:07:42,740 --> 00:07:47,360
+weiterer Vorteil natürlich von Lichtwellenleitern an der Stelle, gerade auch wenn es später um das Thema der
+
+96
+00:07:47,360 --> 00:07:52,120
+Netzwerkplanung geht, die sind natürlich unempfindlich gegenüber elektromagnetischen Einflüssen von außen.
+
+97
+00:07:52,880 --> 00:07:57,640
+Das Wichtige dabei ist natürlich, dass der Mantel nach Möglichkeit intakt bleibt, dass also kein Licht von außen in unser
+
+98
+00:07:57,640 --> 00:08:01,960
+Medium eindringen kann. Elektromagnetische Einflüsse wie bei Kupferkabeln können wir aber bei
+
+99
+00:08:01,960 --> 00:08:06,640
+Glasfaser eben ausschließen.  Umgekehrt haben wir da natürlich das Thema schon auch
+
+100
+00:08:06,640 --> 00:08:11,640
+der Lichtwellenleitung durch den Leiter selbst und auch da gibt es natürlich so
+
+101
+00:08:11,640 --> 00:08:16,520
+etwas wie optische Dispersion und wir sehen hier mal drei unterschiedliche
+
+102
+00:08:16,520 --> 00:08:21,040
+Leitertypen. Der erste, die Monomodfaser ganz oben, die
+
+103
+00:08:21,040 --> 00:08:25,880
+hat eine sehr geringe Pulsverformung. Sie sehen, dass wenn wir ein Rechteck, ein
+
+104
+00:08:25,880 --> 00:08:30,440
+Idealpuls in den Eingang schicken, dann ist am Ausgang noch ein sehr schön geformter,
+
+105
+00:08:30,820 --> 00:08:35,260
+schmaler Puls zu erwarten und das über relativ große Entfernungen.  Das heißt, die
+
+106
+00:08:35,260 --> 00:08:40,480
+Monomodfaser wird für das Überbrücken großer Entfernungen eingesetzt. Wenn
+
+107
+00:08:40,480 --> 00:08:45,420
+wir eine Multimodfaser haben, dann sieht es schon etwas anders aus. Da sieht der Eingangspuls auch
+
+108
+00:08:45,420 --> 00:08:50,060
+wieder genauso aus.  Der Ausgangspuls wird relativ verbreitet. Nun, was heißt eigentlich
+
+109
+00:08:50,060 --> 00:08:54,960
+Monomod, Multimod? Das heißt, dass in einer Multimodfaser
+
+110
+00:08:54,960 --> 00:08:59,260
+der Faserquerschnitt einfach etwas größer ist und sich deshalb verschiedene
+
+111
+00:08:59,260 --> 00:09:02,800
+Wellenzüge, verschiedene Strahlengänge dort auch
+
+112
+00:09:02,800 --> 00:09:07,720
+ausbreiten können innerhalb dieses Leiters und das bedeutet
+
+113
+00:09:07,720 --> 00:09:12,620
+im Endeffekt, dass wir ja eine Verbreiterung dadurch haben, dass wir eine Form
+
+114
+00:09:12,620 --> 00:09:17,400
+der Laufzeitschwankungen und wir haben dieses Thema schon mal gehabt. Jitter, Laufzeitschwankungen
+
+115
+00:09:17,400 --> 00:09:22,300
+haben durch die Laufzeitschwankungen, die hier durch optische Berechnung zustande
+
+116
+00:09:22,300 --> 00:09:25,740
+kommen, ist es eben optische Dispersion und bei dieser
+
+117
+00:09:25,740 --> 00:09:30,600
+Multimodfaser ist es so, wir haben hier zum Beispiel den Stufenindex.  Das heißt
+
+118
+00:09:30,600 --> 00:09:35,300
+also, die Grenzfläche zwischen dem Innenleiter und dem Mantel läuft in einer
+
+119
+00:09:35,300 --> 00:09:39,620
+absoluten Stufe. Es ist einfach ein anderes Material und wenn man das Ganze etwas
+
+120
+00:09:39,620 --> 00:09:44,160
+modifiziert, indem man den Übergang zu dieser Grenzfläche sozusagen
+
+121
+00:09:44,160 --> 00:09:48,780
+optisch anpasst, dann kriegen wir eine sogenannte Gradientenindexfaser. Das ist auch eine
+
+122
+00:09:48,780 --> 00:09:53,480
+Multimodfaser, die aber von den Eigenschaften, Sie sehen das, Eingangspuls,
+
+123
+00:09:53,580 --> 00:09:58,700
+Ausgangspuls, weniger optische Dispersion hat.  Ja, in
+
+124
+00:09:58,700 --> 00:10:03,580
+der Praxis verwenden wir dann beispielsweise solche Steckertypen. Das ist
+
+125
+00:10:03,580 --> 00:10:08,480
+ja ganz wichtig insofern, als wir gerade gesagt haben, die Einkopplung des Lichtes, die spielt eine
+
+126
+00:10:08,480 --> 00:10:13,440
+große Rolle. Die muss eben unter diesen Akzeptanzwinkeln laufen, deshalb gibt es da genormte
+
+127
+00:10:13,440 --> 00:10:18,420
+Steckertypen.  Wir sehen das den ST-Connector oder den LC und die
+
+128
+00:10:18,420 --> 00:10:23,160
+sind eben schon auch entscheidend dafür, dass wirklich eine möglichst dämpfungsfreie Einkopplung
+
+129
+00:10:23,160 --> 00:10:27,700
+stattfindet. Ja, das letzte Medium, um das wir uns jetzt noch kümmern wollen, ist eben entsprechend
+
+130
+00:10:27,700 --> 00:10:32,260
+die drahtlose Übertragung, also über Funk und da werden auch nochmal zwei Unterarten
+
+131
+00:10:32,260 --> 00:10:37,100
+unterschieden. Wenn wir mal anfangen bei unserem klassischen WLAN, dann kennt man das
+
+132
+00:10:37,100 --> 00:10:41,940
+vielleicht auch aus dem Heimbereich, da hat man eben einen WLAN-Router.  Das sind eigentlich zwei Geräte in einem
+
+133
+00:10:41,940 --> 00:10:46,860
+und aus diesem WLAN-Router oder einem WLAN-Accesspoint wird eben ja quasi konzentrisch,
+
+134
+00:10:46,880 --> 00:10:51,520
+je nachdem was man da noch für bauliche Begebenheiten hat, ein Signal ausgesendet werden und alle
+
+135
+00:10:51,520 --> 00:10:56,420
+Geräte, die sich innerhalb dieses Ausbreitungsraumes befinden, die können eben auf
+
+136
+00:10:56,420 --> 00:11:01,300
+dieses Signal zugreifen und können dieses Signal ganz einfach nutzen. Da bewegt man sich ja in bestimmten
+
+137
+00:11:01,300 --> 00:11:05,440
+Frequenzbereichen, man hat eine eingeschränkte Reichweite natürlich, einmal durch
+
+138
+00:11:05,440 --> 00:11:10,380
+die Reichweite von unserem Accesspoint, von unserer Ausbreitung, was dann
+
+139
+00:11:10,380 --> 00:11:15,360
+wie gesagt noch eingeschränkt wird, unter anderem auch durch bauliche Maßnahmen. Ja und die andere Variante
+
+140
+00:11:15,360 --> 00:11:20,360
+wäre dann eben ein gerichteter Funk und das sehen wir hier auf der rechten Seite.  Ja, sowas wie Satellitenfunk
+
+141
+00:11:20,360 --> 00:11:25,340
+beispielsweise, um tatsächlich in Regionen auf dem Planeten zu kommen, wo man vielleicht mit Kabeln
+
+142
+00:11:25,340 --> 00:11:30,300
+so oft nicht hinkommt und da auch entsprechende Bandbreiten zu haben. Sie sehen, dass die Bandbreiten hier
+
+143
+00:11:30,300 --> 00:11:35,120
+auch mit entsprechenden Durchsätzen und
+
+144
+00:11:35,120 --> 00:11:39,800
+das hat letztlich den Vorteil, dass man wirklich mobil überall auf der Erde auch erreichbar
+
+145
+00:11:39,800 --> 00:11:44,160
+sein kann. Dazwischen, zwischen diesen beiden Netzen, die ja mehr oder weniger
+
+146
+00:11:44,160 --> 00:11:48,780
+stationär auch sind, haben wir letztlich natürlich noch die Mobilfunknetze.

@@ -1,0 +1,9 @@
+In dem Text geht es darum, wie Computer und Geräte in einem Netzwerk ihre IP-Adressen bekommen. Es gibt zwei Hauptmethoden dafür: 
+
+1. **Dynamisch (automatisch)**: Hierbei verwendet man ein Protokoll namens DHCP, das bedeutet "Dynamic Host Configuration Protocol". Es gibt einen speziellen Server im Netzwerk, der dafür sorgt, dass jedem Gerät automatisch eine IP-Adresse zugewiesen wird. Das reduziert den Aufwand für den Administrator, der die Geräte nicht mehr manuell mit Adressen versorgen muss. Wenn ein neues Gerät ins Netzwerk kommt, sendet es eine Anfrage und der DHCP-Server gibt ihm eine IP-Adresse aus einem festgelegten Bereich.
+
+2. **Statisch (manuell)**: Hierbei muss der Administrator jedes Gerät einzeln mit einer IP-Adresse versorgen. Das ist aufwändiger, weil er jede Adresse selbst einstellen muss.
+
+In dem Text wird außerdem erklärt, dass es auch andere wichtige Informationen gibt, die die Geräte brauchen, wie DNS-Server und Standard-Gateway. Diese Informationen kann der DHCP-Server ebenfalls automatisch verteilen.
+
+Ein Vorteil des DHCP-Systems ist, dass es sicherstellt, dass jede IP-Adresse nur einmal vergeben wird, was bei manueller Zuweisung schwierig sein kann. Auch wenn ein Gerät nicht mehr im Netzwerk ist, wird dessen IP-Adresse wieder freigegeben, damit sie von einem anderen Gerät genutzt werden kann.

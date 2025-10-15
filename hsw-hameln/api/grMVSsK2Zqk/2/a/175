@@ -1,0 +1,3 @@
+Die Aussage besagt, dass es bei IP-Adressen, die automatisch vergeben werden (dynamisch), eine wichtige Regel gibt: Diese Adressen können nach einer bestimmten Zeit ungültig werden oder „verfallen“. Das ist sinnvoll, weil, wenn ein Computer nicht mehr im Netzwerk ist, seine Adresse nicht immer reserviert bleiben sollte. Wenn viele Adressen immer belegt wären, könnte es passieren, dass man irgendwann nicht genug freie Adressen hat, um neuen Geräten eine zu geben. 
+
+Einfach gesagt: Wenn ein Gerät eine IP-Adresse nicht mehr braucht, muss diese Adresse wieder frei werden, damit andere Geräte sie verwenden können. So bleibt genug Platz für neue Geräte im Netzwerk.

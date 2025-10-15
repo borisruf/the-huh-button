@@ -1,0 +1,9 @@
+Die Aussage bedeutet, dass es nicht nur gute, sondern auch einige schlechte Seiten gibt, wenn man einen speziellen Computer, den DHCP-Server, benutzt. 
+
+Hier ist es ganz einfach erklärt:
+
+- **Vorteile:** Mit dem DHCP-Server geht alles einfacher, weil er automatisch IP-Adressen an Geräte vergibt. Das heißt, wenn du ein neues Gerät anschließt, bekommt es sofort eine Adresse, ohne dass du viel tun musst.
+
+- **Nachteile:** Aber du musst auch auf den Server aufpassen und ihn regelmäßig warten. Das bedeutet, du musst sicherstellen, dass er gut funktioniert und eventuell auch die Informationen darüber, welche Geräte welche IP-Adressen haben, aktualisieren.
+
+Zusammengefasst: Es ist einfach, aber man muss auch etwas Zeit und Mühe investieren, um alles am Laufen zu halten.

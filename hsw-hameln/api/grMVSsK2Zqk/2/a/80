@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass es zwei Möglichkeiten gibt, wie ein Gerät (wie ein Computer oder ein Drucker) in einem Netzwerk seine IP-Adresse bekommt. 
+
+1. **Willkürlich**: Die IP-Adresse kann zufällig aus einer Liste ausgesucht werden. Das ist wie ein Spiel, bei dem man einfach eine Nummer zieht.
+
+2. **Nach Vorgabe**: Die IP-Adresse kann auch gezielt ausgesucht werden. Hierbei wird oft die MAC-Adresse des Geräts verwendet. Die MAC-Adresse ist eine spezielle Kennung, die jedes Gerät hat. 
+
+Außerdem ist es einfach, weil man nicht viel tun muss. Wenn ein neues Gerät ins Netzwerk kommt, bekommt es automatisch eine IP-Adresse. Man braucht dafür einen speziellen Server, der die Vergabe der IP-Adressen steuert. Das macht alles viel einfacher, da man nicht für jedes neue Gerät manuell eine Adresse vergeben muss.

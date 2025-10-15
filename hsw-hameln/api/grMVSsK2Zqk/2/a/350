@@ -1,0 +1,7 @@
+Die Aussage bedeutet Folgendes: 
+
+Wenn ein Computer oder ein anderes Gerät in ein Netzwerk kommt und eine IP-Adresse braucht, sendet es eine spezielle Anfrage. Diese Anfrage nennt man "Broadcast". Dabei ruft der Computer alle Geräte im Netzwerk an und fragt: "Gibt es hier einen DHCP-Server?"
+
+Dies ist wichtig, weil der DHCP-Server dafür zuständig ist, IP-Adressen an die Geräte im Netzwerk zu vergeben. Wenn der DHCP-Server die Anfrage erhält, antwortet er mit einem Vorschlag, also einem "DHCP-Offer", und sagt: "Ich kann dir eine IP-Adresse geben."
+
+Zusammengefasst: Der Computer fragt im Netzwerk nach einem DHCP-Server, und der Server antwortet mit einer IP-Adresse, die das Gerät nutzen kann.

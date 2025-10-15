@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es einfacher ist, neue Geräte in ein Netzwerk zu bringen, wenn die IP-Adressen automatisch vergeben werden. Wenn ein neues Gerät ins Netzwerk kommt, bekommt es von einem speziellen Server (dem DHCP-Server) automatisch eine IP-Adresse. Das ist praktisch und erfordert weniger Arbeit von der Person, die das Netzwerk betreut.
+
+Wenn man die IP-Adressen jedoch von Hand (manuell) vergeben möchte, muss die Person, die das Netzwerk verwaltet, sich um jedes Gerät kümmern und jeder IP-Adresse selbst zuweisen. Das ist viel mehr Arbeit. 
+
+Also, mit automatischer Vergabe (dynamisch) ist es einfacher für alle neuen Geräte, während die manuelle Vergabe (statisch) viel mehr Aufwand bedeutet.

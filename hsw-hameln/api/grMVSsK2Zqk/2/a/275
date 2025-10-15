@@ -1,0 +1,7 @@
+Die Aussage bedeutet, dass in einem Netzwerk ein spezieller Computer, der Server, dafür sorgt, dass die anderen Geräte automatisch eine IP-Adresse bekommen. Das macht es für die Person, die alles verwaltet (den Administrator), einfacher, weil sie nicht jedes Gerät einzeln einstellen muss. 
+
+Stattdessen sorgt der Server dafür, dass die Geräte automatisch eine Adresse bekommen, wenn sie sich mit dem Netzwerk verbinden. 
+
+Es gibt ein bisschen Arbeit, um den Server ordentlich zu betreuen, und manchmal muss der Administrator einige Listen oder Tabellen pflegen, aber das ist viel weniger Arbeit als wenn er alles von Hand machen müsste, was sehr viel zeitaufwendiger wäre, besonders in einem großen Netzwerk mit vielen Geräten. 
+
+Im Grunde gesagt: Der Server hilft viel und macht die Arbeit für den Administrator einfacher, auch wenn es ein bisschen Wartung braucht.

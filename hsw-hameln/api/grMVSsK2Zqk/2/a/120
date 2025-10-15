@@ -1,0 +1,3 @@
+Die Aussage bedeutet, dass es in einem bestimmten Bereich von IP-Adressen eine Auswahl gibt, aus der jedes Gerät, das eine IP-Adresse benötigt, eine Adresse bekommt. Diese Adressen werden zufällig oder nach bestimmten Regeln vergeben. 
+
+Der Vorteil davon ist, dass jede IP-Adresse nur einmal vergeben wird. Das hilft, Verwirrung zu vermeiden, weil kein Gerät die gleiche Adresse haben kann. So können alle Geräte im Netzwerk gut miteinander kommunizieren, ohne dass es zu Problemen kommt.

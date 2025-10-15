@@ -1,0 +1,5 @@
+Die Aussage bedeutet, dass es wichtig ist, dass jede IP-Adresse in einem Netzwerk nur einmal vergeben wird. Das sorgt dafür, dass kein Gerät die gleiche Adresse hat wie ein anderes. 
+
+Ein Server, der DHCP heißt, hilft dabei. Er sorgt dafür, dass jedes Gerät, das sich mit dem Netzwerk verbindet, automatisch eine neue und einzigartige IP-Adresse bekommt. Das passiert, ohne dass jemand manuell eingreifen muss. 
+
+Wenn jemand die IP-Adressen selbst von Hand vergeben würde, könnte er aus Versehen zwei Geräten die gleiche Adresse geben. Das würde Probleme im Netzwerk verursachen. Der DHCP-Server verhindert das, indem er nur freie IP-Adressen Vergibt und jeder eine eigene Adresse erhält.
