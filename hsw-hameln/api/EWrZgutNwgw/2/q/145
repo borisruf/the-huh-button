@@ -1,0 +1,1 @@
+ Ich habe also zwei Datenbankserver, die einen gemeinsamen Datenpool zur Verfügung stellen.   Und auf diese beiden Server kann ich quasi transparent zugreifen, wenn es sich um einen Datenverbund handelt.

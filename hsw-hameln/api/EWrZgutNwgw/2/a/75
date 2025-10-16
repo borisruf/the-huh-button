@@ -1,0 +1,9 @@
+Ein Netzwerk besteht aus verschiedenen Teilen, die zusammenarbeiten können. Diese Teile sind:
+
+1. **Endgeräte**: Das sind die Geräte, die wir benutzen, zum Beispiel Computer, Smartphones oder Drucker.
+2. **Leitungswege**: Das sind die Verbindungen, über die die Geräte miteinander kommunizieren. Das können Kabel oder Funkverbindungen sein.
+3. **Vermittlungsstruktur**: Das sind Systeme, die helfen, Informationen von einem Gerät zum anderen zu senden. 
+
+Zusätzlich zu diesen physischen Teilen gibt es auch eine Art "Regeln" oder Abmachungen, die festlegen, wie die Geräte miteinander sprechen. Diese Abmachungen nennt man "Protokolle". 
+
+Zusammen ermöglichen diese Teile und Regeln, dass die Geräte in einem Netzwerk gut zusammenarbeiten können.

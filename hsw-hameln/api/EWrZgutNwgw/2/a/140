@@ -1,0 +1,8 @@
+Die Aussage beschreibt, wie zwei Datenbankserver zusammenarbeiten können, um ihre Daten zu teilen. Man kann sich das wie zwei große Bücher vorstellen, die viele Informationen haben. Wenn beide Bücher ihre Informationen miteinander teilen, können wir auf einen größeren Vorrat an Wissen zugreifen. 
+
+Das wichtigste ist: 
+
+- **Zwei Server**: Das sind wie zwei große Computer, die Daten speichern.
+- **Gemeinsamer Datenpool**: Das bedeutet, dass beide Server zusammenarbeiten und Informationen teilen, sodass wir nicht zwei verschiedene Datenmengen haben, sondern eine große, die auf beiden Servern verfügbar ist. 
+
+So wird es einfacher, Informationen zu finden und zu nutzen.

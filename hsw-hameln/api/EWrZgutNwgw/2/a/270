@@ -1,0 +1,5 @@
+Okay, ich erkläre die Aussage ganz einfach:
+
+Wenn viele Leute gleichzeitig einen Online-Dienst nutzen wollen, zum Beispiel eine Webseite, können die Anfragen auf mehrere Computer verteilt werden. Das nennt man Lastverteilung. So wird verhindert, dass ein einzelner Computer überlastet wird, während andere weniger ausgelastet sind. Das hilft, dass alles schnell lädt und gut funktioniert. 
+
+Das sind wichtige Ziele, wenn wir ein Netzwerk aufbauen.

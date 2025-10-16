@@ -1,0 +1,5 @@
+Wenn wir über Netzwerke sprechen, gibt es viele wichtige Dinge, die wir beachten müssen. Ein einfaches Beispiel ist, dass man bei Gesprächen über das Internet, wie bei Voice-over-IP, warten muss, bis die Sprache ankommt. Wenn die Verzögerung länger als 50 Millisekunden ist, wird das Sprechen schwierig und man kann nicht gut miteinander reden. 
+
+Das bedeutet, der Computer oder das Telefon muss die Informationen sehr schnell senden und empfangen, damit alles flüssig und ohne Unterbrechungen läuft. Wenn die Verbindung nicht schnell genug ist, wird das Gespräch gestört und es ist schwer, sich zu verstehen. 
+
+In einfachen Worten: Für Echtzeit-Gespräche, wie beim Telefonieren über das Internet, darf die Zeit, die es braucht, um die Stimme zu übertragen, nicht zu lang sein. Überraschungen in der Verzögerung von mehr als 50 Millisekunden machen das Sprechen schwer.

@@ -1,0 +1,1 @@
+ Also wenn ich Verzögerungen habe, die mehr als 50 Millisekunden dauert, dann kann ich sie für eine Echtzeit- Anwendung nicht benutzen.  Das heißt, bei Voice-over-IP muss ich Verzögerungen, Latenzen haben, die geringer als 50 Millisekunden sind.

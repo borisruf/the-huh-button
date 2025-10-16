@@ -1,0 +1,20 @@
+Stell dir vor, ein Netzwerk ist wie ein großes Team von Leuten, die gemeinsam an einem Projekt arbeiten. Jeder im Team hat spezielle Aufgaben, und zusammen erreichen sie mehr.
+
+1. **Netzwerk**: Das ist wie das Team. Es besteht aus verschiedenen Teilen: 
+   - **Endgeräte**: Das sind die Leute, die mitarbeiten, z. B. Computer, Smartphones.
+   - **Leitungen/Weg**: Das sind die Wege, über die sie miteinander sprechen, z. B. Kabel oder Funk.
+   - **Vermittler**: Das sind die Personen, die dafür sorgen, dass die Kommunikation klappt, z. B. Router oder Switches.
+
+2. **Ziele**: In einem Netzwerk wollen wir:
+   - Informationen einfach teilen.
+   - Flexibel miteinander kommunizieren und zusammenarbeiten.
+   - Die vorhandenen Dinge (Ressourcen), wie Server oder Drucker, gemeinsam nutzen.
+
+3. **Zusätzliche Vorteile**: Wenn mehrere Geräte zusammenarbeiten, ergeben sich besondere Vorteile:
+   - **Datenverbund**: Mehrere Datenbankserver können die gleichen Daten speichern. Das bedeutet, du weißt nicht, auf welchem Server die Daten liegen – du greifst einfach darauf zu.
+   - **Verfügbarkeitsverbund**: Wenn ein Server kaputt geht, kann ein anderer die Arbeit übernehmen. So bleibt alles sicher und zuverlässig.
+   - **Funktionsverbund**: Hier arbeiten verschiedene Server zusammen, die unterschiedliche Dienste anbieten, wie E-Mail und Webseiten. Du kannst beides nutzen, ohne zu merken, wo es herkommt.
+
+4. **Leistungsverbund**: Das ist ein weiteres Beispiel. Wenn ich eine Anwendung (App) brauche, kann ich mehrere Server nutzen, um sie mit mehr Leistung auszuführen. Das bedeutet, die App läuft schneller und effizienter, weil mehrere Server zusammenarbeiten.
+
+Zusammengefasst: In einem Netzwerk arbeiten viele Geräte und Programme gemeinsam. Sie teilen Informationen und Ressourcen, um alles einfacher und schneller zu machen. Mit besonderen Verbindungen können sie sicher und effektiv arbeiten, egal was passiert.

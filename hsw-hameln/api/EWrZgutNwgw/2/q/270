@@ -1,0 +1,1 @@
+ Das heißt also, wenn in einem Netzwerk verschiedene Anfragen kommen, um zum Beispiel einen Web-Dienst zu nutzen, dann bestünde die Möglichkeit, über ein Lastverteilungssystem die Last jeweils auf den entsprechenden weniger ausgelasteten Server zu verteilen.   Das wären also klassische Ziele, die wir mit einem Aufbau eines Netzwerkes verbinden.

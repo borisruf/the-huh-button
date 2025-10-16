@@ -1,0 +1,19 @@
+Das Stück Text erklärt, was Netzwerke sind und warum sie wichtig sind. Ich werde es einfacher erklären:
+
+Ein Netzwerk ist wie ein großes System, das verschiedene Geräte miteinander verbindet, zum Beispiel Computer oder Drucker. Um ein Netzwerk zu haben, braucht man drei Dinge:
+
+1. **Endgeräte**: Das sind die Geräte, die wir nutzen, wie Computer oder Smartphones.
+2. **Verbindungswege**: Das sind die Kabel oder Funkverbindungen, die die Geräte miteinander verbinden.
+3. **Vermittlungseinrichtungen**: Das sind die Geräte, die helfen, dass die Informationen zwischen den Endgeräten richtig weitergeleitet werden.
+
+Das Ziel von Netzwerken ist es, dass die Leute und die Geräte schnell und einfach Informationen austauschen können. Außerdem kann man Ressourcen, wie Drucker oder Datenbanken, gemeinsam nutzen. Wenn viele Geräte zusammenarbeiten, geschieht das oft viel schneller und besser, als wenn jedes Gerät alleine arbeitet.
+
+Es gibt verschiedene Arten, wie Netzwerke nützlich sein können:
+
+- **Datenverbund**: Mehrere Server teilen sich Daten, sodass man nicht weiß, auf welchem Server die Daten sind.
+- **Verfügbarkeitsverbund**: Wenn ein Server kaputt geht, übernimmt ein anderer Server die Arbeit, damit alles weiterläuft.
+- **Funktionsverbund**: Verschiedene Dienste (wie E-Mail und Webseiten) können gemeinsam genutzt werden, ohne dass der Nutzer merkt, auf welchem Server sie laufen.
+- **Leistungsverbund**: Mehrere Server arbeiten zusammen, um viel Leistung zu bieten, zum Beispiel bei Software, die viele Nutzer gleichzeitig braucht.
+- **Lastverbund**: Wenn viele Leute gleichzeitig auf einen Dienst zugreifen wollen (wie eine Webseite), wird die Arbeit auf verschiedene Server verteilt, um die Last zu verringern.
+
+Zusätzlich gibt es noch andere wichtige Ziele für Netzwerke, wie zum Beispiel im E-Commerce, wo man im Internet Dinge kaufen und verkaufen kann.

@@ -1,0 +1,17 @@
+In einfacher Sprache:
+
+Ein Netzwerk ist wie eine Gruppe von Geräten, die miteinander arbeiten. Um diese Geräte zu verbinden, brauchen wir Kabel oder Funk und etwas, das hilft, Informationen richtig zu senden, wie einen Router.
+
+Es gibt verschiedene Arten, wie diese Netzwerke arbeiten können:
+
+1. **Datenverbund**: Hier haben wir mehrere Datenbanken, aus denen wir Daten bekommen. Wir merken nicht, wo die Daten gespeichert sind, weil alles zusammenarbeitet.
+
+2. **Verfügbarkeitsverbund**: Wenn ein Server kaputtgeht, kann ein anderer Server die Aufgaben übernehmen. So sind die Dienste immer bereit und sicher.
+
+3. **Funktionsverbund**: Hier gibt es verschiedene Funktionen, wie E-Mail und Webseiten, die zusammenarbeiten, egal wo sie gespeichert sind. Der Benutzer merkt nicht, wo etwas ist, es funktioniert alles zusammen.
+
+4. **Leistungsverbund**: Wenn viele Menschen gleichzeitig eine Software nutzen, teilen mehrere Server die Arbeit, damit alles schnell läuft.
+
+5. **Lastverbund**: (Dieser Teil wurde nicht erklärt, so dass keine einfachen Worte gegeben werden können. Aber es geht darum, die Arbeit, die auf verschiedenen Servern verteilt wird, sodass keiner überlastet wird.) 
+
+Diese Verbünde helfen, dass das Netzwerk gut funktioniert und alle Dienste sicher und schnell sind.

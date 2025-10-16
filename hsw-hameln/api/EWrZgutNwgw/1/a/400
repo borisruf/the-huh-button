@@ -1,0 +1,7 @@
+Die Aussage verweist auf zwei wesentliche Aspekte im Kontext der Netzwerktechnologie: Zuverlässigkeit und Isochronität. 
+
+Zuverlässigkeit bezeichnet die Fähigkeit eines Netzwerks, konstant und fehlerfrei Dienste bereitzustellen, auch im Falle von Störungen oder Serverausfällen. Durch Mechanismen wie Replikation und Verfügbarkeitsverbünde wird sichergestellt, dass Benutzer ohne Unterbrechungen auf benötigte Ressourcen zugreifen können.
+
+Isochronität hingegen betrifft die zeitliche Genauigkeit und Vorhersehbarkeit der Datenübertragung, insbesondere bei Echtzeitanwendungen wie VoIP oder Video-Streaming. Hier ist es entscheidend, dass Datenpakete in einem festen zeitlichen Rahmen ankommen, um eine unterbrechungsfreie Kommunikation zu gewährleisten.
+
+Zusammengefasst bedeutet die Aussage, dass Netzwerke sowohl robust (in Bezug auf Zuverlässigkeit) als auch präzise (in Bezug auf Isochronität) sein müssen, um den Anforderungen moderner Anwendungen gerecht werden zu können.

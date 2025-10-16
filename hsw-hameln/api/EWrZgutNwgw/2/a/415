@@ -1,0 +1,3 @@
+Isochronität bedeutet, dass es wichtig ist, wie schnell Informationen im Netzwerk versendet werden. Wenn ich etwas in Echtzeit machen möchte, wie zum Beispiel ein Video oder ein Online-Spiel, muss die Kommunikation sehr schnell sein. 
+
+Wenn es eine Verzögerung gibt, die länger als 50 Millisekunden dauert, ist das zu lang. Dann kann ich die Verbindung nicht nutzen, weil alles zu langsam wäre. Für Echtzeitanwendungen ist es entscheidend, dass die Informationen so schnell wie möglich ankommen, sonst macht es keinen Spaß oder es funktioniert nicht richtig.

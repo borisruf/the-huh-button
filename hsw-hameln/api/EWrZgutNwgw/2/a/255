@@ -1,0 +1,15 @@
+In der Technik reden wir oft über Netzwerke, die aus verschiedenen Teilen bestehen. Jedes Netzwerk hat Geräte, die miteinander verbunden sind, wie Computer oder Drucker, und Wege, über die sie kommunizieren, wie Kabel oder Funk.
+
+Es gibt verschiedene Arten von Zusammenarbeiten in Netzwerken, die wir "Verbund" nennen. Diese helfen, Dinge effektiver zu erledigen. Hier sind einige Arten von Verbünden:
+
+1. **Datenverbund**: Mehrere Datenbank-Server teilen sich die gleichen Informationen. Nutzer können einfach auf die Daten zugreifen, ohne sich darum kümmern zu müssen, wo diese genau liegen.
+
+2. **Verfügbarkeitsverbund**: Wenn ein Server kaputtgeht, kann ein anderer Server die Arbeit übernehmen. Das macht das System sicherer und zuverlässiger.
+
+3. **Funktionsverbund**: Unterschiedliche Aufgaben oder Dienste, wie E-Mails und Webseiten, werden in einem Netzwerk zusammen angeboten. Nutzer merken oft nicht, auf welchem Gerät die Dienste laufen, es funktioniert einfach alles zusammen.
+
+4. **Leistungsverbund**: Hier arbeiten mehrere Server zusammen, um eine Anwendung zu unterstützen. Wenn viele Leute gleichzeitig etwas machen wollen, teilen sich die Server die Aufgaben, damit alles schnell und gut läuft.
+
+5. **Lastverbund**: Das bedeutet, dass die Arbeit oder der "Last" auf mehrere Server verteilt wird, um sicherzustellen, dass keiner überlastet wird und alles flüssig bleibt.
+
+Diese Verbünde helfen, die Nutzung der Technik einfacher, schneller und zuverlässiger zu machen.
